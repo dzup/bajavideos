@@ -1,0 +1,1357 @@
+{2487}{2552}COMMON WEALTH
+{5081}{5155}I heard you.|You have a job in a disco.
+{5159}{5216}Doing what, the accounting?
+{5225}{5255}The door?
+{5267}{5350}As a bouncer? Are you nuts?|You could get killed!
+{5363}{5420}Tell me about it later.
+{5429}{5509}Don't get angry.|You just never stop calling me.
+{5513}{5563}I'm sorry. Yes.
+{5567}{5619}Yes, I love you a lot.
+{5626}{5719}I'm nervous about the flat.|I haven't sold a single one.
+{5723}{5798}Yes, it started well,|but after that...
+{5822}{5925}Also, some clients have been|waiting for me
+{5929}{6008}for a half hour|in this freezing weather.
+{6012}{6117}It's pouring and I'm dressed up.|You're lucky.
+{6126}{6185}You can wear|a jogging suit to work.
+{6217}{6255}What? A tuxedo?
+{6271}{6354}You had to rent one?|Are you crazy or what?
+{6363}{6416}They have to pay for that.
+{6425}{6497}You think firemen|buy their helmets?
+{6507}{6603}We'll talk about it later.|Okay, honey.
+{6620}{6662}I love you a lot!
+{6667}{6714}Yes, bye.
+{6719}{6765}He's such a pain!
+{7025}{7072}Luis?|Julia, from the agency.
+{7076}{7138}Excuse me, I was|talking to a client
+{7142}{7231}who's interested in this flat.|Did I say it was amazing?
+{7255}{7304}- Yes, you did.|- On the phone.
+{7469}{7568}Well, well, well.|Here are the super-advantages.
+{7572}{7641}One, near the subway.|Two, downtown.
+{7645}{7712}Three, there are schools|for the kids,
+{7716}{7782}and four, parks|where they can play.
+{7786}{7855}- We don't have kids.|- You don't? Good.
+{7859}{7965}Me neither. It leaves you free to go|to the movies or to a bingo parlor.
+{7969}{8046}I don't play bingo,|it was just an example.
+{8050}{8115}You can walk|anywhere from here.
+{8119}{8186}- So there's no garage?|- No.
+{8190}{8236}There's no... garage.
+{8276}{8310}Let's see.
+{8318}{8374}This is it. By the way,
+{8378}{8417}I wanted to warn you
+{8421}{8530}that these old flats usually|have old furniture
+{8539}{8570}and that funny
+{8574}{8616}seventies wallpaper...
+{8626}{8674}I can imagine it. Let's go.
+{8678}{8772}That's what I mean, you have|to use your imagination.
+{8776}{8814}They usually belong
+{8818}{8909}to elderly people.|Sometimes they smell bad...
+{8998}{9062}But not in this case.|Look at that.
+{9086}{9122}This is your typical
+{9126}{9203}amazing flat, period.|It's what we call
+{9207}{9271}"ready to live in".|And it's completely furnished.
+{9275}{9365}It has pictures, lamps,|a TV, a radio,
+{9369}{9431}a sofa...|I think it's a sofa bed.
+{9435}{9511}No, it's a sofa sofa,|and a good one.
+{9519}{9555}This looks like leather.
+{9581}{9674}High-quality! Not like mine,|which is like a beach chair.
+{9706}{9770}Every time I show|someone this flat,
+{9775}{9815}I want it for myself.
+{9821}{9919}Though to each his own|and I won't pressure you.
+{9923}{9965}- The owner lives here?|- The owner?
+{9969}{10057}What owner? I don't think so.|No, it says it's free.
+{10061}{10141}You can sign for it and|come live here tomorrow.
+{10145}{10180}What do you think?
+{10184}{10235}Can we see the other rooms?
+{10239}{10318}Of course, no problem.|Let's see the bedroom.
+{10372}{10454}But first, the closet.|Lots of room.
+{10460}{10513}The bedroom, I think...
+{10569}{10658}What a beautiful bed!|It must be king size.
+{10673}{10727}A waterbed, like in Las Vegas!
+{10731}{10757}What's the price?
+{10765}{10841}Not that I've ever|been in Las Vegas.
+{10845}{10880}But this is nice.
+{10916}{11003}And if you get seasick,|you can turn it off.
+{11007}{11084}I imagine. There must be|a button somewhere.
+{11091}{11129}And the price?
+{11147}{11191}Didn't they tell you?
+{11239}{11344}Think about it, anyway.|I'll give you my card...
+{11666}{11698}Not too much...
+{11723}{11807}Her, it was her....
+{11897}{11955}You're like|a ventriloquist's dummy!
+{11959}{12038}Go ahead, laugh.|What a day I've had!
+{12042}{12121}I get a cab at the disco,|and guess who I meet?
+{12125}{12182}- Who?|- Antonio Pesadas.
+{12186}{12274}Pesadas who worked with me|at the insurance company.
+{12278}{12315}Right. He was unbearable.
+{12319}{12398}Well, he still is.|But now he's a taxi driver.
+{12402}{12459}- He got laid off, too.|- Just like you.
+{12463}{12564}I didn't get fired for doing|something wrong. It was downsizing.
+{12568}{12647}Right. He was|superfluous, too.
+{12651}{12698}I don't knowwhat he was.
+{12702}{12767}But if you mean|I'm "superfluous"...
+{12771}{12858}Please. It was four years ago.|Forget it.
+{12862}{12916}But you keep reminding me.
+{12920}{13015}You're saying I lost my job|because I was superfluous.
+{13044}{13114}Listen: maybe Pesadas|was superfluous,
+{13118}{13191}but I wasn't, I was essential.
+{13274}{13322}What's all this?
+{13369}{13409}It's a romantic dinner.
+{13413}{13462}But... whose flat is this?
+{13466}{13576}Nobody's. But since I'm|the only one with a key...
+{13580}{13615}Let's see if I get it.
+{13623}{13717}This is one of the agency flats,|and you're cooking in it?
+{13737}{13814}Don't start acting|like you were my father.
+{13818}{13924}I'm not. But you do whatever you|want without checking with me!
+{13928}{13964}Acting like your father...
+{13968}{14069}Ricardo, we'll clean up afterwards|and they won't find out.
+{14073}{14127}- They will and they'll fire you.|- So what?
+{14131}{14217}Let them. It's only|a 15-day temp job.
+{14221}{14298}And it's worth it.|It has a Jacuzzi.
+{14302}{14318}A what?
+{14328}{14363}A hot tub, Ricardo.
+{14379}{14405}And a sauna,
+{14411}{14453}a Finnish sauna.
+{14457}{14502}You sure it's Finnish?
+{14515}{14550}And the best part is...
+{14600}{14626}Come on.
+{14699}{14752}- lt moves!|- It's a waterbed.
+{14756}{14821}You can change the temperature.
+{14825}{14886}What if you want it to stop?
+{14890}{14946}There must be|a button somewhere.
+{14950}{14977}Wait, wait...
+{15004}{15030}Stop!
+{15265}{15356}Julia, you know I need|to be relaxed for this.
+{15362}{15431}We've waited|six months for you to relax!
+{15435}{15510}That long?|Try to understand.
+{15514}{15569}Someone could|come in any time.
+{15573}{15674}We're alone.|You'll relax, leave it to me.
+{15688}{15756}- What's that noise?|- The pipes.
+{15760}{15800}It's the neighbor's TV.
+{15804}{15882}You can hear it perfectly.|The walls are thin.
+{15886}{15948}Forget about it|and concentrate.
+{15961}{16049}If we can hear them,|they can hear us.
+{16053}{16122}Stop being paranoid.|Let them hear us.
+{16126}{16179}They'll get off on it.
+{16552}{16580}Get it off of me!
+{16619}{16659}What now?
+{16663}{16690}That's disgusting!
+{16694}{16730}Where did they come from?
+{16734}{16785}I told you we shouldn't be here.
+{16796}{16904}Don't start with your Jesuit school|guilt complex, Ricardo!
+{16908}{16947}But we are guilty.
+{16951}{17007}Okay, we're guilty.
+{17011}{17093}We're fornicating|like degenerate beasts,
+{17097}{17173}but the cockroaches|don't knowthat!
+{17177}{17233}You're driving me crazy!
+{17243}{17272}You're right, sorry.
+{17281}{17341}But they really give me|the creeps.
+{17346}{17385}Me too, believe me.
+{17389}{17435}We'll close the door,
+{17439}{17492}go into the living room...
+{17496}{17558}...Clean up and go home.|Please, Julia.
+{17562}{17583}No.
+{17587}{17615}We'll stay here.
+{17619}{17646}Why?
+{17650}{17732}Because I say so.|Our house is freezing,
+{17736}{17788}and this is a special night.
+{17800}{17873}Yeah, Walpurgis night.
+{17916}{17992}- Julia...|- You don't feel like it.
+{17996}{18076}- You don't mind, do you?|- No, not at all.
+{18082}{18147}We're like Krishnas.|Tomorrowwe'll beg in the park.
+{18151}{18211}That would be better.|In the disco,
+{18215}{18286}this 12-year-old|with baggy pants
+{18290}{18369}said he'd kill me|because I asked for his lD.
+{18373}{18457}Who would ever hire you|as a bouncer?
+{18461}{18539}I told the temp agency|I would do anything.
+{18543}{18580}Should I turn on the TV?
+{18584}{18640}The neighbor's isn't enough?
+{18644}{18706}What a great romantic dinner.
+{18775}{18850}The vulture,|nature's gravedigger,
+{18854}{18890}devours the dead.
+{18909}{18969}When one vulture|finds a carcass,
+{18987}{19051}twenty more appear|to share it.
+{19055}{19104}A voracious jackal joins them.
+{19110}{19204}The somber party continues|until nothing's left.
+{19348}{19374}Hello?
+{19407}{19488}God! Richard!|Richard, wake up!
+{19614}{19663}God, the 9:00 people!
+{19674}{19711}Richard, wake up!
+{19715}{19747}Just a little more...
+{19751}{19810}Nowyou feel affectionate?|Men!
+{19814}{19887}We have time for a quickie.
+{19891}{19923}To dress quickly.
+{19927}{19960}- What's that?|- The doorbell.
+{19964}{20012}- Who is it?|- A client, damnit!
+{20016}{20051}I have to explain everything.
+{20073}{20140}- Great. Always in a hurry.|- Carlos Manzanares?
+{20144}{20209}Julia García.|I was expecting you.
+{20213}{20287}First, the location.|Here are the super-advantages.
+{20291}{20330}One, near the subway.|Two,
+{20334}{20417}downtown. Three, schools|for the kids, and four,
+{20421}{20458}parks where they can play.
+{20462}{20494}Fantastic.
+{20793}{20867}High-quality leather.|A sofa to last a lifetime.
+{20871}{20909}- What's this?|- Look.
+{20913}{20967}- Stains just wipe off.|- Right.
+{20971}{21031}Let me showyou|the bedroom.
+{21039}{21107}No, let me showyou|the kitchen.
+{21111}{21177}Fully equipped,|it even has a toaster.
+{21225}{21268}I said you should see
+{21272}{21296}the kitchen.
+{21300}{21359}- What is this?|- A dampness problem.
+{21384}{21429}- Who are you calling?|- The fire department.
+{21433}{21502}There's no need to.|We can fix this.
+{21506}{21544}A stitch in time...
+{21548}{21635}The man upstairs must|have left a faucet on.
+{21639}{21691}If the agency finds out...
+{21818}{21850}Stop, it's here!
+{21889}{21924}Come on, quickly!
+{22012}{22092}- What's going on?|- Today is the day, Encarna.
+{22096}{22175}- The old man? No!|- Yes. Something bad has happened.
+{22179}{22237}I've prayed for this moment!
+{22241}{22294}I hope it's not a false alarm.
+{22298}{22329}God forbid.
+{22429}{22505}They must have|left a faucet on.
+{22509}{22560}- Let's see...|- This is my flat!
+{22564}{22626}No, excuse me.|That's the door.
+{22630}{22714}Let's see. Please.|Get back, we need room.
+{22722}{22748}Ma'am, please!
+{22779}{22821}Have you nothing to do?
+{22981}{23011}What's up?
+{23034}{23110}Don't come out|dressed like a drag queen!
+{23191}{23222}Ring first.
+{23235}{23268}Mind your own business.
+{23275}{23312}Yes, you should ring.
+{23327}{23424}What the fuck did you call us for?|To ring the bell?
+{23445}{23507}- I didn't call you.|- lgnore her.
+{23511}{23578}- What if he's asleep?|- Asleep? Bullshit!
+{23585}{23670}Besides, he never opens|the door, even if you ring.
+{23680}{23728}He's a dangerous lunatic.
+{23734}{23809}He'll leave the gas on someday|and blowus up.
+{23814}{23876}- Hit it!|- Ma'am!
+{23880}{23927}Don't touch my ax,
+{23931}{23959}damnit!
+{24007}{24043}It must be bolted.
+{24076}{24132}- With a iron bar.|- And chains.
+{24136}{24185}They haven't gone in yet?
+{24189}{24246}They're trying.|Tell María and Salas.
+{24250}{24342}This isn't a circus.|Who the hell is the manager?
+{24346}{24432}He's not here. He took|his kids to Disneyland.
+{24436}{24511}In Paris,|not the "Wals Dineys" one.
+{24526}{24582}It had to happen today.|Bad luck.
+{24586}{24629}- Aren't you the manager?|- No, no.
+{24662}{24712}Who's she?|Who are you?
+{24724}{24763}We don't know her.
+{24767}{24817}She bought the engineer's flat.
+{24828}{24859}Well, "bought"...
+{24863}{24921}Julián Chueca,|from the videoclub.
+{24925}{25006}Nice to meet you.|We met your husband
+{25010}{25050}downstairs at the door.
+{25075}{25107}He's very elegant.
+{25128}{25206}- He's a croupier in a casino.|- Really?
+{25210}{25286}He said he was going|to a disco.
+{25300}{25349}Well, it's a disco-casino.
+{25401}{25438}What do you think?
+{25474}{25500}The Rotaflex.
+{25740}{25787}Okay, everyone downstairs.
+{25803}{25840}I'm surfing the net...
+{25844}{25883}Everyone downstairs.
+{25887}{25967}My son's right. Why can't we|stay if we live here?
+{25971}{26020}Because I say so, okay?
+{26024}{26084}- No need to get cocky.|- Downstairs!
+{26088}{26125}- It's our home!|- She's staying!
+{26154}{26253}What a stench!|What is all this fucking shit?
+{26819}{26846}Disgusting!
+{26850}{26934}- Where did you come from?|- My flat. The door was open.
+{26938}{27014}Stay out of our way.|This is no joke.
+{27143}{27217}There's the leak.|It must be a broken pipe.
+{27229}{27289}How could someone|live like this?
+{27293}{27344}I didn't know him.
+{27350}{27378}You hear that?
+{27870}{27930}Here's our friend,|watching TV.
+{28150}{28174}God!
+{28267}{28339}- What are you doing here?|- He's dead!
+{28352}{28393}Of course he's dead.
+{28406}{28470}We see this every month.
+{28530}{28570}He died weeks ago.
+{28576}{28657}He was alone, with no family|to look after him.
+{28689}{28743}- What's that smell?|- That smell...
+{28754}{28804}is the smell of rotting flesh.
+{28823}{28912}The cat has probably been|feeding on the body,
+{28925}{28968}and I can assure you,
+{28972}{29021}it's not a pretty sight.
+{29025}{29049}Paco!
+{29053}{29088}Cut the bullshit.
+{29687}{29718}Hey?
+{29939}{29983}Are you there?
+{30147}{30173}What are you doing?
+{30221}{30245}What are you looking for?
+{30313}{30421}Fifteen men|on a dead man's chest.
+{30436}{30509}Ho, ho, ho, and a bottle
+{30520}{30546}of rum.
+{30637}{30678}Up. What are you doing?
+{30697}{30750}Fuck, we'll have to bend him.
+{30754}{30814}Bend him?|Just raise him a bit.
+{30822}{30861}There we go.
+{30895}{30935}He was snobbish and thin.
+{30957}{31020}- Hold on, ma'am, he's falling!|- Over here.
+{31024}{31054}Have a toke, Juanillo.
+{31058}{31123}Always so proud,|and look at him now.
+{31127}{31171}God fucking damn it!
+{31175}{31211}Calm down.
+{31215}{31244}Come on!
+{31346}{31372}Slow down, Toni!
+{31389}{31423}This guy stinks!
+{31490}{31539}- Finally! That bastard.|- You sure he's dead?
+{31543}{31613}That's enough already!|Ladies!
+{31652}{31716}There's no need to push us.
+{31754}{31780}Is that her?
+{31800}{31840}The one in the suit.
+{31844}{31884}How did she get in?
+{31888}{31940}She called the fire department.
+{31944}{31984}The bitch!
+{32371}{32411}A crossword puzzle?
+{32785}{32811}Hello?
+{32825}{32859}Hi, dear.
+{32877}{32944}No, I'm in a café.
+{32977}{33077}Yes, the firemen came.|It was a pipe or something.
+{33119}{33215}Did you tell people it was our|flat? They think we live here,
+{33219}{33251}I mean, there.
+{33258}{33329}No, if they see we're not there,
+{33333}{33388}the agency might find out.
+{33392}{33464}So I should spend|the night.
+{33470}{33558}Are you going home?|Okay, I'll see you tomorrow.
+{33582}{33670}Careful with the kid|in baggy pants. Bye.
+{34238}{34287}The secret is Mr. Clean.
+{34371}{34408}It's a cinch!
+{34458}{34479}Great!
+{34483}{34566}You scrubbed|everything but my back.
+{34571}{34657}Mr. Clean does|the hard work for you.
+{34661}{34736}The secret is Mr. Clean.
+{35687}{35750}If Ricardo knew, he'd kill me.
+{35848}{35903}Fifteen men
+{35907}{35987}on a dead man's chest.
+{36000}{36052}Ho, ho, ho,
+{36059}{36119}and a bottle of rum.
+{36160}{36186}It's loose!
+{38609}{38634}What's going on?
+{38691}{38752}I must talk to that woman.
+{38756}{38851}With a knife? You're crazy, Castro.|Give it to me.
+{38856}{38899}You'll ruin everything!
+{39469}{39528}What is it? Is it her?
+{39532}{39580}Shut up! I can't hear.
+{39625}{39651}Let me see!
+{39680}{39732}Get back, Castro.
+{39754}{39803}Just settle down.
+{39879}{39935}- Well?|- Excuse me?
+{39950}{39980}Taking out the trash?
+{40000}{40075}Yes. There's a lot|when you're moving in.
+{40079}{40112}Wait a second.
+{40137}{40167}Stay right there.
+{40267}{40292}Don't worry.
+{40296}{40351}- I'll take it down.|- No, no.
+{40355}{40423}- I'll go with you.|- I don't mind.
+{40438}{40468}But I do.
+{40601}{40661}- How's your husband?|- He's exhausted.
+{40665}{40737}- You knowwhat moving's like.|- No, I don't.
+{40743}{40807}I was born and will die|in this building.
+{40821}{40861}I didn't see you bring
+{40865}{40901}too many things.
+{40905}{40965}The flat was ready|to live in.
+{40969}{41026}- Did you knowthe engineer?|- Who?
+{41037}{41067}The previous owner.
+{41071}{41126}No, I got it|through an agency.
+{41130}{41185}I'd never use an agency!
+{41189}{41254}- Why not?|- They're all thieves.
+{41269}{41317}They take your money|without doing anything.
+{41892}{41923}- Shall we go up?|- No.
+{41927}{42000}I have to buy some cigarettes.
+{42013}{42048}Cigarettes...
+{42488}{42556}- No, no! Wait!|- What?
+{42562}{42614}It's just paper.
+{42628}{42665}Hold on!
+{42669}{42728}My husband's into recycling.
+{42742}{42793}Recycling, recycling...
+{43331}{43417}That's two hundred bills worth|5,000 pesetas
+{43421}{43529}in each bunch|and there are 300 bunches,
+{43537}{43564}that makes...
+{43659}{43701}300 million pesetas.
+{43998}{44032}Calm.
+{44071}{44109}I'm a mature woman.
+{44133}{44190}This is just something|that happened.
+{44200}{44255}I have to accept it as normal.
+{44318}{44362}I won't lose control.
+{44379}{44404}No.
+{44448}{44537}I'm a multimillionaire,|that's all.
+{44609}{44683}I'm totally rich.
+{44734}{44775}Without spending a penny,
+{44784}{44841}I could live off the interest
+{44854}{44899}and never work again.
+{44945}{45044}I could go around the world|as many times as I can take.
+{45091}{45155}Is this going to affect me?
+{45219}{45246}No.
+{45265}{45306}I'm the same as always.
+{45311}{45378}A millionaire, but the same.
+{45733}{45764}Why are you here?
+{45776}{45829}- You don't want to see me?|- No!
+{45833}{45889}I mean, yes, but weren't you|going home?
+{45893}{45922}Fine, I'll go.
+{45926}{46013}- Don't be silly. What happened?|- The disco is history.
+{46017}{46071}- They fired you?|- No, I quit!
+{46077}{46125}Why do you always say that?
+{46129}{46201}Did the 12-year-old|do that to you?
+{46205}{46246}Don't. No, worse.
+{46251}{46332}The disco owner,|obeying the kid's father.
+{46349}{46387}I lasted two days.
+{46391}{46455}I'm the king of disco bouncers.
+{46467}{46506}I'm King Kong!
+{46531}{46591}The giant shithead bouncer.
+{46603}{46639}You want a beer?
+{46643}{46707}We have beer here now?|What?
+{46711}{46765}Have we moved in completely?
+{46788}{46869}I have something|important to tell you.
+{46873}{46955}Not tonight. Tell me|the bad news tomorrow.
+{46959}{47020}It's not bad news,|on the contrary.
+{47029}{47109}Imagine something|changing everything.
+{47119}{47185}Everything,|I mean, everything.
+{47196}{47232}A stroke of luck.
+{47251}{47349}Julia, look who|you're talking to here.
+{47371}{47406}I have nothing.
+{47424}{47489}I've been beaten|and humiliated,
+{47498}{47552}I feel ridiculous.
+{47559}{47611}I prefer not|to imagine anything.
+{47631}{47647}Fine.
+{47659}{47710}If you don't want to know...
+{47778}{47822}THE STRONGEST DRUG|lSN'T SPEED
+{47898}{47929}IT'S MONEY
+{47933}{47959}Which is better?
+{47975}{48061}A Rover or a Mercedes?|I'd prefer a Mercedes.
+{48065}{48124}They're classy, elegant.
+{48129}{48172}Yeah, fucking great.
+{48176}{48250}I want to be reincarnated|as a fucker who owns one.
+{48267}{48370}In this life, we'll never|put our asses in one of those.
+{48376}{48441}Unless we catch Pesadas' taxi.
+{48445}{48517}The cocksucker has a Mercedes.
+{48534}{48604}Your character is turning bitter.
+{48608}{48667}You always say|I have no character.
+{48684}{48745}What you didn't have was bitterness.
+{48756}{48848}Now I'm embittered.|That's what you're calling me!
+{48852}{48955}What about you? Always|looking over my shoulder.
+{48974}{49032}- What?|- Don't pretend to be offended.
+{49040}{49107}Always saying people|can't put up with me.
+{49117}{49165}"What, fired again?"
+{49177}{49207}What are you saying?
+{49220}{49251}You heard me.
+{49279}{49366}Look. Just because|things aren't going well
+{49370}{49457}doesn't give you|the right to be rude.
+{49481}{49530}For years, "Mr. Rude"
+{49534}{49606}has kept our thing afloat.|You knowthat?
+{49617}{49686}- What thing?|- Our thing.
+{49690}{49780}Our relationship, the bills,|the rent, everything!
+{49828}{49855}Look,
+{49866}{49932}Iet's talk about this tomorrow.
+{49974}{50047}We used to live off|my salary, but now
+{50051}{50095}you have to work, too,
+{50099}{50168}and never stop|rubbing my face in it
+{50172}{50267}so that I knowyou're in charge|now. Think I don't get it?
+{50276}{50324}A nice romantic dinner...
+{50328}{50399}Well, my life is going to hell
+{50403}{50464}and I can't buy|an Audi or a Mercedes.
+{50468}{50502}I can't! Okay?
+{50527}{50570}I had good news,
+{50583}{50658}but nowl don't even|feel like telling you!
+{50665}{50736}And I don't feel|like staying here!
+{50741}{50803}- Where are you going?|- Home.
+{50807}{50920}I don't want to stay in this flat|because it's what we'll never have!
+{50925}{50968}You don't realize that.
+{51024}{51097}I'll never have|this flat or that car
+{51101}{51149}or a girl like|the one in the ad!
+{51153}{51235}So you have to settle for|someone like me.
+{51239}{51271}I didn't say that.
+{51275}{51334}Yes, you did, and you meant it.
+{51338}{51446}Well, I have to settle for you|and you for me. So what?
+{51459}{51556}At least I recognize my limitations|and don't expect strokes of luck.
+{51596}{51626}Ricardo!
+{51639}{51665}What?
+{51691}{51751}You're making a huge mistake.
+{52618}{52682}Quique, the lady|needs something.
+{52706}{52733}Everything okay?
+{52737}{52806}The best breakfast|in Madrid, Quique.
+{52810}{52854}Is there a newspaper here?
+{52864}{52903}If there isn't, there will be.
+{52997}{53022}Excuse me...
+{53057}{53125}Napoleon was exiled to Elba,
+{53129}{53167}the Canary lslands,|or Treasure lsland?
+{53178}{53202}What?
+{53217}{53280}The Trivia machine.
+{53295}{53334}Well, it must be Elba.
+{53353}{53379}Okay.
+{53480}{53504}Thank you.
+{53561}{53641}Picking up girls, Charli?|The horny little guy.
+{53674}{53745}I was just asking her|about Napoleon.
+{53749}{53803}His mother gets angry|with me because
+{53807}{53834}he spends
+{53838}{53881}the shopping money on that.
+{53885}{53956}How dare you talk|like that about me!
+{53960}{54005}Charli. Charli, Charli...
+{54009}{54071}My mother has nothing|to do with this.
+{54075}{54106}5th floor, right?
+{54113}{54182}- You're the newneighbor.|- Hi, Charli. I'm Julia.
+{54250}{54331}Nice to meet you.|If you need anything...
+{54399}{54460}I've got to go to the butcher's.
+{54482}{54509}I have number 35.
+{54529}{54572}25 was 10 minutes ago.
+{54923}{54956}That's 1,525 pesetas.
+{54960}{55012}Cheap for Madrid.
+{55216}{55269}- I don't think so.|- It's no good?
+{55276}{55361}It is. With the E.U.,|everything's good.
+{55365}{55405}The bank will change it.
+{55409}{55440}But it's paid for.
+{55444}{55480}Really? By whom?
+{55511}{55575}Oswaldo,|the Cuban dance teacher.
+{55579}{55612}He's really good.
+{55619}{55722}He dances merengue, salsa,|the lambada, that kind of thing...
+{55726}{55763}He's something else.
+{55774}{55846}- Tell him thanks when you see him.|- Okay.
+{55860}{55909}ELDERLY MAN DlES WATCHlNG TV
+{55913}{55988}...ClFUENTES, 88,|WlTH NO KNOWN RELATlVES...
+{56345}{56379}What are you doing?
+{56396}{56424}You're here.
+{56481}{56541}I got it off. Silicon.
+{56545}{56655}Some bastard is blocking|everybody's locks.
+{56681}{56788}Well, you must be busy. I'm|on the 3rd floor if you need me.
+{56792}{56859}And careful,|there's lots of thieves around!
+{57095}{57151}Hello?|Hi, how are you?
+{57161}{57229}I'm in the hospital|with my husband.
+{57233}{57336}He had an accident.|He was beaten up in a disco.
+{57340}{57434}Twenty guys with metal bats.|Right, soccer hooligans.
+{57441}{57491}I don't know. That's why
+{57495}{57546}I didn't go to the office.
+{57553}{57612}Show a flat? Now?
+{57630}{57676}I don't think I can.
+{57701}{57731}Which one?
+{57746}{57798}Other buyers, right.
+{57818}{57860}The "ready to live in" one?
+{57873}{57916}When are they coming?
+{57924}{57955}Now?
+{58025}{58100}Yes, I'll be there|in five minutes.
+{58104}{58165}No, don't send anyone,|I'll go.
+{58169}{58262}It's not serious. His head|or his back or something,
+{58266}{58330}I didn't really understand.|Okay.
+{58334}{58408}Sorry, I'm losing the signal.|Talk to you later.
+{59039}{59087}Hi, Julia García.
+{59091}{59135}Is this a bad time?
+{59139}{59174}Not at all, come in.
+{59238}{59291}Here are the super-advantages.
+{59295}{59404}One, near the subway. But you|look more like taxi type people.
+{59416}{59449}Two, downtown.
+{59453}{59551}Near a bingo parlor. A shot of|anisette and a game or two. Great!
+{59555}{59635}And three. Schools, blah,|blah, blah. Kids, etc.
+{59669}{59705}But you have no kids.
+{59709}{59732}What?
+{59736}{59785}You're into doing "scissors".
+{59789}{59868}- Excuse me?|- She thinks we sew?
+{59873}{59931}"Scissors". It's on your card.
+{59935}{60019}"Lesbian battle-axes|need flat to do scissors."
+{60030}{60089}- Please!|- What's "scissors"?
+{60093}{60162}Well, think about it, then.
+{60168}{60210}We'll keep in touch.
+{60219}{60258}Shut up! Don't you get it?
+{60847}{60873}Hello.
+{60885}{60929}Excuse me. Are you going
+{60933}{60962}on a trip?
+{60970}{61027}I just don't stop.|I'm so busy.
+{61031}{61125}Nowl have to take these clothes|to my husband in the hospital.
+{61129}{61156}What happened?
+{61165}{61215}Nothing.|He was hit by a truck.
+{61262}{61299}- I'm sorry.|- lt was awful.
+{61330}{61439}And the truck was full of|chemicals that disfigured his face.
+{61443}{61470}That's terrible!
+{61510}{61565}- I should go...|- No, don't.
+{61569}{61599}It's not your fault.
+{61655}{61711}I came to invite you|to a party.
+{61719}{61793}- Really? When is it?|- Tonight.
+{61797}{61888}Every year I celebrate|the day I came to Madrid.
+{61895}{61932}I'm a little sentimental.
+{61936}{61982}- I'd celebrate it too.|- Right.
+{61986}{62025}I'll be there.
+{62031}{62080}What about your husband?
+{62114}{62159}He doesn't mind what I do.
+{62163}{62211}Besides, I can't do much
+{62215}{62283}at the hospital...|All those tubes.
+{62287}{62319}Of course. You need...
+{62323}{62369}to get away from it all.
+{62387}{62428}- Exactly!|- Right.
+{62436}{62485}So you will come tonight.
+{62491}{62518}Around nine?
+{62537}{62563}Great!
+{62649}{62697}And thanks for the coffee!
+{63119}{63159}She...
+{63167}{63234}slips and runs into me...
+{63241}{63304}I knowthe day I lose her
+{63319}{63420}I'll suffer for her again,|and once again
+{63424}{63453}I'll find her...
+{63476}{63568}with another face,|another body...
+{63657}{63752}We've spotted the target, sir.|We're waiting for instructions.
+{63998}{64066}...Iet whatever God wills occur...
+{64105}{64152}We'll take her|to the Dark Side.
+{64159}{64230}It's time to take out|our light saber.
+{64635}{64665}The Force...
+{64691}{64732}I feel the Force!
+{64801}{64897}It's coming! The Force!|The Force!
+{64944}{64981}The Force, the Force...
+{65051}{65116}Charli! Open the door,|you pig!
+{65120}{65169}I knowwhat you're doing!
+{65173}{65242}The Force!|Yes, the Force!
+{65268}{65299}Knock it off!
+{65476}{65547}Lucía? Hi, it's Julia.|Remember me?
+{65558}{65618}Right. It's been a long time.
+{65635}{65700}I'm calling to|ask you something,
+{65704}{65761}since you work in a bank...
+{65821}{65867}You're going to laugh.
+{65871}{65979}My friend inherited a lot of money|in cash from her parents...
+{66005}{66068}They must have had it at home,
+{66074}{66133}under the mattress.|Anyway,
+{66137}{66205}she wants to take it|to the bank...
+{66209}{66300}What? No, of course I'm not|mixed up in anything funny.
+{66324}{66408}The amount? I don't know,|say... 300 million.
+{66477}{66545}Under a mattress.|That's not so strange.
+{66574}{66654}Whatever. Imagine|someone, Miss X, appears
+{66658}{66743}in the bank with that money.|What would you do?
+{66774}{66800}Right.
+{66810}{66858}Without thinking twice.
+{66873}{66950}Well, I'll let my friend knowthat.
+{66964}{67016}Okay. Great to talk to you.
+{67022}{67096}We'll have to get|together sometime. Bye.
+{67116}{67161}She'd call the police.
+{67175}{67201}Idiot!
+{67462}{67496}It's her!
+{67503}{67570}Everyone get ready!
+{67774}{67809}- Hi.|- What a surprise!
+{67813}{67905}Well, I wasn't going to come,|but in the end...
+{67931}{67957}What a party!
+{68032}{68102}- Someone here wants to meet you.|- Really?
+{68106}{68164}Hello, Julia. I'm Emilio.
+{68168}{68257}The manager. Nice to meet you.|Howwas Eurodisney?
+{68265}{68314}Well, news gets around.
+{68321}{68415}I've been here two days and I feel|like I already know everybody.
+{68425}{68476}Great, it was like a dream.
+{68490}{68528}A children's paradise.
+{68532}{68563}Is your family here?
+{68567}{68660}No, they stayed. It's not|their fault I'm the manager.
+{68667}{68714}So I'm on my own.
+{68730}{68804}Everyone here is|from the building, right?
+{68808}{68871}It's a very close community.
+{68875}{68936}We're all interested|in the common good.
+{68940}{69006}We have an interest in...|the building.
+{69010}{69053}We've always lived here.
+{69057}{69096}Ramona was born here.
+{69100}{69206}Right. I've known her|since I was a boy. Cheers.
+{69368}{69422}You're sure|she hasn't gone out?
+{69443}{69504}Not since the Cuban went up.
+{69544}{69594}I can't stand this.
+{69617}{69673}Emilio gets some ideas...
+{69677}{69748}That's what I say,|but no one listens.
+{69752}{69794}He's brainwashed them.
+{69798}{69846}What would you do?
+{69870}{69911}We've got her here.
+{69916}{70022}What are we waiting for?|I could fix this in a second.
+{70026}{70072}Without Emilio finding out?
+{70076}{70130}No one's moving from here.
+{70140}{70202}Cookie! This is our song!
+{70213}{70243}Come on, Cookie!
+{70247}{70305}What fucking song?|I don't have
+{70309}{70373}a song.|Stop being a dipshit!
+{70389}{70435}You can dance with the retard.
+{70538}{70624}Don't take it so hard.|He's very passionate.
+{70632}{70701}Passionate?|What do you mean by that?
+{70710}{70786}Well, about what he does.|He doesn't leave
+{70801}{70834}things undone.
+{70843}{70906}He leaves a lot undone.
+{70917}{70972}Every night|we just watch videos.
+{71021}{71102}I don't want to know|about anyone's private life.
+{71106}{71192}Since you seem to be|such good friends lately...
+{71206}{71253}Well listen to you!
+{71259}{71322}Go dance, you have no idea.|Go on!
+{71326}{71365}You're so bossy!
+{71411}{71465}Take off your jacket,|it's hot.
+{71469}{71497}I'm fine.
+{71501}{71609}You just don't want the girls|to see howfat you are.
+{71632}{71701}I knowyou ate|all the canapés!
+{71870}{71936}It's a shame what happened.
+{71948}{72018}Yes, that poor old man.|It was terrible.
+{72025}{72087}We meant your husband.
+{72140}{72201}Right, the accident.|It was awful.
+{72212}{72264}Accident? Wasn't he beat up
+{72268}{72296}by skinheads?
+{72300}{72350}He was. But it was an accident
+{72354}{72433}because they took him|for someone else.
+{72445}{72471}Right.
+{72503}{72549}Did you knowthe old man?
+{72553}{72579}The dead one?
+{72583}{72652}- We all know each other here.|- He was strange.
+{72672}{72699}Always alone.
+{72703}{72789}- He never went out.|- The lottery win went to his head.
+{72805}{72834}He won the lottery?
+{72846}{72878}The sports lottery.
+{72892}{72947}But that was a long time ago.
+{72958}{73009}He was too afraid to go out.
+{73013}{73093}Isn't that silly?|Afraid of us!
+{73133}{73165}Afraid!
+{73296}{73331}- Can I go now?|- No.
+{73335}{73389}Emilio said|we all have to stay.
+{73393}{73438}You made me sign it.
+{73442}{73531}Do you want to end up|like the engineer?
+{73545}{73578}And stop drinking.
+{73708}{73751}How is it going?
+{73762}{73818}I don't know.|The bitch is smart.
+{73822}{73859}But she has the money.
+{73864}{73913}We don't knowthat yet.
+{73942}{73991}Ramona saw her with bags.
+{73995}{74030}She sees what she wants to.
+{74044}{74118}Why don't we go up|and search her place now?
+{74128}{74190}You want to go up?|Stay calm.
+{74199}{74242}We have to do this right.
+{74291}{74371}We should have done it|right from the start.
+{74553}{74589}Eurodisney!
+{74600}{74684}Eurodisney|fucked us over completely!
+{74691}{74758}I finally have|a vacation and... Shit!
+{75000}{75110}You were brave, going into|that flat with the firemen.
+{75114}{75151}What was it like? A cave?
+{75163}{75204}More or less, yes.
+{75239}{75308}What was the first thing|you saw?
+{75329}{75408}Cockroaches, bags full|of garbage, and filth.
+{75438}{75472}Nothing else?
+{75523}{75597}I knowwe sound morbid,|insisting like this.
+{75612}{75691}We've just wondered|about it so long.
+{75705}{75755}You can ask him, too.
+{75759}{75806}He went in with me.
+{75863}{75930}Domínguez! That's news.
+{75947}{76022}The fucker went in|and didn't tell anyone.
+{76238}{76307}I hope they weren't|boring you.
+{76319}{76398}No, they're charming.|Everyone is, really.
+{76666}{76695}They're like
+{76699}{76767}a family to me.|I'm lucky to live here.
+{76777}{76854}There aren't many|young people... Iike us.
+{76898}{76951}It's my senior citizens party.
+{76971}{77011}But they love to dance.
+{77015}{77092}You just have to|start them off. Shall we?
+{77102}{77151}No, I only dance at weddings.
+{77155}{77223}- Come on, I'll teach you.|- Only at weddings!
+{78047}{78083}Come on!
+{78087}{78163}You don't have|to accompany me.
+{78167}{78231}- You Cubans!|- We like taking care of women.
+{78235}{78312}- I bet you say that to all of them.|- And it works!
+{78560}{78647}How embarrassing!|We left together.
+{78651}{78720}But possibly|each to their own flat.
+{78724}{78801}No, you were already|in your own flat.
+{78805}{78853}You didn't have to go.
+{78878}{78921}You're right! I'm blasted!
+{78933}{78974}They're thinking the worst.
+{78978}{79032}Well, we can't|disappoint them.
+{79036}{79133}Right, if they're going to gossip,|it might as well be true.
+{79148}{79202}Wait... What about|your husband?
+{79232}{79307}My husband.|What a pain, my husband.
+{79311}{79413}I didn't want to say so, but|the hospital called. He's dead.
+{79417}{79466}- Really?|- You heard me.
+{79470}{79542}The anesthesia gave him|a heart attack.
+{79557}{79649}But I don't want to think|about that now, I need to...
+{79653}{79707}- To get away from it all.|- Right!
+{79711}{79747}To get away from it all.
+{80168}{80249}Isn't it amazing?|It can make waves.
+{80253}{80291}The engineer had class.
+{80295}{80367}- Did you know him?|- No.
+{80371}{80424}But I've heard|a lot about him.
+{80442}{80475}And the ceiling?
+{80479}{80559}The finger of God|punished me the other day.
+{80600}{80636}You knowwhat?
+{80663}{80712}He'll have reasons to.
+{80720}{80814}We'll savagely profane|this holy waterbed.
+{80818}{80881}Wait, wait a second.
+{80926}{80955}I have ice cream.
+{80959}{81016}I love ice cream.|But hurry back.
+{81306}{81346}You forgot the ice cream.
+{81385}{81430}- Were they listening?|- No.
+{81435}{81490}They're beating up Domínguez.
+{81494}{81558}It must be Castro.|Always the same.
+{81562}{81601}Some people shouldn't drink.
+{82442}{82475}What was that?
+{82485}{82519}What, darling?
+{82538}{82617}There's someone|in the living room.
+{82730}{82757}Julia.
+{82815}{82857}Julia, come back!
+{82907}{82932}What is this?
+{83024}{83050}What are you doing?
+{83136}{83165}How did you get in?
+{83181}{83220}Get out of my flat!
+{83224}{83261}Your flat?
+{83292}{83344}- Let's go.|- I'll call the police.
+{83356}{83400}- Are you sure?|- Put that down.
+{83420}{83450}What do you mean?
+{83454}{83487}I don't think you would.
+{83491}{83537}Forget it, Ramona.
+{83541}{83597}- She doesn't fool me.|- Slut.
+{83660}{83687}I'm sorry.
+{83737}{83814}Let go, it's not yours!|I'll buy you one.
+{83825}{83924}Well, let's leave.|Come on, let's go. Let's go.
+{84039}{84074}Unbelievable!
+{84078}{84130}They just walked in!|Did you...?
+{84544}{84576}Out of my home!
+{84618}{84658}Get out right now!
+{84690}{84774}You were all working together,|all of you!
+{84819}{84882}You came up|to unlock the door.
+{84886}{84981}God, how could I be so stupid?|To think you and l...
+{84985}{85031}Get out! Get out!
+{85057}{85085}Get out!
+{85265}{85341}You'd better be|as innocent as you seem.
+{85345}{85387}Get out!
+{86324}{86378}Where do you think|you're going?
+{86395}{86477}- What happened?|- Thanks to you, I was almost killed.
+{86481}{86547}- I had nothing to do with it.|- Lying bitch!
+{86551}{86612}You told them I had the money.
+{86616}{86644}What do you want?
+{86648}{86747}They're downstairs.|They'll take the money and kill us.
+{86752}{86792}- You're crazy.|- Crazy?
+{86811}{86882}They're crazy.|Think about the engineer.
+{86886}{86940}He wouldn't sign|and he disappeared.
+{86944}{87002}- I don't understand.|- Listen, your life's at stake.
+{87054}{87146}We used to watch|the old man day and night.
+{87160}{87205}Every day for years!
+{87209}{87286}How did you know he had|the money at home?
+{87290}{87374}One day the bank people|came with two big bags.
+{87380}{87423}The 500 million stayed there.
+{87427}{87458}It's 300 million.
+{87482}{87553}- I heard 500.|- 300. I counted it.
+{87626}{87656}It doesn't matter.
+{87715}{87808}It used to be a dream|that helped us get by.
+{87814}{87886}To share his money|when he died.
+{87890}{87981}But now he's dead, the money's|here and they know it.
+{88024}{88058}- Get out.|- First my suitcase.
+{88062}{88160}The suitcase!|Fucking greed will send us to hell.
+{88165}{88190}Help me!
+{88282}{88352}- Help!|- The elevator's stuck again?
+{88394}{88420}Ignore her! Help!
+{88428}{88496}Go tell Emilio|the elevator's stuck.
+{88504}{88551}Don't! Don't move!
+{88571}{88619}We just want to help.
+{88623}{88663}Go back inside.
+{88748}{88795}God! Get me out of here!
+{88829}{88861}Don't or I'll kill you!
+{88896}{88946}You hear me, you bitch?
+{88950}{88987}It's all your fault!
+{88996}{89039}Sticking your nose|in our business!
+{89062}{89123}- What's wrong, Mommy?|- Go to your fucking room!
+{89139}{89216}It's crushing me!|God, it's crushing me!
+{89220}{89245}I can't hold on!
+{89259}{89330}I'll tell Emilio|it's taken care of.
+{89446}{89474}Tell him
+{89478}{89554}the suitcase is his|if he gets me out!
+{89578}{89599}God!
+{89995}{90030}My God, no!
+{90055}{90121}- lt was an accident!|- Come on, come on!
+{90128}{90154}Come on!
+{90167}{90247}Scream and I'll cut you open!|Come on!
+{90262}{90323}Inside!
+{90383}{90438}We don't have
+{90442}{90489}anything to do with this.
+{90493}{90540}- lt must be Emilio.|- The manager?
+{90544}{90574}Yes, it was his idea.
+{90599}{90666}The old man|didn't enjoy his money.
+{90681}{90770}We just didn't want it to go|to the tax administration.
+{90774}{90803}How noble!
+{90849}{90907}She must be in the patio.
+{91002}{91029}Shut up!
+{91045}{91112}Emilio's an accountant,|he understands it.
+{91145}{91221}He said that if we worked|together patiently,
+{91229}{91285}we'd get it|without hurting anyone.
+{91289}{91324}And you believed him?
+{91328}{91382}Not everyone.|Some walked out
+{91386}{91490}and the rest of us signed|an agreement. Equal shares.
+{91496}{91595}It was serious, but we never|thought anyone would get hurt.
+{91601}{91652}May lightning strike him|if I'm lying!
+{91656}{91718}- No!|- Shut up!
+{91820}{91923}We're going outside. Keep your|mouth shut. You come, too.
+{91972}{92020}Come on, outside!
+{92024}{92097}- Are you going to kill Mommy?|- I don't know.
+{92116}{92146}She's here!
+{92155}{92217}Tell my husband.|He's in the videoclub.
+{92251}{92288}Pull yourself together.
+{92293}{92339}Let Hortensia go!
+{92343}{92405}Relax, we can talk it over.
+{92409}{92454}There's enough money
+{92458}{92504}for everyone in there.
+{92528}{92573}Don't do anything rash.
+{92577}{92615}Stay back or I'll kill her!
+{92619}{92678}Julia, you're not a killer.
+{92682}{92731}But you people are. Back!
+{92735}{92800}I'm leaving here|and I don't care how.
+{92804}{92914}You're scared. We're not responsible|for what happened to Domínguez.
+{92918}{92982}The elevator's|had problems before.
+{92986}{93015}It's true, Julia.
+{93019}{93094}We called the repairman.|We haven't hurt anyone.
+{93098}{93137}How can you think that?
+{93141}{93189}We're normal, like you.
+{93196}{93286}Normal? You killed Domínguez|and you want to kill me!
+{93295}{93335}She's right. What is this?
+{93339}{93405}We should just slit|her fucking throat.
+{93409}{93476}Castro, shut up!|Give me the suitcase.
+{93480}{93504}Fuck you!
+{93508}{93569}Give me the suitcase|and leave.
+{93573}{93668}You screwed with the old man|until he died of fright.
+{93681}{93770}I won't let you bastards|keep the money!
+{93781}{93845}Someone call|my husband, please!
+{93849}{93956}She'll kill her and keep the money!|We've waited so long for this?
+{93960}{93996}Let me think, damnit!
+{94000}{94055}About what? Either I leave,
+{94059}{94168}or there will be a massacre|you'll never fucking forget.
+{94199}{94277}We have to give her|the money! We have to!
+{94339}{94365}I'll kill her!
+{94407}{94444}Put that away!
+{94456}{94485}Castro!
+{94501}{94534}Get out of the way!
+{94798}{94859}Who the fuck called|the police?
+{94863}{94913}Thank God|you got here in time.
+{94917}{94942}Stay calm.
+{94951}{95005}I'm Gutiérrez, the manager.
+{95018}{95056}Here is the body.
+{95060}{95135}It was a horrific sight.|No, no.
+{95139}{95205}Don't look.|Damn accident!
+{95226}{95286}She's leaving,|the bitch is leaving.
+{95380}{95411}How long have you|been the manager?
+{95430}{95478}You're not leaving here!
+{95482}{95529}You want me to scream?
+{95533}{95610}Do it. And explain|the suitcase to the police.
+{95691}{95721}Excuse me, Julia.
+{95725}{95817}I told them you were the last|person to see Domínguez alive.
+{95821}{95892}Yes, but it all happened|so quickly...
+{95896}{95931}Let's go to the station.
+{95935}{96016}- The station? Why?|- For your statement.
+{96022}{96109}Sorry, I don't have time.|I have a plane to catch.
+{96118}{96178}Of course, that explains|the suitcase.
+{96182}{96238}It's a business trip.|I'll call you
+{96242}{96287}in a couple of days.
+{96295}{96338}Sorry, that's impossible.
+{96345}{96417}You can go after|giving your statement.
+{96437}{96483}Why don't we do it here?
+{96487}{96597}Excuse me, but I know|about these things.
+{96612}{96685}The first thing we do|is interviewwitnesses.
+{96699}{96804}Come on, we have to|let these men do their work.
+{96808}{96842}- Use my flat.|- No!
+{96890}{96968}There's no need,|we can use mine. Let's go.
+{96981}{97068}Thanks for your help, Emilio,|but we don't need you.
+{97083}{97111}Right, upstairs.
+{97130}{97159}Go on up.
+{97289}{97333}That's all, then. Right?
+{97337}{97389}You might be called later
+{97393}{97446}if there's an investigation.
+{97457}{97494}There's something else.
+{97534}{97591}In this building...
+{97604}{97656}Something strange|is happening.
+{97664}{97696}- What happened?|- Yes.
+{97700}{97814}The inevitable. You left your wife|alone and she was almost killed.
+{97820}{97877}I was in the videoclub.
+{97881}{97989}No, I went to look for him|and only the blonde was there.
+{97993}{98070}I must have been having a coffee.|I don't know.
+{98074}{98125}If you don't know...
+{98129}{98190}We've all been here on guard.
+{98194}{98272}- What do we do now?|- I don't know, give me time.
+{98284}{98345}- What if she tells them?|- About what?
+{98355}{98392}The elevator, the party...
+{98396}{98477}No, she'd have to tell them|about the money.
+{98481}{98533}She held on tight|to that suitcase.
+{98547}{98612}No, it's not that. It's...|complicated.
+{98623}{98672}Let's just say that they
+{98676}{98752}have been looking|for something for years
+{98760}{98817}and I found it|in a couple days.
+{98830}{98856}"They"?
+{98860}{98906}The neighbors.
+{98919}{99003}They know I have it|and they want to kill me.
+{99050}{99099}But what did you find?
+{99179}{99207}Ma'am, what
+{99211}{99238}did you find?
+{99293}{99329}This flat.
+{99404}{99464}I know it sounds silly,|but it's nice.
+{99486}{99538}It's furnished, with a view.
+{99542}{99586}I found it by chance.
+{99598}{99665}They've worked for years|for what they have.
+{99680}{99748}People can be very envious.
+{99808}{99859}But the elevator...?
+{99868}{99952}She has a nicer flat|so they want to kill her.
+{99957}{99999}Absurd, isn't it?
+{100025}{100070}Forgive me, I'm nervous.
+{100151}{100196}Everything's ready?
+{100214}{100244}Yes, perfect.
+{100522}{100553}She's leaving.
+{100559}{100595}Do something.
+{100599}{100671}Maybe you'd like an aperitif.
+{100675}{100718}How about... a beer?
+{100722}{100787}- No, thanks. We have to go.|- Come on.
+{100791}{100847}Encarna, can you|get some beers?
+{100851}{100889}- Right away.|- And olives.
+{100893}{100948}Let's have a nice cold beer.
+{100952}{101028}We do appreciate it,|but we're on duty.
+{101032}{101101}A couple of beers|never hurt anyone.
+{101105}{101146}No, they're good for you.
+{101150}{101223}They don't want anything!|Let's go.
+{101236}{101288}- Damn her.|- Emilio, she's going.
+{101423}{101450}Julia...
+{101476}{101505}He's talking to you.
+{101575}{101622}You left the door open.
+{101664}{101693}What?
+{101705}{101791}The door. You forgot|to close the door.
+{101795}{101824}Come back up.
+{101923}{101986}Close it for me.|See you later.
+{102000}{102076}Julia, lock it if you're|going on a trip
+{102080}{102160}to keep out the burglars.|Right, officers?
+{102190}{102250}He's right,|you should lock it.
+{102289}{102315}Well...
+{102345}{102418}All right, but wait for me here.
+{102422}{102474}- I'll be right back.|- Don't worry.
+{102955}{103020}Hurry, you'll miss your plane.
+{103053}{103107}The policeman downstairs wants
+{103111}{103140}you to come down.
+{103217}{103247}Should we wait?
+{103354}{103386}No, she'll be okay.
+{103390}{103445}- Are you sure?|- Yeah. She's nuts.
+{103598}{103663}This hurts me|more than it hurts you.
+{103918}{103976}We wanted you|to be one of us,
+{103986}{104061}to share the luck|of living in this building.
+{104093}{104151}We even threwyou a party.
+{104220}{104256}And how do you thank us?
+{104283}{104311}Laughing at us,
+{104315}{104407}and what's worse, trying|to run off, playing dirty.
+{104417}{104444}Domínguez died
+{104448}{104535}because you double-crossed him!|What was the deal?
+{104540}{104627}"50-50 and fuck the rest|of those cocksuckers"?
+{104692}{104758}Domínguez didn't|deserve to end up like that!
+{104776}{104826}God! Do you know how many
+{104830}{104911}years I've been|behind this project,
+{104915}{104973}getting these people together?
+{105019}{105076}I've turned down jobs,
+{105080}{105141}well-paying jobs,|just to stay here.
+{105145}{105204}I knewthings would
+{105208}{105250}fall apart without me.
+{105391}{105444}You see what happens?
+{105475}{105527}A treat for the kids.
+{105531}{105606}My first vacation in 20 years,|and you appear
+{105614}{105661}and fuck everything up!
+{105748}{105822}Who do you think you are?|I'll tell you.
+{105848}{105892}You're a lying whore who
+{105896}{105973}hasn't a penny!|This isn't even your flat!
+{105991}{106026}But that doesn't matter.
+{106042}{106091}I feel sorry for your kind.
+{106095}{106131}What are you saying?
+{106150}{106218}Don't play dumb.|You understand me.
+{106240}{106310}You people think|only of yourselves.
+{106314}{106386}You probably|don't have a family, either.
+{106390}{106454}You people don't|want responsibilities.
+{106468}{106552}You just want|to live in the present.
+{106556}{106650}Fuck everyone else.|Well, we're different here.
+{106718}{106773}This is a community.
+{106804}{106852}García's hip is bad
+{106869}{106954}and he eats lunch|at his daughter's house.
+{106958}{107034}He needs a little car|to get around town.
+{107038}{107107}Paquita, on the 5th floor,
+{107116}{107190}is 40 years old and still single.|Knowwhy?
+{107218}{107244}Her mouth is
+{107248}{107314}disgusting and|she's never been kissed.
+{107329}{107389}She needs to get|her teeth fixed.
+{107409}{107502}It's all here on this list,|corrected year after year.
+{107536}{107579}Knowwhat I'm talking about?
+{107604}{107687}About solidarity, respect.
+{107704}{107753}We believe|in respecting others.
+{107800}{107844}You don't know|what that means.
+{107908}{107945}Just finish it!
+{107949}{107998}Don't tell me what to do.
+{108013}{108085}You killed the engineer,|didn't you?
+{108119}{108232}He didn't want to guard|the old man. Just two hours a day.
+{108236}{108286}No, he was above all that.
+{108290}{108338}He didn't have|a family to support.
+{108346}{108410}Out living it up to all hours.
+{108414}{108475}Drunks coming in and leaving.
+{108484}{108526}He kept us all awake.
+{108553}{108617}He was destroying|the community.
+{108652}{108764}So kill me, too and stop boring me|with your sermons.
+{108768}{108814}You're a fraud and a thief,
+{108818}{108856}Iike me, like everybody.
+{108865}{108922}No, I'm not a thief.|I'm not a thief.
+{108926}{108981}I have a right to it, I do.
+{109010}{109074}We did the sports lottery|together.
+{109081}{109140}I helped him|guess the scores.
+{109147}{109206}He asked me for advice.
+{109261}{109295}He said...
+{109357}{109441}"Sporting against Real Sociedad"....
+{109489}{109515}And l...
+{109549}{109577}I...
+{109592}{109618}I said...
+{109715}{109749}"Tie".
+{109774}{109866}I don't know, it just|came out of my mouth.
+{109883}{109990}No one else in Spain|marked "Tie". Just me.
+{110021}{110078}I said, "Tie".
+{110154}{110233}When I heard he'd|won the jackpot,
+{110272}{110301}I was glad.
+{110322}{110365}I swear I was glad.
+{110369}{110424}And he didn't want to share.
+{110451}{110524}As if we didn't exist.|We were neighbors.
+{110528}{110593}A lifetime together, meeting
+{110598}{110652}in the elevator, in the bar...
+{110657}{110705}It meant nothing to him.
+{110728}{110803}He could have given us part,|or just gifts.
+{110822}{110900}But no, he wanted it|all for himself,
+{110911}{110975}the Goddamn greedy fucker.
+{111051}{111129}I've dreamt about|this moment ever since.
+{111172}{111251}If I hadn't spoken,|if I'd shut my mouth,
+{111260}{111311}if I hadn't said "Tie"...
+{111320}{111406}the bastard wouldn't|have ruined our lives.
+{111445}{111490}Are you going|to keep it all?
+{111550}{111577}What?
+{111618}{111678}You wouldn't kill|for 30 million,
+{111696}{111744}but you would|for 300 million.
+{111768}{111832}People kill for 15,000 pesetas.
+{111857}{111895}You needed the neighbors.
+{111899}{112013}You couldn't guard the old man|by yourself. You planned this.
+{112017}{112071}- That's a lie.|- Nowyou don't need them.
+{112075}{112109}But howwill you get out?
+{112155}{112205}Will you kill them all?
+{112226}{112256}You'll need an excuse
+{112260}{112338}to take out the suitcase.|You must have one.
+{112975}{113047}You've had 20 years|to think about it.
+{113105}{113212}And about getting rid|of your beloved wife and kids.
+{113226}{113300}I love my wife as much|as the first day we met.
+{113343}{113419}She must be a good woman|to have gone
+{113423}{113453}without vacations.
+{113480}{113565}But with money, you can|get something better.
+{113569}{113598}Shut up.
+{113613}{113666}Someone who doesn't know,
+{113691}{113769}who matches|your new house and pool,
+{113776}{113828}your new convertible.
+{113859}{113899}Have you thought about it?
+{114059}{114148}Get in the bathtub, I don't|want bloodstains on the floor.
+{114164}{114211}Get in the bathtub, I said!
+{114726}{114798}100,200,300,400,500...
+{114802}{114884}What are you doing?|Why did you buy that?
+{114888}{114968}Don't distract me,|I'll have to start over.
+{115000}{115060}I'm worried about you.|Are you okay?
+{115064}{115111}Yes, Mom. Leave me alone.
+{115127}{115205}Well, whatever happens,|don't leave the flat.
+{115216}{115287}Everything will|turn out all right.
+{116000}{116063}Hello? Yes, speaking.|Who's this?
+{116079}{116117}What agency?
+{116133}{116183}The real estate agency.
+{116202}{116249}Yes, what is it?
+{116265}{116334}Look, I can't talk|to you right now.
+{116403}{116433}What?
+{116455}{116496}Who told you?
+{116506}{116535}A neighbor.
+{116539}{116634}Yes, I am living here|and I suppose I'm fired.
+{116690}{116768}Don't worry, in an hour|I'll have it clean.
+{116777}{116823}No, give me 90 minutes.
+{116844}{116933}What? Someone else|is coming to see it?
+{116953}{117015}Is this the only flat|in Madrid?
+{117967}{117998}Hello?
+{118033}{118087}There's no one here,|come in.
+{118163}{118221}Well, this is a great flat.
+{118230}{118298}Here are the super-advantages.|One, near the subway.
+{118302}{118394}Two, downtown.|Three, schools for the kids,
+{118398}{118452}and four, parks|where they can play.
+{118470}{118536}We can see the kitchen,|if you want.
+{118540}{118618}- Does it have a garage?|- No, it doesn't.
+{118622}{118685}If it did, it'd have|been sold by now.
+{118740}{118817}Hi, I'm Julia García,|from the agency.
+{118821}{118868}What's going on?
+{118878}{118941}They must be friends of hers.
+{118949}{119007}It's plastic,|I can't hear anything.
+{119011}{119074}Excuse me.|I'd like a minute
+{119078}{119118}- alone with you.|- Of course.
+{119122}{119164}- What's your name?|- Javier Pacheco.
+{119178}{119226}We have to tell Castro.
+{119241}{119307}He said to tell people|he's in the bar.
+{119327}{119400}Great. I'll go get him.
+{119415}{119505}But he's not there. He just|doesn't want his wife to know.
+{119519}{119549}About what?
+{119553}{119585}His affair with blonde.
+{119606}{119638}From the videoclub?
+{119642}{119724}You didn't know? Haven't|you noticed he's always
+{119741}{119778}carrying videos?
+{119782}{119874}Lately he's seen more movies|than Woody Allen.
+{119922}{119963}Impossible.
+{119967}{120057}She's hot. I got a card and|I don't even have a VCR.
+{120061}{120146}What do I care about|that loser's private life?
+{120183}{120226}Well, since you asked...
+{120247}{120322}- You slapped me!|- You deserved that and more.
+{120362}{120419}You see a couple of tits
+{120444}{120478}and that's that.
+{120515}{120565}You all have shit for brains.
+{120594}{120680}Listen, Jaime or Javi.|I need a favor.
+{120692}{120775}I rang three times.|They said they'd call...
+{120785}{120822}You did very well,
+{120826}{120861}Jaime or Javi.
+{120876}{120932}Just don't showthem|the bedroom.
+{120936}{120971}What do I tell them?
+{120975}{121024}The truth.|There's a bad leak.
+{121036}{121099}- ls that the reason?|- No, silly.
+{121109}{121170}Let's say I wasn't|alone yesterday
+{121175}{121214}and I'm not today, either.
+{121259}{121287}Did he do that?
+{121312}{121368}Love can be very strange.
+{121378}{121417}But you're still so young.
+{121453}{121496}See, there is a leak.
+{121507}{121569}Yes, it's not worth|showing them.
+{121647}{121742}You're new and don't know,|but this is normal in our work.
+{121746}{121825}The bosses know.|It's a kind of fringe benefit.
+{121829}{121908}Still, I think I'll wait|a few months before...
+{121914}{121954}I bring girls to the flats.
+{121958}{122020}You have|to find the girl first.
+{122024}{122093}So today for you,|tomorrowfor me.
+{122598}{122699}LUCK HlTS|SAN JERONlMO STREET
+{122956}{122982}Julia!
+{123027}{123081}Something's wrong|with my head.
+{123125}{123154}Help me.
+{123407}{123475}Julia, what have you done?|Come here!
+{123505}{123556}Julia, come here!
+{123673}{123697}Julia,
+{123702}{123734}it's Oswaldo. Open up.
+{123763}{123811}No, Oswaldo, I'm sorry.
+{123815}{123857}Where's Emilio?|Did he hurt you?
+{123874}{123911}They're waiting for him.
+{123926}{124009}Who sent you this time?|Castro? Ramona?
+{124013}{124086}No, forget them. I'm alone.
+{124090}{124158}This is our chance|to get away. Hurry.
+{124162}{124252}- They'll come back.|- You just want the suitcase.
+{124258}{124342}Yes, I want the money.|But to share with you.
+{124357}{124402}They've all gone crazy.
+{124423}{124465}- I'm afraid.|- Julia!
+{124482}{124516}Help me!
+{124548}{124596}The airport's an hour away.
+{124612}{124663}Tomorrowwe'll be|far from here.
+{124796}{124828}Together?
+{124832}{124894}Why not?|There's something between us
+{124905}{124984}and you know it. We need|each other. We're like
+{124988}{125036}castaways.
+{125052}{125096}Two castaways on an island.
+{125122}{125171}An island full of monsters.
+{125181}{125220}Don't cry, honey,
+{125224}{125280}I won't let them hurt you.
+{125300}{125371}Open the door, my love.|I need you
+{125388}{125427}more than anything.
+{125652}{125693}Julia! My car's parked
+{125697}{125739}downstairs. Open up.
+{125860}{125907}Can't you hear me, darling?
+{126130}{126157}No, no, no!
+{127504}{127557}Holy shit! The bitch!
+{127581}{127654}- Come on!|- My God!
+{127669}{127775}It can't be true!|My God, it can't be true!
+{127977}{128005}Help!
+{128009}{128055}They want to kill me!
+{128107}{128172}Hey! Didn't you hear me?
+{128183}{128220}Help!
+{128365}{128423}Hey, what's up?|How are things?
+{128431}{128477}Hey! Hey!
+{129124}{129177}Mommy! Mommy!
+{129215}{129260}Get moving, damnit!
+{132636}{132733}You wanted to escape too,|crazy old man?
+{133356}{133419}Come here!|The door's blocked.
+{133423}{133525}Push! Push! Goddamnit!
+{134033}{134100}Our Father, who art in heaven,|hallowed be
+{134104}{134155}- Thy name...|- Up here! Hurry!
+{134178}{134222}- Julia!|- Charli?
+{134226}{134246}Yes.
+{134250}{134288}Come up.
+{134327}{134363}Come on, come on!
+{134367}{134441}- Where's the suitcase?|- No, forget the money.
+{134445}{134478}There's no time!
+{134482}{134560}- They're already here!|- The suitcase!
+{135066}{135096}Where are we going?
+{135323}{135399}He was my friend.|We were going to escape.
+{135403}{135451}So you know howto get out?
+{135455}{135539}He had to die just now.|It isn't fair.
+{135543}{135565}Run!
+{135575}{135618}The bitch!
+{135717}{135772}She's on the roof!
+{135777}{135803}Come on!
+{135903}{135988}Fucking bitches!|Do they have to push me?
+{135994}{136065}They'll take the suitcase!
+{136089}{136117}That way!
+{136827}{136858}This is my plan.
+{136862}{136938}I'll create a distraction,|like in the Death Star.
+{136942}{136964}What star?
+{136983}{137011}Han Solo distracted
+{137015}{137056}the Stormtroopers while
+{137060}{137130}Luke and the Princess fled,|remember?
+{137136}{137184}This isn't "Star Wars".
+{137274}{137313}The Force is with me.
+{137335}{137385}They could kill you!
+{137400}{137460}Don't worry,|nothing will happen.
+{137469}{137530}I'll play dumb like always.|Trust me.
+{137958}{138022}Too late.|The Princess has fled.
+{138026}{138111}The Rebellion will triumph.|Hooray for the Republic!
+{138208}{138282}Republic?|What fucking republic?
+{138291}{138339}Why is this retard here?
+{138346}{138393}Stop it! You'll kill him!
+{138397}{138462}- Keep him here!|- Come on, Castro.
+{138503}{138544}I'll see you later.
+{138653}{138691}I told you to stay home.
+{138884}{138951}She said|she would marry me.
+{138976}{139018}Your father was right.
+{139046}{139101}We should have|drowned you at birth.
+{140866}{140917}That suitcase is mine.
+{141702}{141734}My God!
+{142737}{142761}Give it to me.
+{142831}{142868}You're going to fall!
+{142879}{142927}You're going to fall!
+{142955}{143003}Let me go and it's yours!
+{143007}{143071}I won't say anything,|I swear.
+{143084}{143117}Give it to me!
+{143315}{143343}Shoot, Ramona!
+{143409}{143492}Shoot again, stupid!|She's getting away!
+{143496}{143528}Stupid? Me?
+{143532}{143584}- You don't know me.|- Just shoot, damnit!
+{143693}{143794}Not my Cookie! Not my Cookie!|Not my Cookie!
+{143798}{143880}What are you doing, Ramona?|Stay calm!
+{143884}{143952}- You go that way!|- We're together in this!
+{143965}{144000}Yes, yes, yes...
+{144093}{144133}What are you doing?
+{144442}{144484}I'm going after you, honey.
+{144667}{144709}Don't run, honey!
+{145078}{145173}You're getting out of here,|but feet first!
+{145436}{145484}Give it to me right now!
+{145523}{145587}- You wanted to cut in line.|- Let go!
+{145591}{145636}You wanted it|all for yourself!
+{145654}{145691}You pig!
+{145704}{145772}What did you do to Emilio?|What?
+{145817}{145882}You want to keep the suitcase.
+{145978}{146018}How does that feel?
+{146217}{146291}Give me the suitcase.|You won't need it.
+{146764}{146823}You hypocrite!
+{146828}{146861}You hold that suitcase
+{146865}{146903}Iike your soul
+{146907}{146972}was inside!|You're just like us,
+{146976}{147007}Iike everyone!
+{147027}{147091}No, I won't be like you!
+{147133}{147174}You can't help it.
+{147184}{147239}You were born that way,
+{147249}{147291}it's in your blood!
+{147339}{147378}You ran over everyone.
+{147417}{147490}Say you're like me!|Say it!
+{147510}{147545}No, Ramona.
+{147563}{147603}You'd never do this!
+{149167}{149275}NElGHBORS KlLL EACH OTHER|FOR MONEY THAT DOESN'T EXlST
+{149391}{149491}JEDl KNlGHT NEEDS PRlNCESS|FOR RELATlONSHlP
+{149495}{149559}MEET ME AT|"THE BEAR AND THE MADROÑO TREE"
+{149654}{149695}THE BEAR AND THE MADROÑO TREE
+{149975}{150065}I spent three days at the bear|statue before I heard about the bar.
+{150115}{150204}Why didn't you tell me|about the suitcase?
+{150209}{150286}They'd have noticed and|you wouldn't have escaped.
+{150298}{150327}Only that?
+{150357}{150436}I also wanted to see|if you were like my mom.
+{150474}{150500}Want some consommé?
+{150506}{150566}- With sherry.|- Another one, please.
+{150574}{150618}What was in|the other suitcase?
+{150622}{150671}You're something else!
+{150675}{150708}You don't deserve it.
+{150712}{150758}Fucking great, Charli!
+{150786}{150835}- Shall we dance?|- Okay.
+{151296}{151323}Portugal,
+{151327}{151399}why do I love you so?
+{151416}{151489}Portugal, why do you|seem so happy?
+{151516}{151616}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

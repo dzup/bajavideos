@@ -1,0 +1,4838 @@
+1
+00:00:46,012 --> 00:00:48,344
+<i>Tenemos buen tiempo, ¿eh?</i>
+
+2
+00:00:49,282 --> 00:00:51,648
+<i>Aquí, en el reino de Malaria,</i>
+
+3
+00:00:51,718 --> 00:00:56,951
+<i>el pronóstico diario es de lluvias</i>
+<i>con un 100% de probabilidades de horror.</i>
+
+4
+00:00:58,324 --> 00:00:59,621
+<i>Pero no fue así siempre.</i>
+
+5
+00:01:00,360 --> 00:01:03,193
+<i>Años atrás, Malaria era</i>
+<i>una soleada tierra de granjeros.</i>
+
+6
+00:01:03,263 --> 00:01:05,231
+<i>Hasta el arribo de nubes</i>
+<i>que nunca se fueron.</i>
+
+7
+00:01:05,298 --> 00:01:06,697
+MALARIA - BUENA TIERRA VERDE
+
+8
+00:01:06,766 --> 00:01:08,461
+MALARIA - Y LLEGARON LAS NUBES
+
+9
+00:01:08,535 --> 00:01:10,901
+<i>Arruinaron los cultivos,</i>
+<i>y la gente se empobreció.</i>
+
+10
+00:01:10,970 --> 00:01:12,528
+MALARIA LLEVADA POR LA CORRIENTE
+
+11
+00:01:12,605 --> 00:01:16,803
+<i>Fue entonces que el rey Malbert pensó</i>
+<i>en una forma de ganar dinero,</i>
+
+12
+00:01:16,876 --> 00:01:18,741
+<i>invenciones malignas.</i>
+
+13
+00:01:18,812 --> 00:01:21,872
+<i>Del tipo que te aplasta, te mata,</i>
+<i>te resucita,</i>
+
+14
+00:01:21,948 --> 00:01:24,473
+<i>te vuelve a matar, pero de peor modo.</i>
+
+15
+00:01:24,551 --> 00:01:27,019
+<i>Las inventamos,</i>
+<i>y el mundo nos paga para no soltarlas.</i>
+
+16
+00:01:27,087 --> 00:01:31,217
+<i>Es un trabajo genial,</i>
+<i>en especial, si eres un científico malvado.</i>
+
+17
+00:01:31,291 --> 00:01:34,454
+<i>Tienes fama, fortuna,</i>
+<i>un castillo libre de renta.</i>
+
+18
+00:01:34,527 --> 00:01:36,757
+<i>Lo tienes todo. Están en la cima.</i>
+
+19
+00:01:36,830 --> 00:01:39,890
+¡Igor! ¡Jala el interruptor!
+
+20
+00:01:41,067 --> 00:01:43,535
+¡Sí, amo!
+
+21
+00:01:43,603 --> 00:01:47,664
+<i>¿Y abajo?</i>
+<i>Ahí estamos los pobres como yo,</i>
+
+22
+00:01:47,740 --> 00:01:50,800
+<i>que nacimos con una joroba</i>
+<i>en la espalda, los Igor.</i>
+
+23
+00:01:51,244 --> 00:01:53,371
+<i>De hecho, yo no soy ese Igor.</i>
+
+24
+00:01:54,981 --> 00:01:58,109
+¡Igor! ¡Jala el interruptor!
+
+25
+00:01:58,318 --> 00:02:00,445
+¡Sí, amo!
+
+26
+00:02:00,854 --> 00:02:02,651
+<i>No, no, tampoco soy ése.</i>
+
+27
+00:02:07,327 --> 00:02:09,852
+<i>Ése soy yo. ¿Ven?</i>
+<i>No me parezco en nada a los otros,</i>
+
+28
+00:02:09,929 --> 00:02:11,396
+<i>soy mucho más apuesto.</i>
+
+29
+00:02:11,464 --> 00:02:15,696
+<i>De todos modos, todos los Igor deben</i>
+<i>servir a los científicos malvados.</i>
+
+30
+00:02:16,169 --> 00:02:19,138
+<i>Nuestra vida es</i>
+<i>un constante turno nocturno.</i>
+
+31
+00:02:19,205 --> 00:02:21,571
+<i>Pero yo nunca quise ser un Igor.</i>
+
+32
+00:02:22,742 --> 00:02:25,438
+<i>Yo quería ser un científico malvado.</i>
+
+33
+00:02:25,512 --> 00:02:29,505
+<i>Lamentablemente, la joroba fue</i>
+<i>un boleto de ida...</i>
+
+34
+00:02:29,816 --> 00:02:30,805
+ESCUELA DE IGOR
+
+35
+00:02:30,884 --> 00:02:32,078
+<i>... a la escuela de Igor.</i>
+
+36
+00:02:32,152 --> 00:02:36,213
+<i>Me especialicé en Hablar Mal</i>
+<i>y tengo un título de Sí, amo.</i>
+
+37
+00:02:37,257 --> 00:02:39,020
+<i>Después fui a buscar trabajo.</i>
+
+38
+00:02:39,592 --> 00:02:43,289
+Hola, vine porque buscan un Igor.
+Me llamo Igor.
+
+39
+00:02:43,363 --> 00:02:45,763
+Claro que ése es mi nombre.
+Tengo una joroba.
+
+40
+00:02:45,832 --> 00:02:48,130
+¿Cómo voy a llamarme? ¿Kevin?
+
+41
+00:02:53,339 --> 00:02:55,330
+<i>No les gustó mi estilo creativo.</i>
+
+42
+00:02:56,176 --> 00:02:58,872
+<i>Pero, al final, conseguí trabajo</i>
+<i>con el Dr. Glickenstein.</i>
+
+43
+00:02:58,945 --> 00:03:01,379
+¡Jala el interruptor!
+
+44
+00:03:02,282 --> 00:03:06,946
+<i>No es el científico más brillante.</i>
+<i>Su último invento fue la lasaña maligna.</i>
+
+45
+00:03:07,020 --> 00:03:09,784
+<i>No mató a nadie.</i>
+<i>Y, en realidad, sabía bien.</i>
+
+46
+00:03:09,856 --> 00:03:10,948
+¡Igor!
+
+47
+00:03:13,393 --> 00:03:15,258
+<i>Los Igor no pueden inventar,</i>
+
+48
+00:03:15,328 --> 00:03:18,195
+<i>pero igual trabajo</i>
+<i>en mis propios inventos en secreto.</i>
+
+49
+00:03:18,264 --> 00:03:20,095
+<i>Y este nuevo invento será</i>
+<i>el que demuestre</i>
+
+50
+00:03:20,166 --> 00:03:24,068
+<i>que soy el genio malvado más grande</i>
+<i>de todos, y no sólo otro...</i>
+
+51
+00:03:24,137 --> 00:03:25,798
+¡Igor!
+
+52
+00:03:30,610 --> 00:03:33,010
+<i>Cuando vean de qué soy capaz,</i>
+<i>mi vida cambiará,</i>
+
+53
+00:03:33,079 --> 00:03:36,640
+<i>y no volveré a servir a ningún otro amo.</i>
+
+54
+00:03:36,716 --> 00:03:38,616
+- Perdón, amo.
+- ¿Qué dijiste?
+
+55
+00:03:38,685 --> 00:03:40,380
+¡Ay! Quise decir...
+
+56
+00:03:41,287 --> 00:03:44,916
+Perdón, amo. Estaba en el baño.
+
+57
+00:03:44,991 --> 00:03:49,291
+Tenía algo atrancado,
+si sabe a qué me refiero, amo.
+
+58
+00:03:49,362 --> 00:03:52,388
+No me interesan
+tus memorias de baños, ¡tonto!
+
+59
+00:03:52,465 --> 00:03:55,923
+Te doy cinco minutos por semana
+para que te ocupes de tus asuntos.
+
+60
+00:03:56,002 --> 00:03:58,562
+¡Esto no es un lugar de vacaciones!
+
+61
+00:03:58,638 --> 00:04:01,903
+Ve ahí y...
+
+62
+00:04:01,975 --> 00:04:03,704
+¡Jala el interruptor!
+
+63
+00:04:03,776 --> 00:04:06,006
+¡Sí, amo!
+
+64
+00:04:21,461 --> 00:04:23,691
+¡Sí! ¡Sí!
+
+65
+00:04:24,430 --> 00:04:26,057
+¡Eso es!
+
+66
+00:04:29,068 --> 00:04:32,265
+¿Quién es el fracasado ahora, madre?
+
+67
+00:04:42,448 --> 00:04:45,144
+¡Mami, mami, tenías razón!
+
+68
+00:04:45,218 --> 00:04:47,982
+Nunca debí ser un científico.
+
+69
+00:04:48,054 --> 00:04:51,319
+¡Debí haber sido plomero como tú!
+
+70
+00:04:52,325 --> 00:04:54,623
+Es la primera vez que tiene razón hoy.
+
+71
+00:04:54,694 --> 00:04:59,028
+¡Tú! Tráeme
+un transductor temporal de 16 gigavatios.
+
+72
+00:04:59,098 --> 00:05:03,398
+Disculpe, amo, ¿está seguro
+de que no quiso decir de 21 gigavatios?
+
+73
+00:05:03,469 --> 00:05:05,528
+¿Me estás corrigiendo?
+
+74
+00:05:08,041 --> 00:05:09,269
+¡Un pleno!
+
+75
+00:05:10,810 --> 00:05:12,471
+Debería improvisar más a menudo.
+
+76
+00:05:15,748 --> 00:05:19,514
+Mi joroba. Ah, ya está. Mucho mejor.
+
+77
+00:05:19,585 --> 00:05:21,610
+<i>/Buenas noches, amigos!</i>
+
+78
+00:05:21,688 --> 00:05:25,055
+<i>Él es Scamper,</i>
+<i>uno de mis mejores inventos.</i>
+
+79
+00:05:31,831 --> 00:05:33,162
+<i>Lo hice inmortal.</i>
+
+80
+00:05:33,232 --> 00:05:36,668
+<i>Lo que es un contratiempo para él,</i>
+<i>porque no quiere vivir.</i>
+
+81
+00:05:36,736 --> 00:05:39,637
+¿No hay nada que termine
+este ciclo malicioso?
+
+82
+00:05:39,706 --> 00:05:43,938
+<i>Y le di voz, lo que es un contratiempo</i>
+<i>para mí porque nunca se calla.</i>
+
+83
+00:05:44,010 --> 00:05:45,136
+¡No es justo!
+
+84
+00:05:45,211 --> 00:05:48,237
+Malgastaste tu fórmula
+en el tipo equivocado.
+
+85
+00:05:48,314 --> 00:05:50,714
+<i>Él es Brain, otro invento mío.</i>
+
+86
+00:05:50,783 --> 00:05:53,251
+<i>Dice la leyenda</i>
+<i>que cuando murió el hombre más listo,</i>
+
+87
+00:05:53,319 --> 00:05:55,287
+<i>pusieron su cerebro en un tarro.</i>
+
+88
+00:05:55,355 --> 00:05:57,289
+<i>No se refieren a él.</i>
+
+89
+00:05:57,357 --> 00:06:00,349
+¡Yo quiero ser inmortal!
+¡Tengo planes! ¡Y sueños!
+
+90
+00:06:00,426 --> 00:06:02,621
+¡Me chirría una rueda! ¿Fui yo?
+
+91
+00:06:02,695 --> 00:06:03,719
+¿En serio, Brain?
+
+92
+00:06:03,796 --> 00:06:06,594
+¿Quieres estar atrapado
+en una pesadilla existencial sin fin
+
+93
+00:06:06,666 --> 00:06:07,690
+obligado a seguir viviendo,
+
+94
+00:06:07,767 --> 00:06:11,225
+aunque la vida no tenga sentido
+y nada importe?
+
+95
+00:06:11,304 --> 00:06:12,635
+Posiblemente.
+
+96
+00:06:12,839 --> 00:06:14,534
+¿Qué dijiste exactamente?
+
+97
+00:06:14,607 --> 00:06:18,441
+Qué lástima que malgastó su fórmula
+de la inteligencia conmigo, Brain.
+
+98
+00:06:18,511 --> 00:06:20,741
+¿O debería decir "Brian"?
+
+99
+00:06:21,381 --> 00:06:23,246
+¡Oye! ¡Estaba apurado!
+
+100
+00:06:23,816 --> 00:06:25,579
+Eso me pasa por utilizar
+marcador permanente.
+
+101
+00:06:25,651 --> 00:06:26,640
+¡Ya basta!
+
+102
+00:06:26,719 --> 00:06:27,743
+Feria de Ciencias del Mal
+Faltan 7 DÍAS
+
+103
+00:06:27,820 --> 00:06:30,721
+La Feria del Mal es en una semana,
+Glickenstein perderá otra vez.
+
+104
+00:06:30,790 --> 00:06:33,588
+Entendí. Quieres que arregle su invento.
+
+105
+00:06:33,659 --> 00:06:37,857
+Necesitaré un destornillador,
+clavos y mi bolsa de canicas.
+
+106
+00:06:37,930 --> 00:06:39,454
+No toques su invento, Brain.
+
+107
+00:06:39,532 --> 00:06:43,992
+¡De acuerdo! ¿No quieres aprovechar
+mi cerebro? Adiós, Igor.
+
+108
+00:06:45,138 --> 00:06:48,266
+Como cervatillo gentil,
+partiré de este prado.
+
+109
+00:06:57,950 --> 00:07:00,214
+Pensándolo mejor,
+quizá me quede un poco más,
+
+110
+00:07:00,286 --> 00:07:04,313
+para ver cómo el Sr. Joroba inteligente
+arregla el invento de Glickenstein.
+
+111
+00:07:04,857 --> 00:07:07,758
+¡Podría hacerlo!
+Pero ¡ya sabes qué pasaría si lo hiciera!
+
+112
+00:07:07,827 --> 00:07:10,796
+Lo mismo que él haría si supiera
+que los inventé a ustedes dos.
+
+113
+00:07:10,863 --> 00:07:12,353
+Me reciclaría.
+
+114
+00:07:12,432 --> 00:07:15,162
+¿Te imaginas que te corten
+en trozos, y usen tus partes
+
+115
+00:07:15,234 --> 00:07:16,758
+y Dios sabe qué más?
+
+116
+00:07:16,836 --> 00:07:18,064
+Es horrible.
+
+117
+00:07:18,137 --> 00:07:21,766
+IGOR NÚMERO 10
+
+118
+00:07:22,208 --> 00:07:23,903
+¡Maldita sea! Sigo aquí.
+
+119
+00:07:27,146 --> 00:07:28,875
+Si tuviera una oportunidad,
+
+120
+00:07:28,948 --> 00:07:33,317
+podría ser uno de los mejores
+científicos malvados de Malaria.
+
+121
+00:07:34,086 --> 00:07:36,452
+Todos vitorearían mi nombre
+
+122
+00:07:36,522 --> 00:07:39,958
+¡como hacen
+con el genial Dr. Schadenfreude!
+
+123
+00:07:58,010 --> 00:08:01,605
+Y ahora, el señor de los desastres,
+el jefe del dolor,
+
+124
+00:08:01,681 --> 00:08:03,342
+un hombre que no necesita presentación,
+
+125
+00:08:03,416 --> 00:08:06,180
+pero que me torturará brutalmente,
+si no lo presento,
+
+126
+00:08:06,252 --> 00:08:09,619
+¡el Dr. Schadenfreude!
+
+127
+00:08:10,857 --> 00:08:13,690
+Gracias, gracias. ¡Qué amable!
+
+128
+00:08:13,759 --> 00:08:15,249
+Pero yo no lo soy.
+
+129
+00:08:15,328 --> 00:08:19,958
+Les doy la bienvenida a mi fiesta anual
+pre Feria de las Ciencias del Mal.
+
+130
+00:08:20,032 --> 00:08:21,329
+Mi novia Jaclyn.
+
+131
+00:08:21,400 --> 00:08:25,837
+Podrá parecer una baja y maquinadora...
+
+132
+00:08:27,273 --> 00:08:29,969
+No tengo nada más que decir.
+Eso lo resume todo.
+
+133
+00:08:32,345 --> 00:08:37,408
+Un brindis por el invencible ganador
+de 17 Ferias de Ciencias del Mal
+
+134
+00:08:37,483 --> 00:08:40,611
+y el mayor genio del mal del mundo.
+
+135
+00:08:42,955 --> 00:08:44,889
+¡Reverencia al Rey!
+
+136
+00:08:48,528 --> 00:08:51,019
+"El mayor genio del mal del mundo."
+
+137
+00:08:51,097 --> 00:08:53,657
+Recuerdo cuando antes
+me llamaban así a mí.
+
+138
+00:08:53,733 --> 00:08:57,464
+Cuando las nubes destruyeron
+nuestra pacífica tierra de granjeros,
+
+139
+00:08:57,537 --> 00:09:01,473
+y mi plan de chantajear al mundo
+¡nos salvó a todos!
+
+140
+00:09:01,541 --> 00:09:06,535
+Sí, como ya lo dijo una y otra vez.
+
+141
+00:09:06,612 --> 00:09:08,204
+Sí, bueno, lo diré una vez más.
+
+142
+00:09:08,281 --> 00:09:12,445
+¿Sabías que años atrás,
+el apellido de Schoddy era Poekelmacher?
+
+143
+00:09:13,119 --> 00:09:15,952
+¡Su familia hacía pepinillos!
+
+144
+00:09:17,256 --> 00:09:21,454
+¿Cuál es su invento maligno de este año,
+doctor? ¿Kosher o pepinillos?
+
+145
+00:09:24,630 --> 00:09:27,724
+Quiero meterle un pepinillo
+justo donde no alumbra el sol.
+
+146
+00:09:27,800 --> 00:09:30,030
+¿Se refiere a Malaria, amo?
+
+147
+00:09:32,171 --> 00:09:34,901
+No importa cuántas ferias
+de Ciencias del Mal gane,
+
+148
+00:09:34,974 --> 00:09:37,966
+¡siempre deberé reverenciar a ese idiota!
+
+149
+00:09:38,044 --> 00:09:40,171
+¡Nunca tendré el respeto que él tiene!
+
+150
+00:09:40,246 --> 00:09:44,478
+¿Respeto? El respeto no me dará
+botas de bebé de foca.
+
+151
+00:09:46,118 --> 00:09:48,313
+Sólo sigue ganando.
+
+152
+00:09:48,654 --> 00:09:51,987
+Eso es hablar
+como una sanguijuela sin valor,
+
+153
+00:09:52,058 --> 00:09:56,859
+quien, a propósito, aún no me ayudó
+a robar el invento ganador de este año.
+
+154
+00:09:56,929 --> 00:09:59,124
+Si fueras un científico de verdad,
+
+155
+00:09:59,198 --> 00:10:02,326
+no me necesitarías
+para ayudarte a hacer trampa cada año.
+
+156
+00:10:04,337 --> 00:10:06,965
+Todo tu laboratorio es una falsedad,
+
+157
+00:10:07,039 --> 00:10:08,597
+igual que tú.
+
+158
+00:10:10,710 --> 00:10:15,477
+¡Quizá debería tirarte
+a la alcantarilla donde te encontré!
+
+159
+00:10:15,881 --> 00:10:19,044
+¡Si tú lo dices, Dr. Schadenfraude!
+
+160
+00:10:19,619 --> 00:10:21,519
+No tienes agallas suficientes.
+
+161
+00:10:33,566 --> 00:10:36,034
+¿Papá sigue enojado conmigo?
+
+162
+00:10:36,102 --> 00:10:38,036
+No.
+
+163
+00:10:38,104 --> 00:10:42,040
+Pero tú y tu amiga Heidi tienen
+un trabajo que hacer.
+
+164
+00:10:42,808 --> 00:10:44,673
+Estamos intentándolo.
+
+165
+00:10:44,744 --> 00:10:47,235
+¡Esfuércense más!
+
+166
+00:10:48,648 --> 00:10:53,278
+Porque este año, no me detendré
+con ganar la Feria de las Ciencias del Mal.
+
+167
+00:10:53,352 --> 00:10:56,253
+Soltaré mi invento ganador
+
+168
+00:10:56,322 --> 00:11:00,190
+en la cara del Rey,
+
+169
+00:11:00,259 --> 00:11:03,558
+y ¡él será quien se arrastre a mis pies!
+
+170
+00:11:08,434 --> 00:11:10,061
+¡Hola!
+
+171
+00:11:10,136 --> 00:11:14,539
+Llegó tu novia, Heidi.
+Toma tu cacao y descansa,
+
+172
+00:11:14,607 --> 00:11:17,576
+que yo guardaré los planes
+de tu nuevo invento.
+
+173
+00:11:17,643 --> 00:11:19,406
+¡No, espera! Derramarás la leche.
+
+174
+00:11:19,478 --> 00:11:23,278
+Heidi, ¡no tienes cuidado!
+A veces, eres muy descuidada.
+
+175
+00:11:23,883 --> 00:11:25,214
+Ay, cariño.
+
+176
+00:11:25,284 --> 00:11:29,482
+Fui a la librería del mal
+y te traje un afiche para que te inspires.
+
+177
+00:11:30,189 --> 00:11:31,213
+¡Es de un gatito!
+
+178
+00:11:31,290 --> 00:11:32,484
+¡AGUANTA AMOR!
+
+179
+00:11:32,558 --> 00:11:36,722
+Para recordarte que te tomes
+un momento del día para torturar un poco.
+
+180
+00:11:39,265 --> 00:11:41,028
+¡Mi transductor!
+
+181
+00:11:41,100 --> 00:11:43,694
+¡Es hora de irse!
+¡No tengo tiempo para cacao ni gatitos!
+
+182
+00:11:43,769 --> 00:11:46,602
+Debo trabajar en mis planes
+solo y en secreto.
+
+183
+00:11:46,672 --> 00:11:48,765
+En otras palabras, buen viaje.
+
+184
+00:11:50,443 --> 00:11:52,968
+¿A quién no le gustan
+los gatitos torturados?
+
+185
+00:11:53,612 --> 00:11:55,375
+A mí me gustan los gatitos.
+
+186
+00:11:55,681 --> 00:11:58,514
+No me gustan los jorobados sucios.
+
+187
+00:11:59,051 --> 00:12:01,451
+Genial, Schadenfreude me matará.
+
+188
+00:12:02,888 --> 00:12:06,346
+¿Por qué hay dos transductores?
+
+189
+00:12:06,425 --> 00:12:10,987
+Amo, creo que el de 21 gigavatios
+podría ser más seguro.
+
+190
+00:12:11,263 --> 00:12:14,164
+¿Tú crees? Los Igor no piensan.
+
+191
+00:12:14,233 --> 00:12:17,225
+Usaré el de 16 gigavatios, ¡tonto!
+
+192
+00:12:17,837 --> 00:12:21,102
+¡Ve ahí y jala el interruptor!
+
+193
+00:12:24,844 --> 00:12:26,641
+¿Qué esperas?
+
+194
+00:12:26,712 --> 00:12:28,145
+¡Sí, amo!
+
+195
+00:12:31,717 --> 00:12:33,878
+¡Eso es!
+
+196
+00:12:34,553 --> 00:12:36,214
+¡Bien!
+
+197
+00:12:39,258 --> 00:12:42,659
+Te dije que serviría el de 16, Igor.
+
+198
+00:12:44,530 --> 00:12:47,829
+¡Contempla mi cohete!
+
+199
+00:12:48,868 --> 00:12:54,534
+Creado para recorrer el mundo
+desatando dolor y miseria para todos.
+
+200
+00:12:55,441 --> 00:12:57,875
+Le puse tu nombre, madre.
+
+201
+00:13:00,246 --> 00:13:04,205
+Ahora llevaremos a la vieja
+a un viaje de prueba.
+
+202
+00:13:04,884 --> 00:13:07,079
+¡No, amo! El cohete va a...
+
+203
+00:13:15,027 --> 00:13:16,619
+Sí, eso.
+
+204
+00:13:16,695 --> 00:13:17,957
+Por fin.
+
+205
+00:13:18,597 --> 00:13:22,590
+Ahora puedo tirar esa alfombra
+de la entrada. Era horrenda.
+
+206
+00:13:22,668 --> 00:13:24,795
+Todos lo pensamos. Yo sólo lo dije.
+
+207
+00:13:26,038 --> 00:13:27,699
+Ay, no. ¿Quién es? ¿Qué voy a hacer?
+
+208
+00:13:27,773 --> 00:13:30,435
+Cálmate, estamos
+en el castillo de Glickenstein.
+
+209
+00:13:30,509 --> 00:13:32,636
+Y no tiene que abrirle la puerta a nadie.
+
+210
+00:13:32,711 --> 00:13:34,372
+¡Ábranle al Rey!
+
+211
+00:13:35,214 --> 00:13:36,909
+- Salvo al Rey.
+- ¡Ay, Dios mío!
+
+212
+00:13:36,982 --> 00:13:38,779
+¡Vino a ver a Glickenstein! ¿Qué le digo?
+
+213
+00:13:38,851 --> 00:13:40,148
+Dile la verdad. Y si nos mata,
+
+214
+00:13:40,219 --> 00:13:42,744
+regresaré para hacerte
+un hermoso funeral.
+
+215
+00:13:42,822 --> 00:13:45,450
+Claro, claro. La verdad es buena opción.
+Claro, claro.
+
+216
+00:13:46,458 --> 00:13:49,291
+¡Glicky! ¡Glicky, mi muchacho!
+
+217
+00:13:49,361 --> 00:13:50,794
+¿Dónde está Glicky?
+
+218
+00:13:50,863 --> 00:13:53,195
+Su Alteza, se nos fue.
+
+219
+00:13:53,265 --> 00:13:57,201
+¡Maldita sea! Debo ver su invento.
+Schadenfreude se volvió muy popular.
+
+220
+00:13:57,269 --> 00:13:58,793
+Podrían hacerlo rey.
+
+221
+00:13:58,871 --> 00:14:02,500
+Alguien debe vencerlo este año,
+con un invento más maligno que el suyo.
+
+222
+00:14:02,575 --> 00:14:05,339
+Alguien que le quite
+el primer puesto a Schadenfreude
+
+223
+00:14:05,411 --> 00:14:07,879
+¡y se lo restriegue por la cara!
+
+224
+00:14:08,814 --> 00:14:12,181
+Su Alteza, el Dr. Glickenstein está
+
+225
+00:14:12,785 --> 00:14:14,309
+¡creando vida!
+
+226
+00:14:14,553 --> 00:14:16,885
+- ¿Dijiste "vida"?
+- Sí.
+
+227
+00:14:17,156 --> 00:14:22,025
+Vida que piensa, respira,
+que puede destruir todo con libertad.
+
+228
+00:14:22,795 --> 00:14:25,923
+¡Ningún científico malvado pudo crear
+vida antes!
+
+229
+00:14:25,998 --> 00:14:28,967
+Mutaron vida. Terminaron con la vida.
+
+230
+00:14:29,034 --> 00:14:31,298
+Hicieron explotar la vida
+en millones de partes.
+
+231
+00:14:31,370 --> 00:14:33,167
+Pero ¿crearla?
+
+232
+00:14:33,239 --> 00:14:38,472
+Sería el arma más malvada
+de todos los tiempos.
+
+233
+00:14:38,544 --> 00:14:41,172
+Y ¿su inventor sería
+el mejor científico malvado?
+
+234
+00:14:41,247 --> 00:14:43,545
+¡Por supuesto!
+Es lo que estuve esperando.
+
+235
+00:14:43,616 --> 00:14:46,414
+Tú debes asegurarte
+de que nada le pase a Glickenstein,
+
+236
+00:14:46,485 --> 00:14:48,749
+o te mandaré a reciclar
+
+237
+00:14:48,821 --> 00:14:51,517
+¡y usaré tu joroba como un tope!
+
+238
+00:14:52,758 --> 00:14:55,591
+Esto es genial.
+Se acabó la suerte de Schadenfreude.
+
+239
+00:14:55,661 --> 00:14:58,027
+¡Vamos, muchachos!
+Vamos a patear viejos.
+
+240
+00:15:00,532 --> 00:15:02,227
+¿Qué te pasa?
+
+241
+00:15:02,301 --> 00:15:04,861
+Eso te pasa por querer morir.
+Eso lo hago yo.
+
+242
+00:15:04,937 --> 00:15:07,064
+No voy a morir, Scamper.
+
+243
+00:15:08,807 --> 00:15:11,037
+Por primera vez,
+
+244
+00:15:11,110 --> 00:15:13,010
+¡voy a vivir!
+
+245
+00:15:21,820 --> 00:15:24,380
+A veces, vengo aquí a pensar.
+
+246
+00:15:24,957 --> 00:15:28,449
+Qué interesante. ¿Qué sigue?
+¿Sacarás una guitarra
+
+247
+00:15:28,527 --> 00:15:32,088
+y nos tocarás una canción
+que escribiste por no ser comprendido?
+
+248
+00:15:44,677 --> 00:15:47,077
+Ya lo sé. Y aún no la terminé.
+
+249
+00:16:08,100 --> 00:16:10,830
+Vamos. Hazlo. Que sea más grande.
+
+250
+00:16:10,903 --> 00:16:12,495
+MANEJAR CON CUIDADO
+
+251
+00:16:12,571 --> 00:16:13,799
+¡Más grande!
+
+252
+00:16:16,875 --> 00:16:20,572
+A la izquierda. Muy bien.
+Ahora de vuelta a la derecha.
+
+253
+00:16:20,646 --> 00:16:22,739
+¡No, no, no!
+
+254
+00:16:22,815 --> 00:16:27,616
+A la izquierda, ahora a la derecha.
+A la derecha. A la derecha.
+
+255
+00:16:27,686 --> 00:16:29,586
+¿Acaso eso es su mano?
+
+256
+00:16:38,864 --> 00:16:41,594
+Y ahora que su piel sea indestructible.
+
+257
+00:16:55,514 --> 00:16:58,244
+¿Viste eso? Dispárale de nuevo.
+
+258
+00:16:58,317 --> 00:17:00,012
+Feria de las Ciencias del Mal
+Faltan 5 DÍAS
+
+259
+00:17:03,655 --> 00:17:07,955
+Y ahora, la parte crucial,
+la fuente del poder del monstruo,
+
+260
+00:17:11,497 --> 00:17:13,328
+el hueso del mal.
+
+261
+00:17:16,101 --> 00:17:19,298
+Debo apurarme. Pierde su poder con la luz.
+
+262
+00:17:28,514 --> 00:17:29,879
+Ya está.
+
+263
+00:17:30,649 --> 00:17:32,708
+Sólo falta hacer una cosa.
+
+264
+00:17:32,985 --> 00:17:34,452
+Lo dice él.
+
+265
+00:17:36,188 --> 00:17:38,952
+¡Jala el interruptor!
+
+266
+00:17:45,264 --> 00:17:47,289
+A mí no me grites.
+
+267
+00:17:47,933 --> 00:17:50,094
+Perdona. Estaba...
+
+268
+00:17:50,602 --> 00:17:52,194
+Jala el interruptor.
+
+269
+00:17:54,740 --> 00:17:57,004
+- Por favor, jala el interruptor.
+- Eso está mejor.
+
+270
+00:17:57,076 --> 00:18:00,603
+¡Alto, alto, alto! ¿Por qué jala él?
+
+271
+00:18:00,679 --> 00:18:03,045
+Porque yo no soy idiota, Brian.
+
+272
+00:18:03,115 --> 00:18:04,139
+¡No me llamo Brian!
+
+273
+00:18:04,216 --> 00:18:05,615
+Entonces, debes tener su tarro.
+
+274
+00:18:05,684 --> 00:18:07,982
+¡Basta! Jalen del interruptor los dos.
+
+275
+00:18:08,053 --> 00:18:11,147
+A la cuenta de tres. Uno.
+
+276
+00:18:11,523 --> 00:18:14,617
+¡Eso no es justo!
+Dijiste que los dos podíamos...
+
+277
+00:18:29,408 --> 00:18:31,239
+¡Levántate!
+
+278
+00:18:32,411 --> 00:18:34,242
+¡Levántate!
+
+279
+00:18:43,856 --> 00:18:44,948
+No...
+
+280
+00:18:45,357 --> 00:18:47,086
+No puedo creerlo.
+
+281
+00:18:48,127 --> 00:18:50,687
+Soy un fracasado. Soy...
+
+282
+00:18:51,396 --> 00:18:53,091
+Soy un Igor.
+
+283
+00:18:53,165 --> 00:18:56,225
+Deshazte de eso. No quiero volver a verlo.
+
+284
+00:18:57,236 --> 00:18:59,261
+Qué gracioso que digas eso.
+
+285
+00:19:03,575 --> 00:19:05,907
+¿Igor? ¿Adónde fue el monstruo?
+
+286
+00:19:05,978 --> 00:19:06,967
+No sé, Brain.
+
+287
+00:19:07,045 --> 00:19:09,775
+¿Puedo sugerir
+que miren detrás de ustedes?
+
+288
+00:19:11,984 --> 00:19:13,417
+Fue una sugerencia.
+
+289
+00:19:20,225 --> 00:19:23,786
+¿Quizá sufrió combustión espontánea?
+
+290
+00:19:23,862 --> 00:19:27,764
+Ah, sí, claro. Leí sobre eso en...
+
+291
+00:19:27,833 --> 00:19:30,358
+¿A quién engaño? ¡No sé leer!
+
+292
+00:19:56,061 --> 00:19:59,462
+Y así sin más,
+ella desapareció de nuestras vidas.
+
+293
+00:20:00,365 --> 00:20:02,424
+Lo logré. Yo...
+
+294
+00:20:03,001 --> 00:20:04,662
+Creé vida.
+
+295
+00:20:06,538 --> 00:20:08,506
+¿Ese agujero estuvo siempre ahí?
+
+296
+00:20:09,741 --> 00:20:11,003
+¡Vamos!
+
+297
+00:20:15,547 --> 00:20:19,950
+Quiero entenderlo bien.
+¿Perseguimos a un monstruo sanguinario?
+
+298
+00:20:20,652 --> 00:20:21,880
+HOGAR DE HUÉRFANOS CIEGOS
+
+299
+00:20:21,954 --> 00:20:23,615
+"Hogar de huérfanos ciegos."
+
+300
+00:20:25,857 --> 00:20:28,792
+¡Dios mío!
+¡Está matando huérfanos ciegos!
+
+301
+00:20:28,860 --> 00:20:32,421
+¡Qué malvada!
+Quiero decir, es genial, pero...
+
+302
+00:20:33,732 --> 00:20:35,290
+¡Huérfanos ciegos!
+
+303
+00:20:42,774 --> 00:20:44,435
+¡Quiero ser el siguiente!
+
+304
+00:20:44,509 --> 00:20:45,703
+Yo, yo, ¡elígeme a mí!
+
+305
+00:20:45,777 --> 00:20:49,076
+Me pregunto cuál será
+su próximo hecho diabólico.
+
+306
+00:20:49,147 --> 00:20:50,136
+¿Llevarlos a caballito?
+
+307
+00:20:50,215 --> 00:20:52,274
+- ¡Me toca a mí!
+- ¡Yo sigo! ¡Yo sigo!
+
+308
+00:20:52,351 --> 00:20:53,978
+- ¡A mí! ¡Me toca a mí!
+- ¡Yo! ¡Yo!
+
+309
+00:20:54,052 --> 00:20:56,452
+¡A los huérfanos ciegos les dan de todo!
+
+310
+00:20:57,689 --> 00:21:00,715
+Su enorme amiga es un amor.
+
+311
+00:21:00,792 --> 00:21:02,282
+No, no lo es.
+
+312
+00:21:03,729 --> 00:21:07,665
+Soy tu amo, te ordeno
+que no sigas con este gesto de bondad
+
+313
+00:21:07,733 --> 00:21:09,394
+y los bajes ahora mismo.
+
+314
+00:21:11,203 --> 00:21:12,295
+¡Bájalos!
+
+315
+00:21:13,505 --> 00:21:17,032
+Bien, ahora volverás
+al castillo, ¿entendiste?
+
+316
+00:21:18,477 --> 00:21:19,967
+¡Uy! ¡Lo mató!
+
+317
+00:21:23,715 --> 00:21:27,082
+Son flores de papel
+que venden los huérfanos.
+
+318
+00:21:27,152 --> 00:21:30,019
+Parece que a alguien le gustan.
+
+319
+00:21:30,088 --> 00:21:31,680
+¡Si las tocas, las compras!
+
+320
+00:21:38,096 --> 00:21:39,188
+¡Amo!
+
+321
+00:21:39,264 --> 00:21:43,325
+Busqué en el castillo del Dr. Glickenstein
+y no vi a nadie.
+
+322
+00:21:43,402 --> 00:21:44,801
+Pero eso no es todo...
+
+323
+00:21:44,870 --> 00:21:47,395
+Sí, es todo, porque tu voz es molesta.
+
+324
+00:21:47,472 --> 00:21:51,932
+Irrumpe en el castillo de Glickenstein
+y roba los planos que Heidi no pudo tomar.
+
+325
+00:21:58,684 --> 00:22:00,948
+¿Qué hizo esto?
+
+326
+00:22:01,019 --> 00:22:05,547
+Supongo que algo grande. Algo como esto.
+
+327
+00:22:06,958 --> 00:22:09,927
+¿Vida? ¿Glickenstein inventó vida?
+
+328
+00:22:09,995 --> 00:22:12,896
+No creo que haya puesto mano en eso.
+
+329
+00:22:14,333 --> 00:22:16,233
+Bueno, si está hecho polvo,
+
+330
+00:22:16,835 --> 00:22:18,496
+¿quién lo inventó?
+
+331
+00:22:19,371 --> 00:22:20,395
+No puedo creerlo.
+
+332
+00:22:21,640 --> 00:22:22,766
+Vaya,
+
+333
+00:22:22,841 --> 00:22:26,470
+no sólo los demás científicos malvados
+son más listos que tú,
+
+334
+00:22:26,545 --> 00:22:28,536
+¿también lo es un Igor?
+
+335
+00:22:30,816 --> 00:22:33,284
+Ser listo es no fanfarronear
+
+336
+00:22:33,352 --> 00:22:38,153
+con quien acaba de hallar el modo
+de llevarse el trono.
+
+337
+00:22:53,271 --> 00:22:56,934
+Debe de juntar flores
+para golpearnos con ellas.
+
+338
+00:22:58,076 --> 00:23:00,772
+Debes de sentir mucha vergüenza.
+
+339
+00:23:12,691 --> 00:23:17,060
+Está claro que su hueso de maldad
+no se activó cuando cobró vida. Es todo.
+
+340
+00:23:17,162 --> 00:23:18,629
+¡Tengo una idea!
+
+341
+00:23:18,697 --> 00:23:20,756
+¿Es sobre lo que pasa?
+
+342
+00:23:21,133 --> 00:23:22,191
+No.
+
+343
+00:23:22,267 --> 00:23:23,996
+¿Acaso es una idea?
+
+344
+00:23:24,736 --> 00:23:26,727
+¿Las papas fritas son una idea?
+
+345
+00:23:29,374 --> 00:23:31,604
+Entonces, ¿cómo se activa?
+
+346
+00:23:31,676 --> 00:23:33,667
+Necesitamos de la fuerza.
+
+347
+00:23:33,745 --> 00:23:36,680
+Ella debe cometer un acto de maldad.
+
+348
+00:23:37,115 --> 00:23:39,083
+No lastimaría ni una mosca.
+
+349
+00:23:41,286 --> 00:23:45,245
+Bien. Monstruo,
+te ordeno matar esa mosca.
+
+350
+00:23:46,525 --> 00:23:48,789
+¡Mátala! ¡Mátala!
+
+351
+00:23:48,860 --> 00:23:51,488
+¡Mátala, mujer! ¡Vamos!
+¡Eres una asesina!
+
+352
+00:23:51,563 --> 00:23:54,361
+¡Mutílala! ¡Hiérela! ¡Insúltala!
+
+353
+00:23:54,433 --> 00:23:57,095
+¡Haz algo! ¡Mátala!
+
+354
+00:23:57,169 --> 00:23:58,796
+¡Mátala! ¡Mátala!
+
+355
+00:24:00,605 --> 00:24:02,197
+¿Qué decías?
+
+356
+00:24:09,681 --> 00:24:11,945
+¡No, no! ¡Eres malvada!
+
+357
+00:24:12,350 --> 00:24:13,647
+¡Malvada!
+
+358
+00:24:13,718 --> 00:24:14,844
+¡Malvada!
+
+359
+00:24:16,788 --> 00:24:17,846
+Eva.
+
+360
+00:24:18,190 --> 00:24:20,954
+¿Cómo? No, no eres Eva.
+
+361
+00:24:21,026 --> 00:24:22,584
+Eva. Eva.
+
+362
+00:24:24,696 --> 00:24:26,163
+Y ¿ahora qué, genio?
+
+363
+00:24:26,231 --> 00:24:29,098
+Bueno, gracias por preguntar.
+Lo que haremos es...
+
+364
+00:24:29,167 --> 00:24:31,692
+Ve a refrescar tu cerebro, Brian.
+
+365
+00:24:31,770 --> 00:24:34,068
+No es mala idea.
+
+366
+00:24:34,639 --> 00:24:35,833
+¿Quieres un lavado de cerebro?
+
+367
+00:24:36,308 --> 00:24:42,338
+LAVADO DE CEREBRO
+
+368
+00:24:51,389 --> 00:24:53,516
+- ¡El que sigue!
+- Hola, quisiera...
+
+369
+00:24:53,592 --> 00:24:57,494
+¿A quién le hablas? ¡Aquí mando yo!
+
+370
+00:24:57,562 --> 00:24:59,120
+Ah, perdón. Lo siento.
+
+371
+00:24:59,197 --> 00:25:01,665
+¿Qué diablos es eso?
+
+372
+00:25:01,733 --> 00:25:03,064
+Es mi tía Eva.
+
+373
+00:25:03,134 --> 00:25:04,931
+Se puso dulce en la vejez,
+
+374
+00:25:05,003 --> 00:25:08,131
+por eso quisiera, no sé,
+envilecerla un poco.
+
+375
+00:25:08,940 --> 00:25:10,271
+Masacre dominical 15
+Refriega de incendiario 9, 99
+
+376
+00:25:10,342 --> 00:25:11,775
+"Masacre dominical." No. "Incendio."
+
+377
+00:25:11,843 --> 00:25:14,573
+Todos son buenos.
+¿Qué tal el lavado de "Asesino del hacha"?
+
+378
+00:25:14,646 --> 00:25:15,806
+Asesino del Hacha
+
+379
+00:25:16,248 --> 00:25:19,115
+Ella debe de ser muy especial para ti.
+
+380
+00:25:39,237 --> 00:25:42,900
+¡Oye! ¡No toques eso!
+¡Es un sistema muy complicado!
+
+381
+00:25:42,974 --> 00:25:45,772
+¡Si tocas el botón equivocado,
+verás los canales comunes!
+
+382
+00:25:45,844 --> 00:25:49,371
+¿Quieres desperdiciar el dinero
+de tu sobrino en eso?
+
+383
+00:26:04,429 --> 00:26:08,695
+Siento como si enviara a mi hija
+a la escuela por primera vez.
+
+384
+00:26:08,833 --> 00:26:11,233
+Ya saben, para que aprenda a asesinar.
+
+385
+00:26:12,103 --> 00:26:14,367
+Hola. ¿Qué tal? Qué lindas alas.
+
+386
+00:26:14,439 --> 00:26:17,101
+¿Podría tomar yo también
+un lavado de cerebro?
+
+387
+00:26:17,175 --> 00:26:19,143
+Una buena refregada.
+
+388
+00:26:19,210 --> 00:26:20,700
+¿Acaso eres un imbécil?
+
+389
+00:26:20,779 --> 00:26:24,237
+Ah, <i>¿parlez</i> italiano? Soy Taco Grande.
+
+390
+00:26:24,950 --> 00:26:28,215
+Sí. Lleva a Brian a la Sala 4.
+
+391
+00:26:31,823 --> 00:26:33,415
+"Ojalá no estuvieras ahí.
+
+392
+00:26:33,491 --> 00:26:37,894
+"Esta tarjeta teletransporta a tu enemigo
+para que lo destruyas en persona."
+
+393
+00:26:37,963 --> 00:26:39,123
+Díganme que soy anticuado,
+
+394
+00:26:39,197 --> 00:26:41,358
+pero ¿qué pasó
+con las que te volaban la cabeza?
+
+395
+00:26:41,433 --> 00:26:42,991
+Piensa, Scamper. En unos momentos,
+
+396
+00:26:43,068 --> 00:26:46,333
+tendré el invento más maligno
+de todos los tiempos.
+
+397
+00:26:47,539 --> 00:26:51,600
+Son los ahorros de toda mi vida,
+pero me regalaré algo.
+
+398
+00:26:53,178 --> 00:26:54,873
+Ay, mi joroba.
+
+399
+00:26:55,680 --> 00:26:57,511
+"Feliz día de la madre."
+
+400
+00:27:01,553 --> 00:27:06,115
+Ven, a eso me refería.
+Es simple, elegante, clásico.
+
+401
+00:27:06,925 --> 00:27:09,985
+Seguro que viste muchos cerebros.
+
+402
+00:27:10,061 --> 00:27:12,894
+El mío es más grande
+de lo normal, ¿no? ¿No?
+
+403
+00:27:13,865 --> 00:27:16,231
+¿Hola? ¿Acaso puedes hablar?
+
+404
+00:27:18,637 --> 00:27:21,162
+Canadienses. Miraré la tele.
+
+405
+00:27:23,708 --> 00:27:25,198
+Dedos de mantequilla.
+
+406
+00:27:27,879 --> 00:27:30,939
+Ah. Genial. Un momento.
+
+407
+00:27:31,016 --> 00:27:33,541
+Frío, frío, frío.
+
+408
+00:27:33,618 --> 00:27:36,314
+Monstruo, ¿me prestas el control remoto?
+
+409
+00:27:36,721 --> 00:27:38,052
+Gracias.
+
+410
+00:27:41,993 --> 00:27:43,221
+¡Vamos!
+
+411
+00:27:50,335 --> 00:27:51,359
+¡Qué control estúpido!
+
+412
+00:27:51,803 --> 00:27:54,567
+<i>Dilucidar las profundidades</i>
+<i>de Blanche DuBois en</i> Streetcar
+
+413
+00:27:54,639 --> 00:27:58,200
+<i>es el mayor desafío</i>
+<i>para cualquier actriz de hoy.</i>
+
+414
+00:28:03,615 --> 00:28:06,812
+Nuestro panecillo del mal debe
+estar por salir del horno.
+
+415
+00:28:16,194 --> 00:28:18,526
+Estephan, ¡eres un mago!
+
+416
+00:28:18,596 --> 00:28:20,029
+¿Qué olor es ése?
+
+417
+00:28:20,098 --> 00:28:23,625
+Mi nuevo desodorante de ambientes,
+"Perro muerto". ¿Estás celoso?
+
+418
+00:28:27,105 --> 00:28:28,970
+No oigo nada.
+
+419
+00:28:32,977 --> 00:28:34,638
+Creo que resultó.
+
+420
+00:28:36,214 --> 00:28:37,476
+¿Quizá demasiado?
+
+421
+00:28:37,549 --> 00:28:38,914
+¿Sí?
+
+422
+00:28:38,983 --> 00:28:42,510
+¿Fue demasiado? Presioné mucho, ¿no?
+
+423
+00:28:42,587 --> 00:28:45,147
+Sólo era un ejercicio vocal,
+un error de principiante.
+
+424
+00:28:45,223 --> 00:28:48,158
+Lo admito. Así soy.
+
+425
+00:28:48,426 --> 00:28:52,123
+Si supiera que lo tengo.
+
+426
+00:28:52,197 --> 00:28:54,028
+¿Cómo saberlo? Eso no se aprende,
+
+427
+00:28:54,099 --> 00:28:55,896
+se nace con él.
+
+428
+00:28:55,967 --> 00:28:59,630
+Óiganme hablar sin parar sólo de mí.
+
+429
+00:28:59,704 --> 00:29:02,696
+Hablemos de ti, Igor.
+¿Te parece que lo tengo?
+
+430
+00:29:02,774 --> 00:29:06,972
+<i>Démosle las gracias a nuestra invitada</i>
+<i>que en una hora nos enseñó</i>
+
+431
+00:29:07,045 --> 00:29:11,106
+<i>toda una vida de lecciones de actuación.</i>
+
+432
+00:29:11,382 --> 00:29:12,576
+¿Actuación?
+
+433
+00:29:14,519 --> 00:29:17,579
+¿Quién cambió de canal?
+¿Dónde está el control remoto?
+
+434
+00:29:17,655 --> 00:29:19,589
+¡Vete! Necesito esta sala.
+
+435
+00:29:19,657 --> 00:29:21,989
+¡Espera! ¡Hay que deshacer
+el lavado de cerebro!
+
+436
+00:29:22,060 --> 00:29:23,925
+No es posible.
+
+437
+00:29:23,995 --> 00:29:27,692
+Cada lavado se hace
+con un sellador garantizado de por vida.
+
+438
+00:29:27,766 --> 00:29:29,893
+En otras palabras, ¡lárgate!
+
+439
+00:29:35,673 --> 00:29:38,403
+Listado para hacer,
+anotarme en clases de yoga,
+
+440
+00:29:38,476 --> 00:29:42,207
+tomarme fotos,
+adoptar niños de todos lados.
+
+441
+00:29:42,280 --> 00:29:45,215
+Ah, tomarme tiempo
+para los ejercicios de dicción.
+
+442
+00:29:45,550 --> 00:29:48,212
+Necesito galletas. Necesito galletas.
+
+443
+00:29:48,286 --> 00:29:50,151
+Es un fracaso tras otro.
+
+444
+00:29:50,221 --> 00:29:53,019
+Fracaso tras otro, fracaso tras otro...
+
+445
+00:29:53,525 --> 00:29:55,823
+Perdón, creí que contábamos tus fracasos.
+
+446
+00:29:55,894 --> 00:29:58,385
+Mezclador de galletas,
+una caja de mezclador...
+
+447
+00:29:58,463 --> 00:30:01,660
+Una caja de galletas mezcladas
+y un mezclador de galletas.
+
+448
+00:30:01,733 --> 00:30:03,166
+Necesito una caja...
+
+449
+00:30:03,234 --> 00:30:04,929
+¡Detengan el carruaje!
+
+450
+00:30:06,404 --> 00:30:07,462
+¿Qué pasa?
+
+451
+00:30:07,539 --> 00:30:10,770
+No pretendo ser una prima donna,
+pero necesito algo más grande.
+
+452
+00:30:10,842 --> 00:30:13,333
+Fracaso tras fracaso, tras fracaso...
+
+453
+00:30:13,411 --> 00:30:16,039
+Fracaso tras fracaso, tras fracaso...
+
+454
+00:30:19,784 --> 00:30:22,582
+Ese monstruo está por ser mío.
+
+455
+00:30:22,654 --> 00:30:24,645
+¿En serio? ¿Cómo?
+
+456
+00:30:24,722 --> 00:30:28,818
+Con una cosita que robé para la ocasión.
+
+457
+00:30:32,197 --> 00:30:34,256
+Práctica de posturas para la alfombra roja,
+
+458
+00:30:34,332 --> 00:30:38,200
+convertirme en ambientalista,
+pero utilizar avión privado.
+
+459
+00:30:41,806 --> 00:30:46,505
+¿Un rayo para encoger?
+Qué ingenioso plan para robar monstruos.
+
+460
+00:30:46,578 --> 00:30:48,512
+¡Oye! No voy a tu trabajo para...
+
+461
+00:30:48,580 --> 00:30:51,879
+¡Cierto! ¡Tú no trabajas!
+¡Cierra la boca, cariño!
+
+462
+00:30:51,950 --> 00:30:55,750
+Ahora, encoger a Igor
+y robarle el monstruo.
+
+463
+00:31:01,693 --> 00:31:04,821
+¡Dios mío! ¿Lo choqué? ¿Lo choqué?
+¡Ojalá que no!
+
+464
+00:31:04,896 --> 00:31:08,059
+Usted, señor, puso "la maldad"
+en "científico malvado".
+
+465
+00:31:08,132 --> 00:31:09,360
+¡Ahora sí!
+
+466
+00:31:11,135 --> 00:31:12,500
+¿Qué diablos?
+
+467
+00:31:17,575 --> 00:31:20,043
+¡Un momento! Para.
+¡Me dio mareo de tarro!
+
+468
+00:31:20,111 --> 00:31:21,635
+¡Alguien nos está disparando!
+
+469
+00:31:21,713 --> 00:31:25,809
+¡Son paparazzi! ¿Por qué esos buitres
+no me dejarán en paz?
+
+470
+00:31:29,954 --> 00:31:32,514
+Esto arruinó mi día de spa totalmente.
+
+471
+00:31:40,465 --> 00:31:42,330
+¡A la derecha! ¡A la derecha!
+
+472
+00:31:43,401 --> 00:31:46,131
+¡Es el peor servicio de auto
+que usé en mi vida!
+
+473
+00:31:55,947 --> 00:31:57,380
+Ahora tengo que verte morir.
+
+474
+00:31:57,448 --> 00:31:58,540
+¡Agárrense!
+
+475
+00:32:08,192 --> 00:32:09,420
+Frena. ¡Frena!
+
+476
+00:32:10,194 --> 00:32:11,661
+Frena...
+
+477
+00:32:15,466 --> 00:32:16,558
+Bien.
+
+478
+00:32:18,169 --> 00:32:19,830
+¡Lanza el acelerador de cohetes!
+
+479
+00:32:20,305 --> 00:32:22,136
+¡No veo quién es!
+
+480
+00:32:22,206 --> 00:32:23,264
+¡Ahí voy!
+
+481
+00:32:23,341 --> 00:32:25,400
+¡Ay! Mi hermoso rostro.
+
+482
+00:32:25,476 --> 00:32:28,138
+¡Se acabó el Doctor no mata a nadie!
+
+483
+00:32:30,481 --> 00:32:33,882
+¡No nos salvaremos! ¡No nos salvaremos!
+
+484
+00:32:37,722 --> 00:32:40,452
+¡Si te hubieras hecho indestructible!
+
+485
+00:32:40,525 --> 00:32:42,459
+Indestructible. ¡Indestructible!
+
+486
+00:32:42,527 --> 00:32:44,017
+¿Quién quiere ser gran estrella?
+
+487
+00:32:44,095 --> 00:32:45,995
+¡Yo! ¡Yo!
+
+488
+00:33:02,013 --> 00:33:04,914
+Es el momento oportuno
+para dominar tus tendencias suicidas.
+
+489
+00:33:04,983 --> 00:33:07,816
+Oye. Desde aquí veo mi cuarto.
+
+490
+00:33:13,091 --> 00:33:15,423
+¡Vete! Yo soy muy importante.
+
+491
+00:33:15,994 --> 00:33:17,655
+¿Qué olor es ése?
+
+492
+00:33:17,729 --> 00:33:22,029
+Ah, sí, es esa increíble fetidez de fracaso.
+
+493
+00:33:22,100 --> 00:33:27,299
+Es irónico que midiendo una pulgada,
+tengas la boca más grande de Malaria.
+
+494
+00:33:42,787 --> 00:33:45,221
+- Gracias.
+- De nada.
+
+495
+00:33:45,723 --> 00:33:47,247
+Me salvaste la vida.
+
+496
+00:33:47,325 --> 00:33:52,319
+Como actriz, siento todo
+con mucha intensidad, y atesoro la vida.
+
+497
+00:33:56,901 --> 00:34:00,234
+Para que sepas,
+deberías agradecerme a mí.
+
+498
+00:34:00,304 --> 00:34:02,670
+Yo cambié el canal
+de su lavado de cerebro.
+
+499
+00:34:02,740 --> 00:34:03,729
+- ¿Cómo?
+- Sí,
+
+500
+00:34:03,808 --> 00:34:06,902
+y si fuera mala,
+nos habría dejado morir a todos.
+
+501
+00:34:06,978 --> 00:34:11,574
+Técnicamente, yo nos salvé.
+Pero no es necesario que me agradezcan.
+
+502
+00:34:12,116 --> 00:34:13,981
+En realidad, no vendría mal.
+
+503
+00:34:14,052 --> 00:34:17,818
+Podría ser con una tarjeta,
+un poema, tú eliges.
+
+504
+00:34:17,889 --> 00:34:19,686
+También me gustan los ponis.
+
+505
+00:34:21,225 --> 00:34:22,419
+¿Un hacha?
+
+506
+00:34:23,394 --> 00:34:25,885
+No quiero un hacha. Qué locura.
+¿Por qué me das una?
+
+507
+00:34:25,963 --> 00:34:29,694
+¡Convertiste a mi monstruo en actriz!
+
+508
+00:34:29,767 --> 00:34:32,235
+¡Por eso la gente le tiene miedo
+a los jorobados!
+
+509
+00:34:32,303 --> 00:34:33,668
+¡Por esta razón!
+
+510
+00:34:33,738 --> 00:34:35,296
+¿Qué obra ensayan?
+
+511
+00:34:35,373 --> 00:34:36,533
+<i>Se queda sin cerebro.</i>
+
+512
+00:34:36,607 --> 00:34:38,507
+- ¡Que no me mate!
+- Será un éxito.
+
+513
+00:34:38,576 --> 00:34:40,441
+¡Que no me mate!
+
+514
+00:34:43,147 --> 00:34:45,843
+Lo único que se mató aquí fue mi sueño.
+
+515
+00:34:46,150 --> 00:34:48,948
+- ¡Bravo! ¡bravo!
+- ¿Eh?
+
+516
+00:34:49,020 --> 00:34:51,352
+Qué suerte tienen de tener trabajo.
+
+517
+00:34:51,422 --> 00:34:54,880
+Si yo pudiera tener un papel para morder.
+
+518
+00:34:55,793 --> 00:34:57,454
+Eva, tienes suerte.
+
+519
+00:34:57,528 --> 00:34:59,519
+En unos días,
+hay pruebas para el papel principal
+
+520
+00:34:59,597 --> 00:35:02,896
+en la obra más importante
+de Malaria desde...
+
+521
+00:35:02,967 --> 00:35:05,231
+<i>¿El Jorobado desesperado</i>
+<i>que probó suerte?</i>
+
+522
+00:35:05,303 --> 00:35:07,863
+En serio, Eva,
+¡podría ser tu puerta al éxito!
+
+523
+00:35:07,939 --> 00:35:11,170
+¡No puedo creerlo! ¿Qué obra es?
+
+524
+00:35:11,242 --> 00:35:13,802
+- ¿Obra? ¿Qué obra es?
+- ¿Es <i>Annie?</i>
+
+525
+00:35:14,579 --> 00:35:15,773
+<i>¿Annie?</i>
+
+526
+00:35:15,847 --> 00:35:19,339
+Muchas chicas magníficas empezaron
+con el papel de Annie.
+
+527
+00:35:19,417 --> 00:35:21,715
+¡Sí, ésa es! <i>/Annie!</i>
+
+528
+00:35:21,786 --> 00:35:23,811
+Entonces, ¿es un musical?
+
+529
+00:35:31,195 --> 00:35:32,594
+Creo que me hice pis.
+
+530
+00:35:32,663 --> 00:35:34,654
+¡Aquí hay alguien que sabe cantar!
+
+531
+00:35:34,732 --> 00:35:37,963
+¡Dios mío! Haré una prueba para <i>Annie,</i>
+la valiente huérfana
+
+532
+00:35:38,136 --> 00:35:42,402
+cuya canción de esperanza elevó
+el corazón de una nación cansada.
+
+533
+00:35:42,473 --> 00:35:44,998
+Sí. Salvo que en esta versión,
+Annie se vuelve loca
+
+534
+00:35:45,076 --> 00:35:48,944
+y lucha con un manojo de inventos
+malignos en un combate mortal.
+
+535
+00:35:49,013 --> 00:35:51,607
+Vaya. Eso es de vanguardia.
+
+536
+00:35:51,682 --> 00:35:54,981
+Sí. Créeme. Naciste para esto.
+
+537
+00:35:55,052 --> 00:35:56,178
+PRUEBAS - FALTAN 4 DÍAS
+
+538
+00:35:56,254 --> 00:36:01,521
+<i>El sol saldrá mañana</i>
+
+539
+00:36:01,592 --> 00:36:02,650
+<i>Apuesta tu...</i>
+
+540
+00:36:02,727 --> 00:36:04,718
+No, te equivocaste otra vez.
+
+541
+00:36:05,163 --> 00:36:08,496
+Disculpa, Igor,
+pero creo que debes decir "corten".
+
+542
+00:36:08,566 --> 00:36:10,864
+- Eso es para las películas.
+- ¿Películas?
+
+543
+00:36:10,935 --> 00:36:14,302
+¿Te imaginas esa cara
+en una pantalla de 12 m?
+
+544
+00:36:15,306 --> 00:36:17,297
+Está bien. Escucha, Eva...
+
+545
+00:36:17,375 --> 00:36:19,570
+Perdona, Igor, estoy un poco distraída.
+
+546
+00:36:19,644 --> 00:36:20,804
+¿Cómo?
+
+547
+00:36:20,878 --> 00:36:23,813
+Creo que la chica de maquillaje tiene
+algo contra mí.
+
+548
+00:36:26,017 --> 00:36:29,111
+No, es Brain.
+Y no es la chica de maquillaje, es el idiota.
+
+549
+00:36:29,187 --> 00:36:31,678
+Trata de recordar, cuando dices "mañana",
+
+550
+00:36:31,756 --> 00:36:35,351
+¡debes aplastar
+el invento maligno a tu izquierda!
+
+551
+00:36:35,426 --> 00:36:37,223
+Quieres decir "a la izquierda del tablado."
+
+552
+00:36:37,295 --> 00:36:40,492
+Sí, lo que sea. Debes hacerlo pedazos.
+
+553
+00:36:40,565 --> 00:36:42,226
+Ya sé, es como si...
+
+554
+00:36:42,300 --> 00:36:45,861
+Parece de verdad, es difícil
+porque nunca lastimé nada verdadero.
+
+555
+00:36:45,937 --> 00:36:48,531
+La utilería en las pruebas parecerá
+más verdadera, Eva.
+
+556
+00:36:48,606 --> 00:36:50,597
+Algunas hasta pueden gritar
+cuando las destroces.
+
+557
+00:36:50,675 --> 00:36:51,801
+¿En serio?
+
+558
+00:36:51,876 --> 00:36:54,777
+Sí. Y también van a luchar.
+
+559
+00:36:54,845 --> 00:36:57,871
+Pero es para que parezca de verdad.
+Si no quieres ser actriz...
+
+560
+00:36:57,949 --> 00:37:00,008
+No, no. Lo haré.
+
+561
+00:37:00,084 --> 00:37:02,416
+Esto me bloquea, pero me sobrepondré.
+
+562
+00:37:02,486 --> 00:37:05,284
+Una vez más,
+desde el principio y con sentimiento.
+
+563
+00:37:05,957 --> 00:37:08,721
+Tengo una sugerencia mínima.
+
+564
+00:37:08,793 --> 00:37:12,024
+Sé que no soy la directora,
+pero al final del número,
+
+565
+00:37:12,096 --> 00:37:15,065
+me gustaría intentar algo así...
+
+566
+00:37:15,132 --> 00:37:19,398
+<i>Sólo te falta</i>
+
+567
+00:37:19,470 --> 00:37:23,270
+<i>Un día</i>
+
+568
+00:37:41,492 --> 00:37:42,754
+Para mí, está bien.
+
+569
+00:37:49,133 --> 00:37:53,092
+<i>Dr. Igor. Dr. Igor von Igorstein.</i>
+
+570
+00:37:53,170 --> 00:37:57,038
+<i>No, no.</i>
+<i>El venerado malvado Igor von Igorstein III.</i>
+
+571
+00:37:57,108 --> 00:38:00,942
+<i>No puedo creerlo.</i>
+<i>Podría salirme con la mía.</i>
+
+572
+00:38:03,948 --> 00:38:06,746
+Lo hiciste muy bien hoy, Eva.
+Diste unos grandes
+
+573
+00:38:07,918 --> 00:38:09,249
+pasos.
+
+574
+00:38:10,321 --> 00:38:12,016
+Gracias, Igor.
+
+575
+00:38:12,690 --> 00:38:17,457
+Susurro para proteger la voz.
+No lo habría logrado sin ti.
+
+576
+00:38:18,262 --> 00:38:19,991
+¿No es hermoso?
+
+577
+00:38:20,564 --> 00:38:23,658
+El rey Malbert convirtió
+este país en un paraíso.
+
+578
+00:38:23,734 --> 00:38:27,864
+Su torre brilla para todo el mundo
+como un faro del mal.
+
+579
+00:38:27,938 --> 00:38:29,735
+Y ¿eso es bueno?
+
+580
+00:38:29,807 --> 00:38:32,037
+No éramos nada
+hasta que el rey Malbert nos enseñó
+
+581
+00:38:32,109 --> 00:38:34,907
+que el camino del éxito era
+haciendo el mal.
+
+582
+00:38:35,546 --> 00:38:37,138
+Qué pueblo rudo.
+
+583
+00:38:37,214 --> 00:38:40,115
+En este mundo,
+los buenos terminan último.
+
+584
+00:38:40,785 --> 00:38:43,652
+Entonces, ¿debo pisar a la gente
+para tener éxito?
+
+585
+00:38:44,588 --> 00:38:45,680
+Sí.
+
+586
+00:38:45,756 --> 00:38:49,419
+Bueno, preferiría ser una doña nadie buena
+que ser alguien mala.
+
+587
+00:38:49,493 --> 00:38:52,428
+Y tú también. Porque eres bueno, Igor.
+
+588
+00:38:52,496 --> 00:38:53,554
+Eva, no digas eso.
+
+589
+00:38:53,631 --> 00:38:56,691
+- Es cierto. Eres bueno.
+- En serio, ¡basta de decir eso!
+
+590
+00:38:56,767 --> 00:38:58,962
+¡Pero eres bueno!
+Me ayudaste con la prueba.
+
+591
+00:38:59,036 --> 00:39:02,699
+Me preparaste este té delicioso.
+Eres un buen amigo.
+
+592
+00:39:02,773 --> 00:39:04,468
+Los científicos malvados
+no tenemos amigos.
+
+593
+00:39:04,542 --> 00:39:06,567
+¿Qué son Brain y Scamper?
+
+594
+00:39:06,644 --> 00:39:08,009
+Dolores de cabeza.
+
+595
+00:39:09,180 --> 00:39:11,876
+- ¿Es todo lo que soy yo?
+- No.
+
+596
+00:39:11,949 --> 00:39:14,884
+De acuerdo. Entonces, puedes ser
+mi segundo buen amigo.
+
+597
+00:39:14,952 --> 00:39:18,251
+Segundo buen amigo.
+¿Quién es el primero?
+
+598
+00:39:18,322 --> 00:39:20,483
+¿Lo ves? Estás celoso.
+
+599
+00:39:20,991 --> 00:39:23,323
+Quieres ser mi amigo.
+
+600
+00:39:24,128 --> 00:39:26,289
+Supongo que soy un incauto.
+
+601
+00:39:28,065 --> 00:39:32,195
+Hola, bienvenidos
+a <i>Tan claro como el agua.</i> Soy Carl Cristall.
+
+602
+00:39:32,703 --> 00:39:36,969
+Hoy tenemos un invitado especial,
+alguien que queremos y respetamos.
+
+603
+00:39:37,041 --> 00:39:39,908
+Honkers el mono flatulento.
+Pero antes, el rey Malbert.
+
+604
+00:39:39,977 --> 00:39:42,741
+No tienes puestos los pantalones.
+
+605
+00:39:43,614 --> 00:39:44,979
+Ah, no.
+
+606
+00:39:45,049 --> 00:39:48,109
+¿Por qué un hombre invisible
+debe ponerse pantalones?
+
+607
+00:39:48,185 --> 00:39:50,710
+Es muy liberador, Su Alteza.
+
+608
+00:39:50,955 --> 00:39:55,756
+Señor, las nubes,
+¿fueron una maldición o una bendición?
+
+609
+00:39:56,394 --> 00:39:59,989
+Por supuesto que nunca deseé
+nubes sobre mi pueblo.
+
+610
+00:40:00,064 --> 00:40:02,862
+Pero luchamos juntos para el bien común
+
+611
+00:40:02,933 --> 00:40:06,699
+abrazando el mal, ¡y míranos ahora!
+
+612
+00:40:06,771 --> 00:40:08,671
+Nos respetan, tenemos éxito.
+
+613
+00:40:12,009 --> 00:40:12,998
+¿Qué haces?
+
+614
+00:40:13,077 --> 00:40:14,271
+Me rasco el invisible...
+
+615
+00:40:14,345 --> 00:40:19,339
+Volviendo a mi pregunta, señor.
+Faltan dos días para la Feria del Mal.
+
+616
+00:40:19,417 --> 00:40:23,080
+¿Tiene alguna predicción?
+¿Pueden ganarle al Dr. Schadenfreude?
+
+617
+00:40:23,154 --> 00:40:25,145
+Odio hacer predicciones.
+
+618
+00:40:26,290 --> 00:40:30,124
+Todos los científicos malvados son
+demonios retorcidos.
+
+619
+00:40:30,194 --> 00:40:34,563
+Pero podría haber un genio este año
+con un invento tan revolucionario
+
+620
+00:40:34,632 --> 00:40:37,999
+¡que Schadenfreude podría caerse
+de su pedestal!
+
+621
+00:40:38,068 --> 00:40:41,595
+¡El único que se caerá
+de su pedestal eres tú!
+
+622
+00:40:41,906 --> 00:40:43,498
+¡Maldita sea, necesito a ese monstruo!
+
+623
+00:40:43,574 --> 00:40:48,204
+No me vencerá
+un jorobado panzudo cuatro ojos.
+
+624
+00:40:48,712 --> 00:40:52,307
+A mí me parece lindo.
+El talento tiene su atractivo.
+
+625
+00:40:52,383 --> 00:40:55,216
+Imagino a Igor y a su monstruo ahora,
+
+626
+00:40:55,286 --> 00:40:58,778
+complotando sus fatales maniobras
+de combate.
+
+627
+00:41:30,020 --> 00:41:31,282
+VESTUARIO DE ANNIE
+
+628
+00:42:48,933 --> 00:42:51,163
+Muchachos, ¿podrían venir?
+
+629
+00:42:51,702 --> 00:42:53,567
+Quiero hablarles.
+
+630
+00:42:54,638 --> 00:42:58,301
+Si tiene un problema femenino,
+es toda tuya.
+
+631
+00:43:14,425 --> 00:43:15,858
+¡Listo!
+
+632
+00:43:16,193 --> 00:43:17,660
+¿Qué son?
+
+633
+00:43:17,728 --> 00:43:19,628
+¡Regalos de estreno!
+
+634
+00:43:20,197 --> 00:43:22,256
+Sé que es una prueba, técnicamente,
+
+635
+00:43:22,333 --> 00:43:23,595
+pero pensé que sería lindo.
+
+636
+00:43:23,667 --> 00:43:26,727
+No son mucho, ya que tuve
+que usar lo que encontré aquí,
+
+637
+00:43:26,804 --> 00:43:29,102
+pero, en fin... ¡Tú, primero, Brain!
+
+638
+00:43:29,173 --> 00:43:32,904
+¡Un sobre! Cómo me mimas.
+
+639
+00:43:32,977 --> 00:43:35,002
+Mejor lo abrimos.
+
+640
+00:43:35,713 --> 00:43:37,943
+Es una nueva etiqueta para tu tarro.
+
+641
+00:43:38,849 --> 00:43:40,976
+¡Brain está bien deletreado!
+
+642
+00:43:41,852 --> 00:43:43,217
+Sí, ¿verdad?
+
+643
+00:43:43,287 --> 00:43:45,448
+No deberías preocuparte
+por los rótulos, pero,
+
+644
+00:43:45,522 --> 00:43:47,854
+porque serás un cerebro,
+pero tienes corazón.
+
+645
+00:43:49,059 --> 00:43:51,220
+Y eso es más importante.
+
+646
+00:43:51,295 --> 00:43:54,128
+¿Corazón? Mataría por un par de pies.
+
+647
+00:43:55,432 --> 00:43:59,300
+Abre el tuyo, Scamper.
+Es una hoja perenne prehistórica.
+
+648
+00:43:59,370 --> 00:44:01,930
+Viven para siempre. Quería asegurarme
+
+649
+00:44:02,006 --> 00:44:04,372
+de que si algo nos pasa a los tres,
+
+650
+00:44:04,441 --> 00:44:06,341
+siempre tengas compañía.
+
+651
+00:44:06,410 --> 00:44:08,810
+Genial. Quizá sea alérgico a la hoja.
+
+652
+00:44:08,879 --> 00:44:12,508
+Con suerte, me mate con sus toxinas
+de época de dinosaurio.
+
+653
+00:44:13,517 --> 00:44:15,576
+¿Pasamos a Igor?
+
+654
+00:44:17,021 --> 00:44:19,512
+Nadie me hizo un regalo antes.
+
+655
+00:44:19,590 --> 00:44:22,423
+No le puede faltar a ningún director.
+
+656
+00:44:23,627 --> 00:44:24,889
+¡Una boina!
+
+657
+00:44:27,698 --> 00:44:28,687
+<i>Voilà!</i>
+
+658
+00:44:28,766 --> 00:44:30,063
+En francés, quiere decir:
+
+659
+00:44:30,134 --> 00:44:32,898
+"Por favor, basta de acribillarme
+a mí y mi gorro con rocas."
+
+660
+00:44:32,970 --> 00:44:35,530
+Igor, ¿qué regalo tenemos para Eva?
+
+661
+00:44:35,906 --> 00:44:38,898
+- ¿Regalo?
+- ¡Ah! No era necesario.
+
+662
+00:44:38,976 --> 00:44:40,238
+Te hicimos uno.
+
+663
+00:44:41,078 --> 00:44:43,103
+¿Dónde lo pusiste, Igor?
+
+664
+00:44:43,247 --> 00:44:46,216
+Está en el otro cuarto.
+
+665
+00:44:49,553 --> 00:44:52,351
+Regalo, regalo.
+
+666
+00:44:58,462 --> 00:45:01,363
+Eva, te regalamos esto.
+
+667
+00:45:02,633 --> 00:45:04,225
+Es un collar.
+
+668
+00:45:12,276 --> 00:45:15,211
+¡Es lo más hermoso que vi!
+
+669
+00:45:16,680 --> 00:45:18,272
+Igor, ¿podrías?
+
+670
+00:45:18,348 --> 00:45:20,543
+Me lo pondría yo, pero soy muy torpe.
+
+671
+00:45:20,617 --> 00:45:23,984
+Sí, perdón. Los pulgares estaban de oferta.
+
+672
+00:45:24,922 --> 00:45:26,116
+Nunca me lo quitaré.
+
+673
+00:45:26,190 --> 00:45:29,626
+Así todos estarán cerca
+de mi corazón para siempre.
+
+674
+00:45:31,729 --> 00:45:35,290
+¡Debo escribir esto
+en mi diario de recuerdos afectivos!
+
+675
+00:45:35,566 --> 00:45:37,557
+¿Dónde puse mi lapicera brillosa?
+
+676
+00:45:39,903 --> 00:45:42,235
+¿Lo ven? Estas situaciones serían difíciles
+
+677
+00:45:42,306 --> 00:45:45,537
+para alguien que no nació
+para ser científico malvado.
+
+678
+00:45:45,609 --> 00:45:49,272
+Alguien que se ablandaría
+y le diría la verdad.
+
+679
+00:45:50,547 --> 00:45:53,107
+Pero por suerte para nosotros,
+soy malvado, ¿no?
+
+680
+00:45:53,183 --> 00:45:54,946
+Sí. Qué suerte tenemos.
+
+681
+00:45:55,953 --> 00:45:57,682
+No me siento con suerte.
+
+682
+00:46:07,998 --> 00:46:10,933
+Todo va según el plan,
+porque casi terminamos,
+
+683
+00:46:11,001 --> 00:46:13,834
+y no dejé que me convenciera.
+
+684
+00:46:19,243 --> 00:46:21,302
+Qué difícil es ser jorobado.
+
+685
+00:46:21,378 --> 00:46:22,572
+¡Heidi!
+
+686
+00:46:22,646 --> 00:46:25,547
+Al Dr. Glickenstein lo barrieron.
+Digo, no se siente bien.
+
+687
+00:46:25,616 --> 00:46:27,641
+No vine a verlo.
+
+688
+00:46:28,218 --> 00:46:30,482
+Vine a verte a ti.
+
+689
+00:46:31,221 --> 00:46:32,279
+¿A mí?
+
+690
+00:46:39,163 --> 00:46:43,122
+A propósito, pasó un Igor hoy
+
+691
+00:46:43,200 --> 00:46:45,998
+y me pidió que te entregue esto en manos.
+
+692
+00:46:46,436 --> 00:46:48,301
+Y aquí están mis manos.
+
+693
+00:46:49,406 --> 00:46:52,398
+- ¿Qué es?
+<i>- Ja,</i> no tengo idea.
+
+694
+00:46:52,476 --> 00:46:54,171
+"Ojalá no estuvieras ahí."
+
+695
+00:46:59,383 --> 00:47:02,841
+Excelente, maravilloso.
+
+696
+00:47:03,187 --> 00:47:04,814
+Recibiste mi tarjeta.
+
+697
+00:47:08,091 --> 00:47:11,356
+¿Está todo bien? Oí un ruido extraño.
+
+698
+00:47:12,362 --> 00:47:14,796
+No estaba en la puerta
+escuchándote a ti y a Igor.
+
+699
+00:47:14,865 --> 00:47:16,162
+Yo...
+
+700
+00:47:17,167 --> 00:47:20,500
+¡Hola! No nos conocemos. Soy Eva.
+
+701
+00:47:23,040 --> 00:47:24,905
+Estás molesta, ¿no?
+
+702
+00:47:24,975 --> 00:47:27,967
+"¿Quién es esta extraña mujer
+que vive con Igor?" ¿Verdad?
+
+703
+00:47:28,045 --> 00:47:30,741
+Créeme, Igor y yo sólo somos amigos.
+
+704
+00:47:30,814 --> 00:47:33,476
+No tienes de qué preocuparte como novia.
+
+705
+00:47:33,550 --> 00:47:36,576
+- No soy su novia.
+- ¿No?
+
+706
+00:47:36,653 --> 00:47:38,814
+Pero por cómo te mira.
+
+707
+00:47:39,423 --> 00:47:40,822
+Nunca me mira a mí de esa forma.
+
+708
+00:47:40,891 --> 00:47:42,984
+Quizá a algunos hombres les gustan
+las chicas
+
+709
+00:47:43,060 --> 00:47:46,928
+que no parecen hechas de un basural.
+
+710
+00:47:48,565 --> 00:47:49,657
+Claro.
+
+711
+00:47:49,733 --> 00:47:52,497
+Tienes un rostro muy feo.
+
+712
+00:47:54,738 --> 00:47:57,366
+Debo descansar
+para mi prueba de mañana.
+
+713
+00:47:57,441 --> 00:47:58,738
+Encantada de conocerte.
+
+714
+00:47:58,809 --> 00:48:00,003
+Ah.
+
+715
+00:48:04,147 --> 00:48:05,444
+¿Prueba?
+
+716
+00:48:10,954 --> 00:48:15,721
+¿Cómo está tu cóctel, Igor?
+¿Está rico? ¿Te gusta?
+
+717
+00:48:15,792 --> 00:48:18,886
+¿Tiene gusto a coco?
+
+718
+00:48:18,962 --> 00:48:22,090
+¡Alto! ¡Debes sorberlo con estilo!
+
+719
+00:48:22,633 --> 00:48:25,124
+¡Igor! ¡Trae una Krazy Straw!
+¡Ahora mismo!
+
+720
+00:48:27,871 --> 00:48:30,704
+Bramido pequeño. ¿No es mejor?
+¿No tiene mejor sabor?
+
+721
+00:48:30,774 --> 00:48:32,799
+Perdón, señor, pero ¿por qué?
+
+722
+00:48:33,410 --> 00:48:35,275
+Quiero decir, ¿por qué vine?
+
+723
+00:48:35,345 --> 00:48:37,245
+Puedes dejar ese estilo al hablar conmigo.
+
+724
+00:48:37,314 --> 00:48:40,442
+Ni siquiera hago que mis Igor hablen así.
+¿No es cierto, Igor?
+
+725
+00:48:40,517 --> 00:48:44,248
+Es cierto, amo.
+
+726
+00:48:44,321 --> 00:48:48,655
+¿Cuántas veces debo decírtelo?
+Llámame Frederick. Así me llamo.
+
+727
+00:48:48,725 --> 00:48:50,659
+De acuerdo. ¡Frederick!
+
+728
+00:48:51,361 --> 00:48:54,091
+Debo regresar.
+El Dr. Glickenstein estará buscándome.
+
+729
+00:48:54,164 --> 00:48:58,658
+Yo creo que estará buscando
+algo más que su mano derecha.
+
+730
+00:48:59,703 --> 00:49:04,663
+Mira, Igorcito, sé todo
+sobre Glickenstein y su muerte.
+
+731
+00:49:05,842 --> 00:49:08,106
+También sé de tu monstruo.
+
+732
+00:49:08,979 --> 00:49:10,537
+Voy a adivinar tu plan.
+
+733
+00:49:10,614 --> 00:49:14,914
+Ganas la Feria del Mal,
+y todos se olvidan de la joroba,
+
+734
+00:49:14,985 --> 00:49:16,919
+y te aceptan por quien eres de verdad.
+
+735
+00:49:16,987 --> 00:49:19,683
+Te llevas a la chica de tus sueños
+y bailas el cha-cha-cha
+
+736
+00:49:19,756 --> 00:49:20,882
+y tienes un final feliz.
+
+737
+00:49:20,958 --> 00:49:23,586
+- ¿Me acerco?
+- No, en absoluto.
+
+738
+00:49:25,095 --> 00:49:26,528
+No sé bailar el cha-cha-cha.
+
+739
+00:49:27,230 --> 00:49:29,721
+Somos muy parecidos, Igor.
+
+740
+00:49:29,800 --> 00:49:34,464
+Yo también quiero ser más,
+pero la sociedad no me deja. Me detiene.
+
+741
+00:49:34,538 --> 00:49:38,941
+Mi plan es éste. Participo
+de la Feria con tu monstruo y gano.
+
+742
+00:49:39,009 --> 00:49:41,204
+Ataco al Rey con el monstruo.
+
+743
+00:49:41,278 --> 00:49:44,839
+El Rey muere,
+y ¡larga vida al nuevo rey, yo!
+
+744
+00:49:46,917 --> 00:49:52,617
+Después, tú pasas a ser
+el nuevo científico malvado de Malaria.
+
+745
+00:49:53,290 --> 00:49:55,724
+¿Qué te parece? ¿No es lindo?
+
+746
+00:49:55,792 --> 00:49:57,692
+¿Quiere derrocar al Rey?
+
+747
+00:49:57,761 --> 00:50:00,195
+Creí que querías ser un científico malvado.
+
+748
+00:50:00,263 --> 00:50:03,061
+- Sí. Pero...
+- ¡Deja de pensar como un Igor!
+
+749
+00:50:03,133 --> 00:50:06,967
+Los científicos malvados no dejan
+que nadie se interponga en su camino.
+
+750
+00:50:07,137 --> 00:50:09,401
+Sí. Ya sé.
+Pisan a la gente para pasar adelante.
+
+751
+00:50:09,473 --> 00:50:10,667
+¡Exactamente!
+
+752
+00:50:11,575 --> 00:50:13,668
+- Ella no lo haría nunca.
+- ¿Ella?
+
+753
+00:50:13,744 --> 00:50:14,972
+El monstruo. No es malvado.
+
+754
+00:50:15,045 --> 00:50:17,639
+Algo salió mal
+y su hueso de la maldad no se activó.
+
+755
+00:50:17,714 --> 00:50:20,979
+¿Cómo ponemos a este hueso en marcha?
+
+756
+00:50:21,051 --> 00:50:25,010
+¿Lo pateamos, lo sopapeamos,
+lo llevamos al cine, lo llamamos Irene?
+
+757
+00:50:25,522 --> 00:50:29,754
+Debe cometer un acto de maldad,
+pero como no es mala, no lo hará.
+
+758
+00:50:30,861 --> 00:50:32,351
+Se acabaron tus problemas,
+
+759
+00:50:32,429 --> 00:50:35,887
+porque yo logro
+que una mujer haga lo que sea.
+
+760
+00:50:36,466 --> 00:50:37,524
+No sé.
+
+761
+00:50:37,601 --> 00:50:41,059
+No me digas
+que tienes sentimientos por esta cosa.
+
+762
+00:50:41,138 --> 00:50:42,537
+- No.
+- Qué bien,
+
+763
+00:50:43,240 --> 00:50:45,640
+porque sería lamentable.
+
+764
+00:50:46,510 --> 00:50:51,140
+Puedo darte lo que siempre quisiste.
+
+765
+00:50:51,615 --> 00:50:52,673
+Debo irme.
+
+766
+00:50:52,749 --> 00:50:55,309
+La Feria de las Ciencias del Mal
+es en unas horas.
+
+767
+00:50:55,385 --> 00:50:58,320
+O estás conmigo o en mi contra.
+
+768
+00:50:58,388 --> 00:51:00,583
+¿Sí o no?
+
+769
+00:51:04,327 --> 00:51:06,022
+Lo tomo como un no.
+
+770
+00:51:06,096 --> 00:51:08,792
+¿Qué harás ahora, listo?
+
+771
+00:51:29,019 --> 00:51:30,145
+¡No!
+
+772
+00:51:31,988 --> 00:51:33,580
+¡Frederick!
+
+773
+00:51:35,292 --> 00:51:38,921
+¡Frederick! ¿Por qué estás nadando?
+Comiste hace 10 minutos.
+
+774
+00:51:38,995 --> 00:51:40,724
+¡Suéltame, bufón!
+
+775
+00:52:11,228 --> 00:52:13,059
+Terminamos tu vestuario.
+
+776
+00:52:13,130 --> 00:52:15,462
+Espero que esté bien ajustado
+en la cintura.
+
+777
+00:52:15,532 --> 00:52:17,796
+Si tuviera más tiempo,
+le habría puesto más volados
+
+778
+00:52:17,868 --> 00:52:19,165
+en las rodillas.
+
+779
+00:52:19,236 --> 00:52:22,433
+Deja de tocarlo, Brain,
+quiero darle buen aspecto.
+
+780
+00:52:23,406 --> 00:52:26,569
+Ustedes son mis amigos,
+así que me dirían la verdad, ¿no?
+
+781
+00:52:26,643 --> 00:52:28,270
+Sí, claro.
+
+782
+00:52:29,246 --> 00:52:31,680
+¿Les parezco bonita?
+
+783
+00:52:34,284 --> 00:52:38,311
+Brain, tráeme un tubo de delineador,
+una libra de lápiz labial,
+
+784
+00:52:38,388 --> 00:52:42,154
+y si todo eso no alcanza,
+córtale la cabeza a una supermodelo.
+
+785
+00:52:42,225 --> 00:52:45,888
+Bien, el jacuzzi no es un cuarto de baño.
+Ahora lo sé.
+
+786
+00:52:47,164 --> 00:52:49,860
+Por favor, ¡tómate tu tiempo!
+¡Esto me encanta!
+
+787
+00:52:49,933 --> 00:52:51,423
+¿En serio?
+
+788
+00:52:51,501 --> 00:52:55,995
+Quizá debas quedarte ahí
+con tu Igor, cariño.
+
+789
+00:52:56,072 --> 00:52:58,302
+¿Sabes qué? Él sabe escuchar,
+
+790
+00:52:58,375 --> 00:53:02,436
+tiene manos suaves, y al contrario de ti,
+¡a veces se depila las piernas!
+
+791
+00:53:11,888 --> 00:53:15,449
+Un momento. Nada de besar a Heidi.
+
+792
+00:53:18,061 --> 00:53:20,825
+¿Acaso te gusto más como Heidi?
+
+793
+00:53:21,765 --> 00:53:25,098
+Jaclyn, Heidi, Jaclyn, Heidi.
+
+794
+00:53:25,168 --> 00:53:29,036
+Sería genial si no te pusieras
+psicopática conmigo ahora.
+
+795
+00:53:29,105 --> 00:53:32,131
+- ¡No soy psicópata!
+- Obviamente, no.
+
+796
+00:53:32,209 --> 00:53:37,545
+¿Cómo te sentirías si todos los días
+debieras ser 13 personas diferentes?
+
+797
+00:53:37,614 --> 00:53:40,208
+Soy Jaclyn, tu novia.
+
+798
+00:53:42,953 --> 00:53:45,854
+Y la novia del Dr. Nachtmahr.
+
+799
+00:53:46,756 --> 00:53:49,384
+Y la novia del Dr. Groaner.
+
+800
+00:53:49,459 --> 00:53:51,086
+¡Todo por ti!
+
+801
+00:53:51,161 --> 00:53:54,528
+¡Para ayudarte
+a robar inventos año tras año!
+
+802
+00:53:54,598 --> 00:53:58,898
+Y sigo diciendo que esas pastillas robadas
+fueron el mejor invento.
+
+803
+00:53:58,969 --> 00:54:01,836
+Esta vez, se pagaron solas.
+
+804
+00:54:01,905 --> 00:54:04,806
+¿Adivina qué averiguó mamá
+sobre nuestro monstruo preferido?
+
+805
+00:54:04,874 --> 00:54:07,240
+- ¿O debería decir actriz?
+- Oh.
+
+806
+00:54:10,380 --> 00:54:11,540
+¡Eva!
+
+807
+00:54:15,785 --> 00:54:18,049
+¡Eva! ¡Eva!
+
+808
+00:54:22,759 --> 00:54:26,456
+Respira. Concéntrate en el cuerpo.
+
+809
+00:54:34,204 --> 00:54:37,139
+Estoy lista para el primer plano,
+Sr. Director.
+
+810
+00:54:44,114 --> 00:54:47,777
+Ay, no, no pasa de verdad.
+Actúa con gracia.
+
+811
+00:54:47,851 --> 00:54:49,250
+Sigue sonriendo.
+
+812
+00:54:54,858 --> 00:54:56,450
+¿Estoy demasiado cerca?
+
+813
+00:54:56,760 --> 00:54:59,888
+No. Eva, te ves... Te ves hermosa.
+
+814
+00:55:00,630 --> 00:55:05,795
+Qué cliché, la actriz principal
+enamorándose del director.
+
+815
+00:55:06,236 --> 00:55:08,932
+No estás acostumbrada a usar tacos altos.
+
+816
+00:55:10,573 --> 00:55:12,131
+Ah, quieres decir...
+
+817
+00:55:12,742 --> 00:55:14,505
+Nuestro trabajo terminó.
+
+818
+00:55:14,577 --> 00:55:15,805
+¿Nuestro trabajo?
+
+819
+00:55:15,879 --> 00:55:19,440
+Te pasaste todo el tiempo jugando
+con una cinta.
+
+820
+00:55:23,953 --> 00:55:27,480
+Eva, respecto de la prueba,
+creo que te dirigí mal.
+
+821
+00:55:27,557 --> 00:55:30,253
+Pero me siento tan bien preparada.
+
+822
+00:55:30,327 --> 00:55:34,627
+No, me refería a que interpretaras
+un papel que no es para ti.
+
+823
+00:55:34,698 --> 00:55:37,292
+- ¿Cómo?
+- Debo decirte la verdad.
+
+824
+00:55:40,437 --> 00:55:42,667
+Heidi. Ya vuelvo.
+
+825
+00:55:45,175 --> 00:55:49,475
+Igor. Mi tobillo.
+
+826
+00:55:49,546 --> 00:55:52,481
+¡Se me torció como un tirabuzón, Igor!
+
+827
+00:55:54,017 --> 00:55:55,575
+Qué encantadora.
+
+828
+00:55:55,652 --> 00:55:58,280
+Gracias. ¿Quién eres?
+
+829
+00:55:58,822 --> 00:56:03,987
+Alguien que no quiere
+que se desperdicien tus dotes.
+
+830
+00:56:05,095 --> 00:56:06,619
+¿Eres representante de talentos?
+
+831
+00:56:06,996 --> 00:56:10,227
+Estaba tan preocupada
+
+832
+00:56:10,300 --> 00:56:14,236
+de que cuando abrieras la tarjeta,
+te perdiera para siempre.
+
+833
+00:56:14,304 --> 00:56:16,363
+Heidi, debo decirte algo.
+
+834
+00:56:16,439 --> 00:56:17,929
+No sé qué es,
+
+835
+00:56:18,007 --> 00:56:21,238
+pero siento por primera vez en mi vida,
+
+836
+00:56:21,311 --> 00:56:24,508
+que veo al verdadero Igor.
+
+837
+00:56:25,281 --> 00:56:28,182
+Creo que me enamoré de él.
+
+838
+00:56:32,322 --> 00:56:34,950
+Cuando llueve, cae el agua a cántaros.
+
+839
+00:56:35,959 --> 00:56:39,622
+- No, no.
+- Igor es un mentiroso. Hace esto...
+
+840
+00:56:39,696 --> 00:56:42,824
+Nunca me mentiría. Se preocupa por mí.
+
+841
+00:56:42,899 --> 00:56:45,060
+¿Se preocupa? No se interesa.
+
+842
+00:56:45,135 --> 00:56:48,104
+Porque te construyó
+para que fueras un arma.
+
+843
+00:56:48,171 --> 00:56:50,662
+No, no, te equivocas.
+
+844
+00:56:50,740 --> 00:56:53,174
+Nunca te verá como una mujer.
+
+845
+00:56:53,243 --> 00:56:56,212
+Todo lo que ve es un monstruo.
+
+846
+00:56:56,279 --> 00:56:58,247
+No te creo.
+
+847
+00:56:58,314 --> 00:57:00,214
+Abre los ojos.
+
+848
+00:57:00,283 --> 00:57:04,014
+Igor tiene a alguien más en mente
+para tu papel.
+
+849
+00:57:04,087 --> 00:57:05,611
+¡Heidi, no!
+
+850
+00:57:08,858 --> 00:57:10,621
+Ya no hay nada aquí para ti.
+
+851
+00:57:10,693 --> 00:57:14,891
+Ven conmigo. Te convertiré en estrella.
+
+852
+00:57:34,150 --> 00:57:35,344
+No.
+
+853
+00:57:38,154 --> 00:57:39,519
+¿Qué pasa?
+
+854
+00:57:39,589 --> 00:57:43,423
+No puedo creer que diga esto,
+pero hice a alguien más.
+
+855
+00:57:43,493 --> 00:57:47,156
+Quiero decir que conocí a otra, que hice.
+Es complicado.
+
+856
+00:57:47,230 --> 00:57:48,595
+Un momento.
+
+857
+00:57:48,665 --> 00:57:51,657
+- ¿Estás rechazándome?
+- Lo siento.
+
+858
+00:57:51,734 --> 00:57:54,430
+¿Por esa cosa gigantesca?
+
+859
+00:57:55,505 --> 00:57:56,529
+¿Cómo sabes de?
+
+860
+00:57:56,606 --> 00:58:02,306
+Puedo verme más sexy, pero ¡vamos!
+Mírate bien.
+
+861
+00:58:02,378 --> 00:58:05,677
+Eres horrible, de veras.
+
+862
+00:58:05,748 --> 00:58:07,875
+Y ¡yo te besé!
+
+863
+00:58:13,523 --> 00:58:14,922
+Eres un monstruo.
+
+864
+00:58:14,991 --> 00:58:18,688
+Y según sabemos,
+los monstruos existen para ser usados.
+
+865
+00:58:22,165 --> 00:58:23,359
+¡Schadenfreude!
+
+866
+00:58:24,234 --> 00:58:25,462
+¡Eva!
+
+867
+00:58:31,508 --> 00:58:32,941
+¡Atrápenlo!
+
+868
+00:58:34,010 --> 00:58:36,001
+¿Dónde está Glickenstein?
+
+869
+00:58:36,079 --> 00:58:38,741
+Y antes de que respondas, debes saber
+
+870
+00:58:38,815 --> 00:58:41,147
+¡que alguien me envió esto!
+
+871
+00:58:42,585 --> 00:58:45,349
+Su Alteza, él murió.
+
+872
+00:58:45,421 --> 00:58:47,889
+Y no inventó vida, ¿verdad?
+
+873
+00:58:48,157 --> 00:58:49,181
+No.
+
+874
+00:58:50,360 --> 00:58:51,554
+Pero yo sí.
+
+875
+00:58:53,296 --> 00:58:55,992
+- Que un Igor invente...
+- ¡Silencio!
+
+876
+00:58:56,499 --> 00:58:58,660
+El jorobado inventó vida, ¿eh?
+
+877
+00:58:58,735 --> 00:59:00,464
+Bueno, ¿dónde está?
+
+878
+00:59:00,537 --> 00:59:03,233
+Es una mujer,
+y creo que alguien se la llevó.
+
+879
+00:59:03,306 --> 00:59:08,471
+Si regresa,
+le diremos dónde puede encontrarte.
+
+880
+00:59:08,545 --> 00:59:11,514
+¡En la planta de reciclaje de Igor!
+
+881
+00:59:11,581 --> 00:59:14,948
+¡No! ¡Por favor! ¡No!
+
+882
+00:59:16,719 --> 00:59:18,550
+Eva, ¿dónde estás?
+
+883
+00:59:20,323 --> 00:59:22,621
+¡Eva!
+
+884
+00:59:32,201 --> 00:59:35,136
+¡Eva!
+
+885
+00:59:56,793 --> 00:59:59,591
+<i>Cierren las puertas</i>
+<i>y escondan a sus amados.</i>
+
+886
+00:59:59,662 --> 01:00:03,325
+/ <i>Es la Feria anual de Ciencias del Mal!</i>
+
+887
+01:00:03,399 --> 01:00:09,201
+¡Soy Carl Cristall
+y me presento invisible y al natural!
+
+888
+01:00:11,407 --> 01:00:14,968
+<i>Los admiradores toman asiento,</i>
+<i>/incluyendo al mismísimo rey Malbert!</i>
+
+889
+01:00:15,044 --> 01:00:16,978
+¡No me toques!
+
+890
+01:00:17,046 --> 01:00:19,173
+<i>Mientras tanto, los científicos están</i>
+
+891
+01:00:19,248 --> 01:00:21,546
+<i>/preparando sus inventos malignos!</i>
+
+892
+01:00:38,234 --> 01:00:41,897
+Aquí estamos.
+Un vestidor apropiado para una actriz.
+
+893
+01:00:42,739 --> 01:00:44,536
+Vaya.
+
+894
+01:00:45,141 --> 01:00:47,701
+¿Cuántas chicas se presentan?
+
+895
+01:01:00,490 --> 01:01:02,583
+- Iré a salvarlo.
+- Espera.
+
+896
+01:01:02,659 --> 01:01:04,650
+Quizá no sea un genio, de acuerdo.
+
+897
+01:01:04,727 --> 01:01:08,356
+Pero algo sé, debo intentarlo.
+
+898
+01:01:08,431 --> 01:01:11,559
+No, iba a decir que me esperes,
+que voy contigo.
+
+899
+01:01:13,569 --> 01:01:15,036
+A las tres.
+
+900
+01:01:15,872 --> 01:01:16,930
+Uno.
+
+901
+01:01:17,206 --> 01:01:18,673
+¡Oye! ¡No es justo!
+
+902
+01:01:27,083 --> 01:01:28,345
+¿Qué hacen aquí?
+
+903
+01:01:28,418 --> 01:01:30,386
+¡Vinimos a rescatarte!
+
+904
+01:01:33,289 --> 01:01:36,053
+No quiero que me rescaten. Soy un Igor.
+
+905
+01:01:36,125 --> 01:01:37,592
+Y esto es lo que nos pasa.
+
+906
+01:01:40,630 --> 01:01:43,394
+Justo cuando había decidido
+que quería vivir...
+
+907
+01:01:48,438 --> 01:01:51,669
+- No espíes.
+- No te preocupes.
+
+908
+01:01:52,909 --> 01:01:56,242
+Ojalá pueda hacer una buena prueba
+sin la ayuda de Igor.
+
+909
+01:01:56,312 --> 01:02:00,976
+Confía en que soy el único
+que sacará tu verdadero yo.
+
+910
+01:02:02,952 --> 01:02:04,283
+Tú no eres así, Igor.
+
+911
+01:02:04,353 --> 01:02:07,754
+¿Dónde está el optimismo tonto
+y la molesta actitud de poder hacer todo?
+
+912
+01:02:07,824 --> 01:02:10,054
+Intenté ser diferente, pero no me dejan.
+
+913
+01:02:10,126 --> 01:02:15,359
+¿No quieres ir tras Eva
+y salvarla de Schadenfreude?
+
+914
+01:02:15,431 --> 01:02:17,922
+¿De veras quieres hipnotizarme, Brain?
+
+915
+01:02:18,000 --> 01:02:20,230
+¡Sí!
+
+916
+01:02:20,303 --> 01:02:23,397
+Pero si no resulta, ¿qué te parece esto?
+
+917
+01:02:25,141 --> 01:02:27,439
+Eva te necesita, y eres el único jorobado
+
+918
+01:02:27,510 --> 01:02:30,172
+que puede mantenerse erguido
+y luchar por ella.
+
+919
+01:02:32,115 --> 01:02:35,312
+Brain, eso debe de ser lo más inteligente
+que hayas dicho.
+
+920
+01:02:36,819 --> 01:02:38,582
+¡Estírate, Brain!
+
+921
+01:02:38,888 --> 01:02:40,981
+Debiste haberme construido
+con un brazo más largo.
+
+922
+01:02:44,894 --> 01:02:46,327
+- ¿Eh?
+- ¿Eh?
+
+923
+01:02:46,395 --> 01:02:50,229
+¿Qué pasa? Como si fuera la primera vez
+que me muerdo los pies.
+
+924
+01:02:55,104 --> 01:02:56,628
+¿La pata de conejo trae suerte?
+
+925
+01:02:59,242 --> 01:03:01,142
+Ruedas, ¡no me fallen ahora!
+
+926
+01:03:04,514 --> 01:03:07,244
+¡Las ruedas me fallaron! ¡Me fallaron!
+
+927
+01:03:14,090 --> 01:03:15,819
+¡Ya fuimos por ahí!
+
+928
+01:03:19,529 --> 01:03:20,928
+¿Qué haces?
+
+929
+01:03:20,997 --> 01:03:23,932
+¡Busco el pasadizo secreto!
+¡Siempre hay uno!
+
+930
+01:03:24,000 --> 01:03:26,935
+Brain, ¡no hay ningún pasadizo secreto!
+
+931
+01:03:27,003 --> 01:03:28,368
+Se acabó.
+
+932
+01:03:34,911 --> 01:03:36,845
+Lo siento, ¿qué decías?
+
+933
+01:03:36,913 --> 01:03:39,473
+Técnicamente, es una escalera secreta.
+
+934
+01:03:44,153 --> 01:03:49,056
+<i>/Bienvenidos! /Para ustedes</i>
+<i>y los millones de televidentes del mundo!</i>
+
+935
+01:03:49,125 --> 01:03:51,423
+<i>Vienen desde todos los rincones.</i>
+
+936
+01:03:51,494 --> 01:03:52,859
+<i>Mírenlos.</i>
+
+937
+01:03:52,929 --> 01:03:56,695
+<i>Están preocupados por una sola cosa,</i>
+<i>la paz mundial.</i>
+
+938
+01:03:56,766 --> 01:03:59,360
+<i>Esta noche, depende de ellos.</i>
+
+939
+01:03:59,435 --> 01:04:05,135
+<i>Y sólo tiene un pequeño precio,</i>
+<i>$100 mil millones.</i>
+
+940
+01:04:10,546 --> 01:04:12,776
+Y yo creo que pueden lograrlo.
+
+941
+01:04:12,849 --> 01:04:14,441
+Y si no, bueno,
+
+942
+01:04:14,517 --> 01:04:17,543
+el invento maligno
+que quede de pie será liberado.
+
+943
+01:04:17,620 --> 01:04:20,680
+Sería horrible de imaginar.
+
+944
+01:04:31,767 --> 01:04:33,200
+¿Dónde estamos?
+
+945
+01:04:34,070 --> 01:04:35,594
+¿Por qué jadeo?
+
+946
+01:04:35,671 --> 01:04:36,968
+No tengo pulmones.
+
+947
+01:04:37,039 --> 01:04:40,805
+La torre del castillo del Rey.
+Ahí está el Mortaseo.
+
+948
+01:04:44,146 --> 01:04:47,377
+No sé qué será, pero ¡quiero uno!
+
+949
+01:04:48,150 --> 01:04:51,415
+Es el faro del mal arriba del castillo real.
+
+950
+01:04:51,988 --> 01:04:54,684
+Un momento. ¿Es un faro?
+
+951
+01:04:56,259 --> 01:04:58,921
+Eh, eh. ¿Adónde vas?
+
+952
+01:04:59,161 --> 01:05:01,152
+¡Tráeme un juguete!
+
+953
+01:05:57,286 --> 01:06:00,551
+El faro del Rey es,
+en realidad, un rayo del clima.
+
+954
+01:06:01,157 --> 01:06:04,422
+El rey Malbert está creando
+las nubes de tormenta.
+
+955
+01:06:07,229 --> 01:06:10,164
+<i>Ciudadanos del mundo, les suplico...</i>
+
+956
+01:06:10,232 --> 01:06:12,223
+- Nos mintió.
+<i>...Ilamen al número</i>
+
+957
+01:06:12,301 --> 01:06:13,290
+<i>que ven en la pantalla.</i>
+
+958
+01:06:13,369 --> 01:06:17,601
+<i>Sí, justo ahí. Necesitan dar,</i>
+<i>igual que nosotros necesitamos ser malos.</i>
+
+959
+01:06:18,240 --> 01:06:20,731
+Debes ser mala.
+
+960
+01:06:20,810 --> 01:06:22,505
+Sé la coreografía, si a eso se refiere.
+
+961
+01:06:22,578 --> 01:06:27,015
+Debes ir más profundo.
+¿Hiciste algo malo alguna vez?
+
+962
+01:06:27,984 --> 01:06:30,384
+- No.
+- ¿Cómo puedes interpretarlo bien?
+
+963
+01:06:30,453 --> 01:06:34,219
+No obtendrás el papel
+si lo finges. Pégame.
+
+964
+01:06:34,290 --> 01:06:35,951
+- ¿Cómo?
+- Pégame.
+
+965
+01:06:36,025 --> 01:06:37,720
+No podría pegarle a nadie.
+
+966
+01:06:37,793 --> 01:06:39,693
+Dios mío. ¡Dios mío!
+
+967
+01:06:39,762 --> 01:06:42,754
+Igor tenía razón. No eres actriz.
+
+968
+01:06:42,832 --> 01:06:43,856
+Sí que lo soy.
+
+969
+01:06:43,933 --> 01:06:46,367
+No, no lo eres. Con razón, eligió a Heidi.
+
+970
+01:06:46,435 --> 01:06:49,404
+Ella es hermosa, pero tú no.
+
+971
+01:06:49,472 --> 01:06:51,133
+Ella tiene talento, pero tú no.
+
+972
+01:06:51,207 --> 01:06:52,265
+No digas eso.
+
+973
+01:06:52,341 --> 01:06:54,935
+Mírate. ¡Das lástima!
+
+974
+01:06:55,011 --> 01:06:56,308
+¡No doy lástima!
+
+975
+01:06:56,379 --> 01:06:58,472
+¡Claro que sí! Eres gigantesca, asustas...
+
+976
+01:06:58,547 --> 01:07:00,572
+Aquí viene, nena.
+Ajústate el cinturón que viene.
+
+977
+01:07:00,649 --> 01:07:04,608
+¡Eres un monstruo feo! Eres una inútil...
+
+978
+01:07:23,172 --> 01:07:26,369
+¡Tenemos a Annie!
+
+979
+01:07:27,643 --> 01:07:32,376
+Malarianos, ¡pongámonos malvados!
+
+980
+01:07:55,604 --> 01:07:57,765
+¿Cómo? ¿Vas a bajar?
+
+981
+01:07:57,840 --> 01:08:01,173
+Tú tienes tu trabajo, y yo el mío.
+¡Ya voy, Eva!
+
+982
+01:08:02,044 --> 01:08:03,875
+¡Tráeme un juguete!
+
+983
+01:08:23,065 --> 01:08:24,555
+Eso estuvo cerca.
+
+984
+01:08:25,501 --> 01:08:27,401
+¡Está bien! Está...
+
+985
+01:08:34,977 --> 01:08:36,569
+Ya voy, Eva.
+
+986
+01:08:40,149 --> 01:08:42,982
+¡Jala del interruptor!
+
+987
+01:08:43,953 --> 01:08:47,912
+<i>/Aquí vienen</i>
+<i>los inventos malignos de este año!</i>
+
+988
+01:09:18,154 --> 01:09:21,920
+<i>Qué despliegue de monstruosidades</i>
+<i>amorosamente caóticas.</i>
+
+989
+01:09:28,063 --> 01:09:31,624
+<i>Miren bien,</i>
+<i>/cualquiera podría ir hacia ustedes!</i>
+
+990
+01:09:33,068 --> 01:09:35,229
+<i>Sólo falta un invento maligno.</i>
+
+991
+01:09:36,338 --> 01:09:39,796
+Es la hora del logro mayor.
+
+992
+01:09:39,875 --> 01:09:41,433
+¡Jala del interruptor!
+
+993
+01:10:01,197 --> 01:10:03,995
+¿Ése es el invento del Dr. Schadenfreude?
+
+994
+01:10:09,972 --> 01:10:11,371
+¿Eva?
+
+995
+01:10:11,874 --> 01:10:14,399
+¡Que comience la batalla!
+
+996
+01:10:14,476 --> 01:10:15,704
+No.
+
+997
+01:10:18,047 --> 01:10:24,213
+<i>El sol saldrá</i>
+
+998
+01:10:24,286 --> 01:10:27,653
+<i>Mañana</i>
+
+999
+01:10:27,723 --> 01:10:30,021
+/ <i>Un momento! ¿Qué es esto? Es una pelea.</i>
+
+1000
+01:10:30,092 --> 01:10:35,962
+<i>Apuesta a que mañana</i>
+
+1001
+01:10:36,031 --> 01:10:37,521
+<i>/Se trata de ganar!</i>
+
+1002
+01:10:37,600 --> 01:10:42,037
+<i>/Saldrá el sol!</i>
+
+1003
+01:10:42,104 --> 01:10:44,436
+¡Déjenme pasar! ¡Yo la creé!
+
+1004
+01:10:44,506 --> 01:10:45,803
+¿Tú la hiciste?
+
+1005
+01:10:45,874 --> 01:10:48,741
+¡Aquí está el Igor genio que la creó!
+
+1006
+01:10:48,811 --> 01:10:52,440
+<i>Pensaba</i>
+
+1007
+01:10:52,514 --> 01:10:55,381
+<i>Que el mañana</i>
+
+1008
+01:10:55,451 --> 01:10:59,888
+<i>Se lleva las telarañas</i>
+
+1009
+01:10:59,955 --> 01:11:02,924
+<i>Y el pesar</i>
+
+1010
+01:11:02,992 --> 01:11:07,952
+<i>Hasta que no queda ni una</i>
+
+1011
+01:11:11,533 --> 01:11:13,296
+¡Eva! ¡Eva!
+
+1012
+01:11:16,805 --> 01:11:19,296
+<i>Un Igor entró en la arena.</i>
+
+1013
+01:11:19,375 --> 01:11:22,902
+<i>Miro hacia arriba y sonrío</i>
+
+1014
+01:11:22,978 --> 01:11:25,538
+<i>No se preocupen, morirá pronto.</i>
+
+1015
+01:11:33,522 --> 01:11:35,422
+¡Está cerca del gran final!
+
+1016
+01:11:35,491 --> 01:11:39,222
+Y si no destruimos este rayo del clima,
+se acaba de verdad.
+
+1017
+01:11:50,873 --> 01:11:54,172
+<i>El sol saldrá mañana</i>
+
+1018
+01:11:54,243 --> 01:11:55,710
+<i>Hay que resistir</i>
+
+1019
+01:11:55,778 --> 01:11:57,678
+<i>Déjenselo a Schadenfreude,</i>
+
+1020
+01:11:57,746 --> 01:12:01,876
+<i>destruye a sus enemigos</i>
+<i>con una chica gigante vestida de rojo.</i>
+
+1021
+01:12:03,619 --> 01:12:06,850
+¡No puedo creer que Schadenfreude
+lo haya logrado otra vez!
+
+1022
+01:12:08,023 --> 01:12:10,184
+¿Qué haces en el palco del Rey, Schoddy?
+
+1023
+01:12:10,259 --> 01:12:13,490
+Estaba por preguntarte lo mismo, Malby.
+
+1024
+01:12:13,562 --> 01:12:15,826
+¿Malby? ¿Qué significa esto?
+
+1025
+01:12:15,898 --> 01:12:19,664
+Que estás acabado.
+O ¿debería decir "derrocado"?
+
+1026
+01:12:23,939 --> 01:12:26,203
+Oigan, suéltenlo.
+
+1027
+01:12:26,809 --> 01:12:29,175
+Es su nuevo rey.
+
+1028
+01:12:29,244 --> 01:12:30,711
+Y si eso les molesta,
+
+1029
+01:12:30,779 --> 01:12:33,043
+díganselo al jefe
+del departamento de quejas,
+
+1030
+01:12:33,115 --> 01:12:35,174
+el monstruo grande que está ahí.
+
+1031
+01:12:36,885 --> 01:12:38,375
+Majestad.
+
+1032
+01:12:39,455 --> 01:12:42,618
+¡Tiene que haber un modo más rápido
+de demoler esto!
+
+1033
+01:12:42,691 --> 01:12:45,558
+¡Moriremos todos! ¡Salvo tú!
+
+1034
+01:12:45,627 --> 01:12:46,889
+¡Ya sé!
+
+1035
+01:12:58,807 --> 01:13:04,109
+<i>Mañana</i>
+
+1036
+01:13:05,547 --> 01:13:08,710
+<i>Mañana</i>
+
+1037
+01:13:08,784 --> 01:13:11,378
+<i>Te quiero</i>
+
+1038
+01:13:11,453 --> 01:13:12,943
+<i>Mañana</i>
+
+1039
+01:13:13,021 --> 01:13:15,216
+Va a tirar todo esto abajo.
+
+1040
+01:13:18,227 --> 01:13:22,459
+<i>Siempre te falta un día...</i>
+
+1041
+01:13:24,299 --> 01:13:26,733
+¡Espera! Tú no eres así.
+
+1042
+01:13:28,370 --> 01:13:30,964
+Te creé para que fueras malvada.
+
+1043
+01:13:31,039 --> 01:13:34,202
+Perdón por mentirte. Te mentí sobre todo.
+
+1044
+01:13:36,812 --> 01:13:39,872
+Es un papel. No tienes que interpretarlo.
+
+1045
+01:13:40,249 --> 01:13:44,743
+¡Claro que sí! Tú eres un Igor.
+¡Ella es un invento maligno!
+
+1046
+01:13:44,820 --> 01:13:47,653
+No. Todos tienen
+un hueso del mal en el cuerpo,
+
+1047
+01:13:47,723 --> 01:13:50,214
+pero nosotros elegimos usarlo o no.
+
+1048
+01:13:51,760 --> 01:13:54,092
+Y como alguien que quiero dijo una vez:
+
+1049
+01:13:54,696 --> 01:13:58,757
+"Mejor ser una doña nadie buena
+que una doña alguien malvada."
+
+1050
+01:14:31,066 --> 01:14:32,624
+Yo no soy malvada.
+
+1051
+01:14:34,937 --> 01:14:36,427
+Soy Eva.
+
+1052
+01:14:37,773 --> 01:14:39,832
+Ésa es la respuesta correcta.
+
+1053
+01:14:39,908 --> 01:14:43,742
+Igor, sentí que estaba
+en un lugar horrible y oscuro.
+
+1054
+01:14:44,580 --> 01:14:48,175
+- Todos estábamos ahí.
+- ¿Qué sucede?
+
+1055
+01:14:48,817 --> 01:14:51,411
+Es el fin del papel de malvado
+de Malaria en el mundo.
+
+1056
+01:14:51,487 --> 01:14:52,920
+¡Cámara 2!
+
+1057
+01:14:53,522 --> 01:14:56,685
+<i>Excelente. /Gracias!</i>
+
+1058
+01:14:57,359 --> 01:15:00,021
+<i>Por generaciones,</i>
+<i>el rey Malbert nos dejó en la oscuridad</i>
+
+1059
+01:15:00,095 --> 01:15:03,792
+<i>/creando las nubes con un rayo del clima!</i>
+
+1060
+01:15:03,866 --> 01:15:05,356
+/ <i>Nos mintió!</i>
+
+1061
+01:15:06,068 --> 01:15:07,797
+<i>Confiamos en él, y nos mintió.</i>
+
+1062
+01:15:07,870 --> 01:15:11,772
+/ <i>Nos engañó para que creyéramos</i>
+<i>que debíamos ser malos para sobrevivir!</i>
+
+1063
+01:15:12,274 --> 01:15:13,866
+<i>/Pero no es así!</i>
+
+1064
+01:15:15,777 --> 01:15:17,472
+Nadie tiene que ser malo.
+
+1065
+01:15:21,250 --> 01:15:24,014
+¡Qué escándalo! ¡No tiene pruebas!
+
+1066
+01:15:24,086 --> 01:15:27,112
+¿Dónde están sus pruebas?
+¡Exijo ver las pruebas!
+
+1067
+01:15:29,191 --> 01:15:30,852
+Exijo ver las...
+
+1068
+01:15:38,667 --> 01:15:40,259
+Seguro que está bien.
+
+1069
+01:15:40,335 --> 01:15:43,236
+¡Larga vida al rey Schadenfreude!
+
+1070
+01:15:43,305 --> 01:15:45,239
+¡Murió el rey Malbert, el mentiroso!
+
+1071
+01:15:45,307 --> 01:15:49,607
+¡Larga vida al rey Schadenfreude!
+Todos digan: "¡Larga vida!"
+
+1072
+01:15:52,748 --> 01:15:55,808
+Qué reinado más corto.
+
+1073
+01:15:56,351 --> 01:15:59,548
+Amigos, ¡estoy soltera otra vez!
+
+1074
+01:16:01,089 --> 01:16:02,750
+No quedan más pastillas.
+
+1075
+01:16:04,326 --> 01:16:07,022
+No pueden verme como soy de verdad.
+
+1076
+01:16:09,631 --> 01:16:11,861
+¡Se acabaron mis días de maldad!
+
+1077
+01:16:11,934 --> 01:16:14,767
+A partir de ahora,
+todas las maldades serán tratadas
+
+1078
+01:16:14,836 --> 01:16:17,771
+por mi agente y novio.
+
+1079
+01:16:23,478 --> 01:16:28,040
+¡Igor! ¡Igor! ¡Igor!
+
+1080
+01:16:28,116 --> 01:16:33,520
+¡Igor! ¡Igor! ¡Igor!
+
+1081
+01:16:34,089 --> 01:16:35,351
+TEATRO COMUNITARIO DE MALARIA
+
+1082
+01:16:42,898 --> 01:16:44,991
+Presidente Igor, ahora que está a cargo,
+
+1083
+01:16:45,067 --> 01:16:48,230
+¿seguirán siendo incómodos
+y caros los pantalones
+
+1084
+01:16:48,303 --> 01:16:50,737
+como lo eran
+en la administración anterior?
+
+1085
+01:16:50,806 --> 01:16:53,604
+¿Cómo? No. Todo es pantalones.
+
+1086
+01:16:53,675 --> 01:16:56,667
+¿Por qué todo tiene
+que ver con pantalones para ti?
+
+1087
+01:16:56,745 --> 01:16:59,339
+Ahí lo tienen.
+Otro político que teme responder
+
+1088
+01:16:59,414 --> 01:17:01,814
+las preguntas de Carl Cristall
+sobre pantalones.
+
+1089
+01:17:05,020 --> 01:17:09,480
+Pepinillos. Antigua receta familiar.
+
+1090
+01:17:09,558 --> 01:17:12,721
+¡Cacao! ¡Estrúdel!
+
+1091
+01:17:20,702 --> 01:17:23,637
+Recógeme a las 7:00.
+Voy a casa a afeitarme.
+
+1092
+01:17:27,275 --> 01:17:29,209
+Scamper, ¿viste a Eva?
+
+1093
+01:17:29,277 --> 01:17:31,040
+No. Vete.
+
+1094
+01:17:31,113 --> 01:17:34,844
+Lo tienes puesto al revés.
+¿Acaso eres ciego?
+
+1095
+01:17:35,617 --> 01:17:37,812
+Démoslo vuelta.
+
+1096
+01:17:38,820 --> 01:17:40,913
+¿A qué te dedicas?
+
+1097
+01:17:40,989 --> 01:17:44,186
+Soy un genio. ¿Y usted, señor?
+
+1098
+01:17:46,728 --> 01:17:50,323
+Perdón por llegar tarde.
+Me olvidé tu regalo en el laboratorio.
+
+1099
+01:17:50,399 --> 01:17:52,924
+¡Mi collar!
+
+1100
+01:17:53,001 --> 01:17:54,525
+Mira dentro.
+
+1101
+01:17:59,074 --> 01:18:00,564
+Dios mío.
+
+1102
+01:18:00,642 --> 01:18:02,473
+¿Lo harás de verdad?
+
+1103
+01:18:02,544 --> 01:18:06,071
+Sí. Y si no sale bien, adoptaremos.
+
+1104
+01:18:09,584 --> 01:18:12,052
+Es un gran paso criar una mascota juntos.
+
+1105
+01:18:12,120 --> 01:18:14,645
+Después de vivir con Brain y Scamper,
+
+1106
+01:18:14,723 --> 01:18:17,248
+todo parecerá muy fácil.
+
+1107
+01:18:26,034 --> 01:18:31,165
+<i>Ahora veo bien que la lluvia ya paró</i>
+
+1108
+01:18:34,109 --> 01:18:39,172
+<i>Veo todos los obstáculos de mi camino</i>
+
+1109
+01:18:42,150 --> 01:18:47,144
+<i>Se fueron las oscuras nubes</i>
+<i>que me cegaban</i>
+
+1110
+01:18:47,923 --> 01:18:53,953
+<i>Hoy será un día de mucho sol</i>
+
+1111
+01:18:55,864 --> 01:19:01,928
+<i>Hoy será un día de mucho sol</i>
+
+1112
+01:19:03,905 --> 01:19:09,036
+<i>Hoy será un día de mucho sol</i>
+
+1113
+01:24:46,158 --> 01:24:47,158
+Subtitles by LeapinLar

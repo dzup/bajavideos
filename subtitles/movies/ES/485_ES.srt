@@ -1,0 +1,6422 @@
+1
+00:00:39,765 --> 00:00:42,554
+TIRADOR.
+
+2
+00:02:01,454 --> 00:02:02,580
+Movimiento.
+
+3
+00:02:03,857 --> 00:02:04,949
+Dos hombres.
+
+4
+00:02:06,526 --> 00:02:07,993
+Aproximadamente...
+
+5
+00:02:10,463 --> 00:02:12,226
+40 cabras.
+
+6
+00:02:12,332 --> 00:02:16,063
+No son de ningún bando.
+No tenemos que matarlos.
+
+7
+00:02:17,036 --> 00:02:18,162
+¿Blanco?
+
+8
+00:02:18,938 --> 00:02:23,739
+Primario por encima, secundario
+por el camino, terciario por el río.
+
+9
+00:02:25,111 --> 00:02:28,239
+Nadie te puede rastrear
+por el agua, excepto un pez.
+
+10
+00:02:38,124 --> 00:02:41,093
+Sarah va a egresar de la escuela
+de enfermería el próximo mes.
+
+11
+00:02:42,061 --> 00:02:43,653
+Ella misma lo cosió.
+
+12
+00:02:43,863 --> 00:02:45,125
+Es hermoso.
+
+13
+00:02:47,233 --> 00:02:49,956
+¿Estás seguro de que esta
+es una misión para mantener la paz?
+
+14
+00:02:50,270 --> 00:02:53,068
+Normalmente no hay paz
+por principio de cuentas.
+
+15
+00:02:55,008 --> 00:02:57,067
+Esto está terriblemente calmado.
+
+16
+00:03:09,589 --> 00:03:10,749
+- Estas coordenadas, no.
+- Si, señor.
+
+17
+00:03:10,857 --> 00:03:12,017
+Adelántate y dame una alternativa.
+
+18
+00:03:12,125 --> 00:03:13,319
+Si, señor.
+
+19
+00:03:13,626 --> 00:03:16,754
+<i>Puesto de Mando, Puesto de Mando,
+este es TS-129, cambio.</i>
+
+20
+00:03:17,363 --> 00:03:20,491
+Señor, tenemos confirmación visual
+de la posición actual de TS-129.
+
+21
+00:03:20,600 --> 00:03:24,092
+<i>Misión cumplida, en camino a lugar
+de extracción. Distancia: 8 Km. Cambio.</i>
+
+22
+00:03:24,204 --> 00:03:26,104
+<i>Puesto de mando, puesto de mando
+este es Viper.</i>
+
+23
+00:03:26,206 --> 00:03:28,538
+<i>Veo fuerzas amigas moviéndose
+a punto de extracción. Cambio.</i>
+
+24
+00:03:30,109 --> 00:03:32,077
+Alerta, nuestros muchachos
+están llegando.
+
+25
+00:03:32,178 --> 00:03:34,009
+<i>Viper, este es CP. Mantente alerta,</i>
+
+26
+00:03:34,113 --> 00:03:37,480
+<i>posibles fuerzas hostiles acercándose
+a TS-129 a sus 12.</i>
+
+27
+00:03:37,617 --> 00:03:38,777
+Retírenlos.
+
+28
+00:03:39,252 --> 00:03:40,219
+Blanco.
+
+29
+00:03:41,020 --> 00:03:42,715
+Sector Bravo, profundo.
+
+30
+00:03:42,822 --> 00:03:45,086
+Vehículo, ametralladora.
+
+31
+00:03:45,191 --> 00:03:46,158
+¿Distancia?
+
+32
+00:03:50,730 --> 00:03:52,459
+798 metros y acercándose.
+
+33
+00:03:53,399 --> 00:03:55,867
+Viento, valor 3/4
+empuja 2 a la izquierda.
+
+34
+00:03:56,869 --> 00:04:00,066
+810 metros.
+Punto amplio en el camino.
+
+35
+00:04:01,608 --> 00:04:02,802
+Tengo al blanco.
+
+36
+00:04:02,909 --> 00:04:04,240
+Mantén la mira.
+
+37
+00:04:04,344 --> 00:04:05,675
+Dispara cuando estés listo.
+
+38
+00:04:09,282 --> 00:04:10,306
+Disparo.
+
+39
+00:04:16,122 --> 00:04:19,148
+<i>Mando, este es Viper.
+Amenaza hostil eliminada. Cambio.</i>
+
+40
+00:04:19,292 --> 00:04:22,659
+<i>Viper, este es Mando.
+Recibimos comunicación. Cambio.</i>
+
+41
+00:04:32,972 --> 00:04:35,372
+Terminamos. Es hora de irse.
+
+42
+00:04:35,475 --> 00:04:37,375
+Puesto de mando, este es Viper.
+Misión cumplida.
+
+43
+00:04:37,477 --> 00:04:38,501
+- Empacando.
+- ¡Mierda!
+
+44
+00:04:38,611 --> 00:04:41,978
+<i>Viper, alerta. Fuerzas hostiles más grandes
+aproximándose por el sector Bravo.</i>
+
+45
+00:04:42,081 --> 00:04:44,413
+¡No debería haber
+enemigos tan cerca!
+
+46
+00:04:51,524 --> 00:04:55,824
+Árbol chueco. 608 metros, 45 Km./h,
+3 millas adelante.
+
+47
+00:05:01,334 --> 00:05:04,861
+Posición de ametralladora.
+810 m, valor 3/4.
+
+48
+00:05:04,971 --> 00:05:06,302
+Dispara a discreción
+
+49
+00:05:10,710 --> 00:05:14,407
+<i>Jefe. 920. Valor 3/4</i>
+
+50
+00:05:14,614 --> 00:05:17,606
+- Lo veo, Don, lo veo.
+- Dispara a discreción.
+
+51
+00:05:26,426 --> 00:05:28,792
+- ¡No saben donde estamos!
+- ¡Pueden que tengan suerte!
+
+52
+00:05:31,197 --> 00:05:33,256
+<i>Puesto de mando, puesto de mando
+este es Viper.</i>
+
+53
+00:05:33,366 --> 00:05:35,630
+<i>Detuvimos fuerzas enemigas.
+Respondan.</i>
+
+54
+00:05:35,735 --> 00:05:38,465
+<i>Los nuestros continúan hacia punto
+de extracción. Respondan.</i>
+
+55
+00:05:38,571 --> 00:05:42,473
+<i>Estamos recibiendo fuego hostil.
+Respondan.</i>
+
+56
+00:05:45,211 --> 00:05:46,644
+Puesto de mando. ¿Me reciben?
+
+57
+00:05:46,746 --> 00:05:47,974
+Apágalo.
+
+58
+00:05:48,247 --> 00:05:49,214
+Son hombres altamente entrenados,
+
+59
+00:05:49,315 --> 00:05:52,079
+a 8 kilómetros dentro de un
+país en el que no deberíamos estar.
+
+60
+00:05:52,185 --> 00:05:54,517
+Estoy seguro de que podrán salir bien.
+Apágalo ahora.
+
+61
+00:05:54,620 --> 00:05:56,087
+<i>Comunicación. ¿Me reciben?</i>
+
+62
+00:05:56,189 --> 00:05:58,248
+<i>- ¡Ok!. Empaquen, vamos!
+- ¿Me reciben?</i>
+
+63
+00:05:58,358 --> 00:06:01,020
+- Borren esas huellas.
+- ¡Borren esas huellas y empaquen!
+
+64
+00:06:12,939 --> 00:06:14,998
+La información decía que no tenían
+soporte aéreo.
+
+65
+00:06:15,108 --> 00:06:16,234
+¡Llama a la base!
+
+66
+00:06:19,445 --> 00:06:22,380
+Mierda. El Canal no funciona.
+
+67
+00:06:22,482 --> 00:06:23,506
+¡Es imposible?
+
+68
+00:06:23,616 --> 00:06:25,015
+¡El enlace está muerto!
+
+69
+00:06:25,118 --> 00:06:27,951
+Nos dejaron aquí.
+¡No te preocupes, iremos a casa!
+
+70
+00:07:09,629 --> 00:07:10,789
+¿Donnie?
+
+71
+00:07:13,433 --> 00:07:14,627
+¡Donnie!
+
+72
+00:08:43,256 --> 00:08:44,689
+Vamos, amigo.
+
+73
+00:08:46,459 --> 00:08:47,721
+Vamos, Sam.
+
+74
+00:08:49,529 --> 00:08:51,656
+¿Qué haces? ¿Qué estás haciendo?
+
+75
+00:08:51,764 --> 00:08:52,788
+Vamos.
+
+76
+00:08:52,899 --> 00:08:53,991
+¿Qué? No tengo nada.
+
+77
+00:08:54,200 --> 00:08:55,167
+¿Qué?
+
+78
+00:08:56,269 --> 00:08:58,362
+Bien, vamos, vámonos. Vámonos.
+
+79
+00:09:00,706 --> 00:09:02,105
+Ere un buen muchacho.
+
+80
+00:09:15,288 --> 00:09:16,778
+Buen muchacho.
+
+81
+00:09:22,528 --> 00:09:25,395
+Veamos que mentiras
+nos están vendiendo hoy.
+
+82
+00:09:29,335 --> 00:09:30,359
+Toma, muchacho.
+
+83
+00:09:31,737 --> 00:09:32,999
+Buen muchacho.
+
+84
+00:09:43,416 --> 00:09:47,045
+Sargento de artillería
+Bob Lee Swagger.
+
+85
+00:09:47,153 --> 00:09:49,644
+USMC, retirado.
+
+86
+00:09:50,356 --> 00:09:52,119
+Es el mejor que hay.
+
+87
+00:09:52,224 --> 00:09:54,818
+Su última misión salió mal.
+
+88
+00:09:54,927 --> 00:09:58,226
+Fue puesto en territorio hostil como
+un préstamo y fue abandonado.
+
+89
+00:09:58,331 --> 00:10:01,767
+Los contrarios enviaron ataque con
+helicóptero y una compañía de 100 hombres.
+
+90
+00:10:01,867 --> 00:10:04,700
+Su ubicador y mejor amigo murió.
+
+91
+00:10:04,804 --> 00:10:06,066
+No hay reporte oficial.
+
+92
+00:10:06,172 --> 00:10:10,404
+El reporte de espionaje dice que causó
+70% de bajas. Los demás huyeron.
+
+93
+00:10:10,509 --> 00:10:12,602
+¿Y el agente que lo abandonó
+ahí a su suerte?
+
+94
+00:10:12,712 --> 00:10:15,875
+Fue repentinamente borrado de la faz de la
+tierra dos semanas después.
+
+95
+00:10:15,982 --> 00:10:17,882
+Nunca lo acusaron por abandonar
+a Bob Lee.
+
+96
+00:10:17,984 --> 00:10:19,747
+Se retiró una semana después.
+
+97
+00:10:19,852 --> 00:10:22,946
+Supongo que Bob Lee no se
+consideraba prescindible.
+
+98
+00:10:33,866 --> 00:10:35,390
+Cultiva y mata su propia comida.
+
+99
+00:10:35,501 --> 00:10:37,696
+Si, rara vez sale para algo.
+
+100
+00:10:37,803 --> 00:10:41,933
+Este es un hombre con una
+Historia de deber y patriotismo.
+
+101
+00:10:42,041 --> 00:10:44,593
+No como simples líneas, sino
+como firme convencimiento.
+
+102
+00:10:44,594 --> 00:10:45,594
+Así es.
+
+103
+00:10:45,845 --> 00:10:49,246
+Algunos no saben que hacer
+cuando su sistema de creencias colapsa.
+
+104
+00:10:49,949 --> 00:10:51,678
+Bob Lee es uno de esos.
+
+105
+00:11:01,627 --> 00:11:03,264
+¿Estás seguro, muchacho?
+
+106
+00:11:16,342 --> 00:11:19,834
+No, no lo voy a comprar.
+No quiero nada.
+
+107
+00:11:19,945 --> 00:11:23,642
+Dense vuelta y regresen al lugar
+del que vinieron.
+
+108
+00:11:24,517 --> 00:11:26,917
+¿Bob Lee Swagger?
+
+109
+00:11:27,019 --> 00:11:29,044
+Soy el Coronel Isaac Johnson.
+
+110
+00:11:29,455 --> 00:11:30,717
+Eres un hombre difícil de encontrar.
+
+111
+00:11:30,823 --> 00:11:32,085
+Pero no lo suficientemente difícil.
+
+112
+00:11:32,191 --> 00:11:33,715
+Venimos de muy lejos para verte.
+
+113
+00:11:34,060 --> 00:11:36,028
+Tenemos unos asuntos que ameritan
+tu atención.
+
+114
+00:11:36,128 --> 00:11:37,686
+Deben usar baja velocidad cuando
+vayan camino abajo,
+
+115
+00:11:37,797 --> 00:11:38,889
+o les fallarán los frenos.
+
+116
+00:11:38,998 --> 00:11:41,865
+- Ven aquí, ven aquí, muchacho.
+- No haga eso.
+
+117
+00:11:43,069 --> 00:11:46,368
+No te acerques al porche, yo no los invité,
+tendrías que dispararle al perro.
+
+118
+00:11:47,473 --> 00:11:48,963
+Desenfundas lento.
+
+119
+00:11:49,075 --> 00:11:50,508
+¿Estás seguro de que quieres hacer eso?
+
+120
+00:11:50,943 --> 00:11:52,433
+Dispararle a un perro en este condado
+en el terreno de un hombre,
+
+121
+00:11:52,545 --> 00:11:54,877
+te enterraré en la colina y le diré
+al Sheriff uno o dos meses después.
+
+122
+00:11:54,980 --> 00:11:56,454
+El lo entenderá.
+
+123
+00:11:57,583 --> 00:11:59,141
+Retira tu mano de tu arma.
+
+124
+00:11:59,251 --> 00:12:00,377
+Lentamente.
+
+125
+00:12:00,653 --> 00:12:03,622
+Para que el Sargento de artillería no
+tenga que enterrarte en la colina.
+
+126
+00:12:05,858 --> 00:12:07,587
+Yo no traigo arma.
+
+127
+00:12:11,964 --> 00:12:13,090
+¿Sabe lo que es eso?
+
+128
+00:12:13,199 --> 00:12:15,133
+Una medalla de honor
+del Congreso.
+
+129
+00:12:15,701 --> 00:12:17,225
+No las dan fácilmente.
+
+130
+00:12:17,403 --> 00:12:18,370
+¿Es suya?
+
+131
+00:12:18,671 --> 00:12:20,070
+Si.
+
+132
+00:12:20,172 --> 00:12:22,163
+Su padre tenia una, ¿cierto?
+
+133
+00:12:22,274 --> 00:12:23,798
+¿Qué hiciste?
+
+134
+00:12:23,909 --> 00:12:27,640
+Una tontería. Mantuve vivos
+a otros muchacho.
+
+135
+00:12:27,747 --> 00:12:29,510
+¿Me puede dar 5 minutos?
+
+136
+00:12:31,984 --> 00:12:33,713
+Si, su perro se queda afuera.
+
+137
+00:12:34,920 --> 00:12:36,547
+Vamos, muchacho. Entra.
+
+138
+00:12:37,957 --> 00:12:42,189
+Necesito que organice
+un asesinato presidencial.
+
+139
+00:12:42,294 --> 00:12:43,318
+¿El presidente de quién?
+
+140
+00:12:43,429 --> 00:12:44,453
+El nuestro.
+
+141
+00:12:46,132 --> 00:12:47,463
+No dije "Ejecutar"
+
+142
+00:12:48,234 --> 00:12:49,201
+Plan.
+
+143
+00:12:50,002 --> 00:12:52,061
+Para que pueda evitarse.
+
+144
+00:12:52,171 --> 00:12:55,800
+Habrá un intento contra la vida del
+Presidente en las próximas dos semanas.
+
+145
+00:12:55,908 --> 00:12:59,241
+Se descifró un código en una
+transmisión anónima.
+
+146
+00:13:01,147 --> 00:13:02,910
+Fue interna.
+
+147
+00:13:03,015 --> 00:13:05,381
+No podemos acudir
+a las agencias normales.
+
+148
+00:13:05,484 --> 00:13:08,317
+El gobierno mismo
+ha sido infiltrado.
+
+149
+00:13:08,420 --> 00:13:13,881
+El presidente tiene tres
+apariciones públicas en ese tiempo.
+
+150
+00:13:13,993 --> 00:13:18,487
+Baltimore, Filadelfia,
+Washington, D.C.
+
+151
+00:13:18,597 --> 00:13:21,430
+El cordón protectivo del
+Servicio Secreto,
+
+152
+00:13:21,734 --> 00:13:24,362
+se extiende a unos 800 metros.
+
+153
+00:13:24,470 --> 00:13:29,134
+Pero el comunicado dice que le dispararán
+desde más de una milla de distancia.
+
+154
+00:13:29,241 --> 00:13:32,233
+Necesitamos que explore,
+y nos diga como lo haría ud.
+
+155
+00:13:32,611 --> 00:13:34,101
+para que podamos impedirlo.
+
+156
+00:13:35,080 --> 00:13:39,608
+No estoy del todo convencido
+de que un tiro como ese pueda lograrse.
+
+157
+00:13:40,920 --> 00:13:43,115
+Pero no queremos arriesgarnos.
+
+158
+00:13:44,356 --> 00:13:46,551
+Tu disparo más largo nunca fue confirmado.
+
+159
+00:13:46,659 --> 00:13:48,559
+Eso es por que los disparos largos
+generalmente van a lugares,
+
+160
+00:13:48,661 --> 00:13:51,494
+a donde no querrías ir para
+confirmarlos.
+
+161
+00:13:51,597 --> 00:13:54,191
+La confirmación es un
+problema de burócratas.
+
+162
+00:13:55,034 --> 00:13:57,298
+¿Sabe lo que se necesita para
+hacer un disparo a esa distancia?
+
+163
+00:13:57,403 --> 00:13:58,927
+Todo entra en juego a esa distancia.
+
+164
+00:13:59,038 --> 00:14:02,132
+Humedad, elevación,
+temperatura, viento.
+
+165
+00:14:02,241 --> 00:14:03,572
+La bala dura de 6 a 10 segundos
+volando,
+
+166
+00:14:03,676 --> 00:14:05,769
+así que tienes que disparar hacia
+donde el blanco estará en ese tiempo.
+
+167
+00:14:05,878 --> 00:14:08,972
+Hasta el efecto Coriolis, el giro de
+la tierra, entra en juego.
+
+168
+00:14:09,081 --> 00:14:11,311
+El presidente estará usando armadura.
+Eso implica un disparo en la cabeza.
+
+169
+00:14:11,417 --> 00:14:12,577
+a más de una milla.
+
+170
+00:14:12,685 --> 00:14:14,949
+¿Crees que hay un tirador involucrado
+capaz de hacer este disparo?
+
+171
+00:14:15,054 --> 00:14:16,282
+Si.
+
+172
+00:14:16,388 --> 00:14:18,754
+Entonces, tienen un gran problema.
+Necesita encontrar al tirador.
+
+173
+00:14:18,858 --> 00:14:21,227
+Se está trabajando en eso
+por otro lado.
+
+174
+00:14:21,427 --> 00:14:23,088
+Te necesitamos a ti para hacer esto.
+
+175
+00:14:23,195 --> 00:14:25,163
+En realidad, no me agrada
+mucho el presidente.
+
+176
+00:14:25,264 --> 00:14:27,164
+Tampoco me cae bien el anterior tampoco.
+
+177
+00:14:27,266 --> 00:14:29,131
+¿Le gusta la idea de un Presidente?
+
+178
+00:14:29,501 --> 00:14:30,968
+¿Vivir en un país libre?
+
+179
+00:14:31,070 --> 00:14:33,504
+¿Permitiremos que América
+sea gobernado por matones?
+
+180
+00:14:33,606 --> 00:14:35,369
+Claro, algunos años lo hacemos.
+
+181
+00:14:36,609 --> 00:14:39,476
+Creo que se paró ante una bandera,
+
+182
+00:14:39,979 --> 00:14:41,241
+y juró solemnemente,
+
+183
+00:14:42,147 --> 00:14:46,015
+que apoyaría y defendería la Constitución
+de los Estados Unidos,
+
+184
+00:14:46,118 --> 00:14:47,779
+contra el enemigo,
+
+185
+00:14:47,887 --> 00:14:49,514
+extranjero y doméstico.
+
+186
+00:14:49,622 --> 00:14:51,556
+Creo que se terminaron sus cinco minutos.
+
+187
+00:15:01,033 --> 00:15:02,557
+Escúchame, hijo.
+
+188
+00:15:04,637 --> 00:15:06,764
+No quiero que prendas la TV
+la próxima semana,
+
+189
+00:15:07,973 --> 00:15:10,271
+y veas al Presidente muerto,
+
+190
+00:15:10,376 --> 00:15:13,038
+y sepas que pudiste haber hecho
+algo al respecto.
+
+191
+00:15:13,879 --> 00:15:15,904
+No te hagas eso a ti mismo.
+
+192
+00:15:36,702 --> 00:15:38,499
+¿Es el nuevo?
+
+193
+00:15:38,604 --> 00:15:39,866
+La camioneta.
+
+194
+00:15:41,373 --> 00:15:42,840
+¿Tiene el motor grande?
+
+195
+00:15:42,942 --> 00:15:46,503
+Miren eso.
+un V-8 de ocho litros.
+
+196
+00:15:46,612 --> 00:15:50,309
+Es tan grande que EPA
+no dice cuántos Km. da por litro.
+
+197
+00:15:50,416 --> 00:15:51,974
+¿Puedo tomarle una foto?
+
+198
+00:15:53,786 --> 00:15:55,310
+Es hermoso.
+
+199
+00:15:59,825 --> 00:16:02,555
+Alguien estará en este
+teléfono, día y noche.
+
+200
+00:16:07,733 --> 00:16:10,361
+¿Vieron lo que hizo?
+No necesitaba una foto del motor.
+
+201
+00:16:10,469 --> 00:16:12,767
+No, no le importa un comino
+el motor del auto.
+
+202
+00:16:12,871 --> 00:16:14,395
+Está entrenado en contraespionaje.
+
+203
+00:16:14,506 --> 00:16:16,838
+Retrocedió lo suficiente para
+incluir las placas en la foto.
+
+204
+00:16:16,942 --> 00:16:18,432
+Este es nuestro hombre.
+
+205
+00:16:18,544 --> 00:16:19,943
+Creí que se había negado.
+
+206
+00:16:20,045 --> 00:16:22,479
+Dijo que sí, pero todavía no lo sabe.
+
+207
+00:17:37,289 --> 00:17:39,416
+1,760 es una milla.
+
+208
+00:17:40,292 --> 00:17:43,887
+Es toda una pieza, Sam.
+¿Crees que el Presidente debe preocuparse?
+
+209
+00:18:15,727 --> 00:18:17,319
+Si, creo que más vale que se preocupe.
+
+210
+00:18:32,077 --> 00:18:33,806
+Si, estará bien.
+
+211
+00:18:34,980 --> 00:18:38,939
+Sólo dale de comer una vez al día.
+Léele tablas de balística si se siente solo.
+
+212
+00:18:39,051 --> 00:18:40,313
+Si, fuera.
+
+213
+00:18:42,121 --> 00:18:43,554
+Ven aquí, amigo.
+
+214
+00:18:44,323 --> 00:18:45,483
+Ok.
+
+215
+00:18:46,191 --> 00:18:49,649
+¿Crees que podrás estar bien
+sin mí un par de días?
+
+216
+00:18:50,496 --> 00:18:51,463
+Si.
+
+217
+00:20:18,650 --> 00:20:20,777
+<i>Este es el puesto de mando.
+¿Cuál es tu situación? Cambio.</i>
+
+218
+00:20:20,886 --> 00:20:22,717
+Si, estamos pescando aquí
+en la calle 6.
+
+219
+00:20:22,821 --> 00:20:25,619
+<i>Entendido. Punto de revisión
+establecido, cambio.</i>
+
+220
+00:20:38,604 --> 00:20:43,371
+Ante ustedes la sala de la independencia,
+donde nacieron los EUA,
+
+221
+00:20:43,475 --> 00:20:46,376
+y uno de los edificios más
+importantes en la historia de EUA.
+
+222
+00:20:46,778 --> 00:20:48,609
+Construido en 1732...
+
+223
+00:20:48,714 --> 00:20:50,841
+Mantén contacto visual en la calle 72...
+
+224
+00:20:50,949 --> 00:20:53,247
+...ambas, La declaración de Independencia
+y la Constitución de los Estado Unidos,
+
+225
+00:20:53,352 --> 00:20:55,513
+fueron debatidos y firmados aquí.
+
+226
+00:21:04,096 --> 00:21:05,085
+De las tres ciudades,
+
+227
+00:21:05,197 --> 00:21:08,132
+solo hay una con posibilidades
+razonablemente altas de éxito.
+
+228
+00:21:08,800 --> 00:21:10,028
+No hay lugar en Baltimore.
+
+229
+00:21:10,135 --> 00:21:11,568
+La calle no es lo suficientemente
+amplia para la corrección del viento,
+
+230
+00:21:11,670 --> 00:21:13,433
+hay edificios que estorban.
+
+231
+00:21:13,538 --> 00:21:15,062
+D.C. es una misión suicida.
+
+232
+00:21:15,173 --> 00:21:17,299
+Quiero decir, a menos que su tirador
+esté interesado en 70 vírgenes,
+
+233
+00:21:17,409 --> 00:21:20,228
+esperando por él en la otra vida.
+Yo la descartaría.
+
+234
+00:21:20,263 --> 00:21:21,304
+El disparo tiene que hacerse en Filadelfia
+
+235
+00:21:22,114 --> 00:21:24,014
+<i>Desde más de 1,800 yardas.</i>
+
+236
+00:21:24,116 --> 00:21:25,583
+<i>Hay 1 de 6 ubicaciones posibles,</i>
+
+237
+00:21:25,684 --> 00:21:28,619
+<i>aproximadamente 5 pisos
+arriba de la ubicación del presidente.</i>
+
+238
+00:21:29,221 --> 00:21:31,849
+<i>El tiempo de vuelo de la bala
+a esa distancia será 5-6 segundos.</i>
+
+239
+00:21:31,957 --> 00:21:33,185
+<i>Tienen que esperar a que suba al podium,</i>
+
+240
+00:21:33,292 --> 00:21:34,816
+<i>varias líneas de su discurso.</i>
+
+241
+00:21:34,926 --> 00:21:37,724
+<i>De esa manera estará completamente
+estático, obviamente a máxima exposición.</i>
+
+242
+00:21:37,829 --> 00:21:39,763
+<i>El disparo requiere de una arma
+de largo calibre.</i>
+
+243
+00:21:39,865 --> 00:21:42,629
+<i>La bala debe ser hecha a mano,
+de aleación de bronce torneada.</i>
+
+244
+00:21:42,734 --> 00:21:44,031
+<i>Coeficiente balístico ligeramente bajo,</i>
+
+245
+00:21:44,136 --> 00:21:46,659
+resbalosa al tacto, eso haría yo.
+
+246
+00:21:46,872 --> 00:21:49,204
+¿Lo puedes matar de tan lejos?
+
+247
+00:21:51,209 --> 00:21:53,177
+Milla y media, la bala lo golpearía con
+más energía,
+
+248
+00:21:53,278 --> 00:21:54,472
+que una Mágnum 44 de punto negro.
+
+249
+00:21:54,579 --> 00:21:56,274
+Si, creo que podría matarlo.
+
+250
+00:21:56,882 --> 00:21:58,144
+<i>EL reto es el viento.</i>
+
+251
+00:21:58,250 --> 00:22:00,115
+<i>La brisa más ligera sin
+corregir a esa distancia,</i>
+
+252
+00:22:00,218 --> 00:22:01,515
+<i>es suficiente para arruinar el tiro.</i>
+
+253
+00:22:01,620 --> 00:22:04,817
+<i>Necesitará indicadores entre el podium
+y la posición de disparo.</i>
+
+254
+00:22:04,923 --> 00:22:06,413
+<i>Las correcciones de velocidad son fáciles,</i>
+
+255
+00:22:06,525 --> 00:22:08,322
+<i>pero un cambio de ángulo
+se vuelve un problema.</i>
+
+256
+00:22:08,427 --> 00:22:10,395
+<i>Tiene que hacer eso
+en su mente al vuelo.</i>
+
+257
+00:22:10,495 --> 00:22:13,464
+<i>Sin algo para medir, el disparo es muy
+difícil para hacerse a puro pulso.</i>
+
+258
+00:22:13,565 --> 00:22:16,625
+<i>Impresionante análisis y reporte, hijo.</i>
+
+259
+00:22:16,735 --> 00:22:18,760
+<i>Si actuamos demasiado pronto
+lo perderemos.</i>
+
+260
+00:22:18,870 --> 00:22:20,167
+<i>Quiero atraparlo vivo.</i>
+
+261
+00:22:20,806 --> 00:22:23,798
+Si no sabemos quien lo
+contrató, puede repetirse.
+
+262
+00:22:25,110 --> 00:22:29,376
+Tendremos 6 equipos
+de 3 hombres listos.
+
+263
+00:22:30,515 --> 00:22:32,073
+¿Sargento de artillería Swagger?
+
+264
+00:22:32,184 --> 00:22:33,310
+¿Un momento?
+
+265
+00:22:35,487 --> 00:22:37,955
+Le has dado un gran
+servicio a tu país, hijo.
+
+266
+00:22:38,056 --> 00:22:39,045
+- Por este día...
+- Mira...
+
+267
+00:22:39,157 --> 00:22:40,215
+Escucha.
+
+268
+00:22:41,293 --> 00:22:44,626
+Eres una de las pocas
+personas que saben que buscar.
+
+269
+00:22:45,597 --> 00:22:47,462
+Necesito un ubicador.
+
+270
+00:23:54,332 --> 00:23:56,266
+<i>Gracias, Filadelfia.</i>
+
+271
+00:23:56,368 --> 00:23:58,461
+El presidente hablará en 20 min.
+
+272
+00:23:58,570 --> 00:24:00,197
+<i>... antes que tu en el estrado...</i>
+
+273
+00:24:00,305 --> 00:24:02,967
+Notifique a nuestros equipos.
+Verifiquen sus posiciones.
+
+274
+00:24:03,074 --> 00:24:06,168
+<i>... los patriotas se reunieron en la Sala
+de Independencia y crearon un documento,</i>
+
+275
+00:24:06,278 --> 00:24:08,041
+<i>La declaración de la independencia...</i>
+
+276
+00:24:08,146 --> 00:24:09,272
+¿Señor?
+
+277
+00:24:09,381 --> 00:24:11,008
+<i>... y un país, Los Estados Unidos de América,</i>
+
+278
+00:24:11,116 --> 00:24:12,549
+<i>que cambió al mundo.</i>
+
+279
+00:24:12,651 --> 00:24:14,983
+<i>Filadelfia es nuestro hogar. Somos...</i>
+
+280
+00:24:15,086 --> 00:24:16,883
+<i>Alerta, todos los equipos.
+Este es el comando de comunicación.</i>
+
+281
+00:24:16,988 --> 00:24:19,752
+<i>La ubicación actual de Linterna
+está acercándose al punto de Jason.</i>
+
+282
+00:24:20,859 --> 00:24:23,350
+<i>Todos los equipos de Francotiradores
+reporten actualización de su situación.</i>
+
+283
+00:24:24,262 --> 00:24:26,856
+<i>- Aguarden.
+- Si, tengo línea de vista despejada.</i>
+
+284
+00:24:33,705 --> 00:24:35,229
+<i>Recibido.</i>
+
+285
+00:24:35,340 --> 00:24:37,706
+<i>Puesto 18, despejado. Cambio.</i>
+
+286
+00:24:37,809 --> 00:24:40,437
+<i>Puesto 19, por favor reporte.
+¿Cuál es su situación?</i>
+
+287
+00:24:41,246 --> 00:24:43,874
+Todo despejado,
+Aquí no hay nada.
+
+288
+00:24:44,483 --> 00:24:46,417
+<i>El arzobispo de Etiopia...</i>
+
+289
+00:24:46,518 --> 00:24:49,009
+<i>El presidente otorgará la medalla
+de hermandad de Filadelfia...</i>
+
+290
+00:24:49,120 --> 00:24:51,782
+<i>a su majestad Desmond Mutumbo,
+el arzobispo de Etiopía.</i>
+
+291
+00:24:51,890 --> 00:24:54,450
+<i>Ha habido controversia respecto
+al arzobispo,</i>
+
+292
+00:24:54,559 --> 00:24:57,722
+<i>pues ha estado hablando sobre
+las atrocidades en su país.</i>
+
+293
+00:24:57,829 --> 00:25:00,195
+<i>Planea reunirse con el presidente
+justo después de la ceremonia,</i>
+
+294
+00:25:00,298 --> 00:25:01,629
+<i>para discutir estos asuntos.</i>
+
+295
+00:25:01,733 --> 00:25:04,031
+<i>Estos son grandes tiempos.</i>
+
+296
+00:25:05,036 --> 00:25:07,266
+<i>Estos son tiempos históricos.</i>
+
+297
+00:25:07,372 --> 00:25:10,671
+<i>Y son tiempos problemáticos también.</i>
+
+298
+00:25:11,977 --> 00:25:14,810
+<i>Esta medalla que su país...</i>
+
+299
+00:25:14,913 --> 00:25:16,141
+Listones amarillos.
+
+300
+00:25:16,248 --> 00:25:18,808
+Si, la gente los puso para
+recordar a las tropas.
+
+301
+00:25:18,917 --> 00:25:21,147
+No, esos se amarran alrededor
+de los árboles.
+
+302
+00:25:21,486 --> 00:25:23,420
+Estos son banderas de viento.
+
+303
+00:25:23,688 --> 00:25:25,087
+Aproximadamente el lugar donde
+yo las pondría,
+
+304
+00:25:25,190 --> 00:25:26,680
+para un disparo desde el campanario.
+
+305
+00:25:26,825 --> 00:25:29,055
+Si. Tal vez.
+
+306
+00:25:29,160 --> 00:25:31,219
+No, definitivamente sabe lo que hace.
+
+307
+00:25:31,329 --> 00:25:33,263
+¿Tienen un equipo en posición
+para tomar la iglesia?
+
+308
+00:25:33,365 --> 00:25:36,198
+Lo moverán justo antes de que se haga
+el disparo, cuando se concentre en otra cosa.
+
+309
+00:25:36,301 --> 00:25:39,964
+<i>... levanta su cabeza y confronta
+la libertad,</i>
+
+310
+00:25:40,071 --> 00:25:45,407
+<i>pero lenta y sutilmente
+la arranca desde la raíz.</i>
+
+311
+00:25:45,510 --> 00:25:49,207
+<i>Y es nuestra responsabilidad.</i>
+
+312
+00:25:49,314 --> 00:25:51,544
+<i>encontrar éstas semillas negras.</i>
+
+313
+00:25:52,217 --> 00:25:56,313
+<i>Linterna llegó.
+repito, Linterna llegó.</i>
+
+314
+00:25:58,657 --> 00:26:00,386
+<i>- si acaba de sintonizarnos...
+- Hola.</i>
+
+315
+00:26:00,492 --> 00:26:03,120
+Oficial Timmons, nuestro recurso local.
+
+316
+00:26:04,429 --> 00:26:05,726
+Bob Lee Swagger.
+
+317
+00:26:07,465 --> 00:26:10,593
+Es un verdadero honor conocerlo...
+
+318
+00:26:10,702 --> 00:26:12,397
+No tiene puesto el seguro
+de su arma, oficial.
+
+319
+00:26:13,338 --> 00:26:15,863
+Mierda, carajo.
+
+320
+00:26:15,974 --> 00:26:18,238
+No quiero perderla ahora, ¿cierto?
+
+321
+00:26:18,343 --> 00:26:20,834
+Nuevamente, es un honor.
+
+322
+00:26:23,748 --> 00:26:28,811
+<i>... de nuestra administración de
+este...</i>
+
+323
+00:26:28,920 --> 00:26:32,447
+- ¿Es nuestro el del collar?
+- El arzobispo de Etiopía.
+
+324
+00:26:32,557 --> 00:26:34,821
+Le darán una medalla.
+¿Lo conoce?
+
+325
+00:26:34,926 --> 00:26:37,019
+HOA. El cuerno de África. Si.
+
+326
+00:26:37,128 --> 00:26:39,096
+¿Sabías que trabajé ahí?
+
+327
+00:26:39,197 --> 00:26:40,994
+Sabes lo que dicen sobre lo primero
+que sientes...
+
+328
+00:26:41,099 --> 00:26:43,033
+...cuando le disparas a un civil, ¿cierto?
+
+329
+00:26:43,134 --> 00:26:45,432
+- ¿El culatazo del rifle?
+- Correcto.
+
+330
+00:26:45,537 --> 00:26:47,004
+Muy original.
+
+331
+00:26:47,906 --> 00:26:50,374
+<i>Gracias arzobispo por esas
+inspiradoras palabras.</i>
+
+332
+00:26:50,475 --> 00:26:52,966
+Sigue el discurso del Presidente.
+
+333
+00:26:53,078 --> 00:26:54,340
+Todos los equipos en alerta.
+
+334
+00:26:55,814 --> 00:26:59,773
+<i>Agente Gibson, recibimos
+su reporte. Todo despejado. Cambio.</i>
+
+335
+00:26:59,918 --> 00:27:01,545
+<i>Agente James, todo despejado.</i>
+
+336
+00:27:01,653 --> 00:27:03,678
+<i>Ahora, me da un enorme placer...</i>
+
+337
+00:27:03,788 --> 00:27:05,722
+<i>- El viento a 3, valor completo.
+- ... para presentarles,</i>
+
+338
+00:27:05,857 --> 00:27:07,791
+<i>el Presidente de los Estados Unidos.</i>
+
+339
+00:27:07,892 --> 00:27:09,985
+41/2 minutos de ángulo..
+
+340
+00:27:10,895 --> 00:27:12,954
+Tres milésimas de ajuste
+por si cesa el viento.
+
+341
+00:27:36,521 --> 00:27:38,216
+Ya cargó.
+
+342
+00:27:38,323 --> 00:27:42,259
+Altitud, humedad, temperatura,
+todo considerado.
+
+343
+00:27:43,561 --> 00:27:45,961
+<i>En la ciudad que fue la capital de...</i>
+
+344
+00:27:46,064 --> 00:27:47,531
+Debemos eliminarlo.
+
+345
+00:27:47,632 --> 00:27:49,099
+Diez segundos.
+
+346
+00:27:49,200 --> 00:27:51,862
+El viento está en el punto preciso.
+¡Elimínenlo! ¡Elimínenlo ahora!
+
+347
+00:27:51,970 --> 00:27:53,369
+Envíen el equipo ERT Eliminen...
+
+348
+00:27:55,974 --> 00:27:57,464
+¡Disparos! ¡Disparos!
+
+349
+00:28:12,824 --> 00:28:15,054
+<i>Linterna cayó, Linterna cayó.</i>
+
+350
+00:28:15,160 --> 00:28:17,253
+<i>- ¿Qué? ¿Linterna cayó?
+- Repito. Linterna cayó.</i>
+
+351
+00:28:17,362 --> 00:28:20,388
+<i>- Le dispararon al presidente.
+- Hay confusión masiva...</i>
+
+352
+00:28:20,665 --> 00:28:22,633
+¿Le dispararon al Presidente?
+
+353
+00:28:25,303 --> 00:28:26,497
+<i>Al campanario de la iglesia.</i>
+
+354
+00:28:30,175 --> 00:28:31,301
+<i>¿Cómo pudiste fallar?</i>
+
+355
+00:28:32,177 --> 00:28:33,872
+¿Cómo demonios fallaste?
+
+356
+00:28:33,978 --> 00:28:37,141
+30 segundos. Despejen el cuarto.
+Persíganlo.
+
+357
+00:28:37,248 --> 00:28:38,840
+Está sangrando. Mátenlo.
+
+358
+00:28:40,652 --> 00:28:42,882
+<i>Puesto de Mando
+a Cóndor 2, carguen.</i>
+
+359
+00:28:42,987 --> 00:28:44,454
+Cóndor 2 cargando.
+
+360
+00:28:47,559 --> 00:28:49,117
+Vamos, vamos, vamos,
+
+361
+00:28:55,500 --> 00:28:57,400
+Apresúrense chicos. Vamos.
+
+362
+00:29:09,314 --> 00:29:12,215
+<i>Cóndor 2, este es puesto de comando,
+prepárense para recibir información. Cambio.</i>
+
+363
+00:29:12,317 --> 00:29:13,682
+<i>Aguardando. Cambio.</i>
+
+364
+00:29:15,453 --> 00:29:16,750
+¡Puesto de control!
+
+365
+00:29:18,490 --> 00:29:20,185
+¡Puesto de mando!
+¡Puesto de mando! este es puesto 19.
+
+366
+00:29:20,291 --> 00:29:21,315
+¿Me reciben?
+
+367
+00:29:21,426 --> 00:29:22,484
+- ¿Mantengo posición?
+- Por favor.
+
+368
+00:29:22,594 --> 00:29:24,858
+Por favor ¡ayúdenme!
+¡Me dispararon!
+
+369
+00:29:24,963 --> 00:29:27,227
+- FBI. ¡Manos arriba!
+- Por favor. Hey.
+
+370
+00:29:29,467 --> 00:29:30,434
+Sálvame.
+
+371
+00:29:31,569 --> 00:29:32,536
+¿Qué?
+
+372
+00:29:40,745 --> 00:29:42,110
+Dame las llaves.
+
+373
+00:29:42,213 --> 00:29:44,875
+Yo no le disparé al presidente.
+Timmons me puso una trampa.
+
+374
+00:29:46,484 --> 00:29:47,610
+¡Ayuda!
+
+375
+00:29:49,154 --> 00:29:51,452
+¡FBI! Se llevó mi arma y mi auto.
+
+376
+00:29:56,394 --> 00:29:59,056
+No te preocupes, ya le disparé dos veces.
+¿Estás bien?
+
+377
+00:29:59,164 --> 00:30:02,998
+<i>CP, 17, ¿Puede repetir la descripción
+del posible sospechoso?</i>
+
+378
+00:30:03,101 --> 00:30:05,126
+<i>Negativo, no tengo más
+información de momento.</i>
+
+379
+00:30:05,236 --> 00:30:07,761
+<i>CP, aquí 15,
+aquí no hay actividad.</i>
+
+380
+00:30:07,872 --> 00:30:09,931
+<i>Estoy disponible para moverme
+si es necesario.</i>
+
+381
+00:30:10,041 --> 00:30:11,372
+<i>Entendido.</i>
+
+382
+00:30:15,246 --> 00:30:17,510
+<i>Este es el Oficial Timmons
+solicitando apoyo.</i>
+
+383
+00:30:17,615 --> 00:30:19,549
+Persiguiendo sospechoso
+de asesinato.
+
+384
+00:30:19,651 --> 00:30:23,781
+<i>Está huyendo en vehículo del FBI
+robado, al sur, en Front desde Diamond.</i>
+
+385
+00:30:23,922 --> 00:30:25,514
+El sospechoso está armando
+y es peligroso. Repito,
+
+386
+00:30:26,191 --> 00:30:27,749
+<i>el sospechoso está armando
+y es peligroso.</i>
+
+387
+00:30:27,859 --> 00:30:30,225
+<i>A toda la Policía de Filadelfia:</i>
+
+388
+00:30:30,328 --> 00:30:33,229
+<i>sospecho de asesinato
+huyendo en vehículo del FBI.</i>
+
+389
+00:30:33,331 --> 00:30:36,027
+<i>Va al sur, por Front desde Diamond.</i>
+
+390
+00:30:36,134 --> 00:30:39,103
+<i>Este es Cóndor 2. En movimiento
+desde Roadhouse hacia Front.</i>
+
+391
+00:30:39,204 --> 00:30:41,399
+<i>Dénos mayor descripción
+del vehículo del sospechoso.</i>
+
+392
+00:30:41,506 --> 00:30:44,805
+<i>Despachador, 419
+Voy al sur en Thompson.</i>
+
+393
+00:30:44,909 --> 00:30:46,968
+<i>¿Tenemos el calor
+o algo del vehículo?</i>
+
+394
+00:30:52,617 --> 00:30:55,245
+<i>Vehículo del sospechoso de asesinato.</i>
+
+395
+00:30:55,353 --> 00:30:59,187
+<i>Ford Crown Victoria negro
+del gobierno.</i>
+
+396
+00:30:59,290 --> 00:31:04,956
+<i>Placas de Pensilvania:
+7- 3-1-7 James David Edward, cambio.</i>
+
+397
+00:31:05,630 --> 00:31:08,190
+<i>¿Cuál es la última ubicación
+conocida del sospechoso? Cambio.</i>
+
+398
+00:31:08,299 --> 00:31:10,494
+<i>última conocida por el
+sur en Front.</i>
+
+399
+00:31:16,808 --> 00:31:20,335
+<i>Este es el Agente James. ¿Son muchos
+o sólo un sospechoso?</i>
+
+400
+00:31:21,279 --> 00:31:24,942
+<i>Agente James, negativo.
+No hay más información...</i>
+
+401
+00:31:25,049 --> 00:31:28,678
+<i>Este es el agente Pittman.
+El auto fue visto a alta velocidad en Castor.</i>
+
+402
+00:31:28,786 --> 00:31:30,845
+<i>A alta velocidad en Castor.
+Alerta.</i>
+
+403
+00:31:37,629 --> 00:31:38,823
+¿Timmons lo reportó?
+
+404
+00:31:38,930 --> 00:31:41,160
+Justo a tiempo, como debía.
+
+405
+00:31:41,266 --> 00:31:42,995
+- Antes de que le disparara otra vez.
+- Si, bueno, lo hirieron dos veces,
+
+406
+00:31:43,101 --> 00:31:45,831
+así que a menos que detenga el sangrado
+sin ir al hospital o a un doctor,
+
+407
+00:31:45,937 --> 00:31:47,063
+en realidad no importa.
+
+408
+00:31:47,171 --> 00:31:51,130
+Lo encontrarán muerto en
+un callejón en 20 minutos.
+
+409
+00:31:51,309 --> 00:31:52,276
+<i>¿Cuál es su posición?</i>
+
+410
+00:32:03,488 --> 00:32:06,719
+<i>Vehículo del sospechoso,
+un sedán negro, cuatro puertas...</i>
+
+411
+00:32:22,674 --> 00:32:23,698
+<i>Alerta a todas las unidades,</i>
+
+412
+00:32:23,808 --> 00:32:27,244
+<i>testigos reportan haber visto el vehículo
+del sospechoso entrando en un Car Wash,</i>
+
+413
+00:32:27,345 --> 00:32:30,178
+<i>en la esquina noreste de Girard
+y la calle 9. Cambio.</i>
+
+414
+00:32:30,281 --> 00:32:31,248
+<i>Puesto de mando, alerta,</i>
+
+415
+00:32:31,349 --> 00:32:33,783
+<i>este es Cóndor 2 en camino a
+la ubicación del sospechoso. Cambio.</i>
+
+416
+00:32:33,885 --> 00:32:36,376
+<i>Puesto de mando, Cóndor 3 recibido.
+Todos en camino.</i>
+
+417
+00:32:41,159 --> 00:32:42,854
+- ¡Hey amigo!
+- ¡Cuidado, hombre!
+
+418
+00:33:03,181 --> 00:33:04,239
+¡Mierda!
+
+419
+00:33:20,832 --> 00:33:23,892
+<i>Puesto de mando, Cóndores 2 y 3
+procediendo a interceptar. Cambio.</i>
+
+420
+00:33:56,701 --> 00:33:59,261
+<i>El vehículo del sospechoso chocó
+contra un camión bajo la 95.</i>
+
+421
+00:33:59,370 --> 00:34:01,167
+<i>Está en Market y Columbus.</i>
+
+422
+00:34:03,174 --> 00:34:06,507
+<i>Luce bien. El vehículo está incapacitado.
+Repito, el vehículo está incapacitado.</i>
+
+423
+00:34:16,954 --> 00:34:18,512
+¡Elimínenlo! ¡fuego!
+
+424
+00:34:43,614 --> 00:34:46,879
+Tengo un Crown Vic. negro.
+Placas del gobierno.
+
+425
+00:34:46,984 --> 00:34:49,077
+¿Un tipo muerto en el asiento delantero?
+
+426
+00:34:52,590 --> 00:34:56,686
+Quiero que peinen los bancos de este río
+a 30 millas, desde hace cinco minutos.
+
+427
+00:34:56,928 --> 00:34:58,862
+Bien, comencemos la búsqueda
+río abajo.
+
+428
+00:35:19,650 --> 00:35:23,211
+Estoy con el oficial Timmons,
+que persiguió al sospechoso a pie.
+
+429
+00:35:23,554 --> 00:35:25,886
+Oficial ¿Puede decirnos qué pasó?
+
+430
+00:37:06,591 --> 00:37:09,025
+<i>El presunto asesino, tentativamente
+identificado,</i>
+
+431
+00:37:09,126 --> 00:37:12,618
+<i>como el Marine Sargento de artillería,
+Bob Lee Swagger,</i>
+
+432
+00:37:12,730 --> 00:37:17,292
+<i>está siendo perseguido por miles de
+agentes estatales y federales,</i>
+
+433
+00:37:17,401 --> 00:37:18,595
+<i>mientras hablamos.</i>
+
+434
+00:37:18,703 --> 00:37:22,434
+<i>Mientras la red se sigue estrechando por
+todo el país, aún no hay rastro de Swagger.</i>
+
+435
+00:37:22,540 --> 00:37:24,838
+<i>Sólo un auto abandonado
+fue encontrado,</i>
+
+436
+00:37:24,942 --> 00:37:26,807
+<i>en el fondo del río Belawere.</i>
+
+437
+00:37:26,911 --> 00:37:30,540
+<i>Un policía veterano de setenta años,
+el oficial Stanley Timmons,</i>
+
+438
+00:37:30,648 --> 00:37:32,138
+<i>fue el primero en reportarse a la escena,</i>
+
+439
+00:37:32,250 --> 00:37:35,242
+<i>se cree que disparó e
+hirió a Swagger.</i>
+
+440
+00:37:35,353 --> 00:37:37,514
+<i>Los primeros reportes indican
+que el atacante,</i>
+
+441
+00:37:37,622 --> 00:37:40,614
+<i>pudo haber recibido dos disparos.</i>
+
+442
+00:37:40,725 --> 00:37:43,455
+<i>Mientras tanto el FBI no ha
+querido comentar,</i>
+
+443
+00:37:43,561 --> 00:37:45,859
+<i>sobre información de que un
+agente de ellos,</i>
+
+444
+00:37:45,963 --> 00:37:50,093
+<i>fue asaltado y desarmado por Swagger
+mientras huía de la escena,</i>
+
+445
+00:37:50,201 --> 00:37:52,669
+<i>posiblemente en un vehículo
+del FBI robado.</i>
+
+446
+00:37:52,770 --> 00:37:56,297
+<i>De momento, no se ha
+encontrado rastro de Swagger.</i>
+
+447
+00:37:56,407 --> 00:37:58,466
+Has avergonzado a esta oficina.
+
+448
+00:37:58,576 --> 00:38:02,979
+Enfrentarás una revisión por la
+Oficina de Responsabilidad Profesional.
+
+449
+00:38:03,080 --> 00:38:04,069
+Señor...
+
+450
+00:38:05,583 --> 00:38:07,380
+Bueno, no me siento avergonzado.
+
+451
+00:38:07,485 --> 00:38:09,419
+Un francotirador de la fuerza
+de asalto de la Marina,
+
+452
+00:38:09,520 --> 00:38:12,421
+me desarmó tres semanas
+después que egresé de la academia.
+
+453
+00:38:12,523 --> 00:38:15,686
+Si algo, me siento más bien
+afortunado de estar vivo.
+
+454
+00:38:23,234 --> 00:38:25,634
+¿Por qué dijo que no le disparó
+al Presidente?
+
+455
+00:38:25,736 --> 00:38:27,101
+Por que no lo hizo.
+
+456
+00:38:30,975 --> 00:38:33,842
+También dijo que Timmons fue una trampa.
+
+457
+00:38:33,944 --> 00:38:35,275
+Nunca dijo eso.
+
+458
+00:38:35,379 --> 00:38:37,506
+Un policía de la ciudad logró
+disparar a este tipo dos veces.
+
+459
+00:38:37,615 --> 00:38:39,105
+Y a ti te pateó el trasero.
+
+460
+00:38:39,216 --> 00:38:40,615
+No te acuerdas bien.
+
+461
+00:38:41,152 --> 00:38:43,450
+Eso es normal en condiciones de stress.
+
+462
+00:38:44,455 --> 00:38:46,355
+¿Ya hiciste tu
+declaración oficial?
+
+463
+00:38:46,457 --> 00:38:49,449
+Yo que tu, tendría mucho
+cuidado con lo que pusiste ahí.
+
+464
+00:38:49,560 --> 00:38:53,724
+Bueno, tal vez deba esperar a que salga el
+reporte, leerlo y luego recordar.
+
+465
+00:38:54,031 --> 00:38:55,999
+¿Puedes creer lo que dice este maldito?
+
+466
+00:38:58,436 --> 00:38:59,596
+Ahí tienes.
+
+467
+00:39:00,471 --> 00:39:02,630
+- ¿Si?
+- Está llegando la información de los medios
+
+468
+00:39:20,825 --> 00:39:24,420
+<i>... desarrollo, fotos de las cámaras de
+seguridad de Washington, D.C.</i>
+
+469
+00:39:24,528 --> 00:39:26,496
+<i>Y vario lugares de Filadelfia.</i>
+
+470
+00:39:26,597 --> 00:39:29,828
+<i>muestra al sospechoso
+Sargento de artillería Bob Lee Swagger,</i>
+
+471
+00:39:29,934 --> 00:39:33,893
+<i>buscando sitios de disparo, moviéndose
+y tomando lecturas de viento.</i>
+
+472
+00:39:34,105 --> 00:39:38,872
+<i>Mientras la red se estrecha por
+todo el país, aún no hay rastros de Swagger.</i>
+
+473
+00:40:08,506 --> 00:40:09,666
+Disculpe.
+
+474
+00:40:09,774 --> 00:40:12,868
+No puedo venderte nada.
+Nos quedamos sin energía.
+
+475
+00:40:12,977 --> 00:40:15,207
+Por favor, Tengo efectivo,
+puedes quedarte con el cambio.
+
+476
+00:40:15,312 --> 00:40:17,137
+No podré encontrar nada.
+
+477
+00:40:17,148 --> 00:40:19,616
+Por favor, sólo necesito una aguja para
+marinar, algo de sal y algo de azúcar,
+
+478
+00:40:19,717 --> 00:40:21,184
+un par de botellas de agua.
+
+479
+00:40:22,119 --> 00:40:23,521
+¿Cuántas?
+
+480
+00:41:09,166 --> 00:41:12,192
+Bueno, señor, lo siento.
+Siento escuchar esto.
+
+481
+00:41:12,303 --> 00:41:14,794
+Estoy seguro de que es una
+cristiana muy encantadora,
+
+482
+00:41:14,905 --> 00:41:17,738
+pero no nos ocupamos de
+esas cosas aquí.
+
+483
+00:41:17,842 --> 00:41:19,901
+<i>- Si, Ok. bueno...
+- El FBI liberó un video...</i>
+
+484
+00:41:20,010 --> 00:41:22,035
+<i>...vea a un consejero.
+- ... amenazando la vida del Presidente...</i>
+
+485
+00:41:22,146 --> 00:41:23,170
+Dr. Phill o algo. Ok.
+
+486
+00:41:23,280 --> 00:41:25,544
+<i>... firmado y fechado por Bob
+Lee Swagger hace apenas 10 años.</i>
+
+487
+00:41:25,649 --> 00:41:28,243
+<i>Agentes federales llevaron
+a cabo una orden de registro,</i>
+
+488
+00:41:28,352 --> 00:41:30,547
+<i>en la región de Wyoming.</i>
+
+489
+00:41:30,654 --> 00:41:33,555
+<i>donde Swagger ha estado viviendo
+por varios años.</i>
+
+490
+00:41:33,657 --> 00:41:37,058
+<i>Mientras tanto, el FBI no ha
+hecho comentarios,</i>
+
+491
+00:41:37,161 --> 00:41:39,493
+<i>pues no se ha encontrado
+rastro de Swagger.</i>
+
+492
+00:41:40,531 --> 00:41:42,795
+- ¿Tienes algo?
+- No.
+
+493
+00:42:44,528 --> 00:42:46,257
+Si, espere, espere. ¿Dónde fue esto?
+
+494
+00:42:58,776 --> 00:42:59,800
+¿Y? ¿Si?
+
+495
+00:42:59,910 --> 00:43:03,073
+Cree que era él, pero estaba oscuro
+porque no tenía energía en la tienda.
+
+496
+00:43:03,180 --> 00:43:04,511
+- ¿Qué compró?
+- Tiene que ser.
+
+497
+00:43:04,615 --> 00:43:07,607
+Sal, azúcar, agua y
+una jeringa para marinar.
+
+498
+00:43:07,718 --> 00:43:09,083
+El tipo iba a una barbacoa.
+
+499
+00:43:09,186 --> 00:43:11,780
+Sal, agua y un inyector puede
+usarse para una intravenosa,
+
+500
+00:43:11,922 --> 00:43:12,946
+¿pero para qué el azúcar?
+
+501
+00:43:13,057 --> 00:43:14,319
+Whoa, whoa, whoa!
+¡Espera! ¡Espera!
+
+502
+00:43:14,425 --> 00:43:16,017
+Bueno, el azúcar ha sido usado
+para tratar heridas en campo de batalla,
+
+503
+00:43:16,126 --> 00:43:17,093
+por cientos de años.
+
+504
+00:43:17,194 --> 00:43:19,424
+Tiene algo que ver con
+la presión osmótica.
+
+505
+00:43:19,530 --> 00:43:21,964
+Fue muy popular durante
+la guerra de Napoleón.
+
+506
+00:43:22,066 --> 00:43:24,534
+Si entras en la oficina de Howard con
+la Guerra de Napoleón,
+
+507
+00:43:24,635 --> 00:43:25,829
+te va a mandar con un loquero.
+
+508
+00:43:25,936 --> 00:43:28,166
+Vuelve a tu escritorio.
+Te estoy salvando la vida.
+
+509
+00:43:50,127 --> 00:43:51,094
+<i>Una cosa es...</i>
+
+510
+00:43:57,434 --> 00:43:59,061
+<i>... 1790 a 1800.</i>
+
+511
+00:44:00,404 --> 00:44:01,371
+<i>Una cosa es...</i>
+
+512
+00:45:17,781 --> 00:45:18,975
+Siento molestarla, señora.
+
+513
+00:45:19,083 --> 00:45:20,516
+Sé quien es Ud.
+
+514
+00:45:20,617 --> 00:45:23,484
+Eres Bob Lee. Swagger.
+El antiguo compañero de Donnie.
+
+515
+00:45:23,587 --> 00:45:26,215
+Mira, yo no le disparé al Presidente.
+
+516
+00:45:26,323 --> 00:45:27,415
+Lo sé.
+
+517
+00:45:27,524 --> 00:45:28,513
+¿Lo sabes?
+
+518
+00:45:28,625 --> 00:45:32,152
+El Presidente no está muerto.
+El arzobispo Etíope, si lo está.
+
+519
+00:45:34,198 --> 00:45:36,758
+¿Por que diablos alguien
+querría matarlo?
+
+520
+00:45:37,501 --> 00:45:38,627
+¿Ud. es enfermera, no?
+
+521
+00:45:38,736 --> 00:45:43,332
+No, ese era el sueño de Donnie.
+Yo no aguanto la sangre.
+
+522
+00:45:43,440 --> 00:45:44,634
+Enseño tercer año.
+
+523
+00:45:45,342 --> 00:45:46,934
+- Por favor.
+- Mira, debes irte.
+
+524
+00:45:47,044 --> 00:45:48,136
+Por favor.
+
+525
+00:45:48,345 --> 00:45:49,403
+¿Por favor?
+
+526
+00:45:49,747 --> 00:45:51,738
+No hice nada de lo que dicen.
+
+527
+00:45:52,349 --> 00:45:53,316
+Lo juro.
+
+528
+00:45:53,817 --> 00:45:56,047
+Estoy en un gran lío
+y necesito ayuda.
+
+529
+00:45:56,153 --> 00:45:58,678
+No vendría hasta acá sólo
+para mentirte.
+
+530
+00:46:02,159 --> 00:46:04,855
+¿Aún está pensando en dispararme?
+
+531
+00:46:04,962 --> 00:46:07,760
+Sólo que esa escopeta es muy
+larga para levantarla rápido.
+
+532
+00:46:07,865 --> 00:46:10,993
+Mira, si lo vas a hacer,
+sólo hazlo.
+
+533
+00:46:11,101 --> 00:46:13,069
+No tengo ningún
+otro lugar a donde ir.
+
+534
+00:46:16,306 --> 00:46:20,037
+Mete el auto en el garaje.
+Los vecinos llegarán en un minuto.
+
+535
+00:46:20,144 --> 00:46:21,668
+Más vale que me llames Sarah.
+
+536
+00:46:21,779 --> 00:46:22,973
+Bien.
+
+537
+00:46:38,295 --> 00:46:40,456
+<i>911, ¿Cuál es su emergencia?</i>
+
+538
+00:47:09,159 --> 00:47:10,183
+¿Hola?
+
+539
+00:47:10,294 --> 00:47:12,125
+<i>Este es 911. Nos colgaron
+desde este número.</i>
+
+540
+00:47:12,229 --> 00:47:14,754
+Si, el perro del vecino derribó
+los botes de basura,
+
+541
+00:47:14,865 --> 00:47:17,356
+y me dio un susto del demonio.
+Todo está bien. Gracias.
+
+542
+00:47:17,467 --> 00:47:18,434
+<i>Muy bien.</i>
+
+543
+00:47:24,541 --> 00:47:27,704
+Parece que si llamas a la policía
+y luego cuelgas sin decir nada,
+
+544
+00:47:27,811 --> 00:47:29,870
+te llaman inmediatamente.
+
+545
+00:47:36,119 --> 00:47:38,485
+Debí venir a conocerte
+en persona.
+
+546
+00:47:41,558 --> 00:47:43,890
+Antes, quiero decir.
+
+547
+00:47:43,994 --> 00:47:45,359
+Si, leí la carta.
+
+548
+00:47:47,431 --> 00:47:48,728
+Está bien.
+
+549
+00:47:50,801 --> 00:47:52,996
+Y una vez al año recibo
+las flores.
+
+550
+00:47:55,539 --> 00:47:57,029
+No luces muy bien.
+
+551
+00:47:58,475 --> 00:48:02,343
+Debería estar muerto.
+Ha sido una noche larga.
+
+552
+00:48:02,446 --> 00:48:04,414
+¿Por qué no lo estás?
+
+553
+00:48:04,514 --> 00:48:06,880
+Bueno, el Gobierno de USA gastó
+mucho dinero y tiempo,
+
+554
+00:48:06,984 --> 00:48:08,781
+enseñándome como no morir,
+
+555
+00:48:08,886 --> 00:48:11,377
+después de que terminaron
+de enseñarme como matar gente.
+
+556
+00:48:12,756 --> 00:48:15,088
+¿Y como se supone
+que voy a ayudarte?
+
+557
+00:48:16,360 --> 00:48:20,558
+¿Sabes bordar con punto
+de cruz y terminar con un nudo?
+
+558
+00:48:20,664 --> 00:48:21,631
+Si.
+
+559
+00:48:31,575 --> 00:48:33,566
+Debes intentar comprarlos
+en varios lugares,
+
+560
+00:48:33,677 --> 00:48:36,043
+Se verá raro si compras todo
+en un sólo lugar.
+
+561
+00:48:44,153 --> 00:48:46,986
+¿Cómo es que fueron 3 años
+cuando parecen diez?
+
+562
+00:48:50,893 --> 00:48:52,520
+El millaje puede ser difícil.
+
+563
+00:49:03,906 --> 00:49:05,669
+Nunca nadie me gana.
+
+564
+00:49:13,048 --> 00:49:14,310
+Nunca te fuiste.
+
+565
+00:49:15,217 --> 00:49:17,344
+Todos siguen diciéndome que estoy loco.
+
+566
+00:49:17,453 --> 00:49:20,581
+Como si no hubiera visto lo que vi,
+o oído lo que oí.
+
+567
+00:49:21,657 --> 00:49:24,125
+Pues no estoy loco.
+¿Crees que estoy loco?
+
+568
+00:49:25,494 --> 00:49:27,621
+¿De dónde salió todo esto?
+
+569
+00:49:28,364 --> 00:49:31,424
+Primero pensé que de Washington
+de Quántico.
+
+570
+00:49:31,534 --> 00:49:35,436
+Lo verifiqué y no es así.
+Llegó... por arte de magia.
+
+571
+00:49:35,538 --> 00:49:39,941
+Agencias que cooperan, ATF, NRO,
+otras que ni siquiera tienen iniciales,
+
+572
+00:49:40,042 --> 00:49:42,840
+cooperan en momentos de
+emergencia nacional.
+
+573
+00:49:43,445 --> 00:49:44,571
+Necesitas dormir un poco.
+
+574
+00:49:44,680 --> 00:49:47,444
+Sabes que el primer diagrama
+de balística llegó aquí,
+
+575
+00:49:47,550 --> 00:49:49,381
+22 minutos después del disparo.
+
+576
+00:49:49,485 --> 00:49:50,800
+Somos buenos en el trabajo.
+
+577
+00:49:50,835 --> 00:49:53,087
+12 minutos después del disparo,
+aún estaban enviando helicópteros.
+
+578
+00:49:53,189 --> 00:49:54,315
+La escena estaba asegurada.
+
+579
+00:49:55,658 --> 00:49:58,923
+¿Cómo obtuvieron una azimutal reversa,
+10 minutos después de eso?
+
+580
+00:49:59,028 --> 00:50:00,434
+Trabajamos para el gobierno federal,
+
+581
+00:50:00,469 --> 00:50:01,804
+No somos así de buenos
+en el trabajo.
+
+582
+00:50:02,431 --> 00:50:04,023
+<i>- ¿Quieres ver algo?
+- Probablemente no.</i>
+
+583
+00:50:04,133 --> 00:50:05,672
+<i>Descargué esto.</i>
+
+584
+00:50:05,707 --> 00:50:07,067
+<i>Esto es una impresión a escala completa,</i>
+
+585
+00:50:07,102 --> 00:50:10,157
+de un blanco que Swagger disparó
+hace dos años a 1,000 yardas.
+
+586
+00:50:10,192 --> 00:50:13,204
+Yo mismo hice los agujeros.
+Fue una competencia.
+
+587
+00:50:13,309 --> 00:50:18,042
+Leí un artículo. Decía que Swagger le dio
+a un dólar de plata a 1000 yardas.
+
+588
+00:50:18,147 --> 00:50:19,341
+Cinco disparos,
+
+589
+00:50:19,682 --> 00:50:20,910
+a 1000 yardas.
+
+590
+00:50:21,150 --> 00:50:23,414
+separadas una pulgada y media.
+¡Una pulgada y media!
+
+591
+00:50:25,788 --> 00:50:27,278
+<i>fue la capital de los Estados Unidos...</i>
+
+592
+00:50:27,389 --> 00:50:30,916
+Esa es la bandera detrás del Presidente.
+Apenas se movía.
+
+593
+00:50:31,026 --> 00:50:32,828
+<i>Esto es la velocidad y dirección
+del viento,</i>
+
+594
+00:50:32,863 --> 00:50:36,348
+<i>según el Servicio Nacional del clima al
+momento del disparo. Hice cuentas.</i>
+
+595
+00:50:36,383 --> 00:50:38,960
+Ahora, ¿Cómo un hombre que puede
+hacer eso...
+
+596
+00:50:39,802 --> 00:50:43,033
+falla por dos pies y medio,
+a 2,000 yardas?
+
+597
+00:50:43,706 --> 00:50:44,832
+<i>No lo entiendo.</i>
+
+598
+00:50:44,940 --> 00:50:47,773
+Tuviste una noche larga.
+Deja eso y ve a dormir.
+
+599
+00:50:47,876 --> 00:50:50,003
+Sabes, vi la entrevista de Timmons.
+
+600
+00:50:50,112 --> 00:50:52,342
+Dijo que iba patrullando a pie,
+
+601
+00:50:52,448 --> 00:50:55,042
+vio un rifle salir
+de una ventana,
+
+602
+00:50:55,150 --> 00:50:57,983
+fue arriba a investigar,
+y le disparó a Swagger.
+
+603
+00:50:58,087 --> 00:50:59,987
+Ningún francotirador saca
+su rifle por la ventana.
+
+604
+00:51:00,089 --> 00:51:02,853
+Disparan cubiertos,
+desde atrás de la ventana.
+
+605
+00:51:03,225 --> 00:51:05,159
+No tiene sentido.
+
+606
+00:51:07,396 --> 00:51:09,057
+- Voy a hablar con Timmons.
+- No, no lo harás.
+
+607
+00:51:09,164 --> 00:51:11,257
+¿Por qué? ¿Me vas a despedir si lo hago?
+
+608
+00:51:12,167 --> 00:51:14,863
+Timmons fue asesinado por
+un asaltante en un callejón anoche.
+
+609
+00:51:18,974 --> 00:51:21,033
+En una conspiración todos los
+cabos sueltos son cortados.
+
+610
+00:51:21,677 --> 00:51:23,542
+¿Jack Ruby le dispara a Oswald?
+
+611
+00:51:23,646 --> 00:51:25,637
+Cosas malas les suceden
+a gente buena.
+
+612
+00:51:25,748 --> 00:51:27,192
+Si, pero no tan pronto.
+
+613
+00:51:32,821 --> 00:51:35,221
+Bueno, detuve el sangrado
+temporalmente.
+
+614
+00:51:36,158 --> 00:51:38,388
+Pero se va a venir otra vez.
+
+615
+00:51:38,494 --> 00:51:41,793
+Evité el avance de la infección
+pero vas a tener que abrirlo...
+
+616
+00:51:41,897 --> 00:51:44,695
+...cortar y raspar todo el
+tejido muerto,
+
+617
+00:51:44,800 --> 00:51:47,667
+trabajando hacia afuera,
+y cosiéndolo,
+
+618
+00:51:47,770 --> 00:51:50,568
+y debes intentar no infectarlo
+de nuevo.
+
+619
+00:51:53,008 --> 00:51:54,441
+¿Estás lista para esto?
+
+620
+00:51:56,779 --> 00:51:59,475
+Voy a inhalar todos esos Whip-it
+hasta desmayarme,
+
+621
+00:52:02,651 --> 00:52:03,982
+Buena suerte ¿Ok?
+
+622
+00:53:17,960 --> 00:53:21,361
+<i>Necesito que organices un
+asesinato presidencial.</i>
+
+623
+00:53:21,463 --> 00:53:22,896
+<i>¿El tipo del collar es nuestro?</i>
+
+624
+00:53:22,998 --> 00:53:24,226
+<i>¿Qué Presidente?</i>
+
+625
+00:53:24,333 --> 00:53:25,732
+<i>No dije "ejecutar"</i>
+
+626
+00:53:25,834 --> 00:53:28,735
+<i>Le darán una medalla
+¿Lo conoces?</i>
+
+627
+00:53:28,837 --> 00:53:31,067
+<i>El arzobispo de Etiopia.</i>
+
+628
+00:53:35,477 --> 00:53:36,967
+<i>Necesitas encontrar al tirador.</i>
+
+629
+00:53:40,315 --> 00:53:41,282
+No.
+
+630
+00:55:34,630 --> 00:55:37,258
+Dos días y medio, lo hirieron
+dos veces y no hay rastro.
+
+631
+00:55:37,366 --> 00:55:38,765
+Encuentren algo.
+
+632
+00:55:38,867 --> 00:55:41,028
+Quizá se metió en
+un hoyo y se murió.
+
+633
+00:55:42,237 --> 00:55:43,898
+No está muerto.
+
+634
+00:55:45,741 --> 00:55:47,140
+Investiguen su vida.
+
+635
+00:55:47,242 --> 00:55:48,573
+Otra vez.
+
+636
+00:55:53,782 --> 00:55:54,840
+¿Salió bien?
+
+637
+00:56:00,188 --> 00:56:01,553
+Estaba alucinado.
+
+638
+00:56:04,560 --> 00:56:06,494
+Necesito decirte algo.
+
+639
+00:56:09,731 --> 00:56:11,562
+Ralphie está muerto.
+
+640
+00:56:11,667 --> 00:56:12,895
+¿Quien es Ralphie?
+
+641
+00:56:14,002 --> 00:56:15,469
+Dicen que mataste a tu perro,
+
+642
+00:56:15,571 --> 00:56:17,471
+porque sabias que no
+ibas a volver.
+
+643
+00:56:17,573 --> 00:56:19,040
+¿Eso dijeron? ¿huh?
+
+644
+00:56:23,445 --> 00:56:24,878
+Se llamaba Sam.
+
+645
+00:56:25,981 --> 00:56:28,449
+Un buen perro.
+Lo crié desde cachorro.
+
+646
+00:56:32,521 --> 00:56:33,715
+¿Estás bien?
+
+647
+00:56:35,691 --> 00:56:36,658
+No.
+
+648
+00:56:37,826 --> 00:56:39,521
+¿Que vas a hacer?
+
+649
+00:56:40,996 --> 00:56:42,657
+Me voy a recuperar.
+
+650
+00:56:44,533 --> 00:56:47,024
+Y luego voy a quemar
+su casita de juegos.
+
+651
+00:56:53,125 --> 00:56:55,025
+¿Qué sistema de armas
+utiliza un trípode...
+
+652
+00:56:55,026 --> 00:56:57,926
+...con patas de
+107 x 107 x 72 cm?
+
+653
+00:57:06,427 --> 00:57:10,027
+M-3. Sirve para muchas armas,
+hasta para ametralladoras cal 50.
+
+654
+00:57:10,328 --> 00:57:14,028
+¿Para qué le pondrían un cable
+de 100 metros...
+
+655
+00:57:14,029 --> 00:57:17,029
+...de 65 mm a ese sistema?
+
+
+656
+00:57:22,904 --> 00:57:23,996
+¿Puedo ayudarte?
+
+657
+00:57:28,797 --> 00:57:33,097
+Vea aquí:
+www. remotosprecision. com
+
+658
+00:57:42,998 --> 00:57:45,998
+Sistema Táctico a Control Remoto
+
+659
+00:57:53,001 --> 00:57:54,127
+No te muevas.
+
+660
+00:58:05,747 --> 00:58:07,612
+Te quería preguntar.
+
+661
+00:58:08,350 --> 00:58:10,011
+¿Tienes novio?
+
+662
+00:58:12,054 --> 00:58:13,078
+¿Por qué?
+
+663
+00:58:14,289 --> 00:58:16,883
+¿Se supone que aún debo ser
+la viuda dolida?
+
+664
+00:58:16,992 --> 00:58:18,653
+3 años han pasado.
+
+665
+00:58:18,760 --> 00:58:19,727
+No.
+
+666
+00:58:20,295 --> 00:58:23,403
+Me preguntaba si tenía que dispararle
+a quien entre por la puerta sin tocar,
+
+667
+00:58:23,438 --> 00:58:25,032
+preguntando dónde has estado.
+
+668
+00:58:27,302 --> 00:58:28,894
+Bueno, no.
+
+669
+00:58:29,004 --> 00:58:31,234
+Nada formal. No tengo novio.
+
+670
+00:58:55,731 --> 00:58:57,028
+No está mal.
+
+671
+00:58:58,300 --> 00:58:59,961
+Un poco rígido, pero...
+
+672
+00:59:01,770 --> 00:59:02,737
+Hey.
+
+673
+00:59:03,972 --> 00:59:06,668
+Sabes, que hubieras sido una
+gran enfermera.
+
+674
+00:59:07,909 --> 00:59:09,774
+Fue muy valiente lo que hiciste.
+
+675
+00:59:10,145 --> 00:59:11,305
+Me salvaste la vida.
+
+676
+00:59:15,541 --> 00:59:18,203
+Estoy mejor. Más vale que comience.
+
+677
+00:59:18,311 --> 00:59:20,643
+Nunca dejarán de perseguirte.
+
+678
+00:59:21,747 --> 00:59:22,839
+Nunca.
+
+679
+00:59:24,116 --> 00:59:26,277
+Nunca dejarán de buscar.
+
+680
+00:59:28,154 --> 00:59:31,419
+Mientras tanto, necesitan
+encontrar a alguien más.
+
+681
+00:59:31,524 --> 00:59:33,014
+Les voy a dar a él
+
+682
+00:59:33,125 --> 00:59:34,592
+¿Disculpa?
+
+683
+00:59:35,761 --> 00:59:38,855
+Quizás haya manera de matar
+dos pájaros de un tiro, también.
+
+684
+00:59:47,373 --> 00:59:49,238
+- ¿Swagger?
+- Hey.
+
+685
+00:59:59,051 --> 01:00:01,781
+El rifle con el que Donnie aprendió
+a cazar cuando era niño.
+
+686
+01:00:03,522 --> 01:00:06,958
+No es gran cosa
+pero dispara.
+
+687
+01:00:07,059 --> 01:00:09,493
+Lo limpié y aceité
+antes de guardarlo.
+
+688
+01:00:09,595 --> 01:00:10,653
+¿Estás segura?
+
+689
+01:00:11,897 --> 01:00:12,864
+Si.
+
+690
+01:00:17,203 --> 01:00:18,568
+¿Por qué fuiste?
+
+691
+01:00:19,338 --> 01:00:21,101
+Cuando vinieron a buscarte.
+
+692
+01:00:23,509 --> 01:00:25,670
+Saben que botones apretar.
+
+693
+01:00:26,512 --> 01:00:28,571
+Aún tengo mucho de tonto,
+me presionan el botón de patriota,
+
+694
+01:00:28,681 --> 01:00:32,276
+me siento en mi silla y digo:
+"¿A donde quiere que vaya, jefe?"
+
+695
+01:00:32,385 --> 01:00:36,014
+No estoy muy orgulloso de eso
+pero tampoco avergonzado.
+
+696
+01:00:37,390 --> 01:00:38,755
+Sabes, tengo un plan,
+
+697
+01:00:40,192 --> 01:00:42,456
+Pero creo que voy a necesitar tu ayuda.
+
+698
+01:00:42,628 --> 01:00:44,562
+Está bien, lo haré.
+
+699
+01:00:45,264 --> 01:00:47,596
+Ni siquiera te he dicho lo que quiero.
+
+700
+01:00:48,167 --> 01:00:49,293
+Lo sé.
+
+701
+01:00:57,176 --> 01:00:58,268
+Mira.
+
+702
+01:00:59,345 --> 01:01:00,579
+Fue mi culpa.
+
+703
+01:01:03,382 --> 01:01:04,349
+¿Qué?
+
+704
+01:01:07,920 --> 01:01:10,081
+Con Donnie jamás debí...
+
+705
+01:01:17,163 --> 01:01:18,152
+¿Qué?
+
+706
+01:01:23,335 --> 01:01:24,962
+No te atrevas
+
+707
+01:01:27,006 --> 01:01:30,066
+No intentes quitarle eso.
+
+708
+01:01:31,110 --> 01:01:34,841
+Sabia exactamente lo que
+hacia cuando se enlistó.
+
+709
+01:01:34,947 --> 01:01:36,039
+Sabia exactamente lo que hacia,
+
+710
+01:01:36,148 --> 01:01:38,912
+cuando se enlistó en el
+entrenamiento de francotirador.
+
+711
+01:01:40,653 --> 01:01:42,587
+Amaba lo que hacía.
+
+712
+01:01:42,688 --> 01:01:44,656
+Nadie lo obligó.
+
+713
+01:01:47,093 --> 01:01:49,220
+No es una culpa que debas llevar.
+
+714
+01:01:52,565 --> 01:01:53,759
+Tienes razón.
+
+715
+01:01:55,367 --> 01:01:56,800
+Perdóname por intentarlo.
+
+716
+01:02:22,695 --> 01:02:23,957
+Está bien.
+
+717
+01:02:29,969 --> 01:02:32,233
+<i>Necesito que te reúnas con
+ese agente del FBI.</i>
+
+718
+01:02:32,338 --> 01:02:35,102
+<i>Úsalo para sacar a Johnson
+de su escondite.</i>
+
+719
+01:02:35,207 --> 01:02:39,200
+<i>Dale el número de identificación
+del vehiculo y precederá como fue entrenado.</i>
+
+720
+01:02:39,311 --> 01:02:41,779
+<i>Entras y sales. Que no te atrapen.</i>
+
+721
+01:02:42,081 --> 01:02:43,673
+<i>Si te atrapan, me atrapan también.</i>
+
+722
+01:02:43,782 --> 01:02:45,340
+¿Sabes lo que es?
+
+723
+01:02:47,119 --> 01:02:49,849
+Dice que no le disparó
+a nadie, pero yo no sé.
+
+724
+01:02:49,955 --> 01:02:51,252
+Bueno, se está quedando conmigo.
+
+725
+01:02:51,357 --> 01:02:53,416
+¿Quién se está quedando contigo?
+¿Bob Lee Swagger?
+
+726
+01:03:02,134 --> 01:03:06,127
+Las placas probablemente son falsas
+Estoy segura de que el otro número es real.
+
+727
+01:03:06,238 --> 01:03:07,830
+- ¿Qué es esto?
+- El número de identificación del vehículo.
+
+728
+01:03:07,940 --> 01:03:11,171
+Parece que ya nadie se toma
+la molestia de cambiarlo.
+
+729
+01:03:12,411 --> 01:03:15,312
+Te vas a quedar bien quieto
+hasta que me vaya.
+
+730
+01:03:46,946 --> 01:03:48,688
+¿Ves al tipo de la chaqueta
+de los Eagles?
+
+731
+01:04:13,839 --> 01:04:16,397
+Disculpe, señor. ¿Puedo ver su
+identificación, por favor?
+
+732
+01:04:22,982 --> 01:04:26,826
+Señor necesito que se quite la gorra
+y me muestre su identificación.
+
+733
+01:04:30,689 --> 01:04:32,611
+No se lo pediré otra vez.
+
+734
+01:04:33,692 --> 01:04:35,455
+¡Quítate la gorra, imbécil!
+
+735
+01:04:44,570 --> 01:04:47,403
+¡Tírate al piso! ¡Tira tu trasero al piso!
+
+736
+01:05:20,739 --> 01:05:21,967
+Hey ¿cómo te va?
+
+737
+01:05:23,776 --> 01:05:24,970
+Hey, John.
+
+738
+01:05:26,760 --> 01:05:28,932
+SOLO PERSONAL AUTORIZADO.
+
+739
+01:05:44,033 --> 01:05:47,033
+Transito reporta que no
+hay placas con ese número.
+
+740
+01:05:48,500 --> 01:05:49,694
+- Hey, Ed.
+- Si.
+
+741
+01:05:49,802 --> 01:05:51,736
+¿Tienes el expediente
+de Stevens que te pedí?
+
+742
+01:05:51,737 --> 01:05:54,137
+REQUIERE NIVEL DE
+AUTORIZACION NIVEL 1
+
+743
+01:05:54,206 --> 01:05:57,724
+¿Con cuántas ganas quieres saber?
+Por que esto hará que te despidan.
+
+744
+01:05:57,759 --> 01:06:03,410
+Bueno, tengo que comparecer ante la Oficina
+Profesional de Responsabilidad.
+
+745
+01:06:03,515 --> 01:06:05,506
+en 45 minutos para
+someterme a revisión.
+
+746
+01:06:05,617 --> 01:06:08,643
+Me van a despedir de todos modos.
+Ya no me preocupo por eso.
+
+747
+01:06:09,855 --> 01:06:11,823
+¿Qué opinas?
+
+748
+01:06:12,524 --> 01:06:14,958
+Creo que la CNN recibió las cintas
+antes que nosotros,
+
+749
+01:06:15,060 --> 01:06:17,392
+ya editadas para
+mostrar los ángulos.
+
+750
+01:06:17,496 --> 01:06:18,588
+¿Quién las entregó?
+
+751
+01:06:18,697 --> 01:06:22,098
+Una agencia anónima que nunca
+lo confirmará o lo negará.
+
+752
+01:06:22,201 --> 01:06:24,169
+Lo negaron, lo cual es una con...
+
+753
+01:06:26,772 --> 01:06:29,935
+Lo que es una confirmación
+de cierto tipo.
+
+754
+01:06:30,042 --> 01:06:31,873
+¿De qué?
+
+755
+01:06:31,977 --> 01:06:35,504
+Estás preguntando cosas
+fuera de tu nivel de pago.
+
+756
+01:06:35,614 --> 01:06:36,914
+Oh, Vamos. Sólo dime.
+
+757
+01:06:36,949 --> 01:06:38,339
+No quieres estar aquí
+para esa revisión.
+
+758
+01:06:38,450 --> 01:06:42,011
+No necesitan detenerse a acusarte.
+Pueden hacerte cargos y apresarte.
+
+759
+01:06:50,863 --> 01:06:54,594
+El trabajo de la ASAC
+viene con autorización Delta.
+
+760
+01:06:57,636 --> 01:06:58,933
+- Gracias.
+- Vete.
+
+761
+01:07:06,111 --> 01:07:08,407
+Esto es una copia de un
+trascrito de una sala de chateo.
+
+762
+01:07:08,442 --> 01:07:11,307
+Estos tipos hablan de todo. No le presté
+mucha atención al principio.
+
+763
+01:07:11,417 --> 01:07:14,332
+La acabamos de rastrear hasta un local
+de donas con Internet inalámbrico gratis.
+
+764
+01:07:14,367 --> 01:07:16,750
+Pero esto, es una petición de nivel Delta,
+
+765
+01:07:16,855 --> 01:07:19,653
+que salió de la oficina de campo del FBI
+en Filadelfia, hace siete minutos.
+
+766
+01:07:19,758 --> 01:07:22,352
+Algo curioso, los mapas de Google indican
+que el local de donas,
+
+767
+01:07:22,461 --> 01:07:24,986
+está a sólo tres calles
+de la Oficina de campo.
+
+768
+01:07:25,097 --> 01:07:28,157
+Sólo una persona se encontró con
+Swagger antes que desapareciera.
+
+769
+01:07:28,267 --> 01:07:29,461
+Vive en Filadelfia.
+
+770
+01:07:29,701 --> 01:07:31,134
+Y trabaja para el FBI.
+
+771
+01:07:32,438 --> 01:07:33,769
+Nicholas Memphis.
+
+772
+01:07:34,206 --> 01:07:37,664
+...compañía realmente extraña.
+Contratos con varios de los Fortune 500.
+
+773
+01:07:37,776 --> 01:07:40,609
+Oficinas en Virginia, Delaware,
+registrada en Panamá.
+
+774
+01:07:40,712 --> 01:07:42,509
+Tienen un barco
+que tiene bandera libanesa.
+
+775
+01:07:42,614 --> 01:07:43,603
+<i>Definitivamente no son del gobierno,</i>
+
+776
+01:07:43,715 --> 01:07:46,445
+<i>pero tienen contactos con altos ex-militares
+que ni te imaginarías.</i>
+
+777
+01:07:46,552 --> 01:07:47,746
+<i>Estos son contratistas.</i>
+
+778
+01:07:47,853 --> 01:07:50,344
+<i>No puedo decirte lo que hace
+esta compañía hace, pero...</i>
+
+779
+01:07:52,224 --> 01:07:53,213
+Hey.
+
+780
+01:07:53,325 --> 01:07:54,292
+Hey, hey, hey!
+
+781
+01:07:59,298 --> 01:08:00,458
+<i>¿Memphis?</i>
+
+782
+01:08:00,566 --> 01:08:01,533
+<i>¡Memphis!</i>
+
+783
+01:08:08,774 --> 01:08:10,639
+Para un hombre que
+no sabía mucho,
+
+784
+01:08:10,742 --> 01:08:14,041
+tardaste mucho doloroso
+tiempo para decirlo.
+
+785
+01:08:14,146 --> 01:08:15,738
+Denle agua.
+
+786
+01:08:24,890 --> 01:08:25,948
+Bien.
+
+787
+01:08:36,502 --> 01:08:37,730
+¿Ya quieres ir a orinar?
+
+788
+01:08:37,836 --> 01:08:39,701
+Tenemos que sacarte las drogas
+de tu sistema.
+
+789
+01:08:39,805 --> 01:08:42,103
+Se vería terriblemente
+sospechoso si te suicidaras,
+
+790
+01:08:42,207 --> 01:08:44,471
+relleno de las drogas
+que la agencia usa.
+
+791
+01:08:44,576 --> 01:08:46,510
+No voy a suicidarme.
+
+792
+01:08:47,346 --> 01:08:48,438
+Claro que lo harás.
+
+793
+01:08:49,481 --> 01:08:50,914
+Sáquenlo y prepárenlo.
+
+794
+01:08:51,016 --> 01:08:51,983
+¡No!
+
+795
+01:08:57,723 --> 01:08:58,849
+¡Esa es mi arma!
+
+796
+01:08:58,957 --> 01:08:59,981
+Si.
+
+797
+01:09:00,526 --> 01:09:02,960
+Sí, y escribiste una nota
+suicida muy conmovedora.
+
+798
+01:09:03,061 --> 01:09:05,393
+Toda llena de culpa
+sobre tus errores.
+
+799
+01:09:12,471 --> 01:09:13,995
+Deja de resistirte.
+
+800
+01:09:17,609 --> 01:09:21,409
+Esta cosa funciona. No es
+la primera vez que la usamos.
+
+801
+01:09:25,918 --> 01:09:27,613
+¡Russo. Russo!
+
+802
+01:09:27,719 --> 01:09:29,346
+Davis, ¡Sal ven aquí!
+
+803
+01:09:34,192 --> 01:09:36,319
+¿Por qué están tardando tanto?
+
+804
+01:10:13,899 --> 01:10:17,130
+¡No me mate, por favor!
+¡No me mate! ¡Yo le creo!
+
+805
+01:10:17,235 --> 01:10:18,327
+¿Matarte?
+
+806
+01:10:18,437 --> 01:10:21,065
+Tuve suficiente oportunidad.
+Si te quisiera muerto, estarías muerto.
+
+807
+01:10:22,307 --> 01:10:25,105
+¿A qué tipo de imbécil
+se lo ocurre algo como esto?
+
+808
+01:10:33,352 --> 01:10:36,583
+No está mal con un disparador, poodle
+y un silenciador hecho a mano, ¿huh?
+
+809
+01:10:37,889 --> 01:10:40,016
+¿Me ayudas a arrojarlos al agua?
+
+810
+01:10:40,125 --> 01:10:42,423
+¡Me tendiste una trampa
+y me usaste de carnada!
+
+811
+01:10:42,527 --> 01:10:45,360
+¿Eso crees? Los hice salir ¿cierto?
+
+812
+01:10:45,464 --> 01:10:46,488
+Tenía esperanzas de atrapar
+uno vivo,
+
+813
+01:10:46,598 --> 01:10:48,691
+pero estaban determinados a matarte.
+
+814
+01:10:48,800 --> 01:10:51,030
+Puedes contratar a un buen abogado
+yo llamaré al FBI.
+
+815
+01:10:51,136 --> 01:10:53,070
+Ellos pueden arreglar algún
+tipo de trato.
+
+816
+01:10:54,039 --> 01:10:56,906
+Esto se puede explicar. Puedes probar
+que tú no le disparaste al arzobispo.
+
+817
+01:10:57,009 --> 01:10:58,135
+No creo que entiendas.
+
+818
+01:10:58,243 --> 01:10:59,437
+Estos tipos mataron a mi perro.
+
+819
+01:11:02,347 --> 01:11:05,282
+Hey, este es el siglo 21. No puedes
+hacerle la guerra a éstos tipo.
+
+820
+01:11:05,384 --> 01:11:06,942
+Al final, la ley es todo...
+
+821
+01:11:07,052 --> 01:11:09,748
+Al final, la ley nunca
+los atrapará y arrestará.
+
+822
+01:11:09,855 --> 01:11:11,152
+En un año o dos
+habrán vuelto al negocio.
+
+823
+01:11:11,256 --> 01:11:13,781
+Nuevos nombres, nuevos mensajeros,
+la misma vieja historia.
+
+824
+01:11:14,026 --> 01:11:15,186
+Y yo estaré muerto.
+
+825
+01:11:15,293 --> 01:11:17,227
+Va a ser un trabajo duro, y sucio.
+
+826
+01:11:17,329 --> 01:11:19,422
+Va a haber más disparos,
+y más gente va a morir.
+
+827
+01:11:19,531 --> 01:11:22,762
+Ahora, yo no lo comencé, pero te aseguro,
+que tengo intenciones de terminarlo.
+
+828
+01:11:22,868 --> 01:11:25,359
+Así que decídete.
+¿Estás dentro o estás afuera?
+
+829
+01:11:28,640 --> 01:11:30,005
+Sabes, no me presenté
+a la revisión hoy,
+
+830
+01:11:30,108 --> 01:11:33,566
+donde me iban a despedir
+por conducta no profesional,
+
+831
+01:11:33,679 --> 01:11:36,671
+por que fui secuestrado por
+gente que no existe.
+
+832
+01:11:41,319 --> 01:11:42,718
+Yo lo agarro de las piernas.
+
+833
+01:11:42,821 --> 01:11:44,482
+Buena decisión, chuleta.
+
+834
+01:11:45,057 --> 01:11:47,855
+¿Intentas decirme que
+un agente novato del FBI,
+
+835
+01:11:47,959 --> 01:11:49,756
+superó y mató a los tres hombres?
+
+836
+01:11:49,861 --> 01:11:50,828
+No.
+
+837
+01:11:51,563 --> 01:11:55,465
+Les dispararon de una distancia
+de cerca de 200 yardas.
+
+838
+01:11:57,335 --> 01:11:58,597
+Con una 22.
+
+839
+01:12:00,572 --> 01:12:02,802
+- Swagger está vivo.
+- Si.
+
+840
+01:12:02,908 --> 01:12:04,341
+Y ese muchacho,
+
+841
+01:12:04,643 --> 01:12:06,167
+El agente del FBI,
+
+842
+01:12:08,647 --> 01:12:09,841
+Nick Memphis,
+
+843
+01:12:09,948 --> 01:12:13,748
+que logró conseguir una
+autorización nivel Delta,
+
+844
+01:12:13,852 --> 01:12:17,583
+no ha vuelto a su oficina
+y está allá afuera con él.
+
+845
+01:12:19,758 --> 01:12:20,725
+¿Qué?
+
+846
+01:12:20,826 --> 01:12:22,987
+Volví a repasar las
+finanzas de Swagger.
+
+847
+01:12:23,462 --> 01:12:27,125
+Una vez al año le manda
+flores a alguien con su tarjeta Visa.
+
+848
+01:12:27,332 --> 01:12:29,732
+Entré en la base de datos de FTD
+y conseguí la dirección.
+
+849
+01:12:29,835 --> 01:12:32,998
+La viuda de Donnie Fenn.
+Aniversario de su muerte.
+
+850
+01:12:33,105 --> 01:12:36,924
+Volvió a usar su nombre de soltera,
+por eso no nos dimos cuenta la primera vez.
+
+851
+01:12:37,809 --> 01:12:39,572
+Tal vez sea la única persona
+en todo el mundo,
+
+852
+01:12:39,678 --> 01:12:41,737
+que creería cualquier cosa
+que Swagger diga.
+
+853
+01:12:41,847 --> 01:12:45,248
+Mira. Keene City, Kentucky.
+
+854
+01:12:45,350 --> 01:12:47,011
+Podemos llegar en auto.
+
+855
+01:12:47,986 --> 01:12:50,682
+- ¿Qué esperan? Toma el avión.
+- Bien.
+
+856
+01:12:58,463 --> 01:13:00,158
+Le dimos a Swagger
+una nueva guerra,
+
+857
+01:13:00,599 --> 01:13:02,066
+halló un nuevo ubicador.
+
+858
+01:13:03,435 --> 01:13:05,062
+Esto está a punto de ponerse peor.
+
+859
+01:13:34,166 --> 01:13:35,793
+Creo que ya llegamos.
+
+860
+01:13:36,935 --> 01:13:38,163
+Hey. Swagger.
+
+861
+01:13:42,574 --> 01:13:44,007
+Creo que ya llegamos.
+
+862
+01:13:47,112 --> 01:13:49,239
+Bienvenido a Tennessee.
+
+863
+01:13:49,347 --> 01:13:51,474
+El estado patrón de dispararle a cosas.
+
+864
+01:13:53,752 --> 01:13:55,185
+Hey, ¿Quién es este tipo?
+
+865
+01:13:55,287 --> 01:13:58,814
+Este tipo era el mejor fabricante de armas
+del este del Missisippi. Es una leyenda.
+
+866
+01:13:58,924 --> 01:14:00,983
+Sabe más sobre armas y de la gente
+que las dispara,
+
+867
+01:14:01,092 --> 01:14:02,150
+que Smith & Wesson.
+
+868
+01:14:02,260 --> 01:14:04,751
+En realidad no importa. Ya sabe que venimos
+desde que estábamos a tres millas.
+
+869
+01:14:04,863 --> 01:14:06,023
+- Cuida tus modales.
+- Bien.
+
+870
+01:14:06,131 --> 01:14:09,726
+Vinieron desde muy lejos.
+¿Qué es lo que buscan?
+
+871
+01:14:10,035 --> 01:14:11,127
+Sabiduría.
+
+872
+01:14:13,171 --> 01:14:14,798
+Viniste al lugar equivocado.
+
+873
+01:14:14,906 --> 01:14:16,168
+Tal vez.
+
+874
+01:14:16,274 --> 01:14:17,866
+Digamos que un hombre quiere
+disparar desde un rifle,
+
+875
+01:14:17,976 --> 01:14:19,637
+y hacerla que concuerde
+exactamente con otro.
+
+876
+01:14:19,744 --> 01:14:21,109
+¿Puede hacerse?
+
+877
+01:14:21,213 --> 01:14:22,237
+Toma asiento.
+
+878
+01:14:23,114 --> 01:14:24,342
+Toma una silla, hijo.
+
+879
+01:14:28,620 --> 01:14:32,579
+Si puedes conseguir intacta una bala
+que fue disparada del primer rifle,
+
+880
+01:14:32,691 --> 01:14:34,181
+puedes hacer que las ranuras coincidan.
+
+881
+01:14:34,292 --> 01:14:36,903
+Sin embargo es el tipo de cosas que
+no se han hecho en mucho tiempo,
+
+882
+01:14:36,938 --> 01:14:40,194
+La bala que sacaron del arzobispo
+estaba deformada por el impacto.
+
+883
+01:14:40,229 --> 01:14:42,261
+El FBI la cotejo metalúrgicamente.
+
+884
+01:14:42,367 --> 01:14:43,527
+Gracias, madre.
+
+885
+01:14:43,635 --> 01:14:46,035
+Si, pero no se podría garantizar
+que diera en el blanco, debían asegurarse,
+
+886
+01:14:46,137 --> 01:14:48,628
+Y aún no logro descifrar
+cómo pudieron lograrlo.
+
+887
+01:14:51,576 --> 01:14:53,134
+- ¿Buen café?
+- Si.
+
+888
+01:14:55,146 --> 01:14:58,309
+Mira a tu izquierda.
+Segundo estante, abajo.
+
+889
+01:14:59,217 --> 01:15:01,412
+Borde de piel rojo.
+
+890
+01:15:01,620 --> 01:15:04,487
+Escrito por un tipo llamado Schofeld.
+
+891
+01:15:05,724 --> 01:15:09,558
+Lo puse ahí hace 15 años. No
+creo que se haya movido desde entonces.
+
+892
+01:15:29,247 --> 01:15:31,477
+Sí, envoltura de papel.
+
+893
+01:15:31,583 --> 01:15:34,746
+Una obra de arte. África 1870´s.
+
+894
+01:15:34,853 --> 01:15:36,081
+Bala envuelta en papel.
+
+895
+01:15:36,187 --> 01:15:38,712
+El metal no toca metal en el cañón.
+
+896
+01:15:38,823 --> 01:15:41,849
+Las ranuras coincidirían.
+El papel se cae al salir.
+
+897
+01:15:41,960 --> 01:15:43,985
+No deja rastros cuando golpea.
+
+898
+01:15:44,095 --> 01:15:47,724
+Muy buena pregunta.
+Espero haberlos satisfecho.
+
+899
+01:15:47,832 --> 01:15:49,129
+Tengo otra.
+
+900
+01:15:49,868 --> 01:15:50,892
+Pensé que la tendrías.
+
+901
+01:15:51,002 --> 01:15:53,994
+Suponga que busco un hombre para
+hacer un disparo a pulso de 2,200 yardas,
+
+902
+01:15:54,105 --> 01:15:55,800
+¿Quién está vivo que pueda hacer eso?
+
+903
+01:15:56,374 --> 01:16:00,504
+Puesto que supe que un disparo como ese
+se hizo hace no mucho tiempo.
+
+904
+01:16:00,612 --> 01:16:03,740
+Diría que el nombre del tipo
+fue Bob Lee Swagger.
+
+905
+01:16:03,848 --> 01:16:04,962
+Nunca lo conocí,
+así que no lo sabría.
+
+906
+01:16:04,997 --> 01:16:06,076
+Never met the man,
+so I wouldn't know him.
+
+907
+01:16:06,184 --> 01:16:07,651
+Si, eso dijeron.
+
+908
+01:16:07,752 --> 01:16:11,449
+También dijeron que los endulcorantes
+artificiales eras seguros de usar,
+
+909
+01:16:12,457 --> 01:16:14,982
+y que había armas
+químicas en Irak.
+
+910
+01:16:15,093 --> 01:16:17,755
+Y que Anna Nicole
+se casó por amor.
+
+911
+01:16:19,731 --> 01:16:22,008
+Sin embargo, hubiera sido
+un mal trabajo para tomarlo.
+
+912
+01:16:22,043 --> 01:16:24,172
+- ¿Cómo es eso?
+- Quien haya hecho ese disparo,
+
+913
+01:16:24,173 --> 01:16:27,670
+probablemente esté muerto ahora.
+Así funciona una conspiración.
+
+914
+01:16:27,705 --> 01:16:31,168
+Los chicos del montículo verde
+estaban muertos a las 3 horas.
+
+915
+01:16:31,276 --> 01:16:35,212
+Enterrados en el desierto. Con tumbas
+sin nombre más allá de Terlingua.
+
+916
+01:16:35,313 --> 01:16:36,746
+¿Y lo sabe con certeza?
+
+917
+01:16:36,848 --> 01:16:38,645
+Aún tengo la pala.
+
+918
+01:16:40,819 --> 01:16:42,650
+Sólo por preguntar,
+¿Alguien? además de él.
+
+919
+01:16:42,754 --> 01:16:44,278
+Había un tipo en Russia.
+
+920
+01:16:44,389 --> 01:16:46,152
+Lo encerraron.
+
+921
+01:16:46,858 --> 01:16:49,520
+Otro en Francia, sé que está muerto.
+
+922
+01:16:50,428 --> 01:16:52,293
+Había un tipo,
+
+923
+01:16:52,397 --> 01:16:54,661
+pero el ya no dispara.
+
+924
+01:16:55,033 --> 01:16:57,797
+Un hijo de perra muy brutal.
+
+925
+01:16:57,902 --> 01:17:01,030
+La mayoría dispara a matar.
+El dispara para herir,
+
+926
+01:17:01,773 --> 01:17:03,468
+espera a que sus amigos
+lleguen a ayudar,
+
+927
+01:17:03,875 --> 01:17:05,035
+y los mata también.
+
+928
+01:17:05,143 --> 01:17:07,304
+Hace que un blanco se
+convierta en cuatro.
+
+929
+01:17:08,079 --> 01:17:11,810
+Hombres, mujeres, niños.
+Muertos por cientos.
+
+930
+01:17:11,916 --> 01:17:14,584
+El otro lado lo quería de su lado
+y con ansias.
+
+931
+01:17:14,619 --> 01:17:19,587
+Finalmente lo acorralaron en un
+edificio abandonado de seis pisos.
+
+932
+01:17:20,792 --> 01:17:22,726
+Dejaron a un lado las
+tácticas sutiles.
+
+933
+01:17:22,827 --> 01:17:25,455
+Ordenaron un ataque
+de artillería.
+
+934
+01:17:25,563 --> 01:17:27,463
+Arrasaron con toda una manzana.
+
+935
+01:17:27,565 --> 01:17:29,726
+Hicieron que el edificio
+se desplomara sobre su trasero.
+
+936
+01:17:29,834 --> 01:17:32,268
+Algunos dicen que salió arrastrando.
+
+937
+01:17:32,370 --> 01:17:34,099
+Algunos dicen que murió ahí.
+
+938
+01:17:34,205 --> 01:17:36,139
+No volví a escuchar de él.
+
+939
+01:17:36,841 --> 01:17:38,399
+Me lleva.
+
+940
+01:17:38,510 --> 01:17:39,499
+¿Qué?
+
+941
+01:17:39,611 --> 01:17:41,044
+Conocí al hijo de puta.
+
+942
+01:17:45,517 --> 01:17:48,543
+El mundo no es lo
+que parece, ¿verdad sargento?
+
+943
+01:17:49,521 --> 01:17:50,647
+No, señor.
+
+944
+01:17:50,755 --> 01:17:52,347
+Tenga eso presente.
+
+945
+01:17:52,457 --> 01:17:54,220
+Al momento que cree
+que entendió,
+
+946
+01:17:54,392 --> 01:17:55,359
+estás equivocado.
+
+947
+01:17:59,431 --> 01:18:00,742
+¿Tiene nombre?
+
+948
+01:18:06,004 --> 01:18:07,437
+<i>Hey, soy yo, Nick.</i>
+
+949
+01:18:07,839 --> 01:18:10,774
+¿Tienes idea del problema
+en que estás?
+
+950
+01:18:11,509 --> 01:18:13,500
+<i>- Si.
+- ¿Estás bien? ¿Nick dónde estás?</i>
+
+951
+01:18:13,611 --> 01:18:14,839
+Es mejor que no te lo diga.
+
+952
+01:18:15,680 --> 01:18:18,046
+Mira, ¿tienes una pluma?
+
+953
+01:18:18,149 --> 01:18:20,617
+<i>Necesito que encuentres a alguien.
+Mikhaylo Sczerbiak.</i>
+
+954
+01:18:20,718 --> 01:18:21,685
+<i>- Si.
+- ¿Lo tienes?</i>
+
+955
+01:18:21,786 --> 01:18:22,775
+Lo tengo.
+
+956
+01:18:22,920 --> 01:18:24,751
+Diablos, es difícil de deletrear.
+
+957
+01:18:30,962 --> 01:18:34,125
+Swagger va proceder
+con lo que sabe.
+
+958
+01:18:34,232 --> 01:18:36,496
+Tratará de rastrear al tirador.
+
+959
+01:18:36,601 --> 01:18:38,125
+No llegará lejos por ese camino.
+
+960
+01:18:38,236 --> 01:18:39,726
+Si, si lo hará.
+
+961
+01:18:39,837 --> 01:18:41,930
+- ¿Cómo?
+- Lo vamos ayudar.
+
+962
+01:18:42,039 --> 01:18:45,099
+A veces, para atrapar al lobo, hay
+que atar la carnada a un árbol.
+
+963
+01:18:52,250 --> 01:18:53,945
+¿Qué le pasa a la carnada?
+
+964
+01:18:55,486 --> 01:18:56,851
+Es difícil saber.
+
+965
+01:18:57,855 --> 01:19:00,517
+Pero esa es la naturaleza
+de ser la carnada.
+
+966
+01:19:13,571 --> 01:19:15,937
+<i>- Hey, soy Nick. ¿Lo encontraste?
+- Está en Virginia.</i>
+
+967
+01:19:17,008 --> 01:19:19,101
+Un cabo que creíamos
+que estaba atado.
+
+968
+01:19:19,310 --> 01:19:20,402
+se soltó.
+
+969
+01:19:21,345 --> 01:19:23,006
+¿Qué significa eso, coronel?
+
+970
+01:19:23,114 --> 01:19:24,945
+Swagger sigue vivo.
+
+971
+01:19:28,386 --> 01:19:29,751
+Oh, Dios.
+
+972
+01:19:30,388 --> 01:19:35,018
+Necesito que un transporte aterrice
+sin que Aduanas lo revise.
+
+973
+01:19:36,694 --> 01:19:40,289
+Estoy seguro de que no me conviene saber,
+pero, ¿qué hay en el avión?
+
+974
+01:19:42,099 --> 01:19:43,862
+El equipo que usamos en Etiopía.
+
+975
+01:19:43,968 --> 01:19:46,960
+24 hombres buenos, duros.
+
+976
+01:19:47,071 --> 01:19:49,232
+Armas y equipo.
+
+977
+01:19:49,340 --> 01:19:50,864
+¿Sólo 24?
+
+978
+01:19:52,310 --> 01:19:53,709
+Asegúrese de matarlo.
+
+979
+01:19:55,446 --> 01:19:57,380
+Sin cabos sueltos esta vez.
+
+980
+01:19:58,282 --> 01:19:59,681
+Buenas noches, coronel.
+
+981
+01:20:01,352 --> 01:20:02,341
+Buenas noches, Senador.
+
+982
+01:20:21,205 --> 01:20:22,263
+¿Hola?
+
+983
+01:20:24,475 --> 01:20:25,874
+¿Hay alguien ahí?
+
+984
+01:21:02,146 --> 01:21:03,272
+Ahora mira.
+
+985
+01:21:03,981 --> 01:21:05,778
+Mira lo que hiciste.
+
+986
+01:21:09,053 --> 01:21:10,486
+Dame eso.
+
+987
+01:21:10,588 --> 01:21:13,580
+No quiero que te lastimes
+¿Está bien?
+
+988
+01:21:22,099 --> 01:21:23,930
+¿Dónde está tu novio?
+
+989
+01:21:25,970 --> 01:21:27,562
+¿Y si es una trampa?
+
+990
+01:21:28,005 --> 01:21:29,370
+Oh, es una trampa.
+
+991
+01:21:29,474 --> 01:21:31,806
+Garantizado. Siempre.
+
+992
+01:21:33,678 --> 01:21:35,373
+La pregunta es ¿para quién?
+
+993
+01:21:36,881 --> 01:21:38,712
+- Tienes tu lista, ¿no?
+- Si.
+
+994
+01:21:38,816 --> 01:21:41,046
+Asegúrate de apegarte a ella.
+
+995
+01:22:09,113 --> 01:22:10,080
+Vamos.
+
+996
+01:22:15,620 --> 01:22:17,645
+¿Para qué son estas, de nuevo?
+
+997
+01:22:18,356 --> 01:22:20,051
+El gas lacrimógeno
+estará en mi remoto.
+
+998
+01:22:20,158 --> 01:22:21,716
+Correcto.
+
+999
+01:22:21,826 --> 01:22:26,058
+Napalm en el primer piso,
+bombas de tubo para los demás.
+
+1000
+01:22:26,164 --> 01:22:30,191
+Debes tener cuidado con estas.
+Tienen un radio de 5 metros.
+
+1001
+01:22:30,301 --> 01:22:32,462
+Exactamente, ¿Para qué nos
+estamos preparando?
+
+1002
+01:22:32,570 --> 01:22:34,003
+Para todo lo que podamos.
+
+1003
+01:22:47,151 --> 01:22:50,945
+Bien, tienes 4 combatientes enemigos
+Mátalos uno por uno.
+
+1004
+01:22:51,322 --> 01:22:53,256
+Sigue disparando,
+que nada te distraiga.
+
+1005
+01:23:01,866 --> 01:23:02,924
+¡Diablos!
+
+1006
+01:23:05,236 --> 01:23:07,670
+¿No te dije que nada
+debía distraerte?
+
+1007
+01:23:07,772 --> 01:23:10,297
+Lento es suave,
+suave es rápido. Veamos.
+
+1008
+01:23:26,390 --> 01:23:27,914
+No. No.
+
+1009
+01:23:28,459 --> 01:23:30,290
+Sólo estamos tú y yo, nena.
+
+1010
+01:23:30,394 --> 01:23:31,452
+!No!
+
+1011
+01:23:34,532 --> 01:23:35,999
+Tienes tres guardias.
+
+1012
+01:23:36,901 --> 01:23:38,334
+Uno a tus 2:00,
+
+1013
+01:23:39,737 --> 01:23:40,829
+12:00,
+
+1014
+01:23:42,206 --> 01:23:43,332
+y 10:00.
+
+1015
+01:23:51,949 --> 01:23:52,973
+Peligro cerca. 2:00,
+
+1016
+01:23:53,084 --> 01:23:54,051
+<i>Cincuenta yardas.</i>
+
+1017
+01:24:57,682 --> 01:24:58,740
+<i>Tienes uno justo encima de ti.</i>
+
+1018
+01:24:59,183 --> 01:25:00,150
+20 yardas y acercándose.
+
+1019
+01:25:50,868 --> 01:25:52,267
+Revisa el perímetro.
+
+1020
+01:25:52,703 --> 01:25:54,227
+Y diles a los demás que estén alerta.
+
+1021
+01:25:54,338 --> 01:25:56,067
+Enseguida, señor.
+
+1022
+01:26:30,241 --> 01:26:31,731
+Swagger, tienes uno arriba,
+en el techo.
+
+1023
+01:26:50,461 --> 01:26:51,758
+¿Mataste a los tres?
+
+1024
+01:26:52,697 --> 01:26:54,028
+Eran cuatro.
+
+1025
+01:26:54,965 --> 01:26:58,423
+Quiero el nombre real de Johnson,
+quiero saber para quién trabaja.
+
+1026
+01:26:58,536 --> 01:27:01,563
+Quiero saber que valía tanto para realizar
+todo ese esfuerzo, para matar al arzobispo.
+
+1027
+01:27:02,873 --> 01:27:04,363
+¿No ere tú quien disparó?
+
+1028
+01:27:04,475 --> 01:27:06,534
+¿Y si no sé nada de ésas cosas?
+
+1029
+01:27:06,644 --> 01:27:07,736
+Entonces no me sirves de nada.
+
+1030
+01:27:07,845 --> 01:27:10,006
+y tal vez deba dispararte e irme.
+
+1031
+01:27:14,218 --> 01:27:16,618
+Johnson tiene muchos nombres.
+
+1032
+01:27:16,721 --> 01:27:20,487
+No sé si uno es más
+real que los demás.
+
+1033
+01:27:20,591 --> 01:27:22,320
+Saberlo simplemente
+sería peligroso.
+
+1034
+01:27:23,994 --> 01:27:25,518
+Es ex oficial del ejército.
+
+1035
+01:27:25,629 --> 01:27:28,063
+Estoy seguro que era un coronel
+de alto rango.
+
+1036
+01:27:31,368 --> 01:27:32,460
+Sigue.
+
+1037
+01:27:34,305 --> 01:27:37,069
+Vinieron por mí,
+como vinieron por ti.
+
+1038
+01:27:38,242 --> 01:27:40,642
+Reclutando para un solo trabajo.
+
+1039
+01:27:42,346 --> 01:27:43,779
+Les gustan los heridos.
+
+1040
+01:27:44,882 --> 01:27:46,543
+Son más fáciles de usar,
+
+1041
+01:27:47,585 --> 01:27:49,553
+y luego los tiran cuando terminan.
+
+1042
+01:27:50,955 --> 01:27:52,946
+Timmons, tu, yo...
+
+1043
+01:27:55,593 --> 01:28:00,530
+Ya que has sido el lobo,
+es difícil ser el chivo atado.
+
+1044
+01:28:01,632 --> 01:28:06,399
+Somos un muerto
+hablando con otro.
+
+1045
+01:28:07,471 --> 01:28:08,802
+¿Y el arzobispo?
+
+1046
+01:28:10,441 --> 01:28:14,275
+¿Quieres eliminar toda sospecha
+cuando matas a alguien?
+
+1047
+01:28:14,545 --> 01:28:16,945
+Espera a que esté parado
+al lado del presidente.
+
+1048
+01:28:18,382 --> 01:28:19,815
+¿Qué iba a decir?
+
+1049
+01:28:20,851 --> 01:28:22,182
+La verdad.
+
+1050
+01:28:22,286 --> 01:28:25,847
+Que nada. Por más horrible que sea,
+
+1051
+01:28:25,956 --> 01:28:29,448
+sucede sin la aprobación del gobierno.
+
+1052
+01:28:29,560 --> 01:28:31,551
+Allá. Y aquí.
+
+1053
+01:28:33,664 --> 01:28:35,461
+El problema no es como hacerlo.
+
+1054
+01:28:36,967 --> 01:28:40,597
+Es que la gente en el poder
+tenga que admitir que sabían.
+
+1055
+01:28:42,406 --> 01:28:45,204
+Los prisioneros son
+torturados en Abu Ghraib,
+
+1056
+01:28:45,309 --> 01:28:47,470
+y sólo los subordinados
+van a la cárcel.
+
+1057
+01:28:48,212 --> 01:28:49,804
+Sus jefes sabían.
+
+1058
+01:28:49,914 --> 01:28:52,041
+Sabemos que sus jefes sabían.
+
+1059
+01:28:52,149 --> 01:28:53,377
+Pero no lo dices.
+
+1060
+01:28:53,484 --> 01:28:55,213
+¿Qué pasó exactamente en África?
+
+1061
+01:28:55,319 --> 01:29:00,182
+De alguna manera los habitantes no sabían,
+que un oleoducto,
+
+1062
+01:29:00,558 --> 01:29:03,322
+era una razón muy buena para
+mover su pueblo,
+
+1063
+01:29:03,427 --> 01:29:06,863
+a un lugar donde el dios espíritu
+no existía.
+
+1064
+01:29:06,964 --> 01:29:07,931
+¿Un trago?
+
+1065
+01:29:08,032 --> 01:29:10,521
+¿Así que les pidieron amablemente que se
+fueran y como no lo hicieron los mataron?
+
+1066
+01:29:10,668 --> 01:29:11,635
+No.
+
+1067
+01:29:11,869 --> 01:29:13,097
+Nunca lo pidieron.
+
+1068
+01:29:13,470 --> 01:29:14,835
+Simplemente los mataron.
+
+1069
+01:29:14,939 --> 01:29:15,906
+A todos.
+
+1070
+01:29:16,173 --> 01:29:20,765
+Para que el próximo pueblo no necesitara
+que se le pidiera irse, que sólo se fueran.
+
+1071
+01:29:32,389 --> 01:29:36,621
+Hay una fosa común
+con 400 cadáveres,
+
+1072
+01:29:36,727 --> 01:29:40,424
+hombres, mujeres, niños.
+
+1073
+01:29:40,531 --> 01:29:45,161
+Bajo la vieja estación de bombeo
+10 Km. más allá de la frontera de Eritrea.
+
+1074
+01:29:46,937 --> 01:29:48,370
+Deberías saberlo.
+
+1075
+01:29:48,472 --> 01:29:52,499
+Cubriste la retirada de los
+contratistas que hicieron el trabajo.
+
+1076
+01:29:53,878 --> 01:29:56,642
+Por supuesto, que no se suponía
+que sobrevivieras a eso, tampoco.
+
+1077
+01:30:05,789 --> 01:30:06,949
+¿Quien controla a Johnson?
+
+1078
+01:30:07,057 --> 01:30:09,450
+Un senador. De Montana, creo.
+
+1079
+01:30:11,028 --> 01:30:12,655
+No entiendes.
+
+1080
+01:30:13,097 --> 01:30:15,190
+No hay una cabeza que cortar.
+
+1081
+01:30:16,367 --> 01:30:18,164
+Es un conglomerado.
+
+1082
+01:30:18,802 --> 01:30:21,566
+Si uno de ellos traiciona los principios,
+
+1083
+01:30:23,073 --> 01:30:25,303
+del dinero y el poder,
+
+1084
+01:30:26,410 --> 01:30:28,105
+los otros lo traicionan.
+
+1085
+01:30:29,213 --> 01:30:30,737
+De lo que se trata,
+
+1086
+01:30:33,017 --> 01:30:35,315
+es de la debilidad humana.
+
+1087
+01:30:36,687 --> 01:30:39,588
+No puedes matar eso con un arma.
+
+1088
+01:30:47,498 --> 01:30:48,465
+Swagger.
+
+1089
+01:30:48,565 --> 01:30:49,554
+<i>Swagger.</i>
+
+1090
+01:30:49,667 --> 01:30:52,465
+<i>Tienes que salir de ahí.
+Están en todos lados</i>
+
+1091
+01:30:53,270 --> 01:30:56,364
+Tenia que entretenerte hasta que llegaran.
+
+1092
+01:30:57,841 --> 01:31:01,140
+Mintiendo no te iba a detener.
+
+1093
+01:31:01,912 --> 01:31:03,470
+Lo hubieras sabido.
+
+1094
+01:31:08,452 --> 01:31:11,751
+A propósito, tienen a tu chica.
+
+1095
+01:31:14,825 --> 01:31:15,883
+<i>Swagger.</i>
+
+1096
+01:31:15,993 --> 01:31:19,451
+Están a 20 yardas y acercándose.
+Tienes que salir de ahí,
+
+1097
+01:31:21,231 --> 01:31:23,131
+<i>- Escóndete. Ve al escondite dos.
+- Entendido.</i>
+
+1098
+01:31:55,199 --> 01:31:56,860
+Swagger, estoy en posición 2.
+
+1099
+01:31:57,768 --> 01:31:58,894
+Tienes que salir de ahí.
+
+1100
+01:31:59,003 --> 01:32:00,470
+<i>- Están por todos lados.
+- ¡Hey!</i>
+
+1101
+01:32:01,071 --> 01:32:02,470
+<i>Cálmate.</i>
+
+1102
+01:32:02,573 --> 01:32:05,064
+Vuela las bombas de tubo cuando
+te diga ¿De acuerdo?
+
+1103
+01:32:05,376 --> 01:32:07,173
+Si, si. Si, entiendo.
+
+1104
+01:32:14,752 --> 01:32:15,719
+Escucha con cuidado.
+
+1105
+01:32:15,886 --> 01:32:17,513
+Cuando diga "uno", vuelas
+las bombas de tubo,
+
+1106
+01:32:17,621 --> 01:32:18,588
+<i>luego las de gas.</i>
+
+1107
+01:32:19,623 --> 01:32:21,386
+Tres, dos, uno...
+
+1108
+01:32:51,288 --> 01:32:52,414
+Vuélalo. Vuela el napalm.
+
+1109
+01:33:47,544 --> 01:33:48,533
+¡Swagger!
+
+1110
+01:33:55,786 --> 01:33:57,083
+Lo tienes.
+
+1111
+01:34:08,432 --> 01:34:09,592
+<i>¡Swagger!</i>
+
+1112
+01:34:12,002 --> 01:34:13,560
+<i>¡Swagger!</i>
+
+1113
+01:34:14,271 --> 01:34:15,602
+¡Swagger!
+
+1114
+01:34:22,212 --> 01:34:24,077
+Tienes que esconderte cuando
+te diga, en ese granero.
+
+1115
+01:34:24,181 --> 01:34:25,148
+Ok.
+
+1116
+01:34:25,249 --> 01:34:26,307
+- ¿Listo?
+- Si.
+
+1117
+01:34:26,416 --> 01:34:27,440
+¡Ve!
+
+1118
+01:34:30,921 --> 01:34:31,888
+¡Vamos!
+
+1119
+01:35:00,317 --> 01:35:01,579
+Debes llegar a esos árboles.
+
+1120
+01:35:01,885 --> 01:35:02,852
+¿Qué?
+
+1121
+01:35:03,020 --> 01:35:04,885
+Te quedan 5 balas.
+Debes derribar ese pájaro.
+
+1122
+01:35:04,988 --> 01:35:06,319
+Ok. Ok.
+
+1123
+01:35:06,423 --> 01:35:08,288
+- Yo te cubro, ¿de acuerdo?
+- Ok.
+
+1124
+01:35:10,060 --> 01:35:11,049
+Bien, ¡Ve!
+
+1125
+01:35:24,474 --> 01:35:25,964
+¡Elévate, Elévate!
+
+1126
+01:35:42,025 --> 01:35:43,014
+¡Hora de irse!
+
+1127
+01:36:00,911 --> 01:36:01,843
+Déjame echar un vistazo.
+
+1128
+01:36:02,279 --> 01:36:03,246
+No ahora.
+
+1129
+01:36:03,847 --> 01:36:05,144
+Buenos días, belleza.
+
+1130
+01:36:05,249 --> 01:36:07,479
+- ¿Viste este raro tiroteo en virginia?
+- Señor...
+
+1131
+01:36:07,584 --> 01:36:11,918
+Casquillos por todos lados, restos de
+helicópteros, sangre, pero no cuerpos ¿cierto?
+
+1132
+01:36:12,022 --> 01:36:15,651
+Y hallaron huellas
+en los cartuchos.
+
+1133
+01:36:15,759 --> 01:36:18,990
+El primer juego ya identificado
+como Bob Lee Swagger.
+
+1134
+01:36:20,797 --> 01:36:24,233
+El segundo juego es del agente
+especial Nick Memphis,
+
+1135
+01:36:24,701 --> 01:36:26,100
+del FBI.
+
+1136
+01:36:26,403 --> 01:36:27,927
+¿Qué? Debe haber un error.
+
+1137
+01:36:31,275 --> 01:36:34,733
+La única pregunta
+razonable que queda hay es:
+
+1138
+01:36:37,114 --> 01:36:38,342
+¿Qué demonios está pasando?
+
+1139
+01:36:44,354 --> 01:36:45,685
+!Excelente tiro!
+
+1140
+01:36:49,226 --> 01:36:51,751
+- ¡Todo tuyo, Dan!
+- ¡Buen tiro!
+
+1141
+01:36:51,862 --> 01:36:55,127
+Comienzo a pensar que no eras
+el hombre indicado para el trabajo.
+
+1142
+01:36:56,733 --> 01:36:58,200
+Piense lo que quiera.
+
+1143
+01:37:00,737 --> 01:37:04,696
+Parece que subestimamos
+al Sargento de artillería.
+
+1144
+01:37:06,510 --> 01:37:08,501
+Siempre hay un alma confundida,
+
+1145
+01:37:08,612 --> 01:37:11,206
+que cree que un hombre puede
+hacer la diferencia.
+
+1146
+01:37:12,382 --> 01:37:15,510
+Y tienes que matarlo para
+convencerlo de lo contrario.
+
+1147
+01:37:17,854 --> 01:37:19,823
+Es el problema de la democracia.
+
+1148
+01:37:20,324 --> 01:37:21,348
+¡Jalen!
+
+1149
+01:37:35,706 --> 01:37:37,640
+...con fuego bajo sus traseros,
+¿Me entienden?
+
+1150
+01:37:37,741 --> 01:37:39,299
+Necesitamos esos resultados, ahora.
+
+1151
+01:37:39,409 --> 01:37:41,741
+Anna, ustedes, lleva el equipo...
+¡Anna!... a la casa en la carretera.
+
+1152
+01:37:41,845 --> 01:37:44,439
+Ok, no me importa lo que es.
+No me...
+
+1153
+01:37:44,548 --> 01:37:47,711
+¡Chicos! Tenemos a Memphis en la línea.
+
+1154
+01:37:47,818 --> 01:37:49,046
+Comiencen a rastrear.
+
+1155
+01:37:49,953 --> 01:37:51,545
+Entendido. Haré eso.
+
+1156
+01:37:51,655 --> 01:37:53,885
+Nick. Hey, soy Howard.
+¿Cómo estás?
+
+1157
+01:37:54,157 --> 01:37:57,285
+Las cosas se complicaron un poco.
+Tengo a Swagger bajo custodia.
+
+1158
+01:37:58,395 --> 01:38:00,329
+Si, Resulta que no está muerto.
+
+1159
+01:38:00,430 --> 01:38:03,024
+Si, lo sé. Nos han llegado noticias
+de esa posibilidad.
+
+1160
+01:38:03,767 --> 01:38:04,995
+Lo tengo.
+
+1161
+01:38:05,102 --> 01:38:06,729
+¿Estuviste en un tiroteo
+en Virginia anoche?
+
+1162
+01:38:06,837 --> 01:38:09,635
+Como dije, las cosas
+se complicaron un poco.
+
+1163
+01:38:09,740 --> 01:38:14,109
+Obviamente lo mejor que puedes hacer es
+que nos lo traigas, ¿no?
+
+1164
+01:38:14,211 --> 01:38:16,111
+Oh, no. No puedo hacer eso.
+
+1165
+01:38:16,213 --> 01:38:17,202
+¿Por qué?
+
+1166
+01:38:17,314 --> 01:38:19,305
+Esto va muy profundo. No está
+claro en quien se puede confiar.
+
+1167
+01:38:20,217 --> 01:38:22,583
+<i>- Pero somos el FBI, hijo.
+- Si, lo sé.</i>
+
+1168
+01:38:22,986 --> 01:38:24,112
+Si, me mantendré en contacto.
+
+1169
+01:38:24,421 --> 01:38:25,513
+Oh, Nick, espera...
+
+1170
+01:38:25,622 --> 01:38:27,522
+Hijo de puta...
+
+1171
+01:38:27,624 --> 01:38:28,648
+- ¿Lo localizamos?
+- Lo tenemos.
+
+1172
+01:38:28,759 --> 01:38:29,851
+- Muévanse.
+- Están en una interestatal,
+
+1173
+01:38:29,960 --> 01:38:32,190
+- en las afueras de Bozeman, Montana.
+- ¡Muévanse!
+
+1174
+01:38:37,968 --> 01:38:38,935
+Soy Swagger.
+
+1175
+01:38:39,035 --> 01:38:40,730
+<i>- Coronel Johnson aquí.
+- Me imaginé que estaría escuchando.</i>
+
+1176
+01:38:40,837 --> 01:38:43,237
+<i>- Parece que no tienes a donde ir.
+- ¿Coronel?</i>
+
+1177
+01:38:43,774 --> 01:38:44,741
+Si es que es "Coronel"
+
+1178
+01:38:45,175 --> 01:38:46,301
+Lo es.
+
+1179
+01:38:47,811 --> 01:38:50,837
+<i>- Tengo algo que quieres.
+- Bueno, parece que yo también.</i>
+
+1180
+01:38:53,917 --> 01:38:58,823
+<i>Más allá de la frontera de Eritrean,
+Hay una tumba colectiva con 400 cuerpos.</i>
+
+1181
+01:38:58,858 --> 01:39:01,821
+<i>Hombres, mujeres, niños,</i>
+
+1182
+01:39:02,659 --> 01:39:04,593
+Te propongo esto. Te la entrego
+y estamos a mano.
+
+1183
+01:39:04,694 --> 01:39:06,161
+Solo quiero a alguien en quien pueda confiar.
+
+1184
+01:39:06,263 --> 01:39:08,857
+Estoy dispuesto.
+¿Qué tienes en mente?
+
+1185
+01:39:08,965 --> 01:39:10,865
+¿Que tal ese tipo
+de U2 con los lentes?
+
+1186
+01:39:10,967 --> 01:39:13,367
+Amigo de Nelson Mandela y los demás.
+Parece de confianza.
+
+1187
+01:39:13,470 --> 01:39:15,461
+¿Bono? ¿Quieres que te manden a Bono?
+
+1188
+01:39:15,572 --> 01:39:18,905
+Mi colega cuestiona mi decisión. Ok,
+
+1189
+01:39:19,009 --> 01:39:22,501
+Ya veo como eso puede ser un gran problema.
+Sabes, de último minuto.
+
+1190
+01:39:23,480 --> 01:39:25,277
+¿Qué tal el seis veces senador
+Charles Meachum,
+
+1191
+01:39:25,582 --> 01:39:26,810
+<i>de Montana?</i>
+
+1192
+01:39:26,917 --> 01:39:29,750
+<i>Parece una muy buena
+segunda elección ¿no crees?</i>
+
+1193
+01:39:31,521 --> 01:39:32,783
+No lo creo.
+
+1194
+01:39:32,889 --> 01:39:35,756
+Le voy a dar dos números,
+luego hablaremos.
+
+1195
+01:39:35,859 --> 01:39:38,487
+Punto 732. Punto 648.
+
+1196
+01:39:39,029 --> 01:39:40,223
+¿Y que demonios es eso?
+
+1197
+01:39:40,330 --> 01:39:43,493
+Esos son los últimos tres dígitos
+de latitud y longitud,
+
+1198
+01:39:43,600 --> 01:39:45,591
+de una estación de bombeo
+de petróleo en Eritrea.
+
+1199
+01:39:45,702 --> 01:39:47,033
+<i>con 400 cuerpos enterrados.</i>
+
+1200
+01:39:47,737 --> 01:39:48,931
+¿Dónde nos veremos?
+
+1201
+01:39:50,607 --> 01:39:52,700
+En un lugar donde te pueda ver,
+
+1202
+01:39:53,777 --> 01:39:56,541
+acercándote desde muy muy lejos.
+
+1203
+01:41:05,048 --> 01:41:06,379
+¿Dónde está tu chico?
+
+1204
+01:41:20,764 --> 01:41:22,391
+Bueno, estoy aquí.
+
+1205
+01:41:31,207 --> 01:41:32,231
+Está aquí.
+
+1206
+01:41:32,342 --> 01:41:33,639
+Mira, mira, mira.
+
+1207
+01:41:34,477 --> 01:41:36,502
+Ahí está tu muchacho.
+Ahí está tu muchacho, nena.
+
+1208
+01:41:45,188 --> 01:41:47,281
+Vamos, vamos. Mira, mira. Levanta la cara.
+
+1209
+01:41:57,567 --> 01:41:58,864
+Ok.
+
+1210
+01:42:42,412 --> 01:42:44,039
+¡Creo que me rompí una costilla!
+
+1211
+01:42:45,682 --> 01:42:46,876
+¡No te muevas!
+
+1212
+01:42:47,317 --> 01:42:48,750
+¿Hay alguien más?
+
+1213
+01:42:49,352 --> 01:42:50,319
+No.
+
+1214
+01:43:17,247 --> 01:43:20,038
+!Si me tira a la cabeza,
+mi espasmo la mata!
+
+1215
+01:43:21,184 --> 01:43:23,175
+!No me puedes disparar!
+
+1216
+01:43:23,286 --> 01:43:26,687
+No puedes disparar, ¡Swagger!
+¿Escuchas?, ¿Swagger?
+
+1217
+01:43:29,459 --> 01:43:31,154
+¡No tienes tiro limpio!
+
+1218
+01:43:31,795 --> 01:43:34,593
+¿Qué vas a hacer? ¡Vamos!
+
+1219
+01:43:43,573 --> 01:43:45,234
+¡Se terminó, compañero!
+
+1220
+01:43:50,280 --> 01:43:52,908
+¡No hay tiro! Ok, al diablo con él.
+
+1221
+01:44:06,930 --> 01:44:08,454
+¡No está mal!
+
+1222
+01:44:08,565 --> 01:44:10,760
+¡Muy bien! Decidió disparar.
+
+1223
+01:44:13,203 --> 01:44:14,329
+Jesucristo.
+
+1224
+01:44:32,188 --> 01:44:33,280
+¿Cómo podemos ayudar?
+
+1225
+01:44:33,389 --> 01:44:35,550
+Un huésped del motel, anoche
+me dio $100,
+
+1226
+01:44:35,658 --> 01:44:37,455
+por traer esto aquí a las 3:00 p.m.
+
+1227
+01:44:41,331 --> 01:44:42,320
+¡Muévanse!
+
+1228
+01:45:11,227 --> 01:45:12,216
+¿Estás bien?
+
+1229
+01:45:13,029 --> 01:45:13,996
+Si.
+
+1230
+01:45:24,374 --> 01:45:25,341
+Regístrenlo.
+
+1231
+01:45:25,441 --> 01:45:26,999
+No llevo arma,
+
+1232
+01:45:30,013 --> 01:45:31,241
+generalmente.
+
+1233
+01:45:31,815 --> 01:45:33,942
+Tengo licencia para llevar esa
+en este estado.
+
+1234
+01:45:41,958 --> 01:45:43,255
+Saque al piloto.
+
+1235
+01:45:44,861 --> 01:45:46,954
+¡Baja tu arma!
+¡Bájala!
+
+1236
+01:45:47,063 --> 01:45:48,223
+¡Baja el arma!
+
+1237
+01:45:48,331 --> 01:45:49,457
+Tranquilo.
+Tranquilo.
+
+1238
+01:45:59,909 --> 01:46:00,967
+Sarah.
+
+1239
+01:46:02,011 --> 01:46:03,638
+Dame el arma.
+
+1240
+01:46:04,347 --> 01:46:06,110
+Está bien. Dame el arma.
+
+1241
+01:46:15,458 --> 01:46:16,652
+¿Estás bien?
+
+1242
+01:46:16,826 --> 01:46:19,420
+Levántalos. Levántalos.
+
+1243
+01:46:19,529 --> 01:46:21,087
+Buenos disparos, Tirador.
+
+1244
+01:46:22,165 --> 01:46:24,759
+Si, ya tienes lo que viniste a buscar.
+
+1245
+01:46:24,868 --> 01:46:27,132
+Creo que es momento de que
+cumplas tu parte del trato.
+
+1246
+01:46:27,237 --> 01:46:28,204
+Eso crees ¿huh?
+
+1247
+01:46:28,338 --> 01:46:31,330
+Si, así es hijo.
+Eso creo.
+
+1248
+01:46:32,008 --> 01:46:35,000
+¿Por qué no pensamos en todo esto
+que ha pasado,
+
+1249
+01:46:35,111 --> 01:46:36,874
+sólo como un preámbulo?
+
+1250
+01:46:36,980 --> 01:46:38,845
+¿Tienes planes después de esto?
+
+1251
+01:46:39,515 --> 01:46:43,952
+Tienes unas paquete de habilidades únicas.
+Estoy interesado en ofrecerte un trabajo.
+
+1252
+01:46:44,053 --> 01:46:46,248
+¿Trabajar? ¿Para Ud.?
+
+1253
+01:46:46,356 --> 01:46:50,122
+No es tan malo como parece.
+De todos modos se va a hacer.
+
+1254
+01:46:50,226 --> 01:46:53,787
+Mejor estar del lado que te
+paga muy bien por tus esfuerzos.
+
+1255
+01:46:53,897 --> 01:46:55,956
+¿Y de qué lado estás tu?
+
+1256
+01:46:56,065 --> 01:46:58,932
+No hay lados. No hay Sunnis ni Shiites.
+
+1257
+01:46:59,035 --> 01:47:02,520
+No hay demócratas ni republicanos.
+Sólo está lo que debe hacerse y lo que no.
+
+1258
+01:47:02,705 --> 01:47:05,697
+¿Exactamente qué implica trabajar
+para Ud. Senador?
+
+1259
+01:47:06,109 --> 01:47:09,306
+¿Violar y matar a mujeres y
+niños inocentes?, enfermo de mierda.
+
+1260
+01:47:09,412 --> 01:47:11,243
+Ordenaste el asesinato masivo
+de toda una aldea,
+
+1261
+01:47:11,347 --> 01:47:12,336
+para que un oleoducto pudiera pasar.
+
+1262
+01:47:12,448 --> 01:47:14,040
+¡Una aldea!
+
+1263
+01:47:14,150 --> 01:47:16,175
+Y trajo estabilidad a la región.
+
+1264
+01:47:16,286 --> 01:47:19,449
+Lo que significa que nadie
+cortará sus brazos,
+
+1265
+01:47:19,555 --> 01:47:23,245
+porque su tatarabuela
+pertenecía a otra tribu.
+
+1266
+01:47:24,060 --> 01:47:25,550
+Les caemos bien allá, muchacho.
+
+1267
+01:47:32,602 --> 01:47:34,695
+Este es un país,
+
+1268
+01:47:35,438 --> 01:47:37,633
+donde el secretario de Defensa,
+
+1269
+01:47:39,809 --> 01:47:41,401
+puede salir en la TV,
+
+1270
+01:47:41,778 --> 01:47:43,905
+y decirle al pueblo americano,
+
+1271
+01:47:44,113 --> 01:47:47,742
+Oh, "Esto se trata de la libertad,
+no se trata de petróleo"
+
+1272
+01:47:48,551 --> 01:47:50,485
+Y nadie lo cuestiona,
+
+1273
+01:47:50,586 --> 01:47:52,019
+Por que no quieren escuchar la respuesta,
+
+1274
+01:47:52,121 --> 01:47:53,452
+¡por que es una mentira!
+
+1275
+01:47:55,892 --> 01:48:00,124
+Sólo hay cierto numero
+de lugares en la mesa, Tirador.
+
+1276
+01:48:00,530 --> 01:48:03,918
+Ahora, ¿estás dentro,
+o estás fuera?
+
+1277
+01:48:10,907 --> 01:48:12,238
+¡Es el FBI!
+
+1278
+01:48:13,076 --> 01:48:14,668
+Todo estará bien. Sostén esto.
+
+1279
+01:48:17,413 --> 01:48:20,780
+<i>Si uno de ellos traiciona los principios
+del dinero...</i>
+
+1280
+01:48:20,883 --> 01:48:22,544
+No lo creo, Senador.
+
+1281
+01:48:26,789 --> 01:48:28,723
+- ¿Qué estás haciendo?
+- Salvando nuestras vidas.
+
+1282
+01:48:29,158 --> 01:48:31,285
+- ¡Eso prueba que eres inocente!
+- ¡Nadie aquí es inocente!
+
+1283
+01:48:31,394 --> 01:48:35,228
+Esto es plutonio.
+!Nadie lo puede tocar sin morir!
+
+1284
+01:48:35,331 --> 01:48:38,789
+Si lo entregas a las autoridades,
+¡simplemente desaparecerá, junto con nosotros!
+
+1285
+01:48:38,901 --> 01:48:41,893
+A menos que quieras ser enterrado
+en las colinas en las afueras de Terlingua.
+
+1286
+01:48:42,005 --> 01:48:43,529
+¡Estoy fuera, viejo!
+
+1287
+01:48:43,639 --> 01:48:46,437
+Sólo soy un pájaro carpintero que vive
+en las colinas con demasiadas armas.
+
+1288
+01:48:46,542 --> 01:48:47,839
+¿Estás feliz?
+
+1289
+01:48:52,148 --> 01:48:53,911
+¿A dónde crees que vas?
+
+1290
+01:48:54,017 --> 01:48:55,450
+¡Washington!
+
+1291
+01:48:55,551 --> 01:48:59,988
+¿Vas a dispararle a un Senador
+de los Estados Unidos por la espalda?
+
+1292
+01:49:00,089 --> 01:49:01,647
+El señor sabe que eso quiero.
+
+1293
+01:49:02,525 --> 01:49:03,958
+Yo no lo creo.
+
+1294
+01:49:05,228 --> 01:49:06,422
+Déjalo ir.
+
+1295
+01:49:07,463 --> 01:49:09,090
+Tienen tu rifle.
+
+1296
+01:49:10,700 --> 01:49:13,134
+Desde el principio,
+siempre tuvieron tu rifle.
+
+1297
+01:49:13,236 --> 01:49:14,897
+Recuperado en el sitio.
+
+1298
+01:49:22,245 --> 01:49:24,907
+Puedes hablar tanto como quieras,
+pero al final,
+
+1299
+01:49:25,381 --> 01:49:27,872
+vas a morir por inyección letal,
+
+1300
+01:49:27,984 --> 01:49:30,475
+y yo volveré a hacer lo
+que estaba haciendo.
+
+1301
+01:49:35,691 --> 01:49:36,817
+Yo gano.
+
+1302
+01:49:37,860 --> 01:49:39,225
+Tu pierdes.
+
+1303
+01:49:40,029 --> 01:49:42,190
+Acostúmbrate a la idea, hijo.
+
+1304
+01:49:42,665 --> 01:49:44,098
+No soy tu hijo.
+
+1305
+01:49:58,748 --> 01:50:01,012
+- ¡Tiren sus armas! ¡Bajen sus armas!
+- ¡No se muevan!
+
+1306
+01:50:01,117 --> 01:50:04,678
+¡Agente especial Nick Memphis, FBI!
+¡No disparen!
+
+1307
+01:50:04,787 --> 01:50:06,948
+- ¡Abajo, abajo!
+- ¡Al suelo!
+
+1308
+01:50:07,557 --> 01:50:08,581
+¡Dije al suelo!
+
+1309
+01:50:27,944 --> 01:50:30,572
+- ¿Me liberan las manos? por favor.
+- Está bien.
+
+1310
+01:50:30,680 --> 01:50:32,307
+Gracias, señor.
+
+1311
+01:50:33,783 --> 01:50:35,444
+Gracias por traerla.
+
+1312
+01:50:40,990 --> 01:50:43,618
+Hey. Lo siento, por todo.
+
+1313
+01:50:43,726 --> 01:50:46,024
+No es tu culpa. Es lo que es.
+
+1314
+01:50:49,765 --> 01:50:52,393
+Este es el Abogado General Russert.
+
+1315
+01:50:53,402 --> 01:50:55,996
+- Director Brandt.
+- Señor.
+
+1316
+01:50:56,105 --> 01:50:58,437
+El Senador Meachum no pudo
+estar aquí con nosotros, hoy.
+
+1317
+01:50:58,541 --> 01:51:00,702
+Estoy seguro de que podemos
+proceder sin el.
+
+1318
+01:51:00,810 --> 01:51:03,039
+Sargento Swagger,
+ud. pidió esta reunión.
+
+1319
+01:51:04,113 --> 01:51:07,344
+Contra mi mejor criterio,
+accedí como un favor para el FBI.
+
+1320
+01:51:07,450 --> 01:51:08,917
+¿Qué demonios estoy haciendo aquí?
+
+1321
+01:51:09,152 --> 01:51:11,245
+No tienes nada contra mi.
+Estoy protegido.
+
+1322
+01:51:11,721 --> 01:51:13,120
+¡Llame al mando unido!
+
+1323
+01:51:14,757 --> 01:51:16,054
+Eso no será necesario Coronel,
+
+1324
+01:51:16,159 --> 01:51:18,525
+puesto que ya recibí más
+de una docena de llamadas,
+
+1325
+01:51:18,628 --> 01:51:21,096
+todas de individuos de alto rango
+y poderosos puestos,
+
+1326
+01:51:21,197 --> 01:51:22,687
+diciéndome que lo dejara ir.
+
+1327
+01:51:22,798 --> 01:51:25,892
+Pero lo bueno de nuestro
+sistema es que puedo,
+
+1328
+01:51:26,836 --> 01:51:30,678
+y estoy capacitado por ley,
+decirles que se vayan al diablo.
+
+1329
+01:51:30,740 --> 01:51:32,401
+Esto es sobre evidencia y
+descubrir la verdad,
+
+1330
+01:51:32,508 --> 01:51:34,442
+así que siéntese y cállese.
+
+1331
+01:51:38,080 --> 01:51:40,071
+Sargento, tiene 5 minutos.
+
+1332
+01:51:40,183 --> 01:51:41,309
+Gracias.
+
+1333
+01:51:43,519 --> 01:51:45,248
+Esta es mi arma.
+
+1334
+01:51:45,354 --> 01:51:47,686
+No hay dudas al respecto, no lo niego.
+
+1335
+01:51:47,790 --> 01:51:50,156
+La recuperaron en la escena,
+momentos después del asesinato.
+
+1336
+01:51:50,259 --> 01:51:51,226
+¿Estamos de acuerdo?
+
+1337
+01:51:51,961 --> 01:51:53,485
+Ha estado en posesión
+del FBI desde entonces,
+
+1338
+01:51:53,596 --> 01:51:54,995
+¿ha sido manipulada de alguna forma?
+
+1339
+01:51:55,097 --> 01:51:56,621
+No. Absolutamente no.
+
+1340
+01:51:56,732 --> 01:51:58,859
+- ¿Disparó el arma?
+- No tenia caso.
+
+1341
+01:51:58,968 --> 01:52:01,129
+La bala estaba destrozada
+más allá de reconocimiento.
+
+1342
+01:52:01,237 --> 01:52:04,138
+Fue sin embargo,
+metalúrgicamente identificada.
+
+1343
+01:52:04,240 --> 01:52:06,606
+Bien. Definitivamente son mis balas
+
+1344
+01:52:07,743 --> 01:52:09,404
+Definitivamente es mi rifle.
+
+1345
+01:52:09,512 --> 01:52:11,980
+Agente Memphis ¿Ud. cree
+yo le disparé al arzobispo?
+
+1346
+01:52:12,081 --> 01:52:13,605
+No. No, no lo creo.
+
+1347
+01:52:13,716 --> 01:52:16,241
+- ¿Tiene pruebas de ese hecho?
+- No.
+
+1348
+01:52:16,352 --> 01:52:17,785
+- ¿Confía en mi?
+- Si.
+
+1349
+01:52:17,887 --> 01:52:19,047
+¿Confía realmente en mi?
+
+1350
+01:52:19,422 --> 01:52:20,389
+Si.
+
+1351
+01:52:21,457 --> 01:52:22,651
+¿Con su vida?
+
+1352
+01:52:23,259 --> 01:52:24,658
+- Si.
+- Bien.
+
+1353
+01:52:26,229 --> 01:52:28,595
+- ¿Que demonios hace?
+- !Baje esa arma!
+
+1354
+01:52:28,698 --> 01:52:31,531
+Si apuntas para 600.
+Necesitas apuntar más abajo.
+
+1355
+01:52:31,634 --> 01:52:33,124
+No hace diferencia a esta distancia.
+
+1356
+01:52:33,236 --> 01:52:36,205
+Lo único que hará una diferencia
+es si estoy loco o no.
+
+1357
+01:52:42,411 --> 01:52:44,174
+Puedo seguir haciendo esto todo el día.
+
+1358
+01:52:44,914 --> 01:52:46,506
+Con cada arma de mi casa.
+
+1359
+01:52:47,016 --> 01:52:50,076
+Cambié todos los percutores
+antes de salir de la casa. siempre lo hago.
+
+1360
+01:52:50,186 --> 01:52:52,211
+Se ve bien, necesitas medirlo
+con un micrómetro.
+
+1361
+01:52:52,688 --> 01:52:54,053
+Pero el arma no dispara.
+
+1362
+01:52:54,457 --> 01:52:57,501
+La bala que sacaron del arzobispo fue
+disparada de mi arma, pero una semana antes,
+
+1363
+01:52:57,536 --> 01:52:58,746
+de una lata de cocido.
+
+1364
+01:52:58,781 --> 01:53:01,658
+Yo jure defender a este país contra todos
+sus enemigos, extranjeros y domésticos.
+
+1365
+01:53:01,764 --> 01:53:04,062
+Sólo que no me imaginaba que terminaría
+involucrado de esta forma.
+
+1366
+01:53:04,166 --> 01:53:05,929
+Pero al final del día, cuando
+todo el polvo se asienta,
+
+1367
+01:53:06,035 --> 01:53:08,595
+no puedes esconderte de la verdad
+hijo de puta.
+
+1368
+01:53:09,905 --> 01:53:11,031
+Como sea.
+
+1369
+01:53:11,807 --> 01:53:13,274
+¿A quien le importa un comino?
+
+1370
+01:53:14,610 --> 01:53:16,077
+Bonita presentación.
+
+1371
+01:53:16,178 --> 01:53:17,975
+Pero nada de esto me involucra.
+
+1372
+01:53:19,181 --> 01:53:22,378
+Caballeros, esta reunión se terminó.
+
+1373
+01:53:22,485 --> 01:53:23,747
+Terminó.
+
+1374
+01:53:23,853 --> 01:53:25,184
+Ya nos veremos.
+
+1375
+01:53:25,288 --> 01:53:28,485
+Tiene razón. No hay nada que
+pruebe que él hizo algo.
+
+1376
+01:53:28,591 --> 01:53:29,785
+Si, en este país.
+
+1377
+01:53:29,892 --> 01:53:32,520
+Señor debería ver esto.
+
+1378
+01:53:37,933 --> 01:53:43,394
+Estas imágenes son de un archivo clasificado
+que muestra una aldea en África,
+
+1379
+01:53:43,506 --> 01:53:46,202
+que fue exterminada por el Coronel
+y sus asociados.
+
+1380
+01:53:46,309 --> 01:53:47,276
+Dios mío.
+
+1381
+01:53:47,476 --> 01:53:48,670
+Mira a tu alrededor.
+
+1382
+01:53:49,245 --> 01:53:51,372
+Este no es el Cuerno de África.
+
+1383
+01:53:51,480 --> 01:53:53,038
+Es prueba de oídas.
+
+1384
+01:53:53,149 --> 01:53:55,777
+Esta es la tierra de los libres
+y hogar de los valientes.
+
+1385
+01:53:55,885 --> 01:53:57,318
+Y estoy en libertad de irme.
+
+1386
+01:53:57,953 --> 01:53:59,750
+Coronel, su brújula moral está
+tan jodida,
+
+1387
+01:53:59,855 --> 01:54:03,791
+Que me impresionaría que se las arreglara
+para llegar al estacionamiento.
+
+1388
+01:54:03,893 --> 01:54:06,020
+A pesar de cómo me siento por esto,
+
+1389
+01:54:07,063 --> 01:54:08,553
+éstos eventos ocurrieron
+en otro país,
+
+1390
+01:54:08,664 --> 01:54:09,961
+fuera del alcance de nuestra ley.
+
+1391
+01:54:10,066 --> 01:54:12,591
+¿Eso es todo?
+¿Es lo mejor que puede hacer?
+
+1392
+01:54:12,702 --> 01:54:14,727
+No es la Corte Mundial, Sargento.
+
+1393
+01:54:15,604 --> 01:54:17,902
+Y no tengo la jurisdicción para detener
+al Coronel,
+
+1394
+01:54:18,007 --> 01:54:20,669
+por los crímenes que pudiera o no haber
+cometido en otro continente.
+
+1395
+01:54:20,776 --> 01:54:24,303
+- Señor, lo insto a reconsiderar...
+- No hay nada que considerar, hijo.
+
+1396
+01:54:27,783 --> 01:54:29,410
+Yo gano.
+
+1397
+01:54:29,518 --> 01:54:30,746
+Tu pierdes.
+
+1398
+01:54:31,487 --> 01:54:32,454
+Otra vez.
+
+1399
+01:54:34,824 --> 01:54:36,382
+Esto es ridículo.
+
+1400
+01:54:58,681 --> 01:55:02,242
+Que conste, que al igual que a ti,
+a mí tampoco me gustó como terminó esto.
+
+1401
+01:55:02,952 --> 01:55:04,852
+Pero este es el mundo en el
+que vivimos.
+
+1402
+01:55:04,954 --> 01:55:07,889
+Y la justicia no siempre prevalece.
+
+1403
+01:55:07,990 --> 01:55:08,957
+No es el salvaje oeste,
+
+1404
+01:55:09,058 --> 01:55:11,356
+donde puedes limpiar las calles
+con una arma.
+
+1405
+01:55:12,695 --> 01:55:15,528
+Aún cuando a veces, eso es
+exactamente lo que necesitas hacer.
+
+1406
+01:55:20,169 --> 01:55:22,699
+Bob Lee Swagger, eres libre de irte.
+
+1407
+01:55:26,842 --> 01:55:28,639
+Quítenle las esposas al Sargento.
+
+1408
+01:55:31,981 --> 01:55:34,211
+Diría que ese fue todo un tiro, Senador.
+
+1409
+01:55:34,316 --> 01:55:35,578
+En la cara.
+
+1410
+01:55:36,986 --> 01:55:39,216
+¿Ya escuchaste esa expresión...
+
+1411
+01:55:39,321 --> 01:55:41,619
+"No sabia si cagar
+o volverse ciego"?
+
+1412
+01:55:45,594 --> 01:55:48,825
+Debiste ver la cara
+del Procurador General.
+
+1413
+01:55:49,932 --> 01:55:54,232
+¿Dio su discurso de
+"Lo bueno de nuestro sistema"?
+
+1414
+01:55:54,336 --> 01:55:57,737
+"Esto se trata sobre evidencia
+y encontrar la verdad!"
+
+1415
+01:55:57,840 --> 01:56:00,365
+Y luego le dijiste:
+
+1416
+01:56:00,476 --> 01:56:01,773
+"¡Jódete!"
+
+1417
+01:56:02,845 --> 01:56:05,245
+"Sostenga mi cigarro, Mr. A.G."
+
+1418
+01:56:07,516 --> 01:56:08,813
+"¡Jódete!"
+
+1419
+01:56:10,586 --> 01:56:13,020
+"¡La verdad es lo que yo
+digo que es"
+
+1420
+01:56:20,095 --> 01:56:22,427
+Sabe, tiene que salir del país
+mañana.
+
+1421
+01:56:22,531 --> 01:56:24,294
+Vas a Ecuador.
+
+1422
+01:56:27,770 --> 01:56:31,365
+Bueno, tenemos problemas
+con los aldeanos.
+
+1423
+01:56:31,474 --> 01:56:35,035
+Tenemos a nuestro personal en tierra,
+listos para neutralizar el problema, pero...
+
+1424
+01:56:35,311 --> 01:56:37,006
+Bueno, lo solicitaron a Ud.
+
+1425
+01:56:38,781 --> 01:56:40,146
+Tiene solución.
+
+1426
+01:56:42,818 --> 01:56:44,012
+Te solicitaron a ti.
+
+1427
+01:56:46,355 --> 01:56:47,379
+Swagger.
+
+1428
+01:56:52,261 --> 01:56:53,319
+¡Apaga las luces!
+
+1429
+01:57:00,903 --> 01:57:01,927
+Ve por mi auto.
+
+1430
+01:57:02,104 --> 01:57:03,230
+Ve por mi auto.
+
+1431
+01:57:23,092 --> 01:57:24,059
+Haz algo.
+
+1432
+01:57:24,860 --> 01:57:26,088
+Haz algo.
+
+1433
+01:57:34,403 --> 01:57:35,529
+¿Dónde está?
+
+1434
+01:57:48,217 --> 01:57:49,343
+¡Está bajo el piso!
+
+1435
+01:58:20,149 --> 01:58:21,741
+No necesitas matarme.
+
+1436
+01:58:23,085 --> 01:58:24,712
+No necesitas matarme. Fueron ellos.
+
+1437
+01:58:25,154 --> 01:58:26,121
+Fueron ellos.
+
+1438
+01:58:28,924 --> 01:58:31,688
+¡Maldición! ¡Espera un minuto!
+
+1439
+01:58:33,896 --> 01:58:36,296
+Espera sólo un minuto. Espera.
+
+1440
+01:58:38,634 --> 01:58:42,035
+¿Estas loco?
+¿Estas completamente loco?
+
+1441
+01:58:42,137 --> 01:58:44,970
+Soy un senador
+de los Estados Unidos.
+
+1442
+01:58:45,174 --> 01:58:46,141
+Exactamente.
+

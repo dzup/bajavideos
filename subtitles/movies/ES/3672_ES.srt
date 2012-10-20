@@ -1,0 +1,6522 @@
+1
+00:00:11,442 --> 00:00:15,242
+ALGO GRACIOSO SUCEDIÓ
+CAMINO AL FORO
+
+2
+00:00:15,312 --> 00:00:19,271
+Algo familiar
+Algo peculiar
+
+3
+00:00:19,349 --> 00:00:20,976
+Algo para cada uno
+
+4
+00:00:21,051 --> 00:00:23,042
+Esta noche una comedia
+
+5
+00:00:23,120 --> 00:00:25,111
+Algo atractivo
+
+6
+00:00:25,189 --> 00:00:27,123
+Algo pasmoso
+
+7
+00:00:27,191 --> 00:00:29,159
+Algo para cada uno
+
+8
+00:00:29,226 --> 00:00:30,955
+Esta noche una comedia
+
+9
+00:00:31,028 --> 00:00:32,996
+Nada para reyes
+
+10
+00:00:33,063 --> 00:00:34,997
+Nada para coronas
+
+11
+00:00:35,065 --> 00:00:39,001
+Traigan a los amantes,
+mentirosos y payasos
+
+12
+00:00:39,069 --> 00:00:41,060
+Antiguas situaciones
+
+13
+00:00:41,138 --> 00:00:42,969
+Nuevas complicaciones
+
+14
+00:00:43,040 --> 00:00:46,737
+Nada portentoso o educado
+
+15
+00:00:46,810 --> 00:00:50,302
+Mañana la tragedia
+esta noche la comedia
+
+16
+00:00:53,851 --> 00:00:55,785
+Algo convulsivo
+
+17
+00:00:55,853 --> 00:00:57,787
+Algo repulsivo
+
+18
+00:00:57,855 --> 00:01:01,484
+Algo para cada uno
+Esta noche una comedia
+
+19
+00:01:01,558 --> 00:01:03,458
+Algo estético
+
+20
+00:01:03,527 --> 00:01:05,427
+Algo frenético
+
+21
+00:01:05,496 --> 00:01:07,521
+Algo para cada uno
+
+22
+00:01:07,598 --> 00:01:09,498
+Esta noche una comedia
+
+23
+00:01:09,566 --> 00:01:11,466
+Nada de dioses
+
+24
+00:01:11,535 --> 00:01:13,332
+Ni de destino
+
+25
+00:01:13,403 --> 00:01:17,464
+Los asuntos complicados
+tendrán que esperar
+
+26
+00:01:18,942 --> 00:01:21,206
+Nuestros personajes principales viven...
+
+27
+00:01:22,279 --> 00:01:24,304
+en esta calle...
+
+28
+00:01:24,381 --> 00:01:28,340
+en estas tres casas de un suburbio
+menos moderno de Roma.
+
+29
+00:01:29,419 --> 00:01:31,387
+Primero, la casa de Erronius.
+
+30
+00:01:31,455 --> 00:01:34,856
+Un viejo perplejo que ahora está
+en el extranjero buscando a sus hijos...
+
+31
+00:01:34,925 --> 00:01:37,359
+que los piratas robaron
+en su infancia.
+
+32
+00:01:37,427 --> 00:01:40,954
+Algo errático
+Algo dramático
+
+33
+00:01:41,031 --> 00:01:45,058
+Algo para cada uno
+Esta noche una comedia
+
+34
+00:01:45,135 --> 00:01:47,103
+Segundo, la casa de Lycus...
+
+35
+00:01:47,171 --> 00:01:50,299
+quien compra y vende
+la carne de mujeres hermosas.
+
+36
+00:01:50,374 --> 00:01:53,571
+Para aquellos que no tienen
+absolutamente ningún interés en piratas.
+
+37
+00:01:53,644 --> 00:01:55,669
+Algo para cada uno.
+
+38
+00:01:55,746 --> 00:01:57,737
+Esta noche una comedia
+
+39
+00:01:57,814 --> 00:02:01,011
+Y finalmente, la casa de Senex...
+
+40
+00:02:01,084 --> 00:02:02,745
+que vive aquí
+con su esposa y su hijo.
+
+41
+00:02:02,819 --> 00:02:05,913
+También en esta casa vive Pseudolus,
+esclavo de su hijo.
+
+42
+00:02:05,989 --> 00:02:08,822
+Probablemente Pseudolus sea
+mi personaje favorito en esta obra...
+
+43
+00:02:08,892 --> 00:02:11,258
+un papel de enorme variedad y matiz...
+
+44
+00:02:11,328 --> 00:02:13,558
+interpretado por un actor
+de tal versatilidad...
+
+45
+00:02:13,630 --> 00:02:15,564
+tal magnífica amplitud, tal--
+
+46
+00:02:15,632 --> 00:02:18,601
+Digámoslo de este modo:
+Yo interpreto el papel.
+
+47
+00:02:19,336 --> 00:02:20,826
+Algo familiar
+
+48
+00:02:20,904 --> 00:02:22,872
+Algo peculiar
+
+49
+00:02:22,940 --> 00:02:26,603
+Algo para cada uno
+Esta noche una comedia
+
+50
+00:02:26,677 --> 00:02:28,542
+Algo ajeno
+
+51
+00:02:28,612 --> 00:02:30,375
+Algo obsceno
+
+52
+00:02:30,447 --> 00:02:34,178
+Algo para el gusto de cada uno
+
+53
+00:02:34,251 --> 00:02:36,014
+Túnicas y mamelucos
+
+54
+00:02:36,086 --> 00:02:37,883
+Cortesanas y eunucos
+
+55
+00:02:37,955 --> 00:02:39,752
+Funerales y persecuciones
+
+56
+00:02:39,823 --> 00:02:41,688
+Barítonos y funciones
+
+57
+00:02:41,758 --> 00:02:43,282
+- Piropos
+- Filántropos
+
+58
+00:02:43,360 --> 00:02:45,123
+Avidez, timidez
+
+59
+00:02:45,195 --> 00:02:47,186
+Errores, falsedades, rimas, tarimas
+
+60
+00:02:47,264 --> 00:02:49,164
+Aniquiladores, corredores,
+chapuceros, oradores
+
+61
+00:02:49,233 --> 00:02:51,098
+Ninguna real tramoya
+
+62
+00:02:51,168 --> 00:02:52,533
+Ningún Caballo de Troya
+
+63
+00:02:52,603 --> 00:02:55,470
+Y con un final feliz
+
+64
+00:02:55,539 --> 00:02:58,599
+Por supuesto
+Bondad y maldad
+
+65
+00:02:58,675 --> 00:03:00,370
+El hombre en su locura
+
+66
+00:03:00,444 --> 00:03:04,107
+Esta vez todo resulta bien
+
+67
+00:03:04,181 --> 00:03:05,978
+Mañana tragedia
+
+68
+00:03:06,049 --> 00:03:10,816
+Esta noche
+
+69
+00:03:10,887 --> 00:03:16,120
+Comedia
+
+70
+00:03:18,362 --> 00:03:20,728
+- Abran paso a Senex.
+- ¡Arriba! ¡Rápido!
+
+71
+00:03:22,299 --> 00:03:25,598
+- Sigamos.
+- ¿Por qué paramos? Apúrate.
+
+72
+00:03:25,669 --> 00:03:28,433
+Mis queridos y nobles vecinos,
+mis disculpas más profundas.
+
+73
+00:03:28,505 --> 00:03:33,306
+Desde que somos vecinos, he sido
+negligente al no presentar mis respetos.
+
+74
+00:03:33,377 --> 00:03:36,642
+Sin embargo, es nuestra semana inaugural
+y ya saben lo que eso significa.
+
+75
+00:03:36,713 --> 00:03:39,841
+Yo no lo sé. ¡Adelante!
+
+76
+00:03:40,584 --> 00:03:43,985
+Ya está bien.
+No te quedes parado. ¡Muévete!
+
+77
+00:03:45,589 --> 00:03:49,116
+Un vulgar comerciante en carne
+en la casa vecina. Repugnante.
+
+78
+00:03:49,192 --> 00:03:52,753
+Una desgracia. Toda esa carne
+escandalosa, justo al lado.
+
+79
+00:03:52,829 --> 00:03:54,490
+Abran paso a la casa de Senex.
+
+80
+00:03:54,564 --> 00:03:57,158
+- Salve, Senex. Espera.
+- Espera.
+
+81
+00:03:57,234 --> 00:04:00,533
+¿No es Pseudolus, su esclavo?
+Desfilaba como ciudadano.
+
+82
+00:04:00,604 --> 00:04:04,040
+Créame, señora, no estaba desfilando.
+Estaba caminando...
+
+83
+00:04:04,107 --> 00:04:06,803
+humildemente, como un esclavo.
+
+84
+00:04:06,877 --> 00:04:08,936
+Nos invitó a jugar con él.
+En cosa de momentos...
+
+85
+00:04:09,012 --> 00:04:11,276
+- nos ganó nueve minas con trampa.
+- ¿Nueve? Tomé siete.
+
+86
+00:04:11,348 --> 00:04:12,440
+Devuelve nueve.
+
+87
+00:04:12,516 --> 00:04:15,713
+Una, dos, tres, cuatro--
+
+88
+00:04:15,786 --> 00:04:18,448
+Me están estafando el dinero
+que gané limpiamente.
+
+89
+00:04:19,289 --> 00:04:21,280
+- Siete, ocho--
+- ¿Qué pasó con 5 y 6?
+
+90
+00:04:21,358 --> 00:04:24,486
+- Ya vienen. Nueve, cinco, seis.
+- Gracias, ciudadanos.
+
+91
+00:04:24,561 --> 00:04:26,358
+No teman. Será castigado.
+
+92
+00:04:26,430 --> 00:04:28,364
+Adiós.
+
+93
+00:04:30,701 --> 00:04:34,364
+- Ahora...
+- Ya sé. Me deben azotar, gentilmente.
+
+94
+00:04:34,438 --> 00:04:36,998
+Sin embargo, gran señora,
+mis intenciones era muy nobles.
+
+95
+00:04:37,074 --> 00:04:40,134
+Al saber que iba a visitar a su querida
+madre-- que los dioses la bendigan--
+
+96
+00:04:40,210 --> 00:04:42,804
+quería comprar un recuerdo apropiado.
+
+97
+00:04:42,879 --> 00:04:45,211
+Alguna esencia para el baño,
+una lanza nueva.
+
+98
+00:04:45,282 --> 00:04:47,409
+Cincuenta latigazos más por mentir.
+
+99
+00:04:47,484 --> 00:04:49,418
+Estás haciendo
+lo que siempre haces.
+
+100
+00:04:49,486 --> 00:04:51,750
+Buscas dinero
+para comprar tu libertad.
+
+101
+00:04:51,822 --> 00:04:55,223
+¿Libertad? Señora,
+¿quién querría estar libre de Ud.?
+
+102
+00:04:55,292 --> 00:04:57,988
+- De verdad.
+- ¿Hysterium?
+
+103
+00:04:58,061 --> 00:05:01,053
+- ¿Me llama, mi señora?
+- Esclavo Jefe...
+
+104
+00:05:01,131 --> 00:05:03,725
+arrastra a este hombre a la casa
+y azótalo sin piedad.
+
+105
+00:05:03,800 --> 00:05:05,825
+- Seré brutal.
+- Bien.
+
+106
+00:05:05,902 --> 00:05:08,735
+Suban. Vamos a comprar
+nuestra esclava reproductora.
+
+107
+00:05:08,805 --> 00:05:12,104
+Encárgate de él, Hysterium,
+mi esclavo de esclavos.
+
+108
+00:05:12,175 --> 00:05:14,405
+Vivo para rebajarme.
+
+109
+00:05:14,478 --> 00:05:17,311
+Lo azotaré hasta hacerlo pulpa.
+Gastaré ocho látigos.
+
+110
+00:05:17,381 --> 00:05:20,043
+Los hombres fuertes palidecerán.
+Mi brazo s--
+
+111
+00:05:23,553 --> 00:05:26,920
+Vengan para acá, señores.
+Son todas de Galia.
+
+112
+00:05:27,824 --> 00:05:30,054
+¡Usted, señor! Y usted.
+
+113
+00:05:30,127 --> 00:05:32,595
+Vengan acá.
+Todas recién llegadas.
+
+114
+00:05:32,662 --> 00:05:35,358
+Sólo un dueño.
+No pierdan mi tiempo. Sólo estoy aquí--
+
+115
+00:05:37,134 --> 00:05:40,626
+Prueben a Fertila la Populadora.
+Ciento cincuenta kilos de carne fértil.
+
+116
+00:05:40,704 --> 00:05:43,639
+Ha producido
+18 pequeños esclavos sanos...
+
+117
+00:05:43,707 --> 00:05:47,040
+y es capaz de producir 18 más.
+
+118
+00:05:49,045 --> 00:05:50,603
+No se arrepentirá.
+
+119
+00:05:55,318 --> 00:05:59,618
+Cuando diga ahora, sólo quiero
+cuatro aquí y nada más. Vengan conmigo.
+
+120
+00:06:01,558 --> 00:06:04,823
+Ya deberíamos irnos.
+¡Senex!
+
+121
+00:06:09,232 --> 00:06:12,998
+Ahí estás.
+Y ahí estoy yo.
+
+122
+00:06:13,069 --> 00:06:15,799
+Un regalo para mi madre
+en el aniversario de su nacimiento.
+
+123
+00:06:15,872 --> 00:06:18,397
+Ciento cuatro años
+y sin ningún órgano sano.
+
+124
+00:06:18,475 --> 00:06:21,569
+- ¿Crees que le gustará?
+- La mano de obra es magnífica.
+
+125
+00:06:21,645 --> 00:06:23,806
+- ¿Y el parecido?
+- Da miedo.
+
+126
+00:06:23,880 --> 00:06:28,010
+Nos vamos. Hysterium, éstas son
+las últimas instrucciones de mi esposo.
+
+127
+00:06:28,084 --> 00:06:31,349
+Cuidar a nuestro hijo Hero.
+Mantenerlo alegre, bien alimentado...
+
+128
+00:06:31,421 --> 00:06:33,616
+y lejos del sexo opuesto.
+
+129
+00:06:33,690 --> 00:06:35,282
+Pero alguna vez debe aprender.
+
+130
+00:06:35,358 --> 00:06:38,885
+Y cuando llegue ese momento,
+le enseñarás-- lo poco que sabes.
+
+131
+00:06:38,962 --> 00:06:42,591
+Más que nada, no dejes que sus ojos
+se desvíen a esa casa del lado.
+
+132
+00:06:42,666 --> 00:06:44,600
+Te hago completamente responsable.
+
+133
+00:06:44,668 --> 00:06:46,829
+Antes que decepcionarla,
+preferiría morir.
+
+134
+00:06:46,903 --> 00:06:48,996
+- Eso es lo que tenía en mente.
+- Y además...
+
+135
+00:06:49,072 --> 00:06:51,336
+- Nos vamos.
+- Nos vamos.
+
+136
+00:06:51,408 --> 00:06:55,242
+Vamos, Senex,
+y lleva con orgullo mi busto.
+
+137
+00:06:55,312 --> 00:06:57,246
+Sí, querida.
+
+138
+00:06:57,314 --> 00:06:59,976
+Una lección que aprender: Nunca
+te enamores durante un eclipse total.
+
+139
+00:07:00,050 --> 00:07:01,449
+Gracias, señor.
+
+140
+00:07:02,519 --> 00:07:03,952
+¿Dónde está Hero?
+
+141
+00:07:04,020 --> 00:07:06,614
+Creo que está en su cuarto,
+estudiando con su tutor.
+
+142
+00:07:06,690 --> 00:07:10,922
+"El sol y la luna
+giran alrededor de la tierra...
+
+143
+00:07:10,994 --> 00:07:13,724
+igual que los cuatro planetas.
+
+144
+00:07:13,797 --> 00:07:18,825
+Encima de todo, hay una gran pelota azul
+que es el cielo.
+
+145
+00:07:18,902 --> 00:07:22,497
+- Hay muchas estrellas--"
+- "Capaz de un gran placer curioso...
+
+146
+00:07:22,572 --> 00:07:26,702
+entre ellos el roce suave
+de una flor en una piel temblorosa--"
+
+147
+00:07:26,776 --> 00:07:29,836
+"Los astrónomos egipcios han nombrado
+muchas estrellas.
+
+148
+00:07:29,913 --> 00:07:35,044
+Y hemos desarrollado nuestro moderno
+sistema de astronomía de los griegos...
+
+149
+00:07:35,118 --> 00:07:38,485
+quienes, como sabes,
+eran unos pobres eruditos.
+
+150
+00:07:39,890 --> 00:07:43,758
+La tierra es una plataforma plana
+de suelo--"
+
+151
+00:07:43,827 --> 00:07:46,057
+Llévale este mensaje a mi amor...
+
+152
+00:07:46,129 --> 00:07:48,757
+a ella que ha cautivado mi corazón.
+
+153
+00:07:56,339 --> 00:07:59,206
+Esa mujer reproductora--
+¿ya se le dio una pareja?
+
+154
+00:07:59,276 --> 00:08:03,303
+Qué pena, rechaza a cualquier esclavo.
+Exige escogerlos.
+
+155
+00:08:03,380 --> 00:08:07,248
+¿Escoger? Reproducirá y le gustará como
+a todos los demás. Bueno, a casi todos.
+
+156
+00:08:07,317 --> 00:08:09,547
+Ciudadanos,
+pillamos al esclavo prófugo.
+
+157
+00:08:09,619 --> 00:08:11,746
+Ahora se atreve a desafiar
+nuestro derecho a ejecutarlo.
+
+158
+00:08:11,821 --> 00:08:14,517
+Porque soy esclavo de una familia.
+¿Para qué pertenecer a una familia...
+
+159
+00:08:14,591 --> 00:08:16,525
+si te van a ejecutar unos extraños?
+
+160
+00:08:16,593 --> 00:08:18,686
+Tiene toda la razón.
+Lo vamos a torturar.
+
+161
+00:08:18,762 --> 00:08:20,423
+¿Ven cómo se preocupan por mí?
+
+162
+00:08:20,497 --> 00:08:22,761
+Frena la lengua.
+Gracias, agente.
+
+163
+00:08:24,334 --> 00:08:26,427
+Bueno, ¿qué podemos inventar?
+
+164
+00:08:26,503 --> 00:08:28,733
+Algo apropiado y prolongado.
+
+165
+00:08:28,805 --> 00:08:30,568
+- ¿Puedo sugerir...?
+- No puedes.
+
+166
+00:08:30,640 --> 00:08:33,040
+- Cuelguen al pobre infeliz y listo.
+- Colgarlo es demasiado bueno para él.
+
+167
+00:08:33,109 --> 00:08:35,339
+- Demasiado bueno.
+- ¿De los pies?
+
+168
+00:08:35,412 --> 00:08:37,004
+Eso no duele mucho.
+
+169
+00:08:37,080 --> 00:08:39,742
+Colgado de los pies cabeza abajo
+mientras lo azotan.
+
+170
+00:08:39,816 --> 00:08:41,807
+- Odian eso.
+- Es para odiarlo.
+
+171
+00:08:41,885 --> 00:08:45,514
+Mi querida señora, si sugiero que
+tratemos de hallar algún otro método...
+
+172
+00:08:45,589 --> 00:08:49,047
+es porque sucede que soy completamente
+impermeable al dolor físico...
+
+173
+00:08:49,125 --> 00:08:52,993
+y no puedo soportar pensar
+en arruinar su placer.
+
+174
+00:08:56,066 --> 00:08:58,330
+Pensé que eras completamente
+impermeable al dolor.
+
+175
+00:08:58,401 --> 00:08:59,891
+No el mío.
+
+176
+00:08:59,970 --> 00:09:02,564
+¿Te gusta?
+
+177
+00:09:02,639 --> 00:09:04,300
+- Me gusta.
+- Es tuyo.
+
+178
+00:09:04,374 --> 00:09:07,002
+Felicitaciones, Pseudolus.
+Te salvaron la vida.
+
+179
+00:09:07,077 --> 00:09:09,910
+Que sea larga, saludable y productiva.
+
+180
+00:09:09,980 --> 00:09:13,973
+Productiva como reproductor.
+Ahórquenme.
+
+181
+00:09:14,050 --> 00:09:17,019
+Esta es tu casa. Ven, ven.
+
+182
+00:09:17,087 --> 00:09:21,148
+Ven cualquier día, querido vecino.
+No hay obligación de comprar.
+
+183
+00:09:21,224 --> 00:09:23,852
+Sólo entra y mira.
+
+184
+00:09:25,095 --> 00:09:27,086
+Aléjate de esa casa de vergüenza.
+
+185
+00:09:27,163 --> 00:09:30,758
+Sólo estaba aquí parado diciendo:
+"Qué vergüenza, qué vergüenza".
+
+186
+00:09:32,902 --> 00:09:36,463
+Por tu propio bien, Hysterium,
+cuida a Hero.
+
+187
+00:09:59,763 --> 00:10:01,958
+¿Qué te trae por acá arriba?
+
+188
+00:10:03,133 --> 00:10:06,159
+- Estaba tratando de ir--
+- ¿Ahí dentro?
+
+189
+00:10:06,236 --> 00:10:08,431
+Nunca debes saber
+lo que pasa en esa casa.
+
+190
+00:10:08,505 --> 00:10:10,837
+- Pero lo sé.
+- ¿Lo sabes?
+
+191
+00:10:10,907 --> 00:10:13,671
+¿No es asombroso?
+
+192
+00:10:13,743 --> 00:10:15,643
+¡Pseudolus, estoy enamorado!
+
+193
+00:10:15,712 --> 00:10:18,704
+Bueno, eso es muy--
+¿Enamorado? ¿Tú?
+
+194
+00:10:18,782 --> 00:10:20,545
+¿Quién es ella?
+
+195
+00:10:20,617 --> 00:10:23,085
+A veces la puedes ver
+en esa ventana.
+
+196
+00:10:23,153 --> 00:10:26,122
+¿Una vulgar cortesana
+de la casa de Lycus?
+
+197
+00:10:26,189 --> 00:10:27,747
+¿Es eso deshonroso?
+
+198
+00:10:27,824 --> 00:10:29,985
+No hay manera que se pueda decir
+como un logro.
+
+199
+00:10:30,060 --> 00:10:33,496
+No me importa.
+Daré todo por ella. Todo.
+
+200
+00:10:33,563 --> 00:10:36,088
+¿Realmente amas a esa chica?
+
+201
+00:10:36,166 --> 00:10:39,829
+Me gusta como lo dijiste.
+Amo Hero, no puedes comprarla.
+
+202
+00:10:39,903 --> 00:10:42,371
+A tu edad,
+no está permitido que la compres.
+
+203
+00:10:42,439 --> 00:10:45,533
+Pero suponte que alguien
+con una tremenda astucia y maña...
+
+204
+00:10:45,608 --> 00:10:48,042
+- pudiera arreglar para que fuera tuya.
+- Sí.
+
+205
+00:10:48,111 --> 00:10:51,205
+Si ese alguien pudiera arreglarlo,
+¿qué me darías?
+
+206
+00:10:51,281 --> 00:10:53,875
+Te daría todo lo que tengo.
+
+207
+00:10:53,950 --> 00:10:58,284
+¿Pero qué tienes? Veinte minas,
+una colección de conchas y yo.
+
+208
+00:10:58,354 --> 00:11:01,915
+- Sí.
+- Olvídate de las minas y las conchas.
+
+209
+00:11:01,991 --> 00:11:03,925
+Sólo dame a mí.
+
+210
+00:11:03,993 --> 00:11:06,689
+- ¿Darte a ti?
+- Mi libertad.
+
+211
+00:11:06,763 --> 00:11:10,722
+Pseudolus, la gente no anda por ahí
+liberando esclavos todos los días.
+
+212
+00:11:10,800 --> 00:11:13,234
+Sé el primero.
+Empieza una moda.
+
+213
+00:11:14,204 --> 00:11:17,537
+- Consígueme esa chica.
+- ¿Y si lo hago?
+
+214
+00:11:18,441 --> 00:11:21,103
+- Eres libre.
+- ¿Soy qué?
+
+215
+00:11:22,746 --> 00:11:25,772
+- Libre.
+- ¡Libre!
+
+216
+00:11:40,263 --> 00:11:42,993
+Te lo he dicho una y mil veces.
+
+217
+00:11:43,066 --> 00:11:45,398
+¡No abaniques a las chicas
+cuando están mojadas!
+
+218
+00:11:45,468 --> 00:11:48,232
+Pero nunca aprenderás.
+Toda tu vida serás eunuco.
+
+219
+00:12:13,730 --> 00:12:16,426
+Conozco ese sonido y me encanta.
+
+220
+00:12:18,635 --> 00:12:21,195
+¡Tú! ¿Cómo te llegó dinero?
+
+221
+00:12:21,271 --> 00:12:22,932
+Una herencia inesperada.
+
+222
+00:12:23,006 --> 00:12:25,804
+Mi tío Simo, el famoso criador
+cartaginés de elefantes...
+
+223
+00:12:25,875 --> 00:12:27,866
+tuvo un final inesperado.
+
+224
+00:12:27,944 --> 00:12:31,209
+Fue despedazado el último día
+de la época de apareamiento.
+
+225
+00:12:31,281 --> 00:12:33,215
+Esta mañana compré mi libertad.
+
+226
+00:12:33,283 --> 00:12:35,717
+Felicitaciones, ciudadano.
+
+227
+00:12:35,785 --> 00:12:39,084
+Con esto que me quedó
+para una indulgencia mayor...
+
+228
+00:12:39,155 --> 00:12:42,556
+Lycus, quiero comprar
+una compañera para toda la vida.
+
+229
+00:12:42,625 --> 00:12:44,058
+Te diré sin falsa modestia...
+
+230
+00:12:44,127 --> 00:12:48,530
+que aquí hay un surtido
+de bellezas inigualables y...
+
+231
+00:12:48,598 --> 00:12:50,532
+- ¿Quién es?
+- Mi antiguo y joven amo.
+
+232
+00:12:50,600 --> 00:12:52,693
+Lo traje para que avanzara
+en su educación.
+
+233
+00:12:52,769 --> 00:12:56,205
+Está aburrido con libros de dibujos.
+Comprenderás.
+
+234
+00:12:56,272 --> 00:12:58,001
+¿Quién mejor que yo?
+
+235
+00:12:58,074 --> 00:13:01,339
+Ven, niñito, ¿quieres?
+
+236
+00:13:01,411 --> 00:13:04,005
+¡Eunucos!
+¡Rápidamente! ¡Un comprador!
+
+237
+00:13:14,490 --> 00:13:16,481
+¿Fue el 1 un buen año?
+
+238
+00:13:16,559 --> 00:13:19,494
+Y ahora para tu segura aprobación
+y posible compra...
+
+239
+00:13:19,562 --> 00:13:21,496
+desde el este,
+con la cara de un ídolo...
+
+240
+00:13:21,564 --> 00:13:24,897
+los brazos de un sauce,
+la pelvis de un camello...
+
+241
+00:13:24,968 --> 00:13:27,095
+Tintinábula.
+
+242
+00:14:09,145 --> 00:14:11,705
+- ¿Era ésta?
+- No.
+
+243
+00:14:12,615 --> 00:14:15,584
+¿No tienes a alguna
+un poco menos ruidosa?
+
+244
+00:14:15,652 --> 00:14:17,586
+Sí.
+
+245
+00:14:17,654 --> 00:14:21,283
+Vibrata, una flor del desierto
+de belleza indescriptible.
+
+246
+00:14:21,357 --> 00:14:23,917
+Ligera como una tigresa,
+hermosa como un flamenco...
+
+247
+00:14:23,993 --> 00:14:26,553
+- para el hombre interesado en animales.
+- Gracias.
+
+248
+00:15:13,009 --> 00:15:17,503
+Francamente, esperaba sobrevivir
+mi noche de bodas. Parece un poco muy--
+
+249
+00:15:17,580 --> 00:15:19,707
+No importa. Entiendo.
+
+250
+00:15:19,782 --> 00:15:22,649
+Considera las Géminis,
+un par perfecto.
+
+251
+00:15:22,719 --> 00:15:24,311
+Mírenlas, señores.
+
+252
+00:15:24,387 --> 00:15:26,321
+Cualquiera de ellas,
+una mujer construida divinamente...
+
+253
+00:15:26,389 --> 00:15:30,348
+juntas, un número infinito
+de posibilidades matemáticas.
+
+254
+00:15:54,317 --> 00:15:58,378
+Soy un hombre de medios limitados
+y supongo que no querrás romper el par.
+
+255
+00:15:58,454 --> 00:16:00,684
+Bueno, no podría.
+Comprenderás--
+
+256
+00:16:00,757 --> 00:16:03,749
+Completamente. Continúa...
+
+257
+00:16:03,826 --> 00:16:05,316
+y continúa y continúa...
+
+258
+00:16:05,395 --> 00:16:08,330
+y continúa y continúa y continúa--
+
+259
+00:16:08,398 --> 00:16:10,491
+¡Basta! Sé lo que quieres.
+
+260
+00:16:10,566 --> 00:16:13,000
+¡Mirad! Panacea.
+
+261
+00:16:13,069 --> 00:16:16,698
+Panacea, cuyo rostro contiene
+mil promesas...
+
+262
+00:16:16,773 --> 00:16:19,207
+y un cuerpo que confirma
+cada promesa.
+
+263
+00:16:59,215 --> 00:17:01,775
+No me interpretes mal.
+Son las proporciones.
+
+264
+00:17:01,851 --> 00:17:03,785
+Me encanta el ancho.
+Es el largo.
+
+265
+00:17:03,853 --> 00:17:06,720
+Y puede tener el largo adecuado,
+¿pero está bien para mí?
+
+266
+00:17:06,789 --> 00:17:09,587
+¿Me entiendes?
+¿No es un poco baja?
+
+267
+00:17:09,659 --> 00:17:12,219
+- Definitivamente no.
+- ¿Demasiado alta?
+
+268
+00:17:12,295 --> 00:17:14,456
+No. De esa forma
+juntos están perfectos.
+
+269
+00:17:14,530 --> 00:17:17,727
+Sí, ¿pero cuán frecuentemente
+nos vamos a hallar en esta posición?
+
+270
+00:17:17,800 --> 00:17:19,825
+No hay necesidad de comprometerse.
+
+271
+00:17:21,437 --> 00:17:22,734
+Mi último ofrecimiento:
+
+272
+00:17:22,805 --> 00:17:25,239
+Gymnasia, la Mujer Silenciosa.
+
+273
+00:17:25,308 --> 00:17:28,471
+Un escenario gigante donde
+se pueden realizar miles de dramas.
+
+274
+00:17:44,260 --> 00:17:45,921
+¿Realmente puedes hablar con ella?
+
+275
+00:17:45,995 --> 00:17:48,964
+De niño tuve una enfermera
+de la lsla de las Mujeres Silenciosas.
+
+276
+00:17:50,399 --> 00:17:54,199
+- ¿Me devolverías el pie, por favor?
+- Pobre niñito.
+
+277
+00:17:54,270 --> 00:17:57,330
+- ¿Sí, querido?
+- ¿Quieres tu libertad?
+
+278
+00:17:58,474 --> 00:18:01,841
+- Más que nunca. Me la llevo.
+- No es ésa.
+
+279
+00:18:01,911 --> 00:18:05,506
+Pero la tuya no está aquí.
+No está bien salir sin comprar nada.
+
+280
+00:18:05,581 --> 00:18:08,209
+- Quiero mi--
+- Señores, si van a pelear...
+
+281
+00:18:08,284 --> 00:18:10,218
+háganlo en un lugar
+de menos carácter.
+
+282
+00:18:10,286 --> 00:18:12,618
+Conozco su tipo-- compradores.
+
+283
+00:18:12,688 --> 00:18:16,556
+No las toquen al salir.
+Cada marquita se nota. ¡Cortesanas!
+
+284
+00:18:16,626 --> 00:18:19,686
+Vuelvan a sus aposentos. Volveré para
+guiarlas en sus oraciones del mediodía.
+
+285
+00:18:19,762 --> 00:18:21,696
+Muévanse. Oye, ¿te importa?
+¡Fuera!
+
+286
+00:18:21,764 --> 00:18:23,891
+¡Por favor! ¡Rápido! ¡Salgan!
+Los dos. ¡Váyanse!
+
+287
+00:18:23,966 --> 00:18:26,560
+- ¡Rápido! ¡Salgan!
+- ¡Allí está!
+
+288
+00:18:26,636 --> 00:18:28,331
+- ¿Quién? ¿Qué?
+- Un momento.
+
+289
+00:18:28,404 --> 00:18:30,770
+¿No acabo de ver una cabeza dorada
+con un par de ojos azul del cielo...
+
+290
+00:18:30,840 --> 00:18:32,398
+asomándose en tu balcón?
+
+291
+00:18:32,475 --> 00:18:35,171
+Ah, ésa.
+Acaba de llegar de Creta. Una virgen.
+
+292
+00:18:35,244 --> 00:18:37,178
+- Una virgen.
+- ¿Es bueno eso?
+
+293
+00:18:38,381 --> 00:18:41,145
+- Sólo hoy se vendió.
+- ¿Se vendió?
+
+294
+00:18:41,217 --> 00:18:44,186
+¡Entonces recibe, oh, pecho mío,
+la cuchillada fatal!
+
+295
+00:18:45,254 --> 00:18:47,518
+Compórtate.
+
+296
+00:18:47,590 --> 00:18:51,048
+- Fue vendida.
+- A los agentes de un capitán romano.
+
+297
+00:18:51,127 --> 00:18:53,186
+- Hoy mismo la viene a buscar.
+- ¿Hoy?
+
+298
+00:18:53,262 --> 00:18:54,854
+Vale 500 minas.
+
+299
+00:18:54,931 --> 00:18:58,367
+- Entonces recibe, oh pecho mío, mi--
+- Olvídate de tu pecho.
+
+300
+00:18:58,434 --> 00:19:01,028
+- ¿Dices que acaba de llegar de Creta?
+- Sí.
+
+301
+00:19:01,103 --> 00:19:05,335
+Espero que el gran capitán sea bondadoso
+con ella. Merece algo de afecto antes--
+
+302
+00:19:05,408 --> 00:19:06,875
+Trágico, ¿no es cierto?
+
+303
+00:19:06,943 --> 00:19:09,411
+¿Qué? ¿Qué es trágico?
+
+304
+00:19:09,478 --> 00:19:11,503
+- Las noticias de Creta.
+- ¿Qué noticias?
+
+305
+00:19:11,581 --> 00:19:14,414
+¿Por qué debería ensombrecer tu día?
+Adiós, Lycus.
+
+306
+00:19:14,483 --> 00:19:16,383
+- ¿Cuáles son las noticias?
+- ¿Qué noticias?
+
+307
+00:19:16,452 --> 00:19:19,512
+- ¡Las noticias de Creta!
+- Me obligas a decírtelo.
+
+308
+00:19:19,589 --> 00:19:21,614
+Creta está siendo arrasada
+por una tremenda plaga.
+
+309
+00:19:21,691 --> 00:19:23,682
+La gente está muriendo por miles.
+
+310
+00:19:23,759 --> 00:19:26,489
+Pero esta chica está sana.
+Pasa sonriendo todo el día.
+
+311
+00:19:26,562 --> 00:19:29,622
+No lo está. Cuando empiezan a sonreír,
+el final está cerca.
+
+312
+00:19:29,699 --> 00:19:30,723
+- No.
+- Sí.
+
+313
+00:19:30,800 --> 00:19:34,930
+Me dijeron que ahora en Creta está
+maravilloso. Todos yacen sonriendo.
+
+314
+00:19:35,004 --> 00:19:37,097
+¿Es contagioso?
+
+315
+00:19:37,173 --> 00:19:40,939
+- ¿Has visto alguna plaga que no lo sea?
+- ¿Y mis otras chicas?
+
+316
+00:19:41,010 --> 00:19:42,910
+- ¡Lo mejor es que la saques de aquí!
+- Sí.
+
+317
+00:19:42,979 --> 00:19:44,606
+Sí, pero ¿adónde? ¿Cómo?
+
+318
+00:19:44,680 --> 00:19:46,944
+-La cuidaré hasta que llegue el capitán.
+-Sí.
+
+319
+00:19:47,016 --> 00:19:51,112
+Regio. lré a buscarla.
+¿Por qué ibas a arriesgar...?
+
+320
+00:19:51,187 --> 00:19:55,886
+Porque ya he tenido la plaga.
+Te contaría todo sobre eso, pero...
+
+321
+00:19:55,958 --> 00:19:58,483
+No lo hagas. No, iré a buscarla.
+No te vayas.
+
+322
+00:19:59,295 --> 00:20:01,593
+¡Pseudolus, voy a estar con ella!
+
+323
+00:20:01,664 --> 00:20:04,792
+-Hasta que el capitán llegue a mediodía.
+-Sí.
+
+324
+00:20:04,867 --> 00:20:06,300
+- Espera.
+- ¿Sí?
+
+325
+00:20:06,369 --> 00:20:08,303
+- Una idea brillante.
+- ¡Sí!
+
+326
+00:20:08,371 --> 00:20:10,464
+Eso es lo que necesitamos.
+Una idea brillante.
+
+327
+00:20:10,539 --> 00:20:12,473
+¡Ve! ¡Muévete!
+
+328
+00:20:12,541 --> 00:20:14,907
+Chica, no toques esa columna. ¡Vete!
+
+329
+00:20:14,977 --> 00:20:17,571
+Cuidado con tu respiración.
+Aspira solamente. Vete.
+
+330
+00:20:19,248 --> 00:20:22,183
+Oh, Pseudolus, qué bueno eres,
+y nunca olvidaré esto.
+
+331
+00:20:22,251 --> 00:20:26,483
+Algún día te voy a recompensar, porque
+tú, Pseudolus, eres un amigo de verdad.
+
+332
+00:20:26,555 --> 00:20:29,718
+Y tú, Lycus, eres un caballero
+y un procurador.
+
+333
+00:20:40,336 --> 00:20:42,270
+- Al jardín y a dar las noticias.
+- ¿Qué noticias?
+
+334
+00:20:42,338 --> 00:20:45,398
+- Que te escapas para casarte con ella.
+- Pero, ¿no me contagiaré con la plaga?
+
+335
+00:20:45,474 --> 00:20:48,136
+No hay plaga. lnventamos eso
+para poder sacarla de aquí.
+
+336
+00:20:48,210 --> 00:20:50,144
+- Eso fue muy listo de nuestra parte.
+- ¿No es cierto?
+
+337
+00:20:50,212 --> 00:20:54,046
+lré de prisa a la bahía para alquilar
+un barco. Ve tú rápido al jardín.
+
+338
+00:20:54,116 --> 00:20:56,311
+Tú vas rápido...
+
+339
+00:20:56,385 --> 00:20:58,182
+y yo iré de prisa.
+
+340
+00:20:58,254 --> 00:21:00,188
+Buena suerte.
+
+341
+00:21:10,533 --> 00:21:13,001
+- Me llamo Hero.
+- Me llamo Philia.
+
+342
+00:21:18,974 --> 00:21:22,705
+- Te he visto a menudo.
+- Yo también te he visto a menudo.
+
+343
+00:21:22,778 --> 00:21:24,939
+Te he visto desvestirte
+por la noche.
+
+344
+00:21:25,014 --> 00:21:28,643
+Sólo de la cintura para arriba.
+Es una ventana muy alta.
+
+345
+00:21:28,718 --> 00:21:32,279
+- Tienes lindas piernas.
+- ¿Qué?
+
+346
+00:21:34,023 --> 00:21:36,082
+Bueno, tú también.
+
+347
+00:21:36,158 --> 00:21:38,126
+Quiero decir que me lo imagino.
+
+348
+00:21:38,194 --> 00:21:40,492
+Te las mostraría,
+pero están vendidas.
+
+349
+00:21:40,563 --> 00:21:43,896
+Valgo 500 minas.
+
+350
+00:21:43,966 --> 00:21:45,900
+- ¿Es mucho dinero?
+- Sí.
+
+351
+00:21:45,968 --> 00:21:49,369
+- ¿Más de trescientos?
+- Casi el doble.
+
+352
+00:21:49,438 --> 00:21:52,498
+Tres y cinco.
+Siempre me confunden.
+
+353
+00:21:52,575 --> 00:21:55,408
+Espero que el capitán
+no espere que haga muchas sumas.
+
+354
+00:21:55,478 --> 00:21:57,412
+¿No sabes sumar?
+
+355
+00:21:57,480 --> 00:22:00,040
+Nos enseñan encanto y gracia
+y nada más.
+
+356
+00:22:00,116 --> 00:22:03,882
+No sé sumar ni deletrear ni nada.
+
+357
+00:22:03,953 --> 00:22:06,012
+Sólo tengo un talento.
+
+358
+00:22:06,088 --> 00:22:09,615
+Soy encantadora
+
+359
+00:22:09,692 --> 00:22:13,560
+Sólo soy encantadora
+
+360
+00:22:13,629 --> 00:22:16,564
+Ser encantadora es la única cosa
+
+361
+00:22:16,632 --> 00:22:21,262
+Que puedo hacer
+
+362
+00:22:22,538 --> 00:22:25,268
+Atractiva
+
+363
+00:22:25,341 --> 00:22:28,936
+Soy atractiva
+
+364
+00:22:29,011 --> 00:22:31,878
+Radiante como en algún
+
+365
+00:22:31,947 --> 00:22:37,817
+Sueño hecho realidad
+
+366
+00:22:37,887 --> 00:22:40,549
+Oh
+
+367
+00:22:40,623 --> 00:22:44,389
+No es algo lamentable
+
+368
+00:22:44,460 --> 00:22:47,793
+Que no sepa coser ni cocinar
+
+369
+00:22:47,863 --> 00:22:52,823
+Ni leer ni escribir mi nombre
+
+370
+00:22:54,303 --> 00:22:58,467
+Pero soy feliz
+
+371
+00:22:58,541 --> 00:23:02,534
+Con sólo ser encantadora
+
+372
+00:23:02,611 --> 00:23:07,878
+Porque es una cosa que puedo darte
+
+373
+00:23:07,950 --> 00:23:11,750
+A ti
+
+374
+00:23:12,822 --> 00:23:15,086
+Philia, di mi nombre.
+
+375
+00:23:15,157 --> 00:23:17,887
+- ¿Sólo digo tu nombre?
+- Sí.
+
+376
+00:23:17,960 --> 00:23:22,363
+Muy bien.
+Lo olvidé.
+
+377
+00:23:23,299 --> 00:23:27,099
+- Es Hero.
+- Perdóname, Hero.
+
+378
+00:23:27,169 --> 00:23:29,637
+Tengo mala memoria para los nombres.
+
+379
+00:23:29,705 --> 00:23:33,004
+No la necesitas.
+No necesitas nada.
+
+380
+00:23:35,511 --> 00:23:39,174
+Eres encantadora
+
+381
+00:23:39,248 --> 00:23:42,979
+Absolutamente encantadora
+
+382
+00:23:43,052 --> 00:23:47,113
+Quién creería el encanto
+
+383
+00:23:47,189 --> 00:23:51,125
+Tuyo
+
+384
+00:23:51,193 --> 00:23:53,354
+Atractiva
+
+385
+00:23:53,429 --> 00:23:57,695
+Dulce y cálida y atractiva
+
+386
+00:23:57,766 --> 00:24:01,759
+Radiante como en un sueño
+
+387
+00:24:01,837 --> 00:24:06,035
+Hecho realidad
+
+388
+00:24:06,108 --> 00:24:08,736
+Ahora
+
+389
+00:24:08,811 --> 00:24:12,508
+Venus parecería conquistada
+
+390
+00:24:12,581 --> 00:24:15,709
+Helena y sus mil barcos
+
+391
+00:24:15,784 --> 00:24:19,311
+Tendrían que morirse de vergüenza
+
+392
+00:24:21,290 --> 00:24:25,852
+Y estoy feliz
+
+393
+00:24:25,928 --> 00:24:29,864
+- Feliz que seas encantadora
+- Feliz que soy encantadora
+
+394
+00:24:29,932 --> 00:24:32,366
+Porque hay una cosa
+
+395
+00:24:32,434 --> 00:24:37,565
+Que el encanto puede hacer
+
+396
+00:24:38,641 --> 00:24:41,439
+Es un regalo
+
+397
+00:24:41,510 --> 00:24:46,072
+Para que lo comparta
+
+398
+00:24:46,148 --> 00:24:50,676
+Contigo
+
+399
+00:24:57,993 --> 00:25:01,258
+¡Amo Hero, no hagas eso!
+
+400
+00:25:02,565 --> 00:25:05,557
+- Hysterium, ella es Philia.
+- No importa quién sea.
+
+401
+00:25:05,634 --> 00:25:08,398
+¿Quién es? ¿Dónde la encontraste?
+
+402
+00:25:09,605 --> 00:25:12,836
+- En la casa de Lycus.
+- ¡Una cortesana! ¡No!
+
+403
+00:25:12,908 --> 00:25:15,706
+- Soy virgen.
+- Por supuesto.
+
+404
+00:25:15,778 --> 00:25:17,939
+Amo Hero, dile adiós
+a esta persona...
+
+405
+00:25:18,013 --> 00:25:20,607
+para que pueda seguir
+con su negocio.
+
+406
+00:25:20,683 --> 00:25:24,949
+- No. Pseudolus dijo--
+- ¡Pseudolus! ¡Debí haberlo imaginado!
+
+407
+00:25:25,020 --> 00:25:27,818
+Un pasaje a Tesalia para dos
+en la primera marea.
+
+408
+00:25:27,890 --> 00:25:31,587
+- En una hora.
+- Ahora, ¿quieres jugar por el barco?
+
+409
+00:25:37,099 --> 00:25:39,363
+¿Cómo te atreves
+a arreglar una cita...
+
+410
+00:25:39,435 --> 00:25:41,926
+entre un niño inocente
+y una de ésas que ya sabes?
+
+411
+00:25:42,004 --> 00:25:44,939
+Hay algo sobre ésa que ya sabes
+que tú no sabes.
+
+412
+00:25:45,007 --> 00:25:48,306
+- ¿Qué cosa no sé?
+- Esa chica es mi hija.
+
+413
+00:25:48,377 --> 00:25:50,436
+- ¿Tu qué?
+- Mi hija. Me oíste hablar de ella.
+
+414
+00:25:50,512 --> 00:25:52,036
+- Nunca.
+- No hablo de ella.
+
+415
+00:25:52,114 --> 00:25:54,082
+- No es tu hija.
+- ¿Hermana?
+
+416
+00:25:54,149 --> 00:25:58,108
+- ¡lré a contárselo a sus padres!
+- ¡No! El chico insistió en conocerla.
+
+417
+00:25:58,187 --> 00:26:00,917
+Pero está vendida a un capitán
+que hoy viene a recogerla.
+
+418
+00:26:00,990 --> 00:26:04,426
+- ¿Qué puede pasar en una o dos horas?
+- ¡A su edad, no hay límites!
+
+419
+00:26:04,493 --> 00:26:06,427
+- ¡Iré a contárselo a sus padres!
+- ¡Iré contigo!
+
+420
+00:26:06,495 --> 00:26:08,429
+No querrás estar allí
+cuando les cuente de ti.
+
+421
+00:26:08,497 --> 00:26:10,965
+¡Quiero que estés allí
+cuando les cuente de ti!
+
+422
+00:26:11,033 --> 00:26:14,002
+¿Qué dirás de mí? No tengo nada
+que temer. Soy un pilar de virtudes.
+
+423
+00:26:14,069 --> 00:26:16,503
+Podría interesarles
+que su pilar de virtudes...
+
+424
+00:26:16,572 --> 00:26:18,631
+su esclavo jefe tiene escondido...
+
+425
+00:26:18,707 --> 00:26:21,972
+en los confines de su cubículo,
+la colección en Roma más extensa...
+
+426
+00:26:22,044 --> 00:26:23,944
+¡de cerámica erótica!
+
+427
+00:26:24,013 --> 00:26:27,312
+¿Cuándo adquiriste ese frutero grande
+con ese friso que...?
+
+428
+00:26:30,452 --> 00:26:32,920
+- Pseudolus.
+- Ninguno de nosotros es perfecto.
+
+429
+00:26:32,988 --> 00:26:36,321
+- Bien, si sólo es una hora o algo así--
+- ¿Qué hay de malo en eso?
+
+430
+00:26:36,392 --> 00:26:39,759
+Especialmente con el amo y la señora
+fuera del camino.
+
+431
+00:26:48,604 --> 00:26:50,538
+Hero me preocupa.
+
+432
+00:26:50,606 --> 00:26:53,939
+Quizás debería regresar
+y vigilarlo paternalmente.
+
+433
+00:27:00,449 --> 00:27:03,213
+- ¡Alto!
+- ¡Rayos!
+
+434
+00:27:03,285 --> 00:27:05,776
+- Vi eso.
+- Me picó una abeja.
+
+435
+00:27:05,854 --> 00:27:08,846
+- ¡Oh, mi nariz!
+- Tendremos que rehacerla.
+
+436
+00:27:08,924 --> 00:27:11,518
+- Sí.
+- Supongo que...
+
+437
+00:27:11,593 --> 00:27:15,051
+podría regresar donde el cincelador
+y juntarme contigo mañana en la maña--
+
+438
+00:27:15,130 --> 00:27:18,327
+No. El viaje me cansaría.
+Estaría agotado.
+
+439
+00:27:18,400 --> 00:27:20,425
+Debes regresar, tonto egoísta.
+
+440
+00:27:20,502 --> 00:27:23,369
+- Ahora mismo.
+- Pero, mi amor...
+
+441
+00:27:23,439 --> 00:27:26,067
+no sé cómo voy a sobrevivir
+una noche larga y solitaria sin ti.
+
+442
+00:27:26,141 --> 00:27:28,371
+Tendrás que esforzarte.
+
+443
+00:27:36,585 --> 00:27:38,212
+Amo, acabo de estar en el puerto.
+
+444
+00:27:38,287 --> 00:27:40,551
+- Debemos apurarnos.
+- ¿Te vas a alguna parte?
+
+445
+00:27:40,622 --> 00:27:42,055
+Uds. dos se van.
+
+446
+00:27:42,124 --> 00:27:45,150
+No puedo irme.
+
+447
+00:27:45,227 --> 00:27:47,525
+¿Por qué no puedes irte?
+
+448
+00:27:47,596 --> 00:27:50,087
+Mientras el capitán tenga un contrato,
+debo irme con él.
+
+449
+00:27:50,165 --> 00:27:53,566
+- Debo cumplir mi contrato.
+- Una virgen honesta.
+
+450
+00:27:53,635 --> 00:27:57,298
+Qué combinación más terrible.
+Discúlpenme.
+
+451
+00:27:57,372 --> 00:28:01,809
+- Le daremos un golpe en la cabeza...
+- No, no usaré la fuerza contra ella.
+
+452
+00:28:01,877 --> 00:28:05,472
+Venus, ¿por qué nos juntaste
+sólo para separarnos?
+
+453
+00:28:05,547 --> 00:28:08,209
+Sé valiente, Hero.
+
+454
+00:28:08,283 --> 00:28:10,808
+Para nosotros,
+nunca habrá felicidad.
+
+455
+00:28:10,886 --> 00:28:13,150
+Debemos aprender
+a ser felices sin ella.
+
+456
+00:28:13,956 --> 00:28:17,983
+- ¿Cuándo me tomará el capitán?
+- A su debido tiempo...
+
+457
+00:28:18,060 --> 00:28:19,425
+pero no en el jardín.
+
+458
+00:28:19,495 --> 00:28:21,429
+- Adentro.
+- Pero, ¿cómo sabré cuando llega?
+
+459
+00:28:21,497 --> 00:28:25,024
+Tres veces golpeará en tu puerta.
+Ahora sube y espera.
+
+460
+00:28:25,100 --> 00:28:27,034
+El dormitorio de mi señora.
+El verde.
+
+461
+00:28:27,102 --> 00:28:29,070
+¡Ve! ¡Sube! ¡Ve!
+
+462
+00:28:29,138 --> 00:28:32,869
+Amo, ella se irá contigo.
+Te lo prometo.
+
+463
+00:28:39,782 --> 00:28:41,716
+Se fue. ¡Qué bueno!
+
+464
+00:28:41,784 --> 00:28:44,651
+Entonces iré al mercado
+y compraré una gallina rechoncha.
+
+465
+00:28:44,720 --> 00:28:47,188
+Debemos tratar de devolverte
+el apetito a la comida.
+
+466
+00:28:48,957 --> 00:28:51,721
+- Nuestro pasaporte a la libertad.
+- ¿Qué es?
+
+467
+00:28:51,794 --> 00:28:54,524
+Con una habilidad extraordinaria, le
+quité el libro de pociones a Hysterium.
+
+468
+00:28:54,596 --> 00:28:57,224
+Mezclaremos una poción adormecedora,
+se la daremos a la muchacha...
+
+469
+00:28:57,299 --> 00:28:59,597
+quedará inconsciente, le diremos
+a Lycus que se murió de la plaga.
+
+470
+00:28:59,668 --> 00:29:02,034
+Luego la llevas de prisa al barco,
+yo me voy de prisa a los cerros, ¡libre!
+
+471
+00:29:02,104 --> 00:29:04,129
+- ¡Brillante!
+- No, brillante no. Sólo--
+
+472
+00:29:04,206 --> 00:29:06,174
+Bueno, sí. Brillante.
+
+473
+00:29:07,910 --> 00:29:09,844
+Acabo de acordarme
+de algo alarmante.
+
+474
+00:29:09,912 --> 00:29:11,777
+- ¿Qué?
+- No sé leer.
+
+475
+00:29:11,847 --> 00:29:13,781
+Busca rápidamente esas pociones
+para adormecer. ¿Qué necesitamos?
+
+476
+00:29:13,849 --> 00:29:16,340
+- Los ingredientes. Rápido.
+- El ojo de un anguila.
+
+477
+00:29:16,418 --> 00:29:18,352
+- Lo tenemos.
+- El corazón de un caracol.
+
+478
+00:29:18,420 --> 00:29:21,253
+- Lo tenemos.
+- Una taza de sudor de yegua.
+
+479
+00:29:21,323 --> 00:29:23,951
+No lo tenemos.
+Sudor de yegua.
+
+480
+00:29:24,026 --> 00:29:26,358
+¿Dónde encontrar sudor de yegua
+en un día como éste?
+
+481
+00:29:26,428 --> 00:29:29,454
+¡Rápido!
+¡Tú al norte y yo al sur!
+
+482
+00:29:29,531 --> 00:29:31,829
+- Esto es emocionante.
+- ¿No es cierto? ¡Ve!
+
+483
+00:29:39,107 --> 00:29:40,540
+¡Sígueme!
+
+484
+00:29:45,247 --> 00:29:47,181
+- ¡Por ese lado!
+- ¡Sí!
+
+485
+00:30:01,930 --> 00:30:05,229
+¿El dormitorio verde?
+¿Golpearán tres veces?
+
+486
+00:30:08,403 --> 00:30:12,567
+El capitán. Tómame.
+
+487
+00:30:13,742 --> 00:30:16,336
+- ¿Qué dices?
+- Tómame.
+
+488
+00:30:18,480 --> 00:30:20,414
+Un momento.
+
+489
+00:30:23,619 --> 00:30:26,679
+Bueno, ¿qué dijiste?
+
+490
+00:30:26,755 --> 00:30:29,451
+Tómame.
+Mi cuerpo es tuyo.
+
+491
+00:30:30,425 --> 00:30:33,258
+- ¿No es eso lo que querías?
+- Lo pienso de vez en cuando.
+
+492
+00:30:33,328 --> 00:30:35,819
+- Pero debes saber algo.
+- ¿Qué?
+
+493
+00:30:35,898 --> 00:30:39,265
+Aunque puedas tener mi cuerpo,
+nunca tendrás mi corazón.
+
+494
+00:30:39,334 --> 00:30:41,768
+Bueno, no se puede tener todo.
+
+495
+00:30:41,837 --> 00:30:44,863
+Mil gracias a cualquiera de Uds.
+que hizo esto.
+
+496
+00:30:49,211 --> 00:30:52,544
+¿Pueden creerlo? Había una yegua sudando
+ni a dos calles de aquí.
+
+497
+00:30:53,615 --> 00:30:55,674
+Cada día se parece más a su padre.
+
+498
+00:30:55,751 --> 00:30:57,844
+Pseudolus, ya llegó.
+
+499
+00:30:57,920 --> 00:30:59,888
+- No.
+- Acuérdate donde quedamos.
+
+500
+00:30:59,955 --> 00:31:02,219
+- Señor, regresó.
+- Ella casi lo quebró.
+
+501
+00:31:03,292 --> 00:31:05,556
+- ¿Quién es ella?
+- Señor, está bien que pregunte.
+
+502
+00:31:05,627 --> 00:31:07,595
+"¿Quién es ella?",
+es una buena pregunta.
+
+503
+00:31:07,663 --> 00:31:09,824
+- Criatura encantadora.
+- Esperaré su mandato.
+
+504
+00:31:09,898 --> 00:31:12,298
+- Mi mand-- Sí.
+- Su sirviente a sus órdenes.
+
+505
+00:31:12,367 --> 00:31:14,301
+- Mi sirviente a mis órdenes.
+- Así es. Su sirviente.
+
+506
+00:31:14,369 --> 00:31:16,303
+Su nueva criada.
+Necesitábamos alguien que ayudara.
+
+507
+00:31:16,371 --> 00:31:18,396
+¿Una nueva criada?
+Parece muy leal.
+
+508
+00:31:18,473 --> 00:31:20,498
+Y muy amable, y muy eficiente
+y muy considerada.
+
+509
+00:31:20,575 --> 00:31:23,203
+Bueno, les gusto a las criadas.
+Soy pulcro.
+
+510
+00:31:23,278 --> 00:31:25,109
+Me gustan las criadas.
+Son pulcras.
+
+511
+00:31:27,849 --> 00:31:30,511
+Todos deberían tener una criada
+
+512
+00:31:30,585 --> 00:31:33,554
+Todos deberían tener
+una chica trabajadora
+
+513
+00:31:33,622 --> 00:31:36,250
+Todos deberían tener
+una chica servidora
+
+514
+00:31:36,325 --> 00:31:38,088
+Para andar
+alrededor de la casa
+
+515
+00:31:39,428 --> 00:31:42,192
+Todos deberían tener una criada
+
+516
+00:31:42,264 --> 00:31:44,858
+Todos deberían tener una servidora
+
+517
+00:31:44,933 --> 00:31:47,766
+Consistentemente agradable
+
+518
+00:31:47,836 --> 00:31:49,497
+Y más callada que un ratón
+
+519
+00:31:51,440 --> 00:31:54,409
+No sería ella deliciosa
+
+520
+00:31:54,476 --> 00:31:58,435
+Los platos arreglando
+Todo ordenando
+
+521
+00:31:58,513 --> 00:32:01,539
+No se vería deliciosa
+al barrer
+
+522
+00:32:01,616 --> 00:32:03,015
+Al dormir
+
+523
+00:32:03,085 --> 00:32:05,610
+Todos deberían tener una criada
+
+524
+00:32:05,687 --> 00:32:08,485
+Alguien que al alcanzarte
+las zapatillas
+
+525
+00:32:08,557 --> 00:32:11,390
+Fuera tan amorosa
+como perrito faldero
+
+526
+00:32:11,460 --> 00:32:14,361
+Y ágil como una gacela
+
+527
+00:32:14,429 --> 00:32:17,262
+Escalera arriba corriendo
+Las ventanas cerrando
+
+528
+00:32:17,332 --> 00:32:20,233
+Por el dormitorio brincando
+Al amo adulando
+
+529
+00:32:20,302 --> 00:32:23,567
+Para andar
+alrededor de la casa
+
+530
+00:32:25,574 --> 00:32:27,565
+- ¿Una criada?
+- Una criada.
+
+531
+00:32:29,077 --> 00:32:31,568
+Todos deberían tener una criada
+
+532
+00:32:31,646 --> 00:32:34,547
+Todos deberían tener
+una chica para servir
+
+533
+00:32:34,616 --> 00:32:37,449
+Una chica leal e inmutable
+
+534
+00:32:37,519 --> 00:32:39,453
+Más callada que un ratón
+
+535
+00:32:41,323 --> 00:32:44,053
+Oh, oh, piensen en ella
+con el plumero
+
+536
+00:32:44,126 --> 00:32:46,822
+Especialmente cuando recién
+ha estado retozando
+
+537
+00:32:46,895 --> 00:32:50,126
+Oh, oh, no se vería encantadora
+
+538
+00:32:50,198 --> 00:32:52,689
+Viviendo puertas adentro
+
+539
+00:32:52,768 --> 00:32:55,396
+Todos deberían tener una criada
+
+540
+00:32:55,470 --> 00:32:58,268
+Alguien a quien contratar
+cuando necesitas ayuda
+
+541
+00:32:58,340 --> 00:33:01,173
+Que te ofrezca la clase de ayuda
+
+542
+00:33:01,243 --> 00:33:03,177
+Que nunca obtienes de una esposa
+
+543
+00:33:04,312 --> 00:33:07,372
+- En el ático murmurando
+- En el sótano conversando
+
+544
+00:33:07,449 --> 00:33:10,213
+- En la cocina parloteando
+- El dormitorio embelleciendo
+
+545
+00:33:10,285 --> 00:33:13,379
+Por la casa andando
+
+546
+00:33:14,589 --> 00:33:16,750
+- La virgen. ¿Cómo está?
+- Shh. Una criada.
+
+547
+00:33:19,494 --> 00:33:22,224
+Todos deberían tener una criada
+
+548
+00:33:22,297 --> 00:33:25,095
+Alguien que es eficiente y confiable
+
+549
+00:33:25,167 --> 00:33:29,467
+Obediente y compasiva
+Y más callada que un ratón
+
+550
+00:33:31,840 --> 00:33:34,604
+Oh, oh, qué ingeniosa es
+
+551
+00:33:34,676 --> 00:33:37,474
+Con su dedal
+Su vestido remendando
+
+552
+00:33:37,546 --> 00:33:40,140
+Oh, oh, qué encantadora es
+
+553
+00:33:40,215 --> 00:33:43,378
+- Limpiando
+- Reclinándose
+
+554
+00:33:43,452 --> 00:33:46,012
+Todos deberían tener una criada
+
+555
+00:33:46,088 --> 00:33:48,921
+Alguien que se mantenga ocupada
+como un abejón
+
+556
+00:33:48,990 --> 00:33:51,686
+Y aunque refunfuñara que fuera
+
+557
+00:33:51,760 --> 00:33:54,558
+Tan ágil como una gacela
+
+558
+00:33:54,629 --> 00:33:57,655
+- En la antesala bailando
+- En la sala cantando
+
+559
+00:33:57,732 --> 00:34:00,530
+- En el comedor riéndose
+- En los otros cuartos meneándose
+
+560
+00:34:00,602 --> 00:34:03,127
+Ocupándose
+
+561
+00:34:03,205 --> 00:34:05,070
+De la casa
+
+562
+00:34:05,140 --> 00:34:06,971
+- ¿Cómo está la virgen?
+- La casa
+
+563
+00:34:07,042 --> 00:34:10,136
+- Dime. La virgen. Quiero saber--
+- La casa
+
+564
+00:34:10,212 --> 00:34:14,478
+- ¿Cómo está la virgen?
+- La casa
+
+565
+00:34:14,549 --> 00:34:18,041
+Está muy deprimida. ¿Recuerdas
+su sonrisa? Ahora es casi una mueca.
+
+566
+00:34:19,521 --> 00:34:22,012
+Ruego que dure.
+Tuve una experiencia horrible...
+
+567
+00:34:22,090 --> 00:34:24,251
+con un oficial joven
+a quien le había vendido una virgen.
+
+568
+00:34:24,326 --> 00:34:27,022
+- ¿Qué pasó?
+- Resultó que era un fiasco.
+
+569
+00:34:27,095 --> 00:34:29,359
+¿Una virgen un fiasco?
+¿Cómo pudo ser?
+
+570
+00:34:29,431 --> 00:34:31,763
+El tipo que me vendió
+la virgen falsa...
+
+571
+00:34:31,833 --> 00:34:33,767
+también me vendió un eunuco falso.
+
+572
+00:34:33,835 --> 00:34:36,201
+La mantendré viva
+tanto tiempo como pueda.
+
+573
+00:34:36,271 --> 00:34:38,967
+- Eres un santo.
+- Ahora...
+
+574
+00:34:39,040 --> 00:34:43,033
+instruiré a la criada con el trabajo
+de casa, comenzando en mi cuarto.
+
+575
+00:34:43,111 --> 00:34:47,605
+Pero, señor, su hijo puede estar
+en esa misma casa.
+
+576
+00:34:47,682 --> 00:34:48,774
+Caramba.
+
+577
+00:34:48,850 --> 00:34:52,445
+- Señor, esta casa está vacía.
+- Así es, señor.
+
+578
+00:34:52,521 --> 00:34:54,887
+¿No se acuerda que antes que
+su amigo y vecino Erronius...
+
+579
+00:34:54,956 --> 00:34:57,789
+viajara a buscar a sus hijos a quienes
+los piratas robaron en la infancia...
+
+580
+00:34:57,859 --> 00:35:00,327
+él le pidió que cuidara su casa
+de vez en cuando?
+
+581
+00:35:00,395 --> 00:35:02,863
+Sí. Esta puede ser
+una buena oportunidad.
+
+582
+00:35:02,931 --> 00:35:05,297
+- Envía la chica para acá.
+- Pero, señor...
+
+583
+00:35:05,367 --> 00:35:09,030
+sólo mi profunda devoción por Ud.
+me permite hablar tan francamente.
+
+584
+00:35:09,104 --> 00:35:11,299
+Ha caminado pesadamente
+por mucho tiempo...
+
+585
+00:35:11,373 --> 00:35:13,967
+y me temo que este tremendo
+esfuerzo físico...
+
+586
+00:35:17,045 --> 00:35:19,070
+Cielos.
+
+587
+00:35:19,147 --> 00:35:22,913
+¿Soy yo?
+Huelo como un caballo sobreexcitado.
+
+588
+00:35:22,984 --> 00:35:25,111
+- Debo bañarme.
+- Por lo menos.
+
+589
+00:35:25,187 --> 00:35:28,247
+¿Le envío la chica
+en, digamos, una hora?
+
+590
+00:35:29,724 --> 00:35:31,157
+Por lo menos.
+
+591
+00:35:40,302 --> 00:35:41,929
+Por fin en casa.
+
+592
+00:35:42,003 --> 00:35:45,336
+Después de años de buscar a mis hijos
+perdidos hace tanto tiempo...
+
+593
+00:35:45,407 --> 00:35:48,740
+qué bueno es volver a ver
+esta calle otra vez.
+
+594
+00:35:48,810 --> 00:35:51,938
+Estos pobres ojos cansados
+llenos de lágrimas...
+
+595
+00:35:52,013 --> 00:35:54,709
+por lo poco que ven.
+
+596
+00:35:59,287 --> 00:36:01,312
+Disculpe, jovencita.
+
+597
+00:36:01,389 --> 00:36:05,723
+Lo siento, pero yo--
+Oh, qué bebé más encantador--
+
+598
+00:36:05,794 --> 00:36:07,728
+de la edad de mis hijos...
+
+599
+00:36:07,796 --> 00:36:11,562
+cuando los piratas se los robaron
+durante su infancia.
+
+600
+00:36:11,633 --> 00:36:15,535
+Pero por lo menos tengo
+las comodidades de mi casa solitaria.
+
+601
+00:36:15,604 --> 00:36:17,128
+¡Señor!
+
+602
+00:36:17,205 --> 00:36:19,673
+- ¿Quién es Ud.?
+- Hysterium, señor...
+
+603
+00:36:19,741 --> 00:36:21,732
+sirviente de Senex.
+
+604
+00:36:26,381 --> 00:36:28,906
+- ¿Qué fue eso?
+- No oí nada.
+
+605
+00:36:31,519 --> 00:36:33,453
+Tampoco oí eso.
+
+606
+00:36:33,521 --> 00:36:36,581
+- Fue un sonido espectral.
+- ¿Un sonido espectral?
+
+607
+00:36:36,658 --> 00:36:39,126
+- Como si la casa estuviese encantada.
+- Señor...
+
+608
+00:36:39,194 --> 00:36:41,253
+lo que estoy a punto de contarle
+es espectral.
+
+609
+00:36:41,329 --> 00:36:43,991
+- Su casa está encantada.
+- ¿Encantada?
+
+610
+00:36:44,065 --> 00:36:45,999
+Tan encantada como largo es el día.
+
+611
+00:36:46,067 --> 00:36:49,833
+Quizás debería quedarse con familiares.
+Familiares distantes.
+
+612
+00:36:49,904 --> 00:36:53,135
+Sí. No. Tráeme un adivino.
+
+613
+00:36:53,208 --> 00:36:55,836
+- ¿Un adivino?
+- De inmediato debe examinar mi casa.
+
+614
+00:37:01,916 --> 00:37:05,113
+Señor, necesita un adivino.
+
+615
+00:37:05,186 --> 00:37:08,747
+- ¿Cómo lo sabías?
+- ¿Qué adivino sería si no lo supiera?
+
+616
+00:37:08,823 --> 00:37:11,155
+Bueno, hay un espíritu en mi casa.
+
+617
+00:37:11,226 --> 00:37:12,659
+¡Silencio!
+
+618
+00:37:14,496 --> 00:37:16,657
+Estoy a punto de revelar la verdad.
+
+619
+00:37:16,731 --> 00:37:18,858
+Usted es-- Lo veo.
+
+620
+00:37:18,933 --> 00:37:21,959
+Veo todo. Ha estado--
+
+621
+00:37:22,037 --> 00:37:27,031
+Ha estado en el extranjero...
+durante 20 años.
+
+622
+00:37:27,108 --> 00:37:31,909
+Ha estado buscando a...
+
+623
+00:37:31,980 --> 00:37:34,278
+un niño.
+
+624
+00:37:34,349 --> 00:37:36,374
+Dos niños.
+
+625
+00:37:37,452 --> 00:37:39,613
+Un lindo niño...
+
+626
+00:37:41,690 --> 00:37:43,624
+y un niñito extraño.
+
+627
+00:37:49,364 --> 00:37:50,956
+¡Una niña!
+
+628
+00:37:51,032 --> 00:37:53,398
+- ¡Un niño y una niña!
+- ¿Puedes encontrármelos?
+
+629
+00:37:53,468 --> 00:37:55,800
+Por supuesto que los puedo encontrar.
+
+630
+00:37:55,870 --> 00:37:58,930
+Cada uno usa un anillo
+que lleva tallado...
+
+631
+00:37:59,007 --> 00:38:00,872
+una bandada de gansos.
+
+632
+00:38:00,942 --> 00:38:03,877
+Sólo hay otros dos iguales
+en el mundo.
+
+633
+00:38:03,945 --> 00:38:05,879
+Y mis hijos los tienen.
+
+634
+00:38:05,947 --> 00:38:07,881
+¿Cuántos gansos en una bandada?
+
+635
+00:38:07,949 --> 00:38:10,076
+- Por lo menos siete.
+- ¡Siete!
+
+636
+00:38:10,151 --> 00:38:12,085
+Antes que vuelva a repetir
+esta verdad...
+
+637
+00:38:12,153 --> 00:38:15,316
+debe correr siete veces
+por las siete colinas...
+
+638
+00:38:15,390 --> 00:38:17,483
+- de Roma.
+- ¿Y el espíritu?
+
+639
+00:38:17,559 --> 00:38:20,289
+Se habrá ido para cuando
+haya efectuado mi mandato.
+
+640
+00:38:21,629 --> 00:38:23,256
+- Gracias.
+- ¡A las colinas!
+
+641
+00:38:23,331 --> 00:38:27,165
+- ¡A las colinas!
+- No. Este es el camino, señor.
+
+642
+00:38:27,235 --> 00:38:29,863
+Gracias, jovencita.
+
+643
+00:38:32,107 --> 00:38:35,668
+¡Señor!
+¡Olvidó su bandada de gansos!
+
+644
+00:38:35,744 --> 00:38:38,736
+¿Ves?
+Todo está saliendo bien.
+
+645
+00:38:38,813 --> 00:38:41,714
+Todo está bien con el amo que piensa
+que la virgen es una criada...
+
+646
+00:38:41,783 --> 00:38:43,717
+la virgen que cree que es
+la señora del amo y la señora...
+
+647
+00:38:43,785 --> 00:38:45,719
+que no sabe que su hijo anda
+con la lengua afuera.
+
+648
+00:38:45,787 --> 00:38:49,245
+Sólo encárgate que tu amo se quede
+en el baño la próxima hora...
+
+649
+00:38:49,324 --> 00:38:51,622
+- y pronto la sacaré de allí.
+- ¿Cuán pronto?
+
+650
+00:38:51,693 --> 00:38:54,526
+Tan pronto como el amo Hero
+traiga más sudor de yegua.
+
+651
+00:38:54,596 --> 00:38:57,360
+- ¿Sudor de yegua?
+- No hay necesidad de recordarme.
+
+652
+00:38:57,432 --> 00:38:59,798
+Necesito más toallas de baño
+de inmediato.
+
+653
+00:39:04,472 --> 00:39:07,737
+Ten paciencia, querida. No te dejaré
+jadeando por mí mucho tiempo.
+
+654
+00:39:16,451 --> 00:39:19,579
+Vamos, esclavos abominables.
+¡Muévanse!
+
+655
+00:39:19,654 --> 00:39:23,055
+Recojan esas cadenas. Vamos.
+
+656
+00:39:23,124 --> 00:39:25,922
+Gracias, muchacho.
+Este trabajo me da sed.
+
+657
+00:39:25,994 --> 00:39:27,928
+Eso es mío.
+
+658
+00:39:33,802 --> 00:39:35,326
+¡Amo! ¡Gracias, amo!
+
+659
+00:39:35,403 --> 00:39:36,927
+Por favor, amo.
+
+660
+00:39:53,354 --> 00:39:57,290
+- ¿Sí?
+- ¿Esta es la casa de Marcus Lycus?
+
+661
+00:39:57,358 --> 00:39:59,918
+- Sí.
+- Entonces, a un lado, eunuco.
+
+662
+00:40:04,899 --> 00:40:07,299
+lnfórmale a Lycus
+que lo veremos de inmediato.
+
+663
+00:40:08,369 --> 00:40:12,032
+Sí, posibilidades. Adelante.
+¿Era un cliente, querido eunuco?
+
+664
+00:40:12,106 --> 00:40:14,506
+Bienvenido, guerrero más noble.
+¿Quieres pasar?
+
+665
+00:40:14,576 --> 00:40:19,536
+Quizás un poco de vino y miel. O quizás
+te interese otro tipo de bocado.
+
+666
+00:40:19,614 --> 00:40:23,243
+Somos emisarios de aquel en cuyo nombre
+una doncella te fue comprada.
+
+667
+00:40:23,318 --> 00:40:25,752
+- Sí. Una doncella.
+- Dentro de una hora la vendrá a buscar.
+
+668
+00:40:25,820 --> 00:40:29,449
+- Espléndido.
+- Nuestro ilustre Miles Gloriosus.
+
+669
+00:40:29,524 --> 00:40:31,958
+Conozco ese nombre,
+pero no creo que me guste.
+
+670
+00:40:32,026 --> 00:40:33,960
+El poderoso Miles ordena que sepas...
+
+671
+00:40:34,028 --> 00:40:38,192
+que hace años compró una doncella
+de escoria como tú.
+
+672
+00:40:38,266 --> 00:40:40,234
+A los pocos meses,
+la así llamada doncella...
+
+673
+00:40:40,301 --> 00:40:42,292
+ofreció prueba contundente
+de que no era nada de eso.
+
+674
+00:40:42,370 --> 00:40:46,864
+- Los accidentes suceden.
+- Pero nunca más al gran Gloriosus.
+
+675
+00:40:46,941 --> 00:40:48,909
+Si algo es impropio
+con tu doncella...
+
+676
+00:40:48,977 --> 00:40:51,241
+se apoderará de todo tu inventario
+y se lo tirará a las tropas.
+
+677
+00:40:51,312 --> 00:40:54,076
+- Muy justo.
+- Y luego quemará tu casa.
+
+678
+00:40:54,148 --> 00:40:56,548
+- Es razonable.
+- Y luego--
+
+679
+00:40:56,618 --> 00:40:59,416
+No. lnforma al capitán
+que la doncella estará lista...
+
+680
+00:40:59,487 --> 00:41:02,718
+y ansiosa y muy saludable.
+
+681
+00:41:04,125 --> 00:41:06,093
+Sólo con un poquito de plaga.
+
+682
+00:41:07,161 --> 00:41:08,594
+Discúlpeme, noble señor...
+
+683
+00:41:08,663 --> 00:41:10,756
+¿ha visto a un apuesto joven
+corriendo en busca de sudor de yegua?
+
+684
+00:41:10,832 --> 00:41:13,232
+Andaba trayendo--
+Muy generoso, señor.
+
+685
+00:41:14,302 --> 00:41:16,827
+Discúlpeme, señora.
+Un joven tranquilo y una yegua salvaje.
+
+686
+00:41:16,905 --> 00:41:19,271
+¿Habrá Ud., por alguna casualidad...
+
+687
+00:41:19,340 --> 00:41:21,808
+Muy amable, señora.
+
+688
+00:41:21,876 --> 00:41:24,071
+Señor, podría preguntarle--
+
+689
+00:41:25,146 --> 00:41:27,080
+Muchas gracias, humildemente, señor.
+
+690
+00:41:38,026 --> 00:41:39,789
+El amo Hero ha estado aquí.
+
+691
+00:41:44,332 --> 00:41:46,732
+Muchas gracias, señor.
+
+692
+00:41:48,202 --> 00:41:50,466
+Lo siento, ahora
+no puedo detenerme. Yo--
+
+693
+00:41:50,538 --> 00:41:52,563
+¿Te vendieron?
+
+694
+00:41:52,640 --> 00:41:55,404
+¿A quién? ¿Un pastor de Siria?
+
+695
+00:41:55,476 --> 00:41:58,001
+Te va a recoger
+dentro de una hora.
+
+696
+00:41:58,079 --> 00:42:00,309
+Eso significa que nunca más
+la volveré a ver. Escucha.
+
+697
+00:42:00,381 --> 00:42:03,179
+En unos pocos--
+
+698
+00:42:03,251 --> 00:42:05,378
+Escucha cuidadosamente.
+
+699
+00:42:17,999 --> 00:42:20,900
+El capitán llegará en una hora.
+¿Cómo puedo salvar mi cabeza?
+
+700
+00:42:22,470 --> 00:42:26,338
+Una hora antes de que llegue el pastor
+de Siria, ¿cómo puedo salvar a Gymnasia?
+
+701
+00:42:26,407 --> 00:42:30,104
+Si sólo pudiera encontrar a alguien que
+tomara mi lugar por 1 hora. Pero ¿quién?
+
+702
+00:42:30,178 --> 00:42:33,579
+Si pudiera tomar el lugar de Lycus
+sólo por una hora. Pero ¿cómo?
+
+703
+00:42:35,817 --> 00:42:38,251
+- Discúlpeme. Está bien. En absoluto.
+- Discúlpeme. Está bien. En absoluto.
+
+704
+00:42:40,555 --> 00:42:42,921
+Salve, Marcus Lycus.
+Te andaba buscando.
+
+705
+00:42:42,991 --> 00:42:44,925
+Tú me buscabas a mí,
+pero yo te buscaba a ti.
+
+706
+00:42:44,993 --> 00:42:46,927
+- ¿No es algo asombroso?
+- Fantástico.
+
+707
+00:42:46,995 --> 00:42:49,054
+- Se trata de las chicas.
+- Se trata de las chicas.
+
+708
+00:42:49,130 --> 00:42:50,563
+¿Dijiste: "De las chicas"?
+
+709
+00:42:50,632 --> 00:42:52,099
+- Sí. ¿Dijiste eso?
+- Sí.
+
+710
+00:42:52,166 --> 00:42:54,964
+-Asombroso.
+-Fantástico. Verás, querido Pseudolus...
+
+711
+00:42:55,036 --> 00:42:57,231
+cuando estabas en mi casa
+esta mañana se me ocurrió...
+
+712
+00:42:57,305 --> 00:42:59,569
+- Que no tenía bastante tiempo...
+- Para decidir definitivamente...
+
+713
+00:42:59,641 --> 00:43:02,439
+- Acerca de escoger una esposa.
+- Precisamente.
+
+714
+00:43:02,510 --> 00:43:05,104
+- Qué relación armónica tenemos.
+- Asombroso.
+
+715
+00:43:05,179 --> 00:43:08,148
+Fantástico. Y entonces
+estaba pensando, querido Pseudolus...
+
+716
+00:43:08,216 --> 00:43:10,844
+- Que pasaría un poco más de tiempo...
+- Solo y sin que te molesten...
+
+717
+00:43:10,918 --> 00:43:12,579
+- Con las chicas.
+- Con las chicas.
+
+718
+00:43:12,654 --> 00:43:15,680
+Lycus, me estás haciendo llorar.
+
+719
+00:43:16,924 --> 00:43:18,915
+Otra cosa más.
+Mi padre...
+
+720
+00:43:18,993 --> 00:43:20,927
+- ¿Tienes un padre?
+- Sí.
+
+721
+00:43:20,995 --> 00:43:23,429
+- ¿No es algo asombroso?
+- Fantástico.
+
+722
+00:43:23,498 --> 00:43:26,433
+Además, en este mismo momento
+está camino a mi casa.
+
+723
+00:43:26,501 --> 00:43:29,959
+- Y piensa que sólo soy un mercader.
+- Pobre tipo.
+
+724
+00:43:30,038 --> 00:43:33,201
+Pero ¿y si cuando llega,
+hemos movido a las chicas a otra parte?
+
+725
+00:43:33,274 --> 00:43:35,868
+Sí, pero ¿cómo encontrar
+un lugar adecuado en otra parte?
+
+726
+00:43:37,178 --> 00:43:39,942
+- ¿Dónde más?
+- La casa del buen Senex.
+
+727
+00:43:40,014 --> 00:43:42,278
+¿Por qué no?
+No nos estorbará por una hora.
+
+728
+00:43:42,350 --> 00:43:47,947
+¿Quién cuidará mi casa? El pastor
+viene a comprar a la Mujer Silenciosa.
+
+729
+00:43:48,022 --> 00:43:51,116
+Supongo, querido Pseudolus,
+que no podría ordenarte--
+
+730
+00:43:51,192 --> 00:43:54,593
+¿Que tome tu lugar?
+¿Fingir que soy tú por una hora?
+
+731
+00:43:54,662 --> 00:43:57,256
+Lycus, sería un privilegio.
+
+732
+00:43:57,331 --> 00:43:59,231
+Ahora me estás haciendo llorar a mí.
+
+733
+00:43:59,300 --> 00:44:03,532
+Otra cosa. El capitán romano que viene
+a buscar a la virgen con plaga.
+
+734
+00:44:03,604 --> 00:44:06,573
+En caso que llegue mientras no estoy,
+y atención, en ningún momento yo no...
+
+735
+00:44:06,641 --> 00:44:09,109
+- Simplemente se la entregaré.
+- Sí, pero si no está viva...
+
+736
+00:44:09,177 --> 00:44:11,111
+engáñalo cambiándola por otra.
+
+737
+00:44:11,179 --> 00:44:14,114
+Me dijeron que era un hombre
+muy bondadoso, gentil y considerado.
+
+738
+00:44:14,182 --> 00:44:16,776
+- No temas.
+- Claro que no, querido Pseudolus.
+
+739
+00:44:16,851 --> 00:44:20,218
+Y puedo agregar que
+nunca te arrepentirás.
+
+740
+00:44:25,093 --> 00:44:27,789
+Fue a ver a un escultor, seguro.
+
+741
+00:44:27,862 --> 00:44:30,262
+Está jugueteando con esas cortesanas.
+
+742
+00:44:30,331 --> 00:44:32,265
+Pero, madre, ¿qué puedo hacer?
+
+743
+00:44:32,333 --> 00:44:35,063
+¿Hacer?
+Regresar de inmediato a Roma...
+
+744
+00:44:35,136 --> 00:44:38,401
+antes de que pueda hacer
+lo que sin duda ya ha hecho.
+
+745
+00:44:38,473 --> 00:44:39,963
+¡Vete!
+
+746
+00:44:59,527 --> 00:45:01,461
+Vamos.
+
+747
+00:45:03,898 --> 00:45:05,559
+Buenos días.
+
+748
+00:45:05,633 --> 00:45:08,500
+¡Rápidamente! Muevan los pies.
+El cambio les hará bien.
+
+749
+00:45:08,569 --> 00:45:09,900
+- ¡Rápido! ¡Fuera!
+- Tú.
+
+750
+00:45:09,971 --> 00:45:12,735
+- ¡Ven rápidamente! ¡Rápido! ¡Todas!
+- ¡Tú!
+
+751
+00:45:12,807 --> 00:45:14,934
+- ¡Oye, tú!
+- ¡Ve! ¡Tú!
+
+752
+00:45:15,009 --> 00:45:16,977
+Hay tanto de ti.
+
+753
+00:45:17,044 --> 00:45:19,478
+Más tarde. ¡Ve!
+
+754
+00:45:19,547 --> 00:45:22,516
+Bueno, corre.
+¿Por qué estás parado aquí?
+
+755
+00:45:22,583 --> 00:45:24,574
+Vamos. No tenemos tiempo. Vamos.
+
+756
+00:45:25,920 --> 00:45:27,945
+Antes de que llegue ese pastor,
+habrás salido de aquí.
+
+757
+00:45:28,022 --> 00:45:30,456
+¿Puedes salir con poco aviso?
+
+758
+00:45:32,493 --> 00:45:35,189
+Nada de reclamar. Vete.
+¡Rápido! ¡Vamos!
+
+759
+00:45:35,263 --> 00:45:38,824
+¡Vibrata, realmente!
+¡Vete! ¡Vamos!
+
+760
+00:45:38,900 --> 00:45:40,834
+Primera vuelta.
+
+761
+00:45:42,670 --> 00:45:45,036
+¿Qué fue eso?
+
+762
+00:45:56,450 --> 00:45:59,942
+¡Atención!
+Busco la casa de Marcus Lycus.
+
+763
+00:46:00,021 --> 00:46:02,546
+¿Quién es el que juzga
+la raza de Marcus Lycus?
+
+764
+00:46:02,623 --> 00:46:04,989
+- ¡Un momento, señor!
+- ¿Quién filtra la raza de--
+
+765
+00:46:05,059 --> 00:46:06,822
+No estará aguantando, señor.
+
+766
+00:46:06,894 --> 00:46:10,455
+¿Quién es el que busca
+la casa de Marcus Lycus?
+
+767
+00:46:10,531 --> 00:46:14,433
+Un soldado
+del capitán Miles Gloriosus.
+
+768
+00:46:14,502 --> 00:46:16,800
+- Bien hecho.
+- Gracias.
+
+769
+00:46:16,871 --> 00:46:18,805
+Mi capitán me envió
+para informarle...
+
+770
+00:46:18,873 --> 00:46:22,309
+que está a media legua
+y le ordena que cumpla con esto.
+
+771
+00:46:26,714 --> 00:46:29,706
+Sabe lo que es esto, por supuesto.
+
+772
+00:46:29,784 --> 00:46:31,718
+Por supuesto que sé lo que es esto.
+
+773
+00:46:31,786 --> 00:46:34,380
+Es un documento escrito.
+
+774
+00:46:34,455 --> 00:46:36,685
+Es su contrato con el capitán.
+
+775
+00:46:36,757 --> 00:46:38,691
+Y una obra muy bonita.
+
+776
+00:46:38,759 --> 00:46:41,023
+- Gracias.
+- ¿Qué palabra es ésta?
+
+777
+00:46:42,230 --> 00:46:44,357
+Es Lycus.
+
+778
+00:46:45,633 --> 00:46:48,727
+- ¿Te das cuenta con quién hablas?
+- Sí, señor.
+
+779
+00:46:48,803 --> 00:46:50,737
+¿Se da cuenta lo que dice allí?
+
+780
+00:46:52,240 --> 00:46:54,174
+Sé lo que dice allí.
+
+781
+00:46:54,242 --> 00:46:58,008
+Palabras. E intento apoyarlas
+o mi nombre no es Marcus Lycus.
+
+782
+00:46:58,079 --> 00:47:00,673
+- Pseudolus.
+- Pseudolus Marcus Lycus.
+
+783
+00:47:01,782 --> 00:47:04,876
+Un momento.
+Debo hablar con mi eunuco.
+
+784
+00:47:04,952 --> 00:47:07,648
+- Por favor.
+- Muchas gracias.
+
+785
+00:47:07,722 --> 00:47:09,189
+¡Ven acá, eunuco!
+
+786
+00:47:11,959 --> 00:47:15,588
+¿Eunuco?
+¿Cómo te atreves a llamarme así?
+
+787
+00:47:15,663 --> 00:47:17,597
+Tú sabes que no es verdad
+y yo sé que no es verdad.
+
+788
+00:47:17,665 --> 00:47:21,294
+- Así que ¿qué importa lo que piensen?
+- ¿Por qué te estás llamando Lycus?
+
+789
+00:47:21,369 --> 00:47:25,362
+Verás-- No puedo decírtelo.
+¿Para qué malograr tu día?
+
+790
+00:47:25,439 --> 00:47:27,339
+¿Cómo puedes malograr
+un desastre total?
+
+791
+00:47:27,408 --> 00:47:29,342
+El capitán viene ahora
+a reclamar a la chica.
+
+792
+00:47:29,410 --> 00:47:30,843
+- ¡Eso es terrible!
+- ¿Por qué?
+
+793
+00:47:30,912 --> 00:47:33,506
+- Ahora el amo también la quiere.
+- ¡No puede tenerla!
+
+794
+00:47:33,581 --> 00:47:35,515
+Mantenlo en esa casa
+y no lo dejes salir.
+
+795
+00:47:35,583 --> 00:47:37,073
+- Pero Pseudolus--
+- ¡Soy Lycus!
+
+796
+00:47:39,153 --> 00:47:41,815
+¡Soy Lycus, y todavía sé
+donde guardas esa cerámica!
+
+797
+00:47:41,889 --> 00:47:42,821
+Pero Lycus...
+
+798
+00:47:42,890 --> 00:47:45,916
+Adiós, Lycus.
+Hasta la vista, Lycus.
+
+799
+00:47:45,993 --> 00:47:49,156
+Buena suerte, Lycus.
+Es Lycus.
+
+800
+00:47:50,631 --> 00:47:52,895
+¡Dile a tu capitán
+que su novia lo espera!
+
+801
+00:47:54,735 --> 00:47:56,669
+Bien hecho.
+
+802
+00:47:58,906 --> 00:48:01,898
+- Señor.
+- ¿Recuerdas esa poción que preparas...
+
+803
+00:48:01,976 --> 00:48:05,969
+que lo llena a uno de tanta energía
+que casi puede hacer milagros?
+
+804
+00:48:06,047 --> 00:48:08,845
+Sí, señor. Aún nos queda un poco
+de su noche de boda.
+
+805
+00:48:10,017 --> 00:48:12,110
+- Tráeme una jarra.
+- Sí, amo.
+
+806
+00:48:14,922 --> 00:48:16,355
+Buenas tardes.
+
+807
+00:48:45,286 --> 00:48:47,254
+Mi novia, mi novia
+
+808
+00:48:47,321 --> 00:48:49,516
+He venido a buscar a mi novia
+
+809
+00:48:49,590 --> 00:48:53,458
+Vengo tiernamente
+para aplastarla entre mis brazos
+
+810
+00:48:53,527 --> 00:48:55,461
+Que sea pronto
+
+811
+00:48:55,529 --> 00:48:57,463
+No me pueden demorar
+
+812
+00:48:57,531 --> 00:48:58,998
+Hay tierras por conquistar
+
+813
+00:48:59,066 --> 00:49:01,967
+Ciudades que saquear
+y gente que degradar
+
+814
+00:49:02,036 --> 00:49:04,834
+Miren esos brazos
+Miren ese pecho, mírenlos
+
+815
+00:49:04,905 --> 00:49:08,671
+Sin siquiera mencionar el resto
+lncluso yo mismo estoy impresionado
+
+816
+00:49:09,443 --> 00:49:11,502
+Mi novia, mi novia
+
+817
+00:49:11,579 --> 00:49:13,672
+Tráiganme a mi novia
+
+818
+00:49:13,748 --> 00:49:17,684
+Ya no se pueden negar
+mis ansias por ella
+
+819
+00:49:17,752 --> 00:49:19,845
+Comuniquen la noticia
+
+820
+00:49:19,920 --> 00:49:21,854
+No tengo tiempo que perder
+
+821
+00:49:21,922 --> 00:49:23,856
+Hay ciudades que saquear
+Templos que incendiar
+
+822
+00:49:23,924 --> 00:49:26,222
+Y mujeres que abusar
+
+823
+00:49:26,293 --> 00:49:28,261
+Miren ese pie
+Miren ese talón
+
+824
+00:49:28,329 --> 00:49:30,320
+Tomen nota de los magníficos músculos
+de acero
+
+825
+00:49:30,398 --> 00:49:34,095
+Soy mi ideal
+
+826
+00:49:36,771 --> 00:49:40,605
+Yo, Miles Gloriosus
+
+827
+00:49:40,674 --> 00:49:44,576
+Yo, carnicero de miles
+
+828
+00:49:44,645 --> 00:49:47,409
+Yo, opresor de los humildes
+
+829
+00:49:47,481 --> 00:49:49,506
+Conquistador de los débiles
+
+830
+00:49:49,583 --> 00:49:52,211
+Humillador de los griegos
+
+831
+00:49:52,286 --> 00:49:54,345
+Destructor de los turcos
+
+832
+00:49:54,422 --> 00:49:57,050
+Debo volver rápidamente al trabajo
+
+833
+00:49:57,124 --> 00:50:01,060
+- Yo soy Miles Gloriosus
+- Soy Miles Gloriosus
+
+834
+00:50:01,128 --> 00:50:05,189
+Yo soy modelo de virtudes
+Soy modelo de virtudes
+
+835
+00:50:05,266 --> 00:50:08,258
+Yo en la guerra el más admirado
+
+836
+00:50:08,335 --> 00:50:10,360
+En el ingenio el más inspirado
+
+837
+00:50:10,438 --> 00:50:12,429
+En el amor el más deseado
+
+838
+00:50:12,506 --> 00:50:14,633
+En la vestimenta el mejor exhibido
+
+839
+00:50:14,708 --> 00:50:17,700
+Soy una ostentación
+
+840
+00:50:17,778 --> 00:50:19,769
+Miren esos ojos
+Astutos y penetrantes
+
+841
+00:50:19,847 --> 00:50:22,213
+Miren el tamaño de esos muslos
+como una máquina poderosa
+
+842
+00:50:22,283 --> 00:50:25,116
+Esos son los muslos más poderosas
+que jamás he poseído
+
+843
+00:50:25,186 --> 00:50:26,585
+Quiero decir
+
+844
+00:50:26,654 --> 00:50:28,588
+Novia mía, novia mía
+
+845
+00:50:28,656 --> 00:50:30,590
+Informen a mi novia afortunada
+
+846
+00:50:30,658 --> 00:50:34,253
+Que los brazos de ensueño de Miles
+están completamente abiertos
+
+847
+00:50:34,328 --> 00:50:37,889
+De prisa, de prisa
+No tengo tiempo que perder
+
+848
+00:50:37,965 --> 00:50:39,626
+Hay santuarios
+que debo asaltar
+
+849
+00:50:39,700 --> 00:50:41,634
+Costillas que debo quebrar
+
+850
+00:50:41,702 --> 00:50:46,639
+Ojos que sacar
+y botín que dividir
+
+851
+00:50:46,707 --> 00:50:49,835
+Tráiganme a mi
+
+852
+00:50:49,910 --> 00:50:53,311
+- Novia
+- Tráiganle a su novia
+
+853
+00:50:53,380 --> 00:50:58,147
+Tráiganle a su novia
+
+854
+00:51:00,154 --> 00:51:02,213
+Muévanse a un lado, todos.
+
+855
+00:51:02,289 --> 00:51:05,281
+Mis pasos son largos.
+
+856
+00:51:05,359 --> 00:51:08,760
+- ¡Salve, Miles Gloriosus!
+- ¿Y tú eres...?
+
+857
+00:51:08,829 --> 00:51:11,457
+Marcus Lycus.
+Tu presencia me deslumbra.
+
+858
+00:51:11,532 --> 00:51:14,126
+A todos les pasa eso.
+¿Dónde está mi novia?
+
+859
+00:51:14,201 --> 00:51:16,431
+Tengo que contarte un cuento muy triste,
+valiente capitán.
+
+860
+00:51:16,504 --> 00:51:19,166
+- Malas noticias.
+- ¿No te informó mi ayudante...
+
+861
+00:51:19,240 --> 00:51:22,607
+que si algo malo ocurría
+con esta doncella, quemaría tu casa...
+
+862
+00:51:22,676 --> 00:51:25,008
+daría tus mujeres a mis soldados
+y perderías la vida?
+
+863
+00:51:25,079 --> 00:51:27,843
+No lo hizo.
+¿Lo hizo? Lo hizo.
+
+864
+00:51:27,915 --> 00:51:30,383
+Te lo informó y hablo en serio.
+
+865
+00:51:31,852 --> 00:51:33,547
+Han habido algunos errores.
+
+866
+00:51:33,621 --> 00:51:36,055
+¡Mira! Este es el hombre
+que quieres. Díselo.
+
+867
+00:51:36,123 --> 00:51:39,581
+- Dile quién soy yo.
+- Todos saben quién eres, Lycus.
+
+868
+00:51:39,660 --> 00:51:41,218
+¡No, dile quién soy yo!
+
+869
+00:51:41,295 --> 00:51:45,197
+- ¡Díselo!
+- Confía en mí. Es Marcus Lycus.
+
+870
+00:51:45,266 --> 00:51:47,291
+¡No es así! ¡El es Lycus!
+
+871
+00:51:47,368 --> 00:51:50,633
+Señor, si miras adentro, no encontrarás
+nada excepto hombres encapuchados.
+
+872
+00:51:50,704 --> 00:51:54,800
+Somos una orden sagrada. Una antigua
+hermandad de leprosos. lmpuros.
+
+873
+00:51:58,279 --> 00:52:01,680
+- ¿Lycus? ¿Qué hay de esta mala noticia?
+- No hay malas noticias.
+
+874
+00:52:01,749 --> 00:52:04,377
+Sólo digo eso
+para no poner celosos a los dioses.
+
+875
+00:52:04,451 --> 00:52:06,385
+¡Ella es fea! ¡Fea!
+
+876
+00:52:08,556 --> 00:52:09,716
+Es hermosa.
+
+877
+00:52:10,824 --> 00:52:14,760
+- No quería que ellos te envidiaran.
+- ¿Cómo es ella?
+
+878
+00:52:14,828 --> 00:52:17,854
+Un rostro tan lindo,
+un corazón tan puro, señor...
+
+879
+00:52:17,932 --> 00:52:22,028
+si hubieras nacido mujer,
+habrías sido ella.
+
+880
+00:52:22,102 --> 00:52:24,662
+¿Así de magnífica?
+
+881
+00:52:24,738 --> 00:52:26,899
+Pronto estará lista.
+Quizás si traemos comida--
+
+882
+00:52:26,974 --> 00:52:29,909
+No será necesario.
+La esperaré en tu casa.
+
+883
+00:52:31,745 --> 00:52:34,179
+Quiero decir que sí.
+Sólo me salió un no.
+
+884
+00:52:34,248 --> 00:52:37,240
+- ¿Y quién eres tú?
+- Mi jefe de eunucos, señor.
+
+885
+00:52:37,318 --> 00:52:39,684
+Si te ofende,
+sólo dale un puntapié.
+
+886
+00:52:39,753 --> 00:52:44,019
+Rodeen la casa. Mientras esté adentro,
+no dejen entrar a nadie.
+
+887
+00:52:44,091 --> 00:52:47,857
+¿De qué se trata?
+¿Por qué no le diste la chica?
+
+888
+00:52:47,928 --> 00:52:49,987
+¿No es hora de que ambos empecemos
+a confiar el uno al otro?
+
+889
+00:52:50,064 --> 00:52:52,760
+Uno de nosotros aún no está listo.
+¿Por qué no le diste la chica?
+
+890
+00:52:52,833 --> 00:52:54,767
+Se niega a irse con él...
+
+891
+00:52:54,835 --> 00:52:56,769
+pero el amo Hero
+fue a buscarle una poción.
+
+892
+00:52:58,872 --> 00:53:01,136
+Así que mantén al amo
+en el baño hasta--
+
+893
+00:53:01,208 --> 00:53:04,405
+Preparen comida, bebidas, diversión
+y una orgía para 14 personas.
+
+894
+00:53:05,646 --> 00:53:09,104
+Los momentos de gracia se acabarán
+en exactamente media hora.
+
+895
+00:53:09,183 --> 00:53:13,916
+Si no me la entregan para entonces,
+esta casa será un espacio vacío.
+
+896
+00:53:13,988 --> 00:53:15,717
+Ese Lycus podrido.
+
+897
+00:53:15,789 --> 00:53:17,723
+Ese Pseudolus encantador.
+
+898
+00:53:19,426 --> 00:53:22,156
+¡Qué día más glorioso, amigo mío!
+¿Quieres acompañarme con una jarra?
+
+899
+00:53:22,229 --> 00:53:24,356
+¡Todo el mundo, una jarra conmigo!
+
+900
+00:53:25,432 --> 00:53:26,865
+¡Crassus!
+
+901
+00:53:28,135 --> 00:53:30,763
+¡Sinvergüenza! Supe que andabas
+en el extranjero buscando pulcritud.
+
+902
+00:53:30,838 --> 00:53:34,137
+Volví esta mañana con mercancías
+tan selectas como nunca has visto.
+
+903
+00:53:34,208 --> 00:53:35,607
+- Buen hombre.
+- De Creta.
+
+904
+00:53:37,845 --> 00:53:41,076
+No me toques.
+No respires cerca mío. ¡La plaga!
+
+905
+00:53:41,148 --> 00:53:42,410
+No hay ninguna plaga.
+
+906
+00:53:43,150 --> 00:53:46,608
+¿No hay plaga? ¿No hay nadie
+en el suelo sonriéndole a la muerte?
+
+907
+00:53:46,687 --> 00:53:48,279
+Es la isla más sana del mundo.
+
+908
+00:53:48,355 --> 00:53:50,255
+¡Me mintió!
+¡Me engañó!
+
+909
+00:53:50,324 --> 00:53:52,588
+- ¿A ti? ¿Tú engañado?
+- Sí, pero no por mucho tiempo.
+
+910
+00:53:52,660 --> 00:53:56,152
+¡lré donde el capitán, salvaré mi casa
+y veré que maten a ese cerdo!
+
+911
+00:53:56,230 --> 00:53:58,198
+-¿Cuál cerdo?
+-¡El esclavo más mentiroso y tramposo...
+
+912
+00:53:58,265 --> 00:54:00,324
+y desaliñado de toda Roma!
+
+913
+00:54:00,401 --> 00:54:01,891
+¿Ah, Pseudolus?
+
+914
+00:54:27,961 --> 00:54:30,020
+Capítulo seis.
+
+915
+00:54:31,365 --> 00:54:35,131
+La campaña sabina en la cual
+un joven se convierte en hombre.
+
+916
+00:54:36,503 --> 00:54:39,939
+Cargado con el botín de la conquista,
+luego me dirigí a Egipto...
+
+917
+00:54:40,007 --> 00:54:43,465
+sin saber que allí me esperaba
+esa seductora de pestañas negras...
+
+918
+00:54:43,544 --> 00:54:46,536
+que iba a jugar
+un gran papel en mi--
+
+919
+00:54:46,613 --> 00:54:47,705
+¡Pie!
+
+920
+00:54:47,781 --> 00:54:48,941
+¡Quítate!
+
+921
+00:54:51,618 --> 00:54:55,418
+Como saben, en esa época toda la Galia
+estaba dividida en ocho partes.
+
+922
+00:55:01,862 --> 00:55:02,988
+¡Retrocede, leproso!
+
+923
+00:55:03,063 --> 00:55:05,964
+No traigas tu contagio
+a la casa de Lycus.
+
+924
+00:55:06,033 --> 00:55:09,491
+Pseudolus, diles quién soy.
+No soy leproso. Soy Lycus.
+
+925
+00:55:09,570 --> 00:55:14,303
+Pobre criatura. Métanlo nuevamente
+en su guarida para enfermos.
+
+926
+00:55:14,374 --> 00:55:15,671
+¿Qué?
+
+927
+00:55:15,742 --> 00:55:18,267
+Pseudolus, me voy a vengar.
+
+928
+00:55:18,345 --> 00:55:20,506
+Entraré a ver al capitán.
+
+929
+00:55:20,581 --> 00:55:24,017
+Lo juro por el gran Necrophites,
+dios de los procuradores...
+
+930
+00:55:24,084 --> 00:55:26,780
+limosneros y alcahuetes.
+
+931
+00:55:28,589 --> 00:55:31,990
+Un dios nuevo,
+pero muy trabajador.
+
+932
+00:55:32,059 --> 00:55:34,926
+"Confío en ti, Miles",
+me dijo César firmemente.
+
+933
+00:55:34,995 --> 00:55:37,054
+"Detén a ese Tíber".
+
+934
+00:55:37,130 --> 00:55:41,362
+Sí, qué bien.
+"Detén a ese Tíber".
+
+935
+00:55:42,135 --> 00:55:44,365
+Si ven a un muchacho
+con algo que parezca sudor de yegua...
+
+936
+00:55:44,438 --> 00:55:46,599
+envíenlo inmediatamente
+al dormitorio verde.
+
+937
+00:55:56,350 --> 00:55:58,284
+¡Para abajo no!
+
+938
+00:55:58,352 --> 00:56:01,446
+Pero cuando oí a los juerguistas,
+pensé que había llegado mi capitán.
+
+939
+00:56:01,521 --> 00:56:04,285
+Llegó, pero aún no está listo.
+Espera aquí.
+
+940
+00:56:04,358 --> 00:56:07,122
+¡Esperar! Se supone que eso es
+lo que las vírgenes hacen mejor.
+
+941
+00:56:14,134 --> 00:56:16,102
+Mi hombre vino a buscarme.
+
+942
+00:56:16,169 --> 00:56:18,160
+Qué bueno, ¿dónde está?
+
+943
+00:56:18,238 --> 00:56:21,605
+Espera, mi pequeña.
+Debo lavarme las manos.
+
+944
+00:56:21,675 --> 00:56:25,202
+Volveré en un momento.
+Máximo, dos momentos.
+
+945
+00:56:25,278 --> 00:56:29,078
+Golpearé tres veces la puerta.
+
+946
+00:56:37,057 --> 00:56:39,048
+- ¿Adónde se fue?
+- Allí.
+
+947
+00:56:39,126 --> 00:56:41,526
+Golpea tres veces y es tuya.
+
+948
+00:56:43,063 --> 00:56:45,861
+Uno, dos, tres.
+
+949
+00:56:45,932 --> 00:56:47,160
+Cuatro.
+
+950
+00:56:48,268 --> 00:56:50,930
+¡El reloj de arena! Ve tú.
+
+951
+00:56:51,004 --> 00:56:55,168
+Señor, ¿podría sugerirle
+una fricción más?
+
+952
+00:56:55,242 --> 00:56:58,973
+No, suficiente. Otra fricción
+y me vas a quitar el entusiasmo.
+
+953
+00:57:06,086 --> 00:57:09,021
+Bueno. Quiero que todos--
+Escúchame, ¿quieres?
+
+954
+00:57:09,089 --> 00:57:12,456
+Cuando te lo indique, empuja fuerte,
+extremadamente fuerte. ¡Listo, empuja!
+
+955
+00:57:26,840 --> 00:57:30,241
+¿Qué significa que no puedo entrar?
+Aquí vivo, como y duermo todos los días.
+
+956
+00:57:30,310 --> 00:57:33,768
+Felicitaciones.
+Pero hoy es sólo para oficiales.
+
+957
+00:57:33,847 --> 00:57:37,647
+Amo, la poción de la pasión.
+Debe beberla mientras está caliente.
+
+958
+00:57:50,597 --> 00:57:54,260
+Si son los nuevos jardineros,
+no se apoyen en esas cosas. A trabajar.
+
+959
+00:58:00,373 --> 00:58:03,536
+Bueno, ¿dónde está?
+¿Dónde está mi poción de la pasión?
+
+960
+00:58:05,679 --> 00:58:08,011
+¿Dónde están todos? ¡Senex!
+
+961
+00:58:08,081 --> 00:58:11,016
+¡Pseudolus! ¡Hysterium!
+
+962
+00:58:11,084 --> 00:58:13,609
+- ¡Señora!
+- ¿Dónde está mi esposo?
+
+963
+00:58:13,687 --> 00:58:16,485
+Según mi mejor intuición,
+creo que está contaminando el nido...
+
+964
+00:58:16,556 --> 00:58:19,150
+y parece que ha traído
+legionarios para ayudarle.
+
+965
+00:58:19,226 --> 00:58:21,160
+¿Quiénes son estas personas?
+
+966
+00:58:21,228 --> 00:58:25,824
+En este mismo momento, la casa brindó
+hospitalidad al capitán Miles Gloriosus.
+
+967
+00:58:25,899 --> 00:58:28,333
+- ¿El Gloriosus?
+- El "el" mismo.
+
+968
+00:58:28,401 --> 00:58:31,302
+Solicitó algunos momentos de descanso
+en su encantadora residencia.
+
+969
+00:58:31,371 --> 00:58:34,397
+Como hija de un general romano,
+confié en que no objetaría.
+
+970
+00:58:34,474 --> 00:58:37,136
+¿Objetar? Pseudolus,
+has actuado bien.
+
+971
+00:58:37,210 --> 00:58:39,678
+Debo ir a saludar al capitán
+inmediatamente.
+
+972
+00:58:39,746 --> 00:58:44,012
+Cap. Gloriosus, estoy destrozada porque
+no estaba para saludarlo personalmente.
+
+973
+00:58:44,084 --> 00:58:45,881
+¿Usted es de esta casa?
+
+974
+00:58:45,952 --> 00:58:47,783
+Por muchos, muchos años.
+
+975
+00:58:47,854 --> 00:58:51,051
+Mi padre, Ud. sabe, capitán,
+fue el general Magnus.
+
+976
+00:58:51,124 --> 00:58:54,685
+En el último aniversario de su muerte,
+entretuve a más de 200 oficiales.
+
+977
+00:58:54,761 --> 00:58:57,195
+¿Doscientos? ¿Ud. sola?
+
+978
+00:58:58,165 --> 00:59:01,692
+No completamente, Hysterium
+aquí presente me ayudó mucho.
+
+979
+00:59:01,768 --> 00:59:04,532
+Hysterium, tan atento como siempre.
+
+980
+00:59:04,604 --> 00:59:07,334
+Mi boca está seca
+después de ese viaje tan polvoriento.
+
+981
+00:59:17,050 --> 00:59:19,985
+Después que me haya bañado
+y cambiado esta bata sucia...
+
+982
+00:59:20,053 --> 00:59:22,886
+quiero que le preguntes al capitán--
+
+983
+00:59:22,956 --> 00:59:25,083
+Momento. ¿Dónde dijiste
+que estaba mi esposo?
+
+984
+00:59:25,158 --> 00:59:27,854
+¿Su esposo? Está--
+
+985
+00:59:27,928 --> 00:59:30,795
+Bueno, en este momento, está--
+
+986
+00:59:33,667 --> 00:59:35,601
+Por lo menos cuando lo vi estaba.
+
+987
+00:59:35,669 --> 00:59:38,103
+Quiero saber si mi esposo
+está en la casa.
+
+988
+00:59:38,171 --> 00:59:40,105
+No, pero debería llegar pronto.
+
+989
+00:59:40,173 --> 00:59:43,267
+Señora, ¿podría sugerir
+que se bañe ahora?
+
+990
+00:59:43,343 --> 00:59:45,709
+Con esclavos
+le enviaré una bata limpia.
+
+991
+00:59:45,779 --> 00:59:48,748
+Cuando llegue,
+mantenlo ocupado en la planta baja.
+
+992
+00:59:48,815 --> 00:59:53,218
+Y dile al capitán que lo esperaré
+en el cuarto verde después del baño.
+
+993
+00:59:57,691 --> 01:00:00,159
+- ¿Qué vamos a hacer ahora?
+- Yo me encargaré del amo.
+
+994
+01:00:00,227 --> 01:00:03,253
+Encárgate tú de que ese reloj de arena
+no siga avanzando...
+
+995
+01:00:03,330 --> 01:00:06,925
+y te estaré agradecido mientras viva.
+Si llego a vivir tanto.
+
+996
+01:00:14,441 --> 01:00:17,877
+- ¡Amo!
+- Bueno, Pseudolus. ¿Dónde está?
+
+997
+01:00:17,944 --> 01:00:19,605
+- ¿Quién?
+- La nueva criada.
+
+998
+01:00:19,679 --> 01:00:22,170
+Oh, la criada.
+La criada nueva.
+
+999
+01:00:22,249 --> 01:00:24,274
+Golpee tres veces y es suya.
+
+1000
+01:00:25,886 --> 01:00:28,354
+- ¿Y qué hay de mi poción de la pasión?
+- Comience sin ella.
+
+1001
+01:00:34,461 --> 01:00:36,827
+- ¿La casa de Lycus?
+- Sí. ¿Por qué?
+
+1002
+01:00:36,897 --> 01:00:38,660
+Acróbatas para la orgía.
+
+1003
+01:00:40,100 --> 01:00:41,397
+Por allí.
+
+1004
+01:00:41,468 --> 01:00:42,901
+Gracias.
+
+1005
+01:01:08,795 --> 01:01:11,127
+Lo siento.
+La criada equivocada.
+
+1006
+01:01:12,332 --> 01:01:15,096
+¡Rápidamente! ¡Tenemos que encontrar
+otro cuarto para ti!
+
+1007
+01:01:34,287 --> 01:01:36,517
+- ¡Mi Philia!
+- ¡Mi semental!
+
+1008
+01:01:36,589 --> 01:01:38,022
+- Mi esposa.
+- ¿Mi esposo?
+
+1009
+01:01:38,091 --> 01:01:39,183
+Mis dioses.
+
+1010
+01:01:51,471 --> 01:01:54,406
+Estás atrasado. Los otros
+ya te están esperando allá adentro.
+
+1011
+01:01:59,579 --> 01:02:01,069
+Oye, los artistas por ese lado.
+
+1012
+01:02:01,147 --> 01:02:03,081
+Debo ver al capitán personalmente.
+Muy importante.
+
+1013
+01:02:03,149 --> 01:02:05,481
+- ¡Los artistas por ese lado!
+- ¡Capitán!
+
+1014
+01:02:06,987 --> 01:02:09,649
+¿Sabes lo que le pasó
+al último subalterno...
+
+1015
+01:02:09,723 --> 01:02:12,886
+que interrumpió al capitán
+en la mitad de una orgía?
+
+1016
+01:02:12,959 --> 01:02:14,893
+- Los artistas por ese lado.
+- Sí.
+
+1017
+01:02:17,330 --> 01:02:19,264
+Me dijo--
+¿Dónde está Hero?
+
+1018
+01:02:19,332 --> 01:02:22,358
+- Cálmate.
+- ¿Dónde está la señora?
+
+1019
+01:02:22,435 --> 01:02:25,563
+¿Cómo está el amo?
+¿Por qué la virgen está--
+
+1020
+01:02:25,638 --> 01:02:29,267
+¡Cálmate! ¡Calma! Yo te avisaré
+cuando sea hora que te entre el pánico.
+
+1021
+01:02:29,342 --> 01:02:31,867
+- Huelo malicia.
+- Ya es hora.
+
+1022
+01:02:32,846 --> 01:02:35,542
+¡Alguien ha manipulado esto!
+
+1023
+01:02:35,615 --> 01:02:38,516
+- ¡Tráiganme a mi novia!
+- Pronto estará lista.
+
+1024
+01:02:38,585 --> 01:02:42,749
+La están ungiendo con ungüentos para
+colocarle los brazaletes en el tobillo.
+
+1025
+01:02:42,822 --> 01:02:44,881
+Mientras tanto,
+para más entretenimiento...
+
+1026
+01:02:46,292 --> 01:02:48,226
+¡traigan a los acróbatas!
+
+1027
+01:02:49,329 --> 01:02:51,024
+¿Brazalete en el tobillo?
+
+1028
+01:02:53,066 --> 01:02:56,365
+¡Atención!
+Los cuatro acróbatas toscanos.
+
+1029
+01:03:19,859 --> 01:03:20,826
+Ese es muy bueno.
+
+1030
+01:03:20,894 --> 01:03:24,455
+Realmente hace creer
+que aterrizó de cabeza.
+
+1031
+01:03:24,531 --> 01:03:26,465
+-¿Le gustaría volver a ver a ese hombre?
+-Sí.
+
+1032
+01:03:26,533 --> 01:03:28,558
+Ese hombre otra vez para el capitán.
+
+1033
+01:03:28,635 --> 01:03:30,933
+Capitán, tengo noticias. El ma--
+
+1034
+01:03:32,072 --> 01:03:33,733
+¡Capitán, por favor!
+
+1035
+01:03:33,807 --> 01:03:36,298
+Capitán, la virgen es--
+Capitán, una palabra--
+
+1036
+01:03:36,376 --> 01:03:39,470
+¡Suban la música!
+¡El capitán quiere música más fuerte!
+
+1037
+01:03:39,546 --> 01:03:41,639
+No estoy contento con mi trabajo.
+
+1038
+01:03:41,714 --> 01:03:45,309
+¿Ha visto alguna vez un bufón como éste?
+¡Las cosas que dice!
+
+1039
+01:03:45,385 --> 01:03:47,182
+Es el mejor que jamás he visto.
+
+1040
+01:03:47,253 --> 01:03:50,484
+¡Pero su salida!
+Hagan la salida voladora.
+
+1041
+01:03:57,730 --> 01:03:59,925
+¿No le dije que lo disfrutaría?
+
+1042
+01:03:59,999 --> 01:04:01,296
+Lo disfruté, sí.
+
+1043
+01:04:01,367 --> 01:04:05,030
+Eres un buen tipo.
+Voy a lamentar tener que matarte.
+
+1044
+01:04:05,105 --> 01:04:08,700
+- ¿Matarme?
+- Si no llega en dos minutos.
+
+1045
+01:04:08,775 --> 01:04:11,107
+- ¿Podría alargarlo a cinco?
+- Dos.
+
+1046
+01:04:14,347 --> 01:04:16,406
+¡Philia!
+
+1047
+01:04:16,483 --> 01:04:18,974
+Tienes que ir donde el capitán ahora,
+te guste o no.
+
+1048
+01:04:19,052 --> 01:04:20,986
+Pero he estado lista y esperando.
+
+1049
+01:04:21,054 --> 01:04:23,522
+Pero Pseudolus dijo que
+te rehusaste hacerlo. Oh, vamos.
+
+1050
+01:04:23,590 --> 01:04:26,582
+¡Tráiganme a esa chica
+o morirán todos!
+
+1051
+01:04:26,659 --> 01:04:28,684
+¿Ves?
+No es un capitán feliz.
+
+1052
+01:04:28,761 --> 01:04:30,729
+¡Esa voz!
+Conozco esa voz.
+
+1053
+01:04:30,797 --> 01:04:32,731
+Por supuesto que la conoces.
+Ese es tu capitán.
+
+1054
+01:04:32,799 --> 01:04:36,599
+Ese no es mi capitán. Ese es el bruto
+que violó mi país, Tracia.
+
+1055
+01:04:36,669 --> 01:04:38,102
+¿Violó Tracia?
+
+1056
+01:04:38,171 --> 01:04:40,105
+Y luego regresó
+y lo hizo otra y otra vez.
+
+1057
+01:04:40,173 --> 01:04:42,368
+¿Tres veces violó Tracia?
+
+1058
+01:04:42,442 --> 01:04:44,535
+¡No me iré con él!
+
+1059
+01:04:44,611 --> 01:04:47,808
+- ¿Te irías ahora con Hero?
+- Sí, sí.
+
+1060
+01:04:47,881 --> 01:04:50,179
+Vuelve al cuarto de Hero
+y espera allí.
+
+1061
+01:04:51,417 --> 01:04:54,443
+- Quemará nuestra casa.
+- No temas. Tengo un plan sencillo.
+
+1062
+01:04:54,521 --> 01:04:58,013
+- No quiero escucharlo.
+- Le diremos que murió la virgen.
+
+1063
+01:04:58,091 --> 01:05:00,286
+Creo que ya oí eso.
+Nunca lo creerá.
+
+1064
+01:05:00,360 --> 01:05:01,793
+Necesitaremos un cuerpo.
+
+1065
+01:05:01,861 --> 01:05:04,227
+¿Puedes conseguir uno de Gusto,
+el ladrón de cuerpos?
+
+1066
+01:05:04,297 --> 01:05:07,095
+¡Me debe un favor!
+Pero ayer se murió.
+
+1067
+01:05:07,167 --> 01:05:08,896
+¿Y su cuerpo?
+
+1068
+01:05:08,968 --> 01:05:12,563
+Alguien lo robó. Veamos,
+¿a quién conocemos que esté muerto?
+
+1069
+01:05:12,639 --> 01:05:14,368
+Ojalá lo estuviera yo.
+
+1070
+01:05:23,917 --> 01:05:25,851
+Soy una desgracia para mi familia.
+
+1071
+01:05:25,919 --> 01:05:28,615
+Mi padre se revolcará en su tumba.
+
+1072
+01:05:28,688 --> 01:05:30,519
+Tu padre está vivo.
+
+1073
+01:05:30,590 --> 01:05:32,683
+- Esto lo matará.
+- Oh, ven acá.
+
+1074
+01:05:32,759 --> 01:05:36,627
+Sólo tiéndete por un momento.
+
+1075
+01:05:41,501 --> 01:05:43,025
+Eres deliciosa.
+
+1076
+01:05:43,102 --> 01:05:45,570
+- ¿Y si trata de besarme?
+- No te besará.
+
+1077
+01:05:45,638 --> 01:05:48,072
+¿Cómo puede evitarlo
+si soy tan deliciosa?
+
+1078
+01:05:48,141 --> 01:05:50,701
+Vuelve acá.
+Tiéndete inmóvil.
+
+1079
+01:05:52,979 --> 01:05:56,312
+El capitán te dará una mirada, temblará
+y seguirá su camino con el corazón roto.
+
+1080
+01:05:56,983 --> 01:06:00,077
+Nunca resultará.
+Mírame. Nada más mírame.
+
+1081
+01:06:01,020 --> 01:06:03,420
+No puedo despegar los ojos de ti.
+
+1082
+01:06:04,490 --> 01:06:06,390
+Eres encantadora
+
+1083
+01:06:07,627 --> 01:06:09,959
+Absolutamente encantadora
+
+1084
+01:06:11,097 --> 01:06:17,002
+Quién creería
+en tanto encanto
+
+1085
+01:06:17,070 --> 01:06:19,561
+- ¡No!
+- ¡Vuelve acá! ¡Tiéndete!
+
+1086
+01:06:19,639 --> 01:06:20,970
+Perfecta
+
+1087
+01:06:22,041 --> 01:06:24,771
+Dulce y cálida y atractiva
+
+1088
+01:06:25,845 --> 01:06:29,941
+Radiante como en un sueño
+
+1089
+01:06:30,016 --> 01:06:33,577
+Hecho realidad
+
+1090
+01:06:33,653 --> 01:06:36,554
+Ahora
+
+1091
+01:06:36,623 --> 01:06:39,023
+Venus parecerá conquistada
+
+1092
+01:06:40,326 --> 01:06:43,352
+Helena y sus miles de barcos
+
+1093
+01:06:43,429 --> 01:06:46,398
+Tendrán que morirse de vergüenza
+
+1094
+01:06:47,567 --> 01:06:50,798
+Eres tan encantadora
+
+1095
+01:06:50,870 --> 01:06:53,862
+Temerosamente encantadora
+
+1096
+01:06:54,941 --> 01:06:58,308
+Que el mundo nunca
+
+1097
+01:06:58,378 --> 01:07:01,643
+Parecerá el mismo
+
+1098
+01:07:03,149 --> 01:07:06,277
+Soy encantadora
+
+1099
+01:07:06,352 --> 01:07:08,320
+Absolutamente encantadora
+
+1100
+01:07:09,455 --> 01:07:13,255
+Quién creería tanto encanto
+
+1101
+01:07:13,326 --> 01:07:16,022
+- Mío
+- Yo.
+
+1102
+01:07:17,297 --> 01:07:18,525
+Perfecta
+
+1103
+01:07:19,599 --> 01:07:23,000
+Dulce y cálida y atractiva
+
+1104
+01:07:23,069 --> 01:07:26,527
+Radiante como en un sueño
+
+1105
+01:07:26,606 --> 01:07:30,599
+Hecho realidad
+
+1106
+01:07:30,677 --> 01:07:32,577
+Ahora
+
+1107
+01:07:33,713 --> 01:07:35,943
+- ¿No debería tener joyas?
+- ¿Joyas?
+
+1108
+01:07:37,583 --> 01:07:39,551
+El anillo de Erronius.
+
+1109
+01:07:42,789 --> 01:07:45,690
+Soy tan encantadora
+
+1110
+01:07:46,759 --> 01:07:49,250
+Literalmente encantadora
+
+1111
+01:07:50,396 --> 01:07:55,265
+Que el mundo
+nunca volverá a parecer igual
+
+1112
+01:07:55,335 --> 01:07:58,133
+Eres tan encantadora
+
+1113
+01:07:58,204 --> 01:08:00,832
+Que el mundo
+
+1114
+01:08:00,907 --> 01:08:04,240
+Nunca volverá a parecer
+
+1115
+01:08:04,310 --> 01:08:09,009
+lgual
+
+1116
+01:08:12,018 --> 01:08:15,112
+Ahora iré a buscar a los portaféretros.
+Espera aquí.
+
+1117
+01:08:16,189 --> 01:08:17,622
+Nunca lograré hacerlo.
+
+1118
+01:08:17,690 --> 01:08:21,820
+Lo harás. Es fácil. Sólo quédate quieto
+y ten pensamientos fúnebres.
+
+1119
+01:08:50,890 --> 01:08:55,156
+¡Llegó la hora!
+¡Saqueen la casa!
+
+1120
+01:08:55,228 --> 01:08:56,661
+¡Ay de mí!
+
+1121
+01:09:01,167 --> 01:09:03,328
+¡Y ay de mí otra vez!
+
+1122
+01:09:06,639 --> 01:09:09,574
+Por última vez,
+¿dónde está mi novia?
+
+1123
+01:09:09,642 --> 01:09:12,133
+Por la última vez,
+aquí está su novia...
+
+1124
+01:09:12,211 --> 01:09:15,840
+aquí en este sombrío féretro, muerta.
+
+1125
+01:09:15,915 --> 01:09:17,280
+¿Muerta?
+
+1126
+01:09:17,350 --> 01:09:19,477
+Muerta permanentemente.
+
+1127
+01:09:20,920 --> 01:09:25,755
+¡Oh, destino monstruoso!
+Mi novia dulce e inocente, muerta.
+
+1128
+01:09:25,825 --> 01:09:28,555
+Sí. ¡Denle aire!
+
+1129
+01:09:28,628 --> 01:09:31,153
+- ¿Cómo murió?
+- Bueno, sólo se dio vuelta--
+
+1130
+01:09:31,230 --> 01:09:33,164
+No. ¿Cómo sucedió?
+
+1131
+01:09:33,232 --> 01:09:36,793
+Un vistazo a su grandeza desde arriba.
+El impacto fue demasiado.
+
+1132
+01:09:36,869 --> 01:09:41,966
+Pobre chica. Virgen hasta el final.
+No le sirvió a Ud. de nada.
+
+1133
+01:09:42,041 --> 01:09:44,669
+¡No me mates!
+No puedo controlar mis lágrimas.
+
+1134
+01:09:44,744 --> 01:09:46,678
+Adelante.
+Así se desahoga la naturaleza.
+
+1135
+01:09:46,746 --> 01:09:51,513
+Su tocador nupcial se convierte en
+su féretro de entierro de amargo luto.
+
+1136
+01:09:51,584 --> 01:09:53,211
+Muy bien. ¿Puede decir...
+
+1137
+01:09:53,286 --> 01:09:57,052
+"Pedro Pablo Pacheco Pérez pobre pintor
+portugués pinta paisaje por poca plata"?
+
+1138
+01:09:57,123 --> 01:10:00,559
+No trates de alegrarme.
+Estoy inconsolable.
+
+1139
+01:10:00,626 --> 01:10:03,618
+¿Para qué torturarse?
+Simplemente váyase.
+
+1140
+01:10:03,696 --> 01:10:08,656
+Sí, pobre chica haber muerto tan joven
+sin siquiera haberme conocido.
+
+1141
+01:10:11,671 --> 01:10:15,573
+No puedo irme sin darle el consuelo
+de un servicio fúnebre apropiado.
+
+1142
+01:10:15,641 --> 01:10:18,838
+Señor, ¿tiene tiempo para eso? ¿No
+debería estar empezando alguna guerra?
+
+1143
+01:10:18,911 --> 01:10:20,105
+¡Silencio!
+
+1144
+01:10:20,179 --> 01:10:23,979
+lnsisto en conducir un funeral.
+Llamen a las lloronas.
+
+1145
+01:10:24,050 --> 01:10:26,416
+Lloronas. Retrocedan.
+
+1146
+01:10:28,321 --> 01:10:31,779
+- ¿Qué quiere decir con un funeral?
+- Un réquiem rápido, un salmo a prisa.
+
+1147
+01:10:31,858 --> 01:10:34,190
+Está bien, pero todas las monedas
+que coloque sobre mis ojos, son mías.
+
+1148
+01:10:34,260 --> 01:10:36,251
+- Hecho.
+- Con seguridad que estoy deshecho.
+
+1149
+01:10:36,929 --> 01:10:39,762
+Junten leña.
+Ella será cremada.
+
+1150
+01:10:48,641 --> 01:10:50,734
+lnmediatamente debes llevar eso arriba,
+al dormitorio verde.
+
+1151
+01:11:08,761 --> 01:11:10,456
+- ¡Hijo!
+- ¡Padre!
+
+1152
+01:11:10,530 --> 01:11:13,727
+- Mi poción de la pasión.
+- ¡No!
+
+1153
+01:11:16,402 --> 01:11:18,063
+Es sudor de yegua.
+
+1154
+01:11:18,137 --> 01:11:21,231
+Perdóname por desconfiar de ti
+alguna vez, querido...
+
+1155
+01:11:22,108 --> 01:11:26,067
+pero en los últimos 29 años
+has estado un poco distante.
+
+1156
+01:11:31,183 --> 01:11:34,209
+Voy a componer un salmo fúnebre.
+
+1157
+01:11:34,287 --> 01:11:36,312
+Hágalo. Uno bonito y cortito.
+
+1158
+01:11:36,389 --> 01:11:40,120
+Acérquense, doncellas del dolor
+
+1159
+01:11:41,227 --> 01:11:43,058
+Hagan sonar la flauta
+
+1160
+01:11:44,130 --> 01:11:46,621
+Toquen la corneta
+
+1161
+01:11:46,699 --> 01:11:48,997
+Pulsen el laúd
+
+1162
+01:11:50,303 --> 01:11:52,931
+Adelante con los lamentos
+
+1163
+01:12:10,756 --> 01:12:13,554
+Toda Creta estaba a sus pies
+
+1164
+01:12:13,626 --> 01:12:16,459
+Toda Tracia era su esclava
+
+1165
+01:12:16,529 --> 01:12:19,521
+Toda Esparta amaba su encanto
+
+1166
+01:12:19,599 --> 01:12:22,693
+- Y Galia
+- Y España
+
+1167
+01:12:22,768 --> 01:12:25,259
+- Y Grecia
+- Y Egipto
+
+1168
+01:12:25,338 --> 01:12:27,101
+Y Siria
+
+1169
+01:12:27,173 --> 01:12:29,107
+Y Mesopotamia
+
+1170
+01:12:34,880 --> 01:12:37,348
+- ¿Qué es eso?
+- Un funeral.
+
+1171
+01:12:37,416 --> 01:12:40,283
+Alguien murió, ¿no?
+
+1172
+01:12:40,353 --> 01:12:43,186
+Sí. La doncella del capitán.
+
+1173
+01:12:43,255 --> 01:12:45,246
+¡La doncella del capitán!
+
+1174
+01:12:52,298 --> 01:12:54,528
+- Está muerta.
+- Sí.
+
+1175
+01:12:55,835 --> 01:12:57,769
+Entonces, debo matarme.
+
+1176
+01:13:00,306 --> 01:13:02,774
+Es contra la ley de Roma
+quitarse la vida.
+
+1177
+01:13:02,842 --> 01:13:04,935
+El castigo es la muerte.
+
+1178
+01:13:05,011 --> 01:13:08,344
+- Entonces, lucharé contra un gladiador.
+- Podrías ganar.
+
+1179
+01:13:08,414 --> 01:13:12,510
+Sí. Me arrojaré a los leones.
+
+1180
+01:13:24,964 --> 01:13:27,899
+Digan los encantos
+
+1181
+01:13:27,967 --> 01:13:30,333
+Canten los hechizos
+
+1182
+01:13:31,437 --> 01:13:33,371
+Doblen las campanas
+
+1183
+01:13:34,507 --> 01:13:36,941
+Crucen los brazos
+
+1184
+01:13:41,514 --> 01:13:45,382
+En nombre del cuerpo, quisiera
+agradecerle por un funeral encantador.
+
+1185
+01:13:45,451 --> 01:13:48,648
+No sé Ud.,
+pero yo he sufrido suficiente.
+
+1186
+01:13:48,721 --> 01:13:52,885
+Así que sugiero que se vaya
+y yo me llevaré el cuerpo.
+
+1187
+01:13:53,592 --> 01:13:56,390
+Segundo salmo fúnebre.
+
+1188
+01:13:59,231 --> 01:14:01,461
+¡Se va a arrojar a los leones!
+
+1189
+01:14:01,534 --> 01:14:03,900
+Bueno, entonces yo también debo morir.
+
+1190
+01:14:05,805 --> 01:14:10,105
+Hoy es el día del sacrificio humano
+en el Templo de las Vírgenes Vestales.
+
+1191
+01:14:10,176 --> 01:14:12,872
+lré para allá
+y me ofreceré a los dioses.
+
+1192
+01:14:17,650 --> 01:14:20,141
+- Oye, ¿ves eso?
+- ¡Sí, pero mira eso!
+
+1193
+01:14:24,423 --> 01:14:25,617
+¿Por qué estás apurada?
+
+1194
+01:14:25,691 --> 01:14:28,956
+¿Amenazarías con tu pica
+al juguete de tu capitán?
+
+1195
+01:14:29,028 --> 01:14:31,394
+¿Capitán?
+No me han dado instrucciones.
+
+1196
+01:14:32,031 --> 01:14:36,491
+El capitán envió a buscarme
+especialmente. Déjenme pasar.
+
+1197
+01:14:38,003 --> 01:14:41,495
+Compensaré esto de maneras que
+derretirán cada tornillo de tu armadura.
+
+1198
+01:14:41,574 --> 01:14:44,441
+- ¿Es real?
+- Muérdelo y verás.
+
+1199
+01:14:44,510 --> 01:14:46,444
+Y eso va por mí también.
+
+1200
+01:15:03,763 --> 01:15:06,288
+Rociar el suelo
+
+1201
+01:15:06,365 --> 01:15:08,299
+Rasgar la lira
+
+1202
+01:15:09,335 --> 01:15:12,202
+Regar el aceite
+
+1203
+01:15:12,271 --> 01:15:14,762
+Construir la pira
+
+1204
+01:15:14,840 --> 01:15:17,468
+¿Una pira? ¿Qué clase de pira?
+
+1205
+01:15:17,543 --> 01:15:19,477
+Una pira de fuego.
+
+1206
+01:15:19,545 --> 01:15:21,740
+Oh, una pira de fuego.
+
+1207
+01:15:23,115 --> 01:15:25,345
+- Debe ser quemada.
+- ¿Quemada?
+
+1208
+01:15:25,417 --> 01:15:28,682
+- Quiero sus cenizas.
+- ¿Cenizas? ¡Ay!
+
+1209
+01:15:31,023 --> 01:15:32,456
+Capitán, le imploro...
+
+1210
+01:15:32,525 --> 01:15:35,961
+no nos corresponde
+destrozar tal hermosura.
+
+1211
+01:15:36,028 --> 01:15:37,962
+Los dioses la aguardan.
+
+1212
+01:15:38,030 --> 01:15:41,227
+Se enojarían
+si les enviamos una virgen ahumada.
+
+1213
+01:15:41,300 --> 01:15:44,235
+- No quiero ofender a los dioses.
+- ¿Quién quiere?
+
+1214
+01:15:44,303 --> 01:15:46,237
+Me iré por mi camino melancólico.
+
+1215
+01:15:46,305 --> 01:15:49,103
+Muy bien, señor. Adiós.
+
+1216
+01:15:49,175 --> 01:15:50,574
+¡Espera!
+
+1217
+01:15:51,677 --> 01:15:54,168
+- Un beso de despedida.
+- Por supuesto.
+
+1218
+01:15:55,915 --> 01:15:57,075
+Tú no.
+
+1219
+01:15:57,883 --> 01:15:59,817
+¡No debe hacerlo!
+Podría enfermarse.
+
+1220
+01:15:59,885 --> 01:16:03,321
+La verdad es que se murió
+de una enfermedad contraída en Creta.
+
+1221
+01:16:03,389 --> 01:16:06,449
+- ¿Qué enfermedad?
+- La plaga.
+
+1222
+01:16:06,525 --> 01:16:08,322
+¡La plaga!
+
+1223
+01:16:14,733 --> 01:16:16,030
+¡Sálvese quien pueda!
+
+1224
+01:16:21,707 --> 01:16:23,698
+¡Silencio!
+
+1225
+01:16:25,744 --> 01:16:27,371
+- No hay plaga.
+- ¿Qué?
+
+1226
+01:16:27,446 --> 01:16:30,745
+Hoy regresé de Creta
+y no hay plaga.
+
+1227
+01:16:30,816 --> 01:16:33,546
+Entonces, ¿por qué gritaba
+toda la gente?
+
+1228
+01:16:33,619 --> 01:16:36,713
+Búsquenme al capitán.
+No se queden parados.
+
+1229
+01:16:36,789 --> 01:16:40,088
+Tú, búscame al capitán.
+Señor...
+
+1230
+01:16:40,159 --> 01:16:43,356
+Le traigo noticias maravillosas.
+La virgen no tiene la plaga.
+
+1231
+01:16:43,429 --> 01:16:46,557
+¡Silencio, mujer! Lo sé.
+Se murió de otras causas.
+
+1232
+01:16:46,632 --> 01:16:49,499
+¿Se murió? Cómo-- Era jovencita.
+
+1233
+01:16:49,568 --> 01:16:53,732
+Pobre polilla.
+Revoloteó demasiado cerca de mi llama.
+
+1234
+01:16:53,806 --> 01:16:57,003
+Demasiado llena de amor.
+Pobre corazoncito.
+
+1235
+01:16:57,076 --> 01:16:59,237
+¡Corazón! ¡Sí, eso es!
+
+1236
+01:16:59,311 --> 01:17:02,508
+Le cortaré el corazón
+y lo llevaré conmigo por siempre jamás.
+
+1237
+01:17:02,581 --> 01:17:04,776
+- Esta chica está viva.
+- Y se quedará así.
+
+1238
+01:17:04,850 --> 01:17:08,115
+- ¡Agárrenla!
+- ¡A buscarla!
+
+1239
+01:17:08,187 --> 01:17:09,620
+¡Agárrenlos a todos!
+
+1240
+01:17:09,688 --> 01:17:12,714
+¡Pongan a todo el vecindario
+bajo la espada!
+
+1241
+01:17:12,791 --> 01:17:13,951
+Señor, una pregunta.
+
+1242
+01:17:14,026 --> 01:17:16,551
+Si encontrara a su doncella,
+¿me dejaría vivi--
+
+1243
+01:17:16,629 --> 01:17:18,096
+Un momento, por favor.
+
+1244
+01:17:18,163 --> 01:17:22,099
+¡Si no encuentran a la doncella,
+destruiré no sólo esta casa...
+
+1245
+01:17:22,167 --> 01:17:25,898
+sino todas las casas vecinas y cada
+persona que se encuentre en ellas!
+
+1246
+01:17:25,971 --> 01:17:27,336
+Y ahora, señora, ¿su pregunta?
+
+1247
+01:17:27,406 --> 01:17:30,807
+Sólo era una tonta idea femenina.
+Encontraré a su doncella.
+
+1248
+01:17:31,644 --> 01:17:34,511
+Ahora, mi preciosa,
+cumple tu promesa.
+
+1249
+01:17:38,250 --> 01:17:41,083
+¡Qué fiera!
+Te ves hermosa cuando te enojas.
+
+1250
+01:17:41,153 --> 01:17:44,748
+- ¡Arruinado!
+- Tenemos que encontrar a Hero y Philia.
+
+1251
+01:17:44,823 --> 01:17:46,518
+¡Mira! ¿Ves lo que dijo?
+
+1252
+01:17:46,592 --> 01:17:48,890
+¿Qué dijo?
+Y por favor no me lo digas.
+
+1253
+01:17:48,961 --> 01:17:52,419
+¡Philia quiere sacrificarse
+y Hero se va a arrojar a los leones!
+
+1254
+01:17:52,498 --> 01:17:55,092
+Esto es para preocuparse.
+¡Vamos, Gymnasia!
+
+1255
+01:17:55,167 --> 01:17:57,328
+Rápido al templo a buscar a Philia.
+
+1256
+01:17:57,403 --> 01:18:00,839
+¡Yo salvaré a Hero
+y nos juntamos allí!
+
+1257
+01:18:00,906 --> 01:18:03,204
+Hace 29 años pasó exactamente lo mismo.
+
+1258
+01:18:03,275 --> 01:18:06,335
+Será mejor que vaya al templo.
+
+1259
+01:18:06,412 --> 01:18:09,108
+Te desafío a que nunca más
+tomes la poción de la pasión.
+
+1260
+01:18:09,181 --> 01:18:13,811
+¡Quisiera saber qué haces que te cansa
+tanto! He notado que nunca te cansas--
+
+1261
+01:18:26,332 --> 01:18:28,732
+Quiero arrojarme a los leones.
+¿Adónde voy?
+
+1262
+01:18:30,235 --> 01:18:32,203
+- Pompeya.
+- ¿Disculpe?
+
+1263
+01:18:32,271 --> 01:18:35,900
+Hoy no hay función.
+Los gladiadores sólo están entrenándose.
+
+1264
+01:18:35,975 --> 01:18:37,408
+¿Entrenándose?
+
+1265
+01:18:40,279 --> 01:18:43,271
+¡Vamos, esclavos miserables, muévanse!
+
+1266
+01:18:44,850 --> 01:18:46,841
+Llegamos. Lote cuatro.
+
+1267
+01:18:46,919 --> 01:18:48,853
+Derecho.
+
+1268
+01:18:48,921 --> 01:18:51,355
+Muévanse, esclavos. ¡Muévanse!
+
+1269
+01:18:53,859 --> 01:18:56,259
+Vaya. Adelante.
+Sigan moviéndose.
+
+1270
+01:18:56,328 --> 01:18:59,456
+Por allá. Ponte en la fila.
+
+1271
+01:18:59,531 --> 01:19:02,056
+¿Cómo estás? ¿Bien?
+¿Tuviste un buen día?
+
+1272
+01:19:04,770 --> 01:19:07,170
+¡Hero! ¡Amo Hero! Espera aquí.
+
+1273
+01:19:07,239 --> 01:19:09,503
+Oye, no estamos abiertos al público.
+
+1274
+01:19:09,575 --> 01:19:11,440
+Debo ver a ese joven
+que acaba de entrar.
+
+1275
+01:19:12,244 --> 01:19:15,236
+Lo verás.
+Lo traerán en cualquier momento.
+
+1276
+01:19:26,191 --> 01:19:28,716
+El secreto de la acción--
+
+1277
+01:19:30,396 --> 01:19:32,830
+El secreto de la acción
+está en la muñeca.
+
+1278
+01:19:32,898 --> 01:19:36,698
+Verás, tiene que fluir.
+Tú estás tirando bruscamente.
+
+1279
+01:19:36,769 --> 01:19:38,202
+Eso.
+
+1280
+01:19:40,672 --> 01:19:43,607
+No. Piensa como si fuera
+una extensión de tu brazo.
+
+1281
+01:19:43,675 --> 01:19:45,734
+Lo apretaste
+en el último minuto, ¿no?
+
+1282
+01:19:45,811 --> 01:19:48,006
+Te estás preocupando demasiado.
+
+1283
+01:19:48,080 --> 01:19:51,049
+Trata de pegar un par
+sin pensarlo mucho, ¿de acuerdo?
+
+1284
+01:19:51,116 --> 01:19:52,276
+Hazlo.
+
+1285
+01:19:56,255 --> 01:19:57,882
+Eso incluso se sintió mejor, ¿no?
+
+1286
+01:19:58,590 --> 01:20:00,785
+Siempre soy mejor como entrenador.
+
+1287
+01:20:00,859 --> 01:20:03,657
+Entonces, no te preocupes.
+Sólo--
+
+1288
+01:20:05,531 --> 01:20:10,400
+Tranquilo. Verás, él se cayó
+de manera extraña. Cierto.
+
+1289
+01:20:21,080 --> 01:20:22,843
+No. Nuevamente lo tiraste muy brusco.
+
+1290
+01:20:29,088 --> 01:20:32,353
+Mucho mejor, sí.
+Tienes un ritmo natural.
+
+1291
+01:20:36,161 --> 01:20:38,095
+Por favor. ¿Te importa?
+
+1292
+01:20:41,133 --> 01:20:44,933
+Ese estuvo feo y desagradable.
+Ese tipo silbando te está distrayendo.
+
+1293
+01:20:45,003 --> 01:20:47,198
+Es el último.
+No vale la pena enviar a buscar más.
+
+1294
+01:20:47,272 --> 01:20:50,730
+Veamos si podemos poner a éste
+directo en la caja de Nerón.
+
+1295
+01:20:50,809 --> 01:20:52,299
+Un movimiento agradable y lento.
+
+1296
+01:20:53,512 --> 01:20:55,139
+Por favor.
+
+1297
+01:20:58,951 --> 01:21:00,384
+¿Te importa?
+
+1298
+01:21:05,090 --> 01:21:07,388
+Aún estás moviendo la muñeca
+bruscamente.
+
+1299
+01:21:10,062 --> 01:21:12,257
+¡Philia está viva!
+¡Está en el Templo de las Vírgenes!
+
+1300
+01:21:12,331 --> 01:21:15,027
+¡Ve ahora! ¡Sálvala! ¡Ve!
+
+1301
+01:21:58,076 --> 01:21:59,373
+Dámelo.
+
+1302
+01:22:33,045 --> 01:22:34,740
+Ven, rápido. Apúrate.
+
+1303
+01:22:40,552 --> 01:22:41,883
+¡Allí están!
+
+1304
+01:23:07,546 --> 01:23:10,310
+Y ahora un momento de silencio...
+
+1305
+01:23:10,382 --> 01:23:12,316
+antes de que nuestra hija comience...
+
+1306
+01:23:12,384 --> 01:23:14,318
+su último viaje.
+
+1307
+01:23:17,889 --> 01:23:19,652
+Toma.
+
+1308
+01:23:21,260 --> 01:23:22,921
+¡Mi Hero!
+
+1309
+01:23:22,995 --> 01:23:25,555
+¡Por favor! Ningún sonido mortal
+debe interferir.
+
+1310
+01:23:25,631 --> 01:23:27,394
+Pero pensé que estaba muerto.
+
+1311
+01:23:27,466 --> 01:23:29,457
+Debo irme con él. Lo amo.
+
+1312
+01:23:29,534 --> 01:23:31,866
+- Sí, ahora.
+- Así sea.
+
+1313
+01:23:31,937 --> 01:23:34,838
+Corre, chica.
+
+1314
+01:23:34,906 --> 01:23:37,875
+Traigan otra víctima al altar.
+
+1315
+01:24:20,852 --> 01:24:23,582
+¡Amo Hero, espera!
+
+1316
+01:24:42,074 --> 01:24:44,770
+¡Amo Hero, espera! ¡Mi libertad!
+
+1317
+01:24:44,843 --> 01:24:47,937
+- ¡Me lo prometiste!
+- ¡Mira! ¡Pseudolus!
+
+1318
+01:24:48,013 --> 01:24:53,076
+¡Amo Hero, espera!
+¡Tus padres! ¡Hice una promesa!
+
+1319
+01:24:53,151 --> 01:24:56,052
+¡Hero, espera!
+¡El capitán! ¡Hice una promesa!
+
+1320
+01:24:58,023 --> 01:24:59,752
+¡Regresa!
+
+1321
+01:25:28,420 --> 01:25:31,856
+El clima más refrescante del mundo.
+
+1322
+01:26:12,197 --> 01:26:14,062
+¡Regresa!
+
+1323
+01:26:48,567 --> 01:26:51,900
+¡Toma eso! ¡Y eso y eso!
+
+1324
+01:26:51,970 --> 01:26:53,528
+¡Aléjate!
+
+1325
+01:26:59,144 --> 01:27:01,374
+¡Agáchate!
+
+1326
+01:27:05,283 --> 01:27:07,183
+¡Socorro! ¡Socorro!
+
+1327
+01:27:25,837 --> 01:27:27,270
+¡Salta!
+
+1328
+01:27:34,079 --> 01:27:37,742
+Abrázame bien apretado.
+Me hace sentir tan fuerte.
+
+1329
+01:27:37,816 --> 01:27:41,081
+Bueno, personalmente, aún no estoy listo
+para una reconciliación.
+
+1330
+01:27:42,754 --> 01:27:44,585
+¡Si la quieres, llévatela!
+
+1331
+01:27:55,267 --> 01:27:56,700
+¡Oh, no! ¡Cuidado!
+
+1332
+01:28:00,205 --> 01:28:01,399
+¡Hero, ayúdame!
+
+1333
+01:28:02,274 --> 01:28:04,299
+Lo siento mucho. Gracias.
+
+1334
+01:28:14,719 --> 01:28:17,654
+¡Eres encantadora!
+
+1335
+01:28:22,994 --> 01:28:25,224
+Querida, más.
+Pégame otra vez, querida.
+
+1336
+01:28:52,924 --> 01:28:54,858
+¡No, no! ¡Alto!
+
+1337
+01:29:15,113 --> 01:29:16,546
+¡Espera! ¡Para!
+
+1338
+01:29:55,520 --> 01:29:58,717
+¡Ay, nada de ayes!
+
+1339
+01:30:14,239 --> 01:30:18,903
+Ahora de regreso a Roma para una boda
+rápida y algunas ejecuciones lentas.
+
+1340
+01:30:39,364 --> 01:30:41,059
+¡Tú, esclavo!
+
+1341
+01:30:41,132 --> 01:30:44,067
+Una pareja de caballos salvajes
+te va a destrozar, lentamente...
+
+1342
+01:30:44,135 --> 01:30:47,070
+mientras mis tropas aplauden
+y los niños se divierten.
+
+1343
+01:30:47,872 --> 01:30:50,238
+Pero tú, querida,
+no tienes nada que temer.
+
+1344
+01:30:50,308 --> 01:30:53,800
+Porque aunque te escapaste de mí,
+tengo la grandeza de perdonarte.
+
+1345
+01:30:53,878 --> 01:30:57,541
+Yo, también, puedo perdonar.
+Ahora nadie puede separarnos.
+
+1346
+01:31:00,385 --> 01:31:04,219
+¡Muéstrame el cerdo que hizo eso y
+le quebraré todos los huesos del cuerpo!
+
+1347
+01:31:08,460 --> 01:31:11,623
+- No te preocupes por el matrimonio.
+- Tercera vuelta.
+
+1348
+01:31:18,002 --> 01:31:19,936
+Discúlpeme, señora.
+
+1349
+01:31:21,039 --> 01:31:24,167
+¡El anillo! ¡Mi preciosura!
+
+1350
+01:31:24,242 --> 01:31:26,005
+¡Mi hermosura!
+
+1351
+01:31:26,911 --> 01:31:28,538
+Mi belleza.
+
+1352
+01:31:28,613 --> 01:31:31,138
+¿Por qué todos los hombres
+me encuentran tan atractiva?
+
+1353
+01:31:32,183 --> 01:31:34,845
+¡El anillo de la familia!
+¡Hija mía!
+
+1354
+01:31:34,919 --> 01:31:37,854
+- ¡Mi virgen!
+- No soy virgen.
+
+1355
+01:31:37,922 --> 01:31:39,617
+¡Esos piratas inmundos!
+
+1356
+01:31:39,691 --> 01:31:43,127
+Y no soy su hija.
+Soy una bailarina etrusca.
+
+1357
+01:31:45,296 --> 01:31:46,957
+- ¡Eres mi virgen!
+- ¡Mi hija!
+
+1358
+01:31:47,031 --> 01:31:49,192
+- ¡Mi virgen!
+- Mi cielo.
+
+1359
+01:31:49,267 --> 01:31:51,201
+¡Dioses! ¡El eunuco!
+
+1360
+01:31:51,269 --> 01:31:52,964
+¿Mi hija es un eunuco?
+
+1361
+01:31:53,037 --> 01:31:55,232
+¡Soldados, agarren a ese hombre!
+
+1362
+01:31:55,306 --> 01:31:58,070
+- Capitán, puedo explicarle.
+- Esto no puede ser.
+
+1363
+01:31:59,177 --> 01:32:01,202
+¡El leproso! ¡lmpuro!
+
+1364
+01:32:01,279 --> 01:32:05,340
+¡No! ¡No soy leproso!
+¡Y no soy mujer!
+
+1365
+01:32:05,416 --> 01:32:07,850
+Yo, señor, soy Marcus Lycus.
+
+1366
+01:32:07,919 --> 01:32:11,116
+Espera. Aquí está tu virgen.
+
+1367
+01:32:13,358 --> 01:32:15,053
+Y valió la pena esperarla.
+
+1368
+01:32:15,126 --> 01:32:17,788
+No comprendo.
+El anillo.
+
+1369
+01:32:17,862 --> 01:32:21,423
+- La bandada de gansos.
+- ¿Qué dijiste, viejo?
+
+1370
+01:32:21,499 --> 01:32:24,764
+He usado este anillo
+desde que era un niño abandonado.
+
+1371
+01:32:24,836 --> 01:32:25,860
+¡Hijo mío!
+
+1372
+01:32:25,937 --> 01:32:27,404
+¡Padre!
+
+1373
+01:32:27,472 --> 01:32:28,564
+¡Has crecido!
+
+1374
+01:32:30,175 --> 01:32:32,143
+¿Hacen una bandada todos estos gansos?
+
+1375
+01:32:32,210 --> 01:32:33,541
+¿Cuánto hace que tienes eso?
+
+1376
+01:32:33,611 --> 01:32:36,580
+Desde-- No sé desde cuando
+he tenido esto.
+
+1377
+01:32:36,648 --> 01:32:37,808
+¡Mi hija!
+
+1378
+01:32:37,882 --> 01:32:39,110
+¡Mi hermana!
+
+1379
+01:32:39,184 --> 01:32:40,378
+¡Mi cortesana!
+
+1380
+01:32:40,451 --> 01:32:41,383
+Mi criada.
+
+1381
+01:32:41,452 --> 01:32:42,578
+Mi cuñado.
+
+1382
+01:32:42,654 --> 01:32:45,145
+- ¡Mi Gymnasia!
+- ¡Oh, no!
+
+1383
+01:32:45,223 --> 01:32:47,487
+- ¡Aún soy dueño de esa chica!
+- Un momento.
+
+1384
+01:32:47,559 --> 01:32:49,527
+Querido viejo, según entiendo,
+¿nació libre tu hija?
+
+1385
+01:32:49,594 --> 01:32:50,652
+Sin lugar a dudas.
+
+1386
+01:32:50,728 --> 01:32:55,529
+Lycus, todos sabemos el castigo
+por vender ciudadanos libres.
+
+1387
+01:32:55,600 --> 01:32:56,692
+¡Agárrenlo!
+
+1388
+01:32:58,102 --> 01:32:59,831
+Con cuidado. Sangro mucho.
+
+1389
+01:32:59,904 --> 01:33:02,236
+Sin embargo, querido amigo,
+él me ha dado no sólo...
+
+1390
+01:33:02,307 --> 01:33:03,865
+el regalo de boda más maravilloso,
+una esposa...
+
+1391
+01:33:03,942 --> 01:33:05,967
+especialmente una silenciosa...
+
+1392
+01:33:06,044 --> 01:33:08,842
+también me ha prometido
+una dote de 10 mil minas.
+
+1393
+01:33:08,913 --> 01:33:10,346
+¡Diez!
+
+1394
+01:33:13,218 --> 01:33:15,584
+Tal generosidad no debería
+dejar de ser recompensada.
+
+1395
+01:33:15,653 --> 01:33:17,018
+Muy bien, no lo maten.
+
+1396
+01:33:17,088 --> 01:33:18,385
+¡Hero!
+
+1397
+01:33:19,257 --> 01:33:21,748
+Padre y madre, deseo casarme.
+
+1398
+01:33:21,826 --> 01:33:25,421
+Hijo, si vas a ser tan feliz
+como lo hemos sido tu madre y yo...
+
+1399
+01:33:25,496 --> 01:33:28,124
+mi corazón sangra por ti.
+
+1400
+01:33:28,199 --> 01:33:30,133
+Amantes divididos
+
+1401
+01:33:30,201 --> 01:33:32,135
+Están reconciliados
+
+1402
+01:33:32,203 --> 01:33:34,000
+Algo para cada uno
+
+1403
+01:33:34,072 --> 01:33:35,937
+Esta noche una comedia
+
+1404
+01:33:36,007 --> 01:33:39,807
+El padre y la madre
+se tienen el uno al otro
+
+1405
+01:33:39,878 --> 01:33:41,869
+Algo para cada uno
+
+1406
+01:33:41,946 --> 01:33:43,709
+Esta noche una tragedia
+
+1407
+01:33:43,781 --> 01:33:45,806
+Tengo a las mellizas
+
+1408
+01:33:45,884 --> 01:33:47,749
+Ellas tienen al mejor
+
+1409
+01:33:47,819 --> 01:33:49,616
+Yo tengo una familia
+
+1410
+01:33:49,687 --> 01:33:51,552
+Yo logro descansar
+
+1411
+01:33:51,623 --> 01:33:53,488
+Unas pocas chicas tenemos
+
+1412
+01:33:53,558 --> 01:33:55,458
+Unas chicas nuevas conseguiremos
+
+1413
+01:33:55,526 --> 01:33:59,428
+Yo consigo lo que quiero ser
+
+1414
+01:33:59,497 --> 01:34:01,055
+Libre.
+
+1415
+01:34:01,132 --> 01:34:03,066
+Libre
+
+1416
+01:34:07,038 --> 01:34:08,972
+Nada para los reyes
+
+1417
+01:34:09,040 --> 01:34:10,940
+Nada para las coronas
+
+1418
+01:34:11,009 --> 01:34:12,943
+Algo para los amantes
+
+1419
+01:34:13,011 --> 01:34:14,911
+Mentirosos y payasos
+
+1420
+01:34:14,979 --> 01:34:18,676
+Cuál es la moraleja
+Debe haber una moraleja
+
+1421
+01:34:18,750 --> 01:34:22,516
+Esta es la moraleja
+equivocada o apropiada
+
+1422
+01:34:22,587 --> 01:34:24,452
+La moraleja mañana
+
+1423
+01:34:24,522 --> 01:34:29,289
+Comedia
+
+1424
+01:34:29,360 --> 01:34:33,854
+Esta noche
+
+1425
+01:34:48,313 --> 01:34:51,248
+FlN
+

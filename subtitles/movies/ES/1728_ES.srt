@@ -1,0 +1,3669 @@
+1
+00:00:28,000 --> 00:00:31,587
+<i>Ese sería el fin de este
+Día de la Independencia.</i>
+
+2
+00:00:31,670 --> 00:00:36,509
+<i>El reloj marca las 12 del 5 de Julio
+de 1996, damas y caballeros.</i>
+
+3
+00:00:36,593 --> 00:00:41,765
+<i>Y saben, queridos americanos,
+que acabamos de cumplir 220 años.</i>
+
+4
+00:00:41,849 --> 00:00:45,436
+<i>Y por supuesto, casi ya hemos acabado
+con la capa de ozono.</i>
+
+5
+00:00:45,519 --> 00:00:49,440
+<i>Vivimos bajo una constante alerta
+del smog. Y ahora hay una nueva droga.</i>
+
+6
+00:00:49,523 --> 00:00:52,443
+<i>No sé si habían oído esto.
+Escuchen.</i>
+
+7
+00:00:52,527 --> 00:00:55,947
+<i>Hay una nueva droga para que
+los chicos sigan matándose...</i>
+
+8
+00:00:56,030 --> 00:00:57,949
+<i>se llama "Sueños de Cristal".</i>
+
+9
+00:00:58,032 --> 00:01:01,703
+<i>¿Pueden creerlo?
+No se toma. No se fuma.</i>
+
+10
+00:01:01,786 --> 00:01:06,208
+<i>No se aspira. No se inyecta.
+¿Y cómo se hace? Se deben preguntar.</i>
+
+11
+00:01:06,249 --> 00:01:11,130
+<i>Se lo ponen en los ojos y
+aparentemente te dice mentiras.</i>
+
+12
+00:01:11,214 --> 00:01:15,969
+<i>Toda esta decadencia y aún no nos hemos
+desarmado. ¡Es increíble!</i>
+
+13
+00:01:16,052 --> 00:01:21,307
+<i>Con un poco de suerte tal vez la raza
+humana podrá vivir para ver otros 220 años.</i>
+
+14
+00:01:21,391 --> 00:01:25,479
+<i>Y, teniendo eso en cuenta,
+¡Feliz cumpleaños, América!</i>
+
+15
+00:02:05,356 --> 00:02:07,024
+<i>Todo es lo mismo</i>
+
+16
+00:02:08,776 --> 00:02:11,696
+<i>Sólo los nombres cambiarán</i>
+
+17
+00:02:12,030 --> 00:02:13,030
+<i>Todos los días</i>
+
+18
+00:02:14,032 --> 00:02:17,619
+<i>Parece que nos estamos consumiendo</i>
+
+19
+00:02:18,328 --> 00:02:20,080
+<i>Otro lugar</i>
+
+20
+00:02:21,372 --> 00:02:24,459
+<i>Donde las caras son tan frías</i>
+
+21
+00:02:24,793 --> 00:02:27,712
+<i>Viajaría toda la noche</i>
+
+22
+00:02:27,754 --> 00:02:30,883
+<i>Sólo para volver a casa</i>
+
+23
+00:02:31,050 --> 00:02:32,927
+<i>Soy un vaquero</i>
+
+24
+00:02:34,345 --> 00:02:37,474
+<i>Montado en un caballo de acero</i>
+
+25
+00:02:37,515 --> 00:02:39,392
+<i>Me quieren...</i>
+
+26
+00:02:41,269 --> 00:02:43,897
+<i>...vivo o muerto</i>
+
+27
+00:02:44,565 --> 00:02:45,649
+<i>Me quieren...</i>
+
+28
+00:02:47,734 --> 00:02:50,655
+<i>...vivo o muerto</i>
+
+29
+00:03:03,585 --> 00:03:05,671
+<i>A veces duermo</i>
+
+30
+00:03:06,838 --> 00:03:10,092
+<i>A veces no duermo en días</i>
+
+31
+00:03:10,176 --> 00:03:11,844
+<i>La gente que conozco...</i>
+
+32
+00:03:13,012 --> 00:03:16,182
+<i>...siempre va cada uno por su lado</i>
+
+33
+00:03:16,516 --> 00:03:19,185
+<i>A veces reconoces al día...</i>
+
+34
+00:03:19,602 --> 00:03:22,522
+<i>...según la botella que tomas</i>
+
+35
+00:03:23,106 --> 00:03:26,026
+<i>Y reconoces al tiempo
+cuando estás solo</i>
+
+36
+00:03:26,360 --> 00:03:28,278
+<i>Todo lo que haces es pensar</i>
+
+37
+00:03:29,196 --> 00:03:30,864
+<i>Soy un vaquero</i>
+
+38
+00:03:32,533 --> 00:03:35,286
+<i>Montado en un caballo de acero</i>
+
+39
+00:03:35,369 --> 00:03:37,205
+<i>Me quieren...</i>
+
+40
+00:03:39,207 --> 00:03:41,626
+<i>...vivo o muerto</i>
+
+41
+00:03:42,294 --> 00:03:43,962
+<i>Me quieren...</i>
+
+42
+00:03:45,630 --> 00:03:49,384
+<i>...vivo o muerto</i>
+
+43
+00:04:00,146 --> 00:04:03,734
+<i>Muy bien</i>
+
+44
+00:04:27,134 --> 00:04:28,760
+<i>Soy un vaquero</i>
+
+45
+00:04:30,096 --> 00:04:33,015
+<i>Montado en un caballo de acero</i>
+
+46
+00:04:33,098 --> 00:04:36,936
+<i>Me quieren...</i>
+
+47
+00:04:37,019 --> 00:04:40,774
+<i>...vivo o muerto</i>
+
+48
+00:04:41,274 --> 00:04:43,526
+<i>Y camino por estas calles...</i>
+
+49
+00:04:44,361 --> 00:04:47,031
+<i>...con una guitarra colgada
+en mi espalda</i>
+
+50
+00:04:51,285 --> 00:04:56,332
+<i>¡Dame el dinero! ¡Abre la caja
+y dame el maldito dinero ahora!</i>
+
+51
+00:04:56,373 --> 00:04:59,210
+No la lastimes, hijo.
+
+52
+00:05:00,128 --> 00:05:05,550
+¿Me cargas 10 dólares en la 2, Suzie?
+
+53
+00:05:05,634 --> 00:05:08,846
+- ¡Al suelo, idiota!
+- ¡Quédate abajo!
+
+54
+00:05:12,224 --> 00:05:15,644
+Sabes, esto realmente me pone muy mal.
+
+55
+00:05:15,728 --> 00:05:20,400
+Tu tienda tiene un aire tan lindo,
+limpio y fresco, y...
+
+56
+00:05:20,566 --> 00:05:24,070
+...sólo se necesitan a un par de
+pordioseros para ensuciarla.
+
+57
+00:05:24,654 --> 00:05:30,994
+Te dije al suelo, idiota,
+o te volaré la maldita cabeza.
+
+58
+00:05:31,036 --> 00:05:35,416
+Si tuviera 5 centavos por cada vez que
+algún imbécil me apunta con un arma
+
+59
+00:05:35,499 --> 00:05:37,251
+sería rico.
+
+60
+00:05:41,881 --> 00:05:44,968
+Te voy a hacer un tajo bien largo
+y profundo, motoquero.
+
+61
+00:06:01,277 --> 00:06:03,780
+Toma toda la gasolina que necesites.
+
+62
+00:06:03,863 --> 00:06:07,283
+Ese es un buen negocio.
+
+63
+00:06:07,367 --> 00:06:09,870
+Oiga, Señor, ¿tiene un nombre?
+
+64
+00:06:11,621 --> 00:06:14,959
+Harley. Harley Davidson.
+
+65
+00:06:48,495 --> 00:06:53,751
+Mi padre solía decirme,
+antes de dejar este mundo asqueroso,
+
+66
+00:06:53,834 --> 00:06:58,172
+que hay 5 reglas cuando juegas
+al pool por dinero.
+
+67
+00:06:58,757 --> 00:07:01,092
+Lección n° 1:
+
+68
+00:07:01,425 --> 00:07:04,805
+siempre debes tirar con un
+cigarrillo colgando de la boca.
+
+69
+00:07:04,930 --> 00:07:07,933
+No se puede fumar sin fuego, idiota.
+
+70
+00:07:09,435 --> 00:07:11,520
+Lo dejé.
+
+71
+00:07:13,356 --> 00:07:15,525
+Lección 2:
+
+72
+00:07:15,608 --> 00:07:19,529
+siempre familiarízate con la mesa
+antes de tirar.
+
+73
+00:07:25,201 --> 00:07:27,370
+Lección n° 3:
+
+74
+00:07:28,372 --> 00:07:33,544
+asegúrate de pasarle mucha tiza
+al palo antes de tirar.
+
+75
+00:07:39,717 --> 00:07:41,803
+Lección 4:
+
+76
+00:07:41,886 --> 00:07:47,726
+Nunca apuestes...
+si no puedes pagar.
+
+77
+00:07:59,154 --> 00:08:01,240
+Lección n° 5:
+
+78
+00:08:04,411 --> 00:08:06,496
+si pierdes,
+
+79
+00:08:07,997 --> 00:08:10,751
+párate bien derecho y erguido...
+
+80
+00:08:13,587 --> 00:08:16,924
+en aquél rincón -
+...y camina como un hombre.
+
+81
+00:08:26,184 --> 00:08:31,773
+- ¡No lo puedo creer!
+- Bien hecho, vaquero.
+
+82
+00:08:36,696 --> 00:08:38,614
+La lección ha terminado, chicos.
+
+83
+00:08:44,454 --> 00:08:49,626
+Más vale que te vayas de la ciudad,
+vaquero, antes que se me rompa una cuerda.
+
+84
+00:08:49,710 --> 00:08:51,795
+Me voy a ir...
+
+85
+00:08:53,380 --> 00:08:59,470
+en cuanto tenga 5 billetes de los grandes en
+mi bolsillo, o a tu mujer en la cama.
+
+86
+00:09:10,148 --> 00:09:13,402
+No tengo $500, vaquero.
+
+87
+00:09:14,444 --> 00:09:19,325
+Y por nada del mundo
+te acostarás con mi mujer.
+
+88
+00:09:20,368 --> 00:09:26,249
+Mi viejo decía que podían existir
+maricas bastardos como tú.
+
+89
+00:09:27,000 --> 00:09:30,504
+Saltaste al caballo equivocado, vaquero.
+
+90
+00:09:30,587 --> 00:09:34,925
+Por si no lo habías notado,
+eres el único vaquero en este lugar.
+
+91
+00:09:37,094 --> 00:09:39,430
+Él no es ningún vaquero.
+
+92
+00:09:39,514 --> 00:09:42,267
+Es más bien un chico lindo.
+
+93
+00:09:46,605 --> 00:09:47,647
+Chico lindo.
+
+94
+00:09:56,198 --> 00:10:01,871
+Oye, si es un chico tan lindo,
+deberías poder manejarlo tú solo.
+
+95
+00:10:09,713 --> 00:10:11,298
+Hijo de perra.
+
+96
+00:10:14,009 --> 00:10:15,344
+Chico lindo, ¿no?
+
+97
+00:11:05,106 --> 00:11:11,446
+¿Cuándo diablos vas a aprender a pelear
+con tipos con los que puedes pelear?
+
+98
+00:11:12,364 --> 00:11:15,617
+Tienes que pensar las cosas.
+
+99
+00:11:15,701 --> 00:11:18,871
+Tú piensas, Harley. Yo sobrevivo.
+
+100
+00:11:21,624 --> 00:11:24,627
+A propósito, ¿dónde diablos has estado?
+
+101
+00:11:26,880 --> 00:11:29,216
+Arreglando motos.
+
+102
+00:11:29,299 --> 00:11:31,719
+En un agujero de mala muerte
+fuera de Dallas.
+
+103
+00:11:32,636 --> 00:11:35,806
+- ¿Durante 2 años?
+- Estuve pensando.
+
+104
+00:11:35,890 --> 00:11:38,142
+¿Durante 2 años?
+
+105
+00:11:38,226 --> 00:11:40,728
+Estuve pensando acerca de la vida.
+
+106
+00:11:40,812 --> 00:11:43,982
+Ese es tu problema, Harley.
+
+107
+00:11:45,817 --> 00:11:48,236
+Piensas demasiado.
+
+108
+00:11:48,987 --> 00:11:52,658
+Hombre, odio esta ciudad.
+Pero es nuestro hogar, ¿no?
+
+109
+00:11:52,741 --> 00:11:57,329
+Son esos tiempos otra vez,
+¿no, Harley?
+
+110
+00:12:02,835 --> 00:12:06,256
+Eres la única familia que tengo,
+Marlboro.
+
+111
+00:12:07,590 --> 00:12:10,177
+Maldición, qué vergüenza.
+
+112
+00:12:10,260 --> 00:12:13,680
+Pude haber tenido una familia
+con Jenny Ann...
+
+113
+00:12:13,764 --> 00:12:17,018
+pero el matrimonio
+es para otros tipos, sabes.
+
+114
+00:12:18,269 --> 00:12:19,270
+Amén.
+
+115
+00:12:23,608 --> 00:12:27,946
+¿Alguna vez te has preguntado
+si habrá algo mejor?
+
+116
+00:12:30,366 --> 00:12:32,117
+Todos los días.
+
+117
+00:12:32,201 --> 00:12:35,955
+No me refiero a eso.
+Me refiero a algo...
+
+118
+00:12:37,539 --> 00:12:39,625
+...algo diferente.
+
+119
+00:12:41,877 --> 00:12:47,717
+- ¿Estás hablando del cielo?
+- Quiero decir como... como Dios.
+
+120
+00:12:48,468 --> 00:12:52,138
+¿No habrás empezado a ponerte
+religioso conmigo, no?
+
+121
+00:12:52,222 --> 00:12:54,808
+No, hombre, pero piénsalo.
+
+122
+00:12:54,892 --> 00:13:02,567
+Si hubiera un cielo y un Dios,
+me gustaría conocer al tipo.
+
+123
+00:13:02,651 --> 00:13:05,236
+Me gustaría subir ahí y
+estar con él.
+
+124
+00:13:10,659 --> 00:13:13,412
+No conocerás a Dios conmigo.
+
+125
+00:13:15,414 --> 00:13:20,753
+Cuando me muera, no quiero excusas
+por lo que he hecho.
+
+126
+00:13:31,598 --> 00:13:34,852
+Burbank. ¿Qué pasó?
+
+127
+00:13:38,188 --> 00:13:40,274
+El futuro.
+
+128
+00:13:43,528 --> 00:13:45,447
+¿Puedes creerlo?
+
+129
+00:13:45,530 --> 00:13:50,785
+Convirtieron a Burbank en un
+jodido aeropuerto internacional.
+
+130
+00:14:09,056 --> 00:14:11,558
+Mierda. Maldita sea.
+
+131
+00:14:14,645 --> 00:14:17,314
+Eres un maldito desastre, Marlboro.
+
+132
+00:14:17,398 --> 00:14:20,234
+Necesitas un nuevo par de botas
+y una nueva moto.
+
+133
+00:14:20,317 --> 00:14:22,903
+Deja mis botas en paz.
+
+134
+00:14:22,987 --> 00:14:26,241
+Pero tienes razón sobre
+éste rechinante caballo.
+
+135
+00:14:26,324 --> 00:14:28,410
+Mierda. Pedazo de mierda.
+
+136
+00:14:28,493 --> 00:14:32,915
+Tengo que meterle una bala
+y acabar con su miseria.
+
+137
+00:14:35,333 --> 00:14:41,174
+Maldición, Harley. Si le disparases
+a la mierda, no le sacarías ni el olor.
+
+138
+00:14:41,257 --> 00:14:43,092
+Oye.
+
+139
+00:14:43,176 --> 00:14:45,261
+Feliz cumpleaños.
+
+140
+00:14:50,516 --> 00:14:53,103
+Hijo de perra.
+
+141
+00:14:53,186 --> 00:14:55,272
+Casi lo olvidé.
+
+142
+00:15:00,027 --> 00:15:02,113
+Una Mágnum 44 Desert Eagle.
+
+143
+00:15:03,697 --> 00:15:06,618
+Ocho en el cargador. 1 en el caño.
+
+144
+00:15:09,371 --> 00:15:13,709
+Muy buena, hermano. Gracias.
+
+145
+00:15:13,792 --> 00:15:16,294
+¿Qué se siente ser un viejo?
+
+146
+00:15:19,298 --> 00:15:21,968
+Más viejo que un toro,
+más duro que un cuerno.
+
+147
+00:15:32,562 --> 00:15:35,982
+Tienes que apretar el gatillo,
+Harley.
+
+148
+00:15:37,067 --> 00:15:39,987
+No lo jales. No es tu pene.
+
+149
+00:15:40,070 --> 00:15:41,656
+Apriétalo.
+
+150
+00:15:42,990 --> 00:15:46,244
+<i>Todas las lágrimas dentro</i>
+
+151
+00:15:47,161 --> 00:15:50,999
+<i>¿Qué dolor traerá?</i>
+
+152
+00:15:52,501 --> 00:15:54,586
+Dios, me gusta este lugar.
+
+153
+00:15:56,171 --> 00:15:59,424
+<i>A un teléfono...</i>
+
+154
+00:15:59,925 --> 00:16:04,931
+<i>...que ha olvidado cómo sonar</i>
+
+155
+00:16:05,931 --> 00:16:11,688
+<i>Podría decir que volverás
+pronto, cariño</i>
+
+156
+00:16:21,198 --> 00:16:25,536
+<i>Les diré que pronto volverás,
+cariño</i>
+
+157
+00:16:27,038 --> 00:16:32,627
+<i>¿Pero qué le digo a mi corazón?</i>
+
+158
+00:16:33,629 --> 00:16:37,132
+Oye, viejo, se acabó el recreo.
+Tienes un restaurante que atender.
+
+159
+00:16:37,216 --> 00:16:40,385
+Hombre vivo, Harley.
+
+160
+00:16:40,469 --> 00:16:42,554
+Es tan bueno verte.
+
+161
+00:16:44,224 --> 00:16:47,226
+Lo lamentaré. Siempre lo hago.
+
+162
+00:16:49,395 --> 00:16:51,898
+Sí. ¿Quiénes son los de traje?
+
+163
+00:16:53,984 --> 00:16:57,571
+Vuelve de dondequiera que
+te hayas escapado.
+
+164
+00:16:57,654 --> 00:17:02,326
+No puedo hacerlo. Tengo asuntos
+que terminar.
+
+165
+00:17:02,409 --> 00:17:06,330
+Algunos asuntos es mejor
+no terminarlos.
+
+166
+00:17:08,749 --> 00:17:10,085
+<i>Qué dolor</i>
+
+167
+00:17:10,168 --> 00:17:13,421
+No este asunto. Nos vemos.
+
+168
+00:17:14,339 --> 00:17:18,260
+<i>Luego me iré a casa..</i>
+
+169
+00:17:18,344 --> 00:17:22,264
+<i>...a un teléfono</i>
+
+170
+00:17:22,348 --> 00:17:27,354
+<i>Oh, que ha olvidado cómo sonar</i>
+
+171
+00:17:27,603 --> 00:17:33,944
+<i>Podría decir que pronto
+volverás, cariño</i>
+
+172
+00:17:41,535 --> 00:17:47,959
+<i>Podría decir que pronto
+volverás, cariño.</i>
+
+173
+00:17:48,376 --> 00:17:54,800
+<i>Oh, pero qué le diré a mi corazón</i>
+
+174
+00:17:59,263 --> 00:18:02,057
+¿Te volvió el viejo deseo?
+
+175
+00:18:02,140 --> 00:18:05,019
+Mejor déjalo tranquilo, Harley.
+
+176
+00:18:05,061 --> 00:18:07,605
+¿No crees que Jack está todavía enfadado?
+
+177
+00:18:07,730 --> 00:18:10,566
+¿Enfadado contigo? No.
+
+178
+00:18:12,319 --> 00:18:14,780
+Quiere matarte.
+
+179
+00:18:27,085 --> 00:18:30,338
+¿Qué anda pasando, José?
+
+180
+00:18:30,421 --> 00:18:32,590
+Mira con quien vine.
+
+181
+00:18:33,675 --> 00:18:35,761
+¿Qué pasa, amigo?
+
+182
+00:18:36,761 --> 00:18:39,348
+¿Cómo estás? Qué bueno verte.
+
+183
+00:18:42,518 --> 00:18:46,981
+No pensaba que volverías.
+Muero por un poco de acción.
+
+184
+00:18:47,107 --> 00:18:50,944
+Tú y yo la vamos a
+pasar muy bien, amigo.
+
+185
+00:18:51,027 --> 00:18:53,488
+¿Jimmy y... Jack están aquí?
+
+186
+00:18:58,201 --> 00:19:03,457
+Dice que no cree que debas entrar.
+Si entras, eres hombre muerto.
+
+187
+00:19:06,002 --> 00:19:10,881
+Es mejor estar muerto y feliz
+que vivo y triste.
+
+188
+00:19:16,805 --> 00:19:19,392
+¡$200 a Jack! Hagan sus apuestas.
+
+189
+00:19:20,225 --> 00:19:22,311
+$200 a Jack.
+
+190
+00:19:28,234 --> 00:19:31,947
+Maldición. ¿No parece que
+se ha puesto más grande?
+
+191
+00:19:32,072 --> 00:19:33,406
+Puede que un poquito.
+
+192
+00:19:33,531 --> 00:19:38,162
+¡No se aceptan más apuestas!
+¡Es hora del evento principal!
+
+193
+00:19:38,245 --> 00:19:40,414
+Prepárense, caballeros.
+
+194
+00:19:41,999 --> 00:19:45,253
+A ver, ¿puedo pedir algo aquí?
+
+195
+00:19:45,335 --> 00:19:50,091
+Y son 2 cosas. Sean justos y
+mantengan la calma.
+
+196
+00:19:50,216 --> 00:19:51,884
+¡A luchar!
+
+197
+00:19:52,009 --> 00:19:53,845
+¡Vamos Jack! ¡Vamos Jack!
+
+198
+00:19:54,345 --> 00:19:56,347
+¡Vamos! ¡Vamos Jack!
+
+199
+00:20:03,272 --> 00:20:05,608
+¡Jack! ¿Jack?
+
+200
+00:20:06,776 --> 00:20:09,111
+¡Maldición!
+
+201
+00:20:14,701 --> 00:20:17,037
+Maldición, Harley,
+¿qué estás haciendo de vuelta aquí?
+
+202
+00:20:17,120 --> 00:20:20,582
+- Los extrañé a todos.
+- Te mataré, Harley.
+
+203
+00:20:20,624 --> 00:20:22,668
+- Te lo dije.
+- Prepárense.
+
+204
+00:20:22,709 --> 00:20:26,047
+Mira, Jack. No quiero pelear contigo.
+Somos amigos.
+
+205
+00:20:26,130 --> 00:20:27,214
+Éramos amigos.
+
+206
+00:20:27,298 --> 00:20:30,302
+- ¿No podríamos hablar?
+- Ninguna posibilidad.
+
+207
+00:20:30,385 --> 00:20:33,555
+Hablar es barato.
+Y no me creo nada.
+
+208
+00:20:37,225 --> 00:20:40,562
+Jimmy ¿quieres ayudarme un poco?
+
+209
+00:20:40,646 --> 00:20:43,399
+Este es su mundo, hombres.
+Yo tan sólo vivo en él.
+
+210
+00:20:47,654 --> 00:20:52,366
+Apúrate, Harley.
+Será sangriento pero rápido.
+
+211
+00:20:52,492 --> 00:20:54,577
+Un momento.
+
+212
+00:20:59,166 --> 00:21:03,587
+¿Cuánto crees que nos
+darán por esta chaqueta?
+
+213
+00:21:04,630 --> 00:21:06,674
+¿Qué dice?
+
+214
+00:21:06,758 --> 00:21:08,593
+Vaya con Dios, amigo.
+
+215
+00:21:10,428 --> 00:21:12,263
+¿Eso qué quiere decir?
+
+216
+00:21:12,305 --> 00:21:14,390
+Vaya con Dios.
+
+217
+00:21:17,936 --> 00:21:23,025
+A ver Jack, sabes que la última vez
+que hicimos esto, te partí el trasero.
+
+218
+00:21:23,108 --> 00:21:27,363
+Eso fue en la escuela, Harley,
+y Jack tuvo un brazo roto.
+
+219
+00:21:27,446 --> 00:21:30,200
+Yo se lo hice.
+
+220
+00:21:30,283 --> 00:21:32,369
+¿Recuerdas, Jack?
+
+221
+00:21:48,803 --> 00:21:50,013
+¡Maldición!
+
+222
+00:21:51,973 --> 00:21:55,143
+Hasta ahí venía bastante bien.
+
+223
+00:21:59,564 --> 00:22:00,482
+Oh...
+
+224
+00:22:03,735 --> 00:22:05,821
+No puedo ver esto.
+
+225
+00:22:10,701 --> 00:22:12,411
+Oh-oh.
+
+226
+00:22:12,495 --> 00:22:14,580
+Está arruinado.
+
+227
+00:22:17,334 --> 00:22:19,586
+Te mataré, Harley.
+
+228
+00:22:30,264 --> 00:22:32,934
+Sólo tomé la flor equivocada.
+
+229
+00:22:33,018 --> 00:22:37,605
+Yo mataría por ti, Harley.
+¿Cómo pudiste hacerme eso?
+
+230
+00:22:37,689 --> 00:22:41,985
+Siempre he sido mala compañía con
+una linda chica en la habitación.
+
+231
+00:22:42,110 --> 00:22:44,446
+Aléjate de ella, Harley.
+
+232
+00:22:44,529 --> 00:22:47,116
+La amo. Estamos casados.
+
+233
+00:22:49,869 --> 00:22:52,955
+Siempre has sido sólo tú, Jack.
+
+234
+00:22:53,039 --> 00:22:55,375
+Ella te ama a ti.
+
+235
+00:22:55,458 --> 00:22:58,044
+- ¿En serio?
+- Sólo tú.
+
+236
+00:22:58,128 --> 00:23:00,714
+- ¿Nunca a ti?
+- No. Sólo a ti.
+
+237
+00:23:02,216 --> 00:23:04,802
+Lo siento, amigo, lo siento.
+
+238
+00:23:05,136 --> 00:23:09,140
+Nunca debí haberte abierto
+la puerta, Harley.
+
+239
+00:23:09,223 --> 00:23:10,391
+Gracias, hermano.
+
+240
+00:23:10,558 --> 00:23:12,143
+Nunca. Nunca.
+
+241
+00:23:13,061 --> 00:23:15,146
+- Nunca.
+- Lo siento.
+
+242
+00:23:16,731 --> 00:23:19,317
+¡Maldición, Jack!
+
+243
+00:23:19,401 --> 00:23:21,904
+Eres mi cuñado y te quiero.
+
+244
+00:23:21,987 --> 00:23:25,824
+Pero eso no nos hace recuperar
+lo que hemos perdido esta noche.
+
+245
+00:23:25,908 --> 00:23:28,828
+El trato es que tu pierdes
+
+246
+00:23:28,911 --> 00:23:31,914
+y no le rompes su brazo.
+
+247
+00:23:31,998 --> 00:23:34,417
+El viejo y yo tenemos
+bastantes problemas.
+
+248
+00:23:34,500 --> 00:23:38,421
+Tratamos de hacer tanto dinero como
+podemos antes de perder este lugar.
+
+249
+00:23:38,505 --> 00:23:43,177
+¿Qué quieres decir con perder este lugar?
+No vas a perder este lugar.
+
+250
+00:23:43,260 --> 00:23:46,431
+- Es un ***hito.
+- Eso no significa nada, hombre.
+
+251
+00:23:46,513 --> 00:23:49,350
+Si el dinero hablara y la mierda
+caminara, nosotros caminamos.
+
+252
+00:23:49,433 --> 00:23:52,020
+Y no va a ser nada fácil.
+
+253
+00:23:52,103 --> 00:23:53,688
+¿Cuál es la historia, viejo?
+
+254
+00:23:53,771 --> 00:24:01,113
+En el '56 alquilé esta propiedad cuando nadie
+quería ser visto en esta parte de la colina.
+
+255
+00:24:01,196 --> 00:24:06,869
+Y en el '66 renové mi contrato
+bajo mis propias condiciones.
+
+256
+00:24:08,287 --> 00:24:11,123
+$350 por mes durante 30 años.
+
+257
+00:24:12,458 --> 00:24:16,046
+En 21 días, esos 30 años
+se habrán acabado.
+
+258
+00:24:16,129 --> 00:24:19,215
+Ahora, con todo el mundo
+volando a Burbank
+
+259
+00:24:19,299 --> 00:24:25,555
+nos amenazan con $2.5 millones
+por un contrato de 5 años.
+
+260
+00:24:26,724 --> 00:24:30,311
+Van a construir otro rascacielos.
+
+261
+00:24:34,565 --> 00:24:38,403
+- ¿Quién está amenazándote?
+- El banco.
+
+262
+00:24:40,405 --> 00:24:43,909
+- ¿Qué banco?
+- Great Trust.
+
+263
+00:24:47,663 --> 00:24:51,417
+¿Los de traje?
+
+264
+00:24:53,753 --> 00:24:55,588
+Bueno...
+
+265
+00:24:55,671 --> 00:25:00,594
+Sólo hay un lugar de dónde obtener
+ese dinero tan rápido.
+
+266
+00:25:00,677 --> 00:25:05,015
+- Ninguno de ellos nos prestará $2.5 millones
+- Eso seguro.
+
+267
+00:25:05,099 --> 00:25:08,102
+Hombre, no hablo de ningún préstamo.
+
+268
+00:25:11,355 --> 00:25:14,859
+- No quiero escucharlo, Harley.
+- ¿Escuchar qué?
+
+269
+00:25:14,942 --> 00:25:18,196
+- No quieres saber.
+- ¿Saber qué?
+
+270
+00:25:18,280 --> 00:25:21,116
+Dirá que debemos robar el banco.
+
+271
+00:25:21,199 --> 00:25:25,704
+No robaremos ningún maldito banco.
+No somos ladrones de bancos.
+
+272
+00:25:25,787 --> 00:25:29,459
+Se lo debemos al viejo.
+Crecimos en este lugar.
+
+273
+00:25:29,542 --> 00:25:31,960
+Uds. no me deben nada.
+
+274
+00:25:32,628 --> 00:25:34,547
+Seguro que sí, te debemos.
+
+275
+00:25:34,630 --> 00:25:38,885
+Oye, si no fuese por ti, estaríamos
+todos tirados en los caños.
+
+276
+00:25:38,968 --> 00:25:42,889
+Con un cigarro como compañero y...
+
+277
+00:25:42,972 --> 00:25:45,475
+...una aguja para volar.
+
+278
+00:25:49,229 --> 00:25:51,732
+Estoy lista para irme.
+
+279
+00:25:51,815 --> 00:25:54,318
+- Bien, nena. En un minuto.
+- ¡Ahora!
+
+280
+00:26:00,158 --> 00:26:05,080
+No cuenten conmigo en ésta.
+Le hice una promesa a Lulú.
+
+281
+00:26:07,249 --> 00:26:09,502
+A mí me hiciste un montón
+de promesas, Jack.
+
+282
+00:26:09,585 --> 00:26:12,839
+Íbamos a tener un bebé algún día.
+
+283
+00:26:12,921 --> 00:26:16,259
+No se puede formar una familia
+si uno está tras las rejas.
+
+284
+00:26:20,597 --> 00:26:25,019
+Sabes... realmente me gusta este lugar.
+
+285
+00:26:25,852 --> 00:26:29,023
+Es un hogar. Me hace sentir bien.
+
+286
+00:26:29,106 --> 00:26:33,695
+Y si tenemos que robar un banco
+para salvarlo
+
+287
+00:26:34,862 --> 00:26:37,365
+lo haré.
+
+288
+00:26:37,448 --> 00:26:39,534
+Pero no puedo hacerlo solo.
+
+289
+00:26:39,617 --> 00:26:43,455
+Uds. tendrán que venir también.
+
+290
+00:27:52,780 --> 00:27:56,784
+<i>12 minutos, Pacific y California.
+Volveremos a ti, cambio.</i>
+
+291
+00:27:56,742 --> 00:27:58,161
+<i>DESVIACIÓN
+Entendido, central.</i>
+
+292
+00:28:02,957 --> 00:28:04,460
+<i>Te copiamos.</i>
+
+293
+00:28:09,131 --> 00:28:10,216
+¡Maldición!
+
+294
+00:28:54,930 --> 00:28:59,853
+<i>Auto 3, aquí central. Dame tu 10-20
+y código de seguridad, cambio.</i>
+
+295
+00:28:59,936 --> 00:29:02,856
+<i>Central, estamos en el astillero.</i>
+
+296
+00:29:05,775 --> 00:29:08,278
+¿Qué le pasa a este tipo?
+
+297
+00:29:20,792 --> 00:29:24,546
+Tendrás que mover tu equipo.
+Tengo que hacer una entrega.
+
+298
+00:29:24,629 --> 00:29:28,217
+¿Eres sordo? Te dije que
+muevas tu...
+
+299
+00:29:28,300 --> 00:29:30,302
+Ya oí lo que dijiste.
+
+300
+00:29:31,971 --> 00:29:34,223
+Arroja tu arma.
+
+301
+00:29:34,307 --> 00:29:36,559
+No te gustará en la que
+te estás metiendo, amigo.
+
+302
+00:29:36,643 --> 00:29:40,313
+Desde 5 mts. hay una pequeña posibilidad
+de que puedas errar el disparo.
+
+303
+00:29:40,396 --> 00:29:43,817
+Yo puedo estar ciego y aún así
+volarte la cabeza, así que arrójala.
+
+304
+00:29:43,900 --> 00:29:45,986
+No, tú arrójala, idiota.
+
+305
+00:29:48,572 --> 00:29:50,657
+- ¡Maldición!
+- ¡Piensa rápido!
+
+306
+00:29:56,247 --> 00:29:57,415
+¡Maldición!
+
+307
+00:29:58,834 --> 00:30:01,669
+Vamos. Ven aquí. Siéntate.
+
+308
+00:30:04,172 --> 00:30:07,259
+Las armas fueron hechas para dispararlas,
+Harley, no para arrojarlas.
+
+309
+00:30:08,176 --> 00:30:10,763
+Vé a hacerlo, José.
+
+310
+00:30:10,846 --> 00:30:14,433
+Qué forma de disparar.
+¿Dónde lo has aprendido?
+
+311
+00:30:14,516 --> 00:30:16,936
+Lo leí en un libro.
+Venía con el arma.
+
+312
+00:30:17,019 --> 00:30:18,938
+¿Quiénes son Uds.?
+
+313
+00:30:19,021 --> 00:30:23,443
+Él es Harley Davidson y yo soy
+el hombre Marlboro.
+
+314
+00:30:23,526 --> 00:30:27,280
+Para mi, se parecen más un par
+de idiotas encapuchados.
+
+315
+00:30:33,204 --> 00:30:36,040
+¿Te parece ese el trabajo de un par
+de idiotas encapuchados?
+
+316
+00:30:36,123 --> 00:30:39,210
+Sí. Sí fueran profesionales
+habrían usado mis llaves.
+
+317
+00:30:40,962 --> 00:30:43,131
+A él le gusta hacer explotar cosas.
+
+318
+00:30:44,133 --> 00:30:45,801
+Buena mercancía. Mírala.
+
+319
+00:30:45,884 --> 00:30:50,889
+- Lindo día para trabajar, ¿no, Jimmy?
+- Mejor que nunca, hermano.
+
+320
+00:30:58,815 --> 00:31:01,067
+Es bueno trabajar con Uds., muchachos.
+
+321
+00:31:01,151 --> 00:31:05,239
+Tu asunto no es con nosotros.
+Es con ellos.
+
+322
+00:31:24,342 --> 00:31:27,595
+Lo que sea que tienen para decir,
+no quiero oírlo.
+
+323
+00:31:29,598 --> 00:31:32,100
+- Hagámoslo. Tenemos compañía.
+- Maldición, no.
+
+324
+00:31:34,520 --> 00:31:35,438
+¡Maldición!
+
+325
+00:31:41,194 --> 00:31:43,613
+¿De qué diablos se trata todo esto?
+
+326
+00:31:51,204 --> 00:31:55,292
+Harley, por qué no les tiras la escopeta a éstos.
+Tal vez le des a algo.
+
+327
+00:32:03,051 --> 00:32:05,971
+- Pensé que eras un gran tirador.
+- Sí, lo soy.
+
+328
+00:32:06,054 --> 00:32:09,808
+- ¿Entonces por qué no se han caído?
+- Deja de molestarme.
+
+329
+00:32:34,919 --> 00:32:36,170
+Vamos, muchachos.
+
+330
+00:32:46,931 --> 00:32:50,018
+- ¡Vamos, Harley!
+- ¡Vamos, Jimmy!
+
+331
+00:33:25,307 --> 00:33:29,561
+Bien, eres un grande, hombre.
+Un gran héroe.
+
+332
+00:33:29,645 --> 00:33:33,232
+Uds. necesitaban respaldo. No tenía nada
+que hacer ni nadie con quien hacerlo.
+
+333
+00:33:33,315 --> 00:33:37,904
+¡Respaldo, maldición! Harley pensando
+casi nos deja entre la espada y la pared.
+
+334
+00:33:37,987 --> 00:33:39,822
+Salvaste nuestras vidas, muchachote.
+
+335
+00:33:39,906 --> 00:33:43,242
+Uds. me deben una moto.
+Tengo que conseguir una moto nueva.
+
+336
+00:33:43,326 --> 00:33:45,328
+Oye, hombre, tendrás una moto nueva.
+
+337
+00:33:45,411 --> 00:33:48,498
+Prométanme que no le dirán nada a Lulú.
+No quiero que se enoje.
+
+338
+00:33:48,498 --> 00:33:50,000
+Se vuelve mala cuando se enoja.
+
+339
+00:33:50,083 --> 00:33:54,004
+Puedo encargarme de la moto,
+pero no puedo encargarme de la perra.
+
+340
+00:33:54,087 --> 00:33:58,425
+- ¿Por qué no? Ya lo hiciste una vez.
+- Tal vez quieran ver esta mierda.
+
+341
+00:34:04,599 --> 00:34:07,268
+- ¿Qué es?
+- Sueño de Cristal, puro.
+
+342
+00:34:07,352 --> 00:34:10,439
+¿Qué diablos es eso y
+qué diablos está haciendo aquí?
+
+343
+00:34:10,522 --> 00:34:15,193
+Es una droga. Y no tengo idea
+de qué diablos está haciendo aquí.
+
+344
+00:34:15,277 --> 00:34:19,199
+Soy un cabrón.
+Asaltamos el tren equivocado.
+
+345
+00:34:19,282 --> 00:34:21,201
+¡Maldición! ¡Qué mierda, hombre!
+
+346
+00:34:22,452 --> 00:34:25,955
+Su hermano menor murió de sobredosis
+por usar esta mierda.
+
+347
+00:34:26,038 --> 00:34:29,293
+No te preocupes, José.
+No somos traficantes.
+
+348
+00:34:32,796 --> 00:34:36,800
+Esto no es broma, Harley.
+Esto va más allá del límite.
+
+349
+00:34:36,884 --> 00:34:40,972
+Estos tipos son asesinos. Matarían a su
+padre si fuera necesario para eliminarnos.
+
+350
+00:34:41,055 --> 00:34:43,474
+Suficiente, Jimmy.
+
+351
+00:34:43,558 --> 00:34:46,812
+De entrada, nunca me gustó este plan.
+
+352
+00:34:46,895 --> 00:34:49,231
+Pero necesitaste ayuda y la tomaste.
+
+353
+00:34:49,314 --> 00:34:52,568
+Así que ahora no te quejes.
+
+354
+00:34:52,651 --> 00:34:55,404
+Lo que está hecho, está hecho.
+No hay vuelta atrás.
+
+355
+00:34:58,407 --> 00:35:00,160
+¿Quiénes son estos hombres?
+
+356
+00:35:00,243 --> 00:35:03,913
+A juzgar por lo que tenemos,
+son principiantes.
+
+357
+00:35:03,997 --> 00:35:10,587
+Los detalles nos sugieren que no tienen
+idea del cargamento que se robaron.
+
+358
+00:35:18,012 --> 00:35:23,101
+Si son amateurs, ¿cómo
+destruyeron 2 vechículos...
+
+359
+00:35:23,184 --> 00:35:27,188
+...y se las arreglaron para escapar
+con la mercadería?
+
+360
+00:35:28,857 --> 00:35:31,360
+Tuvieron muchísima suerte.
+
+361
+00:35:35,113 --> 00:35:39,785
+No tengo tiempo para suerte,
+¿no es así?
+
+362
+00:35:40,453 --> 00:35:42,872
+Recuperen lo que es mío.
+
+363
+00:35:43,789 --> 00:35:47,294
+Y maten a estos hombres,
+Alexander, ¿bien?
+
+364
+00:36:03,603 --> 00:36:06,064
+Hombre, realmente la jodimos bien.
+
+365
+00:36:09,234 --> 00:36:15,241
+¿Cómo iba a saber que alguien podía usar
+un banco como frente para traficar drogas?
+
+366
+00:36:16,241 --> 00:36:19,245
+Harley, estoy cansado y enojado.
+
+367
+00:36:20,830 --> 00:36:23,333
+Y sólo quiero relajarme.
+
+368
+00:36:24,709 --> 00:36:26,836
+Así que, deja de pensar.
+
+369
+00:36:26,919 --> 00:36:30,507
+Ahora pienso de alguna manera
+hacer las cosas correctamente.
+
+370
+00:36:34,595 --> 00:36:36,681
+Hola.
+
+371
+00:36:36,764 --> 00:36:40,267
+Sé que no me conoces,
+pero no tengo cómo volver a casa.
+
+372
+00:36:40,351 --> 00:36:43,771
+Y Jimmy dijo que me llevarías.
+
+373
+00:36:45,190 --> 00:36:47,901
+Seguro, te llevaré, Sally.
+
+374
+00:36:47,943 --> 00:36:50,112
+El nombre en la etiqueta está mal.
+
+375
+00:36:50,236 --> 00:36:52,323
+Mi nombre real es Honey.
+
+376
+00:36:53,782 --> 00:36:57,620
+Oro puro... y dulce.
+
+377
+00:36:59,789 --> 00:37:01,874
+Termino a las diez.
+
+378
+00:37:03,542 --> 00:37:08,632
+Mi viejo me decía, antes que
+dejara este mundo de porquería,
+
+379
+00:37:08,715 --> 00:37:12,219
+la mujer perfecta te puede elevar
+y la incorrecta te puede destruir.
+
+380
+00:37:12,302 --> 00:37:14,805
+Desperté una mañana...
+
+381
+00:37:17,308 --> 00:37:19,393
+...y ella se había ido.
+
+382
+00:37:21,562 --> 00:37:24,482
+Sin carta. Sin un beso de despedida.
+Sin nada.
+
+383
+00:37:24,566 --> 00:37:28,570
+Todavía siento cosas muy
+fuertes por ella.
+
+384
+00:37:29,738 --> 00:37:36,412
+Socio, sólo sé de dos curas
+para esa particular dolencia.
+
+385
+00:37:37,163 --> 00:37:41,875
+Y puesto que ya no bebes más,
+sólo te queda una.
+
+386
+00:37:43,753 --> 00:37:46,172
+Préstame tu moto.
+
+387
+00:37:48,424 --> 00:37:50,093
+Toma un taxi.
+
+388
+00:39:04,841 --> 00:39:08,678
+Levántate y pon tus manos
+detrás de tu cabeza.
+
+389
+00:39:10,513 --> 00:39:13,016
+Tan sólo estaba largando
+un poco de humo.
+
+390
+00:39:13,099 --> 00:39:17,938
+Pues lo hiciste en el lugar incorrecto.
+Contra la pared y sepáralas.
+
+391
+00:39:46,302 --> 00:39:48,388
+¿Que hay de malo esta noche?
+
+392
+00:39:37,626 --> 00:39:40,629
+Bien, vaquero, vamos a largar
+un poco de humo.
+
+393
+00:39:50,223 --> 00:39:52,309
+Me voy a casar.
+
+394
+00:39:54,561 --> 00:39:57,189
+Maldición, Robert,
+me cansé de la espera.
+
+395
+00:39:57,315 --> 00:40:00,025
+Me cansé de que vengas sólo
+cuando sientes la necesidad.
+
+396
+00:40:00,150 --> 00:40:04,989
+Me siento sola. Quiero compartir
+mi cama con alguien por la noche.
+
+397
+00:40:10,995 --> 00:40:13,999
+Rayos, ¿y no es lo que
+estamos haciendo?
+
+398
+00:40:14,916 --> 00:40:17,669
+Una, tal vez dos noches al mes,
+si es que tengo suerte.
+
+399
+00:40:19,087 --> 00:40:21,423
+Mira, soy lo que soy, Virginia.
+
+400
+00:40:21,507 --> 00:40:26,387
+Acepté eso, hasta lo ame.
+Pero no tiene que gustarme.
+
+401
+00:40:29,099 --> 00:40:31,935
+Estoy asustada por ti.
+Me preocupo.
+
+402
+00:40:32,018 --> 00:40:37,065
+Podrías pasar el resto de tu vida
+buscando lo que sea que estás buscando
+
+403
+00:40:37,107 --> 00:40:39,944
+pero algún día tendrás que
+encontrarte a ti mismo.
+
+404
+00:40:40,027 --> 00:40:43,698
+Sólo que ya no puedo
+esperar más a que lo hagas.
+
+405
+00:40:47,118 --> 00:40:49,203
+Te amo, Robert.
+
+406
+00:40:51,123 --> 00:40:55,710
+Pero después de esta noche,
+no serás más bienvenido aquí.
+
+407
+00:41:37,798 --> 00:41:39,508
+¡Oh, Mierda!
+
+408
+00:41:41,844 --> 00:41:46,683
+Eso es para Marlboro.
+Tú y yo saldremos a comer algo.
+
+409
+00:41:46,766 --> 00:41:48,601
+Eres un mal hombre, Harley.
+
+410
+00:41:52,272 --> 00:41:55,192
+¿En qué están metidos esta vez?
+
+411
+00:41:58,278 --> 00:42:02,825
+¿Sabes algo acerca de esta nueva
+droga, sueños de cristal?
+
+412
+00:42:04,202 --> 00:42:08,122
+Es 100% adictiva y mata a
+uno de cada siete adictos.
+
+413
+00:42:08,206 --> 00:42:09,457
+No te ensucies con ella.
+
+414
+00:42:09,540 --> 00:42:13,503
+Ya no me ensucio mas con drogas,
+y lo sabes.
+
+415
+00:42:15,964 --> 00:42:20,970
+Es un líquido basado en una sustancia
+de azul cristalino con una neurotoxina RAH,
+
+416
+00:42:21,053 --> 00:42:24,390
+un alucinógeno que se activa en la retina.
+
+417
+00:42:24,473 --> 00:42:29,395
+¿Una especie de entumedecedor
+que te hace mirar mejor el mundo?
+
+418
+00:42:29,437 --> 00:42:30,646
+Eso es lo bueno.
+
+419
+00:42:30,730 --> 00:42:35,068
+Lo malo es que daña el sistema nervioso,
+causando locura, luego la muerte.
+
+420
+00:42:35,151 --> 00:42:37,404
+En las calles es llamada "El sueño".
+
+421
+00:42:37,487 --> 00:42:39,573
+Gracias.
+
+422
+00:42:46,622 --> 00:42:48,708
+Estoy quebrado.
+
+423
+00:43:03,516 --> 00:43:09,105
+¿Sabes algo, Harley?
+De una extraña manera estoy celosa de ti.
+
+424
+00:43:10,857 --> 00:43:12,943
+¿Y eso por qué?
+
+425
+00:43:13,026 --> 00:43:16,697
+El resto de nosotros trabajamos
+tan duro en la vida
+
+426
+00:43:16,697 --> 00:43:18,699
+y Uds. viven el día al día.
+
+427
+00:43:18,782 --> 00:43:19,991
+Sí.
+
+428
+00:43:23,955 --> 00:43:26,040
+Nos vemos.
+
+429
+00:43:46,896 --> 00:43:49,733
+¿Qué hay entre tú y esas viejas botas?
+
+430
+00:43:49,816 --> 00:43:53,946
+Deja en paz a mis botas, Harley.
+Estoy con un humor de mierda.
+
+431
+00:43:55,530 --> 00:43:58,534
+¿Has tenido una noche dura?
+
+432
+00:43:58,658 --> 00:44:01,787
+Desperté oliendo el café.
+Dame fuego.
+
+433
+00:44:01,954 --> 00:44:05,374
+- ¿Creí que lo habías dejado?
+- Sólo dame fuego.
+
+434
+00:44:16,094 --> 00:44:18,555
+- ¿De quién es la moto?
+- Probablemente de ella.
+
+435
+00:44:19,932 --> 00:44:21,976
+Ella no tiene una Harley.
+
+436
+00:44:27,940 --> 00:44:29,400
+¿Qué estás haciendo?
+
+437
+00:44:29,525 --> 00:44:33,362
+No es de ella, pero te apuesto
+a que sé de quién es.
+
+438
+00:44:34,155 --> 00:44:36,742
+- ¿De quién?
+- De él.
+
+439
+00:44:38,535 --> 00:44:41,414
+Debes cortar y cruzar
+el cable rojo y el verde.
+
+440
+00:44:41,497 --> 00:44:47,795
+Sé como encender una moto. No me
+digas como encenderla, maldición.
+
+441
+00:44:50,006 --> 00:44:52,675
+Debes abrir el paso del combustible.
+
+442
+00:44:59,933 --> 00:45:04,104
+Si él se roba a mi chica,
+yo tomaré su moto.
+
+443
+00:45:23,250 --> 00:45:27,045
+- ¿Estás seguro de que es el lugar correcto?
+- Sí, estoy seguro.
+
+444
+00:45:27,129 --> 00:45:30,967
+- ¿Qué tan seguro?
+- Mira, estoy bien seguro.
+
+445
+00:45:31,051 --> 00:45:35,555
+Estaba bien seguro de que encontraría
+dinero en ese camión blindado.
+
+446
+00:45:35,638 --> 00:45:38,976
+Y estás realmente seguro
+de que este plan va a funcionar.
+
+447
+00:45:39,059 --> 00:45:44,065
+Espero que estés en lo correcto sino te romperé
+la cara para que no puedas pensar más.
+
+448
+00:45:44,148 --> 00:45:48,319
+Despabílate y cuéntame acerca
+del tipo que trabaja en Virginia.
+
+449
+00:45:48,403 --> 00:45:50,155
+No me importa y no le pregunté.
+
+450
+00:45:52,741 --> 00:45:57,412
+- ¿La vas a dejar ir así nomás?
+- Hasta donde entiendo, ella me dejó ir.
+
+451
+00:45:57,495 --> 00:46:01,000
+Si ella quisiera que la persiguieras,
+ése sería el juego.
+
+452
+00:46:01,083 --> 00:46:04,503
+Mi viejo me decía, antes de que
+dejara este mundo de porquería,
+
+453
+00:46:04,587 --> 00:46:06,756
+nunca persigas ómnibus o mujeres.
+
+454
+00:46:06,839 --> 00:46:09,342
+Siempre debes dejarlas un paso atrás.
+
+455
+00:46:25,275 --> 00:46:28,279
+¿Asumo que Ud. está aquí
+para hacer negocios?
+
+456
+00:46:28,362 --> 00:46:31,699
+Me gustaría hacer algún negocio
+con Ud. en otro momento.
+
+457
+00:46:31,782 --> 00:46:34,786
+Pero ahora vamos a hablar con
+el hombre de arriba.
+
+458
+00:46:34,869 --> 00:46:36,955
+No me pierdan de vista.
+
+459
+00:46:41,460 --> 00:46:43,796
+No hay problema.
+
+460
+00:46:56,393 --> 00:47:00,647
+Parece que nos equivocamos
+de carga, Marlboro.
+
+461
+00:47:07,238 --> 00:47:11,242
+- Nunca volverá a volar.
+- Te apostaré a que vuela.
+
+462
+00:47:13,995 --> 00:47:16,747
+- ¿Cuánto?
+- Te apuesto un dólar.
+
+463
+00:47:17,749 --> 00:47:24,340
+Pero si tu ganas tendrás que fiarme
+porque el taxi de anoche me dejó seco.
+
+464
+00:47:26,175 --> 00:47:28,260
+Si gano, estamos muertos.
+
+465
+00:47:31,514 --> 00:47:35,268
+Ajústate el cinturón y
+prepárate a volar.
+
+466
+00:47:37,187 --> 00:47:38,688
+American Airlines.
+
+467
+00:47:38,772 --> 00:47:42,776
+Tú tienes algo mío y
+lo quiero de vuelta.
+
+468
+00:47:42,859 --> 00:47:45,696
+¿En serio? ¿Qué es?
+
+469
+00:47:46,197 --> 00:47:51,368
+Sabes algo, tienes huevos.
+Grandes huevos.
+
+470
+00:47:52,286 --> 00:47:55,040
+Pero no tan grandes como crees.
+
+471
+00:47:55,123 --> 00:48:00,295
+Mis huevos son lo suficientemente grandes
+como para llamar su atención.
+
+472
+00:48:09,806 --> 00:48:14,060
+- ¿Qué quieres?
+- ¿Qué te parecen $2.5 millones?
+
+473
+00:48:15,395 --> 00:48:18,815
+Espera un momento.
+Mira, tengo una pequeña apuesta.
+
+474
+00:48:18,899 --> 00:48:22,486
+Agrega a esos $2.5 millones
+una moneda de un dólar.
+
+475
+00:48:22,987 --> 00:48:24,905
+¿Cuándo?
+
+476
+00:48:24,989 --> 00:48:26,156
+¿Dónde?
+
+477
+00:48:26,991 --> 00:48:29,577
+Cementerio de Aeroplanos,
+
+478
+00:48:30,661 --> 00:48:33,164
+tarde, esta noche.
+
+479
+00:48:34,665 --> 00:48:39,504
+Será mejor que no llames
+a tus muchachos o no verás nada.
+
+480
+00:48:39,588 --> 00:48:42,675
+Hablamos allí... idiota.
+
+481
+00:48:50,600 --> 00:48:51,600
+¿Sí, Señor?
+
+482
+00:48:51,684 --> 00:48:54,270
+Déjalo, Alexander.
+
+483
+00:48:55,272 --> 00:48:57,357
+Déjalo.
+
+484
+00:49:17,795 --> 00:49:19,881
+Bien, en marcha.
+
+485
+00:49:42,406 --> 00:49:45,826
+Tus muchachos son buenos...
+por ser principiantes.
+
+486
+00:49:45,909 --> 00:49:49,080
+Ellos no son mis muchachos,
+son mis amigos.
+
+487
+00:49:49,163 --> 00:49:51,915
+Sí. Veamos los cristales.
+
+488
+00:49:52,583 --> 00:49:55,336
+Veamos el dinero.
+
+489
+00:49:56,170 --> 00:49:58,256
+Ábrelo lentamente.
+
+490
+00:50:08,935 --> 00:50:12,438
+- ¿Para qué el dólar extra?
+- Tenemos una apuesta.
+
+491
+00:50:15,858 --> 00:50:16,526
+Bien.
+
+492
+00:50:37,632 --> 00:50:42,220
+Bueno, no fue como caminar en el parque,
+pero el trabajo está terminado.
+
+493
+00:50:48,227 --> 00:50:51,981
+Lo hiciste. Lo hiciste, amigo.
+
+494
+00:50:52,064 --> 00:50:54,150
+Mira esto, viejo.
+
+495
+00:50:56,986 --> 00:51:00,157
+Además de Jimmy y Lulú,
+y el resto de Uds.,
+
+496
+00:51:00,240 --> 00:51:03,911
+este lugar es el que me mantiene
+vivo día tras día.
+
+497
+00:51:04,495 --> 00:51:08,499
+Gracias por devolvérmelo.
+
+498
+00:51:08,582 --> 00:51:10,501
+Tengo cosas que hacer.
+
+499
+00:51:10,584 --> 00:51:15,674
+- Mañana abrimos de nuevo.
+- Está bien, pa.
+
+500
+00:51:17,342 --> 00:51:20,345
+Amigo, estoy muy agradecido por esto.
+
+501
+00:51:23,599 --> 00:51:26,352
+Estoy hablando de ti, Harley.
+
+502
+00:51:28,020 --> 00:51:31,440
+- Eso es la amistad.
+- Está hecho y bien.
+
+503
+00:51:31,524 --> 00:51:35,611
+Así que vamos a festejar.
+Vamos, Marlboro, intégrate.
+
+504
+00:51:36,613 --> 00:51:39,366
+Por Lulú, si ella supiese
+que los ayudé.
+
+505
+00:51:39,448 --> 00:51:42,202
+Pero porque lo hice,
+ella aún tiene trabajo.
+
+506
+00:51:42,285 --> 00:51:44,371
+Por Lulú.
+
+507
+00:51:56,384 --> 00:51:58,470
+¿Qué hay de malo?
+Lo hemos hecho bien esta noche.
+
+508
+00:51:58,553 --> 00:52:02,558
+Maldición, Harley,
+nos hemos pasado de la raya.
+
+509
+00:52:03,975 --> 00:52:06,478
+Fue muy fácil.
+
+510
+00:52:06,562 --> 00:52:10,733
+Pienso que deberíamos irnos de Dodge,
+hasta que las cosas se calmen un poco.
+
+511
+00:52:10,816 --> 00:52:13,403
+Mira esta mierda.
+
+512
+00:52:21,411 --> 00:52:25,582
+- ¿Cómo mierda podrían encontrarnos?
+- No lo sé.
+
+513
+00:52:25,666 --> 00:52:28,252
+Y seguro que estos malditos
+no nos descubrirán.
+
+514
+00:52:32,590 --> 00:52:36,845
+No esta vez.
+No puedo con esto esta vez, Harley.
+
+515
+00:52:36,928 --> 00:52:39,931
+El viejo lo tiene bajo control.
+
+516
+00:52:42,434 --> 00:52:44,936
+Sí, dile que estuvimos y nos fuimos.
+
+517
+00:52:47,690 --> 00:52:53,195
+Así es, muchacho, toma tus amiguitos
+y vete al diablo.
+
+518
+00:52:53,279 --> 00:52:55,531
+No creo que eso la haya gustado.
+
+519
+00:52:55,615 --> 00:52:58,451
+No le daré un vuelo que sea de su agrado.
+
+520
+00:53:36,576 --> 00:53:40,580
+- Debemos irnos al demonio lejos de aquí.
+- ¡No bromees!
+
+521
+00:54:03,105 --> 00:54:06,525
+Maldición, pude haber muerto hoy,
+Harley, y te culpo.
+
+522
+00:54:07,443 --> 00:54:12,447
+No, vamos a vivir, y vamos a pasar
+a través de esa ventana para hacerlo.
+
+523
+00:54:13,532 --> 00:54:15,451
+Jack, cúbreme.
+
+524
+00:54:29,716 --> 00:54:30,801
+Jack, ¡vamos!
+
+525
+00:54:35,139 --> 00:54:37,141
+Estoy detrás tuyo.
+
+526
+00:54:43,899 --> 00:54:45,734
+¿Jack?
+
+527
+00:54:47,152 --> 00:54:48,320
+¿Jack?
+
+528
+00:56:26,426 --> 00:56:28,512
+¿Señorita? Señorita, oiga, oiga.
+
+529
+00:56:28,595 --> 00:56:31,181
+Cálmese. No queremos herirla.
+
+530
+00:56:35,686 --> 00:56:38,106
+Tómala.
+
+531
+00:56:45,947 --> 00:56:48,033
+¡"Tómala" dijo él!
+
+532
+00:56:49,951 --> 00:56:50,869
+Jesús, Señorita.
+
+533
+00:56:57,126 --> 00:57:00,046
+Ésta es un área restringida.
+
+534
+00:57:05,802 --> 00:57:11,141
+En caso de que no me hayas oído,
+he dicho que te largues de aquí, mierda.
+
+535
+00:58:00,778 --> 00:58:03,531
+Odio esta ciudad de mierda.
+
+536
+00:58:03,615 --> 00:58:07,285
+Amigo, no sabes nada de esta ciudad.
+
+537
+00:58:07,368 --> 00:58:10,205
+Crecí aquí, maldito bastardo.
+
+538
+00:58:11,706 --> 00:58:15,961
+- No sabía eso.
+- Hay muchas cosas que no sabes.
+
+539
+00:58:18,631 --> 00:58:21,718
+Tratas de decirme
+que esos vaqueros reales...
+
+540
+00:58:21,801 --> 00:58:26,723
+¿esa mierda del rodeo de vaqueros
+proviene de Las Vegas?
+
+541
+00:58:28,558 --> 00:58:30,644
+Algunos de los mejores.
+
+542
+00:58:32,062 --> 00:58:34,565
+Quizás uno de los mejores.
+
+543
+00:58:43,575 --> 00:58:46,411
+Sé por que no deseas estar aquí.
+
+544
+00:58:46,494 --> 00:58:50,916
+Vamos a tener bastante tiempo
+como para asearnos y dormir.
+
+545
+00:58:50,999 --> 00:58:53,502
+Sí.
+
+546
+00:58:53,586 --> 00:58:59,675
+¿Nunca te conté de la vez que perdí
+mi virginidad en un cuarto como éste?
+
+547
+00:58:59,759 --> 00:59:03,680
+Fue en Mesquite, Texas.
+Su nombre era Annie.
+
+548
+00:59:04,514 --> 00:59:07,517
+No fue bueno que nos hayan dado
+un cuarto en el último piso.
+
+549
+00:59:07,600 --> 00:59:12,439
+Había una convención en el pueblo.
+Es todo lo que pudimos conseguir.
+
+550
+00:59:12,523 --> 00:59:15,777
+Va a ser difícil escapar
+de un cuarto como este.
+
+551
+00:59:15,860 --> 00:59:18,946
+Mira socio, no van a encontrarnos aquí.
+No lo harán.
+
+552
+00:59:19,030 --> 00:59:21,532
+Yo no apostaría a eso.
+
+553
+00:59:24,869 --> 00:59:30,459
+¿Por qué no dejas de gimotear?
+Ya comienzas a sonar como Jimmy.
+
+554
+00:59:39,718 --> 00:59:43,306
+Jimmy está muerto, pedazo de mierda.
+
+555
+00:59:50,314 --> 00:59:54,318
+Cuatro de nuestros amigos fueron
+asesinados esta noche.
+
+556
+00:59:54,402 --> 00:59:58,489
+Se fueron.
+Muertos con una etiqueta en el pie.
+
+557
+00:59:59,657 --> 01:00:02,160
+¿No te interesó?
+
+558
+01:00:02,243 --> 01:00:04,496
+¿No te importó?
+
+559
+01:00:06,164 --> 01:00:10,085
+Marlboro, yo no forcé a nadie
+para que lo hiciera.
+
+560
+01:00:10,168 --> 01:00:13,923
+Tomaron la oportunidad y
+conocían el riesgo.
+
+561
+01:00:16,092 --> 01:00:18,844
+Está bien, mira, es mi culpa.
+
+562
+01:00:18,928 --> 01:00:21,848
+Y tendré que vivir con ella.
+
+563
+01:00:21,931 --> 01:00:28,021
+Pero ahora tú y yo debemos tirar juntos
+si es que queremos sobrevivir.
+
+564
+01:00:46,708 --> 01:00:49,628
+Hola.
+
+565
+01:00:49,711 --> 01:00:51,797
+Hola.
+
+566
+01:00:51,880 --> 01:00:53,966
+¿Dónde estás?
+¿Te encuentras bien?
+
+567
+01:00:54,049 --> 01:00:56,886
+Las Vegas.
+
+568
+01:00:56,969 --> 01:01:00,974
+Te llamé porque estoy borracho y cansado.
+
+569
+01:01:01,057 --> 01:01:03,143
+Tan sólo deseaba oír tu voz.
+
+570
+01:01:03,809 --> 01:01:09,399
+Dime exactamente dónde estás y
+qué has hecho, y en qué puedo ayudarte.
+
+571
+01:01:09,984 --> 01:01:12,069
+No. No puedo hacerlo.
+
+572
+01:01:16,573 --> 01:01:20,745
+Ya he cavado muchos tumbas.
+Ninguna de ellas es la mía.
+
+573
+01:01:20,828 --> 01:01:22,997
+Robert.
+
+574
+01:01:23,080 --> 01:01:26,751
+Debes dejar de correr o tarde o temprano
+terminarás como tu padre.
+
+575
+01:01:26,835 --> 01:01:30,338
+Borracho, muerto y solo. Y todo lo que
+puedes hacer es mantenerte y esperar.
+
+576
+01:01:40,099 --> 01:01:42,018
+¿Robert?
+
+577
+01:01:42,102 --> 01:01:43,519
+¿Hola?
+
+578
+01:01:43,603 --> 01:01:44,687
+¿Estás ahí?
+
+579
+01:01:46,772 --> 01:01:49,776
+Harley, vámonos.
+Tenemos compañía.
+
+580
+01:01:49,860 --> 01:01:53,780
+- Sé como nos encontraron.
+- Dime después.
+
+581
+01:01:59,703 --> 01:02:02,123
+Por favor, Dios, dime
+cómo salimos de ésta.
+
+582
+01:02:02,206 --> 01:02:04,375
+Te prometo que cambiaré.
+
+583
+01:02:04,458 --> 01:02:08,129
+- Esas son patrañas, Harley.
+- Lo intentaré, mierda.
+
+584
+01:02:11,884 --> 01:02:12,634
+¡Mierda!
+
+585
+01:02:17,556 --> 01:02:19,642
+¡Arriba! ¡Están subiendo!
+
+586
+01:02:47,505 --> 01:02:49,591
+¡Oh, mierda!
+
+587
+01:02:50,676 --> 01:02:51,760
+¡Vamos!
+
+588
+01:03:07,277 --> 01:03:11,197
+Estamos en las puertas de la muerte, Harley,
+y el demonio está golpeando.
+
+589
+01:03:11,281 --> 01:03:16,370
+Será mejor que pienses en algo rápido
+o comienza a rogar por tu trasero.
+
+590
+01:03:28,716 --> 01:03:31,553
+Guarda tu pistola. Vamos a saltar.
+
+591
+01:03:44,317 --> 01:03:47,070
+¿Estás demente?
+
+592
+01:03:48,405 --> 01:03:50,490
+¿Tienes una mejor idea?
+
+593
+01:04:02,419 --> 01:04:07,842
+Sea lo que fuera que tienen puesto
+es imposible matarlos, Harley.
+
+594
+01:04:07,926 --> 01:04:10,178
+Está bien, toma mi mano.
+
+595
+01:04:10,262 --> 01:04:11,095
+¡No!
+
+596
+01:04:11,179 --> 01:04:13,097
+- Es el único camino.
+- No te preocupes.
+
+597
+01:04:13,181 --> 01:04:16,268
+- Voy a hacerlo.
+- ¡Ahora!
+
+598
+01:04:16,351 --> 01:04:19,605
+- Harás que nos disparen aquí.
+- Harás que nos acribillen allí.
+
+599
+01:04:19,688 --> 01:04:22,191
+- No quisiera ser algo acribillado.
+- Tampoco yo.
+
+600
+01:04:24,193 --> 01:04:28,281
+Bien. ¡A la mierda!
+¡Puedes quedarte aquí a que te maten!
+
+601
+01:04:28,364 --> 01:04:30,117
+Te debo eso.
+
+602
+01:04:44,298 --> 01:04:48,970
+Te odio por esto, Harley.
+Te cago odiando por esto.
+
+603
+01:04:50,054 --> 01:04:53,975
+Te odio, Harley.
+
+604
+01:04:54,058 --> 01:04:56,144
+¡Mierda!
+
+605
+01:05:00,233 --> 01:05:02,318
+¿Fue intenso o qué?
+
+606
+01:05:30,182 --> 01:05:32,684
+Volvimos a hacerlo, Harley.
+
+607
+01:05:34,102 --> 01:05:37,022
+¿De que mierda estás hablando?
+
+608
+01:05:38,357 --> 01:05:41,110
+Sobrevivimos. Se terminó.
+
+609
+01:05:44,029 --> 01:05:46,198
+Aún no terminó.
+
+610
+01:05:46,282 --> 01:05:49,536
+Se terminó definitivamente.
+¿Ves esto?
+
+611
+01:05:52,789 --> 01:05:54,624
+Está fuera de alcance.
+
+612
+01:05:54,708 --> 01:05:59,713
+Eso significa esos cabrones
+no pueden seguirnos más.
+
+613
+01:05:59,797 --> 01:06:04,886
+Aún así conseguimos un manojo de dinero.
+No lo conseguimos para nosotros mismos,
+
+614
+01:06:04,969 --> 01:06:07,304
+y un montón de nuestros amigos
+están muertos en Los Ángeles.
+
+615
+01:06:09,640 --> 01:06:11,726
+No ha terminado.
+
+616
+01:06:13,061 --> 01:06:15,564
+No está bien.
+
+617
+01:06:15,648 --> 01:06:18,400
+Y se lo debemos a nuestros amigos
+para hacerlo correcto.
+
+618
+01:06:18,483 --> 01:06:22,404
+Oye, no estoy haciendo planes
+para ti y para mí a largo plazo.
+
+619
+01:06:22,488 --> 01:06:27,994
+Salimos vivos.
+Salimos adelante, y no voy a hacerlo.
+
+620
+01:06:28,078 --> 01:06:32,332
+Maldita sea, Harley. No salimos airosos.
+
+621
+01:06:32,416 --> 01:06:37,504
+Y si mantenernos vivos significa
+andar corriendo, entonces no lo quiero.
+
+622
+01:06:38,505 --> 01:06:42,676
+Marlboro, haz lo que creas correcto,
+¿está bien?
+
+623
+01:06:42,760 --> 01:06:45,430
+Yo me mantendré vivo.
+
+624
+01:06:53,688 --> 01:06:57,860
+Mejor muerto y feliz
+que vivo y triste.
+
+625
+01:07:39,238 --> 01:07:42,157
+¿Qué es lo que quieres?
+
+626
+01:07:42,241 --> 01:07:43,576
+Virginia.
+
+627
+01:07:43,659 --> 01:07:46,746
+- Ella está dormida.
+- Despiértala.
+
+628
+01:08:06,350 --> 01:08:12,106
+Tienes hasta que alcancemos la acera
+para decir lo que tienes que decir.
+
+629
+01:08:12,190 --> 01:08:15,360
+¿El Señor disparador feliz
+es un policía también?
+
+630
+01:08:15,444 --> 01:08:17,946
+Acaba de hacerse teniente.
+
+631
+01:08:21,700 --> 01:08:24,120
+¿Él es el tipo?
+
+632
+01:08:24,203 --> 01:08:27,122
+¿Qué quieres, Robert?
+
+633
+01:08:27,206 --> 01:08:31,460
+¿Quieres mi ayuda? ¿Mi simpatía?
+¿Mi mano en matrimonio? ¿Qué?
+
+634
+01:08:34,714 --> 01:08:36,633
+No sé...
+
+635
+01:08:38,468 --> 01:08:41,221
+No sé qué quiero.
+
+636
+01:08:42,140 --> 01:08:45,560
+Pero sé lo que no quiero.
+
+637
+01:08:47,895 --> 01:08:51,900
+No quiero que lo que hubo
+entre nosotros...
+
+638
+01:08:54,820 --> 01:08:57,739
+termine sin decirte...
+
+639
+01:09:00,242 --> 01:09:05,665
+que has sido lo mejor de mi vida,
+lo mejor de mi vida.
+
+640
+01:09:13,256 --> 01:09:15,091
+Adiós, Virginia.
+
+641
+01:09:18,262 --> 01:09:19,596
+¿Robert?
+
+642
+01:09:25,103 --> 01:09:28,523
+<i>Luchando en la línea delantera</i>
+
+643
+01:09:29,357 --> 01:09:32,777
+<i>Víctima de un crimen del corazón</i>
+
+644
+01:09:33,779 --> 01:09:40,202
+<i>No puedo permitirte robar
+mi corazón a la espera</i>
+
+645
+01:09:40,869 --> 01:09:44,457
+Disculpa la tardanza.
+Tuve una demora en Denver.
+
+646
+01:09:49,044 --> 01:09:52,883
+- ¿Somos amigos?
+- Seguro, lo somos.
+
+647
+01:09:53,633 --> 01:09:58,472
+Entonces, entre toda esta porquería
+que hemos pasado,
+
+648
+01:09:58,555 --> 01:10:01,642
+Te hice la misma pregunta
+miles de veces.
+
+649
+01:10:01,726 --> 01:10:04,478
+Y nunca me respondiste.
+
+650
+01:10:07,482 --> 01:10:09,484
+¿Qué pregunta?
+
+651
+01:10:09,567 --> 01:10:13,655
+¿Qué hay contigo y esas botas?
+
+652
+01:10:13,738 --> 01:10:17,409
+Mi viejo me dio estas botas.
+
+653
+01:10:17,492 --> 01:10:21,747
+La primera vez que monté
+en un rodeo profesional.
+
+654
+01:10:21,830 --> 01:10:25,001
+Fue la primera y última cosa
+que él me dio.
+
+655
+01:10:25,084 --> 01:10:28,421
+Marlboro, podrías habérmelo contado.
+
+656
+01:10:30,172 --> 01:10:33,009
+Y me di cuenta que
+estaba entre él y yo.
+
+657
+01:10:34,844 --> 01:10:38,515
+Tuve una caída y me quebré
+el brazo en cuatro partes.
+
+658
+01:10:38,598 --> 01:10:41,936
+Creo que deberías volver a hacerlo.
+
+659
+01:10:44,188 --> 01:10:47,274
+Algún día. Tal vez.
+
+660
+01:10:56,785 --> 01:11:01,373
+- ¿Dónde mierda conseguiste ese cañón?
+- En Denver.
+
+661
+01:11:01,457 --> 01:11:04,877
+Es una Ruger Super Blackhawk.
+
+662
+01:11:06,379 --> 01:11:08,298
+Calibre 454.
+
+663
+01:11:11,384 --> 01:11:16,056
+- Maldición, es demasiada arma para ti.
+- Es con la que aprendí.
+
+664
+01:11:17,307 --> 01:11:20,602
+Nadie aprende con un calibre 454.
+
+665
+01:11:21,395 --> 01:11:22,396
+Yo sí.
+
+666
+01:11:25,650 --> 01:11:27,735
+Eso lo explica todo.
+
+667
+01:11:29,571 --> 01:11:33,032
+He estado entre mucha porquería
+en mi vida.
+
+668
+01:11:33,074 --> 01:11:36,703
+Pero desde hace aproximadamente
+tres semanas,
+
+669
+01:11:36,744 --> 01:11:39,998
+a la única maldita cosa
+que le pegué fue a latas.
+
+670
+01:11:42,167 --> 01:11:45,754
+Nunca deseé dispararle
+a nadie por ira.
+
+671
+01:11:45,838 --> 01:11:50,593
+Y estoy seguro de que nunca
+deseé matar a nadie.
+
+672
+01:11:51,677 --> 01:11:53,764
+Yo menos.
+
+673
+01:12:14,953 --> 01:12:19,541
+Toma la posición 0-1-0.
+Son siete puntos al noreste de aquí.
+
+674
+01:12:19,624 --> 01:12:25,214
+La misma orden que dio mi copiloto
+el día que invadimos Khe Sanh.
+
+675
+01:12:25,297 --> 01:12:30,553
+- La última cosa que el feo bastardo dijo...
+- Calla tu maldita boca y vuela, Tom.
+
+676
+01:12:30,636 --> 01:12:32,555
+Está bien.
+
+677
+01:14:46,950 --> 01:14:51,622
+Dios, si existes y estás por allá
+arriba mirando
+
+678
+01:14:51,706 --> 01:14:57,128
+de donde seas que estés mirando,
+voltéate por un minuto.
+
+679
+01:14:57,921 --> 01:15:00,966
+Recuerda, estos bastardos
+son a prueba de balas.
+
+680
+01:15:01,091 --> 01:15:04,261
+Apúntales a la cabeza. Al centro.
+
+681
+01:15:05,388 --> 01:15:09,058
+Desearás haber sostenido
+ese cañón con ambas manos.
+
+682
+01:15:09,141 --> 01:15:12,394
+No tires. No jales.
+
+683
+01:15:13,396 --> 01:15:16,649
+Aprieta. ¿Listo?
+
+684
+01:15:16,733 --> 01:15:21,237
+- Vamos a hacer bailar a estos hijos de perra.
+- Vamos a hacer las cosas bien.
+
+685
+01:15:43,595 --> 01:15:47,683
+Esa pistola cuesta como dos dólares
+cada vez que disparas.
+
+686
+01:15:47,767 --> 01:15:50,269
+Esos son dos dólares por bala.
+
+687
+01:15:51,353 --> 01:15:54,232
+¿A cuántos les pegué?
+
+688
+01:15:54,274 --> 01:15:57,527
+Desperdiciaste 12 dólares
+y no le pegaste a nada, maldición.
+
+689
+01:15:57,610 --> 01:16:00,071
+Clavé a uno y costó cuatro
+dólares y un cuarto.
+
+690
+01:16:00,196 --> 01:16:01,698
+¿A dónde se fueron?
+
+691
+01:16:03,200 --> 01:16:05,869
+Por allí y están gastando una fortuna.
+
+692
+01:16:15,797 --> 01:16:18,049
+Realmente los jodimos esta vez.
+
+693
+01:16:18,133 --> 01:16:20,636
+No mierda. Vamos, hacia allá.
+
+694
+01:17:18,198 --> 01:17:19,240
+¿Harley?
+
+695
+01:17:20,826 --> 01:17:22,911
+¿Estás disparando?
+
+696
+01:17:25,039 --> 01:17:27,124
+- ¿Harley?
+- ¿Qué?
+
+697
+01:18:35,615 --> 01:18:39,202
+Esos dos son para mí.
+Mejor sería que cuidaras tu trasero, Harley.
+
+698
+01:18:39,285 --> 01:18:42,372
+Dame un respiro.
+Dios sabe que lo intento.
+
+699
+01:18:42,456 --> 01:18:46,877
+Mejor sería que le pidieras ayuda
+a Dios. Pues aún no hemos terminado.
+
+700
+01:19:28,755 --> 01:19:30,507
+¡Maldición! ¡Mierda!
+
+701
+01:19:30,590 --> 01:19:32,426
+¡Por la bosta del trasero de un oso!
+
+702
+01:19:41,769 --> 01:19:43,021
+Dos dólares.
+
+703
+01:19:45,607 --> 01:19:47,692
+Esos fueron cuatro.
+
+704
+01:19:48,902 --> 01:19:49,778
+Seis.
+
+705
+01:20:01,958 --> 01:20:04,044
+Doce.
+
+706
+01:20:51,762 --> 01:20:54,098
+Hoy vas a morir.
+
+707
+01:20:54,182 --> 01:20:57,226
+Si quieres hacerlo rápido,
+dime dónde está el dinero.
+
+708
+01:20:57,351 --> 01:21:00,188
+Si quieres hacerlo difícil,
+no lo hagas.
+
+709
+01:21:00,272 --> 01:21:02,357
+Es tu elección.
+
+710
+01:21:04,276 --> 01:21:09,280
+Es un lindo día para morir.
+Voy a hacerlo difícil.
+
+711
+01:21:14,954 --> 01:21:18,290
+Oye, charlatán. Suéltalo.
+
+712
+01:21:18,374 --> 01:21:21,461
+Mierda. Soy hombre muerto.
+
+713
+01:21:21,544 --> 01:21:23,630
+¿Dónde está el dinero?
+
+714
+01:21:25,423 --> 01:21:27,509
+¿Dónde está el dinero?
+
+715
+01:21:31,471 --> 01:21:35,643
+Aprieta, Harley. Tan sólo aprieta.
+
+716
+01:21:43,318 --> 01:21:45,404
+- Mierda.
+- ¡Mierda!
+
+717
+01:21:47,781 --> 01:21:50,742
+Eso dolió, Harley. Eso dolió mal.
+
+718
+01:21:53,329 --> 01:21:55,998
+Parece que tu suerte salió corriendo.
+
+719
+01:21:56,082 --> 01:21:59,001
+Ahora, ¿dónde está el dinero?
+
+720
+01:21:59,084 --> 01:22:01,170
+¡Dispárale, maldición!
+
+721
+01:22:02,339 --> 01:22:05,925
+Sigue disparando.
+Me harás mi trabajo más fácil.
+
+722
+01:22:06,677 --> 01:22:10,514
+¡Dispárale al bastardo!
+¡No pienses, sólo dispárale!
+
+723
+01:22:10,597 --> 01:22:11,515
+¡Dispárale!
+
+724
+01:22:42,215 --> 01:22:45,302
+Esta es por ti. ¿Cómo se siente?
+
+725
+01:22:45,385 --> 01:22:48,055
+Los mejores doce dólares
+que he gastado en mi vida.
+
+726
+01:22:50,724 --> 01:22:52,726
+¡Hijo de perra!
+
+727
+01:22:52,809 --> 01:22:55,145
+¿Cómo te sientes?
+
+728
+01:22:56,898 --> 01:23:00,777
+Como si hubiese montado duro
+y me puse mojado.
+
+729
+01:23:00,902 --> 01:23:03,738
+Olvídalo. Tenemos uno más.
+
+730
+01:23:03,821 --> 01:23:05,907
+Vámonos.
+
+731
+01:23:15,376 --> 01:23:19,255
+No puedo creer que me hayas
+disparado, Harley.
+
+732
+01:23:21,507 --> 01:23:24,219
+Imbécil, me has disparado.
+
+733
+01:23:26,096 --> 01:23:29,766
+No puedo creerlo me disparaste,
+maldito idiota.
+
+734
+01:23:36,106 --> 01:23:39,611
+Me cuesta creer que hayas
+engrasado esas bolas.
+
+735
+01:23:39,694 --> 01:23:41,988
+Pero está bien que alguien
+lo haya hecho.
+
+736
+01:23:42,030 --> 01:23:45,533
+- ¿Sí? ¿Por qué?
+- Eran unas mariquitas.
+
+737
+01:23:46,534 --> 01:23:51,415
+Sus ropas eran de ese
+Keylar Japonés livianito.
+
+738
+01:24:12,687 --> 01:24:18,444
+Muy bien, amigo, éste es tu último cheque.
+Ahora trabajas para nosotros.
+
+739
+01:24:37,006 --> 01:24:38,841
+Esto es lo que haremos.
+
+740
+01:24:38,924 --> 01:24:45,849
+En cuanto le pido que cambie el contrato y
+dice que no, ahí nomás lo matas.
+
+741
+01:24:45,932 --> 01:24:50,103
+- ¿Por qué yo?
+- No tengo más balas.
+
+742
+01:24:56,569 --> 01:25:02,867
+Sí, Howard, también me alegro de oírte.
+Ahora... ¿qué quieres de mí? Dímelo.
+
+743
+01:25:05,787 --> 01:25:09,291
+Escucha, Howard, no me interesa
+el tercer mundo, ¿sí?
+
+744
+01:25:09,374 --> 01:25:12,378
+Puedo salir muy mal
+y no de la manera que quiero.
+
+745
+01:25:12,461 --> 01:25:15,714
+Ya hemos tenido esta discusión.
+No quiero tenerla otra vez, ¿bien?
+
+746
+01:25:15,839 --> 01:25:20,303
+Oye, Howard, saluda a tu esposa.
+Estás casado, ¿no?
+
+747
+01:25:24,182 --> 01:25:27,977
+Estoy buscando a Chance Wilder.
+¿Eres tú?
+
+748
+01:25:31,482 --> 01:25:32,566
+Correcto.
+
+749
+01:25:33,651 --> 01:25:36,070
+Cuéntale, Harley.
+
+750
+01:25:36,154 --> 01:25:38,239
+Bien, veamos.
+
+751
+01:25:39,323 --> 01:25:42,952
+Esto es tuyo. Te lo quitamos.
+No estuvo bien de nuestra parte.
+
+752
+01:25:42,993 --> 01:25:47,916
+Así que ahora puedes cambiar el contrato
+para el bar y grill Rock'n Roll.
+
+753
+01:25:51,295 --> 01:25:54,005
+Sólo un trato justo,
+es todo lo que pedimos.
+
+754
+01:25:54,089 --> 01:25:59,345
+Uds. deben estar contentos de haber
+llegado hasta aquí.
+
+755
+01:25:59,429 --> 01:26:02,515
+Cuatro de nuestros amigos están muertos.
+
+756
+01:26:02,598 --> 01:26:06,395
+No, no estamos encantados.
+Sólo estamos fastidiados.
+
+757
+01:26:06,435 --> 01:26:08,522
+Qué pena.
+
+758
+01:26:10,107 --> 01:26:12,860
+Qué pena.
+
+759
+01:26:12,942 --> 01:26:15,779
+Perdón por haberlos fastidiado.
+
+760
+01:26:15,863 --> 01:26:21,702
+Oigan, el contrato se mantiene, ¿bien?
+Así que fin de la historia.
+
+761
+01:26:22,370 --> 01:26:25,624
+Así que si han venido a matarme,
+háganlo ahora.
+
+762
+01:26:25,957 --> 01:26:28,626
+Si no, lárguense de aquí.
+
+763
+01:26:28,710 --> 01:26:34,133
+No tengo tiempo de jugar con Uds.
+Estoy muy ocupado.
+
+764
+01:26:35,217 --> 01:26:36,469
+Esto no es un juego.
+
+765
+01:26:36,593 --> 01:26:39,722
+Todo negocio es un juego
+de una u otra manera.
+
+766
+01:26:39,764 --> 01:26:43,559
+- Vender drogas no es ningún juego.
+- No es tu juego, eso es verdad.
+
+767
+01:26:43,643 --> 01:26:48,648
+Hago $500.000 al año para sentarme en esta
+oficina y dirigir este banco, ¿sí?
+
+768
+01:26:48,690 --> 01:26:53,654
+Hago otros $50 millones al año
+para sentarme en la misma oficina
+
+769
+01:26:53,654 --> 01:26:54,696
+y vender esas drogas.
+
+770
+01:26:54,738 --> 01:26:57,658
+Ahora, ése es un juego y
+un negocio muy importante.
+
+771
+01:26:57,742 --> 01:27:01,829
+El juego ha terminado.
+Hazlo ahora, Marlboro.
+
+772
+01:27:17,305 --> 01:27:21,100
+¿Qué estás esperando?
+Mátalo y vayámonos de aquí.
+
+773
+01:27:25,438 --> 01:27:27,524
+No puedo hacerlo.
+
+774
+01:27:30,860 --> 01:27:32,612
+No está bien.
+
+775
+01:27:32,695 --> 01:27:37,367
+Oye, esta lacra mató a cuatro de
+nuestros amigos sólo por diversión.
+
+776
+01:27:37,451 --> 01:27:39,536
+Igual, eso no hace sea correcto.
+
+777
+01:27:39,620 --> 01:27:42,039
+¿De qué estás hablando?
+
+778
+01:27:43,332 --> 01:27:47,212
+Mi viejo solía decirme, antes de dejar
+este mundo de porquería.
+
+779
+01:27:47,295 --> 01:27:49,381
+Nunca le dispares a un hombre desarmado.
+
+780
+01:27:49,464 --> 01:27:51,550
+Me cago en tu viejo. Está muerto.
+
+781
+01:27:51,633 --> 01:27:54,553
+Deja a mi padre fuera de esto, ¿Bien?
+
+782
+01:27:56,304 --> 01:28:00,143
+- Ahora está armado.
+- Ese arma está vacía, Harley.
+
+783
+01:28:01,310 --> 01:28:05,982
+¿Y qué? Este pedazo de mierda
+le da drogas a los niños.
+
+784
+01:28:06,065 --> 01:28:08,151
+¡Arrójala!
+
+785
+01:28:18,662 --> 01:28:23,334
+¿Realmente pensaban que iban a entrar
+aquí así como así y dispararme?
+
+786
+01:28:23,418 --> 01:28:27,756
+- Pensaron eso, ¿no?
+- Ése era el plan.
+
+787
+01:28:29,007 --> 01:28:31,092
+Sí, ése era el plan.
+
+788
+01:28:31,176 --> 01:28:35,013
+Uds... son una obra de arte.
+
+789
+01:28:35,096 --> 01:28:38,768
+Van al límite. Y eso me gusta.
+De verdad. Me gusta.
+
+790
+01:28:38,851 --> 01:28:45,108
+Casi me hace sentir mal que tenga que matarlos.
+Pero lo haré... ahora mismo.
+
+791
+01:29:46,674 --> 01:29:49,177
+¿Qué hiciste? ¿Le pagaste?
+
+792
+01:29:50,262 --> 01:29:56,101
+No, hombre, ése era tu dinero. Tú le pagaste.
+Lo otro lo hizo gratis.
+
+793
+01:29:58,270 --> 01:30:02,859
+Muchachos. Tal como dijo tu amigo,
+me cago en tu viejo.
+
+794
+01:30:02,942 --> 01:30:07,947
+Está muerto, ¿no? Que se cague.
+Veamos de qué estás hecho.
+
+795
+01:30:16,040 --> 01:30:18,125
+¡Piensa rápido!
+
+796
+01:30:49,075 --> 01:30:50,410
+¡Harley!
+
+797
+01:30:56,667 --> 01:30:59,920
+- A tiempo.
+- Te dije que le dispararas.
+
+798
+01:31:19,525 --> 01:31:23,028
+Oye, las armas están hechas para
+dispararlas, no para arrojarlas.
+
+799
+01:31:26,449 --> 01:31:29,369
+Sólo trataba de emparejarnos.
+
+800
+01:31:38,629 --> 01:31:41,632
+¿Dónde vas esta vez?
+
+801
+01:31:41,716 --> 01:31:44,218
+¿Quién dice que me voy?
+
+802
+01:31:44,302 --> 01:31:47,972
+Tú lo haces siempre, Harley.
+Aquellos tiempos.
+
+803
+01:31:49,807 --> 01:31:52,310
+¿Quieres venir conmigo?
+
+804
+01:31:55,480 --> 01:31:56,648
+No puedo.
+
+805
+01:31:58,567 --> 01:32:02,154
+No debí haberte preguntado.
+Nunca dices que sí.
+
+806
+01:32:13,667 --> 01:32:15,669
+Lárgate de aquí.
+
+807
+01:32:42,031 --> 01:32:44,116
+Vaya con Dios, amigo.
+
+808
+01:32:46,369 --> 01:32:49,705
+<i>Este es Robert Lee Edison,
+un vaquero de la 3ra generación</i>
+
+809
+01:32:49,747 --> 01:32:51,708
+<i>con su propia marca de miseria.</i>
+
+810
+01:32:51,791 --> 01:32:55,628
+<i>Desde que se las vio muy mal en Las Vegas,
+no ha vuelto a ver el cuello de un toro...</i>
+
+811
+01:32:55,712 --> 01:33:00,384
+<i>...desde que le fue realmente mal en las
+finales nacionales de rodeo hace 7 años.</i>
+
+812
+01:33:00,467 --> 01:33:03,220
+<i>Veamos lo que consigue hacer sobre un
+toro llamado Hondo,</i>
+
+813
+01:33:03,304 --> 01:33:06,306
+<i>el máximo exponente de la compañía
+de Rodeo Diamond.</i>
+
+814
+01:33:06,390 --> 01:33:09,477
+Muy bien, grandulón,
+démosle una buena.
+
+815
+01:33:12,063 --> 01:33:13,064
+¡Afuera!
+
+816
+01:33:14,149 --> 01:33:16,234
+Muy bien, vaquero.
+
+817
+01:33:40,594 --> 01:33:42,680
+Oye.
+
+818
+01:33:43,347 --> 01:33:46,017
+¿Hacia dónde te diriges?
+
+819
+01:33:46,100 --> 01:33:47,936
+A ningún lugar en especial.
+
+820
+01:33:47,937 --> 01:33:49,537
+Vamos, te llevo.
+

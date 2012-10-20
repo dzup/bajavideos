@@ -1,0 +1,5711 @@
+1
+00:00:11,500 --> 00:00:15,696
+LA COMPAÑIA TOHO PRESENTA
+
+2
+00:00:18,338 --> 00:00:22,170
+LOS SIETE SAMURAIS
+
+3
+00:00:27,408 --> 00:00:30,844
+PRODUCCION
+SOJIRO MOTOKI
+
+4
+00:00:31,044 --> 00:00:32,635
+GUION:
+
+5
+00:00:32,845 --> 00:00:36,370
+AKIRA KUROSAWA
+SHINOBU HASHIMOTO, HIDEO OGUNI
+
+6
+00:00:36,580 --> 00:00:39,548
+FOTOGRAFIA: ASAICHI NAKAl
+DIRECCION ARTISTICA: SO MATSUYAMA
+
+7
+00:00:42,883 --> 00:00:46,044
+MUSICA
+FUMIO HAYASAKA
+
+8
+00:00:58,291 --> 00:00:59,918
+INTÉRPRETES
+
+9
+00:01:00,126 --> 00:01:02,423
+KIKUCHIYO: TOSHIRO MIFUNE
+
+10
+00:01:02,627 --> 00:01:04,856
+KAMBEl: TAKASHI SHIMURA
+
+11
+00:01:05,062 --> 00:01:07,291
+SHINO: KEIKO TSUSHIMA
+
+12
+00:01:07,498 --> 00:01:09,726
+ESPOSA: YUKIKO SHIMAKAZI
+
+13
+00:01:09,933 --> 00:01:12,423
+GRANJERO MANZO: KAMATARI FUJIWARA
+SHICHIROJI: DAISUKE KATO
+
+14
+00:01:12,633 --> 00:01:15,963
+GRANJERO MOSUKE: YOSHIO KOSUGI
+GRANJERO YOHEl: BOKUZEN HIDARI
+
+15
+00:01:16,202 --> 00:01:22,001
+IADRON: EIJIRO TONO
+BANDIDO EXPIORADOR: KICHIJIRO UEDA
+
+16
+00:02:48,618 --> 00:02:53,678
+DIRIGIDA POR
+AKIRA KUROSAWA
+
+17
+00:02:59,390 --> 00:03:01,324
+HACIA 1570,
+
+18
+00:03:01,525 --> 00:03:06,152
+JAPON SE ENCONTRABA
+EN MEDIO DE LAS GUERRAS CIVILES
+
+19
+00:03:06,361 --> 00:03:10,455
+Y LOS CAMPESINOS SE VEIAN
+ACOSADOS POR CRUELES BANDIDOS
+
+20
+00:03:54,387 --> 00:03:57,548
+¿Saqueamos este pueblo?
+
+21
+00:03:57,755 --> 00:04:00,450
+¡Vamos! ¡Vamos!
+
+22
+00:04:01,356 --> 00:04:02,755
+Espera!
+
+23
+00:04:02,958 --> 00:04:06,913
+Ya les robamos arroz
+el otoño pasado.
+
+24
+00:04:07,559 --> 00:04:09,026
+Me temo...
+
+25
+00:04:09,526 --> 00:04:10,992
+que aún no tienen nada.
+
+26
+00:04:11,195 --> 00:04:13,992
+Volveremos cuando haya madurado
+la cebada.
+
+27
+00:04:46,548 --> 00:04:49,276
+¿No hay un Dios que nos proteja?
+
+28
+00:04:51,050 --> 00:04:56,679
+Impuestos, trabajos forzados,
+guerra, sequías...
+
+29
+00:04:57,353 --> 00:05:00,047
+Y luego, los bandidos!
+
+30
+00:05:04,458 --> 00:05:08,151
+Dios debe de querer que
+los campesinos muramos de hambre!
+
+31
+00:05:08,359 --> 00:05:11,054
+No podemos más!
+
+32
+00:05:12,628 --> 00:05:16,961
+Deja de quejarte!
+Quejarse no sirve de nada!
+
+33
+00:05:17,432 --> 00:05:20,297
+Vayamos a ver al magistrado!
+
+34
+00:05:20,499 --> 00:05:22,329
+Llamemos al magistrado!
+
+35
+00:05:23,300 --> 00:05:25,289
+¿Para qué?
+
+36
+00:05:25,501 --> 00:05:28,799
+Sólo vendría después de que
+se hayan ido los bandidos.
+
+37
+00:05:29,004 --> 00:05:31,130
+Es cierto.
+
+38
+00:05:31,371 --> 00:05:36,602
+Démosle todo lo que tenemos
+a los bandidos, toda nuestra comida!
+
+39
+00:05:36,807 --> 00:05:39,071
+Y luego nos ahorcamos!
+
+40
+00:05:39,610 --> 00:05:43,009
+¡Así quizá reaccione el magistrado!
+
+41
+00:05:53,618 --> 00:05:55,277
+¿Y si los matamos?
+
+42
+00:05:56,517 --> 00:05:58,315
+¡Los matamos a todos!
+
+43
+00:05:58,519 --> 00:06:00,543
+¡Así dejarán de venir!
+
+44
+00:06:01,320 --> 00:06:02,809
+Estoy en contra.
+
+45
+00:06:04,356 --> 00:06:06,653
+Es imposible.
+
+46
+00:06:08,790 --> 00:06:10,756
+Dices tonterías.
+
+47
+00:06:12,726 --> 00:06:15,990
+¿Matas a samuráis vencidos,
+pero no matarías a bandidos?
+
+48
+00:06:16,629 --> 00:06:19,960
+¡Basta!
+¡Dejad de pelearos!
+
+49
+00:06:23,065 --> 00:06:27,124
+¡No tenemos ninguna posibilidad
+contra ellos!
+
+50
+00:06:27,335 --> 00:06:30,667
+¿Qué pasaría si nos ganan?
+Nos asesinarían a todos!
+
+51
+00:06:30,871 --> 00:06:34,306
+¡Ya he oído bastante!
+¡Estoy desesperado!
+
+52
+00:06:34,507 --> 00:06:37,167
+Prefiero arriesgarme
+antes que sufrir así.
+
+53
+00:06:37,408 --> 00:06:38,804
+¡Rikichi!
+
+54
+00:06:39,241 --> 00:06:42,003
+Hemos nacido para sufrir.
+
+55
+00:06:42,277 --> 00:06:44,300
+Es nuestro sino.
+
+56
+00:06:46,012 --> 00:06:48,877
+Les recibiremos sumisamente.
+
+57
+00:06:49,713 --> 00:06:51,873
+Les daremos nuestra cosecha.
+
+58
+00:06:52,382 --> 00:06:56,907
+Les rogaremos que nos dejen algo
+para no morir de hambre.
+
+59
+00:06:57,384 --> 00:07:02,513
+Se lo pediremos de rodillas
+para sobrevivir.
+
+60
+00:07:04,121 --> 00:07:06,419
+¿Crees que nos escucharán?
+
+61
+00:07:06,822 --> 00:07:11,951
+¿Ya has olvidado cuánto
+nos hemos sacrificado?
+
+62
+00:07:33,404 --> 00:07:35,462
+Vamos a ver al abuelo.
+
+63
+00:07:35,672 --> 00:07:38,037
+Le pediremos consejo.
+
+64
+00:08:43,641 --> 00:08:45,802
+Negociaremos con ellos.
+
+65
+00:08:47,476 --> 00:08:51,410
+¡Son peores que los lobos,
+no tienen límite!
+
+66
+00:08:51,611 --> 00:08:54,408
+Volverían en el otoño!
+
+67
+00:08:54,647 --> 00:08:57,876
+- ¿Y si perdemos?
+- ¡Pues perdemos!
+
+68
+00:08:58,482 --> 00:09:01,416
+Sin la cosecha, moriremos
+de todas formas.
+
+69
+00:09:06,586 --> 00:09:07,813
+¡Lucharemos!
+
+70
+00:09:09,588 --> 00:09:11,749
+¡Eso es temerario!
+
+71
+00:09:11,956 --> 00:09:14,388
+¡Somos campesinos, no soldados!
+
+72
+00:09:14,590 --> 00:09:17,115
+¡Contrataremos samuráis!
+
+73
+00:09:17,492 --> 00:09:21,621
+¿Contratar samuráis?
+Jamás he oído nada semejante.
+
+74
+00:09:23,230 --> 00:09:25,958
+Sé que ya se ha hecho.
+
+75
+00:09:26,998 --> 00:09:32,194
+Cuando aún estabais en la cuna,
+mi pueblo fue saqueado y quemado.
+
+76
+00:09:33,200 --> 00:09:37,398
+Mientras huía hasta aquí,
+pude ver una cosa.
+
+77
+00:09:38,636 --> 00:09:45,505
+El único pueblo que no quemaron era
+el que había contratado samuráis.
+
+78
+00:09:45,874 --> 00:09:49,502
+¡Serían campesinos ricos,
+sería un pueblo rico!
+
+79
+00:09:49,711 --> 00:09:52,200
+¡Estamos comiendo gachas!
+
+80
+00:09:52,412 --> 00:09:53,604
+¡Podríamos comer mijo!
+
+81
+00:09:53,812 --> 00:09:58,109
+¿Habrá algún samurái que luche
+por nosotros sólo por comida?
+
+82
+00:09:58,315 --> 00:10:00,304
+¡Son muy orgullosos!
+
+83
+00:10:00,515 --> 00:10:01,539
+¡Mirad!
+
+84
+00:10:02,750 --> 00:10:06,480
+¡Buscad samuráis hambrientos!
+
+85
+00:10:07,787 --> 00:10:13,484
+¡Incluso los osos salen del bosque
+cuando tienen hambre!
+
+86
+00:10:57,013 --> 00:10:59,707
+¡Qué insolencia!
+
+87
+00:11:01,281 --> 00:11:04,612
+¡No eres más que un granjero!
+¡Yo soy un Samurai!
+
+88
+00:11:04,817 --> 00:11:06,613
+Aunque sea pobre,
+no soy un mendigo.
+
+89
+00:11:09,886 --> 00:11:11,318
+¡Idiota!
+
+90
+00:11:18,489 --> 00:11:20,252
+Te lo había dicho.
+
+91
+00:11:53,310 --> 00:11:55,276
+Está brotando!
+
+92
+00:11:56,379 --> 00:11:58,436
+Claro, ya han pasado diez días.
+
+93
+00:11:58,645 --> 00:12:01,010
+¿Qué hacemos?
+
+94
+00:12:03,181 --> 00:12:06,581
+Es una variedad temprana,
+no como la nuestra.
+
+95
+00:12:09,385 --> 00:12:12,978
+¡Estoy calado hasta los huesos!
+
+96
+00:12:13,187 --> 00:12:16,849
+¿Habéis encontrado algún samurái
+barato, fuerte y dispuesto?
+
+97
+00:12:55,908 --> 00:12:57,842
+Son sobras,
+
+98
+00:12:58,043 --> 00:12:59,476
+Las vendo baratas.
+
+99
+00:12:59,678 --> 00:13:00,940
+¡Eso sí que tiene gracia!
+
+100
+00:13:01,912 --> 00:13:04,540
+¡Es ciego!
+
+101
+00:13:06,048 --> 00:13:08,447
+- ¿Y vosotros?
+- No, gracias.
+
+102
+00:13:08,649 --> 00:13:10,979
+¡Qué panecillos!
+
+103
+00:13:15,319 --> 00:13:19,517
+- Está sin blanca.
+- Anoche le dejé limpio.
+
+104
+00:13:19,722 --> 00:13:23,554
+Sacó su espada, así que
+le pegamos una paliza.
+
+105
+00:13:23,756 --> 00:13:26,156
+Está completamente arruinado.
+
+106
+00:13:30,429 --> 00:13:33,487
+Esos sólo comen mijo.
+
+107
+00:13:34,029 --> 00:13:36,757
+¿Es eso cierto?
+
+108
+00:13:36,964 --> 00:13:39,864
+Comed bien, o tendréis
+ceguera nocturna.
+
+109
+00:13:40,165 --> 00:13:41,963
+Tan solo me quedan cuatro.
+
+110
+00:13:42,167 --> 00:13:44,795
+Os los doy por una taza de arroz.
+
+111
+00:13:45,136 --> 00:13:46,966
+¿Que decís?
+
+112
+00:13:49,772 --> 00:13:52,329
+¡Qué miserables!
+
+113
+00:14:10,983 --> 00:14:13,610
+Qué desperdicio.
+
+114
+00:14:14,252 --> 00:14:18,778
+¡Con ese arroz habríamos conseguido
+40 panecillos de esos!
+
+115
+00:14:18,987 --> 00:14:19,987
+¡Cállate!
+
+116
+00:14:20,788 --> 00:14:22,879
+¿No es cierto?
+
+117
+00:14:25,023 --> 00:14:26,990
+¡Están locos!
+
+118
+00:14:27,658 --> 00:14:29,954
+¡Qué desperdicio, qué tontería!
+
+119
+00:14:34,861 --> 00:14:39,490
+¡Comió mucho!
+
+120
+00:14:41,065 --> 00:14:46,899
+¡Bebió mucho!
+
+121
+00:14:47,770 --> 00:14:51,067
+¡Luego me pegó y se fue!
+
+122
+00:14:52,573 --> 00:14:54,595
+¡Un samurái listo!
+
+123
+00:14:54,972 --> 00:14:57,769
+¡Qué distinto a ése otro!
+
+124
+00:14:58,109 --> 00:15:03,305
+¡Vámonos de aquí,
+vámonos a casa!
+
+125
+00:15:05,478 --> 00:15:06,843
+¡Está llorando!
+
+126
+00:15:07,046 --> 00:15:08,705
+Echa de menos a su mujer.
+
+127
+00:15:08,914 --> 00:15:11,973
+¿Cómo va a echar de
+menos a su mujer?
+
+128
+00:15:12,182 --> 00:15:16,743
+¡Vámonos a casa, por favor!
+
+129
+00:15:16,951 --> 00:15:20,407
+¡Volveos a casa, no podréis
+contratar a samuráis!
+
+130
+00:15:21,120 --> 00:15:25,487
+Además, no sabemos nada
+sobre los samuráis.
+
+131
+00:15:25,688 --> 00:15:28,486
+Lo mismo que sabemos
+sobre la simiente.
+
+132
+00:15:30,126 --> 00:15:34,492
+Los fuertes están fuera
+de nuestro control.
+
+133
+00:15:35,496 --> 00:15:41,124
+Y los que están dispuestos,
+son débiles.
+
+134
+00:15:49,101 --> 00:15:53,969
+Anoche estaba decaído
+porque tenía hambre.
+
+135
+00:15:55,138 --> 00:15:58,938
+¡Mentiroso! ¡Tenías
+dinero para apostar!
+
+136
+00:15:59,908 --> 00:16:01,306
+¡Qué!
+
+137
+00:16:01,509 --> 00:16:03,033
+¿Quieres más problemas?
+
+138
+00:16:04,510 --> 00:16:06,205
+¡Ya basta!
+
+139
+00:16:09,613 --> 00:16:12,011
+Es monótono.
+
+140
+00:16:22,420 --> 00:16:25,183
+Sigue tocando.
+Toca fuerte.
+
+141
+00:16:26,054 --> 00:16:29,180
+Te respaldamos.
+
+142
+00:17:00,340 --> 00:17:01,807
+Rikichi.
+
+143
+00:17:02,674 --> 00:17:04,231
+¡Ya basta, Manzo!
+
+144
+00:17:04,675 --> 00:17:07,667
+¿No decías que querías
+irte a casa?
+
+145
+00:17:08,612 --> 00:17:11,580
+Sí, pero no a negociar con bandidos.
+
+146
+00:17:12,347 --> 00:17:14,906
+¿Qué haremos si no
+encontramos samuráis?
+
+147
+00:17:15,115 --> 00:17:17,742
+No nos quedará más remedio
+que negociar con ellos.
+
+148
+00:17:18,649 --> 00:17:21,311
+¡Vale! Entiendo.
+
+149
+00:17:30,022 --> 00:17:31,489
+Pero...
+
+150
+00:17:32,323 --> 00:17:34,756
+¿Qué les ofrecerás esta vez?
+
+151
+00:17:34,959 --> 00:17:37,187
+¿Qué te queda para
+ofrecerles?
+
+152
+00:17:37,927 --> 00:17:40,190
+¿Les ofrecerás tu hija?
+
+153
+00:17:42,130 --> 00:17:44,095
+Shino es muy guapa,
+quizá funcione.
+
+154
+00:19:16,146 --> 00:19:17,773
+¿Qué ha pasado?
+
+155
+00:19:17,980 --> 00:19:22,881
+Hay un ladrón en el granero.
+Le descubrieron y se refugió allí.
+
+156
+00:19:45,062 --> 00:19:47,392
+¿Cuántos son?
+
+157
+00:19:47,595 --> 00:19:48,653
+Sólo uno.
+
+158
+00:19:49,097 --> 00:19:50,528
+¿Uno?
+
+159
+00:19:52,198 --> 00:19:54,791
+¿Qué os detiene?
+
+160
+00:19:55,001 --> 00:19:59,834
+Tenemos las manos atadas.
+Ha secuestrado a un niño.
+
+161
+00:20:00,036 --> 00:20:02,798
+Dice que le matará
+si atacamos.
+
+162
+00:20:03,905 --> 00:20:06,532
+¡Escucha!
+¿Lo oyes?
+
+163
+00:20:11,909 --> 00:20:14,002
+¡Pobre niño!
+
+164
+00:20:14,211 --> 00:20:16,337
+Están ahí dentro desde anoche.
+
+165
+00:20:16,545 --> 00:20:20,810
+Pobre niño.
+
+166
+00:20:21,014 --> 00:20:24,141
+Se ha quedado
+ronco de llorar.
+
+167
+00:20:27,384 --> 00:20:31,478
+¡Pobres padres!
+
+168
+00:20:31,687 --> 00:20:35,381
+¿Qué hace ese samurái
+afeitándose la cabeza?
+
+169
+00:20:35,588 --> 00:20:39,919
+Es un misterio. Le llamamos
+y prometió salvar al niño.
+
+170
+00:20:40,123 --> 00:20:42,114
+Después pidió dos
+bolas de arroz.
+
+171
+00:20:42,324 --> 00:20:46,521
+Luego se ha afeitado la cabeza
+y ha pedido un traje de monje.
+
+172
+00:20:46,728 --> 00:20:48,252
+¡Es un enigma!
+
+173
+00:22:21,011 --> 00:22:24,968
+¡Atrás!
+¡Un paso más y lo mataré!
+
+174
+00:22:25,180 --> 00:22:27,113
+¡Soy un monje!
+
+175
+00:22:27,314 --> 00:22:29,441
+¡Atrás!
+
+176
+00:22:31,284 --> 00:22:34,843
+Solo soy un monje.
+No estoy armado.
+
+177
+00:22:40,154 --> 00:22:44,426
+El niño debe de estar
+muerto de hambre.
+
+178
+00:22:44,891 --> 00:22:46,260
+He traído comida.
+
+179
+00:22:51,327 --> 00:22:53,420
+Para ti también.
+
+180
+00:22:54,430 --> 00:22:57,727
+Cógela!
+
+181
+00:22:59,299 --> 00:23:00,300
+¿Qué pasa?
+
+182
+00:23:03,002 --> 00:23:04,696
+Tírala dentro!
+
+183
+00:23:08,136 --> 00:23:09,262
+¡Aquí!
+
+184
+00:23:39,386 --> 00:23:42,081
+¡Mi niño!
+
+185
+00:24:53,093 --> 00:24:55,855
+Está bien, ¿verdad?
+
+186
+00:24:55,995 --> 00:24:57,859
+Corre, antes de que
+venga alguien!
+
+187
+00:25:15,005 --> 00:25:18,768
+¿Qué ocurre?
+
+188
+00:25:25,811 --> 00:25:29,942
+Me llamo Katushiro, señor.
+Acépteme como discípulo!
+
+189
+00:25:32,688 --> 00:25:33,728
+¿Discípulo?
+
+190
+00:25:34,154 --> 00:25:36,009
+Me llamo Kambei Shimada.
+Soy un ronin.
+
+191
+00:25:38,317 --> 00:25:40,615
+Y no tengo discípulos.
+
+192
+00:25:40,650 --> 00:25:42,912
+Levántate y hablaremos.
+
+193
+00:25:44,620 --> 00:25:46,757
+Por favor, acépteme
+como discípulo!
+
+194
+00:25:47,284 --> 00:25:51,039
+Levántate!
+Hablaremos mientras caminamos.
+
+195
+00:26:04,549 --> 00:26:05,840
+Me da vergüenza.
+
+196
+00:26:06,525 --> 00:26:10,189
+- Me sobreestimas.
+- No, señor.
+
+197
+00:26:10,269 --> 00:26:12,168
+Escucha.
+
+198
+00:26:12,203 --> 00:26:15,431
+No tengo ninguna habilidad especial.
+
+199
+00:26:15,537 --> 00:26:18,506
+Pero tengo mucha
+experiencia en batallas.
+
+200
+00:26:18,973 --> 00:26:21,735
+En perderlas. Todas.
+
+201
+00:26:22,141 --> 00:26:24,612
+En resumen, eso es
+todo lo que soy.
+
+202
+00:26:25,394 --> 00:26:28,363
+Abandona esa idea,
+por tu propio bien.
+
+203
+00:26:28,723 --> 00:26:31,200
+No, señor, he tomado una decisión.
+
+204
+00:26:31,984 --> 00:26:33,090
+Le seguiré.
+
+205
+00:26:33,678 --> 00:26:37,840
+Te lo prohíbo.
+No puedo permitírmelo.
+
+206
+00:26:51,521 --> 00:26:53,251
+¿Qué pasa?
+
+207
+00:27:01,329 --> 00:27:02,328
+¿Qué quieres?
+
+208
+00:27:11,302 --> 00:27:13,393
+¡Insolente!
+
+209
+00:27:14,136 --> 00:27:16,102
+Métete en tus asuntos, chico.
+
+210
+00:27:19,405 --> 00:27:21,065
+¿Eres un samurái?
+
+211
+00:27:25,541 --> 00:27:27,236
+Claro!
+
+212
+00:27:30,244 --> 00:27:31,470
+¿De veras?
+
+213
+00:27:39,915 --> 00:27:41,541
+Bastardo.
+
+214
+00:27:57,426 --> 00:27:59,017
+¿Quien es ese?
+
+215
+00:28:05,362 --> 00:28:07,192
+¡No le hagas caso!
+
+216
+00:28:25,306 --> 00:28:28,433
+¡Por favor, señor!
+
+217
+00:28:29,042 --> 00:28:32,907
+¿Por qué no volvéis a casa?
+
+218
+00:28:34,445 --> 00:28:36,968
+¿No habéis tenido bastante?
+
+219
+00:28:43,248 --> 00:28:45,950
+Es imposible.
+
+220
+00:28:45,985 --> 00:28:48,576
+Señor! ¿Por qué no
+los armamos con...?
+
+221
+00:28:49,652 --> 00:28:52,016
+Yo también lo había pensado.
+
+222
+00:28:55,955 --> 00:28:58,583
+Pero esto no es un juego.
+
+223
+00:29:01,759 --> 00:29:04,560
+¡Una banda de 40 bandidos!
+
+224
+00:29:04,595 --> 00:29:07,756
+Dos o tres samuráis
+no conseguirían nada.
+
+225
+00:29:21,937 --> 00:29:24,201
+¡La defensa es más
+difícil que el ataque!
+
+226
+00:29:27,072 --> 00:29:28,734
+¿Detrás del pueblo hay colinas?
+
+227
+00:29:29,540 --> 00:29:30,541
+Sí.
+
+228
+00:29:30,542 --> 00:29:32,311
+¿Los caballos pueden remontarlas?
+
+229
+00:29:32,442 --> 00:29:34,704
+Sí.
+
+230
+00:29:42,614 --> 00:29:45,046
+¿Hay campos delante?
+
+231
+00:29:45,081 --> 00:29:47,881
+El pueblo se expone a los jinetes,
+
+232
+00:29:47,916 --> 00:29:50,678
+hasta que se inunden los campos.
+
+233
+00:29:52,419 --> 00:29:54,683
+Un hombre en cada dirección
+hacen cuatro.
+
+234
+00:29:57,023 --> 00:29:59,786
+Dos más de reserva.
+
+235
+00:30:00,859 --> 00:30:03,189
+Necesitaréis al menos...
+
+236
+00:30:04,494 --> 00:30:06,755
+Siete, incluyéndome a mí.
+
+237
+00:30:09,061 --> 00:30:11,126
+Podemos permitirnos siete, ¿no?
+
+238
+00:30:11,161 --> 00:30:13,190
+El abuelo dijo cuatro, ¿o no?
+
+239
+00:30:14,432 --> 00:30:15,989
+Solo son tres mas.
+
+240
+00:30:16,600 --> 00:30:18,332
+¡Espera!
+
+241
+00:30:18,367 --> 00:30:23,067
+Aún no he aceptado.
+Sólo estoy pensando.
+
+242
+00:30:23,102 --> 00:30:28,060
+En primer lugar, no es fácil
+encontrar 7 samuráis de confianza.
+
+243
+00:30:28,373 --> 00:30:33,075
+Sobre todo cuando la recompensa son
+tres míseras comidas al día.
+
+244
+00:30:34,709 --> 00:30:39,007
+Y la diversión,
+si me lo permitís, escasa.
+
+245
+00:30:39,042 --> 00:30:42,906
+Además, estoy cansado de luchar.
+
+246
+00:30:44,348 --> 00:30:47,406
+Quizá sea la edad.
+
+247
+00:31:07,326 --> 00:31:10,760
+Me alegro de no haber
+nacido campesino.
+
+248
+00:31:12,196 --> 00:31:16,098
+¡Incluso los perros
+tienen más suerte!
+
+249
+00:31:16,133 --> 00:31:17,397
+¡Creed mi palabra, ahorcaos!
+
+250
+00:31:20,101 --> 00:31:21,667
+¡Basta ya!
+
+251
+00:31:21,702 --> 00:31:23,880
+¿Qué pasa?
+Sólo estoy hablando claro.
+
+252
+00:31:23,915 --> 00:31:28,675
+¿Hablando claro?
+¿No les compadeces?
+
+253
+00:31:28,938 --> 00:31:30,597
+No me hagas reír.
+
+254
+00:31:30,738 --> 00:31:32,012
+¿No tienes compasión?
+
+255
+00:31:32,606 --> 00:31:33,606
+Si tú la tienes,
+
+256
+00:31:33,641 --> 00:31:35,876
+¿Por qué no les ayudas?
+
+257
+00:31:42,579 --> 00:31:43,909
+¿Quieres pelear?
+
+258
+00:31:46,614 --> 00:31:48,443
+¡Ya basta!
+
+259
+00:31:54,284 --> 00:31:57,549
+!Idiotas!
+
+260
+00:32:03,457 --> 00:32:05,288
+!Samurai! mira esto!
+
+261
+00:32:06,926 --> 00:32:08,925
+Esto es para ti.
+
+262
+00:32:08,960 --> 00:32:10,220
+¿Sabes lo que comen
+esos desgraciados?
+
+263
+00:32:11,794 --> 00:32:13,260
+¡Mijo!
+
+264
+00:32:13,295 --> 00:32:16,785
+A ti te dan arroz
+y ellos comen mijo.
+
+265
+00:32:17,530 --> 00:32:19,463
+¡Te dan lo mejor que tienen!
+
+266
+00:32:22,801 --> 00:32:24,233
+- ¡Está bien!
+- ¿Que?
+
+267
+00:32:24,934 --> 00:32:28,062
+Deja de gritar.
+
+268
+00:32:31,305 --> 00:32:33,272
+Siempre agradeceré
+vuestro sacrificio.
+
+269
+00:32:51,515 --> 00:32:53,039
+¡Mirad, Manzo vuelve a casa!
+
+270
+00:33:08,124 --> 00:33:09,622
+¿Dónde están Rikichi y Yohei?
+
+271
+00:33:09,657 --> 00:33:12,234
+Siguen buscando samuráis.
+
+272
+00:33:12,761 --> 00:33:14,046
+¿Habéis conseguido alguno?
+
+273
+00:33:14,510 --> 00:33:16,106
+Sí, siete.
+
+274
+00:33:16,463 --> 00:33:17,930
+¿Siete?
+
+275
+00:33:21,766 --> 00:33:23,798
+Siete.
+
+276
+00:33:23,833 --> 00:33:29,029
+Usted dijo cuatro, así
+que me negué.
+
+277
+00:33:29,669 --> 00:33:34,729
+Creía que tendríamos
+que contratar a diez.
+
+278
+00:33:35,071 --> 00:33:39,789
+Pero si os lo hubiera dicho,
+habríais traído a quince.
+
+279
+00:33:41,076 --> 00:33:44,271
+¿Entiendes lo que quiero decir?
+
+280
+00:33:45,044 --> 00:33:48,603
+Abuelo, estoy muy preocupado.
+
+281
+00:33:52,947 --> 00:33:56,683
+Nuestras chicas están locas
+por los samuráis.
+
+282
+00:33:56,718 --> 00:33:59,684
+A los del pueblo no les gustará
+que los samuráis las cortejen.
+
+283
+00:34:04,420 --> 00:34:06,854
+¡Idiota! ¿Has olvidado
+a los bandidos?
+
+284
+00:34:08,590 --> 00:34:11,819
+¿Por qué te preocupas
+por tu barba...
+
+285
+00:34:11,855 --> 00:34:13,982
+...cuando van a
+cortarte la cabeza?
+
+286
+00:34:24,298 --> 00:34:25,674
+Señor Samurai.
+
+287
+00:34:36,306 --> 00:34:37,931
+- ¿Necesitas mi ayuda?
+- Sí.
+
+288
+00:34:40,507 --> 00:34:42,201
+¿Para pelear con quién?
+
+289
+00:34:43,342 --> 00:34:45,138
+¡Katsushiro!
+
+290
+00:34:57,082 --> 00:34:59,312
+Sujeta el arma con fuerza.
+
+291
+00:35:01,584 --> 00:35:03,278
+Y pégale cuando entre.
+
+292
+00:35:08,621 --> 00:35:11,681
+Ya viene.
+
+293
+00:35:15,092 --> 00:35:16,649
+Toma. ¡Pégale con
+todas tus fuerzas!
+
+294
+00:35:47,175 --> 00:35:49,676
+Magnífico.
+
+295
+00:35:49,711 --> 00:35:53,945
+Por favor, perdónenos.
+Me llamo Kambei Shimada.
+
+296
+00:35:53,979 --> 00:35:58,109
+Tengo que encontrar a hombres
+con talento enseguida.
+
+297
+00:35:58,616 --> 00:35:59,844
+Perdónanos.
+
+298
+00:36:00,618 --> 00:36:02,708
+¿Qué es esto?
+
+299
+00:36:02,750 --> 00:36:05,028
+¡Es intolerable, indignante!
+
+300
+00:36:05,418 --> 00:36:06,884
+Mil perdones.
+
+301
+00:36:07,665 --> 00:36:12,363
+Verá, habrá una guerra
+contra los bandidos.
+
+302
+00:36:13,924 --> 00:36:17,024
+¿Qué familia es?
+
+303
+00:36:17,059 --> 00:36:22,062
+La verdad es que nuestro patrono
+es un pueblo de campesinos.
+
+304
+00:36:22,628 --> 00:36:24,328
+- ¿Campesinos?
+- Así es.
+
+305
+00:36:24,363 --> 00:36:27,889
+Un trabajo que no promete
+ni paga ni recompensa.
+
+306
+00:36:28,498 --> 00:36:32,108
+Sólo tres comidas al día,
+mientras estemos haciéndolo.
+
+307
+00:36:32,299 --> 00:36:34,426
+¡Qué estupidez!
+
+308
+00:36:34,702 --> 00:36:39,457
+- Mi ambición es mayor.
+- Lo siento.
+
+309
+00:36:41,641 --> 00:36:43,406
+¿Es definitivo?
+
+310
+00:36:44,061 --> 00:36:45,402
+Si.
+
+311
+00:36:51,377 --> 00:36:56,024
+Qué gran pérdida.
+¡Era muy bueno con la espada!
+
+312
+00:37:42,537 --> 00:37:44,303
+¿Qué ocurre?
+
+313
+00:37:44,338 --> 00:37:48,743
+Ese samurái está bien,
+pero me preocupan los otros seis.
+
+314
+00:37:48,942 --> 00:37:51,207
+No seas idiota.
+
+315
+00:37:51,242 --> 00:37:55,233
+Espera a verlos y luego
+preocúpate.
+
+316
+00:38:11,086 --> 00:38:13,486
+¡Pruebe a ése!
+
+317
+00:38:31,330 --> 00:38:33,196
+¡Un momento, señor!
+
+318
+00:38:35,899 --> 00:38:38,958
+¿Como la última vez?
+
+319
+00:38:41,103 --> 00:38:43,126
+Sí, para que te entrenes.
+
+320
+00:39:16,220 --> 00:39:17,812
+Nada de bromas.
+
+321
+00:39:19,256 --> 00:39:20,780
+Mil perdones.
+
+322
+00:39:36,099 --> 00:39:38,224
+Interesante.
+
+323
+00:39:40,167 --> 00:39:42,897
+Pero... veo que los campesinos
+están sufriendo.
+
+324
+00:39:42,931 --> 00:39:45,902
+Creo que comprendo
+por qué ha aceptado.
+
+325
+00:39:45,937 --> 00:39:50,605
+Y yo aceptaré porque
+su personalidad me fascina.
+
+326
+00:39:50,640 --> 00:39:56,442
+La amistad más profunda suele
+surgir de un encuentro casual.
+
+327
+00:40:07,049 --> 00:40:09,014
+- ¿Cómo se llama?
+- Gorobei Katayama.
+
+328
+00:40:09,849 --> 00:40:13,307
+Un nombre de gigante.
+
+329
+00:40:22,825 --> 00:40:26,037
+¡Yohei, date prisa!
+Haz el arroz!
+
+330
+00:40:30,694 --> 00:40:31,922
+¡Venga!
+
+331
+00:40:36,098 --> 00:40:37,614
+¿Qué ocurre?
+
+332
+00:40:39,101 --> 00:40:42,192
+Ha desaparecido el arroz.
+
+333
+00:40:53,307 --> 00:40:56,069
+¡Idiota!
+¡No sirves para nada!
+
+334
+00:40:56,608 --> 00:41:01,100
+¡Hice lo que pude
+por vigilarlo!
+
+335
+00:41:04,080 --> 00:41:08,273
+He dormido junto a él,
+agarrándolo.
+
+336
+00:41:13,716 --> 00:41:15,183
+¡Traeré más de casa!
+
+337
+00:41:16,665 --> 00:41:18,260
+¿Y qué haremos..
+
+338
+00:41:18,589 --> 00:41:20,812
+hasta que vuelvas?
+
+339
+00:41:21,087 --> 00:41:25,778
+Ha desaparecido todo
+menos un puñado.
+
+340
+00:42:17,952 --> 00:42:20,300
+No seas tonto.
+
+341
+00:42:20,335 --> 00:42:22,650
+Aquí llega.
+
+342
+00:42:28,090 --> 00:42:30,497
+Es maravilloso, ¡gracias al cielo!
+
+343
+00:42:33,726 --> 00:42:39,208
+¡Me alegro tanto de verte con vida!
+Ya te daba por perdido.
+
+344
+00:42:46,334 --> 00:42:49,701
+¿Cómo conseguiste escapar?
+
+345
+00:42:49,702 --> 00:42:55,305
+Me escondí en la acequia,
+debajo de las plantas acuáticas.
+
+346
+00:42:55,306 --> 00:43:01,101
+Cuando se quemó el donjon y me cayó
+encima, creí que me llegaba el final.
+
+347
+00:43:02,176 --> 00:43:05,144
+¿No tuviste miedo?
+
+348
+00:43:05,511 --> 00:43:08,240
+No.
+
+349
+00:43:10,880 --> 00:43:13,796
+¿Estás harto de luchar?
+
+350
+00:43:22,453 --> 00:43:26,586
+La verdad es que...
+preparo una dura batalla,
+
+351
+00:43:26,913 --> 00:43:28,755
+Que no nos dará ni dinero ni fama.
+
+352
+00:43:28,889 --> 00:43:31,084
+- ¿Te apuntas?
+- Sí, señor!
+
+353
+00:43:32,093 --> 00:43:33,922
+Esta vez quizá muramos.
+
+354
+00:43:55,338 --> 00:43:57,429
+Nunca me había dado cuenta
+de que fueran tan escasos.
+
+355
+00:43:57,464 --> 00:43:59,565
+¿Qué busca, señor?
+
+356
+00:43:59,673 --> 00:44:03,869
+Samuráis.
+
+357
+00:44:03,875 --> 00:44:07,468
+Hay uno en mi jardín,
+pero de poca calidad.
+
+358
+00:44:08,277 --> 00:44:11,005
+Me asombró su indiferencia.
+
+359
+00:44:12,079 --> 00:44:14,980
+Entró diciendo: Déme de comer...
+
+360
+00:44:15,015 --> 00:44:18,345
+No tengo dinero,
+pero cortaré la leña.
+
+361
+00:44:24,487 --> 00:44:27,421
+Me gustó su franqueza.
+
+362
+00:45:07,510 --> 00:45:10,871
+¿Nunca has visto a nadie
+cortando leña?
+
+363
+00:45:11,167 --> 00:45:12,990
+Pareces disfrutarlo.
+
+364
+00:45:13,644 --> 00:45:17,079
+Ésa es mi naturaleza.
+
+365
+00:45:22,016 --> 00:45:23,483
+Eres bueno.
+
+366
+00:45:25,188 --> 00:45:26,982
+Pero soy mejor matando enemigos.
+
+367
+00:45:27,052 --> 00:45:29,748
+- ¿Has matado a muchos?
+- Bueno...
+
+368
+00:45:30,754 --> 00:45:34,120
+Es imposible matarlos a todos.
+
+369
+00:45:36,758 --> 00:45:39,386
+Así que suelo salir corriendo.
+
+370
+00:45:41,061 --> 00:45:43,801
+¡Un principio magnífico!
+
+371
+00:45:45,790 --> 00:45:47,615
+Gracias.
+
+372
+00:45:53,268 --> 00:45:58,070
+Por cierto. ¿Te interesa
+matar a 30 bandidos?
+
+373
+00:46:17,113 --> 00:46:18,341
+Empecemos.
+
+374
+00:47:49,662 --> 00:47:50,925
+Qué pena.
+
+375
+00:47:51,097 --> 00:47:52,587
+Un empate.
+
+376
+00:47:52,622 --> 00:47:53,825
+No.
+
+377
+00:47:54,265 --> 00:47:55,323
+He ganado.
+
+378
+00:47:59,200 --> 00:48:01,827
+¿Sí?
+
+379
+00:48:02,135 --> 00:48:04,645
+Te habría matado.
+
+380
+00:48:10,648 --> 00:48:12,832
+- ¡Vamos a verlo!
+- No tiene sentido.
+
+381
+00:48:13,718 --> 00:48:16,681
+¿No lo ves? Una espada de
+verdad te mataría.
+
+382
+00:48:17,041 --> 00:48:18,051
+No tiene sentido.
+
+383
+00:48:18,979 --> 00:48:21,246
+¡Espera!
+¡Desenvaina!
+
+384
+00:48:24,313 --> 00:48:25,974
+¡Vamos!
+
+385
+00:49:05,738 --> 00:49:07,795
+Deja de fanfarronear.
+
+386
+00:49:08,638 --> 00:49:10,367
+No tiene sentido.
+
+387
+00:49:42,491 --> 00:49:45,617
+¿Has encontrado a alguno?
+
+388
+00:49:48,093 --> 00:49:51,242
+He perdido a uno. Un
+maestro con la espada.
+
+389
+00:49:52,597 --> 00:49:54,787
+El pez que se escapa
+siempre parece grande.
+
+390
+00:49:54,964 --> 00:49:57,196
+No.
+
+391
+00:49:57,231 --> 00:50:01,326
+Vi su habilidad con mis propios
+ojos, mató a un hombre.
+
+392
+00:50:07,771 --> 00:50:13,356
+A ese hombre sólo le interesa
+perfeccionar su habilidad.
+
+393
+00:50:15,189 --> 00:50:16,199
+Así que dijo que no.
+
+394
+00:50:17,014 --> 00:50:18,055
+Qué pena.
+
+395
+00:50:20,795 --> 00:50:22,881
+Pero le dije dónde
+podía encontrarme.
+
+396
+00:50:23,989 --> 00:50:24,988
+¿Y tú?
+
+397
+00:50:26,435 --> 00:50:27,433
+He conseguido a uno.
+
+398
+00:50:28,466 --> 00:50:31,760
+- Es mediocre con la espada.
+- Mediocre.
+
+399
+00:50:33,226 --> 00:50:35,476
+Pero es un hombre honesto.
+
+400
+00:50:36,550 --> 00:50:37,691
+Y alegre.
+
+401
+00:50:39,451 --> 00:50:41,218
+Buena compañía en la adversidad.
+
+402
+00:50:43,009 --> 00:50:44,008
+Muchas gracias.
+
+403
+00:50:45,624 --> 00:50:48,231
+A decir verdad, yo también
+he conseguido uno.
+
+404
+00:50:49,369 --> 00:50:51,823
+- ¿El que parece un mendigo?
+- Exacto.
+
+405
+00:50:52,119 --> 00:50:54,794
+Fue mi colega durante años.
+
+406
+00:51:00,532 --> 00:51:03,500
+Ha venido.
+
+407
+00:51:06,135 --> 00:51:07,826
+Soy Heihachi Hayashida,
+
+408
+00:51:08,674 --> 00:51:10,767
+De la escuela de los
+cortadores de leña.
+
+409
+00:51:17,273 --> 00:51:20,197
+Bueno, ya sólo quedan tres.
+
+410
+00:51:20,687 --> 00:51:22,677
+¿Tres? ¿No faltan dos?
+
+411
+00:51:23,380 --> 00:51:25,231
+No puedo llevar a un bebé.
+
+412
+00:51:27,416 --> 00:51:28,415
+¡Lo sé!
+
+413
+00:51:28,805 --> 00:51:30,204
+Ya sé lo que vas a decir.
+
+414
+00:51:30,826 --> 00:51:32,683
+Yo también fui joven.
+
+415
+00:51:33,014 --> 00:51:34,345
+"Entrénate,
+
+416
+00:51:34,921 --> 00:51:36,496
+distínguete en la guerra,
+
+417
+00:51:38,786 --> 00:51:43,676
+conviértete en alguien,
+quizá un señor de la guerra"
+
+418
+00:51:44,188 --> 00:51:48,180
+Pero, el tiempo vuela.
+
+419
+00:51:48,958 --> 00:51:54,280
+Antes de que tu sueño se haga
+realidad, te saldrán canas.
+
+420
+00:51:54,462 --> 00:51:56,554
+Para entonces,
+
+421
+00:51:58,329 --> 00:52:05,526
+tus padres y amigos estarán
+muertos y desaparecidos.
+
+422
+00:52:54,059 --> 00:52:56,495
+Vuelve a casa por la mañana.
+
+423
+00:52:56,560 --> 00:52:58,842
+Has tenido suficiente entrenamiento.
+
+424
+00:52:59,262 --> 00:53:01,516
+Una buena experiencia.
+
+425
+00:53:17,038 --> 00:53:18,153
+¡Por favor, señor!
+
+426
+00:53:18,807 --> 00:53:20,696
+¡Llévelo con usted, por favor!
+
+427
+00:53:21,026 --> 00:53:24,474
+¡Hágalo!
+Aunque le llame crío.
+
+428
+00:53:25,941 --> 00:53:29,526
+Si, a veces los críos están
+más dispuestos que los adultos.
+
+429
+00:53:29,758 --> 00:53:32,301
+Siempre que le tratemos
+como un adulto.
+
+430
+00:53:34,387 --> 00:53:36,178
+Pues tratémosle como uno.
+
+431
+00:53:42,251 --> 00:53:44,185
+Dos más.
+
+432
+00:53:44,920 --> 00:53:47,856
+Sólo uno, creo.
+
+433
+00:53:54,558 --> 00:53:55,582
+Has venido.
+
+434
+00:53:57,894 --> 00:53:59,224
+Gracias.
+
+435
+00:54:00,028 --> 00:54:02,061
+- ¿Cuando partimos?
+- Mañana.
+
+436
+00:54:05,864 --> 00:54:07,388
+¿Mañana?
+
+437
+00:54:08,699 --> 00:54:11,845
+Olvidemos el séptimo.
+No tenemos tiempo que perder.
+
+438
+00:54:15,336 --> 00:54:16,897
+De acuerdo.
+
+439
+00:54:20,438 --> 00:54:22,706
+¡Señor!
+
+440
+00:54:22,872 --> 00:54:25,237
+- Señor!
+- No pasa nada.
+
+441
+00:54:25,674 --> 00:54:28,687
+- Señor!
+- Lo sé, no es nada.
+
+442
+00:54:33,679 --> 00:54:36,669
+¡He encontrado un samurái!
+
+443
+00:54:36,713 --> 00:54:38,339
+¡Uno muy duro!
+
+444
+00:54:39,282 --> 00:54:41,010
+¡Uno feroz!
+
+445
+00:54:42,050 --> 00:54:44,017
+Hemos estado bebiendo con él.
+
+446
+00:54:45,252 --> 00:54:46,980
+Se lo he pedido...
+
+447
+00:54:47,086 --> 00:54:48,746
+y viene.
+
+448
+00:54:51,221 --> 00:54:52,779
+Le haré la prueba.
+
+449
+00:55:07,197 --> 00:55:08,792
+¿Qué haces?
+
+450
+00:55:09,365 --> 00:55:11,273
+Probarle.
+
+451
+00:55:12,500 --> 00:55:15,523
+¡Eso no es justo!
+¡No es justo!
+
+452
+00:55:15,787 --> 00:55:16,830
+Tú mira.
+
+453
+00:55:16,902 --> 00:55:18,933
+Un buen samurái lo esquivaría.
+
+454
+00:55:19,487 --> 00:55:20,831
+Pero, ¡está borracho!
+
+455
+00:55:21,005 --> 00:55:23,800
+Un verdadero samurái
+nunca se emborracharía tanto.
+
+456
+00:55:38,980 --> 00:55:40,606
+¡A ver!
+Que quieren esos tipos.
+
+457
+00:55:42,482 --> 00:55:45,745
+¿Qué pasa?
+
+458
+00:55:48,085 --> 00:55:49,551
+¿Quién me ha pegado?
+
+459
+00:56:06,597 --> 00:56:08,494
+¿Tu?
+
+460
+00:56:13,299 --> 00:56:16,733
+¿Quien me pegó?
+
+461
+00:56:27,338 --> 00:56:28,397
+¿Tú?
+
+462
+00:56:38,921 --> 00:56:39,975
+¿O tú?
+
+463
+00:56:57,824 --> 00:56:59,192
+¡Recuerdo tu cara!
+
+464
+00:57:02,390 --> 00:57:03,814
+Eh, tú.
+
+465
+00:57:10,997 --> 00:57:13,410
+Tuviste la desvergüenza
+de preguntarme si era samurái.
+
+466
+00:57:14,324 --> 00:57:15,856
+¡Mirad, soy un samurai!
+
+467
+00:57:27,075 --> 00:57:30,081
+¡Llevo buscándote desde entonces!
+
+468
+00:57:35,860 --> 00:57:38,373
+¡Quería enseñarte esto!
+
+469
+00:57:40,000 --> 00:57:41,563
+¡Mira esto!
+
+470
+00:57:50,344 --> 00:57:56,740
+Así lo sabréis. Pertenezco a una
+respetable familia de samuráis.
+
+471
+00:58:05,236 --> 00:58:06,538
+Mira.
+
+472
+00:58:16,498 --> 00:58:17,670
+¡Éste soy yo!
+
+473
+00:58:19,032 --> 00:58:20,903
+¿Kikuchiyo?
+
+474
+00:58:21,668 --> 00:58:23,178
+Sí, señor!
+
+475
+00:58:24,155 --> 00:58:26,735
+"Nacido el 17 de febrero
+del 20 año de Tensho".
+
+476
+00:58:30,072 --> 00:58:32,835
+¿Qué tiene tanta gracia?
+
+477
+00:58:33,739 --> 00:58:37,105
+¿Tienes trece años?
+
+478
+00:58:37,375 --> 00:58:41,237
+Escucha, si eres el Kikuchiyo
+del que se habla aquí,
+
+479
+00:58:41,512 --> 00:58:43,535
+deberías tener 13 años.
+
+480
+00:58:48,848 --> 00:58:50,974
+¿Dónde has robado esto?
+
+481
+00:58:52,217 --> 00:58:53,643
+¿Robar?
+
+482
+00:58:55,010 --> 00:58:56,280
+Quieto, trece!
+
+483
+00:58:58,890 --> 00:59:00,780
+Maldito samurai.
+
+484
+00:59:01,921 --> 00:59:05,219
+¡Maldito seas!
+
+485
+00:59:06,926 --> 00:59:09,051
+¡Eh, bastardo!
+
+486
+00:59:10,761 --> 00:59:12,694
+¡Vuelve aquí!
+
+487
+00:59:13,628 --> 00:59:16,690
+¡Maldito seas,
+hijo de perra!
+
+488
+00:59:27,035 --> 00:59:29,025
+¡Te portas como un crío!
+
+489
+00:59:32,605 --> 00:59:35,165
+¡Maldito seas!
+
+490
+00:59:36,374 --> 00:59:40,035
+¡Ven aquí!
+
+491
+01:00:13,328 --> 01:00:15,259
+¡Estoy aquí!
+
+492
+01:00:20,197 --> 01:00:22,721
+Anímese, señor Kikuchiyo.
+
+493
+01:00:31,803 --> 01:00:33,667
+Animo, trece!
+
+494
+01:00:50,948 --> 01:00:54,219
+- ¿Está dormido?
+- Como un niño.
+
+495
+01:01:05,721 --> 01:01:07,847
+Venga, en marcha.
+
+496
+01:01:12,458 --> 01:01:14,255
+Kikuchiyo!
+
+497
+01:01:17,662 --> 01:01:19,823
+¡Cuida esto bien!
+
+498
+01:01:21,398 --> 01:01:24,957
+¡Llévame contigo!
+
+499
+01:02:04,953 --> 01:02:07,546
+¿Qué pasa, papá?
+
+500
+01:02:23,664 --> 01:02:25,321
+¿Que pasa?
+
+501
+01:02:26,331 --> 01:02:28,029
+¿Por qué me miras así?
+
+502
+01:02:36,671 --> 01:02:39,530
+¡Shino, córtate el pelo!
+
+503
+01:02:40,439 --> 01:02:42,839
+¡Córtate el pelo,
+vístete como un chico!
+
+504
+01:02:45,208 --> 01:02:47,875
+- No quiero.
+- ¡Córtatelo, te digo!
+
+505
+01:02:48,711 --> 01:02:52,523
+Van a venir los samuráis.
+¡No quiero que te hagan daño!
+
+506
+01:02:52,846 --> 01:02:53,845
+¡No!
+
+507
+01:02:54,267 --> 01:02:56,027
+¡No, no quiero!
+
+508
+01:03:00,684 --> 01:03:03,811
+¡Shino!
+
+509
+01:03:27,031 --> 01:03:28,676
+¿Que ha pasado?
+
+510
+01:03:28,711 --> 01:03:31,541
+Manzo ha visto a los samuráis
+
+511
+01:03:32,000 --> 01:03:34,283
+y le ha cortado el pelo
+a su hija.
+
+512
+01:03:34,502 --> 01:03:37,374
+A vosotros os da igual
+porque tenéis hijos.
+
+513
+01:03:37,837 --> 01:03:40,830
+¡Idiota!
+No entiende nada.
+
+514
+01:03:40,865 --> 01:03:43,969
+Quédate con mi hija,
+estará más segura en tu casa.
+
+515
+01:03:44,641 --> 01:03:47,236
+Idiota! ¡Estoy hablando
+de Manzo!
+
+516
+01:03:48,309 --> 01:03:51,074
+Dice que le preocupa
+nuestro pueblo,
+
+517
+01:03:52,018 --> 01:03:53,649
+Pero sólo le preocupa
+él mismo.
+
+518
+01:03:54,345 --> 01:03:56,403
+¡Maldito!
+
+519
+01:04:14,824 --> 01:04:16,569
+¡Eres un estupido!
+
+520
+01:04:17,493 --> 01:04:19,244
+Eres un idiota de campeonato.
+
+521
+01:04:19,760 --> 01:04:22,314
+¡Todos los que tenéis hijas
+estáis aterrorizados!
+
+522
+01:04:23,794 --> 01:04:25,193
+¿Qué hacemos?
+
+523
+01:04:26,096 --> 01:04:28,386
+¡Los samuráis
+están a punto de llegar!
+
+524
+01:04:29,697 --> 01:04:31,665
+¡Vamos a ver al abuelo!
+
+525
+01:04:34,734 --> 01:04:36,757
+¡No os quedéis ahí quietos!
+
+526
+01:04:39,035 --> 01:04:40,764
+¡Vamos!
+
+527
+01:04:42,237 --> 01:04:44,001
+Deberíamos hacer algo
+antes de que lleguen los samuráis.
+
+528
+01:04:52,544 --> 01:04:54,634
+¡Aún nos sigue!
+
+529
+01:06:39,801 --> 01:06:41,563
+Ya no viene.
+
+530
+01:06:42,769 --> 01:06:44,361
+¿Se habrá rendido?
+
+531
+01:06:44,736 --> 01:06:46,601
+Que lastima.
+
+532
+01:06:46,804 --> 01:06:48,790
+Es extraño, es como si...
+
+533
+01:06:49,306 --> 01:06:50,923
+¡Le echará de menos!
+
+534
+01:06:57,010 --> 01:06:59,533
+Es por aquí.
+
+535
+01:07:01,011 --> 01:07:04,912
+¡Demonios!
+
+536
+01:07:15,853 --> 01:07:17,844
+Así que ése es nuestro castillo.
+
+537
+01:07:19,488 --> 01:07:21,978
+No me gustaría morir
+en un montón de estiércol.
+
+538
+01:07:22,423 --> 01:07:24,448
+Nadie te lo ha pedido.
+
+539
+01:07:43,335 --> 01:07:45,131
+¡Ya hemos llegado!
+
+540
+01:07:52,274 --> 01:07:54,604
+¡He traído a los caballeros!
+
+541
+01:07:58,943 --> 01:08:02,443
+¡Los samuráis ya están aquí!
+
+542
+01:08:08,748 --> 01:08:10,126
+¿Que ocurre?
+
+543
+01:08:15,119 --> 01:08:18,707
+¿Por qué no sale nadie
+a darles la bienvenida?
+
+544
+01:08:30,627 --> 01:08:32,972
+¿Qué clase de hospitalidad
+es ésta?
+
+545
+01:08:36,956 --> 01:08:38,325
+¿Qué significa esto?
+
+546
+01:08:41,567 --> 01:08:46,023
+¿Qué pasa aquí?
+¡Saludad a nuestros invitados!
+
+547
+01:09:01,608 --> 01:09:03,235
+Vamos a ver al abuelo.
+
+548
+01:09:04,144 --> 01:09:07,435
+Él se encarga de todos
+nuestros asuntos.
+
+549
+01:09:07,470 --> 01:09:09,130
+¿Un patriarca, no?
+
+550
+01:09:10,882 --> 01:09:15,202
+Nos va a conceder una
+audiencia. ¡Qué honor!
+
+551
+01:09:19,186 --> 01:09:21,242
+Vamos.
+
+552
+01:10:32,826 --> 01:10:36,115
+Están siendo unos idiotas.
+
+553
+01:10:36,606 --> 01:10:44,306
+Los campesinos siempre están
+preocupados por algo.
+
+554
+01:10:44,797 --> 01:10:47,471
+La lluvia, la sequía, el viento.
+
+555
+01:10:47,833 --> 01:10:53,454
+En otras palabras, se despiertan
+preocupados y se acuestan igual.
+
+556
+01:10:54,008 --> 01:10:56,292
+Hoy no iba a ser una excepción.
+
+557
+01:10:57,758 --> 01:10:59,584
+Sólo están asustados.
+
+558
+01:10:59,706 --> 01:11:02,266
+Asustados sin razón,
+pero nada más.
+
+559
+01:11:05,976 --> 01:11:10,423
+Dígame.
+¿Por qué nos tienen miedo?
+
+560
+01:11:11,946 --> 01:11:15,626
+Y además esperan que
+hagamos algo por ellos.
+
+561
+01:11:46,465 --> 01:11:47,502
+¡Los bandidos!
+
+562
+01:11:48,833 --> 01:11:51,129
+¡Por favor, señores!
+
+563
+01:12:08,275 --> 01:12:11,538
+¡Ayuda, vienen los bandidos!
+
+564
+01:12:12,277 --> 01:12:15,439
+¡Tranquilícense!
+¡Tranquilos!
+
+565
+01:12:15,480 --> 01:12:17,674
+Respóndanme claramente.
+
+566
+01:12:18,415 --> 01:12:20,473
+¿Por qué dirección vienen?
+
+567
+01:12:20,916 --> 01:12:23,993
+- ¡Por las montañas!
+- ¡No, por el camino!
+
+568
+01:12:27,453 --> 01:12:29,751
+Quienes los hayan visto,
+que den un paso al frente.
+
+569
+01:12:30,890 --> 01:12:33,379
+¿Quién los ha visto?
+
+570
+01:12:33,759 --> 01:12:35,408
+¿Quién ha dado la alarma?
+
+571
+01:12:36,025 --> 01:12:37,753
+¡Yo!
+
+572
+01:12:43,794 --> 01:12:47,457
+Fuera de mi camino.
+
+573
+01:12:50,732 --> 01:12:53,393
+¿A que vienen esas caras?
+
+574
+01:12:54,534 --> 01:12:57,899
+¡No tengáis miedo!
+¡No vienen los bandidos.
+
+575
+01:13:02,905 --> 01:13:04,358
+¡Desgraciados!
+
+576
+01:13:04,839 --> 01:13:07,467
+Nos habéis dado la bienvenida
+como si fuéramos una plaga.
+
+577
+01:13:08,840 --> 01:13:11,366
+Pero cuando habéis oído
+la alarma,
+
+578
+01:13:11,710 --> 01:13:13,007
+habéis salido a venerarnos.
+
+579
+01:13:15,545 --> 01:13:17,638
+Sois un atajo
+de idiotas.
+
+580
+01:13:22,650 --> 01:13:25,309
+¡Inútiles!
+
+581
+01:13:43,061 --> 01:13:45,864
+¿Alguna objeción?
+
+582
+01:13:45,899 --> 01:13:46,898
+No.
+
+583
+01:13:47,530 --> 01:13:50,068
+Ya está bien.
+
+584
+01:13:55,267 --> 01:13:57,591
+Bueno, parece dispuesto.
+
+585
+01:13:58,134 --> 01:13:59,904
+Ahora somos siete, ¿no?
+
+586
+01:14:07,940 --> 01:14:10,947
+Siento que esté todo tan sucio.
+
+587
+01:14:10,982 --> 01:14:12,371
+¿Tú dónde te quedarás?
+
+588
+01:14:14,242 --> 01:14:16,923
+- Dormiré en el establo.
+- ¿Con los caballos?
+
+589
+01:14:19,179 --> 01:14:22,334
+No, los bandidos se los
+llevaron el año pasado.
+
+590
+01:14:39,458 --> 01:14:42,118
+Un establo está bien
+para vivir con tu mujer.
+
+591
+01:14:47,261 --> 01:14:49,091
+¡No estoy casado!
+
+592
+01:14:49,728 --> 01:14:51,234
+¿Que te pasa?
+
+593
+01:15:03,036 --> 01:15:05,230
+Esta loco.
+
+594
+01:15:18,078 --> 01:15:20,487
+¿Cuál es tu verdadero nombre?
+
+595
+01:15:22,648 --> 01:15:24,336
+No me acuerdo.
+
+596
+01:15:24,881 --> 01:15:27,011
+Ponme un buen nombre.
+
+597
+01:15:27,715 --> 01:15:29,715
+¡Kikuchiyo!
+
+598
+01:15:31,117 --> 01:15:32,455
+Como un noble.
+
+599
+01:15:53,563 --> 01:15:56,360
+¿Cómo atacarías?
+
+600
+01:15:56,432 --> 01:15:58,489
+Cargaría desde las colinas.
+
+601
+01:16:00,634 --> 01:16:02,653
+¿Por este camino?
+Yo haría lo mismo.
+
+602
+01:16:03,302 --> 01:16:05,067
+OESTE
+
+603
+01:16:20,511 --> 01:16:21,807
+¿Cómo defenderías?
+
+604
+01:16:23,646 --> 01:16:25,204
+Shichiroji sabe lo que se hace.
+
+605
+01:16:26,413 --> 01:16:29,657
+Mira esos troncos.
+Va a hacer una empalizada.
+
+606
+01:16:30,017 --> 01:16:32,169
+Tu viejo camarada, ¿eh?
+
+607
+01:17:01,467 --> 01:17:02,695
+¡Muy bien!
+
+608
+01:17:03,400 --> 01:17:04,715
+¡Recordad!
+
+609
+01:17:06,103 --> 01:17:08,343
+Las guerras consisten en correr.
+
+610
+01:17:08,603 --> 01:17:11,703
+Se corre tanto en el ataque
+como en la defensa.
+
+611
+01:17:11,737 --> 01:17:13,855
+Si ya no puedes correr,
+es tu fin.
+
+612
+01:17:32,516 --> 01:17:33,948
+SUR
+
+613
+01:17:48,358 --> 01:17:51,473
+Después de la cosecha,
+inundaremos esto.
+
+614
+01:17:52,295 --> 01:17:54,636
+Así no podrá cruzarlo
+ningún caballo.
+
+615
+01:17:55,323 --> 01:17:57,115
+¿Tendremos tiempo de hacerlo?
+
+616
+01:18:06,000 --> 01:18:08,243
+¡Ataca, vamos, ataca!
+
+617
+01:18:08,436 --> 01:18:09,925
+¡Mírame, soy un bandido!
+
+618
+01:18:15,574 --> 01:18:17,630
+¡Ataca!
+
+619
+01:18:20,409 --> 01:18:23,535
+¡Vamos!
+
+620
+01:18:31,081 --> 01:18:32,484
+Siguiente.
+
+621
+01:18:34,250 --> 01:18:35,518
+Siguiente.
+
+622
+01:18:36,085 --> 01:18:38,387
+¡Adelante!
+
+623
+01:19:02,231 --> 01:19:04,066
+ESTE
+
+624
+01:19:08,901 --> 01:19:13,170
+Destruiremos este puente,
+así este lado estará seguro.
+
+625
+01:19:20,506 --> 01:19:23,283
+¿Qué pasará con esas casas?
+
+626
+01:19:30,981 --> 01:19:32,470
+Habrá que desalojarlas.
+
+627
+01:19:37,950 --> 01:19:40,392
+¿El molino también?
+
+628
+01:19:41,986 --> 01:19:44,676
+Ese viejo es testarudo, ya sabes.
+
+629
+01:19:51,390 --> 01:19:52,711
+Recordad.
+
+630
+01:19:53,493 --> 01:19:55,946
+Vosotros teméis al enemigo,
+
+631
+01:19:56,527 --> 01:19:59,339
+pero él también os teme.
+
+632
+01:20:29,343 --> 01:20:31,394
+Sois magníficos!
+
+633
+01:20:32,012 --> 01:20:34,377
+Unos magníficos espantapájaros.
+
+634
+01:20:37,116 --> 01:20:40,522
+Pero ellos son hombres,
+no gorriones, ni cuervos.
+
+635
+01:20:49,456 --> 01:20:53,281
+Tú, el que está rumiando!
+Para!
+
+636
+01:20:57,260 --> 01:20:59,057
+No eres una vaca!
+
+637
+01:21:02,628 --> 01:21:04,314
+Inútiles.
+
+638
+01:21:07,965 --> 01:21:08,997
+¡Atención!
+
+639
+01:21:09,767 --> 01:21:11,494
+¡Tú, da un paso al frente!
+
+640
+01:21:14,834 --> 01:21:17,069
+¡Estoy hablando de ti!
+
+641
+01:21:17,436 --> 01:21:19,057
+¡Tú!
+
+642
+01:22:01,061 --> 01:22:02,527
+¿Qué es esto?
+
+643
+01:22:03,796 --> 01:22:06,229
+Una lanza, señor.
+
+644
+01:22:06,930 --> 01:22:08,650
+¿De dónde la has sacado?
+
+645
+01:22:10,598 --> 01:22:12,498
+¿Ha crecido en un árbol?
+
+646
+01:22:15,898 --> 01:22:16,955
+¡Ya sé!
+
+647
+01:22:17,535 --> 01:22:19,332
+De un samurái vencido.
+
+648
+01:22:20,310 --> 01:22:23,571
+Si tú tienes una, los demás
+también deben de tener.
+
+649
+01:22:24,972 --> 01:22:26,111
+¿Tenéis?
+
+650
+01:22:26,602 --> 01:22:28,394
+¿Tenéis más lanzas?
+
+651
+01:22:36,879 --> 01:22:38,777
+NORTE
+
+652
+01:22:48,754 --> 01:22:52,402
+Esto parece muy tranquilo,
+pero es un punto peligroso.
+
+653
+01:23:28,806 --> 01:23:30,171
+¡Katsushiro!
+
+654
+01:23:30,708 --> 01:23:32,938
+- ¡Nos vamos!
+- Ahora voy.
+
+655
+01:23:40,914 --> 01:23:43,881
+Sigue siendo un crío.
+
+656
+01:24:44,381 --> 01:24:47,780
+¿Eres del pueblo?
+
+657
+01:24:51,719 --> 01:24:53,982
+¿Eres Chica?
+
+658
+01:24:56,821 --> 01:24:58,345
+¿Chico?
+
+659
+01:24:59,889 --> 01:25:01,550
+¿Por qué no estás haciendo
+la instrucción?
+
+660
+01:25:03,057 --> 01:25:05,956
+¿Qué haces cogiendo flores
+en una crisis así?
+
+661
+01:25:07,359 --> 01:25:09,692
+Ven aquí!
+Yo te entrenaré.
+
+662
+01:25:10,095 --> 01:25:12,618
+Ven aquí!
+
+663
+01:25:16,030 --> 01:25:18,430
+¡Ven!
+
+664
+01:26:22,467 --> 01:26:24,958
+Aquí, aquí...
+
+665
+01:26:25,569 --> 01:26:27,365
+y aquí.
+
+666
+01:26:28,003 --> 01:26:30,442
+¡Vamos, uno dos,
+uno dos!
+
+667
+01:26:33,405 --> 01:26:35,735
+Un buen cargamento!
+
+668
+01:26:36,439 --> 01:26:38,304
+¡Venga vamos, vamos!
+
+669
+01:26:44,278 --> 01:26:46,562
+¡Un gran botín!
+
+670
+01:26:52,549 --> 01:26:54,086
+¿Qué es esto?
+
+671
+01:26:54,121 --> 01:26:55,814
+Arrebatado a samuráis vencidos.
+
+672
+01:26:58,053 --> 01:26:59,617
+¿De dónde lo habéis sacado?
+
+673
+01:27:00,121 --> 01:27:02,877
+- ¿De este pueblo?
+- De casa de Manzo.
+
+674
+01:27:12,694 --> 01:27:14,411
+¿No te gusta?
+
+675
+01:27:16,496 --> 01:27:18,587
+Esta es muy buena.
+
+676
+01:27:20,432 --> 01:27:22,846
+¿Qué te pasa?
+
+677
+01:27:24,932 --> 01:27:29,107
+Querías estas cosas, ¿no?
+
+678
+01:27:29,903 --> 01:27:33,530
+Debería darte vergüenza!
+
+679
+01:27:33,638 --> 01:27:36,332
+Se las quitaron a samuráis
+que asesinaron.
+
+680
+01:27:36,806 --> 01:27:39,380
+- Lo sé.
+- ¿Cómo te atreves?
+
+681
+01:27:39,772 --> 01:27:41,076
+- ¡Ya está bien!
+
+682
+01:27:42,142 --> 01:27:46,578
+Alguien que no ha sido perseguido
+no lo entendería.
+
+683
+01:27:59,048 --> 01:28:00,515
+¡Fuera, fuera todos!
+
+684
+01:28:25,247 --> 01:28:29,425
+¡Quisiera matar a todos
+los campesinos del pueblo!
+
+685
+01:28:44,010 --> 01:28:45,021
+¡Buena idea!
+
+686
+01:28:48,314 --> 01:28:49,313
+¡Vosotros!
+
+687
+01:28:50,599 --> 01:28:52,424
+¿Qué pensáis de los campesinos?
+
+688
+01:28:52,725 --> 01:28:54,217
+¿Que son santos?
+
+689
+01:28:56,042 --> 01:28:57,575
+¡No me hagáis reír!
+
+690
+01:28:58,097 --> 01:28:59,760
+¡Son bestias astutas!
+
+691
+01:29:06,253 --> 01:29:10,330
+Dicen: "no tenemos arroz,
+no tenemos trigo, no tenemos nada".
+
+692
+01:29:13,069 --> 01:29:14,377
+¡Pero sí que tienen!
+
+693
+01:29:15,357 --> 01:29:16,823
+¡Tienen de todo!
+
+694
+01:29:18,160 --> 01:29:21,550
+¡Cavad bajo sus suelos!
+¡O examinad sus graneros!
+
+695
+01:29:22,496 --> 01:29:26,899
+¡Encontraréis de todo!
+¡Arroz! ¡Sal, judías, Sake!
+
+696
+01:29:32,969 --> 01:29:35,381
+Buscad en los valles.
+¡Granjas ocultas!
+
+697
+01:29:36,103 --> 01:29:38,706
+Quieren pasar por santos,
+pero están llenos de mentiras.
+
+698
+01:29:39,425 --> 01:29:40,982
+¡Todo es mentira!
+
+699
+01:29:41,764 --> 01:29:44,374
+Si huelen una batalla,
+cazan a los vencidos.
+
+700
+01:29:46,976 --> 01:29:48,126
+¡Escuchad!
+
+701
+01:29:48,311 --> 01:29:50,430
+¡Los campesinos son avaros,
+
+702
+01:29:50,695 --> 01:29:55,685
+astutos, malvados, estúpidos,
+
+703
+01:29:56,402 --> 01:29:57,647
+y asesinos!
+
+704
+01:29:58,591 --> 01:30:00,746
+¡Eso es lo que son!
+
+705
+01:30:05,214 --> 01:30:06,486
+Pero, ¿qué pasa?
+
+706
+01:30:06,812 --> 01:30:08,543
+¿Quién los convirtió
+en bestias así?
+
+707
+01:30:09,363 --> 01:30:10,470
+¡Vosotros!
+
+708
+01:30:11,122 --> 01:30:12,622
+¡Fuisteis los samuráis!
+
+709
+01:30:21,954 --> 01:30:23,584
+¡Vosotros quemáis sus pueblos,
+
+710
+01:30:23,945 --> 01:30:26,683
+destruís sus granjas!
+¡Robáis su comida!
+
+711
+01:30:27,332 --> 01:30:30,556
+¡Les mandáis trabajos forzados!
+¡Os lleváis a sus mujeres!
+
+712
+01:30:30,982 --> 01:30:32,187
+¡Y los matáis si se resisten!
+
+713
+01:30:32,873 --> 01:30:34,242
+¿Qué deben hacer los campesinos?
+
+714
+01:30:35,187 --> 01:30:37,175
+¿Qué pueden hacer los campesinos?
+
+715
+01:30:39,327 --> 01:30:41,902
+¡Malditos! ¡Malditos seáis!
+
+716
+01:31:17,223 --> 01:31:20,851
+Eres hijo de campesino, ¿verdad?
+
+717
+01:31:58,379 --> 01:32:01,222
+¿Ha sucedido algo?
+
+718
+01:32:01,881 --> 01:32:04,646
+Nada, abuelo.
+Todo va bien.
+
+719
+01:33:11,487 --> 01:33:12,724
+Soy yo.
+
+720
+01:33:13,287 --> 01:33:15,560
+A partir de hoy dormiré aquí.
+
+721
+01:33:15,987 --> 01:33:18,203
+No me gusta su compañía.
+
+722
+01:33:20,090 --> 01:33:23,398
+¡Idiota! ¡Conejo, gallina!
+
+723
+01:33:23,825 --> 01:33:25,714
+¿Éste es tu hogar?
+
+724
+01:33:26,394 --> 01:33:29,074
+Les das tu casa y duermes aquí.
+
+725
+01:33:29,395 --> 01:33:31,367
+¡No seas tan cobarde!
+¡Anda, acuéstate!
+
+726
+01:33:31,396 --> 01:33:33,845
+¡Estás muerto de miedo!
+
+727
+01:33:49,539 --> 01:33:52,065
+Es como en los viejos tiempos.
+
+728
+01:34:09,850 --> 01:34:11,908
+Está muy tranquilo.
+
+729
+01:34:14,720 --> 01:34:19,640
+No me imagino las montañas
+plagadas de bandidos.
+
+730
+01:34:21,957 --> 01:34:23,880
+De mujeres.
+
+731
+01:34:33,896 --> 01:34:35,727
+- ¿Dónde vas?
+- ¿A las colinas?
+
+732
+01:34:35,762 --> 01:34:37,692
+- ¿A las colinas?
+- A practicar.
+
+733
+01:34:39,840 --> 01:34:41,535
+¡Ahí arriba no hay mujeres!
+
+734
+01:34:42,600 --> 01:34:44,753
+A veces eres muy agudo.
+
+735
+01:34:46,849 --> 01:34:48,115
+¿Qué haces ahora?
+
+736
+01:34:49,259 --> 01:34:50,309
+Nuestra bandera.
+
+737
+01:34:51,856 --> 01:34:56,249
+Durante la batalla,
+necesitaremos algo que ondear.
+
+738
+01:35:02,111 --> 01:35:03,828
+¿Qué significa?
+
+739
+01:35:04,012 --> 01:35:08,688
+Representa la Granja, los
+campesinos, este pueblo.
+
+740
+01:35:09,750 --> 01:35:12,082
+- ¿Y estos círculos?
+- Somos nosotros.
+
+741
+01:35:13,084 --> 01:35:15,984
+¿Sólo seis?
+¿Yo estoy fuera?
+
+742
+01:35:17,027 --> 01:35:19,308
+El triángulo eres tú,
+Sr. Kikuchiyo.
+
+743
+01:35:19,703 --> 01:35:21,039
+¡El ultimo!
+
+744
+01:36:42,198 --> 01:36:43,961
+Es arroz.
+
+745
+01:36:44,234 --> 01:36:45,630
+Cómelo.
+
+746
+01:36:46,332 --> 01:36:48,198
+He probado el mijo
+por primera vez.
+
+747
+01:36:48,701 --> 01:36:50,532
+Sabe fatal.
+
+748
+01:36:55,037 --> 01:36:57,231
+Adelante.
+
+749
+01:37:08,145 --> 01:37:09,356
+No seas tímida.
+
+750
+01:37:09,746 --> 01:37:11,866
+¿Quieres estar sola?
+
+751
+01:37:11,901 --> 01:37:13,497
+No lo comeré.
+
+752
+01:37:13,883 --> 01:37:14,930
+¿Por qué?
+
+753
+01:37:16,284 --> 01:37:17,284
+Lo he traído para ti.
+
+754
+01:37:19,452 --> 01:37:24,125
+Prefiero dárselo
+a la abuela de Kyuemon.
+
+755
+01:37:25,428 --> 01:37:27,026
+- ¿A la abuela de Kyuemon?
+- Si.
+
+756
+01:37:48,798 --> 01:37:50,821
+Ahora no tengo hambre.
+
+757
+01:37:51,700 --> 01:37:52,839
+Lo comeré luego.
+
+758
+01:37:53,847 --> 01:37:55,188
+Come.
+
+759
+01:37:56,330 --> 01:37:57,698
+Yo guardaré mi arroz.
+
+760
+01:37:59,359 --> 01:38:00,370
+¿Qué pasa aquí?
+
+761
+01:38:00,896 --> 01:38:02,362
+Contádmelo.
+
+762
+01:38:12,312 --> 01:38:13,462
+Esto es terrible.
+
+763
+01:38:16,035 --> 01:38:17,045
+¿No tiene familiares?
+
+764
+01:38:17,536 --> 01:38:19,720
+No, los bandidos...
+
+765
+01:38:26,837 --> 01:38:32,383
+Quisiera morirme ahora mismo.
+
+766
+01:38:34,142 --> 01:38:36,618
+Quiero morir pronto.
+
+767
+01:38:36,980 --> 01:38:39,490
+Para escapar de esta miseria.
+
+768
+01:38:40,475 --> 01:38:42,202
+Pero...
+
+769
+01:38:47,199 --> 01:38:49,359
+Incluso en el más allá
+
+770
+01:38:51,267 --> 01:38:54,862
+me temo que habrá
+mucha miseria.
+
+771
+01:38:57,237 --> 01:38:58,965
+¡No es cierto!
+
+772
+01:38:59,203 --> 01:39:03,235
+No hay ni guerra ni bandidos
+en el más allá.
+
+773
+01:39:03,906 --> 01:39:05,772
+Tampoco hay miseria.
+
+774
+01:39:06,275 --> 01:39:08,367
+¿Cómo lo sabes?
+¿Has estado allí?
+
+775
+01:39:10,077 --> 01:39:11,560
+¡No grites!
+
+776
+01:39:12,012 --> 01:39:14,202
+¡Odio a toda la gente mala!
+
+777
+01:39:14,237 --> 01:39:15,832
+¡Me asquea!
+
+778
+01:39:19,117 --> 01:39:20,760
+Quiero hacer algo.
+
+779
+01:39:22,685 --> 01:39:25,751
+¡Basta!
+¡Hay que acabar con esto!
+
+780
+01:39:25,918 --> 01:39:29,566
+Guarda ese resentimiento
+para los bandidos.
+
+781
+01:39:45,563 --> 01:39:47,529
+¿No has...?
+
+782
+01:39:49,298 --> 01:39:50,475
+¿Me has...?
+
+783
+01:39:52,734 --> 01:39:55,176
+¿Me has visto hoy, con...?
+
+784
+01:39:56,088 --> 01:39:57,716
+A mi y a...
+
+785
+01:39:58,182 --> 01:40:00,226
+- ¿La chica?
+- Si.
+
+786
+01:40:01,272 --> 01:40:05,585
+- ¿Por qué no me has delatado?
+- ¿Quieres que lo haga?
+
+787
+01:40:20,215 --> 01:40:24,255
+- ¡Queremos arroz!
+- ¡Dadnos arroz blanco!
+
+788
+01:40:29,420 --> 01:40:31,891
+¡No tenemos arroz!
+
+789
+01:40:38,759 --> 01:40:40,952
+¡Venga, vamos, vamos!
+
+790
+01:40:40,959 --> 01:40:44,154
+¡Siempre estáis igual, "Danos
+arroz, danos arroz"!
+
+791
+01:40:46,129 --> 01:40:47,595
+¡Basta!
+
+792
+01:40:48,931 --> 01:40:52,782
+¡Escuchad, maleducados!
+
+793
+01:40:53,832 --> 01:40:56,525
+Esto es todo lo que podemos daros.
+
+794
+01:40:56,560 --> 01:40:58,806
+Si os damos más, nos quedaremos...
+
+795
+01:41:03,137 --> 01:41:04,725
+¿Veis?
+
+796
+01:41:05,153 --> 01:41:07,921
+¿Ninguno de vosotros tiene
+una hermana guapa?
+
+797
+01:41:11,008 --> 01:41:13,728
+¿Tu? ¿Tu tienes una?
+
+798
+01:41:14,978 --> 01:41:17,057
+¿Cuándo recogeréis la cosecha?
+
+799
+01:41:20,915 --> 01:41:23,257
+Dentro de diez días.
+
+800
+01:41:23,292 --> 01:41:25,408
+Si lo hacéis a toda velocidad,
+¿cuánto tardaréis?
+
+801
+01:41:27,218 --> 01:41:30,267
+Tres días como mucho.
+
+802
+01:41:31,119 --> 01:41:32,608
+Entonces lo inundaremos.
+
+803
+01:41:33,387 --> 01:41:36,625
+Necesitamos un foso
+en la frontera sur.
+
+804
+01:41:37,389 --> 01:41:39,888
+Para que no puedan
+acercarse jinetes.
+
+805
+01:41:39,923 --> 01:41:41,986
+El foso no tiene
+que ser muy ancho.
+
+806
+01:41:43,684 --> 01:41:44,753
+Ehhh...
+
+807
+01:41:45,211 --> 01:41:49,678
+Cavar un canal e inundar la granja,
+se puede hacer en un día.
+
+808
+01:41:49,796 --> 01:41:51,568
+Gracias.
+
+809
+01:41:52,936 --> 01:41:54,697
+Una cosa más.
+
+810
+01:41:55,609 --> 01:41:58,315
+Esas tres casas y el molino
+que hay al otro lado.
+
+811
+01:41:59,327 --> 01:42:01,052
+Habrá que evacuarlas.
+
+812
+01:42:02,602 --> 01:42:03,601
+¡Padre!
+
+813
+01:42:04,670 --> 01:42:06,819
+¿Cómo, evacuarlas?
+
+814
+01:42:14,143 --> 01:42:16,074
+Lo siento.
+
+815
+01:42:18,078 --> 01:42:19,941
+No tenemos otra opción.
+
+816
+01:42:21,813 --> 01:42:25,542
+No podemos cubrir
+un área tan grande.
+
+817
+01:42:46,927 --> 01:42:50,035
+¡Escuchad! Pronto la
+cosecha estará recogida.
+
+818
+01:42:50,688 --> 01:42:52,451
+Entonces llegarán los bandidos.
+
+819
+01:42:53,200 --> 01:42:54,275
+Estemos preparados.
+
+820
+01:42:55,123 --> 01:42:57,960
+De ahora en adelante,
+debemos estar atentos.
+
+821
+01:42:59,197 --> 01:43:02,102
+Cosecharemos en grupos,
+no individualmente.
+
+822
+01:43:02,834 --> 01:43:06,802
+Desde mañana viviréis en
+grupos. Recordadlo.
+
+823
+01:43:07,337 --> 01:43:11,931
+Os moveréis como un grupo,
+no como individuos.
+
+824
+01:43:13,508 --> 01:43:15,599
+¡Escuchad, hombres!
+
+825
+01:43:17,010 --> 01:43:21,001
+Amad bien a vuestras
+mujeres esta noche.
+
+826
+01:43:42,123 --> 01:43:44,061
+¡Es una estupidez!
+
+827
+01:43:44,859 --> 01:43:46,449
+¡Vámonos, vecinos!
+
+828
+01:43:50,328 --> 01:43:52,157
+¡Tiradlas!
+
+829
+01:43:52,628 --> 01:43:56,078
+¡Vamos! No vamos a
+arriesgarnos para proteger a otros.
+
+830
+01:43:57,531 --> 01:44:00,905
+¡Protejamos nuestras propias casas!
+
+831
+01:44:03,168 --> 01:44:04,346
+¡Alto!
+
+832
+01:44:07,903 --> 01:44:09,599
+¡Cojed las lanzas!
+
+833
+01:44:10,404 --> 01:44:12,086
+¡Rápido!
+
+834
+01:44:37,685 --> 01:44:39,664
+¡A vuestros puestos!
+
+835
+01:44:40,855 --> 01:44:43,285
+¡En formación!
+
+836
+01:44:46,124 --> 01:44:48,113
+¿Donde está Yohei?
+
+837
+01:44:49,959 --> 01:44:52,034
+¿Donde demonios está?
+
+838
+01:44:57,197 --> 01:45:00,291
+¡Idiota, a tu sitio!
+
+839
+01:45:17,908 --> 01:45:20,351
+Las casas que están fuera son tres.
+
+840
+01:45:20,942 --> 01:45:22,785
+En el pueblo hay 20 casas.
+
+841
+01:45:23,844 --> 01:45:26,641
+No podemos poner en peligro
+20 casas por tres.
+
+842
+01:45:30,462 --> 01:45:32,743
+Si destruyen el pueblo.
+
+843
+01:45:34,216 --> 01:45:36,397
+No se podrá salvar ni
+una casa de las afueras.
+
+844
+01:45:40,486 --> 01:45:43,997
+¡Recordadlo!
+¡Eso es la guerra.
+
+845
+01:45:45,489 --> 01:45:48,271
+¡Estáis todos en el
+mismo barco!
+
+846
+01:45:50,292 --> 01:45:52,480
+El que sólo piense en sí mismo,
+
+847
+01:45:53,259 --> 01:45:55,156
+también se destruirá.
+
+848
+01:45:58,529 --> 01:46:01,691
+No toleraremos ese egoísmo.
+
+849
+01:46:28,945 --> 01:46:31,709
+ANTES DE LA BATALLA
+
+850
+01:52:33,615 --> 01:52:35,342
+¡Madre mía!
+
+851
+01:52:35,415 --> 01:52:37,694
+¡Quién habría imaginado
+cuántas mujeres vivían aquí!
+
+852
+01:52:38,024 --> 01:52:39,491
+¡Hey, Yohei!
+
+853
+01:52:44,420 --> 01:52:47,202
+¿Dónde las teníais escondidas?
+
+854
+01:52:51,524 --> 01:52:52,923
+Eres un demonio.
+
+855
+01:53:01,096 --> 01:53:03,681
+Dame tu hoz.
+
+856
+01:53:04,565 --> 01:53:06,976
+Yo cortaré un montón para ti.
+
+857
+01:53:07,011 --> 01:53:09,720
+Seamos amigos.
+
+858
+01:53:33,846 --> 01:53:36,109
+- ¡Rikichi!
+- Si.
+
+859
+01:53:36,481 --> 01:53:40,236
+Veo que las parejas casadas
+son las más eficaces.
+
+860
+01:53:40,850 --> 01:53:42,944
+A ver si te casas pronto.
+
+861
+01:53:46,387 --> 01:53:49,471
+¿Por qué te enfadas?
+Yo sólo...
+
+862
+01:53:51,757 --> 01:53:53,971
+¡Katsuhiro, haz que vuelva!
+
+863
+01:53:54,855 --> 01:53:57,134
+¿Por qué ha salido corriendo?
+
+864
+01:53:57,526 --> 01:53:58,524
+¡Rikichi!
+
+865
+01:53:59,960 --> 01:54:01,026
+¡Rikichi!
+
+866
+01:54:05,598 --> 01:54:07,898
+¡Shino, deja de soñar!
+
+867
+01:54:24,406 --> 01:54:26,600
+¿Qué es esto una osera?
+
+868
+01:54:29,610 --> 01:54:31,668
+Lo han segado.
+
+869
+01:54:33,914 --> 01:54:35,312
+Rikichi, ¿verdad?
+
+870
+01:54:35,814 --> 01:54:37,922
+No lo he visto.
+
+871
+01:54:38,481 --> 01:54:40,560
+Estaba buscándole...
+
+872
+01:54:40,882 --> 01:54:42,419
+cuando salió de aquí.
+
+873
+01:54:42,949 --> 01:54:45,746
+Tenía la cara tensa y sudorosa.
+
+874
+01:54:49,687 --> 01:54:51,556
+¿Qué le dijiste?
+
+875
+01:54:51,591 --> 01:54:54,683
+Nada. Sólo le sugerí
+que se casara.
+
+876
+01:54:58,326 --> 01:55:01,952
+Debe de haber algo muy doloroso
+torturándole.
+
+877
+01:55:02,996 --> 01:55:04,851
+Su cara lo delata.
+
+878
+01:55:06,481 --> 01:55:11,701
+Tiene los labios apretados,
+como una puerta cerrada.
+
+879
+01:55:12,159 --> 01:55:14,476
+Intenta abrírselos.
+
+880
+01:55:22,229 --> 01:55:24,462
+- ¿Quien va?
+- Soy yo.
+
+881
+01:55:26,473 --> 01:55:30,340
+- ¿Está todo bien?
+- ¿Sí?
+
+882
+01:55:36,413 --> 01:55:38,790
+Siéntate, por favor.
+
+883
+01:55:45,584 --> 01:55:47,347
+Pienso que hablar...
+
+884
+01:55:49,787 --> 01:55:51,379
+Es una buena idea.
+
+885
+01:55:52,189 --> 01:55:55,845
+Hablar suele ser reconfortante.
+
+886
+01:55:59,425 --> 01:56:03,284
+Hablar de un sufrimiento
+suele atenuarlo.
+
+887
+01:56:03,761 --> 01:56:08,243
+Por cierto, eres hombre
+de pocas palabras.
+
+888
+01:56:11,197 --> 01:56:15,421
+Este es un buen momento
+para hablar.
+
+889
+01:56:16,968 --> 01:56:19,025
+No tengo nada guardado.
+
+890
+01:56:37,211 --> 01:56:38,548
+Salgamos.
+
+891
+01:56:41,744 --> 01:56:45,067
+- ¿Le despertamos?
+- No, es un crío.
+
+892
+01:56:53,187 --> 01:56:54,654
+Ha dicho "Shino".
+
+893
+01:56:55,655 --> 01:56:56,991
+Shino es...
+
+894
+01:56:58,587 --> 01:56:59,922
+Un nombre de mujer.
+
+895
+01:57:00,446 --> 01:57:03,316
+Desde luego no suena
+como un niño soñando.
+
+896
+01:57:09,975 --> 01:57:11,605
+¿Por dónde empezamos?
+
+897
+01:57:12,487 --> 01:57:14,930
+Primero, el más débil.
+
+898
+01:58:12,840 --> 01:58:14,044
+¿Quién hay ahí?
+
+899
+01:58:21,388 --> 01:58:22,388
+¿Quién es?
+
+900
+01:58:23,409 --> 01:58:24,409
+¡Sal!
+
+901
+01:58:25,788 --> 01:58:26,789
+¿Quién es?
+
+902
+01:58:26,931 --> 01:58:28,762
+¡Kikuchiyo!
+
+903
+01:58:30,471 --> 01:58:31,616
+Tienes suerte.
+
+904
+01:58:32,939 --> 01:58:36,966
+Si hubiéramos sido
+los bandidos...
+
+905
+01:59:08,092 --> 01:59:09,212
+¡Yohei!
+
+906
+01:59:10,994 --> 01:59:12,408
+¿Qué es esto?
+
+907
+01:59:13,029 --> 01:59:15,210
+Mi caballo.
+
+908
+01:59:17,430 --> 01:59:20,039
+¿Ah, sí? Creía que era
+un ratón gordo.
+
+909
+01:59:59,889 --> 02:00:08,105
+Los gorriones chírp, chírp, chírp
+Los cuervos caw, caw, caw
+
+910
+02:00:12,802 --> 02:00:15,314
+¿Qué pasa, no van a venir
+los bandidos?
+
+911
+02:00:18,313 --> 02:00:20,237
+Si no vienen, qué
+gran pérdida.
+
+912
+02:00:21,506 --> 02:00:23,908
+Y hemos contratado a esos
+samuráis avariciosos.
+
+913
+02:00:24,172 --> 02:00:26,691
+Idiota! Mejor si no
+vienen los bandidos.
+
+914
+02:00:34,037 --> 02:00:35,971
+¡No seas loco, deja el
+caballo en paz!
+
+915
+02:00:37,474 --> 02:00:39,498
+Ese caballo no podrá aguantarte.
+
+916
+02:00:42,844 --> 02:00:45,709
+Para, si lo dejas cojo,
+Yohei llorará.
+
+917
+02:00:46,146 --> 02:00:49,108
+¿Qué dices?
+Soy un buen jinete.
+
+918
+02:01:01,687 --> 02:01:03,263
+No lo hace mal.
+
+919
+02:01:18,662 --> 02:01:21,569
+¡Lo está haciendo muy bien!
+
+920
+02:01:44,609 --> 02:01:46,132
+Están contentos.
+
+921
+02:01:48,212 --> 02:01:51,188
+Ha acabado la siega
+y no hay señal de los bandidos.
+
+922
+02:01:51,513 --> 02:01:54,136
+Empiezan a pensar que no vendrán.
+
+923
+02:01:56,149 --> 02:01:57,788
+Es lo que les gustaría.
+
+924
+02:01:58,918 --> 02:02:03,376
+El peligro golpea
+cuando todo parece seguro.
+
+925
+02:02:05,421 --> 02:02:07,289
+Diles que ocupen sus puestos.
+
+926
+02:02:41,273 --> 02:02:44,723
+Ojalá fuera la hija de un samurái.
+
+927
+02:02:48,144 --> 02:02:50,206
+La vida en una granja es un asco.
+
+928
+02:02:51,212 --> 02:02:54,944
+Tengo demasiada suerte,
+me siento mal.
+
+929
+02:02:54,979 --> 02:02:56,376
+No quería decir eso.
+
+930
+02:02:57,146 --> 02:03:00,161
+Tú eres samurái
+y yo soy una campesina.
+
+931
+02:03:01,818 --> 02:03:03,581
+Shino, no.
+
+932
+02:03:03,616 --> 02:03:06,160
+Me da igual. No
+me importa
+
+933
+02:03:06,854 --> 02:03:08,864
+No me preocupa el futuro.
+
+934
+02:03:42,338 --> 02:03:45,204
+Eres un cobarde.
+Cobarde!
+
+935
+02:04:52,577 --> 02:04:54,771
+Tres extraños
+por el camino del oeste.
+
+936
+02:04:57,779 --> 02:05:00,325
+- ¿Quién más los has visto?
+- Nadie más.
+
+937
+02:05:01,268 --> 02:05:02,508
+No digamos nada.
+
+938
+02:05:05,607 --> 02:05:08,722
+He visto tres caballos
+en la colina.
+
+939
+02:05:09,342 --> 02:05:11,169
+- ¡Los bandidos!
+- Lo sé.
+
+940
+02:05:15,890 --> 02:05:17,574
+- ¡Ya están aquí!
+- ¿Cómo lo sabes?
+
+941
+02:05:18,291 --> 02:05:21,053
+Es evidente.
+Este barullo.
+
+942
+02:05:24,893 --> 02:05:27,641
+¿Por dónde vienen, por las colinas
+o por el oeste?
+
+943
+02:05:29,897 --> 02:05:31,294
+Por el oeste.
+
+944
+02:05:40,035 --> 02:05:41,798
+Vienen los bandidos!
+
+945
+02:05:45,438 --> 02:05:48,462
+¡Que se callen!
+Sólo son tres.
+
+946
+02:05:48,706 --> 02:05:50,780
+Que se callen.
+
+947
+02:05:51,674 --> 02:05:55,427
+Deben de ser exploradores.
+No deben vernos.
+
+948
+02:06:13,253 --> 02:06:14,782
+¿Qué pasa?
+
+949
+02:06:15,787 --> 02:06:17,098
+¿Los bandidos?
+
+950
+02:06:20,223 --> 02:06:21,764
+¿Ya han llegado?
+
+951
+02:06:34,932 --> 02:06:36,352
+¡Callad!
+
+952
+02:06:38,266 --> 02:06:39,906
+¿Donde los viste, Shichiroji?
+
+953
+02:06:40,301 --> 02:06:41,666
+¡Entre esos árboles!
+
+954
+02:06:57,412 --> 02:06:59,357
+Exploradores, sin duda.
+
+955
+02:07:00,513 --> 02:07:02,754
+Se han sorprendido
+al ver la empalizada.
+
+956
+02:07:03,513 --> 02:07:05,298
+No nos han visto.
+
+957
+02:07:06,081 --> 02:07:07,973
+Espero que tengas razón.
+
+958
+02:07:10,751 --> 02:07:13,129
+¿Eh, donde estáis todos?
+
+959
+02:07:13,519 --> 02:07:15,060
+¡Qué idiota!
+
+960
+02:07:16,253 --> 02:07:17,252
+¡Kikuchiyo!
+
+961
+02:07:24,392 --> 02:07:26,207
+¿Ya han llegado?
+
+962
+02:07:28,427 --> 02:07:29,816
+¿Es cierto?
+
+963
+02:07:29,851 --> 02:07:31,251
+¡Ahora nos han visto!
+
+964
+02:07:42,566 --> 02:07:45,643
+Ahora que lo saben,
+no deben irse.
+
+965
+02:07:46,971 --> 02:07:49,490
+Yo me encargo.
+Están en mi territorio.
+
+966
+02:07:50,404 --> 02:07:51,577
+No lo sabía...
+
+967
+02:07:51,638 --> 02:07:55,196
+¡Coge a uno para compensar
+lo que has hecho!
+
+968
+02:07:55,573 --> 02:07:56,794
+Coge un atajo.
+
+969
+02:07:57,778 --> 02:07:59,272
+Sí, a los caballos.
+
+970
+02:08:01,144 --> 02:08:02,629
+¡Katsushiro!
+
+971
+02:08:03,578 --> 02:08:05,436
+Tú acompáñalos y mira.
+
+972
+02:08:13,185 --> 02:08:15,256
+¡Buenos caballos!
+
+973
+02:08:20,187 --> 02:08:21,454
+Quédate aquí vigilando.
+
+974
+02:08:30,959 --> 02:08:32,940
+- Yo iré delante.
+- De acuerdo.
+
+975
+02:10:34,026 --> 02:10:35,131
+¡Katsushiro,
+
+976
+02:10:35,652 --> 02:10:36,956
+ya se ha acabado!
+
+977
+02:10:37,317 --> 02:10:38,393
+Sal.
+
+978
+02:10:42,967 --> 02:10:44,009
+¡Ayuda!
+
+979
+02:11:03,739 --> 02:11:04,748
+¡Esperad,
+
+980
+02:11:06,639 --> 02:11:08,201
+Es un prisionero
+de guerra!
+
+981
+02:11:08,596 --> 02:11:10,388
+¡Está pidiendo perdón,
+
+982
+02:11:11,112 --> 02:11:12,645
+no podemos matarle!
+
+983
+02:11:38,995 --> 02:11:39,994
+De acuerdo.
+
+984
+02:11:41,359 --> 02:11:43,837
+¡Dejad que vengue
+la muerte de su hijo!
+
+985
+02:11:46,293 --> 02:11:47,293
+¡Vamos!
+
+986
+02:11:47,992 --> 02:11:49,325
+¡Ayudadla!
+
+987
+02:11:59,604 --> 02:12:02,611
+Por lo que parece, su guarida
+debe ser bastante débil.
+
+988
+02:12:03,540 --> 02:12:07,281
+¡Tiene que estar lleno de agujeros.
+Como los pantalones de Yohei!
+
+989
+02:12:07,575 --> 02:12:10,020
+- Si es tan accesible...
+- Ataquemos de noche.
+
+990
+02:12:10,077 --> 02:12:13,935
+Ellos son cuarenta.
+Debemos reducir su número.
+
+991
+02:12:13,970 --> 02:12:16,610
+Si lo podemos hacer
+sin perder a nadie.
+
+992
+02:12:16,981 --> 02:12:19,284
+No podemos permitirnos
+una pérdida.
+
+993
+02:12:19,583 --> 02:12:23,622
+Cualquier batalla es una apuesta.
+Tres pueden matar por lo menos a diez.
+
+994
+02:12:25,153 --> 02:12:26,151
+Rikichi.
+
+995
+02:12:26,853 --> 02:12:29,393
+¿Ese sitio está
+muy lejos de aquí?
+
+996
+02:12:29,988 --> 02:12:31,416
+A un día de camino.
+
+997
+02:12:31,655 --> 02:12:34,249
+Pero ahora tenemos caballos.
+
+998
+02:12:34,657 --> 02:12:36,249
+Pues a medio día.
+
+999
+02:12:48,765 --> 02:12:50,228
+¡Muy bien!
+
+1000
+02:12:50,565 --> 02:12:52,930
+¡Si salimos ahora, llegaremos
+allí al amanecer!
+
+1001
+02:12:53,700 --> 02:12:55,158
+¿Quién va?
+
+1002
+02:12:58,636 --> 02:13:00,050
+¡Tú no!
+
+1003
+02:13:02,506 --> 02:13:04,063
+¡Iré yo, está decidido!
+
+1004
+02:13:05,708 --> 02:13:07,726
+¡Yo haré de guía!
+
+1005
+02:13:07,809 --> 02:13:09,968
+No hay suficientes caballos.
+
+1006
+02:13:10,377 --> 02:13:11,595
+Sí que los hay.
+
+1007
+02:13:11,891 --> 02:13:13,616
+Tú montarás el caballo de Yohei,
+
+1008
+02:13:14,238 --> 02:13:15,802
+nadie más puede.
+
+1009
+02:13:25,685 --> 02:13:27,776
+¡Eh! ¿A donde vas?
+
+1010
+02:13:28,719 --> 02:13:30,515
+¡Es en la otra dirección!
+
+1011
+02:13:33,794 --> 02:13:35,463
+¡Estupido caballo!
+
+1012
+02:13:36,441 --> 02:13:39,245
+¡Es por allí!
+
+1013
+02:13:40,559 --> 02:13:43,360
+¡Y tú te llamas caballo!
+
+1014
+02:13:43,395 --> 02:13:45,675
+¡Deberías avergonzarte!
+
+1015
+02:13:47,363 --> 02:13:48,439
+¡Espera!
+
+1016
+02:13:51,498 --> 02:13:54,213
+¡Por favor!
+¡Te pido perdón!
+
+1017
+02:13:55,500 --> 02:13:56,984
+¡Perdóname!
+
+1018
+02:15:23,481 --> 02:15:25,871
+¡Prended fuego a las casas!
+
+1019
+02:15:26,115 --> 02:15:28,284
+¡Los mataremos según
+vayan saliendo!
+
+1020
+02:18:02,299 --> 02:18:03,527
+¡estáis perdidos!
+
+1021
+02:18:04,900 --> 02:18:06,300
+¡Cállate!
+
+1022
+02:18:09,102 --> 02:18:11,552
+¡Os mataremos a todos!
+
+1023
+02:18:54,060 --> 02:18:56,789
+¡Está loco!
+
+1024
+02:19:16,206 --> 02:19:17,832
+¡Idiota!
+
+1025
+02:19:34,282 --> 02:19:35,412
+¡Es tu culpa!
+
+1026
+02:19:35,716 --> 02:19:38,262
+¿Quién era esa?
+
+1027
+02:19:40,317 --> 02:19:42,013
+¡Mi mujer!
+
+1028
+02:19:46,255 --> 02:19:47,535
+¡Heihachi!
+
+1029
+02:20:28,178 --> 02:20:29,804
+Contábamos con él...
+
+1030
+02:20:31,814 --> 02:20:34,572
+Para animarnos cuando las
+cosas se pusieran feas.
+
+1031
+02:20:36,615 --> 02:20:38,486
+¡Y ahora se ha ido!
+
+1032
+02:20:49,087 --> 02:20:50,525
+¡Deja de llorar!
+
+1033
+02:20:51,056 --> 02:20:52,449
+¡No llores!
+
+1034
+02:20:54,391 --> 02:20:56,948
+¡Deja de llorar, idiota!
+
+1035
+02:22:23,873 --> 02:22:26,277
+¡Por fin han llegado!
+
+1036
+02:23:39,179 --> 02:23:42,412
+¡No lo olvides, tres rifles!
+
+1037
+02:24:08,595 --> 02:24:11,231
+20 por el norte, 13 por el sur.
+
+1038
+02:24:11,271 --> 02:24:12,485
+- ¿Cuántos rifles tienen?
+- Tres, señor.
+
+1039
+02:24:14,299 --> 02:24:17,561
+Ve al sur, cuidado
+con los rifles.
+
+1040
+02:25:13,597 --> 02:25:15,085
+¡Atrás, por detrás!
+
+1041
+02:25:31,540 --> 02:25:35,288
+- ¡Doce van hacia el este!
+- ¿No eran trece?
+
+1042
+02:25:35,323 --> 02:25:36,588
+¡Una flecha le ha dado a uno!
+
+1043
+02:25:37,408 --> 02:25:39,621
+¡Bien por Gorobei!
+
+1044
+02:25:41,745 --> 02:25:45,043
+Ve a ver si el puente está cortado.
+
+1045
+02:25:45,213 --> 02:25:46,610
+¡Los rifles!
+
+1046
+02:25:55,787 --> 02:25:59,545
+Ve al norte. La batalla
+decisiva se librará aquí.
+
+1047
+02:26:00,321 --> 02:26:03,016
+¿Por qué no has construido
+una empalizada aquí?
+
+1048
+02:26:03,957 --> 02:26:06,598
+Un buen fuerte necesita
+una salida.
+
+1049
+02:26:06,633 --> 02:26:09,098
+Hay que engañar al enemigo
+para que entre.
+
+1050
+02:26:09,362 --> 02:26:10,633
+Así podremos atacarlos.
+
+1051
+02:26:23,144 --> 02:26:24,217
+¡Venga, daos prisa!
+
+1052
+02:26:28,802 --> 02:26:30,953
+¡Vamos, lleváoslo!
+
+1053
+02:26:34,873 --> 02:26:37,670
+Vienen doce, rápido,
+por el puente!
+
+1054
+02:26:37,808 --> 02:26:40,714
+¿Estás ciego?
+¡Es lo que estamos haciendo!
+
+1055
+02:26:42,444 --> 02:26:45,032
+¡Y cuidado con los rifles!
+
+1056
+02:26:45,067 --> 02:26:46,595
+¡Ya lo sé!
+
+1057
+02:26:53,651 --> 02:26:54,913
+¡Parad!
+
+1058
+02:26:55,184 --> 02:26:57,977
+Tengo que ir a buscar
+a mi padre. Está allí.
+
+1059
+02:26:58,319 --> 02:27:01,403
+Siempre ha querido
+morir en el molino.
+
+1060
+02:27:08,625 --> 02:27:10,694
+¡Viejo testarudo!
+
+1061
+02:27:11,292 --> 02:27:13,093
+¡Ve a por él!
+
+1062
+02:27:17,738 --> 02:27:19,237
+¡Fuera de aquí!
+
+1063
+02:27:20,064 --> 02:27:23,319
+¡Daos prisa, idiotas!
+
+1064
+02:27:45,177 --> 02:27:47,680
+- En esta colina.
+-20 enemigos.
+
+1065
+02:27:47,912 --> 02:27:50,681
+Y 12 por el este.
+
+1066
+02:27:50,717 --> 02:27:52,409
+Bien.
+
+1067
+02:28:07,891 --> 02:28:10,960
+No me gusta, están asustados.
+
+1068
+02:28:14,859 --> 02:28:16,116
+¡Otra vez!
+
+1069
+02:28:18,029 --> 02:28:19,735
+¡Una vez más!
+
+1070
+02:28:22,899 --> 02:28:26,019
+¡Ése es Shichiroji,
+gritemos nosotros también!
+
+1071
+02:28:28,173 --> 02:28:29,173
+¡Salid todos!
+
+1072
+02:28:34,571 --> 02:28:36,401
+¡Ahora gritad!
+
+1073
+02:28:41,709 --> 02:28:43,107
+¡Una vez más!
+
+1074
+02:28:46,977 --> 02:28:50,070
+¡Ya veo!
+
+1075
+02:28:53,815 --> 02:28:56,008
+¡Gritemos más que ellos!
+
+1076
+02:29:01,651 --> 02:29:02,995
+¡Todos a sus puestos!
+
+1077
+02:29:08,322 --> 02:29:10,274
+¡Aquí llegan!
+
+1078
+02:29:26,797 --> 02:29:28,708
+¡Veamos!
+
+1079
+02:30:04,486 --> 02:30:07,185
+¡Olvidad esas chozas!
+
+1080
+02:30:11,989 --> 02:30:14,154
+¡Eh tu, a tu puesto!
+
+1081
+02:30:18,993 --> 02:30:20,720
+¡Volved, vamos!
+
+1082
+02:30:29,499 --> 02:30:31,029
+¡Cerdos!
+
+1083
+02:30:36,001 --> 02:30:38,143
+¡Eh, mirad!
+
+1084
+02:30:38,178 --> 02:30:39,630
+¡Canallas!
+
+1085
+02:31:09,554 --> 02:31:12,259
+¡Volved a vuestros puestos, todos!
+
+1086
+02:31:13,790 --> 02:31:15,750
+¡El anciano!
+
+1087
+02:31:17,424 --> 02:31:20,251
+¡Olvidad esas inútiles chozas!
+
+1088
+02:31:23,094 --> 02:31:25,804
+¡Volved a vuestros puestos, todos!
+
+1089
+02:31:37,569 --> 02:31:39,209
+¡Malditos!
+
+1090
+02:31:40,805 --> 02:31:42,502
+¡Canallas!
+
+1091
+02:31:42,805 --> 02:31:45,031
+¡Es la casa del abuelo!
+
+1092
+02:31:47,941 --> 02:31:50,702
+¿Dónde está?
+¿Dónde está la pareja joven?
+
+1093
+02:31:51,109 --> 02:31:54,044
+¿Y el niño? ¡Son unos
+idiotas redomados!
+
+1094
+02:31:57,180 --> 02:31:59,918
+¡Esperad, no abandonéis
+¡vuestros puestos!
+
+1095
+02:32:02,081 --> 02:32:04,320
+¡Kikuchiyo, vuelve!
+
+1096
+02:32:06,251 --> 02:32:08,138
+¡Kikuchiyo!
+
+1097
+02:32:22,893 --> 02:32:25,362
+¿Dónde están los hombres?
+
+1098
+02:32:35,665 --> 02:32:38,236
+¡Atravesada por una lanza!
+
+1099
+02:32:45,104 --> 02:32:47,375
+¡Kikuchiyo, sígueme!
+
+1100
+02:32:53,577 --> 02:32:55,697
+¡Sígueme!
+
+1101
+02:32:58,913 --> 02:33:01,438
+¡A mí me pasó lo mismo!
+
+1102
+02:33:02,082 --> 02:33:04,104
+¡Este niño soy yo!
+
+1103
+02:34:13,353 --> 02:34:15,353
+¡Vamos, venid!
+
+1104
+02:34:23,991 --> 02:34:25,582
+¿Que pasa?
+
+1105
+02:34:40,298 --> 02:34:42,384
+Nunca habías matado
+a un hombre ¿Eh?
+
+1106
+02:34:43,967 --> 02:34:45,647
+¡Idiota!
+
+1107
+02:35:47,836 --> 02:35:49,768
+¿Estáis todos bien?
+
+1108
+02:35:50,271 --> 02:35:52,638
+¡Bien hecho!
+
+1109
+02:35:53,259 --> 02:35:54,560
+¡Genial!
+
+1110
+02:35:57,907 --> 02:36:00,428
+Huele a pólvora.
+
+1111
+02:36:10,648 --> 02:36:12,223
+Manzo!
+
+1112
+02:36:26,123 --> 02:36:28,607
+¿Dónde te han dado?
+
+1113
+02:36:28,642 --> 02:36:31,838
+¡Shino! ¡Traedla!
+
+1114
+02:36:32,961 --> 02:36:33,960
+¡No!
+
+1115
+02:36:34,760 --> 02:36:37,640
+Una picadura de pulga
+es más grande.
+
+1116
+02:36:38,897 --> 02:36:41,595
+¿Por qué gritas?
+
+1117
+02:36:41,631 --> 02:36:44,481
+¡Mostrar a tu hija
+es una insensatez!
+
+1118
+02:37:14,849 --> 02:37:17,162
+¡Con eso bastará!
+
+1119
+02:37:20,948 --> 02:37:24,534
+¡Bien hecho! ¿Cómo te llamas?
+
+1120
+02:37:27,697 --> 02:37:29,098
+Rikichi.
+
+1121
+02:37:43,864 --> 02:37:45,889
+Atacaron desde tres
+direcciones distintas,
+
+1122
+02:37:46,567 --> 02:37:48,260
+y fueron rechazados.
+
+1123
+02:37:49,701 --> 02:37:51,432
+La próxima vez atacarán aquí.
+
+1124
+02:37:51,635 --> 02:37:53,714
+Quizá no sea esta noche,
+
+1125
+02:37:54,437 --> 02:37:56,614
+pero vendrán.
+
+1126
+02:37:56,704 --> 02:37:58,330
+Quizás, pero...
+
+1127
+02:37:59,106 --> 02:38:01,494
+Eso de ahí afuera
+está muy silencioso.
+
+1128
+02:38:14,247 --> 02:38:15,882
+Tienes razón.
+
+1129
+02:38:16,716 --> 02:38:18,947
+Su principal fuerza está ahí.
+
+1130
+02:38:19,484 --> 02:38:21,751
+Te lo demostraré.
+
+1131
+02:39:05,409 --> 02:39:06,760
+Buen trabajo!
+
+1132
+02:39:06,943 --> 02:39:10,087
+Asoma el espantapájaros.
+
+1133
+02:39:44,530 --> 02:39:47,733
+Probablemente lanzarán
+su ataque por aquí
+
+1134
+02:39:47,931 --> 02:39:50,210
+por la mañana.
+
+1135
+02:39:50,599 --> 02:39:53,538
+Les dejaremos entrar.
+
+1136
+02:39:57,437 --> 02:40:00,084
+No a todos. Sólo a uno.
+
+1137
+02:40:01,670 --> 02:40:03,147
+O a dos.
+
+1138
+02:40:04,639 --> 02:40:08,338
+En cuanto entren,
+le cerramos el paso a los demás.
+
+1139
+02:40:09,043 --> 02:40:11,670
+¡Y los atrapamos!
+
+1140
+02:40:12,078 --> 02:40:13,595
+Estarán perdidos.
+
+1141
+02:40:16,412 --> 02:40:20,739
+Acabaremos con ellos
+de uno en uno.
+
+1142
+02:40:21,183 --> 02:40:22,924
+¿Y sus rifles?
+
+1143
+02:40:23,384 --> 02:40:25,793
+También debemos
+acabar con ellos.
+
+1144
+02:40:28,119 --> 02:40:31,107
+¡Yo conseguiré uno!
+¡Lo haré!
+
+1145
+02:40:31,654 --> 02:40:33,715
+No, iré yo.
+
+1146
+02:41:27,717 --> 02:41:29,204
+Oigo pasos!
+
+1147
+02:41:29,786 --> 02:41:32,410
+Descansa un poco.
+
+1148
+02:41:33,220 --> 02:41:34,668
+¡Escuchad!
+
+1149
+02:41:35,809 --> 02:41:36,882
+¿Oís eso?
+
+1150
+02:41:37,179 --> 02:41:41,321
+¡Estás cansado!
+Descansa.
+
+1151
+02:41:45,260 --> 02:41:46,802
+¡Sí!
+
+1152
+02:42:15,109 --> 02:42:17,225
+He matado a dos.
+
+1153
+02:42:51,829 --> 02:42:53,681
+¿Qué pasa?
+
+1154
+02:42:56,131 --> 02:42:59,980
+Necesito dormir.
+
+1155
+02:43:01,701 --> 02:43:05,003
+Eres... genial.
+
+1156
+02:43:09,572 --> 02:43:13,128
+Siempre he querido decírtelo.
+
+1157
+02:43:39,621 --> 02:43:41,334
+¿Vienen?
+
+1158
+02:43:45,458 --> 02:43:47,598
+¡Dejaremos pasar a uno!
+
+1159
+02:43:50,228 --> 02:43:52,654
+¡Dejaremos pasar a uno!
+
+1160
+02:43:59,632 --> 02:44:03,849
+¡No olvidéis cerrar
+la línea a la vez!
+
+1161
+02:44:23,013 --> 02:44:24,825
+Ahi están.
+
+1162
+02:45:00,197 --> 02:45:01,845
+¡Ahi está!
+
+1163
+02:45:04,500 --> 02:45:05,889
+¡Bien!
+
+1164
+02:45:13,739 --> 02:45:16,800
+¡Muy bien!
+Perfecto.
+
+1165
+02:45:17,308 --> 02:45:19,766
+¡Dispersaos!
+¡Vamos!
+
+1166
+02:45:36,784 --> 02:45:39,346
+¡Atrás! ¡Atrás!
+
+1167
+02:45:44,622 --> 02:45:46,663
+¡Ahora desplegaos!
+
+1168
+02:45:55,027 --> 02:45:57,436
+¡Dejaremos entrar a otro!
+
+1169
+02:47:38,949 --> 02:47:41,178
+Ahi vienen.
+
+1170
+02:47:56,925 --> 02:47:58,469
+¡Ya cae!
+
+1171
+02:48:04,663 --> 02:48:08,310
+¿A que jugabas?
+¡Habla!
+
+1172
+02:48:29,143 --> 02:48:33,009
+Creo que han descubierto
+nuestra estrategia.
+
+1173
+02:48:42,617 --> 02:48:45,911
+¡Son unos engreídos!
+¡No son tan duros!
+
+1174
+02:48:52,690 --> 02:48:57,743
+Acabamos de matar a cuatro.
+Kyuzo mató a dos anoche.
+
+1175
+02:49:14,532 --> 02:49:16,669
+Tiene verdadero
+espíritu de samurái.
+
+1176
+02:49:17,136 --> 02:49:19,117
+Es intrépido y hábil.
+
+1177
+02:49:19,970 --> 02:49:21,399
+¡Y también tranquilo!
+
+1178
+02:49:21,839 --> 02:49:25,020
+Tan modesto, incluso después
+de haber capturado el rifle.
+
+1179
+02:49:25,975 --> 02:49:30,000
+Cuando salió hacia la colina,
+parecía que iba de paseo.
+
+1180
+02:49:31,845 --> 02:49:35,334
+Eres divertido. Tu charla
+es muy interesante.
+
+1181
+02:49:53,989 --> 02:49:55,283
+¡Yohei!
+
+1182
+02:49:56,756 --> 02:49:58,413
+¡Vigila!
+
+1183
+02:50:01,426 --> 02:50:03,963
+No pongas esa cara.
+
+1184
+02:50:04,627 --> 02:50:06,409
+Esto es muy seguro.
+
+1185
+02:50:08,396 --> 02:50:10,591
+Un espantapájaros podría con ello.
+
+1186
+02:51:41,979 --> 02:51:43,137
+¡Recordad!
+
+1187
+02:51:44,346 --> 02:51:47,412
+Los cobardes acabarán así.
+
+1188
+02:51:52,919 --> 02:51:55,046
+¡Fuera de mi camino!
+
+1189
+02:53:17,763 --> 02:53:18,873
+¡Eh!
+
+1190
+02:53:22,766 --> 02:53:23,765
+¿Está todo bien?
+
+1191
+02:53:24,210 --> 02:53:25,904
+Son muy duros.
+
+1192
+02:53:26,436 --> 02:53:28,252
+Acabará pronto.
+
+1193
+02:53:28,971 --> 02:53:31,749
+¡Estamos entre la espada
+y la pared!
+
+1194
+02:53:32,406 --> 02:53:35,926
+Nos han quemado las casas y estamos
+más hambrientos que los campesinos.
+
+1195
+02:53:37,075 --> 02:53:40,066
+¡No os quejéis, vuestras penas
+se acabarán pronto!
+
+1196
+02:53:40,075 --> 02:53:41,826
+¡Haced lo que podáis!
+
+1197
+02:54:22,100 --> 02:54:24,392
+¡Eh, soy yo!
+
+1198
+02:54:31,537 --> 02:54:32,840
+¡Habéis picado!
+
+1199
+02:54:33,136 --> 02:54:34,406
+¡Idiota!
+
+1200
+02:54:35,606 --> 02:54:37,092
+¿Por qué dejaste tu puesto?
+
+1201
+02:54:37,807 --> 02:54:39,310
+¡Mira esto!
+
+1202
+02:54:39,341 --> 02:54:42,765
+Merezco una alabanza.
+El puesto estaba seguro.
+
+1203
+02:54:43,810 --> 02:54:45,473
+¡No mereces una alabanza!
+
+1204
+02:54:47,512 --> 02:54:50,503
+En la guerra, lo que cuenta
+es el trabajo en equipo.
+
+1205
+02:55:02,086 --> 02:55:03,949
+¡Vigila este lado!
+
+1206
+02:55:10,525 --> 02:55:12,358
+¡Que no pase nadie!
+
+1207
+02:57:20,426 --> 02:57:23,177
+¡Cobardes!
+¿Ya os rendís?
+
+1208
+02:57:23,394 --> 02:57:25,134
+¡Gallinas!
+
+1209
+02:57:25,730 --> 02:57:28,077
+¡Dios mío, han pasado dos!
+
+1210
+02:57:43,407 --> 02:57:44,700
+¡Maldita sea!
+
+1211
+02:57:47,143 --> 02:57:48,755
+¡Y Yohei!
+¿Dónde está Yohei?
+
+1212
+02:58:28,698 --> 02:58:29,786
+¡Yohei!
+
+1213
+02:58:31,666 --> 02:58:32,666
+¡Yohei!
+
+1214
+02:58:33,566 --> 02:58:36,283
+Estaba vigilando.
+
+1215
+02:58:36,869 --> 02:58:38,630
+¡Si, lo sé!
+
+1216
+02:58:42,905 --> 02:58:45,155
+¡Ven aquí, vamos!
+
+1217
+02:59:22,758 --> 02:59:24,362
+¡Shichi, sustitúyeme!
+
+1218
+02:59:35,733 --> 02:59:37,285
+¡Gorobei!
+
+1219
+03:00:41,201 --> 03:00:43,506
+Quedan trece.
+
+1220
+03:00:44,069 --> 03:00:46,180
+Pero estos últimos siete...
+
+1221
+03:00:47,371 --> 03:00:49,735
+Nos han costado mucho.
+
+1222
+03:01:10,650 --> 03:01:12,928
+¿Estás cansado?
+
+1223
+03:01:15,253 --> 03:01:18,540
+Pareces agotado, viejo.
+
+1224
+03:01:23,358 --> 03:01:25,423
+Iré a lavarme la cara.
+
+1225
+03:01:36,463 --> 03:01:38,768
+El próximo enfrentamiento
+será el definitivo.
+
+1226
+03:01:39,333 --> 03:01:43,401
+Si tenemos que atacar, hagámoslo
+antes de estar muy cansados.
+
+1227
+03:01:43,835 --> 03:01:47,251
+¿Cuándo crees que llegará
+el enemigo?
+
+1228
+03:01:48,805 --> 03:01:51,720
+Bueno, ellos también están
+cansados. Algunos están heridos.
+
+1229
+03:01:52,241 --> 03:01:54,459
+No será esta noche.
+
+1230
+03:01:54,508 --> 03:01:59,647
+Pero tienen hambre, y sabemos
+que hay disensiones entre ellos.
+
+1231
+03:02:00,643 --> 03:02:02,449
+Deben de estar desesperados.
+
+1232
+03:02:02,978 --> 03:02:08,909
+Esperemos que vengan por la
+mañana, decididos y desesperados.
+
+1233
+03:02:10,516 --> 03:02:11,841
+¡Katsushiro!
+
+1234
+03:02:12,527 --> 03:02:13,959
+¡Katsushiro!
+
+1235
+03:02:33,327 --> 03:02:36,502
+El jefe quiere que todos duerman
+algo, habrá dos centinelas.
+
+1236
+03:02:37,198 --> 03:02:41,200
+Y pueden visitar a sus familias
+de uno en uno.
+
+1237
+03:02:42,999 --> 03:02:45,275
+La batalla decisiva al fin, ¿no?
+
+1238
+03:02:46,568 --> 03:02:48,869
+Sí, haz correr la voz.
+
+1239
+03:02:55,474 --> 03:02:58,920
+Has oído las órdenes, ¿no?
+
+1240
+03:03:03,277 --> 03:03:04,958
+Yo haré guardia.
+
+1241
+03:03:06,312 --> 03:03:07,442
+Tú duerme.
+
+1242
+03:03:11,299 --> 03:03:12,297
+¡Manzo!
+
+1243
+03:03:13,183 --> 03:03:14,526
+Corre a casa,
+
+1244
+03:03:15,650 --> 03:03:17,297
+a ver a tu hija.
+
+1245
+03:03:18,852 --> 03:03:20,660
+Perdón, a tu hijo.
+
+1246
+03:03:30,125 --> 03:03:31,248
+Ya se lo he dicho.
+
+1247
+03:03:31,592 --> 03:03:33,955
+Bien, ahora descansa.
+
+1248
+03:03:37,796 --> 03:03:39,240
+Katsushiro.
+
+1249
+03:03:41,064 --> 03:03:42,666
+Dime, ¿qué hacía Kikuchiyo?
+
+1250
+03:03:42,798 --> 03:03:45,307
+Sigue en las tumbas.
+
+1251
+03:03:46,134 --> 03:03:47,296
+Bien.
+
+1252
+03:05:00,707 --> 03:05:03,138
+Mañana moriremos.
+
+1253
+03:05:03,708 --> 03:05:06,140
+Quizá no.
+
+1254
+03:05:07,410 --> 03:05:09,953
+Pero probablemente sí.
+
+1255
+03:05:32,190 --> 03:05:33,189
+Shino!
+
+1256
+03:05:34,224 --> 03:05:35,467
+¿Dónde estás?
+
+1257
+03:05:41,562 --> 03:05:43,071
+¿Dónde estás, Shino?
+
+1258
+03:06:17,582 --> 03:06:20,436
+Sake, ¿verdad?
+¿De dónde ha salido?
+
+1259
+03:06:36,219 --> 03:06:37,259
+Ya veo.
+
+1260
+03:06:37,523 --> 03:06:40,523
+Kikuchiyo tenía
+razón en lo que decía.
+
+1261
+03:06:50,064 --> 03:06:53,276
+Entonces me quedaré con esto.
+
+1262
+03:06:56,403 --> 03:06:58,209
+¡Shino!
+
+1263
+03:07:23,750 --> 03:07:27,571
+Aquí tienes sake, bebe
+y relájate.
+
+1264
+03:07:32,088 --> 03:07:36,321
+Esto no es propio de ti.
+¡Sé valiente y trabaja duro!
+
+1265
+03:07:47,928 --> 03:07:49,066
+¡Shino!
+
+1266
+03:08:55,132 --> 03:08:56,689
+¡Mujerzuela!
+
+1267
+03:09:06,473 --> 03:09:08,192
+¡Mala hija!
+
+1268
+03:09:13,443 --> 03:09:16,043
+¡Basta, calmate!
+
+1269
+03:09:16,078 --> 03:09:19,828
+¿Qué te pasa, qué haces
+con un samurái?
+
+1270
+03:09:45,525 --> 03:09:47,105
+¡Que desgracia!
+
+1271
+03:09:57,333 --> 03:09:58,575
+¡Manzo!
+
+1272
+03:09:59,768 --> 03:10:02,261
+¿Ésta es tu hija?
+
+1273
+03:10:08,739 --> 03:10:09,966
+Dime.
+
+1274
+03:10:10,772 --> 03:10:14,760
+Has dicho que estaba
+con un samurái, ¿quién?
+
+1275
+03:10:16,709 --> 03:10:17,989
+¡Manzo!
+
+1276
+03:10:27,948 --> 03:10:30,374
+Manzo, habla.
+
+1277
+03:10:30,884 --> 03:10:32,625
+¡Habla!
+
+1278
+03:11:04,802 --> 03:11:07,210
+¿Eres Shino?
+
+1279
+03:11:26,214 --> 03:11:29,176
+¡Manzo! ¡No te enfades!
+
+1280
+03:11:30,882 --> 03:11:33,804
+Cuando un hombre ve
+la muerte cerca,
+
+1281
+03:11:34,118 --> 03:11:37,000
+quiere los brazos de
+una mujer.
+
+1282
+03:11:43,288 --> 03:11:46,047
+Justo antes de la batalla.
+
+1283
+03:11:47,391 --> 03:11:50,125
+¡Pasa hasta en los castillos!
+
+1284
+03:11:52,993 --> 03:11:56,507
+Ten compasión de los jóvenes.
+
+1285
+03:11:57,996 --> 03:11:59,802
+¡No puedo!
+
+1286
+03:12:00,332 --> 03:12:03,063
+¡Han seducido a mi hija!
+
+1287
+03:12:18,075 --> 03:12:22,923
+¡Pero se quieren! ¡Y no ha acabado
+en manos de los bandidos!
+
+1288
+03:13:55,058 --> 03:13:59,153
+¡Todo el mundo está muy
+nervioso. Calmaos!
+
+1289
+03:14:07,400 --> 03:14:10,640
+¡Por fin la batalla decisiva!
+
+1290
+03:14:13,671 --> 03:14:19,220
+¡Katsushiro! Lucha con valentía!
+¿Entendido?
+
+1291
+03:14:19,672 --> 03:14:22,740
+¡Ahora eres un hombre
+hecho y derecho!
+
+1292
+03:14:40,750 --> 03:14:42,576
+¡Escuchad!
+
+1293
+03:14:45,252 --> 03:14:48,913
+¡Necesitáis ánimo para
+ganar esta batalla!
+
+1294
+03:14:50,154 --> 03:14:53,743
+¿Nunca venceréis con
+esas caras largas!
+
+1295
+03:15:07,297 --> 03:15:10,181
+Kikuchiyo, ¿qué demonios haces?
+
+1296
+03:15:10,216 --> 03:15:11,843
+¡Debo matar a muchos!
+
+1297
+03:15:27,609 --> 03:15:29,616
+¡Sólo quedan trece!
+
+1298
+03:15:30,711 --> 03:15:33,724
+¡Que entren todos!
+
+1299
+03:15:36,246 --> 03:15:38,716
+Nos echaremos encima de ellos.
+
+1300
+03:15:39,181 --> 03:15:42,925
+Y los atraparemos en el cruce.
+
+1301
+03:15:45,952 --> 03:15:49,776
+¡Esta batalla decidirá
+el resultado!
+
+1302
+03:16:20,372 --> 03:16:22,846
+¡Preparados!
+
+1303
+03:16:45,917 --> 03:16:47,697
+¡Aquí vienen!
+
+1304
+03:17:12,598 --> 03:17:14,792
+¡Shichiroji y Katsushiro,
+al oeste!
+
+1305
+03:17:15,066 --> 03:17:16,226
+¡Kyuzo, Kikuchiyo, al Este!
+
+1306
+03:18:58,788 --> 03:19:01,020
+¡Katsushiro, Rikichi!
+
+1307
+03:19:01,922 --> 03:19:03,670
+¡Id al este!
+
+1308
+03:19:04,758 --> 03:19:05,855
+¡Este!
+
+1309
+03:19:23,668 --> 03:19:25,571
+¡Ni una palabra!
+
+1310
+03:19:25,904 --> 03:19:27,720
+O moriréis.
+
+1311
+03:20:15,497 --> 03:20:16,539
+¡Ya basta!
+
+1312
+03:20:16,863 --> 03:20:18,331
+¡Se acabó!
+
+1313
+03:20:18,365 --> 03:20:20,092
+¡Cuidado, podría
+quedar alguno!
+
+1314
+03:20:36,440 --> 03:20:38,300
+¡Katsushiro, no!
+
+1315
+03:20:41,343 --> 03:20:43,093
+¡Malditos cerdos!
+
+1316
+03:20:45,313 --> 03:20:46,312
+¡Kikuchiyo!
+
+1317
+03:21:23,194 --> 03:21:25,313
+¡Kikuchiyo!
+¡Kikuchiyo!
+
+1318
+03:21:35,954 --> 03:21:38,348
+¡Los bandidos, los
+bandidos!
+
+1319
+03:21:38,936 --> 03:21:40,337
+¡Están muertos!
+
+1320
+03:21:59,416 --> 03:22:01,663
+¡están todos muertos!
+
+1321
+03:25:40,136 --> 03:25:41,506
+Hemos vuelto a sobrevivir.
+
+1322
+03:25:42,063 --> 03:25:43,335
+Hemos vuelto a perder.
+
+1323
+03:25:44,342 --> 03:25:45,342
+¿Qué?
+
+1324
+03:25:48,400 --> 03:25:50,290
+Los ganadores son
+los campesinos.
+
+1325
+03:25:52,187 --> 03:25:53,425
+No nosotros.
+
+1326
+03:26:24,100 --> 03:26:31,049
+FIN
+

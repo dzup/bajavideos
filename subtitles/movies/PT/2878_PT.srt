@@ -1,0 +1,1830 @@
+1
+00:00:38,100 --> 00:00:46,000
+RASHOMON
+
+2
+00:00:56,100 --> 00:01:00,000
+Baseado em "Em um Bosque" por
+Ryunosuke Akutagawa
+
+3
+00:01:00,100 --> 00:01:04,000
+Roteiro de Akira Kurosawa e
+Shinobu Hashimoto
+
+4
+00:01:04,100 --> 00:01:09,100
+Câmera de
+Kazuo Miyagawa
+
+5
+00:01:41,100 --> 00:01:44,000
+Estrelando
+
+6
+00:01:44,100 --> 00:01:47,000
+Toshiro Mifune
+
+7
+00:01:47,100 --> 00:01:49,000
+Kyo de Machiko
+
+8
+00:01:49,100 --> 00:01:51,000
+Takashi Shimura
+
+9
+00:01:51,100 --> 00:01:54,000
+Masayuki Mori
+
+10
+00:01:54,100 --> 00:02:01,000
+Minoru Chiaki
+
+11
+00:02:04,100 --> 00:02:09,000
+Dirigido por Akira Kurosawa
+
+12
+00:02:48,100 --> 00:02:53,000
+Eu não entendo... não consigo
+entender nada.
+
+13
+00:03:37,000 --> 00:03:40,900
+<i>Não entendo nada.</i>
+
+14
+00:03:43,000 --> 00:03:44,900
+Não consigo entender.
+
+15
+00:04:06,000 --> 00:04:07,900
+O que está errado?
+
+16
+00:04:10,900 --> 00:04:12,900
+O que você não entende?
+
+17
+00:04:16,900 --> 00:04:19,900
+Eu nunca ouvi uma história
+tão estranha.
+
+18
+00:04:19,900 --> 00:04:21,900
+Por que você não me
+fala sobre isto?
+
+19
+00:04:23,900 --> 00:04:27,900
+O que aconteceu para termos
+um sábio padre conosco.
+
+20
+00:04:30,000 --> 00:04:35,900
+Não, nem mesmo o renomado, o sábio
+padre do templo de Kiyomizu...
+
+21
+00:04:37,000 --> 00:04:39,900
+já ouviu uma história tão
+estranha como esta.
+
+22
+00:04:41,000 --> 00:04:44,900
+Então, você conhece esta
+história estranha?
+
+23
+00:04:46,000 --> 00:04:50,900
+Este homem e eu vimos e ouvimos
+tudo sobre ela.
+
+24
+00:04:51,000 --> 00:04:54,900
+- Onde?
+- No jardim do palácio da justiça.
+
+25
+00:04:55,000 --> 00:04:56,900
+No palácio da justiça?
+
+26
+00:04:58,000 --> 00:05:00,900
+Um homem foi assassinado.
+
+27
+00:05:01,000 --> 00:05:03,900
+Só um? E por que isso tudo?
+
+28
+00:05:05,000 --> 00:05:12,900
+Acima deste portão, você achará uns
+cinco ou seis corpos não reclamados.
+
+29
+00:05:12,900 --> 00:05:14,900
+Você tem razão.
+
+30
+00:05:14,900 --> 00:05:20,900
+Guerras, terremotos, ventos...
+
+31
+00:05:20,900 --> 00:05:25,900
+incêndio, escassez, a praga...
+
+32
+00:05:25,900 --> 00:05:29,900
+ano após ano, não tem sido nada
+mais que desastres.
+
+33
+00:05:34,000 --> 00:05:42,900
+E os bandidos caem sobre nós
+todas as noites.
+
+34
+00:05:42,900 --> 00:05:48,800
+Eu vi muitos homens sendo
+assassinados como insetos...
+
+35
+00:05:48,900 --> 00:05:55,800
+mesmo assim, nunca ouvi uma
+história tão horrível quanto esta.
+
+36
+00:06:01,900 --> 00:06:05,800
+Sim. Tão horrível.
+
+37
+00:06:09,800 --> 00:06:15,800
+Agora, posso acabar perdendo a
+minha fé na alma humana.
+
+38
+00:06:15,800 --> 00:06:23,800
+Isto é pior que os bandidos,
+a pestilência...
+
+39
+00:06:23,800 --> 00:06:27,800
+fome, incêndio, ou guerra.
+
+40
+00:06:27,800 --> 00:06:30,800
+Olhe aqui, padre.
+
+41
+00:06:31,800 --> 00:06:33,800
+Pare com o sermão.
+
+42
+00:06:33,800 --> 00:06:37,800
+Soou interessante, pelo menos
+enquanto eu saia da chuva.
+
+43
+00:06:38,900 --> 00:06:42,800
+Mas se é um sermão, prefiro
+escutar a chuva.
+
+44
+00:07:16,800 --> 00:07:21,800
+Ouça-me. Talvez você possa me
+dizer o que isso significa.
+
+45
+00:07:21,800 --> 00:07:24,800
+Não consigo entender
+nenhum dos três.
+
+46
+00:07:24,800 --> 00:07:27,800
+- Quais três?
+- Bem...
+
+47
+00:07:27,800 --> 00:07:30,800
+Vou lhe falar sobre eles.
+
+48
+00:07:30,800 --> 00:07:33,800
+Acalme-se, e me fale lentamente.
+
+49
+00:07:34,800 --> 00:07:37,800
+A chuva não vai parar tão cedo.
+
+50
+00:07:39,800 --> 00:07:41,800
+RASHOMON
+
+51
+00:07:57,900 --> 00:08:00,800
+Isto foi há três dias atrás.
+
+52
+00:08:00,900 --> 00:08:04,800
+Fui para as montanhas
+pegar madeira.
+
+53
+00:11:46,700 --> 00:11:49,600
+<i>Corri o mais rápido que pude
+para falar com a polícia.</i>
+
+54
+00:11:49,700 --> 00:11:54,600
+<i>Então, três dias depois... hoje...
+fui chamado para testemunhar.</i>
+
+55
+00:11:56,700 --> 00:11:58,600
+Sim. Isso mesmo.
+
+56
+00:12:02,700 --> 00:12:08,600
+Fui o primeiro a encontrar
+o corpo.
+
+57
+00:12:09,600 --> 00:12:12,600
+O que? Vi uma espada ou
+algo parecido?
+
+58
+00:12:12,700 --> 00:12:14,600
+Não, nada disso.
+
+59
+00:12:17,700 --> 00:12:20,600
+Tinha um chapéu de mulher
+preso em um galho...
+
+60
+00:12:20,700 --> 00:12:24,600
+e o boné de samurai que
+foi pisoteado.
+
+61
+00:12:25,700 --> 00:12:29,600
+Havia um pedaço de corda cortado
+perto do corpo...
+
+62
+00:12:31,700 --> 00:12:37,600
+mais adiante, nas folhas, um amuleto
+brilhante com forro vermelho.
+
+63
+00:12:38,700 --> 00:12:39,600
+Sim.
+
+64
+00:12:41,700 --> 00:12:45,600
+Isso foi tudo que achei.
+
+65
+00:12:46,700 --> 00:12:47,600
+Sim.
+
+66
+00:12:51,700 --> 00:12:56,600
+Conheci o homem assassinado
+antes da sua morte.
+
+67
+00:12:59,700 --> 00:13:02,600
+Foi a três dias atrás,
+pela tarde.
+
+68
+00:13:03,700 --> 00:13:10,600
+Na estrada de Sekiyama
+para Yamashina.
+
+69
+00:13:30,700 --> 00:13:36,600
+<i>A mulher tinha um véu, então
+não pude ver o seu rosto.</i>
+
+70
+00:13:37,700 --> 00:13:42,600
+<i>O homem carregava uma espada,
+um arco e flechas.</i>
+
+71
+00:13:46,700 --> 00:13:53,600
+Não pensei que ele fosse
+ter este destino.
+
+72
+00:13:55,700 --> 00:14:02,600
+A vida realmente é delicada e
+passageira como o orvalho da manhã.
+
+73
+00:14:04,700 --> 00:14:08,600
+Que vergonha o fim dele
+ser assim.
+
+74
+00:14:09,600 --> 00:14:11,600
+Eu sinto muito.
+
+75
+00:14:15,500 --> 00:14:20,500
+Este homem que peguei
+é Tajomaru.
+
+76
+00:14:21,500 --> 00:14:27,500
+Sim, o notório bandido que
+todo o mundo fala.
+
+77
+00:14:29,600 --> 00:14:33,500
+Na última vez, quase o peguei,
+ele está o mesmo...
+
+78
+00:14:33,600 --> 00:14:36,500
+e portava esta mesma espada.
+
+79
+00:14:38,600 --> 00:14:43,500
+Há dois dias atrás, ao entardecer,
+na margem do katsura...
+
+80
+00:14:59,600 --> 00:15:02,500
+O que está errado?
+
+81
+00:15:15,500 --> 00:15:19,500
+<i>Tinha 17 flechas com
+penas de águia...</i>
+
+82
+00:15:20,500 --> 00:15:24,500
+<i>um arco de couro, e um cavalo.</i>
+
+83
+00:15:24,500 --> 00:15:28,500
+Sim. Tudo isto pertenceu ao
+homem morto.
+
+84
+00:15:30,500 --> 00:15:35,500
+A ironia é que Tajomaru foi derrubado
+do cavalo que ele roubou...
+
+85
+00:15:35,600 --> 00:15:39,500
+tinha que ser uma retribuição
+fatal.
+
+86
+00:15:46,600 --> 00:15:51,500
+Eu caí do cavalo?
+Seu tolo!
+
+87
+00:15:55,600 --> 00:15:57,500
+Naquele dia...
+
+88
+00:16:06,600 --> 00:16:10,500
+estava montando aquele cavalo e de
+repente fiquei com muita sede.
+
+89
+00:16:10,500 --> 00:16:13,500
+Tão perto de Osaka, bebi
+de uma fonte.
+
+90
+00:16:25,500 --> 00:16:29,500
+Deve ter morrido uma cobra
+venenosa rio acima.
+
+91
+00:16:29,500 --> 00:16:32,500
+Depois de um tempo, fiquei com uma
+dor incrível no estômago.
+
+92
+00:16:32,500 --> 00:16:38,500
+Mas no momento que vim para o rio,
+não pude aguentar mais.
+
+93
+00:16:38,500 --> 00:16:43,500
+Então, desci do cavalo e me
+abaixei no campo.
+
+94
+00:16:48,600 --> 00:16:50,500
+Eu caí?
+
+95
+00:16:50,600 --> 00:16:54,500
+Obviamente, um bobo só pode ter
+pensamentos tolos.
+
+96
+00:16:56,600 --> 00:17:00,500
+Sei que cedo ou tarde, você terá
+o meu pescoço...
+
+97
+00:17:00,600 --> 00:17:03,500
+então, não vou esconder nada.
+
+98
+00:17:06,500 --> 00:17:09,300
+Foi este Tajomaru que matou
+aquele homem.
+
+99
+00:17:12,400 --> 00:17:16,400
+Eu vi os dois três dias atrás.
+Era uma tarde quente.
+
+100
+00:17:16,400 --> 00:17:21,400
+De repente uma brisa fresca
+sussurrou nas folhas.
+
+101
+00:17:22,400 --> 00:17:27,400
+Se não tivesse aquele vento,
+não o teria matado.
+
+102
+00:20:00,400 --> 00:20:05,300
+Eu dei uma olhada rápida e
+ela se foi.
+
+103
+00:20:05,400 --> 00:20:08,300
+Talvez tenha sido isso.
+
+104
+00:20:08,400 --> 00:20:11,300
+Pensei que vi uma deusa.
+
+105
+00:20:11,400 --> 00:20:16,300
+Então, decidi capturá-la, mesmo que
+tivesse que matar o homem dela.
+
+106
+00:20:19,400 --> 00:20:24,300
+Mas, se pudesse tê-la sem matar,
+seria melhor para todos.
+
+107
+00:20:25,400 --> 00:20:30,300
+Então, minha intenção era levá-la
+sem matar o homem.
+
+108
+00:20:32,400 --> 00:20:35,300
+Mas não pude fazer isto nessa
+estrada para Yamashina.
+
+109
+00:20:52,400 --> 00:20:54,300
+O que você quer?
+
+110
+00:21:07,400 --> 00:21:09,300
+O que você quer?
+
+111
+00:21:19,400 --> 00:21:21,300
+O que é?
+
+112
+00:21:41,400 --> 00:21:43,300
+Não seja desconfiado.
+
+113
+00:21:47,400 --> 00:21:49,300
+Veja? Não é bonita?
+
+114
+00:21:52,400 --> 00:21:54,300
+Dê uma olhada nisto.
+
+115
+00:22:01,400 --> 00:22:05,300
+Tem algumas ruínas lá em cima.
+
+116
+00:22:06,400 --> 00:22:12,300
+Quando cavei o morro, achei muitas
+espadas e espelhos.
+
+117
+00:22:12,400 --> 00:22:15,300
+Os enterrei em um arvoredo atrás
+da montanha, então ninguém...
+
+118
+00:22:15,400 --> 00:22:17,300
+poderá achá-los.
+
+119
+00:22:18,400 --> 00:22:21,300
+Se estiver interessado, venderei
+barato pra você.
+
+120
+00:23:56,300 --> 00:23:58,200
+Está ali.
+
+121
+00:24:01,300 --> 00:24:03,200
+Caminhe na minha frente.
+
+122
+00:24:47,300 --> 00:24:50,200
+Está aqui. Além desses pinheiros.
+
+123
+00:26:45,200 --> 00:26:49,100
+Seu marido ficou doente.
+
+124
+00:26:56,200 --> 00:27:03,100
+O rosto dela ficou pálido. Ela me
+encarou com os olhos congelados...
+
+125
+00:27:03,200 --> 00:27:08,100
+a expressão dela parecia a
+de uma criança.
+
+126
+00:27:09,100 --> 00:27:14,100
+Quando vi isto, senti inveja do
+homem e de repente o odiei.
+
+127
+00:27:14,100 --> 00:27:19,100
+Quis mostrar a ela como ele ficou
+patético amarrado no pinheiro.
+
+128
+00:27:19,100 --> 00:27:24,100
+Estes pensamentos não estavam
+antes na minha cabeça.
+
+129
+00:28:58,100 --> 00:29:01,000
+<i>Nunca tinha visto tal ferocidade
+em uma mulher.</i>
+
+130
+00:31:24,900 --> 00:31:28,800
+Então, tive sucesso em possuí-la,
+sem matar o marido dela.
+
+131
+00:31:33,900 --> 00:31:38,800
+Eu não tinha nenhuma
+intenção de matá-lo.
+
+132
+00:31:39,900 --> 00:31:41,800
+Entretanto...
+
+133
+00:31:43,900 --> 00:31:45,800
+Espere!
+
+134
+00:31:46,900 --> 00:31:47,800
+Pare!
+
+135
+00:31:49,900 --> 00:31:54,800
+Você morre ou mata
+meu marido.
+
+136
+00:31:54,900 --> 00:31:56,800
+Um de vocês tem que morrer.
+
+137
+00:32:07,900 --> 00:32:13,800
+A minha vergonha de ter conhecido
+dois homens é pior que morrer.
+
+138
+00:32:17,900 --> 00:32:25,800
+Irei com o sobrevivente.
+
+139
+00:35:19,700 --> 00:35:24,700
+Então, tive que matá-lo, mas queria
+fazer isto com honra.
+
+140
+00:35:25,700 --> 00:35:29,700
+Ele lutou muito bem. Cruzamos
+espadas 23 vezes.
+
+141
+00:35:29,700 --> 00:35:33,700
+Lembro-me disto porque ainda
+estou impressionado.
+
+142
+00:35:33,800 --> 00:35:38,700
+Ninguém nunca cruzou espadas
+comigo mais de 20 vezes.
+
+143
+00:35:42,800 --> 00:35:45,700
+O que? A mulher?
+
+144
+00:35:47,800 --> 00:35:50,700
+Eu não sei.
+
+145
+00:35:51,800 --> 00:35:56,700
+Quando o homem morreu, me virei
+para ela. Ela tinha ido.
+
+146
+00:35:57,800 --> 00:36:02,700
+A luta deve tê-la assustado,
+e ela foi embora.
+
+147
+00:36:02,800 --> 00:36:05,700
+Corri para a estrada da
+montanha.
+
+148
+00:36:05,800 --> 00:36:09,700
+Tudo que achei foi o cavalo dela
+pastando calmamente.
+
+149
+00:36:09,700 --> 00:36:13,700
+Eu fui atraído pra ela, pelo
+seu espírito feroz...
+
+150
+00:36:13,700 --> 00:36:18,700
+mas, afinal de contas, ela era
+como as outras mulheres.
+
+151
+00:36:18,700 --> 00:36:21,700
+Nem mesmo olhei pra ela.
+
+152
+00:36:24,700 --> 00:36:26,700
+O que? A espada dele?
+
+153
+00:36:28,700 --> 00:36:31,700
+Troquei na cidade
+por bebida.
+
+154
+00:36:32,700 --> 00:36:35,700
+O que? O punhal dela?
+
+155
+00:36:38,700 --> 00:36:44,700
+Tinha uma pérola embutida.
+Parecia muito valioso.
+
+156
+00:36:45,800 --> 00:36:50,700
+Esqueci totalmente disso.
+Isso foi tolice.
+
+157
+00:36:50,800 --> 00:36:53,700
+O maior erro eu já tinha feito!
+
+158
+00:37:15,600 --> 00:37:21,600
+Mesmo entre os bandidos, Tajomaru
+é famoso por ser um tarado.
+
+159
+00:37:22,600 --> 00:37:30,600
+No outono passado, uma jovem esposa
+foi no templo, ela e a sua criada...
+
+160
+00:37:30,600 --> 00:37:34,600
+foram achadas mortas na montanha.
+Isso também deve ter sido ele.
+
+161
+00:37:40,600 --> 00:37:45,600
+Quem sabe o que realmente aconteceu
+com a mulher que deixou o cavalo?
+
+162
+00:37:51,700 --> 00:37:55,600
+Bem, aquela mulher apareceu
+no palácio da justiça.
+
+163
+00:37:59,700 --> 00:38:04,600
+Ela estava escondida no templo,
+quando a polícia a achou.
+
+164
+00:38:04,700 --> 00:38:06,600
+É mentira.
+
+165
+00:38:06,700 --> 00:38:11,500
+É tudo mentira. A história de
+Tajomaru e a da mulher.
+
+166
+00:38:12,600 --> 00:38:14,500
+É humano mentir.
+
+167
+00:38:18,600 --> 00:38:21,600
+Na maior parte do tempo, não podemos
+ser honestos com nós mesmos.
+
+168
+00:38:21,600 --> 00:38:23,600
+Isso pode ser.
+
+169
+00:38:29,600 --> 00:38:38,600
+É por serem fracos que os homens
+mentem, até mesmo para eles.
+
+170
+00:38:38,600 --> 00:38:40,600
+Outro sermão não.
+
+171
+00:38:40,600 --> 00:38:46,600
+Não me preocupo se é mentira, isto
+só está nos entretendo.
+
+172
+00:38:48,600 --> 00:38:51,600
+Qual a história que a
+mulher contou?
+
+173
+00:38:52,600 --> 00:38:57,600
+Bem, é completamente diferente
+da história de Tajomaru.
+
+174
+00:38:59,700 --> 00:39:08,600
+Tão diferente que seu rosto nem mesmo
+mostrou a ferocidade que ele falou.
+
+175
+00:39:14,600 --> 00:39:17,500
+Ela era tão dócil, ela estava
+quase lamentável.
+
+176
+00:39:45,600 --> 00:39:48,600
+Aquele homem no quimono azul...
+
+177
+00:39:51,500 --> 00:39:54,500
+depois de me forçar a me
+entregar à ele...
+
+178
+00:39:55,500 --> 00:40:02,500
+orgulhosamente anunciou que ele
+era o infame Tajomaru...
+
+179
+00:40:04,600 --> 00:40:09,500
+e riu debochando do meu marido
+que estava amarrado.
+
+180
+00:40:19,600 --> 00:40:27,500
+Como meu marido deve ter
+ficado horrorizado.
+
+181
+00:40:31,600 --> 00:40:34,500
+Quanto mais ele lutava...
+
+182
+00:40:37,600 --> 00:40:44,500
+mais apertadas as
+cordas ficavam.
+
+183
+00:40:47,600 --> 00:40:53,500
+Corri para o lado dele. Tentei
+várias vezes.
+
+184
+00:42:42,500 --> 00:42:47,400
+Até agora, quando penso
+nos olhos dele...
+
+185
+00:42:49,500 --> 00:42:53,400
+meu sangue gela em
+minhas veias.
+
+186
+00:42:57,500 --> 00:43:02,400
+O que vi neles não era fúria...
+
+187
+00:43:03,500 --> 00:43:05,400
+nem tristeza...
+
+188
+00:43:07,500 --> 00:43:15,400
+mas uma luz fria, um olhar
+de repugnância.
+
+189
+00:43:22,500 --> 00:43:24,400
+Não faça isso.
+
+190
+00:43:25,500 --> 00:43:28,400
+Não olhe pra mim desse jeito.
+
+191
+00:43:32,500 --> 00:43:34,400
+É muito cruel.
+
+192
+00:43:35,500 --> 00:43:37,400
+Bata em mim...
+
+193
+00:43:38,500 --> 00:43:46,400
+mate-me, mas não olhe para mim
+assim. Por favor, pare.
+
+194
+00:45:10,400 --> 00:45:12,400
+Agora mate-me.
+
+195
+00:45:13,400 --> 00:45:16,400
+Mate-me imediatamente.
+
+196
+00:45:50,400 --> 00:45:51,300
+Pare.
+
+197
+00:45:53,400 --> 00:45:55,300
+Não faça isso.
+
+198
+00:45:55,400 --> 00:45:57,300
+Por favor, não faça.
+
+199
+00:46:46,400 --> 00:46:52,300
+Devo ter desfalecido
+depois disso.
+
+200
+00:47:01,400 --> 00:47:03,300
+Quando eu vim e olhei...
+
+201
+00:47:12,300 --> 00:47:14,200
+Imagine o meu choque.
+
+202
+00:47:32,300 --> 00:47:40,300
+Vi meu punhal no peito do
+meu marido morto.
+
+203
+00:47:55,400 --> 00:47:58,300
+Eu estava em choque...
+
+204
+00:48:01,400 --> 00:48:04,300
+e não me lembro como
+deixei o bosque.
+
+205
+00:48:10,300 --> 00:48:12,200
+Mas quando vim...
+
+206
+00:48:16,300 --> 00:48:19,200
+estava me levantando na lagoa...
+
+207
+00:48:20,200 --> 00:48:22,200
+ao pé da colina.
+
+208
+00:48:29,200 --> 00:48:31,200
+Joguei-me na lagoa.
+
+209
+00:48:33,200 --> 00:48:37,200
+Tentei muitas coisas diferentes.
+
+210
+00:48:39,200 --> 00:48:42,200
+Mas não consegui me matar.
+
+211
+00:48:56,300 --> 00:49:07,200
+O que deve fazer uma pobre e
+desamparada mulher como eu?
+
+212
+00:49:42,200 --> 00:49:47,200
+Entendo. Quanto mais ouço,
+mais confuso eu fico.
+
+213
+00:49:49,200 --> 00:49:52,200
+Mas as mulheres usam suas lágrimas
+para enganar todo o mundo.
+
+214
+00:49:52,200 --> 00:49:55,200
+Elas enganam até elas mesmas.
+
+215
+00:49:56,200 --> 00:50:00,200
+Então, você tem que se precaver
+com a história de uma mulher.
+
+216
+00:50:01,300 --> 00:50:04,200
+Quando você ouvir a história do
+homem que morreu...
+
+217
+00:50:05,300 --> 00:50:10,200
+Ele está morto. Como pode contar
+a história dele?
+
+218
+00:50:10,300 --> 00:50:13,200
+Ele falou por um médium.
+
+219
+00:50:15,300 --> 00:50:19,200
+Mentira. A história dele também
+era mentira.
+
+220
+00:50:22,300 --> 00:50:26,200
+Mas os homens mortos
+não mentem.
+
+221
+00:50:26,300 --> 00:50:28,200
+Por que acha isso?
+
+222
+00:50:30,300 --> 00:50:34,200
+Me recuso a acreditar que aquele
+homem seja tão pecador.
+
+223
+00:50:35,300 --> 00:50:37,200
+Conte você.
+
+224
+00:50:37,300 --> 00:50:40,200
+Mas lá está alguém que é
+bom de verdade?
+
+225
+00:50:40,300 --> 00:50:43,200
+Talvez bondade seja algo
+fictício.
+
+226
+00:50:43,300 --> 00:50:45,200
+Isso que é medo...
+
+227
+00:50:45,300 --> 00:50:49,200
+O homem só quer esquecer
+as coisas ruins...
+
+228
+00:50:49,300 --> 00:50:52,200
+e acredita que só fez
+boas coisas.
+
+229
+00:50:52,300 --> 00:50:55,200
+- Este é o caminho mais fácil.
+- Ridículo.
+
+230
+00:50:58,300 --> 00:51:00,200
+Não ligue.
+
+231
+00:51:00,300 --> 00:51:03,200
+Vamos ouvir a história do
+homem morto.
+
+232
+00:51:50,200 --> 00:51:53,100
+Estou agora na escuridão.
+
+233
+00:51:54,200 --> 00:51:59,100
+Estou sofrendo na escuridão.
+
+234
+00:51:59,200 --> 00:52:04,100
+Amaldiçoados sejam os que me
+lançaram neste inferno escuro.
+
+235
+00:52:43,200 --> 00:52:50,100
+Depois que o bandido atacou minha
+esposa, ele tentou consolá-la.
+
+236
+00:52:50,200 --> 00:52:56,100
+<i>Ela sentou nas folhas, encarando
+os próprios joelhos.</i>
+
+237
+00:52:57,200 --> 00:53:00,100
+<i>O bandido era esperto.</i>
+
+238
+00:53:00,200 --> 00:53:03,100
+<i>Agora que a virtude dela
+estava manchada...</i>
+
+239
+00:53:03,200 --> 00:53:06,100
+<i>ela não poderia ser mais
+do marido dela.</i>
+
+240
+00:53:06,200 --> 00:53:10,100
+<i>Deixe o seu marido e por que não
+desfaz o casamento?</i>
+
+241
+00:53:10,100 --> 00:53:15,100
+<i>Ele disse que só a atacou
+por seu amor por ela.</i>
+
+242
+00:53:16,100 --> 00:53:21,100
+<i>Quando ela ouviu isso, minha esposa
+elevou sua face como em transe.</i>
+
+243
+00:53:28,200 --> 00:53:33,100
+Ela nunca pareceu
+tão bonita.
+
+244
+00:53:40,200 --> 00:53:47,100
+<i>E o que a minha linda esposa
+respondeu para o bandido...</i>
+
+245
+00:53:47,200 --> 00:53:50,100
+<i>na frente do marido desamparado?</i>
+
+246
+00:53:53,200 --> 00:53:55,100
+Onde quiser.
+
+247
+00:53:57,200 --> 00:54:00,100
+Leve-me para onde você quiser.
+
+248
+00:54:02,100 --> 00:54:04,000
+Isso é o que ela disse.
+
+249
+00:54:07,100 --> 00:54:10,000
+Mas esse não foi o único
+pecado dela...
+
+250
+00:54:10,000 --> 00:54:15,000
+ou eu não estaria sofrendo
+na escuridão deste jeito.
+
+251
+00:54:30,100 --> 00:54:32,000
+Por favor, mate-o.
+
+252
+00:54:32,100 --> 00:54:36,000
+Enquanto ele estiver vivo, não
+poderei ir com você.
+
+253
+00:54:36,100 --> 00:54:38,000
+Mate-o!
+
+254
+00:54:40,100 --> 00:54:44,000
+Essas palavras eram como um
+vento ameaçador, que...
+
+255
+00:54:44,100 --> 00:54:47,000
+me arrastava para as profundezas
+da escuridão.
+
+256
+00:54:53,100 --> 00:55:00,000
+Uma coisa odiosa desta já tinha sido
+proferida por um humano antes?
+
+257
+00:55:00,100 --> 00:55:05,000
+Até mesmo o bandido ficou pálido
+com essas palavras.
+
+258
+00:55:06,100 --> 00:55:11,000
+Por favor, mate-o.
+
+259
+00:55:46,100 --> 00:55:50,000
+O que você quer que eu
+faça com ela?
+
+260
+00:55:51,100 --> 00:55:56,000
+Matá-la ou salvá-la? Basta só
+acenar com a cabeça.
+
+261
+00:56:00,100 --> 00:56:06,000
+<i>Só por estas palavras, eu estava
+pronto a perdoar o seu crime.</i>
+
+262
+00:56:11,000 --> 00:56:15,000
+Mato-a, ou deixo-a ir?
+
+263
+00:56:43,100 --> 00:56:47,000
+<i>Eu não sei quantas
+horas se passaram.</i>
+
+264
+00:57:28,900 --> 00:57:32,900
+Ela escapou. Agora terei que me
+preocupar com meu próprio destino.
+
+265
+00:57:59,000 --> 00:58:00,900
+<i>Tudo estava em silêncio.</i>
+
+266
+00:58:03,000 --> 00:58:05,900
+<i>Ouvi alguém chorando.</i>
+
+267
+00:58:07,000 --> 00:58:09,800
+<i>Alguém está chorando.</i>
+
+268
+00:58:10,900 --> 00:58:13,800
+Quem está aqui?
+
+269
+01:00:39,900 --> 01:00:41,800
+Tudo estava silencioso.
+
+270
+01:00:42,900 --> 01:00:45,800
+Como tudo estava quieto.
+
+271
+01:00:47,900 --> 01:00:49,800
+De repente o sol foi embora.
+
+272
+01:00:51,900 --> 01:00:56,800
+Eu estava envolvido em um
+silêncio profundo.
+
+273
+01:00:58,900 --> 01:01:03,800
+Deitei-me naquela quietude.
+
+274
+01:01:06,900 --> 01:01:11,800
+Então alguém se aproximou
+silenciosamente.
+
+275
+01:01:14,900 --> 01:01:23,800
+Alguém retirou suavemente o
+punhal do meu coração.
+
+276
+01:01:51,900 --> 01:01:53,800
+Não é verdade!
+
+277
+01:01:53,900 --> 01:01:58,800
+Não havia nenhum punhal. Ele foi
+morto por uma espada.
+
+278
+01:02:35,800 --> 01:02:39,700
+Agora está ficando interessante.
+
+279
+01:02:41,800 --> 01:02:44,700
+Parece que você viu tudo o
+que aconteceu.
+
+280
+01:02:49,800 --> 01:02:52,700
+Então, por que você não contou
+ao tribunal?
+
+281
+01:02:52,800 --> 01:02:55,700
+Não quis ser envolvido.
+
+282
+01:02:55,800 --> 01:02:58,700
+Você pode falar sobre isto
+aqui, certo?
+
+283
+01:02:59,800 --> 01:03:01,700
+Então, conte-me.
+
+284
+01:03:01,800 --> 01:03:04,700
+Sua história parece ser a
+mais interessante.
+
+285
+01:03:04,800 --> 01:03:08,700
+Não quero ouvir isto. Sem mais
+histórias de horror.
+
+286
+01:03:09,700 --> 01:03:12,700
+Elas são histórias comuns
+nestes dias.
+
+287
+01:03:12,700 --> 01:03:15,700
+Ouvi dizer que o demônio vive
+aqui em Rashomon...
+
+288
+01:03:15,700 --> 01:03:18,700
+fugindo com medo da ferocidade
+do homem.
+
+289
+01:03:22,800 --> 01:03:26,700
+Vamos. O quanto você sabe?
+
+290
+01:03:32,800 --> 01:03:35,700
+Achei o chapéu da mulher
+na montanha.
+
+291
+01:03:35,800 --> 01:03:37,700
+Você já disse isso.
+
+292
+01:03:40,800 --> 01:03:45,700
+Umas 20 jardas a frente, ouvi uma
+mulher chorando.
+
+293
+01:03:45,800 --> 01:03:48,700
+Por detrás do arbusto, vi um
+homem amarrado...
+
+294
+01:03:48,800 --> 01:03:53,700
+uma mulher chorando
+e Tajomaru.
+
+295
+01:03:55,800 --> 01:03:59,700
+Então, você mentiu quando disse
+que achou o corpo.
+
+296
+01:03:59,800 --> 01:04:02,700
+Não quis ser envolvido.
+
+297
+01:04:04,800 --> 01:04:07,800
+Certo, então.
+
+298
+01:04:07,800 --> 01:04:10,700
+Vá em frente. O que Tajomaru
+estava fazendo?
+
+299
+01:04:13,700 --> 01:04:18,700
+Ele estava de joelhos, implorando
+perdão a mulher.
+
+300
+01:04:21,700 --> 01:04:26,700
+Até agora, sempre que eu quis
+fazer algo ruim, o fiz.
+
+301
+01:04:26,700 --> 01:04:29,700
+Desse jeito sofri menos.
+
+302
+01:04:29,800 --> 01:04:31,700
+Mas hoje, é diferente.
+
+303
+01:04:32,800 --> 01:04:38,700
+Eu já a possui, mas quero você
+mais. É muito difícil.
+
+304
+01:04:39,800 --> 01:04:42,700
+Eu lhe imploro que seja
+minha esposa.
+
+305
+01:04:45,800 --> 01:04:48,700
+O notório bandido Tajomaru
+está implorando...
+
+306
+01:04:50,800 --> 01:04:53,700
+de joelhos e mãos estendidas.
+
+307
+01:04:57,800 --> 01:05:01,700
+Se você quiser, até desisto de
+ser um bandido.
+
+308
+01:05:01,800 --> 01:05:04,700
+Tenho muita coisa guardada e posso
+lhe dar uma vida confortável.
+
+309
+01:05:05,800 --> 01:05:10,700
+E se você não quiser meu dinheiro
+sujo, então trabalharei.
+
+310
+01:05:10,700 --> 01:05:13,700
+Vou me tornar um vendedor ambulante
+para lhe sustentar.
+
+311
+01:05:14,700 --> 01:05:17,700
+Farei qualquer coisa se você
+vier comigo.
+
+312
+01:05:20,700 --> 01:05:23,700
+Case-se comigo, por favor.
+
+313
+01:05:26,600 --> 01:05:31,600
+Se disser não. Não tenho outra
+escolha senão matá-la.
+
+314
+01:05:32,600 --> 01:05:34,600
+Por favor, diga que sim.
+
+315
+01:05:39,700 --> 01:05:42,600
+Pare de chorar e me responda.
+
+316
+01:05:42,700 --> 01:05:45,600
+Diga que será minha esposa!
+
+317
+01:05:46,700 --> 01:05:47,600
+Diga!
+
+318
+01:05:58,700 --> 01:06:00,600
+É impossível.
+
+319
+01:06:02,700 --> 01:06:07,600
+Como poderei, eu, uma mulher,
+dizer qualquer coisa?
+
+320
+01:06:27,600 --> 01:06:31,600
+Entendi. Você acha que nós, os
+homens, devemos decidir.
+
+321
+01:06:34,600 --> 01:06:36,600
+Pare!
+
+322
+01:06:37,600 --> 01:06:42,600
+Recuso-me a arriscar minha vida
+por uma mulher dessas.
+
+323
+01:07:09,600 --> 01:07:13,500
+Você esteve com dois homens.
+Por que não se mata?
+
+324
+01:07:18,600 --> 01:07:20,600
+Desesperada.
+
+325
+01:07:23,600 --> 01:07:29,600
+Não quero esta prostituta sem
+vergonha. Pode ficar com ela.
+
+326
+01:07:29,600 --> 01:07:34,600
+Neste momento, preferiria perdê-la
+do que o cavalo.
+
+327
+01:08:29,500 --> 01:08:32,500
+- Espere!
+- Não me siga!
+
+328
+01:08:45,500 --> 01:08:49,500
+Pare de chorar. Isto não
+funciona mais.
+
+329
+01:08:51,500 --> 01:08:54,500
+Pare. Não a tiranize.
+
+330
+01:08:55,600 --> 01:08:58,500
+Mulheres são fracas por natureza.
+
+331
+01:09:25,500 --> 01:09:27,400
+Vocês é que são fracos.
+
+332
+01:09:30,500 --> 01:09:32,500
+Se você é meu marido...
+
+333
+01:09:33,500 --> 01:09:36,500
+por que não mata este homem?
+
+334
+01:09:36,500 --> 01:09:40,500
+Então, pode me dizer que me mate.
+Isso é um homem de verdade.
+
+335
+01:09:41,500 --> 01:09:44,500
+Você também não é um
+homem de verdade.
+
+336
+01:09:52,500 --> 01:09:56,500
+Quando ouvi que você era Tajomaru,
+parei de chorar.
+
+337
+01:09:56,500 --> 01:09:59,500
+Estava doente desta cansativa
+farsa diária.
+
+338
+01:10:00,500 --> 01:10:06,500
+E pensei, "Tajomaru pode
+me tirar disto."
+
+339
+01:10:07,600 --> 01:10:12,500
+"Se ele me salvar, faço qualquer
+coisa por ele."
+
+340
+01:10:12,600 --> 01:10:14,500
+Pensei comigo mesma.
+
+341
+01:10:19,600 --> 01:10:23,500
+Mas você é tão insignificante
+como meu marido.
+
+342
+01:10:24,600 --> 01:10:29,500
+E lembre-se: Uma mulher ama um homem
+que ama apaixonadamente.
+
+343
+01:10:29,600 --> 01:10:33,500
+Um homem tem que fazer sua
+mulher, pela sua espada.
+
+344
+01:16:12,300 --> 01:16:15,300
+Não quero morrer!
+
+345
+01:19:03,300 --> 01:19:06,200
+De forma que esta é a
+história real.
+
+346
+01:19:06,300 --> 01:19:09,100
+Não conto mentiras. Vi tudo com
+meus próprios olhos.
+
+347
+01:19:09,200 --> 01:19:11,100
+Eu duvido.
+
+348
+01:19:11,200 --> 01:19:13,100
+É verdade. Eu não minto.
+
+349
+01:19:13,200 --> 01:19:16,100
+Ninguém mente depois dele dizer
+que ele vai fazer assim.
+
+350
+01:19:16,200 --> 01:19:18,100
+Isto é horrível.
+
+351
+01:19:18,200 --> 01:19:21,100
+Se os homens não confiam uns nos
+outros, a Terra pode ser um inferno.
+
+352
+01:19:21,200 --> 01:19:23,100
+Isso é certo. Este mundo é
+um inferno.
+
+353
+01:19:23,200 --> 01:19:25,100
+Não! Eu acredito nos homens.
+
+354
+01:19:26,200 --> 01:19:29,100
+Não quero que este lugar
+seja um inferno.
+
+355
+01:19:30,200 --> 01:19:32,200
+Gritando não ajuda.
+
+356
+01:19:32,200 --> 01:19:37,200
+Pense nisto. Além desses três,
+qual história é acreditável?
+
+357
+01:19:39,100 --> 01:19:41,100
+Não faço idéia.
+
+358
+01:19:41,100 --> 01:19:46,100
+No final, não pode entender as
+coisas que os homens fazem.
+
+359
+01:20:48,200 --> 01:20:50,100
+O que você está fazendo?
+
+360
+01:20:54,200 --> 01:20:56,100
+O que te parece?
+
+361
+01:20:58,200 --> 01:21:01,100
+- Isso é terrível!
+- Terrível?
+
+362
+01:21:01,200 --> 01:21:06,100
+Outra pessoa levaria o quimono.
+Por que não eu?
+
+363
+01:21:08,200 --> 01:21:10,100
+- Isto é maldade.
+- Mal?
+
+364
+01:21:10,200 --> 01:21:13,100
+E os pais desta criança?
+
+365
+01:21:13,200 --> 01:21:20,100
+Se divertiram, e então eles jogam
+fora a criança? Eles são maus.
+
+366
+01:21:20,200 --> 01:21:22,100
+Não, você está errado.
+
+367
+01:21:24,200 --> 01:21:30,100
+Olhe para o amuleto no quimono. Foi
+deixado para proteger o bebê.
+
+368
+01:21:30,200 --> 01:21:34,100
+Pense no que eles passaram, para
+abandonar este bebê.
+
+369
+01:21:34,200 --> 01:21:36,100
+Não tenho tempo para me preocupar
+no que todo mundo sente.
+
+370
+01:21:36,200 --> 01:21:39,100
+- Você é egoísta...
+- O que há de errado nisso?
+
+371
+01:21:39,200 --> 01:21:42,100
+Os bonzinhos ficam melhor fora
+deste mundo.
+
+372
+01:21:42,200 --> 01:21:46,100
+Se você não é egoísta, não
+pode sobreviver.
+
+373
+01:21:55,200 --> 01:21:57,100
+Dane-se.
+
+374
+01:21:58,200 --> 01:22:03,100
+Todo mundo é egoísta
+e desonesto.
+
+375
+01:22:03,200 --> 01:22:05,100
+Criando desculpas.
+
+376
+01:22:06,200 --> 01:22:14,100
+O bandido, a mulher, o
+homem e você!
+
+377
+01:22:21,200 --> 01:22:25,100
+E você não é? Isso é engraçado.
+
+378
+01:22:25,100 --> 01:22:30,000
+Você pode ter enganado a
+corte, mas não a mim.
+
+379
+01:22:46,100 --> 01:22:49,000
+Então, o que você fez
+com o punhal?
+
+380
+01:22:49,100 --> 01:22:52,000
+O valioso com a pérola embutida...
+
+381
+01:22:52,100 --> 01:22:55,000
+que Tajomaru estava falando?
+
+382
+01:22:55,100 --> 01:22:58,000
+O que aconteceu com ele? O fez
+desaparecer na grama?
+
+383
+01:23:01,100 --> 01:23:03,000
+Se você não fez isso,
+quem o roubou?
+
+384
+01:23:07,100 --> 01:23:09,000
+Parece que tenho razão.
+
+385
+01:23:12,000 --> 01:23:17,000
+Um bandido chamando outro de
+bandido. Agora quem é egoísta.
+
+386
+01:23:30,100 --> 01:23:33,000
+Você tem alguma outra coisa
+para dizer?
+
+387
+01:23:34,100 --> 01:23:36,000
+Se não, vou embora.
+
+388
+01:24:54,100 --> 01:24:58,000
+O que você está fazendo? Pegando
+o que restou do pequeno?
+
+389
+01:25:07,100 --> 01:25:12,000
+Tenho seis filhos.
+
+390
+01:25:14,000 --> 01:25:21,000
+Um a mais não vai fazer
+diferença.
+
+391
+01:25:27,900 --> 01:25:34,900
+Estou envergonhado do
+que disse.
+
+392
+01:25:38,000 --> 01:25:44,900
+É inevitável suspeitar dos outros
+num dia como este.
+
+393
+01:25:50,000 --> 01:25:54,900
+Eu é que devia estar envergonhado.
+
+394
+01:25:56,000 --> 01:25:58,900
+Não entendo minha própria alma.
+
+395
+01:25:59,000 --> 01:26:01,900
+Não, estou agradecido a você.
+
+396
+01:26:14,900 --> 01:26:16,900
+Graças a você...
+
+397
+01:26:17,900 --> 01:26:24,900
+acho que posso manter a minha
+fé nos homens.
+
+398
+01:26:25,900 --> 01:26:27,900
+Não tem de que.
+
+399
+01:28:05,000 --> 01:28:08,800
+FIM
+

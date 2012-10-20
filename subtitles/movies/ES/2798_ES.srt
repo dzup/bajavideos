@@ -1,0 +1,7205 @@
+1
+00:00:38,007 --> 00:00:40,077
+<i>El comienzo de curso
+siempre es igual.</i>
+
+2
+00:00:40,247 --> 00:00:42,761
+<i>Miedo y ganas de volver a vernos.</i>
+
+3
+00:00:42,927 --> 00:00:45,282
+<i>La morena es Stéphane,
+mi mejor amiga.</i>
+
+4
+00:00:45,447 --> 00:00:47,403
+<i>La rubia, Charlotte,
+mi otra mejor amiga.</i>
+
+5
+00:00:47,567 --> 00:00:50,001
+<i>Y yo soy Lola.
+Pero todos me llaman Lol.</i>
+
+6
+00:00:50,407 --> 00:00:52,443
+<i>La cámara lenta es
+porque en las series americanas</i>
+
+7
+00:00:52,607 --> 00:00:55,485
+<i>las tías buenas
+siempre llegan a cámara lenta.</i>
+
+8
+00:00:55,647 --> 00:00:57,126
+<i>Bueno, estamos en Francia,</i>
+
+9
+00:00:57,287 --> 00:00:58,436
+<i>pero queda bien.</i>
+
+10
+00:01:01,167 --> 00:01:02,885
+<i>El chico guapo es Arthur.</i>
+
+11
+00:01:03,047 --> 00:01:05,038
+<i>No necesitáis un dibujo, ¿no?</i>
+
+12
+00:01:06,927 --> 00:01:08,440
+<i>Medhi es el ex de Stéphane.</i>
+
+13
+00:01:08,607 --> 00:01:10,723
+<i>Bueno, ex... No es tan sencillo.</i>
+
+14
+00:01:11,727 --> 00:01:14,195
+<i>Al fondo, con su chófer,
+Paul-Henri,</i>
+
+15
+00:01:14,367 --> 00:01:16,722
+<i>es hijo de un ministro,
+pero es muy majo.</i>
+
+16
+00:01:17,327 --> 00:01:20,364
+<i>Y con las manos en los bolsillos,
+Maël, mi mejor amigo.</i>
+
+17
+00:01:20,647 --> 00:01:22,365
+<i>Y el mejor amigo de Arthur.</i>
+
+18
+00:01:23,087 --> 00:01:24,406
+<i>Los he echado de menos.</i>
+
+19
+00:01:27,687 --> 00:01:29,917
+<i>La rubia oxigenada
+es Depeyrefitte.</i>
+
+20
+00:01:30,087 --> 00:01:31,600
+<i>Diréis que está
+buenísima,</i>
+
+21
+00:01:31,767 --> 00:01:33,598
+<i>normal, lo hace todo
+para hacerse notar.</i>
+
+22
+00:01:33,767 --> 00:01:36,645
+<i>Y cuando digo "todo"...
+Un zorrón, vamos.</i>
+
+23
+00:01:38,767 --> 00:01:40,359
+<i>Todos los demás
+son figurantes.</i>
+
+24
+00:01:40,527 --> 00:01:41,960
+<i>Venga, allá vamos.</i>
+
+25
+00:01:55,887 --> 00:02:00,358
+Soy el señor Gerbère,
+vuestro profesor de Ciencias Naturales.
+
+26
+00:02:00,767 --> 00:02:04,521
+Ahora las llaman Ciencias de la Tierra.
+También soy
+
+27
+00:02:04,687 --> 00:02:06,962
+vuestro tutor.
+
+28
+00:02:07,127 --> 00:02:08,845
+Bien. Barroin, Luc.
+
+29
+00:02:09,007 --> 00:02:09,996
+Presente.
+
+30
+00:02:10,407 --> 00:02:12,716
+- Clavel, Stéphane.
+- Presente.
+
+31
+00:02:13,327 --> 00:02:14,680
+Perdón... ¿Stéphanie?
+
+32
+00:02:14,847 --> 00:02:17,361
+No, Stéphane. Se utiliza
+para los dos.
+
+33
+00:02:17,527 --> 00:02:19,165
+¿Para los dos qué, señorita?
+
+34
+00:02:19,407 --> 00:02:21,159
+Para los dos sexos.
+
+35
+00:02:22,087 --> 00:02:25,159
+¿Conoce la palabra
+que significa eso, señorita...
+
+36
+00:02:25,327 --> 00:02:27,443
+- Clavel?
+- No sé.
+
+37
+00:02:27,607 --> 00:02:28,483
+"Mixto".
+
+38
+00:02:28,647 --> 00:02:30,478
+Su nombre es mixto.
+
+39
+00:02:30,647 --> 00:02:32,558
+Como, por desgracia,
+la enseñanza actual.
+
+40
+00:02:32,727 --> 00:02:33,955
+Pero ése es otro tema.
+
+41
+00:02:34,367 --> 00:02:36,244
+O el sándwich
+de jamón y queso.
+
+42
+00:02:38,447 --> 00:02:40,722
+Los tíos, de verdad...
+Qué asco.
+
+43
+00:02:41,047 --> 00:02:42,560
+¿Has visto a David Levy?
+
+44
+00:02:42,727 --> 00:02:44,399
+Supermoreno,
+está que te mueres.
+
+45
+00:02:44,567 --> 00:02:45,795
+Es Provence.
+
+46
+00:02:46,407 --> 00:02:48,637
+¿No es raro que no pare
+de mirarme?
+
+47
+00:02:48,807 --> 00:02:49,683
+Es un mosqueo.
+
+48
+00:02:49,847 --> 00:02:51,246
+Me lo voy a ligar.
+
+49
+00:02:51,527 --> 00:02:53,404
+¿No me has oído?
+Son un asco.
+
+50
+00:02:53,567 --> 00:02:54,761
+¿Medhi otra vez?
+
+51
+00:02:54,927 --> 00:02:56,997
+Estamos en la misma clase.
+y yo que quería olvidarlo...
+
+52
+00:02:57,167 --> 00:03:00,842
+Me toca los cojones
+estar en la misma clase.
+
+53
+00:03:01,087 --> 00:03:03,157
+Pasa de ella.
+Total, habéis roto, ¿no?
+
+54
+00:03:03,807 --> 00:03:05,001
+SÍ, más o menos.
+
+55
+00:03:05,167 --> 00:03:07,761
+- ¿Desde cuándo eres judía?
+- Es por David.
+
+56
+00:03:07,927 --> 00:03:09,724
+- Estás loca.
+- Estoy loca...
+
+57
+00:03:10,447 --> 00:03:11,402
+Mirad.
+
+58
+00:03:11,767 --> 00:03:13,678
+La Depeyrefitte
+ha elegido una presa.
+
+59
+00:03:13,847 --> 00:03:17,396
+Me he bajado vuestra nueva
+canción, mola mazo.
+
+60
+00:03:17,567 --> 00:03:19,285
+- Es cojonuda.
+- Me alegro.
+
+61
+00:03:19,447 --> 00:03:20,766
+¿No ha engordado?
+
+62
+00:03:20,927 --> 00:03:22,201
+- Sí, del culo.
+- Está culona.
+
+63
+00:03:22,367 --> 00:03:24,676
+¿Has visto?
+¡Cuánto me alegro!
+
+64
+00:03:25,007 --> 00:03:28,238
+- ¿No has hecho tonterías este verano?
+- No, ¿y tú?
+
+65
+00:03:28,807 --> 00:03:32,880
+Prefiero decírtelo.
+No te he engañado, pero...
+
+66
+00:03:33,047 --> 00:03:35,481
+Me he acostado con una piba,
+sólo para probar.
+
+67
+00:03:35,807 --> 00:03:38,605
+- ya. Guay.
+- Nada importante.
+
+68
+00:03:39,447 --> 00:03:40,675
+El caso es que...
+
+69
+00:03:40,847 --> 00:03:43,486
+yo también me he acostado
+con un tío.
+
+70
+00:03:44,727 --> 00:03:46,558
+- Porque...
+- Guay.
+
+71
+00:03:47,447 --> 00:03:49,278
+- También para probar.
+- Espero
+
+72
+00:03:49,447 --> 00:03:50,926
+que te haya ido bien.
+
+73
+00:03:51,247 --> 00:03:54,922
+- Otra vez de movidas.
+- Va a ser un año de movidas.
+
+74
+00:03:55,087 --> 00:03:57,442
+Los tíos son un asco.
+
+75
+00:03:57,727 --> 00:04:00,525
+¿Sí? Le habrás pedido el número.
+
+76
+00:04:00,687 --> 00:04:02,962
+Sería una tontería
+que te quedaras sola, ¿no?
+
+77
+00:04:03,447 --> 00:04:05,244
+Mira quién habla.
+
+78
+00:04:06,247 --> 00:04:07,600
+Eso, pírate.
+
+79
+00:04:07,767 --> 00:04:08,756
+Lola.
+
+80
+00:04:10,087 --> 00:04:11,566
+¿Qué le pasa a Lola?
+
+81
+00:04:11,727 --> 00:04:13,843
+No sé. Creo que se han peleado.
+
+82
+00:04:14,607 --> 00:04:16,677
+- Venga, ¿vamos?
+- ¿Qué tal?
+
+83
+00:04:16,847 --> 00:04:19,919
+- No sé, no entiendo a las tías.
+- ¿Qué os ha pasado?
+
+84
+00:04:25,047 --> 00:04:26,400
+Espera, voy a...
+
+85
+00:04:26,567 --> 00:04:27,841
+¿Qué haces?
+
+86
+00:04:28,207 --> 00:04:29,959
+Un ataque de romanticismo.
+
+87
+00:04:32,647 --> 00:04:34,126
+A+ L.
+
+88
+00:04:37,207 --> 00:04:39,402
+- Para siempre.
+- Enamorados.
+
+89
+00:04:45,607 --> 00:04:46,676
+Mamá.
+
+90
+00:04:46,847 --> 00:04:49,919
+- ¿Qué es lo que más te gusta?
+- El cachemir, cielo.
+
+91
+00:04:50,367 --> 00:04:51,436
+¡En el colegio!
+
+92
+00:04:54,367 --> 00:04:55,322
+¿Lola?
+
+93
+00:04:55,727 --> 00:04:57,001
+¿Quién quieres ser?
+
+94
+00:04:58,087 --> 00:05:00,442
+No, no me apetece jugar,
+cariño.
+
+95
+00:05:01,367 --> 00:05:02,880
+¿No has ido a hip-hop?
+
+96
+00:05:03,047 --> 00:05:04,560
+No, me dolía el estómago.
+
+97
+00:05:05,167 --> 00:05:07,158
+Tú eres el cervatillo.
+
+98
+00:05:07,687 --> 00:05:10,076
+y yo soy la morsa
+y el caballo.
+
+99
+00:05:10,847 --> 00:05:12,041
+¿Cómo te llamas?
+
+100
+00:05:12,447 --> 00:05:14,358
+Me llamo... Bernard.
+
+101
+00:05:14,927 --> 00:05:16,963
+¡Mamá! No, Bernard no.
+
+102
+00:05:17,127 --> 00:05:18,845
+¿Me dejas sitio, por favor?
+
+103
+00:05:21,607 --> 00:05:23,325
+¡Lola, te has depilado ahí!
+
+104
+00:05:23,487 --> 00:05:24,476
+¡Mamá!
+
+105
+00:05:25,687 --> 00:05:27,837
+- ¿Mamá qué?
+- ¡A ver!
+
+106
+00:05:28,007 --> 00:05:29,565
+Es mi cuerpo,
+hago lo que quiero.
+
+107
+00:05:29,727 --> 00:05:31,843
+No...
+
+108
+00:05:32,087 --> 00:05:35,523
+No, eres mi hija,
+no una actriz porno.
+
+109
+00:05:35,687 --> 00:05:36,756
+¡Pero qué dices!
+
+110
+00:05:36,927 --> 00:05:39,202
+Mamá, ¿qué es
+una actriz porno?
+
+111
+00:05:39,367 --> 00:05:40,482
+Olvídalo.
+
+112
+00:05:41,367 --> 00:05:42,322
+Oye, cielo...
+
+113
+00:05:42,487 --> 00:05:45,559
+No irás a hacer tonterías
+con los chicos... Me lo dirías...
+
+114
+00:05:46,247 --> 00:05:48,317
+No me gustan los pelos,
+eso es todo.
+
+115
+00:05:48,487 --> 00:05:49,920
+Pero no te los habrá visto nadie, ¿no?
+
+116
+00:05:50,087 --> 00:05:52,123
+Me baño con vosotras
+para estar
+
+117
+00:05:52,287 --> 00:05:54,721
+en familia. Si va
+a convertirse en un juicio...
+
+118
+00:05:54,887 --> 00:05:56,479
+Mamá, ¿qué es un juicio?
+
+119
+00:05:58,407 --> 00:06:00,762
+¡Y recoge ese montón
+de ropa, por favor!
+
+120
+00:06:00,927 --> 00:06:01,916
+Eh, oye.
+
+121
+00:06:16,447 --> 00:06:17,641
+¡Joder!
+
+122
+00:06:19,647 --> 00:06:21,000
+Qué coñazo.
+
+123
+00:06:22,647 --> 00:06:23,716
+¡Léon!
+
+124
+00:06:26,247 --> 00:06:27,566
+¡Para ya, Léon!
+
+125
+00:06:29,327 --> 00:06:30,999
+Joder, lo hace aposta.
+
+126
+00:06:32,847 --> 00:06:34,041
+¡Para ya, Léon!
+
+127
+00:06:35,007 --> 00:06:36,918
+¡Verás dónde te meto
+la flauta!
+
+128
+00:06:37,087 --> 00:06:39,282
+¡Para, Charlotte!
+¡Mamá, socorro!
+
+129
+00:06:39,447 --> 00:06:42,644
+¿Y ahora qué? ¡A la mesa!
+
+130
+00:06:43,047 --> 00:06:44,605
+- ¡A la mesa!
+- ¡ya voy!
+
+131
+00:06:45,327 --> 00:06:46,442
+¡ya voy!
+
+132
+00:06:47,607 --> 00:06:48,722
+¡Sí, ya voy!
+
+133
+00:06:49,087 --> 00:06:50,042
+¡ya voy!
+
+134
+00:06:50,207 --> 00:06:52,482
+¿Cuántas veces
+tengo que decirlo?
+
+135
+00:06:53,807 --> 00:06:54,956
+Para, Théo.
+
+136
+00:06:58,447 --> 00:07:01,245
+- Tócate el culo.
+- Mamá, ¿has oído cómo me habla?
+
+137
+00:07:01,407 --> 00:07:03,045
+SÍ, Lola,
+no digas palabrotas.
+
+138
+00:07:03,207 --> 00:07:06,199
+Y quita esa música.
+Como mucho, pon a Voulzy.
+
+139
+00:07:07,607 --> 00:07:09,484
+¿Estás de coña?
+Venga, a comer.
+
+140
+00:07:09,847 --> 00:07:11,246
+Hablando de palabrotas...
+
+141
+00:07:23,047 --> 00:07:25,641
+¿Unos mimos?
+
+142
+00:07:26,487 --> 00:07:27,715
+Mi amor.
+
+143
+00:07:28,727 --> 00:07:29,876
+Mi chiquitina.
+
+144
+00:07:30,047 --> 00:07:31,275
+Mi mami.
+
+145
+00:07:37,567 --> 00:07:38,966
+Me voy, tengo clase.
+
+146
+00:07:41,407 --> 00:07:43,204
+Levántate, vas a llegar tarde.
+
+147
+00:07:44,047 --> 00:07:45,162
+Duérmete, cielo.
+
+148
+00:07:45,327 --> 00:07:46,885
+Te haré una nota.
+
+149
+00:07:50,207 --> 00:07:51,560
+¡Mamá, llego tarde!
+
+150
+00:07:51,727 --> 00:07:54,685
+Levántate antes,
+ni siquiera he podido ducharme.
+
+151
+00:07:54,847 --> 00:07:57,202
+Es mi jersey,
+no me robes más la ropa.
+
+152
+00:07:57,367 --> 00:08:00,484
+- Es que hace frío.
+- Mañana vas en metro.
+
+153
+00:08:00,847 --> 00:08:03,520
+Siempre igual, se acabó.
+
+154
+00:08:04,607 --> 00:08:07,201
+"Qué bien, la llevo,
+
+155
+00:08:07,367 --> 00:08:11,246
+así hablamos, nos contamos
+nuestra vida, las cosas del mundo,
+
+156
+00:08:11,407 --> 00:08:13,045
+de la vida, filosofamos,
+
+157
+00:08:13,847 --> 00:08:16,122
+la belleza de la naturaleza... ".
+
+158
+00:08:17,327 --> 00:08:18,840
+y nada de nada.
+
+159
+00:08:30,327 --> 00:08:32,363
+¿Hola? Aquí la Tierra,
+¿me oyes?
+
+160
+00:08:37,247 --> 00:08:38,362
+Toma.
+
+161
+00:09:18,767 --> 00:09:20,803
+Tendrán un buen motivo
+para llegar tarde.
+
+162
+00:09:20,967 --> 00:09:23,083
+SÍ. ya verá, se va a reír.
+
+163
+00:09:23,247 --> 00:09:25,078
+ya ve la risa que me da.
+
+164
+00:09:25,247 --> 00:09:26,236
+Pues, de hecho...
+
+165
+00:09:26,407 --> 00:09:28,921
+He tenido un accidente
+en el desayuno.
+
+166
+00:09:29,207 --> 00:09:30,356
+Se me ha atascado...
+
+167
+00:09:30,527 --> 00:09:31,801
+un Choco en la nariz.
+
+168
+00:09:31,967 --> 00:09:35,004
+Y mi madre me ha llevado
+a Urgencias para...
+
+169
+00:09:36,247 --> 00:09:38,158
+Y usted... un Frosty, supongo.
+
+170
+00:09:42,527 --> 00:09:44,757
+- ¡La cara que ha puesto!
+- OlvÍdalo.
+
+171
+00:09:47,087 --> 00:09:48,805
+- Bueno, chao.
+- Adiós.
+
+172
+00:09:48,967 --> 00:09:50,082
+Por cierto,
+
+173
+00:09:50,247 --> 00:09:51,726
+con Arthur, ¿te va mejor?
+
+174
+00:09:53,887 --> 00:09:57,436
+Sólo quería decirte que,
+en su lugar, no te habría dejado.
+
+175
+00:09:57,607 --> 00:09:59,916
+- No estás en su lugar.
+- ya, pero...
+
+176
+00:10:02,127 --> 00:10:04,436
+no apruebo todo lo que hace.
+
+177
+00:10:04,607 --> 00:10:05,676
+Ya lo sé.
+
+178
+00:10:07,287 --> 00:10:10,484
+Y tú me encantas y... no quiero
+que eso fastidie nuestra amistad.
+
+179
+00:10:10,647 --> 00:10:12,956
+A mí también me gustas,
+Maël, de verdad.
+
+180
+00:10:13,927 --> 00:10:14,916
+Genial.
+
+181
+00:10:15,327 --> 00:10:18,319
+Vamos a seguir
+con la factorización
+
+182
+00:10:18,487 --> 00:10:20,842
+resolviendo la ecuación
+
+183
+00:10:21,447 --> 00:10:23,881
++ = 0.
+
+184
+00:10:24,887 --> 00:10:26,764
+¿Te ayudo a terminar,
+Charlotte?
+
+185
+00:10:26,927 --> 00:10:29,566
+No es muy complicado,
+ya verás.
+
+186
+00:10:29,727 --> 00:10:31,319
+X-2...
+
+187
+00:10:49,047 --> 00:10:50,685
+- Menos 2.
+- Menos 2.
+
+188
+00:10:51,247 --> 00:10:52,396
+¿Lo habéis entendido?
+
+189
+00:11:00,487 --> 00:11:01,522
+¿Puedo?
+
+190
+00:11:02,607 --> 00:11:04,598
+Sí, sí, adelante.
+
+191
+00:11:08,607 --> 00:11:10,677
+¿Las tías están en celo o qué?
+
+192
+00:11:10,847 --> 00:11:11,916
+Te viene al pelo.
+
+193
+00:11:12,327 --> 00:11:13,919
+- ¿Qué?
+- Te viene al pelo.
+
+194
+00:11:16,927 --> 00:11:20,920
+Respuestas breves que expresen
+entusiasmo. ¿Por ejemplo?
+
+195
+00:11:21,407 --> 00:11:23,841
+- Absolutamente.
+- Absolutamente fabuloso.
+
+196
+00:11:24,127 --> 00:11:25,242
+- Sí.
+- ¿Qué más?
+
+197
+00:11:25,407 --> 00:11:26,681
+¿Espresso?
+
+198
+00:11:28,127 --> 00:11:29,480
+¡Silencio! ¡Callaos,
+
+199
+00:11:29,647 --> 00:11:30,636
+por favor!
+
+200
+00:11:30,887 --> 00:11:33,401
+¡Quiero que se oiga volar
+a una mosca!
+
+201
+00:11:34,647 --> 00:11:35,636
+Una mosca...
+
+202
+00:11:36,447 --> 00:11:37,436
+Hola.
+
+203
+00:11:38,167 --> 00:11:40,317
+Siento llegar tarde.
+Gracias.
+
+204
+00:11:42,527 --> 00:11:44,040
+El primero
+que abra la boca...
+
+205
+00:11:44,207 --> 00:11:45,242
+la boca...
+
+206
+00:11:45,687 --> 00:11:47,040
+va directamente...
+
+207
+00:11:47,207 --> 00:11:49,357
+directamente... a Dirección.
+
+208
+00:11:50,087 --> 00:11:51,156
+Os advierto...
+
+209
+00:11:51,967 --> 00:11:52,956
+que este año...
+
+210
+00:11:53,287 --> 00:11:55,517
+me niego a ser de nuevo
+
+211
+00:11:55,687 --> 00:11:56,881
+el blanco de vuestras bromas
+
+212
+00:11:57,047 --> 00:11:58,082
+pueriles.
+
+213
+00:11:58,687 --> 00:11:59,802
+¿Qué pasa?
+
+214
+00:11:59,967 --> 00:12:01,195
+¿Entendido?
+
+215
+00:12:03,847 --> 00:12:05,200
+- Adiós.
+- Adiós.
+
+216
+00:12:07,527 --> 00:12:09,245
+- Señor...
+- ¿Sí, Charlotte?
+
+217
+00:12:09,407 --> 00:12:11,284
+Mi madre quiere saber
+si da clases
+
+218
+00:12:11,447 --> 00:12:13,278
+- a domicilio.
+- ¿Clases de...?
+
+219
+00:12:13,927 --> 00:12:15,918
+De matemáticas.
+
+220
+00:12:16,087 --> 00:12:17,406
+¿Para tu madre?
+
+221
+00:12:17,687 --> 00:12:20,247
+- No, para mí.
+- Ah, sí. Ah, no.
+
+222
+00:12:20,407 --> 00:12:21,681
+No, no hago ese...
+
+223
+00:12:22,047 --> 00:12:23,366
+ese tipo de cosas...
+
+224
+00:12:23,527 --> 00:12:24,721
+a domicilio.
+
+225
+00:12:26,367 --> 00:12:28,244
+No importa. Qué lástima.
+Adiós.
+
+226
+00:12:28,407 --> 00:12:29,442
+Adiós.
+
+227
+00:12:33,647 --> 00:12:36,115
+¡Qué mono es!
+¡Qué rojo se ha puesto!
+
+228
+00:12:36,287 --> 00:12:37,640
+- Le molas.
+- ¿A quién?
+
+229
+00:12:37,807 --> 00:12:39,240
+Al profe de mates.
+
+230
+00:12:40,047 --> 00:12:41,196
+- Seguro.
+- ¿Tú crees?
+
+231
+00:12:41,367 --> 00:12:42,322
+Total.
+
+232
+00:12:42,887 --> 00:12:44,559
+¿y tú, Lola, qué piensas?
+
+233
+00:12:44,727 --> 00:12:45,876
+¡Lola!
+
+234
+00:12:46,687 --> 00:12:49,247
+- Le mola al profe de mates, ¿no?
+- Ni idea.
+
+235
+00:12:49,487 --> 00:12:50,715
+Joder, es Arthur.
+
+236
+00:12:50,887 --> 00:12:52,286
+- Me da igual.
+- ¿Sí?
+
+237
+00:12:52,447 --> 00:12:53,596
+Totalmente.
+
+238
+00:12:53,887 --> 00:12:56,720
+- Ahí está esa puta de Depeyrefitte.
+- Esa tía es un post-it.
+
+239
+00:12:56,967 --> 00:12:57,843
+Total.
+
+240
+00:12:58,207 --> 00:13:00,243
+- Me encanta tu camiseta.
+- Pues yo prefiero
+
+241
+00:13:00,407 --> 00:13:02,125
+lo que hay debajo
+de la tuya.
+
+242
+00:13:02,807 --> 00:13:04,604
+Qué ingenioso.
+Has ido de rebajas.
+
+243
+00:13:04,767 --> 00:13:06,439
+- Te hacía falta.
+- Qué graciosa, ¿eh?
+
+244
+00:13:06,607 --> 00:13:08,040
+No es frecuente.
+
+245
+00:13:08,207 --> 00:13:10,562
+- Sí, es verdad.
+- Me pongo a tu nivel.
+
+246
+00:13:11,367 --> 00:13:13,676
+- Lola, ¿podemos hablar?
+- Vale.
+
+247
+00:13:14,687 --> 00:13:16,006
+Déjame tu sitio. Aparta.
+
+248
+00:13:16,167 --> 00:13:17,520
+¿Tenéis un pitillo?
+
+249
+00:13:18,367 --> 00:13:20,517
+- ¿Qué quieres decirme?
+- Cuéntame.
+
+250
+00:13:20,847 --> 00:13:21,916
+¿Que te cuente...?
+
+251
+00:13:22,087 --> 00:13:23,645
+Tus hazañas sexuales,
+tus rollos...
+
+252
+00:13:23,807 --> 00:13:25,638
+No me dejas en paz.
+
+253
+00:13:26,767 --> 00:13:28,325
+Medhi, ¿tienes fuego?
+
+254
+00:13:28,727 --> 00:13:29,955
+Lo tienes en el culo.
+
+255
+00:13:30,127 --> 00:13:31,606
+Mira que eres coñazo.
+
+256
+00:13:31,767 --> 00:13:33,325
+Y tan elegante...
+
+257
+00:13:33,487 --> 00:13:34,806
+Déjalo ya.
+
+258
+00:13:34,967 --> 00:13:37,242
+Te habrás corrido.
+Para que mereciera la pena.
+
+259
+00:13:37,407 --> 00:13:38,806
+Que te follen.
+
+260
+00:13:38,967 --> 00:13:41,401
+Tú sí que sabes del tema.
+
+261
+00:13:41,567 --> 00:13:42,716
+Habla la experta.
+
+262
+00:13:43,927 --> 00:13:45,679
+- ¿y tú qué?
+- Cojonudo.
+
+263
+00:13:51,287 --> 00:13:54,040
+Qué mierda.
+Arthur es gilipollas.
+
+264
+00:13:54,327 --> 00:13:56,682
+¿Cómo he podido aguantarle
+todo el año?
+
+265
+00:13:56,847 --> 00:14:00,044
+Ahora paso mazo de él,
+pero creo que está celoso.
+
+266
+00:14:00,207 --> 00:14:01,526
+De Maël, encima.
+
+267
+00:14:01,807 --> 00:14:04,480
+Menos mal que está ahí.
+Me encanta.
+
+268
+00:14:11,127 --> 00:14:12,480
+¿Puedo ir esta noche?
+
+269
+00:14:13,367 --> 00:14:14,686
+No, otra vez, no.
+
+270
+00:14:15,967 --> 00:14:17,480
+¿Por qué no?
+¿Qué pasa?
+
+271
+00:14:17,647 --> 00:14:20,923
+No todas las noches. Si no,
+¿para qué nos hemos divorciado?
+
+272
+00:14:25,647 --> 00:14:26,636
+¡Joder!
+
+273
+00:14:35,287 --> 00:14:38,040
+Yo flipo. Mi padre
+vuelve a tirarse a mi madre.
+
+274
+00:14:38,207 --> 00:14:39,481
+O viceversa.
+
+275
+00:14:39,727 --> 00:14:41,046
+Qué locura.
+
+276
+00:14:41,487 --> 00:14:44,524
+Repite otra vez, cielo.
+"Francia da a...
+
+277
+00:14:44,687 --> 00:14:46,917
+- tres vertientes...
+- tres vertientes...
+
+278
+00:14:47,487 --> 00:14:49,000
+- mari...
+- ¿... nadas?
+
+279
+00:14:49,487 --> 00:14:52,206
+¡Anda ya, marinadas! ¿Y qué más?
+
+280
+00:14:52,367 --> 00:14:54,961
+Théo, no te rías de tu hermana.
+
+281
+00:14:55,367 --> 00:14:57,801
+Tres vertientes marítimas,
+
+282
+00:14:58,047 --> 00:14:59,162
+que son...
+
+283
+00:14:59,487 --> 00:15:02,160
+El mar del Norte,
+el mar Mediterráneo
+
+284
+00:15:02,327 --> 00:15:04,283
+y el océano Pací... Atlántico.
+
+285
+00:15:07,327 --> 00:15:08,521
+¿Qué pasa?
+
+286
+00:15:09,087 --> 00:15:10,600
+¿Por qué me miras raro?
+
+287
+00:15:11,647 --> 00:15:13,399
+No, sólo te miro.
+
+288
+00:15:21,127 --> 00:15:22,242
+Dnd stas?
+
+289
+00:15:29,927 --> 00:15:31,076
+Estoy aquí.
+
+290
+00:15:34,967 --> 00:15:38,676
+¿Quedamos delante del insti? Para que
+Arthur no nos vea llegar juntos.
+
+291
+00:15:38,847 --> 00:15:41,156
+Sí, la verdad...
+Vale, hasta ahora.
+
+292
+00:15:43,647 --> 00:15:46,161
+Anoche empezamos en Planches
+
+293
+00:15:46,327 --> 00:15:49,160
+y acabamos en el Mix.
+Estoy muerta, tía.
+
+294
+00:15:50,167 --> 00:15:51,486
+yo también estoy muerta.
+
+295
+00:15:52,167 --> 00:15:55,239
+Mirad qué ropa interior
+tiene la muy zorra.
+
+296
+00:15:55,407 --> 00:15:56,203
+Sí, ¿has visto?
+
+297
+00:15:56,767 --> 00:15:58,758
+Ya me gustaría tener su culo.
+
+298
+00:15:58,927 --> 00:16:00,883
+Si sigues zampando Nocilla...
+
+299
+00:16:01,047 --> 00:16:02,560
+- ¡Qué dices!
+- A ver.
+
+300
+00:16:02,727 --> 00:16:04,080
+- Para nada.
+- Qué plasta.
+
+301
+00:16:04,247 --> 00:16:05,475
+Escucha.
+
+302
+00:16:05,647 --> 00:16:09,117
+Charlotte, ¿eso es modelo
+Sirena o Ballena?
+
+303
+00:16:09,287 --> 00:16:10,925
+Las compra mi madre.
+
+304
+00:16:11,087 --> 00:16:12,315
+- Incluso para ella.
+- Estilazo.
+
+305
+00:16:12,487 --> 00:16:13,363
+Basta.
+
+306
+00:16:13,527 --> 00:16:15,518
+Mi madre saqueó H&M
+hace poco.
+
+307
+00:16:15,687 --> 00:16:17,757
+Hay muchas que no le van,
+¿te paso alguna?
+
+308
+00:16:17,927 --> 00:16:18,996
+SÍ, guay.
+
+309
+00:16:19,287 --> 00:16:20,561
+¿y tú, Provence?
+
+310
+00:16:20,727 --> 00:16:22,558
+No, a mí el tanga
+me parece vulgar.
+
+311
+00:16:25,567 --> 00:16:27,523
+- ¡Mía!
+- ¡Mía!
+
+312
+00:16:29,487 --> 00:16:31,557
+Tú, baronesa,
+mueve ese culo.
+
+313
+00:16:31,727 --> 00:16:33,206
+Sabes cómo va esto, ¿no?
+
+314
+00:16:33,367 --> 00:16:34,686
+¿Y esto, lo ves?
+
+315
+00:16:34,847 --> 00:16:35,802
+Clavel, ¿te ayudo?
+
+316
+00:16:37,007 --> 00:16:39,043
+Paul-Henri,
+suelta ya esa pelota.
+
+317
+00:16:42,047 --> 00:16:43,480
+¡Arthur, ten cuidado!
+
+318
+00:16:43,647 --> 00:16:44,762
+¡Basta ya los dos!
+
+319
+00:16:44,927 --> 00:16:46,280
+¡Está del tarro!
+
+320
+00:16:46,447 --> 00:16:49,166
+- Es una piba.
+- ¿"Una" piba, o "tu" piba?
+
+321
+00:16:49,327 --> 00:16:52,524
+- No estamos en clase de boxeo...
+- ya no es asunto tuyo.
+
+322
+00:16:52,687 --> 00:16:54,564
+Maël el justiciero.
+
+323
+00:16:54,727 --> 00:16:55,955
+Está del tarro.
+
+324
+00:16:56,127 --> 00:16:59,005
+- Eres patético.
+- El patético eres tú.
+
+325
+00:18:11,287 --> 00:18:13,881
+Le quiero, le quiero.
+
+326
+00:18:26,127 --> 00:18:27,765
+Pienso n ti.
+
+327
+00:18:31,487 --> 00:18:33,443
+Y yo n ti.
+
+328
+00:18:33,807 --> 00:18:35,923
+Si Arthur no fuera
+mi amigo...
+
+329
+00:18:37,527 --> 00:18:38,846
+Sí?
+
+330
+00:18:40,527 --> 00:18:42,245
+Lol. Buenas noches.
+
+331
+00:18:43,047 --> 00:18:45,515
+Buenas noches.
+
+332
+00:18:54,807 --> 00:18:57,844
+Estoy en la comisaría, me han quitado
+el permiso de circulación.
+
+333
+00:18:58,007 --> 00:18:59,042
+Porque sí.
+
+334
+00:18:59,207 --> 00:19:02,119
+No tengo por qué explicarlo
+siempre todo.
+
+335
+00:19:02,287 --> 00:19:03,959
+Mierda, no puede ser.
+
+336
+00:19:04,727 --> 00:19:07,195
+¡Mierda! ¡Mierda!
+
+337
+00:19:10,927 --> 00:19:12,076
+¿Puedo ayudarla?
+
+338
+00:19:12,247 --> 00:19:13,965
+- ¿Es zapatero?
+- No.
+
+339
+00:19:14,127 --> 00:19:15,845
+- Qué lástima.
+- Qué lástima, sí.
+
+340
+00:19:16,807 --> 00:19:18,001
+¿Adónde va?
+
+341
+00:19:19,167 --> 00:19:22,239
+A coger un taxi, esos cabrones
+de polis me han quitado el coche.
+
+342
+00:19:22,407 --> 00:19:25,160
+La parada está lejos,
+no puede ir así.
+
+343
+00:19:25,647 --> 00:19:26,796
+ya.
+
+344
+00:19:26,967 --> 00:19:28,559
+La acerco si quiere.
+
+345
+00:19:30,647 --> 00:19:32,717
+Sí, vale. Es muy amable.
+
+346
+00:19:32,887 --> 00:19:33,956
+Tenga.
+
+347
+00:19:34,567 --> 00:19:35,636
+¿y usted?
+
+348
+00:19:35,807 --> 00:19:37,286
+Yo no lo necesito.
+
+349
+00:19:37,447 --> 00:19:39,483
+Cuidado, son unos gilipollas.
+
+350
+00:19:40,087 --> 00:19:41,884
+Sí, ya lo sé.
+
+351
+00:19:53,327 --> 00:19:54,555
+Hasta luego.
+
+352
+00:20:01,807 --> 00:20:03,160
+Perdón.
+
+353
+00:20:05,007 --> 00:20:07,237
+- Muchas gracias.
+- De nada.
+
+354
+00:20:07,407 --> 00:20:09,238
+Espere.
+Suele atascarse.
+
+355
+00:20:10,407 --> 00:20:11,806
+Ya está. Cuidado.
+
+356
+00:20:13,447 --> 00:20:15,961
+Siento haber insultado
+a sus compañeros.
+
+357
+00:20:16,127 --> 00:20:17,321
+Estoy acostumbrado.
+
+358
+00:20:21,247 --> 00:20:22,521
+¿y era mono?
+
+359
+00:20:22,767 --> 00:20:25,998
+Sí. Da igual, no voy a tirarme
+a un poli, lo que me faltaba.
+
+360
+00:20:26,167 --> 00:20:27,282
+Por una noche...
+
+361
+00:20:27,447 --> 00:20:29,756
+- Bueno y rápido.
+- No, no me va.
+
+362
+00:20:30,087 --> 00:20:32,681
+- ¿El tío?
+- No, el rollo de una noche.
+
+363
+00:20:33,287 --> 00:20:34,242
+Te diré una cosa.
+
+364
+00:20:34,407 --> 00:20:35,840
+Si estuviera divorciada,
+
+365
+00:20:36,327 --> 00:20:37,919
+entraría a saco.
+
+366
+00:20:38,967 --> 00:20:40,559
+¿Qué harías?
+
+367
+00:20:41,047 --> 00:20:42,446
+Nada, nada.
+
+368
+00:20:42,607 --> 00:20:43,835
+Sí, sí.
+
+369
+00:20:44,487 --> 00:20:46,159
+Un tío diferente
+cada noche.
+
+370
+00:20:46,327 --> 00:20:47,919
+- Como vosotros.
+- ¿"Vosotros"?
+
+371
+00:20:48,327 --> 00:20:50,477
+Vosotros, los tíos.
+
+372
+00:20:50,647 --> 00:20:52,126
+El club de los cabrones.
+
+373
+00:20:52,607 --> 00:20:53,960
+No podéis hacer
+lo mismo.
+
+374
+00:20:54,127 --> 00:20:55,640
+¿Y por qué no?
+
+375
+00:20:56,327 --> 00:20:58,158
+- ¿Qué tal?
+- Bien.
+
+376
+00:20:58,407 --> 00:20:59,806
+No sé si lo sabías,
+
+377
+00:20:59,967 --> 00:21:01,958
+pero Julien tiene moto.
+
+378
+00:21:02,127 --> 00:21:03,321
+¿y...?
+
+379
+00:21:03,487 --> 00:21:06,047
+Podría ayudarme
+a no llegar tarde.
+
+380
+00:21:06,207 --> 00:21:07,401
+No, ni hablar.
+
+381
+00:21:07,567 --> 00:21:09,364
+- ¿Tú tienes moto?
+- Sí.
+
+382
+00:21:09,607 --> 00:21:11,120
+Papá dice
+que no es peligroso.
+
+383
+00:21:11,287 --> 00:21:13,755
+Ve a Garches a ver a los tíos
+en silla de ruedas.
+
+384
+00:21:13,927 --> 00:21:15,758
+Si te veo en moto...
+
+385
+00:21:17,047 --> 00:21:18,321
+¿Qué haces?
+
+386
+00:21:18,647 --> 00:21:21,002
+Queremos ver cosas
+en el ordenador.
+
+387
+00:21:21,167 --> 00:21:22,759
+Había puesto la mesa.
+
+388
+00:21:22,927 --> 00:21:24,883
+- Bajaremos para el postre.
+- Vale.
+
+389
+00:21:25,047 --> 00:21:27,277
+Tú también deberías ir
+a Garches.
+
+390
+00:21:30,287 --> 00:21:32,517
+- No, espera.
+- Queremos ver unas cosas.
+
+391
+00:21:32,687 --> 00:21:34,245
+- Papá, ¿podemos?
+- Sí.
+
+392
+00:21:34,407 --> 00:21:37,763
+Además, las conversaciones de viejos...
+
+393
+00:21:39,447 --> 00:21:41,244
+¿Veis qué educada
+es mi hija?
+
+394
+00:21:41,407 --> 00:21:43,443
+Qué maja,
+es el tipo de cosas que...
+
+395
+00:21:44,047 --> 00:21:46,436
+Qué mono, ese grandullón
+dándote besitos...
+
+396
+00:21:47,127 --> 00:21:49,595
+El grandullón tiene oídos.
+
+397
+00:21:49,767 --> 00:21:51,200
+Cuánto lo quiere su papá.
+
+398
+00:21:51,367 --> 00:21:53,244
+Estoy harta,
+siempre "sí" a todo.
+
+399
+00:21:53,407 --> 00:21:55,523
+- ¿Lo dices por la moto?
+- La moto, cenar arriba...
+
+400
+00:21:55,687 --> 00:21:58,360
+Bien, ¿cenamos?
+Venga, a cenar.
+
+401
+00:22:01,847 --> 00:22:03,360
+¿Qué te parece?
+
+402
+00:22:04,367 --> 00:22:06,961
+- No está mal, ¿qué es?
+- Un amigo.
+
+403
+00:22:07,767 --> 00:22:09,359
+¿Puedo hacerme un porro?
+
+404
+00:22:09,527 --> 00:22:10,596
+Genial.
+
+405
+00:22:10,847 --> 00:22:12,485
+Cierro la puerta.
+
+406
+00:22:20,287 --> 00:22:21,879
+¿Lola fuma?
+
+407
+00:22:22,487 --> 00:22:23,636
+¿Estás loco?
+
+408
+00:22:23,807 --> 00:22:26,002
+No, no quiero.
+Crees que no.
+
+409
+00:22:26,567 --> 00:22:27,682
+¿Y te ha visto fumar?
+
+410
+00:22:28,407 --> 00:22:29,522
+Procuro que no.
+
+411
+00:22:31,447 --> 00:22:35,440
+Julien nos da una vara... Odia
+las drogas. En eso sí estoy tranquila.
+
+412
+00:22:39,007 --> 00:22:41,441
+Voy a hacer el curso de surf.
+
+413
+00:22:41,607 --> 00:22:43,563
+- Qué guay.
+- ¿y tú?
+
+414
+00:22:44,327 --> 00:22:46,477
+No sé. Como papá
+vuelve a tirarse a mamá...
+
+415
+00:22:46,647 --> 00:22:47,966
+- ¡No!
+- SÍ.
+
+416
+00:22:48,127 --> 00:22:50,846
+- A lo mejor cambia todo.
+- ¿y estás contenta?
+
+417
+00:22:51,687 --> 00:22:53,803
+Hace mucho que paso
+de sus movidas.
+
+418
+00:22:53,967 --> 00:22:55,286
+Viva el optimismo.
+
+419
+00:22:57,607 --> 00:22:58,676
+Julien...
+
+420
+00:23:00,327 --> 00:23:01,806
+Quería pedirte un favor.
+
+421
+00:23:06,727 --> 00:23:08,046
+¿Hacemos el amor?
+
+422
+00:23:11,847 --> 00:23:12,882
+No, no, no.
+
+423
+00:23:13,367 --> 00:23:15,437
+Las mujeres no folláis
+así sin más...
+
+424
+00:23:17,367 --> 00:23:18,925
+Necesitáis sentimiento.
+
+425
+00:23:19,087 --> 00:23:20,076
+¿Senti-qué?
+
+426
+00:23:20,247 --> 00:23:21,680
+Vosotras no os vais de putas.
+
+427
+00:23:21,847 --> 00:23:23,439
+¿Y tú sí?
+
+428
+00:23:23,607 --> 00:23:26,201
+yo no, hablo en general.
+No podéis decir
+
+429
+00:23:26,367 --> 00:23:29,006
+que la sexualidad es igual
+para hombres y mujeres.
+
+430
+00:23:30,447 --> 00:23:32,358
+¿y dónde está la diferencia?
+
+431
+00:23:32,527 --> 00:23:34,518
+No, explícamelo,
+
+432
+00:23:34,927 --> 00:23:36,440
+me interesa.
+
+433
+00:23:36,607 --> 00:23:38,677
+- y a mí.
+- Contigo ya no hablo.
+
+434
+00:23:39,487 --> 00:23:41,762
+No es como si te pidiera
+la eutanasia.
+
+435
+00:23:41,927 --> 00:23:45,044
+Pero bueno, aunque quisiera,
+y no es el caso...
+
+436
+00:23:45,327 --> 00:23:46,555
+- No podría.
+- ¿Por qué?
+
+437
+00:23:46,727 --> 00:23:48,365
+Porque te respeto demasiado.
+
+438
+00:23:49,207 --> 00:23:51,118
+Qué coñazo sois con lo del respeto.
+
+439
+00:23:52,127 --> 00:23:54,687
+Si no os respetamos,
+somos unos cabrones.
+
+440
+00:23:54,847 --> 00:23:58,157
+- Si os respetamos, somos un coñazo.
+- Hace 8 años que nos conocemos.
+
+441
+00:23:58,327 --> 00:23:59,157
+Por eso mismo.
+
+442
+00:23:59,327 --> 00:24:03,525
+"¿Te acuestas conmigo?"?
+
+443
+00:24:03,687 --> 00:24:05,120
+¿Tú qué dirías?
+
+444
+00:24:05,287 --> 00:24:06,515
+Que sí.
+
+445
+00:24:07,207 --> 00:24:09,357
+Pues yo digo que no. No.
+
+446
+00:24:09,527 --> 00:24:11,119
+- Lo he pillado.
+- Hazlo con tu chico.
+
+447
+00:24:11,287 --> 00:24:12,720
+¿Con mi chico?
+
+448
+00:24:12,887 --> 00:24:14,206
+SÍ, es más lógico.
+
+449
+00:24:14,367 --> 00:24:16,039
+No, o no te lo habría pedido.
+
+450
+00:24:16,207 --> 00:24:18,641
+Le dije que no era virgen
+y verá que le he mentido.
+
+451
+00:24:20,767 --> 00:24:22,837
+Las tías estáis locas.
+
+452
+00:24:23,247 --> 00:24:25,442
+De locas, nada.
+Mira cómo se desmadra Lucie.
+
+453
+00:24:25,767 --> 00:24:27,246
+Se desmadra...
+
+454
+00:24:28,527 --> 00:24:30,961
+Desde que se separó,
+ha conocido a mil hombres.
+
+455
+00:24:31,127 --> 00:24:32,924
+y no sólo por Internet.
+
+456
+00:24:33,567 --> 00:24:35,922
+No para de follar
+y pasa del muermo de la pareja.
+
+457
+00:24:37,247 --> 00:24:39,477
+Bienvenido al siglo XXI,
+cariño.
+
+458
+00:24:39,887 --> 00:24:41,798
+Lucie es una puta.
+
+459
+00:24:42,647 --> 00:24:45,684
+Que tenga amantes
+no significa que sea una puta.
+
+460
+00:24:46,207 --> 00:24:48,038
+De todas formas,
+estoy solo.
+
+461
+00:24:48,847 --> 00:24:51,441
+- Pobrecito.
+- ¿y a Alain, le ves?
+
+462
+00:24:51,847 --> 00:24:54,202
+No. Sólo por los niños.
+
+463
+00:24:55,847 --> 00:24:57,519
+Le hemos visto con una tía.
+
+464
+00:24:57,687 --> 00:24:58,642
+¿Qué?
+
+465
+00:24:58,807 --> 00:25:01,275
+Alain, le vimos con una tía,
+una rubia.
+
+466
+00:25:01,447 --> 00:25:03,483
+No sabemos si estaba
+con ella.
+
+467
+00:25:03,847 --> 00:25:05,724
+"No sabemos
+si estaba con ella"...
+
+468
+00:25:05,887 --> 00:25:06,922
+Morreándose con ella
+
+469
+00:25:07,087 --> 00:25:09,601
+y sobándole el culo.
+¿Qué más quieres, Colombo?
+
+470
+00:25:09,767 --> 00:25:10,916
+Venga ya.
+
+471
+00:25:14,447 --> 00:25:16,324
+¿Qué pasa?
+¿He metido la pata?
+
+472
+00:25:16,487 --> 00:25:17,602
+¿Te jode?
+
+473
+00:25:17,847 --> 00:25:19,200
+No, no, ¿por qué?
+
+474
+00:25:19,367 --> 00:25:20,766
+No sé...
+
+475
+00:25:22,247 --> 00:25:23,362
+¿Quieres tarta?
+
+476
+00:25:26,487 --> 00:25:27,886
+QuÍtate los zapatos.
+
+477
+00:25:28,527 --> 00:25:30,199
+Están dormidos.
+
+478
+00:25:30,367 --> 00:25:31,720
+Pero la escalera cruje.
+
+479
+00:25:34,087 --> 00:25:36,043
+Como un ladrón
+en mi propia casa.
+
+480
+00:25:36,287 --> 00:25:37,436
+Ex casa.
+
+481
+00:25:47,047 --> 00:25:49,242
+No estarás viendo a otras mujeres...
+
+482
+00:25:49,407 --> 00:25:50,442
+¿Qué?
+
+483
+00:25:51,447 --> 00:25:52,800
+Me has oído.
+
+484
+00:25:56,047 --> 00:25:57,366
+Preguntas si...
+
+485
+00:25:58,367 --> 00:26:00,562
+- ¿me acuesto con otras?
+- Sí.
+
+486
+00:26:01,967 --> 00:26:03,480
+¿Estás loca?
+
+487
+00:26:04,567 --> 00:26:06,956
+¿Así que no ves
+a ninguna mujer?
+
+488
+00:26:10,607 --> 00:26:12,245
+No sé, para mí...
+
+489
+00:26:12,807 --> 00:26:16,038
+hemos vuelto, es una locura
+que me preguntes eso.
+
+490
+00:26:16,207 --> 00:26:17,845
+Es una locura.
+Qué locura, ¿eh?
+
+491
+00:26:27,287 --> 00:26:28,800
+Espera, un momento.
+
+492
+00:26:30,527 --> 00:26:32,995
+Sí, mamá. Estoy en casa
+de Arthur, ya voy.
+
+493
+00:26:33,727 --> 00:26:35,604
+Acabo las mates y voy.
+
+494
+00:26:35,767 --> 00:26:36,722
+Un beso.
+
+495
+00:26:37,727 --> 00:26:39,524
+- Tengo que irme.
+- Así es imposible.
+
+496
+00:26:39,687 --> 00:26:41,996
+¿Qué quieres que haga?
+Además, Medhi no está.
+
+497
+00:26:42,167 --> 00:26:45,284
+Por eso mismo. Él no viene,
+tú te piras. Tómatelo en serio.
+
+498
+00:26:45,447 --> 00:26:47,677
+- Nos saldrá bien.
+- Para nada.
+
+499
+00:26:47,847 --> 00:26:50,566
+Competimos con tíos de no sé dónde.
+
+500
+00:26:50,727 --> 00:26:52,638
+La música es su vida.
+
+501
+00:26:52,807 --> 00:26:55,924
+y la mía, ¿crees que quiero
+acabar como mi padre?
+
+502
+00:26:56,087 --> 00:26:58,362
+Si puedo volver, os llamo.
+Lo siento.
+
+503
+00:26:59,207 --> 00:27:01,163
+Es un coñazo.
+
+504
+00:27:02,127 --> 00:27:02,684
+Toma.
+
+505
+00:27:02,847 --> 00:27:04,565
+- ¿Cómo os llamáis?
+- No Shampoo.
+
+506
+00:27:04,727 --> 00:27:07,116
+- ¿y qué música hacéis?
+- Pop folk.
+
+507
+00:27:07,287 --> 00:27:09,642
+¿Y qué es... folk?
+
+508
+00:27:09,807 --> 00:27:12,799
+- ¿Qué es folk? No es lo tuyo.
+- Pues no voy.
+
+509
+00:27:12,967 --> 00:27:15,720
+- ¿Tú repartes flyers?
+- Las guapas venden.
+
+510
+00:27:15,887 --> 00:27:17,684
+Claro, eres una profesional.
+
+511
+00:27:18,247 --> 00:27:19,999
+- No tengas celos.
+- No te preocupes.
+
+512
+00:27:20,167 --> 00:27:21,316
+Tranquila.
+
+513
+00:27:24,047 --> 00:27:25,958
+¡No se va nadie sin su flyer!
+
+514
+00:27:26,367 --> 00:27:27,720
+Orden de la Dirección.
+
+515
+00:27:28,767 --> 00:27:31,565
+- Festival Emergenza. En el 11º.
+- ¿Dónde está el 11º?
+
+516
+00:27:31,727 --> 00:27:33,718
+Para tus amigos,
+tu abuela, tu tío...
+
+517
+00:28:21,927 --> 00:28:23,326
+Está en el bote, tíos.
+
+518
+00:28:23,487 --> 00:28:25,125
+- ¿Tú crees?
+- Fijo.
+
+519
+00:28:25,287 --> 00:28:26,561
+Nos han preseleccionado.
+
+520
+00:28:26,727 --> 00:28:27,762
+No me lo creo.
+
+521
+00:28:27,927 --> 00:28:30,395
+Flipé cuando
+levantaban las manos.
+
+522
+00:28:31,487 --> 00:28:32,920
+Estabas guapísimo.
+
+523
+00:28:33,087 --> 00:28:34,486
+Tú eres la más guapa.
+
+524
+00:28:37,167 --> 00:28:37,963
+Maël.
+
+525
+00:28:38,367 --> 00:28:40,323
+Maël. ¿Vamos?
+
+526
+00:28:42,727 --> 00:28:44,399
+- Tranqui.
+- Venga, vamos.
+
+527
+00:28:48,127 --> 00:28:49,355
+Hola.
+
+528
+00:28:50,367 --> 00:28:52,164
+Buenas noches.
+Perdonad, lo siento.
+
+529
+00:28:52,327 --> 00:28:54,124
+- ¿Qué tal?
+- ¿Dónde estabas?
+
+530
+00:28:54,367 --> 00:28:58,155
+Con Arthur, preparando un control
+de mates, hemos tardado algo.
+
+531
+00:28:58,327 --> 00:28:59,806
+- ¿Todo bien?
+- SÍ, muy bien.
+
+532
+00:28:59,967 --> 00:29:01,082
+¿Y tú le crees?
+
+533
+00:29:05,047 --> 00:29:07,117
+- ¿Quieres sopa?
+- SÍ, por favor.
+
+534
+00:29:10,527 --> 00:29:13,405
+Papá, te hablé de un festival
+de música Emergenza.
+
+535
+00:29:13,847 --> 00:29:15,405
+Si te seleccionan,
+
+536
+00:29:15,927 --> 00:29:18,236
+grabas un álbum
+con productores y todo.
+
+537
+00:29:18,407 --> 00:29:19,681
+Muchas gracias.
+
+538
+00:29:19,847 --> 00:29:21,246
+Me gustaría participar.
+
+539
+00:29:23,527 --> 00:29:25,165
+¿Me pasas la sal,
+por favor?
+
+540
+00:29:26,247 --> 00:29:28,761
+¿Has oído lo que te he dicho?
+
+541
+00:29:29,087 --> 00:29:30,600
+¿Has oído
+lo que te he pedido?
+
+542
+00:29:32,207 --> 00:29:33,401
+Pásale la sal.
+
+543
+00:29:34,287 --> 00:29:35,163
+Toma.
+
+544
+00:29:35,847 --> 00:29:36,802
+Gracias.
+
+545
+00:29:37,887 --> 00:29:38,956
+De nada.
+
+546
+00:29:46,447 --> 00:29:48,642
+- Deja ya de seguirme.
+- Sí, en sueños.
+
+547
+00:29:48,807 --> 00:29:50,604
+Lárgate, putón.
+
+548
+00:29:50,927 --> 00:29:52,758
+¿Por qué me tratas así?
+
+549
+00:29:52,927 --> 00:29:54,883
+Me excitas tanto
+cuando te cabreas...
+
+550
+00:29:56,407 --> 00:29:57,840
+¡Estoy harta, joder!
+
+551
+00:29:58,007 --> 00:29:59,645
+¡Lola, para! ¡Lola, para!
+
+552
+00:30:01,207 --> 00:30:03,118
+¡Para, Arthur, joder!
+¿A qué juegas?
+
+553
+00:30:03,287 --> 00:30:04,276
+Tú, a callar.
+
+554
+00:30:04,447 --> 00:30:06,039
+¡y he salido
+con este gilipollas!
+
+555
+00:30:06,207 --> 00:30:07,481
+¡Para, Arthur!
+
+556
+00:30:07,647 --> 00:30:09,797
+- ¡No te hagas el justiciero!
+- ¿Qué dices?
+
+557
+00:30:09,967 --> 00:30:12,276
+Por eso se separaron
+los Beatles, por una tía.
+
+558
+00:30:12,447 --> 00:30:14,802
+Qué chorrada.
+Venga, ya basta.
+
+559
+00:30:14,967 --> 00:30:17,117
+Te juro que le mato.
+
+560
+00:30:21,007 --> 00:30:22,406
+Estoy harta de ese tío.
+
+561
+00:30:23,207 --> 00:30:24,845
+¿Dónde creen que están?
+
+562
+00:30:25,367 --> 00:30:27,597
+Le prometo que no he sido yo.
+
+563
+00:30:27,767 --> 00:30:30,122
+Es él, no para de insultarme.
+
+564
+00:30:31,407 --> 00:30:33,079
+No llame a mi madre,
+por favor.
+
+565
+00:30:34,087 --> 00:30:37,045
+Ya puedes ir diciendo
+que se anula tu cumpleaños.
+
+566
+00:30:37,767 --> 00:30:39,485
+No puedes hacerme eso.
+
+567
+00:30:39,647 --> 00:30:42,719
+SÍ puedo. Lo de las malas notas,
+lo entiendo.
+
+568
+00:30:42,887 --> 00:30:44,605
+Pero problemas
+de disciplina, no.
+
+569
+00:30:44,887 --> 00:30:46,843
+Ha sido Arthur,
+que me ha llamado puta.
+
+570
+00:30:47,007 --> 00:30:49,680
+¿Qué podía hacer?
+¿Dejar que me insultara?
+
+571
+00:30:49,847 --> 00:30:52,645
+- ¿Arthur? ¿Tu Arthur?
+- Sí. y ya no es mi Arthur.
+
+572
+00:30:52,807 --> 00:30:54,206
+¿Y por qué te ha insultado?
+
+573
+00:30:54,447 --> 00:30:56,915
+No voy a entrar
+en detalles, es mi vida.
+
+574
+00:30:57,087 --> 00:30:58,725
+Vale, vale. Lo anulamos.
+
+575
+00:30:59,607 --> 00:31:01,677
+- Vale, pero eso es chantaje.
+- Sí.
+
+576
+00:31:02,127 --> 00:31:03,765
+- No tienes derecho.
+- ya lo sé.
+
+577
+00:31:03,927 --> 00:31:05,155
+Eres un coñazo.
+
+578
+00:31:05,327 --> 00:31:07,841
+- Lo celebraremos en el cine.
+- Genial.
+
+579
+00:31:08,807 --> 00:31:10,035
+Vale, tú ganas.
+
+580
+00:31:11,047 --> 00:31:13,515
+Arthur se ha acostado
+con una chica este verano.
+
+581
+00:31:13,687 --> 00:31:15,598
+He fingido
+que me daba igual.
+
+582
+00:31:15,767 --> 00:31:17,359
+y le he dicho
+que yo también.
+
+583
+00:31:18,327 --> 00:31:19,965
+- ¿Es verdad?
+- Qué va.
+
+584
+00:31:20,127 --> 00:31:22,880
+¿Sólo te interesa saber
+si me he acostado con un tío?
+
+585
+00:31:23,047 --> 00:31:24,958
+No, no me interesa sólo eso.
+
+586
+00:31:25,767 --> 00:31:28,565
+No quiero que hagas tonterías,
+y menos aún por despecho.
+
+587
+00:31:28,727 --> 00:31:30,126
+¿Por qué?
+
+588
+00:31:30,767 --> 00:31:32,280
+Generación de incultos...
+
+589
+00:31:32,447 --> 00:31:35,245
+Es broma, mamita.
+Bueno, ¿sí o no?
+
+590
+00:31:35,767 --> 00:31:37,200
+Lo de mi cumpleaños.
+
+591
+00:31:38,407 --> 00:31:39,681
+Porfi.
+
+592
+00:31:41,927 --> 00:31:43,440
+Gracias, mamita.
+
+593
+00:31:44,247 --> 00:31:45,885
+¿Y me prestarás tu collar?
+
+594
+00:31:50,807 --> 00:31:52,365
+¿Me dices tu nombre?
+
+595
+00:31:52,527 --> 00:31:54,597
+No, anónimo. Más excitante.
+
+596
+00:32:11,967 --> 00:32:14,242
+- ¿Estoy dentro?
+- Sí.
+
+597
+00:32:17,487 --> 00:32:19,842
+Un pollo no desaparece
+sin más ni más.
+
+598
+00:32:33,967 --> 00:32:34,922
+¡Léon!
+
+599
+00:32:35,447 --> 00:32:36,960
+¿Has cogido el pollo?
+
+600
+00:32:37,127 --> 00:32:38,162
+Mierda.
+
+601
+00:32:39,447 --> 00:32:40,402
+¡Léon!
+
+602
+00:32:42,047 --> 00:32:43,275
+¡Contéstame!
+
+603
+00:32:44,807 --> 00:32:46,763
+Léon, ¿dónde está el pollo?
+
+604
+00:32:49,407 --> 00:32:51,045
+- ¿Me oyes?
+- ¿Qué?
+
+605
+00:32:51,207 --> 00:32:53,243
+- ¿Has cogido el pollo?
+- ¡No he hecho nada!
+
+606
+00:32:53,407 --> 00:32:56,843
+- ¿No has hecho nada?
+- ¡No he sido yo, siempre acusándome!
+
+607
+00:32:57,007 --> 00:32:58,599
+¿y esto? ¿No es un pollo?
+
+608
+00:32:58,767 --> 00:32:59,802
+¿No es un pollo?
+
+609
+00:32:59,967 --> 00:33:01,559
+- ¡Odio las mentiras!
+- ¡No he sido yo!
+
+610
+00:33:01,727 --> 00:33:03,763
+- ¡Las odio!
+- ¡Te lo juro!
+
+611
+00:33:07,167 --> 00:33:08,600
+Joder, estoy harto.
+
+612
+00:33:10,727 --> 00:33:12,080
+¿Con quién te vas
+este finde?
+
+613
+00:33:12,247 --> 00:33:13,680
+Con una amiga.
+
+614
+00:33:13,847 --> 00:33:15,599
+- ¿La conozco?
+- No.
+
+615
+00:33:15,767 --> 00:33:18,042
+No te olvides de llamar a los niños.
+
+616
+00:33:18,727 --> 00:33:22,766
+Mamá, Lola hará la compra y pedirá
+las pizzas, ¿entendido?
+
+617
+00:33:22,927 --> 00:33:26,522
+Te conozco, va a hacer
+lo que quiera.
+
+618
+00:33:26,687 --> 00:33:28,279
+- No tienen corazón.
+- No.
+
+619
+00:33:28,447 --> 00:33:30,563
+Date prisa, vas a llegar tarde.
+
+620
+00:33:30,727 --> 00:33:32,046
+- Tu bolso.
+- ¿Me estáis echando?
+
+621
+00:33:32,207 --> 00:33:33,481
+- Sí.
+- Qué va.
+
+622
+00:33:33,647 --> 00:33:35,365
+- Adiós.
+- Adiós.
+
+623
+00:33:37,687 --> 00:33:39,564
+Reconócelo, sabías lo de papá.
+
+624
+00:33:39,807 --> 00:33:41,001
+FÍjate.
+
+625
+00:33:41,527 --> 00:33:43,518
+- Como adolescentes.
+- SÍ.
+
+626
+00:33:44,287 --> 00:33:46,755
+Por desgracia, los adolescentes
+ya no son así.
+
+627
+00:33:54,447 --> 00:33:56,039
+Sitio para el vodka.
+
+628
+00:33:57,527 --> 00:33:59,245
+¿No quieres un embudo?
+
+629
+00:33:59,407 --> 00:34:01,238
+- ¿Un qué?
+- Olvídalo.
+
+630
+00:34:04,007 --> 00:34:05,520
+¿No es demasiado?
+
+631
+00:34:05,687 --> 00:34:07,803
+Tranquila, mi madre
+se toma tres al día.
+
+632
+00:34:07,967 --> 00:34:09,082
+Aun así.
+
+633
+00:34:11,127 --> 00:34:12,640
+yo flipo.
+
+634
+00:34:12,807 --> 00:34:15,958
+Va a ser la mejor noche
+de su vida, y de la nuestra.
+
+635
+00:34:16,607 --> 00:34:17,756
+Disculpe, señora.
+
+636
+00:34:19,327 --> 00:34:21,079
+¿Quiere tomar algo?
+
+637
+00:34:21,447 --> 00:34:22,766
+Sí, una Coca...
+
+638
+00:34:23,767 --> 00:34:25,485
+Con una gota de whisky.
+
+639
+00:34:25,647 --> 00:34:26,682
+Joder.
+
+640
+00:34:26,967 --> 00:34:28,161
+¿Y usted qué toma?
+
+641
+00:34:28,327 --> 00:34:30,921
+- Sólo agua.
+- Eso está bien.
+
+642
+00:34:31,847 --> 00:34:34,566
+- La abuelita va a volar.
+- No digas eso.
+
+643
+00:34:35,647 --> 00:34:37,956
+¿No es peligroso,
+alcohol con pastillas?
+
+644
+00:34:38,847 --> 00:34:39,962
+¿Estás segura?
+
+645
+00:34:40,647 --> 00:34:42,763
+- Claro. Toma.
+- No, se lo das tú.
+
+646
+00:34:43,567 --> 00:34:44,966
+Qué coñazo eres.
+
+647
+00:34:47,287 --> 00:34:48,436
+Aquí tiene, señora.
+
+648
+00:34:48,607 --> 00:34:49,596
+Gracias.
+
+649
+00:34:55,087 --> 00:34:56,566
+¿Está bien fresquito?
+
+650
+00:34:56,727 --> 00:34:58,160
+Perfecto, gracias.
+
+651
+00:35:00,247 --> 00:35:01,282
+¿Charlotte?
+
+652
+00:35:01,447 --> 00:35:02,766
+- ¿Qué tal?
+- Bien, ¿y tú?
+
+653
+00:35:02,927 --> 00:35:03,962
+Bien.
+
+654
+00:35:05,167 --> 00:35:06,680
+¿Es tuya esa camiseta?
+
+655
+00:35:06,847 --> 00:35:09,441
+No, de mi abuela.
+Pero me la ha prestado.
+
+656
+00:35:09,607 --> 00:35:11,802
+Déjate de chorradas,
+¿tiene muchas?
+
+657
+00:35:12,767 --> 00:35:15,440
+No puedo preguntárselo,
+está muerta.
+
+658
+00:35:16,407 --> 00:35:18,443
+Joder.
+
+659
+00:35:18,607 --> 00:35:21,167
+Tranquila, no sufrió.
+
+660
+00:35:21,327 --> 00:35:22,965
+- Es broma.
+- Gracias.
+
+661
+00:35:23,807 --> 00:35:25,877
+- Pero ¿tú estás bien?
+- SÍ.
+
+662
+00:35:26,487 --> 00:35:27,806
+Toma, fuma.
+
+663
+00:35:28,287 --> 00:35:29,720
+Cuidado, está fuerte.
+
+664
+00:35:41,007 --> 00:35:43,396
+¿Seguro que no va
+a despertarse?
+
+665
+00:35:44,007 --> 00:35:46,362
+Tranqui, lleva
+una buena dosis.
+
+666
+00:35:46,527 --> 00:35:48,199
+- ¿Tienes condones?
+- No.
+
+667
+00:35:48,367 --> 00:35:51,803
+No había previsto
+que volveríamos a salir.
+
+668
+00:35:52,207 --> 00:35:53,435
+ya, genial.
+
+669
+00:35:58,287 --> 00:36:00,323
+¿Ves? Aquí tienes tu trío.
+
+670
+00:36:00,927 --> 00:36:02,246
+Sí, cojonudo.
+
+671
+00:36:04,847 --> 00:36:06,838
+Joder, estoy colocado.
+
+672
+00:36:07,407 --> 00:36:09,159
+yo también,
+he bebido demasiado.
+
+673
+00:36:09,767 --> 00:36:11,598
+Me apetece mucho besarte.
+
+674
+00:36:11,767 --> 00:36:12,722
+Y a mí.
+
+675
+00:36:12,887 --> 00:36:14,115
+Lola, vamos a bailar.
+
+676
+00:36:50,007 --> 00:36:51,156
+Lo siento.
+
+677
+00:36:51,807 --> 00:36:54,367
+Creo que he bebido demasiado,
+no sé qué me pasa.
+
+678
+00:36:55,287 --> 00:36:57,278
+Tranquilo, tenemos tiempo.
+
+679
+00:36:57,447 --> 00:36:59,961
+Calla, parece un culebrón.
+
+680
+00:37:00,127 --> 00:37:01,276
+Es verdad.
+
+681
+00:37:01,767 --> 00:37:03,200
+El fuego del amor.
+
+682
+00:37:04,367 --> 00:37:05,595
+No sé.
+
+683
+00:37:06,247 --> 00:37:08,203
+Nos conocemos
+desde hace demasiado tiempo.
+
+684
+00:37:08,647 --> 00:37:10,160
+Estamos demasiado cerca.
+
+685
+00:37:10,327 --> 00:37:11,806
+Está claro,
+sobre todo ahora.
+
+686
+00:37:11,967 --> 00:37:13,400
+Sí, sobre todo ahora.
+
+687
+00:37:18,047 --> 00:37:20,083
+Una buena noticia
+y una mala.
+
+688
+00:37:21,047 --> 00:37:23,163
+mamá ha vuelto
+a dejar a papá
+
+689
+00:37:23,327 --> 00:37:25,636
+porque ha vuelto a mentir
+sobre sus "relaciones".
+
+690
+00:37:27,047 --> 00:37:30,119
+ha vuelto del finde
+antes de lo previsto...
+
+691
+00:37:33,447 --> 00:37:35,324
+y no habíamos acabado
+de limpiar.
+
+692
+00:37:35,487 --> 00:37:36,602
+¡Lola!
+
+693
+00:37:37,167 --> 00:37:38,236
+¡Lola!
+
+694
+00:37:41,487 --> 00:37:42,761
+¿Qué tal, mamá?
+
+695
+00:37:43,127 --> 00:37:45,118
+¿Primero los porros,
+o los condones?
+
+696
+00:37:45,287 --> 00:37:47,517
+- yo no he sido.
+- Basta, mamá.
+
+697
+00:37:48,127 --> 00:37:50,687
+- Te lo explicaré.
+- Eso, explícamelo.
+
+698
+00:37:51,167 --> 00:37:52,759
+Stéphane ha vuelto
+con Medhi.
+
+699
+00:37:52,927 --> 00:37:54,406
+¿y han vaciado la caja
+de condones?
+
+700
+00:37:54,567 --> 00:37:56,523
+Puedo sacar la basura.
+
+701
+00:37:56,687 --> 00:37:58,564
+Mamá, ya basta, gracias.
+
+702
+00:37:59,127 --> 00:38:01,277
+- Te escucho.
+- yo qué sé, no estaba con ellos.
+
+703
+00:38:01,447 --> 00:38:02,846
+Estaba aquí y...
+
+704
+00:38:03,007 --> 00:38:05,043
+- ¿Me tomas el pelo?
+- No, te lo prometo.
+
+705
+00:38:05,607 --> 00:38:08,485
+¡Sí, me estás tomando el pelo!
+
+706
+00:38:08,647 --> 00:38:12,162
+Sólo son unos porros, tú te los fumas
+todas las noches en tu cuarto.
+
+707
+00:38:12,927 --> 00:38:15,566
+¿Cómo? Pero yo tengo 40 años.
+
+708
+00:38:15,727 --> 00:38:18,924
+Tengo el bachillerato, arquitectura,
+cuando tú lo tengas, hablamos.
+
+709
+00:38:19,207 --> 00:38:21,402
+Cómo vuelva a encontrar
+esto en casa,
+
+710
+00:38:21,567 --> 00:38:22,841
+te largas con tu padre.
+
+711
+00:38:23,007 --> 00:38:26,966
+Estás deseando que me vaya con él,
+que me largue.
+
+712
+00:38:27,127 --> 00:38:29,243
+Para desmadrarte
+como una adolescente.
+
+713
+00:38:29,407 --> 00:38:31,875
+¡Porque me tienes envidia!
+
+714
+00:38:33,247 --> 00:38:34,475
+¡A la mierda!
+
+715
+00:38:35,767 --> 00:38:38,964
+Eres tan aburrida que no has
+podido encontrar otro hombre.
+
+716
+00:38:39,127 --> 00:38:41,402
+No has podido en 40 años.
+
+717
+00:38:45,807 --> 00:38:47,957
+¿Tú también te colocas
+con porros?
+
+718
+00:38:50,047 --> 00:38:52,242
+¿Os habéis puesto de acuerdo
+para darme el coñazo?
+
+719
+00:38:52,407 --> 00:38:53,806
+¡Ya vale!
+
+720
+00:38:55,927 --> 00:38:58,202
+yo no vuelvo a hacer
+favores de éstos.
+
+721
+00:39:07,367 --> 00:39:09,517
+- ¿Qué quieres?
+- ¿Qué quiero?
+
+722
+00:39:09,767 --> 00:39:12,201
+Que dejemos de pelearnos
+por nada.
+
+723
+00:39:12,367 --> 00:39:14,517
+¿Tirarte a putas no es nada?
+
+724
+00:39:14,967 --> 00:39:17,242
+Estoy harta,
+no pienso esforzarme más.
+
+725
+00:39:17,407 --> 00:39:21,002
+Eres lo mejor que me ha pasado
+jamás, pero también lo peor.
+
+726
+00:39:22,007 --> 00:39:24,237
+Escucha, te juro...
+
+727
+00:39:24,407 --> 00:39:26,045
+¡Deja ya de jurar!
+
+728
+00:39:26,207 --> 00:39:28,562
+¡Y dejad todos
+de mentirme, joder!
+
+729
+00:39:34,287 --> 00:39:35,606
+¿Unos mimos?
+
+730
+00:39:46,367 --> 00:39:48,961
+LOS PELIGROS DEL CANNABIS
+
+731
+00:39:49,927 --> 00:39:51,804
+Silencio, por favor.
+
+732
+00:39:52,367 --> 00:39:54,039
+Aún quedan asientos
+delante.
+
+733
+00:40:00,767 --> 00:40:02,758
+¡Venga! ¡Dense prisa!
+
+734
+00:40:05,847 --> 00:40:08,281
+Les presento
+al señor François,
+
+735
+00:40:08,567 --> 00:40:10,444
+de la Brigada
+de Estupefacientes.
+
+736
+00:40:13,127 --> 00:40:15,687
+No empezaremos la conferencia
+
+737
+00:40:15,847 --> 00:40:19,044
+hasta que haya un silencio total.
+
+738
+00:40:19,527 --> 00:40:22,200
+Eso va también por usted,
+señor Collet.
+
+739
+00:40:22,367 --> 00:40:25,439
+- ¿Es verdad que te has tirado a Lola?
+- ¿Qué dices?
+
+740
+00:40:25,607 --> 00:40:28,644
+Ya me parecía que mi mejor amigo
+no podía hacerme eso.
+
+741
+00:40:31,207 --> 00:40:33,437
+El Ministerio de Sanidad informa.
+
+742
+00:40:33,607 --> 00:40:35,563
+UN PELIGRO
+PARA LAJUVENTUD
+
+743
+00:40:37,647 --> 00:40:38,841
+ya, vale.
+
+744
+00:40:39,967 --> 00:40:44,279
+Bien. Esto es el cerebro
+de un adolescente de 15 años
+
+745
+00:40:44,447 --> 00:40:45,880
+que no se droga.
+
+746
+00:40:46,447 --> 00:40:49,359
+La zona azul
+aún tiene que desarrollarse.
+
+747
+00:40:49,527 --> 00:40:52,041
+Esto ocurre cuando está
+en contacto con THC.
+
+748
+00:40:53,247 --> 00:40:56,000
+A ti no puede pasarte,
+no tienes cerebro.
+
+749
+00:40:57,487 --> 00:40:58,636
+A callar.
+
+750
+00:40:59,327 --> 00:41:00,601
+...todavía más peligroso.
+
+751
+00:41:01,487 --> 00:41:04,957
+El problema es que las Zonas dañadas
+quedan dañadas de por vida.
+
+752
+00:41:05,207 --> 00:41:07,277
+Lo cual daría esto.
+
+753
+00:41:08,407 --> 00:41:09,476
+¿Has visto?
+
+754
+00:41:10,447 --> 00:41:11,516
+¿Qué?
+
+755
+00:41:12,327 --> 00:41:14,363
+Eso. El partido de fútbol.
+
+756
+00:41:14,527 --> 00:41:15,846
+yo no fumo.
+
+757
+00:41:16,287 --> 00:41:17,845
+- ¿No?
+- No.
+
+758
+00:41:18,447 --> 00:41:20,278
+A veces puede ocasionar
+
+759
+00:41:20,447 --> 00:41:22,836
+el agravamiento o aparición
+de una enfermedad mental
+
+760
+00:41:23,287 --> 00:41:24,720
+llamada "esquizofrenia".
+
+761
+00:41:25,807 --> 00:41:27,877
+¿Has visto lo que hacen las drogas?
+
+762
+00:41:28,247 --> 00:41:30,397
+Pues anda que tú
+con tus medicamentos...
+
+763
+00:41:30,567 --> 00:41:31,602
+¿Tienes fuego?
+
+764
+00:41:31,767 --> 00:41:33,758
+- Aquí no se puede fumar.
+- ¿y eso?
+
+765
+00:41:33,927 --> 00:41:34,996
+Estamos en un instituto.
+
+766
+00:41:35,167 --> 00:41:37,635
+¡Mierda!, me apetece un cigarrillo.
+
+767
+00:41:38,007 --> 00:41:41,044
+- ¿Por qué corres?
+- Hay alguien a quien no quiero ver.
+
+768
+00:41:41,207 --> 00:41:42,196
+- ¿Quién?
+- Nadie.
+
+769
+00:41:42,367 --> 00:41:43,083
+Hola.
+
+770
+00:41:43,367 --> 00:41:44,800
+¿Qué tal?
+
+771
+00:41:44,967 --> 00:41:46,286
+- ¿y tú?
+- Bien.
+
+772
+00:41:46,887 --> 00:41:49,082
+- Ha sido interesante.
+- Ha estado bien.
+
+773
+00:41:49,567 --> 00:41:52,559
+- ¿Cambiará algo?
+- Pero está bien hablarlo.
+
+774
+00:41:52,727 --> 00:41:54,399
+- Hola.
+- Hola.
+
+775
+00:41:54,567 --> 00:41:55,158
+Hola.
+
+776
+00:41:55,527 --> 00:41:57,324
+- Ha estado genial.
+- Muchas gracias.
+
+777
+00:41:58,567 --> 00:42:00,046
+¿Qué tal el tacón?
+
+778
+00:42:00,847 --> 00:42:02,997
+El tacón... SÍ, bien.
+
+779
+00:42:03,567 --> 00:42:06,286
+- Os dejo, hasta luego.
+- Hasta pronto.
+
+780
+00:42:07,727 --> 00:42:09,683
+Dos veces por casualidad
+son muchas veces.
+
+781
+00:42:10,727 --> 00:42:12,319
+- ¿Se conocen?
+- No sé.
+
+782
+00:42:12,487 --> 00:42:14,079
+¿Viene a tomar algo?
+
+783
+00:42:15,807 --> 00:42:17,001
+No es una pregunta.
+
+784
+00:42:17,367 --> 00:42:18,800
+Viene a tomar algo.
+
+785
+00:42:18,967 --> 00:42:20,116
+De acuerdo. Bueno...
+
+786
+00:42:20,287 --> 00:42:22,847
+El poli va a esposar
+a tu madre a la cama.
+
+787
+00:42:23,007 --> 00:42:25,043
+SÍ, yo voy a esposarte a ti.
+
+788
+00:42:25,887 --> 00:42:27,843
+La Post-it
+se le ha pegado a Maël.
+
+789
+00:42:28,007 --> 00:42:29,918
+La muy gilipollas
+no le deja en paz.
+
+790
+00:42:30,087 --> 00:42:32,885
+- Vamos a un café, díselo a tu madre.
+- Vale.
+
+791
+00:42:33,047 --> 00:42:34,685
+- ¿En serio?
+- Mamá.
+
+792
+00:42:35,727 --> 00:42:38,321
+Voy a dar una vuelta
+con los de clase.
+
+793
+00:42:38,487 --> 00:42:40,398
+- Lola, te presento a...
+- Lucas.
+
+794
+00:42:40,567 --> 00:42:41,761
+Lola, mi hija.
+
+795
+00:42:41,927 --> 00:42:44,646
+- Quiero que vuelvas a casa.
+- Por favor, van todos.
+
+796
+00:42:44,807 --> 00:42:47,799
+Ya, pero es así. La abuela
+no puede quedarse.
+
+797
+00:42:47,967 --> 00:42:50,879
+Cuidarás a tus hermanos,
+y de paso haces los deberes.
+
+798
+00:42:51,767 --> 00:42:53,485
+- Joder.
+- ¿Qué?
+
+799
+00:42:53,847 --> 00:42:55,678
+No, nada. Hasta luego.
+
+800
+00:42:58,047 --> 00:42:59,446
+¿Tomamos la copa?
+
+801
+00:43:00,127 --> 00:43:02,516
+- Creía que no era una pregunta.
+- Sí, es verdad.
+
+802
+00:43:03,687 --> 00:43:04,676
+¿Maël?
+
+803
+00:43:24,887 --> 00:43:26,161
+¿Te ha gustado?
+
+804
+00:43:26,687 --> 00:43:29,121
+SÍ, me ha gustado mucho.
+
+805
+00:43:29,287 --> 00:43:31,118
+Me das asco.
+¿y a ti, te ha gustado?
+
+806
+00:43:31,287 --> 00:43:32,561
+¿De qué hablas?
+
+807
+00:43:32,727 --> 00:43:34,797
+Al menos, reconócelo.
+
+808
+00:43:35,207 --> 00:43:36,560
+¿Pero qué te pasa?
+
+809
+00:43:36,727 --> 00:43:37,921
+¿Qué le has contado?
+
+810
+00:43:38,087 --> 00:43:41,636
+Nada. No es culpa mía si tu chica
+no tiene sentido del humor.
+
+811
+00:43:41,927 --> 00:43:42,916
+¡Lola!
+
+812
+00:43:50,127 --> 00:43:53,278
+Lo que ha pasado en el váter
+no sale de aquí.
+
+813
+00:43:54,207 --> 00:43:57,324
+Salgo yo. Esperas 5 minutos
+y sales tú, ¿está claro?
+
+814
+00:43:57,807 --> 00:43:59,479
+Sí, está claro.
+
+815
+00:44:03,567 --> 00:44:04,886
+- ¡Lola!
+- ¡Déjame!
+
+816
+00:44:05,047 --> 00:44:06,765
+- ¿A qué juegas?
+- ¡Déjame!
+
+817
+00:44:06,927 --> 00:44:09,725
+Todos saben que esa puta
+hace mamadas en el váter.
+
+818
+00:44:09,887 --> 00:44:10,922
+¿Qué?
+
+819
+00:44:11,087 --> 00:44:14,159
+Al menos hay una que no sabe
+que eres impotente.
+
+820
+00:44:17,327 --> 00:44:18,646
+Genial. Bien.
+
+821
+00:44:19,087 --> 00:44:21,806
+- Creo que está todo dicho.
+- Sí.
+
+822
+00:44:34,727 --> 00:44:35,477
+¿Lola?
+
+823
+00:44:39,367 --> 00:44:40,720
+¡Lola!
+
+824
+00:44:47,727 --> 00:44:48,876
+Lola.
+
+825
+00:44:52,047 --> 00:44:53,082
+Cariño...
+
+826
+00:44:55,167 --> 00:44:57,362
+- ¿No te encuentras bien?
+- Sí.
+
+827
+00:44:58,687 --> 00:45:01,360
+Ven, hay que comer
+cuando se está triste.
+
+828
+00:45:01,527 --> 00:45:03,085
+No tengo hambre.
+
+829
+00:45:03,367 --> 00:45:05,198
+No irás a volverte
+anoréxica...
+
+830
+00:45:06,447 --> 00:45:09,007
+Por no cenar un día
+no voy a volverme anoréxica.
+
+831
+00:45:09,167 --> 00:45:12,398
+Vi en un programa que sucedía
+muy rápido, es dramático.
+
+832
+00:45:13,687 --> 00:45:14,836
+No te preocupes.
+
+833
+00:45:16,247 --> 00:45:17,316
+No es eso.
+
+834
+00:45:19,007 --> 00:45:20,156
+ya verás.
+
+835
+00:45:23,647 --> 00:45:24,796
+No es tan grave.
+
+836
+00:46:10,647 --> 00:46:12,319
+En el váter
+con Depeyrefitte.
+
+837
+00:46:12,487 --> 00:46:14,637
+- ¿Cuándo?
+- En la conferencia antidroga.
+
+838
+00:46:15,847 --> 00:46:16,962
+¿Charlotte?
+
+839
+00:46:17,607 --> 00:46:20,075
+- ¿Estás segura de que eran ellos?
+- SÍ.
+
+840
+00:46:20,447 --> 00:46:21,516
+Calla, ahí viene.
+
+841
+00:46:27,087 --> 00:46:29,726
+Quiero matarle.
+O a esa gilipollas de Depeyrefitte.
+
+842
+00:46:29,887 --> 00:46:31,798
+Quiero largarme de ese instituto
+de mierda.
+
+843
+00:46:33,047 --> 00:46:35,083
+Y como las malas noticias
+nunca llegan solas...
+
+844
+00:46:43,487 --> 00:46:46,877
+"Un verdadero turista
+al menos habría hecho fotos".
+
+845
+00:46:48,687 --> 00:46:51,485
+Las hice.
+¿Quieres verlas?
+
+846
+00:46:52,407 --> 00:46:53,999
+¿y ésta, la has visto?
+
+847
+00:47:10,087 --> 00:47:11,679
+El año pasado
+sacabas sobresalientes.
+
+848
+00:47:12,047 --> 00:47:14,038
+Bueno, esta vez
+he sacado un notable.
+
+849
+00:47:14,207 --> 00:47:16,402
+Pues eso, está menos bien.
+
+850
+00:47:16,567 --> 00:47:17,682
+Sí, mamá.
+
+851
+00:47:18,487 --> 00:47:21,445
+¿Me explicas esta nota
+tan rara en francés?
+
+852
+00:47:22,487 --> 00:47:24,239
+Estos profes...
+
+853
+00:47:24,647 --> 00:47:26,239
+SÍ, eso.
+
+854
+00:47:26,407 --> 00:47:27,806
+5 en Mates.
+
+855
+00:47:28,367 --> 00:47:31,564
+6 en Francés, 6 en Historia
+y Geografía, 2 en Física.
+
+856
+00:47:31,887 --> 00:47:33,206
+¿Me tomas el pelo?
+
+857
+00:47:33,367 --> 00:47:34,800
+No, no te tomo el pelo.
+
+858
+00:47:34,967 --> 00:47:37,527
+Es que no me interesa
+la población de China
+
+859
+00:47:37,807 --> 00:47:39,160
+ni la actividad
+de las células.
+
+860
+00:47:39,607 --> 00:47:41,643
+Porque lo único
+que tengo en la cabeza,
+
+861
+00:47:41,967 --> 00:47:43,559
+lo único que me duele,
+
+862
+00:47:43,727 --> 00:47:46,321
+es Maël y esa gilipollas
+de Depeyrefitte
+
+863
+00:47:46,767 --> 00:47:49,998
+y cómo puedo hacerles el daño
+que me han hecho ellos.
+
+864
+00:47:50,167 --> 00:47:52,283
+¿Cómo puedo hacérselo?
+¿Cómo?
+
+865
+00:48:01,887 --> 00:48:03,161
+¿A quién queremos
+dar celos?
+
+866
+00:48:03,327 --> 00:48:06,285
+Al del pelo en punta
+que está con la rubia platino.
+
+867
+00:48:06,647 --> 00:48:08,399
+- Qué pardillo.
+- ¿y ella?
+
+868
+00:48:08,567 --> 00:48:10,637
+Espera, nos están mirando.
+
+869
+00:48:13,287 --> 00:48:14,561
+¿Quién es ese tío?
+
+870
+00:48:14,727 --> 00:48:16,922
+Julien. ¿Algún problema?
+
+871
+00:48:17,207 --> 00:48:18,322
+No, para nada.
+
+872
+00:48:21,327 --> 00:48:23,443
+Ven, vamos a comprar
+tabaco.
+
+873
+00:48:24,447 --> 00:48:27,280
+- Las motos ya son historia.
+- No sólo las motos.
+
+874
+00:48:33,407 --> 00:48:35,125
+Joder, me ha bloqueado.
+
+875
+00:48:35,807 --> 00:48:36,922
+Mierda.
+
+876
+00:49:08,447 --> 00:49:11,439
+Ven a ver a tu chica
+en vez de jugar al póquer.
+
+877
+00:49:12,767 --> 00:49:16,726
+No, Medhi, no te presiono.
+Sólo quiero saber si vienes a dormir.
+
+878
+00:49:18,567 --> 00:49:20,523
+Vale, dejo la llave
+debajo del felpudo.
+
+879
+00:49:21,447 --> 00:49:23,438
+N tu kasa a las 19?
+
+880
+00:49:24,167 --> 00:49:26,965
+Medhi me tiene harta,
+teníamos que vernos ayer.
+
+881
+00:49:27,127 --> 00:49:29,925
+- y sigo esperándole.
+- Es un payaso, pasa de él.
+
+882
+00:49:30,367 --> 00:49:31,402
+¿Patatas asadas
+o fritas?
+
+883
+00:49:31,847 --> 00:49:33,917
+Eso, dame la espalda,
+haz que no me ves.
+
+884
+00:49:34,087 --> 00:49:35,918
+- Asadas.
+- Dos de asadas.
+
+885
+00:49:36,087 --> 00:49:37,998
+Si viene a hablarme
+me lo cargo.
+
+886
+00:49:38,767 --> 00:49:39,836
+¡Qué, mamá!
+
+887
+00:49:40,087 --> 00:49:42,043
+No, no sé dónde está
+tu jersey gris.
+
+888
+00:49:42,207 --> 00:49:43,560
+No, no lo llevo puesto.
+
+889
+00:49:43,727 --> 00:49:44,682
+No.
+
+890
+00:49:45,527 --> 00:49:47,006
+Mi madre es un coñazo.
+
+891
+00:49:47,367 --> 00:49:49,597
+- ¿ya está?
+- No, y un helado con caramelo.
+
+892
+00:49:53,527 --> 00:49:55,006
+¿No os da asco Paul-Henri?
+
+893
+00:49:56,407 --> 00:49:57,965
+Con su patata frita...
+
+894
+00:49:59,127 --> 00:50:01,846
+- ¿No es asqueroso?
+- Para echar la pota.
+
+895
+00:50:02,007 --> 00:50:03,440
+Tampoco te pases.
+
+896
+00:50:03,687 --> 00:50:04,961
+¿Saldrías con él?
+
+897
+00:50:05,127 --> 00:50:06,401
+No, tampoco es eso.
+
+898
+00:50:06,767 --> 00:50:10,646
+Dejad de mirarlos, van a creer
+que estamos por ellos.
+
+899
+00:50:10,927 --> 00:50:12,679
+Que estamos por ellos...
+SÍ, eso.
+
+900
+00:50:12,847 --> 00:50:15,042
+¿Crees que ellos no están
+rajando de nosotras?
+
+901
+00:50:15,647 --> 00:50:17,797
+La última vez,
+saqué un trío de ases
+
+902
+00:50:17,967 --> 00:50:20,322
+y un tío me sacó una escalera,
+me jodió vivo.
+
+903
+00:50:20,487 --> 00:50:22,205
+Mejor vamos tranqui
+con el póquer,
+
+904
+00:50:22,367 --> 00:50:24,483
+ya sólo puedo apostar
+unas Converse.
+
+905
+00:50:24,647 --> 00:50:25,921
+Vende tu pelo.
+
+906
+00:50:28,007 --> 00:50:29,725
+Está mal jugar al póquer.
+
+907
+00:50:30,127 --> 00:50:31,685
+Y está mal comer
+como un cerdo.
+
+908
+00:50:31,847 --> 00:50:32,916
+Eres asqueroso.
+
+909
+00:50:33,087 --> 00:50:34,406
+- Maël, ponte guapo.
+- ¿Qué?
+
+910
+00:50:34,567 --> 00:50:36,239
+Ahí viene la de las dietas.
+
+911
+00:50:36,407 --> 00:50:37,999
+No, por favor.
+
+912
+00:50:38,727 --> 00:50:41,082
+Lola, mira, la que faltaba.
+
+913
+00:50:42,367 --> 00:50:43,686
+Hola, chicos. ¿Qué tal?
+
+914
+00:50:44,007 --> 00:50:45,076
+Bien, ¿y tú?
+
+915
+00:50:45,647 --> 00:50:47,046
+- Ahí viene.
+- ¿Quién?
+
+916
+00:50:47,287 --> 00:50:48,356
+Mi culo.
+
+917
+00:50:49,607 --> 00:50:50,596
+¿Qué tal?
+
+918
+00:50:52,007 --> 00:50:53,599
+¿Nos vemos esta noche?
+
+919
+00:50:53,847 --> 00:50:55,246
+- Vale.
+- ¿En tu casa?
+
+920
+00:50:55,487 --> 00:50:57,205
+- Vale.
+- Vale, chao.
+
+921
+00:50:57,647 --> 00:50:58,762
+SÍ, chao.
+
+922
+00:50:59,647 --> 00:51:01,285
+Sin comentarios.
+
+923
+00:51:01,447 --> 00:51:02,960
+La Post-it no le deja.
+
+924
+00:51:03,127 --> 00:51:04,845
+Es una payasa.
+
+925
+00:51:05,007 --> 00:51:06,440
+Y ahora, mi madre.
+
+926
+00:51:06,967 --> 00:51:08,002
+¿Qué, mamá?
+
+927
+00:51:08,167 --> 00:51:10,283
+Lola, tu armario
+está hecho un asco.
+
+928
+00:51:10,447 --> 00:51:13,644
+Si no encuentro mi jersey,
+un mes sin MSN.
+
+929
+00:51:13,807 --> 00:51:14,796
+¡Mierda!
+
+930
+00:51:21,127 --> 00:51:24,563
+"Nos rayábamos y Charlotte
+llamó a sus amigos del campamento.
+
+931
+00:51:24,727 --> 00:51:28,037
+Quedaba un poco zorrón
+llamar a tíos así por la noche,
+
+932
+00:51:28,207 --> 00:51:30,562
+pero Charlotte dijo
+que los zorrones eran ellos,
+
+933
+00:51:30,727 --> 00:51:32,319
+que había que disfrutar
+
+934
+00:51:32,487 --> 00:51:35,445
+y que la vida es muy corta
+para aburrirse un sábado".
+
+935
+00:51:47,407 --> 00:51:48,396
+¡Déjame, joder!
+
+936
+00:51:51,807 --> 00:51:53,286
+¿Por qué me tratas así?
+
+937
+00:51:59,847 --> 00:52:03,123
+La sexualidad no es igual
+para hombres y mujeres.
+
+938
+00:52:03,287 --> 00:52:06,723
+Que una mujer tenga amantes
+no significa que sea una puta.
+
+939
+00:52:07,727 --> 00:52:09,046
+¡Seré gilipollas!
+
+940
+00:52:09,567 --> 00:52:11,046
+¡Seré gilipollas!
+
+941
+00:52:12,167 --> 00:52:13,600
+No puede ser.
+
+942
+00:52:17,367 --> 00:52:18,686
+¡Mierda!
+
+943
+00:52:20,367 --> 00:52:21,720
+SÍ, hola.
+
+944
+00:52:22,167 --> 00:52:23,646
+SÍ, bien.
+
+945
+00:52:24,167 --> 00:52:25,805
+Estaba a punto de salir.
+
+946
+00:52:25,967 --> 00:52:28,959
+Vale, dentro de 2 minutos.
+Hasta ahora.
+
+947
+00:52:44,127 --> 00:52:46,163
+- Perdón, llego tarde.
+- No importa.
+
+948
+00:52:47,887 --> 00:52:48,876
+¿Estás bien?
+
+949
+00:52:50,807 --> 00:52:52,035
+¿Qué te pasa?
+
+950
+00:52:52,727 --> 00:52:54,638
+¿Desean tomar algo?
+
+951
+00:52:54,807 --> 00:52:56,001
+Un momento, por favor.
+
+952
+00:52:58,367 --> 00:53:00,562
+Va a pensar
+que lloras por mi culpa.
+
+953
+00:53:02,407 --> 00:53:03,726
+¿Qué pasa?
+
+954
+00:53:04,247 --> 00:53:05,441
+No, estoy bien.
+
+955
+00:53:24,407 --> 00:53:25,635
+Estás de broma.
+
+956
+00:53:26,407 --> 00:53:28,796
+Es humano haberlo leído,
+no te estarás culpando...
+
+957
+00:53:28,967 --> 00:53:31,083
+Sí, con los niños, siempre.
+
+958
+00:53:31,727 --> 00:53:33,638
+Si soy permisiva, me culpo.
+
+959
+00:53:33,807 --> 00:53:36,082
+Si les grito, peor aún.
+
+960
+00:53:36,247 --> 00:53:37,999
+Siempre estoy
+haciendo de poli.
+
+961
+00:53:38,167 --> 00:53:39,725
+SÍ, y eso es horrible.
+
+962
+00:53:41,527 --> 00:53:44,997
+No, pero ¿sabes?
+No sé cómo decirlo.
+
+963
+00:53:45,167 --> 00:53:46,759
+Llevamos toda la vida
+peleando
+
+964
+00:53:46,927 --> 00:53:48,997
+por tener los mismos
+derechos que vosotros.
+
+965
+00:53:49,167 --> 00:53:51,442
+Por afirmar que podemos tener
+la misma sexualidad.
+
+966
+00:53:51,607 --> 00:53:53,643
+- ¿Tú has dicho eso?
+- Lo he defendido.
+
+967
+00:53:53,807 --> 00:53:56,241
+Por supuesto, lo he defendido.
+
+968
+00:53:56,407 --> 00:53:59,763
+Pero, en fin...
+Cuando ves a tu hija así,
+
+969
+00:54:00,727 --> 00:54:04,083
+llevando su vida de mujercita
+liberada, ya no estás de acuerdo.
+
+970
+00:54:05,247 --> 00:54:07,966
+Ya no sé qué hay que pensar.
+
+971
+00:54:08,127 --> 00:54:09,480
+No hay que pensar nada.
+
+972
+00:54:10,207 --> 00:54:12,516
+Pero se acuesta
+con chicos, se droga...
+
+973
+00:54:13,727 --> 00:54:17,242
+Con chicos no, lo ha intentado con uno.
+y fuma porros de vez en cuando,
+
+974
+00:54:17,407 --> 00:54:18,726
+tampoco es el fin
+del mundo.
+
+975
+00:54:19,127 --> 00:54:20,446
+¿Y eso lo dices tú?
+
+976
+00:54:20,887 --> 00:54:24,641
+Sé distinguir a una adolescente
+que va mal de otra que...
+
+977
+00:54:24,807 --> 00:54:26,126
+que tantea los límites.
+
+978
+00:54:27,167 --> 00:54:30,364
+Si es ocasional, y con gente
+de su edad, no es grave.
+
+979
+00:54:31,327 --> 00:54:34,956
+¿Lo dices para tranquilizarme,
+o lo piensas de verdad?
+
+980
+00:54:35,687 --> 00:54:37,245
+Pienso que piensas
+demasiado.
+
+981
+00:54:38,967 --> 00:54:41,561
+Salgo de casa.
+Ahora llego. Maël.
+
+982
+00:54:42,207 --> 00:54:43,720
+¡Papá, mira cómo doy la voltereta!
+
+983
+00:54:45,487 --> 00:54:46,920
+Fenomenal, cielo.
+
+984
+00:54:48,767 --> 00:54:51,042
+¿Vamos a comer algo los dos?
+
+985
+00:54:51,807 --> 00:54:53,525
+¿Como antes? Donde quieras.
+
+986
+00:54:53,687 --> 00:54:57,236
+- ¡SÍ, los cuatro!
+- No, no.
+
+987
+00:54:57,407 --> 00:55:00,479
+Es tarde, mañana hay cole.
+Luego mamá me regaña.
+
+988
+00:55:00,887 --> 00:55:02,843
+Sigue con tus deberes,
+¿qué pasa ahora?
+
+989
+00:55:04,207 --> 00:55:05,799
+El sábado,
+os llevo el sábado.
+
+990
+00:55:06,447 --> 00:55:08,165
+No, esta noche no puedo.
+
+991
+00:55:08,727 --> 00:55:10,160
+¿Me firmas esto,
+por favor?
+
+992
+00:55:10,727 --> 00:55:12,604
+- Tenéis que firmar los dos.
+- ¿Qué es?
+
+993
+00:55:12,767 --> 00:55:15,839
+Una autorización.
+Para el viaje a Inglaterra.
+
+994
+00:55:17,927 --> 00:55:19,042
+Gracias.
+
+995
+00:55:25,847 --> 00:55:28,202
+- ¿Adónde vas?
+- A casa de Arthur, a por apuntes.
+
+996
+00:55:28,367 --> 00:55:29,356
+¿Me tomas por tonto?
+
+997
+00:55:29,527 --> 00:55:31,518
+Papá, ahora no tengo tiempo.
+
+998
+00:55:31,687 --> 00:55:32,802
+¿Te suena esto?
+
+999
+00:55:32,967 --> 00:55:34,525
+¿Crees que no sé
+lo que es?
+
+1000
+00:55:35,607 --> 00:55:38,883
+Escúchame bien. Sólo nos faltaba
+un drogadicto en casa.
+
+1001
+00:55:39,327 --> 00:55:40,555
+El año que viene,
+
+1002
+00:55:40,727 --> 00:55:44,606
+interno. Mientras tanto,
+ni conciertos, ni música...
+
+1003
+00:55:44,767 --> 00:55:48,123
+¿Qué haces? ¿Qué haces?
+¡Para!
+
+1004
+00:55:48,287 --> 00:55:50,357
+¡Tienes suerte de que
+no te la haya roto en la cabeza!
+
+1005
+00:55:50,527 --> 00:55:51,926
+¡Te has vuelto loco!
+
+1006
+00:55:52,567 --> 00:55:55,525
+- Esto y esto, confiscado.
+- ¡Estarás contento! ¡Bravo!
+
+1007
+00:55:56,607 --> 00:55:58,563
+¡Joder!
+
+1008
+00:56:20,007 --> 00:56:22,077
+Gracias por escucharme,
+me ha sentado bien.
+
+1009
+00:56:22,247 --> 00:56:24,397
+Forma parte de mi trabajo, señora.
+
+1010
+00:56:24,647 --> 00:56:26,922
+- No, has sido muy amable.
+- Amable, no.
+
+1011
+00:56:30,207 --> 00:56:31,401
+Interesado.
+
+1012
+00:56:31,567 --> 00:56:32,795
+- ¿Sí?
+- Sí.
+
+1013
+00:56:53,287 --> 00:56:54,561
+¿Qué haces aquí?
+
+1014
+00:56:55,647 --> 00:56:58,684
+Alain, Lucas.
+El padre de mis hijos.
+
+1015
+00:56:59,727 --> 00:57:01,638
+He venido a traer
+unos libros de Lola.
+
+1016
+00:57:03,967 --> 00:57:05,036
+Bien, pues...
+
+1017
+00:57:06,407 --> 00:57:07,601
+- Os dejo.
+- Sí.
+
+1018
+00:57:17,567 --> 00:57:19,717
+- ¿Estás bien?
+- SÍ, estoy bien.
+
+1019
+00:57:21,647 --> 00:57:24,241
+Bueno, me voy. Te dejo
+para que te culpes en paz.
+
+1020
+00:57:26,527 --> 00:57:27,596
+Lo siento.
+
+1021
+00:57:40,207 --> 00:57:42,516
+Buzón de voz de Maël.
+Deja un mensaje.
+
+1022
+00:57:43,127 --> 00:57:45,038
+Maël, soy Lola.
+
+1023
+00:57:45,327 --> 00:57:48,160
+¿Te acuerdas? La chica
+con la que quedaste.
+
+1024
+00:57:48,327 --> 00:57:51,842
+Llevo una hora esperando y estoy harta
+de que me tomes por gilipollas.
+
+1025
+00:58:04,527 --> 00:58:07,246
+- Buenas noches, señor.
+- Buenas noches, Etienne.
+
+1026
+00:58:10,047 --> 00:58:11,162
+¡Es mi hijo!
+
+1027
+00:58:11,967 --> 00:58:13,559
+Podemos seguirlos si quiere.
+
+1028
+00:58:14,967 --> 00:58:16,161
+Sí. Si no le molesta,
+
+1029
+00:58:16,327 --> 00:58:17,521
+de acuerdo.
+
+1030
+00:58:24,247 --> 00:58:25,566
+¿Voy a buscarle?
+
+1031
+00:58:26,767 --> 00:58:28,405
+No, no quiero escándalos.
+
+1032
+00:58:29,247 --> 00:58:33,035
+Pero es alucinante. Las dos de
+la madrugada, entre semana...
+
+1033
+00:58:33,207 --> 00:58:34,799
+¿Qué hacen los padres?
+
+1034
+00:58:34,967 --> 00:58:36,605
+Creo que lo mismo
+que usted.
+
+1035
+00:58:36,967 --> 00:58:37,956
+¿Qué quiere decir?
+
+1036
+00:58:38,127 --> 00:58:40,402
+Creen que sus hijos
+están durmiendo.
+
+1037
+00:58:59,847 --> 00:59:01,678
+¿Cree que mi hija
+es lesbiana?
+
+1038
+00:59:05,327 --> 00:59:07,318
+¿Mmm "sí", o Mmm "no"?
+
+1039
+00:59:10,367 --> 00:59:13,757
+¿Puede dejar de decir "Mmm"
+y contestar?
+
+1040
+00:59:15,047 --> 00:59:18,881
+¿Le choca más que tenga relaciones
+con una chica que con un chico?
+
+1041
+00:59:20,607 --> 00:59:22,484
+Prefería cuando hacía "Mmm".
+
+1042
+00:59:23,247 --> 00:59:24,441
+¿Lo ve?
+
+1043
+00:59:26,607 --> 00:59:28,279
+Hola, ¿qué tal?
+
+1044
+00:59:32,407 --> 00:59:35,717
+- Querías hablarme, te escucho.
+- SÍ, de Lola.
+
+1045
+00:59:37,127 --> 00:59:38,719
+No vas a empezar
+tú también.
+
+1046
+00:59:38,887 --> 00:59:39,876
+¿A qué?
+
+1047
+00:59:40,607 --> 00:59:43,167
+Mi psicóloga no para
+de hacer "Mmm", me pone de los nervios.
+
+1048
+00:59:43,847 --> 00:59:47,044
+ya. ¿Y le has dicho que te tiras
+a otro, o todavía no?
+
+1049
+00:59:48,927 --> 00:59:50,679
+Primero, no me tiro a nadie.
+
+1050
+00:59:50,927 --> 00:59:52,883
+Sí, es verdad, perdón.
+
+1051
+00:59:53,367 --> 00:59:55,119
+Nosotros nos tiramos a putas.
+
+1052
+00:59:55,287 --> 00:59:56,959
+Pero las mujeres, no.
+
+1053
+00:59:57,487 --> 00:59:59,637
+"Hacéis el amor"
+con hombres maravillosos.
+
+1054
+01:00:00,407 --> 01:00:03,444
+- Basta, no es el momento.
+- No lo es para ti.
+
+1055
+01:00:03,607 --> 01:00:05,802
+Porque para mí es perfecto.
+
+1056
+01:00:05,967 --> 01:00:08,117
+Discuto con doña Sermones
+
+1057
+01:00:08,727 --> 01:00:12,117
+que me arruina el finde porque,
+al parecer, me tiro a una zorra.
+
+1058
+01:00:13,727 --> 01:00:16,525
+- ¿Seguro que quieres hablar de eso?
+- SÍ.
+
+1059
+01:00:16,687 --> 01:00:18,678
+Porque me debes
+una explicación.
+
+1060
+01:00:21,047 --> 01:00:22,878
+Que te debo una explicación...
+
+1061
+01:00:23,927 --> 01:00:26,760
+Te recuerdo
+que estamos divorciados.
+
+1062
+01:00:26,927 --> 01:00:28,519
+ya, cuando te conviene.
+
+1063
+01:00:34,407 --> 01:00:35,601
+Lola se droga.
+
+1064
+01:00:35,967 --> 01:00:37,082
+¿Qué?
+
+1065
+01:00:37,487 --> 01:00:39,079
+Porros. Todavía no...
+
+1066
+01:00:42,407 --> 01:00:44,204
+Claro, como dejas esa mierda por ahí...
+
+1067
+01:00:45,607 --> 01:00:47,563
+Te recuerdo que eres
+su modelo a seguir.
+
+1068
+01:00:48,327 --> 01:00:50,443
+Si te sigue también
+en lo del sexo...
+
+1069
+01:00:53,207 --> 01:00:54,481
+Eres un gilipollas.
+
+1070
+01:00:55,327 --> 01:00:56,885
+Qué gilipollas eres.
+
+1071
+01:00:58,407 --> 01:00:59,760
+Espera, espera.
+
+1072
+01:01:00,407 --> 01:01:02,079
+Gilipollas no, celoso.
+
+1073
+01:01:03,047 --> 01:01:04,560
+Venía a hablar de Lola.
+
+1074
+01:01:04,727 --> 01:01:06,877
+Hay que cambiarla
+a un colegio privado.
+
+1075
+01:01:07,047 --> 01:01:09,197
+Cuando quieras hablar
+del tema, llámame.
+
+1076
+01:01:22,007 --> 01:01:24,043
+Lola, tengo que explicártelo.
+
+1077
+01:01:24,207 --> 01:01:25,640
+No tengo nada que decirte.
+
+1078
+01:01:25,807 --> 01:01:27,798
+Me ha caído un marrón,
+te lo juro.
+
+1079
+01:01:28,247 --> 01:01:29,965
+Estoy harta de tus mentiras.
+
+1080
+01:01:30,327 --> 01:01:32,557
+Estamos cenando,
+deja ese teléfono.
+
+1081
+01:01:32,727 --> 01:01:33,921
+Vale, está bien.
+
+1082
+01:01:34,087 --> 01:01:35,315
+No, no está bien.
+
+1083
+01:01:35,487 --> 01:01:37,159
+¿Por qué me gritas tanto?
+
+1084
+01:01:37,327 --> 01:01:40,239
+Porque estoy harta de tanto follón.
+y recoge tu cuarto.
+
+1085
+01:01:41,047 --> 01:01:42,400
+¿Así que no ceno?
+
+1086
+01:01:42,567 --> 01:01:44,478
+Después de cenar,
+y no te hagas la tonta.
+
+1087
+01:01:44,647 --> 01:01:46,000
+Y tú, deja la PSP.
+
+1088
+01:01:46,167 --> 01:01:48,397
+¡Estoy harta de vuestra actitud!
+
+1089
+01:01:48,807 --> 01:01:50,240
+¿De la mía también?
+
+1090
+01:01:53,647 --> 01:01:55,399
+La señorita Delgado, por favor.
+
+1091
+01:01:55,967 --> 01:01:58,527
+No, primero veré
+a la joven a solas.
+
+1092
+01:02:10,047 --> 01:02:12,197
+Yo no quiero cambiar
+de colegio.
+
+1093
+01:02:12,647 --> 01:02:14,478
+Lo único que tengo
+son mis amigos.
+
+1094
+01:02:14,807 --> 01:02:16,923
+También tienes una familia.
+
+1095
+01:02:17,087 --> 01:02:18,725
+Claro, se me olvidaba.
+
+1096
+01:02:18,887 --> 01:02:21,196
+Una familia que se acuesta
+sin decírmelo.
+
+1097
+01:02:21,447 --> 01:02:23,199
+Pues paso de la familia.
+
+1098
+01:02:26,367 --> 01:02:28,244
+Está claro,
+es la hija de su padre.
+
+1099
+01:02:28,807 --> 01:02:30,206
+SÍ, digámoslo así.
+
+1100
+01:02:35,007 --> 01:02:36,122
+Cariño...
+
+1101
+01:02:41,487 --> 01:02:42,715
+No, nada.
+
+1102
+01:02:46,087 --> 01:02:47,679
+Pero mira a esa payasa.
+
+1103
+01:02:48,327 --> 01:02:50,363
+En plan "Me lo he ligado".
+
+1104
+01:02:50,967 --> 01:02:52,161
+Me pone de los nervios.
+
+1105
+01:02:52,327 --> 01:02:54,397
+Tranqui, no es del estilo de Maël.
+
+1106
+01:02:55,007 --> 01:02:56,599
+Es del estilo de todos los tíos.
+
+1107
+01:02:56,767 --> 01:02:59,156
+Está ridícula.
+¿Has visto qué botas?
+
+1108
+01:03:00,047 --> 01:03:01,162
+Desde luego...
+
+1109
+01:03:01,327 --> 01:03:02,840
+y pensar que viene
+a Inglaterra...
+
+1110
+01:03:03,007 --> 01:03:05,282
+Vamos a dejar de mirarla porque...
+
+1111
+01:03:05,807 --> 01:03:07,843
+creerá que pienso
+en él y no me apetece.
+
+1112
+01:03:08,007 --> 01:03:09,406
+SÍ, tienes razón.
+
+1113
+01:03:10,327 --> 01:03:12,283
+Para. Para.
+
+1114
+01:03:13,367 --> 01:03:14,482
+Silencio, por favor.
+
+1115
+01:03:14,727 --> 01:03:15,842
+Silencio, por favor.
+
+1116
+01:03:19,727 --> 01:03:21,285
+STÉPHANE = PUTÓN
+
+1117
+01:03:21,807 --> 01:03:24,446
+- ¿Quién lo ha escrito?
+- Medhi, estoy segura.
+
+1118
+01:03:25,927 --> 01:03:27,201
+Es asqueroso.
+
+1119
+01:03:28,327 --> 01:03:30,966
+...y quiero que lo hagáis
+en silencio.
+
+1120
+01:03:31,287 --> 01:03:32,720
+En silencio.
+
+1121
+01:03:33,407 --> 01:03:36,399
+Ni un ruido.
+Quiero que os concentréis.
+
+1122
+01:03:43,367 --> 01:03:44,516
+Perdone.
+
+1123
+01:03:44,687 --> 01:03:46,279
+- ¿Dabasuanaquene?
+- ¿Qué?
+
+1124
+01:03:46,447 --> 01:03:47,675
+SÍ, sí.
+
+1125
+01:03:49,647 --> 01:03:50,921
+Os lo advierto.
+
+1126
+01:03:51,087 --> 01:03:54,318
+El próximo que hable...
+Un ruido más y cancelo
+
+1127
+01:03:54,487 --> 01:03:57,047
+el viaje a Inglaterra.
+¿Entendido?
+
+1128
+01:03:59,287 --> 01:04:00,606
+¡Nada de Londres!
+
+1129
+01:04:14,767 --> 01:04:15,916
+Hola.
+
+1130
+01:04:16,447 --> 01:04:19,200
+- Charlotte, ¿qué tal?
+- Muy bien.
+
+1131
+01:04:19,607 --> 01:04:22,041
+- ¿Haciendo la compra?
+- SÍ.
+
+1132
+01:04:22,647 --> 01:04:24,603
+- Muy bien.
+- ¿Vive en el barrio?
+
+1133
+01:04:24,767 --> 01:04:25,961
+Sí, ya ves.
+
+1134
+01:04:26,447 --> 01:04:27,641
+Parece que tú también.
+
+1135
+01:04:28,447 --> 01:04:29,766
+Qué gracia, ¿no?
+
+1136
+01:04:31,047 --> 01:04:32,605
+- ¿El qué?
+- Pues sí.
+
+1137
+01:04:32,767 --> 01:04:35,486
+La probabilidad de encontrarnos
+en el súper del barrio,
+
+1138
+01:04:35,647 --> 01:04:37,842
+¿es inferior o igual a...?
+
+1139
+01:04:38,007 --> 01:04:39,360
+Se puede calcular.
+
+1140
+01:04:39,527 --> 01:04:40,880
+Aquí estás. ¿La leche?
+
+1141
+01:04:41,047 --> 01:04:42,560
+Se me ha olvidado.
+
+1142
+01:04:43,087 --> 01:04:44,884
+Mamá, el Sr. Messier,
+mi profe de mates.
+
+1143
+01:04:45,047 --> 01:04:46,321
+Hola.
+
+1144
+01:04:47,207 --> 01:04:48,481
+Siento lo de las clases,
+
+1145
+01:04:48,647 --> 01:04:50,524
+no voy a tener tiempo
+este año.
+
+1146
+01:04:51,407 --> 01:04:53,204
+¿Clases para Charlotte?
+
+1147
+01:04:54,087 --> 01:04:56,317
+No, la he confundido
+con otra alumna.
+
+1148
+01:04:56,767 --> 01:05:00,237
+Es un problema tener mal la memoria
+si se es profe de matemáticas.
+
+1149
+01:05:00,847 --> 01:05:02,280
+Vamos. Señor...
+
+1150
+01:05:02,447 --> 01:05:03,436
+Señora.
+
+1151
+01:05:03,607 --> 01:05:05,802
+Espero que no sean así
+todos tus profes.
+
+1152
+01:05:06,367 --> 01:05:08,437
+Hace la compra solo,
+
+1153
+01:05:08,607 --> 01:05:10,802
+- así que es soltero.
+- ya. ¿y a ti qué?
+
+1154
+01:05:11,327 --> 01:05:13,887
+- No vas a tirártelo, ¿no?
+- ¿y tú qué sabes?
+
+1155
+01:05:15,087 --> 01:05:16,202
+Bien, te dejo.
+
+1156
+01:05:16,367 --> 01:05:18,642
+Mi desconocido
+está haciendo cosas raras.
+
+1157
+01:05:19,007 --> 01:05:20,235
+¿Quién es ese tío?
+
+1158
+01:05:20,727 --> 01:05:21,921
+No lo sé.
+
+1159
+01:05:22,087 --> 01:05:24,123
+- No le conozco.
+- Estás del tarro.
+
+1160
+01:05:24,287 --> 01:05:27,165
+Eres una suicida.
+Tengo otra llamada, adiós.
+
+1161
+01:05:28,767 --> 01:05:30,200
+Este tío está loco.
+
+1162
+01:05:30,367 --> 01:05:32,164
+- Notición.
+- ¿Qué?
+
+1163
+01:05:32,327 --> 01:05:34,158
+- Adivina quién no va a Inglaterra.
+- ¿Maël?
+
+1164
+01:05:34,647 --> 01:05:36,126
+- Mejor.
+- ¿Quién?
+
+1165
+01:05:36,287 --> 01:05:38,403
+- ¡Depeyrefitte, apendicitis!
+- ¡No!
+
+1166
+01:05:38,567 --> 01:05:39,602
+Y encima rima.
+
+1167
+01:05:39,767 --> 01:05:41,758
+- Dios existe.
+- Te dejo.
+
+1168
+01:05:41,927 --> 01:05:43,246
+- Chao.
+- Chao.
+
+1169
+01:05:46,327 --> 01:05:49,285
+Basta ya de medicamentos,
+sólo voy a Inglaterra.
+
+1170
+01:05:50,447 --> 01:05:53,757
+Esto es para el dolor de estómago,
+¿lo recordarás?
+
+1171
+01:05:53,927 --> 01:05:55,042
+Sí, lo recordaré.
+
+1172
+01:05:55,207 --> 01:05:58,438
+- Escribiré "dolor de estómago".
+- Mamá, tengo cerebro.
+
+1173
+01:05:58,967 --> 01:06:01,162
+Me alegro, cielo. Me alegro.
+
+1174
+01:06:02,647 --> 01:06:05,445
+- Voy a acabar la maleta.
+- Vale.
+
+1175
+01:06:11,727 --> 01:06:12,762
+Gracias.
+
+1176
+01:06:13,807 --> 01:06:15,081
+¿Qué es esto?
+
+1177
+01:06:15,527 --> 01:06:17,757
+Es de Lola.
+Tengo que devolvérselo.
+
+1178
+01:06:17,927 --> 01:06:19,645
+¿Ahora os prestáis
+ropa interior?
+
+1179
+01:06:19,807 --> 01:06:23,197
+No, es de la última vez
+que vino a dormir.
+
+1180
+01:06:23,367 --> 01:06:27,440
+¡y esto! ¡y esto!
+¿Todo esto es de Lola?
+
+1181
+01:06:27,927 --> 01:06:29,406
+¿Me tomas el pelo?
+
+1182
+01:06:29,687 --> 01:06:31,120
+No te has ido aún, ¿sabes?
+
+1183
+01:06:31,927 --> 01:06:34,600
+¡Que no te vea nunca
+con una de estas porquerías!
+
+1184
+01:06:34,887 --> 01:06:36,206
+y además, mentirosa.
+
+1185
+01:06:36,447 --> 01:06:37,846
+¡A la basura!
+
+1186
+01:06:44,327 --> 01:06:46,887
+No llevas muchos libros.
+
+1187
+01:06:47,127 --> 01:06:49,925
+No tendré tiempo de leer,
+voy por el inglés.
+
+1188
+01:06:51,407 --> 01:06:53,602
+- Tendrás cuidado, ¿verdad?
+- Sí.
+
+1189
+01:06:54,047 --> 01:06:55,480
+¿Por qué me dices eso?
+
+1190
+01:06:56,167 --> 01:06:57,282
+No, por nada.
+
+1191
+01:06:59,727 --> 01:07:00,876
+No, ése no.
+
+1192
+01:07:01,047 --> 01:07:02,321
+Mamá, por favor...
+
+1193
+01:07:02,487 --> 01:07:03,476
+No.
+
+1194
+01:07:03,647 --> 01:07:06,036
+- No tengo jerséis calientes.
+- Tienes un montón.
+
+1195
+01:07:06,207 --> 01:07:08,482
+Es que rascan.
+Mira qué suavecito es éste.
+
+1196
+01:07:08,647 --> 01:07:10,205
+Cachemir de 6 hebras,
+ya puede serlo.
+
+1197
+01:07:10,367 --> 01:07:11,322
+Venga.
+
+1198
+01:07:11,727 --> 01:07:13,126
+Allí hace mucho frío
+
+1199
+01:07:13,287 --> 01:07:15,596
+y los ingleses son muy ratas
+con la calefacción.
+
+1200
+01:07:16,127 --> 01:07:19,199
+Pillaré una pulmonía
+y me moriré de frío.
+
+1201
+01:07:19,367 --> 01:07:20,641
+y no volverás a verme.
+
+1202
+01:07:23,087 --> 01:07:24,725
+¡Qué coñazo eres!
+
+1203
+01:07:24,887 --> 01:07:26,798
+- Venga, toma.
+- Gracias.
+
+1204
+01:07:49,927 --> 01:07:51,201
+Largo.
+
+1205
+01:07:53,607 --> 01:07:54,835
+¡Coñazo!
+
+1206
+01:07:58,567 --> 01:07:59,761
+Para.
+
+1207
+01:08:04,767 --> 01:08:06,485
+Coñazo.
+
+1208
+01:08:16,887 --> 01:08:19,162
+¿Hace falta un descodificador
+para que haya color aquí?
+
+1209
+01:08:19,327 --> 01:08:20,680
+Qué mierda de tiempo.
+
+1210
+01:08:21,087 --> 01:08:24,443
+- ¡Enanitos de jardín!
+- Mirad qué caretos.
+
+1211
+01:08:25,647 --> 01:08:27,717
+No vamos a practicar inglés,
+sino el suicidio.
+
+1212
+01:08:30,087 --> 01:08:32,282
+Voy a pedirles
+su historial delictivo.
+
+1213
+01:08:33,207 --> 01:08:34,481
+¿Has visto a esa vieja
+
+1214
+01:08:34,647 --> 01:08:37,286
+con esa tía rara?
+Seguro que nos tocan.
+
+1215
+01:08:37,447 --> 01:08:39,802
+Es para que no eches
+de menos a tu familia.
+
+1216
+01:08:42,807 --> 01:08:44,035
+Hola.
+
+1217
+01:08:48,487 --> 01:08:49,556
+Hola.
+
+1218
+01:08:51,447 --> 01:08:52,562
+Hola.
+
+1219
+01:08:52,807 --> 01:08:55,765
+Joder, no me lo puedo creer.
+
+1220
+01:08:55,927 --> 01:08:57,838
+Os está diciendo "hola".
+
+1221
+01:08:58,727 --> 01:09:01,116
+Me acojona,
+tengo que largarme de aquí.
+
+1222
+01:09:01,287 --> 01:09:03,881
+- Sé tolerante.
+- No me digas eso a mí.
+
+1223
+01:09:04,047 --> 01:09:06,322
+No tienes el monopolio
+de la discriminación.
+
+1224
+01:09:06,567 --> 01:09:08,285
+No, ahora mismo tengo
+el del agobio.
+
+1225
+01:09:08,887 --> 01:09:10,445
+Lili, sé buena.
+
+1226
+01:09:10,967 --> 01:09:13,640
+Lleva una hora babeándome
+encima, yo la palmo.
+
+1227
+01:09:13,807 --> 01:09:15,843
+Joder, no me lo creo.
+
+1228
+01:09:17,247 --> 01:09:18,521
+Perdona.
+
+1229
+01:09:21,327 --> 01:09:22,726
+Tu plato, por favor.
+
+1230
+01:09:29,487 --> 01:09:30,715
+Los invitados primero.
+
+1231
+01:09:31,207 --> 01:09:34,199
+Sírvete mermelada
+de arándanos, por favor.
+
+1232
+01:09:34,647 --> 01:09:36,365
+- No, gracias.
+- Está muy buena.
+
+1233
+01:09:37,287 --> 01:09:38,845
+¿Crees que son de Al Qaeda?
+
+1234
+01:09:39,007 --> 01:09:40,235
+Déjate de gilipolleces.
+
+1235
+01:09:40,567 --> 01:09:42,398
+Viendo a la madre
+y a la hija,
+
+1236
+01:09:42,567 --> 01:09:44,398
+no me importaría ser rehén.
+
+1237
+01:09:44,767 --> 01:09:46,280
+Si necesitáis algo,
+
+1238
+01:09:46,567 --> 01:09:48,797
+si queréis saber algo,
+preguntad.
+
+1239
+01:09:49,367 --> 01:09:51,403
+¿Tienen MSN, Messenger?.
+
+1240
+01:09:51,567 --> 01:09:53,239
+No, no tenemos.
+
+1241
+01:09:53,967 --> 01:09:55,116
+¿No, no tienen?
+
+1242
+01:09:55,927 --> 01:09:57,440
+No, no tenemos.
+
+1243
+01:09:58,047 --> 01:09:59,275
+No tienen.
+
+1244
+01:10:00,927 --> 01:10:03,839
+¿Y tienen una "toma"
+para el portátil?
+
+1245
+01:10:04,487 --> 01:10:05,636
+¿Perdón?
+
+1246
+01:10:05,887 --> 01:10:07,366
+Un "adaptador".
+
+1247
+01:10:07,847 --> 01:10:09,246
+Me temo que no.
+
+1248
+01:10:10,407 --> 01:10:11,806
+Ésta es mi hija, Diana.
+
+1249
+01:10:12,127 --> 01:10:13,719
+Di "hola "a tus nuevas amigas.
+
+1250
+01:10:14,047 --> 01:10:15,844
+- Hola.
+- Hola.
+
+1251
+01:10:17,047 --> 01:10:18,924
+Bienvenida entre los psicópatas.
+
+1252
+01:10:19,727 --> 01:10:22,082
+Te llamo cuando arregle
+lo del adaptador.
+
+1253
+01:10:22,247 --> 01:10:23,362
+No tienen.
+
+1254
+01:10:24,607 --> 01:10:27,883
+Mi familia es muy rara,
+mamá, muy rara.
+
+1255
+01:10:28,687 --> 01:10:30,803
+Sí, ya te explicaré.
+
+1256
+01:10:30,967 --> 01:10:33,800
+¿y tú, qué tal? ¿Todo bien?
+Te llamo.
+
+1257
+01:10:35,127 --> 01:10:36,719
+Llama cuando quieras.
+
+1258
+01:10:36,887 --> 01:10:38,878
+- ¡Besitos, cielo!
+- ¡Besitos, te queremos!
+
+1259
+01:10:39,847 --> 01:10:41,883
+- ¡Besitos, te quiero!
+- ¡Quería hablar!
+
+1260
+01:10:42,047 --> 01:10:44,163
+No le puse
+el adaptador de enchufes.
+
+1261
+01:10:45,407 --> 01:10:47,523
+- Llego tarde, me voy.
+- ¿Adónde vas?
+
+1262
+01:10:48,127 --> 01:10:50,880
+Lavaos los dientes y a la cama.
+
+1263
+01:10:52,087 --> 01:10:53,679
+¡Venga, es tarde!
+
+1264
+01:10:56,847 --> 01:10:59,122
+- ¿Así que te gusta?
+- ¿Quién?
+
+1265
+01:10:59,447 --> 01:11:00,721
+El poli.
+
+1266
+01:11:01,367 --> 01:11:04,086
+ya te he dicho
+que no le llames así.
+
+1267
+01:11:04,247 --> 01:11:06,522
+No sé. Nunca me lo he
+planteado así.
+
+1268
+01:11:06,687 --> 01:11:07,722
+Es un error.
+
+1269
+01:11:08,247 --> 01:11:10,681
+ya es hora
+de que rehagas tu vida.
+
+1270
+01:11:10,847 --> 01:11:14,886
+Odio esa expresión. Es como si
+estuviera perdida sin un hombre.
+
+1271
+01:11:15,047 --> 01:11:16,639
+Es la verdad.
+
+1272
+01:11:18,727 --> 01:11:20,957
+Cuéntame, ¿adónde te lleva?
+
+1273
+01:11:21,127 --> 01:11:23,357
+No sé, me dijo que era
+una sorpresa.
+
+1274
+01:11:23,607 --> 01:11:25,598
+- Ponte un pañuelo.
+- Mamá, no tengo 14 años.
+
+1275
+01:11:25,767 --> 01:11:27,359
+Igual que mamá con Lola.
+
+1276
+01:11:29,527 --> 01:11:31,961
+- ¿Os habéis lavado los dientes?
+- Sí.
+
+1277
+01:11:32,127 --> 01:11:34,721
+¿A ver? Vale, vale.
+Venga, a dormir.
+
+1278
+01:11:35,647 --> 01:11:38,605
+A Lady Di sí le habrían
+puesto la calefacción.
+
+1279
+01:11:38,767 --> 01:11:40,120
+Joder, qué frío.
+
+1280
+01:11:40,447 --> 01:11:42,119
+Lola, tengo que decirte algo.
+
+1281
+01:11:42,287 --> 01:11:43,242
+¿Qué?
+
+1282
+01:11:43,967 --> 01:11:46,435
+Los del váter
+no eran Maël y Depeyrefitte.
+
+1283
+01:11:46,607 --> 01:11:48,518
+Lo sé, me lo dijo Maël
+en el autocar.
+
+1284
+01:11:48,687 --> 01:11:49,802
+¿Sí?
+
+1285
+01:11:50,527 --> 01:11:51,880
+¿Pero tú cómo lo sabes?
+
+1286
+01:11:52,567 --> 01:11:54,239
+Porque era yo.
+
+1287
+01:11:54,727 --> 01:11:55,921
+¿Que eras tú?
+
+1288
+01:11:56,607 --> 01:11:58,086
+Eras tú, ¿pero con quién?
+
+1289
+01:11:59,487 --> 01:12:00,920
+Con Paul-Henri.
+
+1290
+01:12:01,487 --> 01:12:04,047
+¿Te das cuenta de la que has armado?
+
+1291
+01:12:04,207 --> 01:12:05,959
+¡y encima con Paul-Henri!
+
+1292
+01:12:06,967 --> 01:12:08,958
+- Chicas, silencio.
+- Joder, con Paul-Henri.
+
+1293
+01:12:09,327 --> 01:12:11,761
+Lo siento, la he armado, lo siento.
+
+1294
+01:12:11,927 --> 01:12:13,997
+Soy yo quien lo siente por ti.
+
+1295
+01:13:50,047 --> 01:13:52,607
+- ¿y a qué te dedicas?
+- Soy policía.
+
+1296
+01:13:56,487 --> 01:13:57,840
+En Estupefacientes.
+
+1297
+01:13:58,327 --> 01:14:00,636
+¿En Estupefacientes?
+¿En serio?
+
+1298
+01:14:01,007 --> 01:14:02,645
+Estoy acostumbrado,
+tranquilo.
+
+1299
+01:14:03,887 --> 01:14:05,445
+No hay problema, guay.
+
+1300
+01:14:05,607 --> 01:14:07,518
+- Respira.
+- Te veo menos relajado.
+
+1301
+01:14:07,687 --> 01:14:09,723
+No, estoy bien. Es...
+
+1302
+01:14:10,967 --> 01:14:12,685
+Está bien, es...
+
+1303
+01:14:13,567 --> 01:14:14,795
+¡Será cobarde!
+
+1304
+01:14:19,607 --> 01:14:20,835
+No es para tanto.
+
+1305
+01:14:21,727 --> 01:14:23,319
+- No, es que no sabía.
+- ¿Qué?
+
+1306
+01:14:23,607 --> 01:14:24,835
+Que trabajaba en...
+
+1307
+01:14:25,007 --> 01:14:26,440
+¿Qué creías que hacía?
+
+1308
+01:14:26,607 --> 01:14:28,325
+Ni idea. Pero ella
+no nos lo dijo.
+
+1309
+01:14:28,487 --> 01:14:30,125
+Es verdad, no pareces...
+
+1310
+01:14:30,287 --> 01:14:33,677
+- poli.
+- Hombre, no lleva la gorra.
+
+1311
+01:14:36,967 --> 01:14:38,798
+Qué lástima lo de Lola.
+
+1312
+01:14:39,807 --> 01:14:42,367
+- ¿Crees que está bien?
+- Sí, está bien.
+
+1313
+01:14:42,847 --> 01:14:44,678
+Es muy frágil.
+
+1314
+01:14:45,327 --> 01:14:47,045
+No tan dura
+como los ingleses.
+
+1315
+01:14:48,487 --> 01:14:50,637
+Joder, esto parece una peli.
+
+1316
+01:14:51,447 --> 01:14:53,199
+No hagas ruido.
+
+1317
+01:14:56,887 --> 01:14:58,525
+No ha acabado
+la gelatina.
+
+1318
+01:14:59,047 --> 01:15:00,116
+Sí.
+
+1319
+01:15:00,287 --> 01:15:01,436
+Qué lástima.
+
+1320
+01:15:08,687 --> 01:15:11,838
+- Voy a ver qué tal está.
+- No, necesita dormir.
+
+1321
+01:15:13,927 --> 01:15:14,723
+¿Lola?
+
+1322
+01:15:16,127 --> 01:15:17,116
+¿Estás bien?
+
+1323
+01:15:17,327 --> 01:15:18,362
+Sí.
+
+1324
+01:15:18,727 --> 01:15:20,319
+- ¿Necesitas algo?
+- No.
+
+1325
+01:15:20,487 --> 01:15:22,205
+Yo la cuidaré.
+
+1326
+01:15:22,367 --> 01:15:25,325
+- ¿Estás segura?
+- Sí. ¿Lola?
+
+1327
+01:15:29,647 --> 01:15:31,717
+Eres un genio. Hazme sitio.
+
+1328
+01:15:37,327 --> 01:15:38,442
+Hola.
+
+1329
+01:15:38,607 --> 01:15:40,757
+- Lo siento, llegamos tarde.
+- No importa.
+
+1330
+01:15:40,927 --> 01:15:43,919
+- Les presento a mi prima.
+- Hola.
+
+1331
+01:15:44,167 --> 01:15:45,680
+Es sordomuda.
+
+1332
+01:15:46,687 --> 01:15:49,884
+Vive en Londres y apenas la veo.
+
+1333
+01:15:50,127 --> 01:15:53,164
+¿Puede quedarse a dormir, por favor?.
+
+1334
+01:15:53,847 --> 01:15:55,280
+No tengo cama.
+
+1335
+01:15:55,447 --> 01:15:58,245
+A lo mejor Medhi
+puede dormir en el sofá.
+
+1336
+01:15:59,087 --> 01:16:01,442
+Si a Lili no le importa...
+
+1337
+01:16:02,047 --> 01:16:03,605
+¿Te parece bien?
+
+1338
+01:16:04,127 --> 01:16:05,116
+Sí.
+
+1339
+01:16:07,127 --> 01:16:08,799
+Entonces, de acuerdo.
+
+1340
+01:16:09,727 --> 01:16:13,276
+Estamos muy cansados,
+nos vamos a la cama.
+
+1341
+01:16:13,847 --> 01:16:15,838
+- Bien.
+- Adiós.
+
+1342
+01:16:16,007 --> 01:16:17,281
+Gracias, eres el mejor.
+
+1343
+01:16:18,487 --> 01:16:20,478
+- Que te den.
+- Vale.
+
+1344
+01:16:27,047 --> 01:16:30,596
+- Qué raro es esto.
+- Sí, la decoración es siniestra.
+
+1345
+01:16:32,367 --> 01:16:34,881
+- Pero son majos.
+- Sí.
+
+1346
+01:16:35,767 --> 01:16:38,565
+- ¿Crees que nos ha creído?
+- No, no creo. Imposible.
+
+1347
+01:16:38,727 --> 01:16:40,285
+Es sordomuda...
+
+1348
+01:16:42,607 --> 01:16:44,279
+¿Puedo pedirte un favor?
+
+1349
+01:16:44,847 --> 01:16:47,202
+¿Podrás guardarme la guitarra
+en París?
+
+1350
+01:16:47,607 --> 01:16:49,837
+Eres la única
+en quien confío de verdad.
+
+1351
+01:16:50,167 --> 01:16:51,395
+No hay problema.
+
+1352
+01:16:58,487 --> 01:17:01,047
+- ¿Por qué va todo mal en París?
+- No lo sé.
+
+1353
+01:17:01,407 --> 01:17:02,840
+En París todo se complica.
+
+1354
+01:17:11,567 --> 01:17:13,080
+- Maël.
+- ¿Qué pasa?
+
+1355
+01:17:13,607 --> 01:17:15,040
+Tengo que confesarte una cosa.
+
+1356
+01:17:15,647 --> 01:17:16,921
+¿Qué pasa?
+
+1357
+01:17:17,087 --> 01:17:18,236
+El caso es que...
+
+1358
+01:17:19,127 --> 01:17:20,560
+Es la primera vez.
+
+1359
+01:17:30,847 --> 01:17:32,200
+Es la primera vez
+
+1360
+01:17:33,287 --> 01:17:36,996
+que hago el amor con otro hombre
+desde el divorcio.
+
+1361
+01:18:14,207 --> 01:18:16,243
+- ¿Estás bien?
+- Sí.
+
+1362
+01:18:20,647 --> 01:18:22,842
+Espero que haga
+menos frío en París.
+
+1363
+01:18:27,887 --> 01:18:29,036
+Adiós.
+
+1364
+01:18:32,407 --> 01:18:36,764
+Lola, ¿puedes dejar esto
+debajo del puente del Alma?
+
+1365
+01:18:36,927 --> 01:18:40,681
+Sí, claro. Adiós.
+
+1366
+01:18:40,847 --> 01:18:42,519
+- ¡Buen viaje!
+- ¡Gracias!
+
+1367
+01:18:42,727 --> 01:18:43,762
+Adiós.
+
+1368
+01:18:48,887 --> 01:18:50,718
+Tendré que decírselo
+a Charlotte.
+
+1369
+01:18:51,207 --> 01:18:53,926
+Es diferente hacer el amor
+con alguien que amas.
+
+1370
+01:18:54,527 --> 01:18:58,042
+Tal vez no mejor, sobre todo si
+no sabes si es sólo para una noche.
+
+1371
+01:18:58,727 --> 01:19:00,718
+Es tan estupendo amar
+a la gente que amas
+
+1372
+01:19:00,887 --> 01:19:02,286
+que hasta te hace daño.
+
+1373
+01:19:02,687 --> 01:19:04,484
+No sé cómo sobrevivir a eso.
+
+1374
+01:19:04,927 --> 01:19:07,043
+De verdad, no lo sé.
+
+1375
+01:19:11,247 --> 01:19:13,238
+- Ahí están...
+- ¿Estás estresada?
+
+1376
+01:19:13,647 --> 01:19:16,923
+Si te besa en la boca es que
+lo asume, si no, se acabó.
+
+1377
+01:19:17,407 --> 01:19:18,681
+- Hola.
+- ¿Qué tal?
+
+1378
+01:19:20,047 --> 01:19:21,878
+- ¿Estás bien?
+- Sí, ¿y tú?
+
+1379
+01:19:22,167 --> 01:19:23,680
+- ¿Volviste bien?
+- Sí.
+
+1380
+01:19:23,847 --> 01:19:25,326
+¿Por qué no me has besado?
+
+1381
+01:19:25,607 --> 01:19:27,165
+- ¿Te da corte?
+- No.
+
+1382
+01:19:27,327 --> 01:19:28,043
+Creía que...
+
+1383
+01:19:28,847 --> 01:19:31,486
+Tkiero, pero es
+mu duro delante d Arthur.
+
+1384
+01:19:31,647 --> 01:19:33,319
+Ntiendes?
+
+1385
+01:19:36,047 --> 01:19:37,605
+Sí.
+
+1386
+01:19:39,887 --> 01:19:41,559
+D verdad?
+
+1387
+01:19:43,127 --> 01:19:44,401
+No.
+
+1388
+01:19:50,407 --> 01:19:52,079
+- Hola.
+- ¿Estás bien, cariño?
+
+1389
+01:19:52,767 --> 01:19:53,836
+Bien.
+
+1390
+01:19:54,567 --> 01:19:56,558
+No me has contado nada.
+
+1391
+01:19:57,127 --> 01:19:59,482
+- ¿De qué?
+- De Inglaterra.
+
+1392
+01:19:59,767 --> 01:20:01,883
+Lo de Inglaterra...
+ha sido genial.
+
+1393
+01:20:02,047 --> 01:20:03,446
+¿Qué habéis hecho?
+
+1394
+01:20:03,607 --> 01:20:05,598
+Turismo, nada especial.
+
+1395
+01:20:06,447 --> 01:20:07,562
+¿y tú?
+
+1396
+01:20:07,967 --> 01:20:09,116
+¿yo?
+
+1397
+01:20:09,287 --> 01:20:10,640
+¿Qué has hecho?
+
+1398
+01:20:11,567 --> 01:20:14,001
+- Igual, nada especial.
+- Vale.
+
+1399
+01:20:16,287 --> 01:20:19,438
+Estoy haciendo lo peor con mi hija,
+invadir sus secretos.
+
+1400
+01:20:19,607 --> 01:20:21,677
+Y cada vez me cuesta más
+seguir así.
+
+1401
+01:20:21,847 --> 01:20:23,041
+Dígaselo.
+
+1402
+01:20:23,367 --> 01:20:25,323
+- ¿Qué?
+- DÍgaselo todo.
+
+1403
+01:20:25,487 --> 01:20:29,036
+Que encontró su diario,
+que lo sabe todo. Tiene que decírselo.
+
+1404
+01:20:29,207 --> 01:20:31,243
+No, no me lo perdonará.
+
+1405
+01:20:39,327 --> 01:20:40,726
+Toma, toma.
+
+1406
+01:20:45,967 --> 01:20:47,036
+Hola.
+
+1407
+01:20:49,887 --> 01:20:51,684
+- Buenos días.
+- Hola.
+
+1408
+01:20:52,007 --> 01:20:53,565
+- Adiós.
+- Adiós, Lola.
+
+1409
+01:20:56,207 --> 01:20:58,482
+- ¿Has visto cómo le has dicho "Hola"?
+- ¿Cómo?
+
+1410
+01:20:58,647 --> 01:21:00,842
+No sé, superfría.
+En plan... "Hola".
+
+1411
+01:21:01,287 --> 01:21:04,245
+No me entusiasma que salgas
+con esa chica.
+
+1412
+01:21:04,567 --> 01:21:08,401
+Esa chica es mi mejor amiga.
+Y salgo con quien quiero, es mi vida.
+
+1413
+01:21:08,567 --> 01:21:10,239
+- ¿Qué?
+- Es mi vida.
+
+1414
+01:21:12,447 --> 01:21:16,201
+Eres mi hija, estás bajo mi
+responsabilidad, no tienes 18 años.
+
+1415
+01:21:16,367 --> 01:21:18,961
+- Hay cosas que no tengo por qué aceptar.
+- ¿Por ejemplo?
+
+1416
+01:21:19,127 --> 01:21:21,402
+Por ejemplo,
+que eches a perder tu vida.
+
+1417
+01:21:21,567 --> 01:21:23,637
+- ¡No la echo a perder!
+- Fumas porros,
+
+1418
+01:21:23,807 --> 01:21:27,243
+bebes, te acuestas con cualquiera,
+¿no es echarla a perder?
+
+1419
+01:21:27,407 --> 01:21:30,877
+- ¿Pero de dónde sacas eso?
+- Lo sé todo, Lola.
+
+1420
+01:21:31,047 --> 01:21:33,163
+- ¿Cómo que lo sabes todo?
+- ¡Deja de mentir!
+
+1421
+01:21:33,327 --> 01:21:35,397
+¡De tomarme por gilipollas!
+¡Pareces tu padre!
+
+1422
+01:21:35,567 --> 01:21:36,716
+¡Qué fuerte que digas eso!
+
+1423
+01:21:37,807 --> 01:21:39,001
+He leído tu diario.
+
+1424
+01:21:39,807 --> 01:21:41,399
+- ¿Cómo?
+- SÍ, fue sin querer.
+
+1425
+01:21:41,567 --> 01:21:43,319
+- Se cayó y...
+- ¿Sin querer?
+
+1426
+01:21:43,487 --> 01:21:46,559
+- ¡Estaba escondido!
+- Al menos, ya podemos hablar claro.
+
+1427
+01:21:46,727 --> 01:21:49,958
+¡No tienes por qué enterarte
+de mi vida, es privada!
+
+1428
+01:21:50,127 --> 01:21:51,606
+¡Es mi vida privada,
+no te metas!
+
+1429
+01:21:51,967 --> 01:21:55,846
+¡Estoy harta, no puedes hacer esto!
+¡Eres una cabrona!
+
+1430
+01:21:57,967 --> 01:22:00,765
+Ésta, ponla en tu diario, idiota.
+
+1431
+01:22:01,767 --> 01:22:02,677
+¡Lola!
+
+1432
+01:22:03,887 --> 01:22:04,842
+¡Lola!
+
+1433
+01:22:05,007 --> 01:22:06,406
+¡Mamá, Lola!
+
+1434
+01:22:06,927 --> 01:22:08,042
+Lola...
+
+1435
+01:22:09,247 --> 01:22:10,202
+PROHIBIDO PASAR
+
+1436
+01:22:10,407 --> 01:22:12,398
+Aquí falta un hombre.
+
+1437
+01:22:13,047 --> 01:22:14,196
+¿Y yo?
+
+1438
+01:22:14,807 --> 01:22:16,399
+¡Cariño!
+
+1439
+01:22:16,567 --> 01:22:18,159
+¡Abre inmediatamente!
+
+1440
+01:22:18,327 --> 01:22:21,205
+Es mi habitación,
+¿eso no puedes respetarlo?
+
+1441
+01:22:21,447 --> 01:22:23,961
+- ¡Lola, tenemos que hablar!
+- ¡Nunca más!
+
+1442
+01:22:24,487 --> 01:22:25,840
+¡Que te den!
+
+1443
+01:22:27,487 --> 01:22:29,603
+¡ya verás cuando salgas!
+
+1444
+01:22:29,767 --> 01:22:31,439
+¡ya verás lo que...!
+
+1445
+01:22:32,167 --> 01:22:34,203
+- ¿Adónde vas?
+- A casa de mi padre.
+
+1446
+01:22:34,367 --> 01:22:36,085
+Lo estás deseando.
+¿Te molesta?
+
+1447
+01:22:36,247 --> 01:22:37,475
+En absoluto.
+
+1448
+01:22:38,167 --> 01:22:40,237
+Incluso puedo acompañarte.
+
+1449
+01:22:40,647 --> 01:22:42,160
+No hace falta.
+Adiós a todos.
+
+1450
+01:22:50,567 --> 01:22:51,761
+Dnd stas?
+
+1451
+01:22:56,207 --> 01:22:57,879
+N kasa de mi padre.
+
+1452
+01:22:58,687 --> 01:23:00,678
+- Pongo ajo en la salsa.
+- No.
+
+1453
+01:23:00,847 --> 01:23:02,644
+Sí, pongo ajo en la salsa.
+
+1454
+01:23:08,527 --> 01:23:10,802
+M he kabreado kon mi madre.
+
+1455
+01:23:14,047 --> 01:23:16,117
+Yeso k no tienes la mía.
+
+1456
+01:23:18,847 --> 01:23:20,075
+¡Charlotte!
+
+1457
+01:23:25,367 --> 01:23:27,278
+- A cenar.
+- SÍ, ya voy.
+
+1458
+01:23:34,767 --> 01:23:36,280
+Damos klase d lengua?
+
+1459
+01:23:36,447 --> 01:23:40,326
+La imagen del triángulo JFK
+por traslación del vector ID,
+
+1460
+01:23:40,487 --> 01:23:42,557
+es el triángulo EFJ,
+
+1461
+01:23:42,727 --> 01:23:44,046
+o el EAF.
+
+1462
+01:23:44,927 --> 01:23:45,962
+¿Perdón?
+
+1463
+01:23:47,087 --> 01:23:49,203
+Bien. Sabes qué es un vector.
+
+1464
+01:23:49,887 --> 01:23:52,082
+Sí... ¿Un vector de DVD?
+
+1465
+01:23:53,247 --> 01:23:54,236
+De acuerdo.
+
+1466
+01:24:18,207 --> 01:24:19,799
+¿Puedo saber adónde vas?
+
+1467
+01:24:21,847 --> 01:24:23,803
+Al baño. Sólo voy a...
+
+1468
+01:24:24,047 --> 01:24:26,083
+¿Vas al baño
+con los Zapatos en la mano?
+
+1469
+01:24:26,727 --> 01:24:29,195
+Los hay que leen el periódico
+en el baño, yo...
+
+1470
+01:24:29,367 --> 01:24:30,482
+Para.
+
+1471
+01:24:31,167 --> 01:24:32,566
+¿Ves esta puerta?
+
+1472
+01:24:33,007 --> 01:24:36,044
+Nueva tecnología,
+la misma que en los museos.
+
+1473
+01:24:36,207 --> 01:24:38,402
+- Los museos...
+- Si te acercas a la puerta,
+
+1474
+01:24:38,887 --> 01:24:42,357
+el láser detecta que vas
+a salir y salta la alarma.
+
+1475
+01:24:42,527 --> 01:24:43,926
+y estás castigado.
+
+1476
+01:24:44,087 --> 01:24:47,523
+Pero no quería salir,
+sólo quería ir al baño.
+
+1477
+01:24:47,687 --> 01:24:50,679
+Más te vale que no vuelva
+a saltar. Nunca más.
+
+1478
+01:24:50,927 --> 01:24:52,440
+Tranquilo, François.
+
+1479
+01:24:53,207 --> 01:24:54,640
+- ¿Entendido?
+- Sí.
+
+1480
+01:24:54,807 --> 01:24:56,525
+- ¿Sí, quién?
+- Sí, papá.
+
+1481
+01:24:57,407 --> 01:24:59,477
+Bien. y ahora, a la cama,
+mi amor.
+
+1482
+01:24:59,767 --> 01:25:00,995
+Buenas noches.
+
+1483
+01:25:01,167 --> 01:25:03,522
+Ven a la cama también tú.
+
+1484
+01:25:03,847 --> 01:25:05,838
+¿Por qué no me dices a mí
+"mi amor"?
+
+1485
+01:25:06,007 --> 01:25:07,235
+Venga, ven.
+
+1486
+01:25:07,407 --> 01:25:11,241
+Vais a ver que en muchos aspectos
+el puerco o cerdo...
+
+1487
+01:25:11,527 --> 01:25:13,722
+es muy parecido al hombre.
+
+1488
+01:25:13,887 --> 01:25:15,400
+Por una vez,
+estamos de acuerdo.
+
+1489
+01:25:16,327 --> 01:25:18,921
+Srta. Clavel, sus reflexiones
+sobran, gracias.
+
+1490
+01:25:20,807 --> 01:25:21,956
+La válvula.
+
+1491
+01:25:22,127 --> 01:25:24,846
+Lo más importante del corazón
+que vamos a diseccionar.
+
+1492
+01:25:25,007 --> 01:25:28,363
+Vais a decirme qué es una válvula.
+
+1493
+01:25:28,887 --> 01:25:30,479
+- Señor...
+- ¿Sí, señor Reinal?
+
+1494
+01:25:30,767 --> 01:25:32,120
+¿No será como una vulva?
+
+1495
+01:25:33,567 --> 01:25:37,082
+Me muero de risa, señor Reinal,
+me muero de risa.
+
+1496
+01:25:37,247 --> 01:25:40,637
+Bien. Coged los escalpelos
+y haced una incisión.
+
+1497
+01:25:40,807 --> 01:25:43,480
+yo no toco esto.
+
+1498
+01:25:44,887 --> 01:25:46,036
+Empezamos.
+
+1499
+01:25:48,487 --> 01:25:49,681
+Cómo mola.
+
+1500
+01:25:49,967 --> 01:25:51,195
+¿Eres un psicópata?
+
+1501
+01:25:51,367 --> 01:25:53,483
+Qué guarrada.
+¿Te imaginas cuántos cerdos
+
+1502
+01:25:53,647 --> 01:25:55,239
+habrán matado para esta clase?
+
+1503
+01:25:55,407 --> 01:25:56,840
+¿Qué hace Greenpeace?
+
+1504
+01:25:57,287 --> 01:26:00,677
+Lo mismo que por las ballenas a las
+que se mata para tu maquillaje de puta.
+
+1505
+01:26:00,847 --> 01:26:01,916
+No mucho.
+
+1506
+01:26:02,447 --> 01:26:04,119
+Deja de llamar putas
+a las tías,
+
+1507
+01:26:04,287 --> 01:26:05,402
+eres un coñazo.
+
+1508
+01:26:05,567 --> 01:26:06,556
+Está claro.
+
+1509
+01:26:06,727 --> 01:26:08,319
+- Gracias.
+- Lo digo de corazón.
+
+1510
+01:26:08,487 --> 01:26:10,478
+Espero no molestaros.
+
+1511
+01:26:11,687 --> 01:26:13,040
+¡Una pata de conejo!
+
+1512
+01:26:13,207 --> 01:26:14,322
+Eso no se hace.
+
+1513
+01:26:14,487 --> 01:26:16,159
+Sí se hace.
+
+1514
+01:26:17,087 --> 01:26:19,317
+Y los que no estén de acuerdo,
+que se vayan.
+
+1515
+01:26:19,727 --> 01:26:21,365
+Hemos hecho bien
+en largarnos.
+
+1516
+01:26:21,527 --> 01:26:24,360
+Le he pillado con eso
+de que no toco el cerdo.
+
+1517
+01:26:24,527 --> 01:26:27,087
+Coñazo de religiones...
+A mí me molaba.
+
+1518
+01:26:27,247 --> 01:26:29,363
+- Eres un asesino en serie.
+- ya basta.
+
+1519
+01:26:31,967 --> 01:26:33,241
+¡No, joder!
+
+1520
+01:26:33,527 --> 01:26:36,599
+Vayan sacando todos el cuaderno
+de notificaciones.
+
+1521
+01:26:36,767 --> 01:26:38,883
+No lo tengo,
+me van a expulsar.
+
+1522
+01:26:39,407 --> 01:26:40,840
+Así ahorramos tiempo.
+
+1523
+01:26:41,007 --> 01:26:43,157
+- ¿Qué hacemos?
+- Ya veremos.
+
+1524
+01:26:43,407 --> 01:26:44,635
+Es por esta tía.
+
+1525
+01:26:44,807 --> 01:26:46,160
+La hemos cagado.
+
+1526
+01:26:47,047 --> 01:26:49,845
+Vas a dejar el metro,
+el aire de París.
+
+1527
+01:26:50,007 --> 01:26:52,441
+No puedo irme de París,
+no puedo irme interno.
+
+1528
+01:26:52,607 --> 01:26:54,279
+No puedo dejar el grupo.
+
+1529
+01:26:54,447 --> 01:26:56,961
+Ya, a mí también me jode.
+
+1530
+01:26:58,287 --> 01:26:59,561
+Pero tranqui, no me iré.
+
+1531
+01:27:00,887 --> 01:27:03,082
+los dos mejores amigos
+
+1532
+01:27:03,247 --> 01:27:04,475
+en el balcón.
+
+1533
+01:27:05,207 --> 01:27:07,767
+Pero lo de Lola y tú
+no me jode.
+
+1534
+01:27:08,287 --> 01:27:10,278
+- ¿Sabías que salgo con ella?
+- Sí.
+
+1535
+01:27:11,567 --> 01:27:13,797
+- ¿De verdad no te jode?
+- No, me alegro.
+
+1536
+01:27:13,967 --> 01:27:16,640
+En serio, me hace muy feliz.
+
+1537
+01:27:17,007 --> 01:27:19,567
+- Gracias, qué bien.
+- No te pases.
+
+1538
+01:27:21,807 --> 01:27:23,638
+La vainilla sí,
+pero el caramelo...
+
+1539
+01:27:26,247 --> 01:27:28,602
+yo al revés, prefiero el caramelo.
+
+1540
+01:27:33,087 --> 01:27:34,315
+Es complicado, ¿eh?
+
+1541
+01:27:34,807 --> 01:27:35,876
+Sí.
+
+1542
+01:27:36,287 --> 01:27:37,481
+Es complicado.
+
+1543
+01:28:30,487 --> 01:28:32,921
+Soy mamá.
+Te echo de menos, cielo.
+
+1544
+01:28:45,847 --> 01:28:48,407
+Y siento haber leído
+tu diario.
+
+1545
+01:28:52,967 --> 01:28:54,116
+Mi niña...
+
+1546
+01:28:55,887 --> 01:28:57,445
+Toma, Festival Emergenza.
+
+1547
+01:28:57,607 --> 01:28:59,404
+En el 11, como la última vez.
+
+1548
+01:28:59,567 --> 01:29:01,000
+La última vez no lo encontré.
+
+1549
+01:29:01,527 --> 01:29:03,961
+Compra un plano del Metro
+y empóllatelo.
+
+1550
+01:29:04,447 --> 01:29:07,564
+Es que si hoy voy a casa
+mi padre no me dejará salir.
+
+1551
+01:29:07,727 --> 01:29:09,080
+¿No lo tenías controlado?
+
+1552
+01:29:09,247 --> 01:29:11,078
+- Lo siento, no.
+- Qué putada.
+
+1553
+01:29:11,247 --> 01:29:12,441
+yo igual.
+
+1554
+01:29:12,607 --> 01:29:14,438
+- Yo también.
+- Y yo.
+
+1555
+01:29:15,407 --> 01:29:16,999
+No vamos a cancelarlo.
+
+1556
+01:29:17,847 --> 01:29:19,519
+Creo que tengo un plan.
+
+1557
+01:29:19,687 --> 01:29:21,917
+- ¿Sí?
+- Creo que se puede hacer.
+
+1558
+01:29:22,687 --> 01:29:24,359
+- ¡Lola!
+- ¡Lou!
+
+1559
+01:29:25,447 --> 01:29:27,165
+¡Te he echado de menos!
+
+1560
+01:29:27,447 --> 01:29:28,562
+y yo a ti.
+
+1561
+01:29:28,807 --> 01:29:30,399
+Cuánto me alegro
+de veros.
+
+1562
+01:29:30,567 --> 01:29:32,000
+- Mi niña, mi niña.
+- Mamá.
+
+1563
+01:29:32,167 --> 01:29:34,601
+- Te he echado de menos.
+- y yo a ti.
+
+1564
+01:29:34,767 --> 01:29:36,246
+¡Lola ha vuelto!
+
+1565
+01:29:37,567 --> 01:29:39,637
+- ¿A ver esa cara?
+- ¿He cambiado?
+
+1566
+01:29:39,887 --> 01:29:42,959
+- No me gusta que no estés.
+- Ni a mí. No.
+
+1567
+01:29:43,327 --> 01:29:45,124
+- Mi niña.
+- ya no nos separaremos.
+
+1568
+01:29:48,087 --> 01:29:49,236
+Oye, mamá.
+
+1569
+01:29:49,407 --> 01:29:51,079
+¿Puedo pedirte una cosa?
+
+1570
+01:29:51,327 --> 01:29:52,396
+¿ya?
+
+1571
+01:29:53,087 --> 01:29:55,476
+Eres la mejor mamá
+a quien podemos pedÍrselo.
+
+1572
+01:29:55,647 --> 01:29:56,841
+¿"Podemos"?
+
+1573
+01:29:58,327 --> 01:29:59,476
+Hola.
+
+1574
+01:29:59,647 --> 01:30:01,239
+- Hola.
+- Hola.
+
+1575
+01:30:02,207 --> 01:30:03,276
+Hola.
+
+1576
+01:30:10,647 --> 01:30:12,524
+Son un montón.
+
+1577
+01:30:19,727 --> 01:30:20,762
+¿Maël?
+
+1578
+01:30:31,447 --> 01:30:32,596
+¡Idiota!
+
+1579
+01:30:58,767 --> 01:30:59,882
+Diez euros.
+
+1580
+01:32:05,447 --> 01:32:06,675
+Muchas gracias.
+
+1581
+01:32:06,967 --> 01:32:10,721
+Quiero dedicar esta canción a alguien
+que es muy importante para mí.
+
+1582
+01:32:11,487 --> 01:32:14,718
+Antes decíamos
+
+1583
+01:32:15,167 --> 01:32:17,556
+que éramos
+
+1584
+01:32:17,807 --> 01:32:20,241
+hermanos.
+
+1585
+01:32:20,407 --> 01:32:22,796
+Antes pensábamos
+
+1586
+01:32:23,527 --> 01:32:25,119
+que no existía
+
+1587
+01:32:27,767 --> 01:32:29,405
+la amargura.
+
+1588
+01:32:31,007 --> 01:32:32,440
+Hoy
+
+1589
+01:32:32,607 --> 01:32:35,405
+rompo mis promesas
+
+1590
+01:32:36,207 --> 01:32:38,926
+para evitar
+
+1591
+01:32:39,087 --> 01:32:41,078
+la soledad.
+
+1592
+01:32:41,247 --> 01:32:44,000
+Hoy hago
+
+1593
+01:32:44,167 --> 01:32:45,805
+nuevas promesas
+
+1594
+01:32:46,127 --> 01:32:48,357
+para mañana.
+
+1595
+01:32:52,767 --> 01:32:56,316
+Antes jugábamos
+
+1596
+01:32:56,487 --> 01:32:58,398
+a todos los juegos
+
+1597
+01:32:58,567 --> 01:33:01,001
+que nadie gana.
+
+1598
+01:33:01,447 --> 01:33:03,722
+Antes nos reíamos
+
+1599
+01:33:04,287 --> 01:33:06,243
+y contábamos mentiras
+
+1600
+01:33:08,247 --> 01:33:09,885
+para sentirnos mejor.
+
+1601
+01:33:11,767 --> 01:33:13,917
+El hoy está lleno
+
+1602
+01:33:14,087 --> 01:33:15,839
+de soledad.
+
+1603
+01:33:16,527 --> 01:33:20,406
+El mañana está lleno de promesas.
+
+1604
+01:33:21,287 --> 01:33:23,482
+El hoy está lleno
+
+1605
+01:33:23,647 --> 01:33:25,319
+de promesas
+
+1606
+01:33:25,927 --> 01:33:27,679
+para el mañana.
+
+1607
+01:33:51,687 --> 01:33:53,962
+Antes jurábamos
+
+1608
+01:33:54,127 --> 01:33:56,083
+que éramos
+
+1609
+01:33:56,407 --> 01:33:58,284
+hermanos.
+
+1610
+01:33:58,807 --> 01:34:00,877
+Siempre supimos
+
+1611
+01:34:02,127 --> 01:34:03,526
+que tú
+
+1612
+01:34:05,647 --> 01:34:07,285
+me llevarías contigo.
+
+1613
+01:34:08,967 --> 01:34:11,606
+El hoy está lleno
+
+1614
+01:34:11,767 --> 01:34:13,485
+de soledad.
+
+1615
+01:34:13,887 --> 01:34:16,845
+El mañana está lleno
+
+1616
+01:34:17,007 --> 01:34:17,996
+de promesas...
+
+1617
+01:34:18,167 --> 01:34:18,997
+¿Mamá?
+
+1618
+01:34:19,167 --> 01:34:21,237
+El hoy está lleno
+
+1619
+01:34:21,407 --> 01:34:22,681
+de promesas...
+
+1620
+01:34:24,487 --> 01:34:27,843
+BASADA EN HECHOS REALES...
+

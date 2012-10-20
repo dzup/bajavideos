@@ -1,0 +1,2569 @@
+1
+00:02:03,000 --> 00:02:04,800
+Alice...
+
+2
+00:02:06,201 --> 00:02:08,301
+¿Has visto mi arma?
+
+3
+00:02:14,702 --> 00:02:16,702
+Debe estar en algún lugar.
+
+4
+00:02:16,803 --> 00:02:20,503
+Puedo haberlas
+guardado con las fotos.
+
+5
+00:02:26,404 --> 00:02:28,704
+¿Alice?
+
+6
+00:02:35,505 --> 00:02:37,705
+¿Cariño?
+
+7
+00:02:39,806 --> 00:02:42,706
+¿Está todo bien?
+
+8
+00:02:48,007 --> 00:02:50,307
+Estoy bien.
+
+9
+00:02:54,808 --> 00:02:57,608
+Cariño, ven aquí.
+
+10
+00:03:06,809 --> 00:03:09,009
+¿Qué pasó?
+
+11
+00:03:12,810 --> 00:03:16,010
+¿Has tenido calambres?
+
+12
+00:03:16,211 --> 00:03:18,511
+Estoy llena de miedo.
+
+13
+00:03:19,812 --> 00:03:21,912
+Sí, lo sé.
+
+14
+00:03:25,013 --> 00:03:27,413
+Estás bien, ¿verdad?
+
+15
+00:03:28,314 --> 00:03:30,014
+Si.
+
+16
+00:03:37,115 --> 00:03:39,315
+¿No la hallaste?
+
+17
+00:03:40,216 --> 00:03:42,316
+No, y no tengo tiempo para buscarla.
+
+18
+00:03:42,317 --> 00:03:44,717
+El Jefe lo entenderá.
+
+19
+00:03:45,418 --> 00:03:47,618
+Eso espero.
+
+20
+00:03:48,919 --> 00:03:50,319
+¿Estás nervioso?
+
+21
+00:03:50,320 --> 00:03:51,920
+No.
+
+22
+00:03:54,721 --> 00:03:57,421
+Parece que fuera mi primer día.
+
+23
+00:03:58,322 --> 00:04:01,122
+Estoy segura que
+causarás buena impresión.
+
+24
+00:04:06,423 --> 00:04:09,023
+Es mejor que me vaya.
+
+25
+00:04:12,624 --> 00:04:14,324
+Te amo.
+
+26
+00:04:14,325 --> 00:04:16,725
+Yo también.
+
+27
+00:04:31,104 --> 00:04:32,900
+¿No te llevas el carro?
+
+28
+00:04:33,326 --> 00:04:34,926
+Es posible que quieras ir a la ciudad.
+
+29
+00:04:35,627 --> 00:04:37,027
+Puedo caminar.
+
+30
+00:04:37,028 --> 00:04:38,928
+Usted puede ir a pie.
+
+31
+00:04:38,929 --> 00:04:41,429
+¿Por lo menos sabes el camino?
+
+32
+00:04:45,830 --> 00:04:48,030
+Ni idea.
+
+33
+00:05:04,631 --> 00:05:08,331
+BIENVENIDO A RED HILL
+
+34
+00:05:25,132 --> 00:05:29,532
+MUSEO - AYUNTAMIENTO
+HOTEL - POLICÍA
+
+35
+00:06:13,933 --> 00:06:18,233
+<i>Buenos días. Soy Richard Morecroft
+con las noticias nacionales y regionales</i>
+
+36
+00:06:18,234 --> 00:06:22,034
+<i>recibimos la noticia que
+hubo una gran explosión...</i>
+
+37
+00:06:22,135 --> 00:06:24,935
+<i>en la Prisión de Máxima
+Seguridad de Western Bay</i>
+
+38
+00:06:24,936 --> 00:06:28,236
+<i>Los residentes fueron
+despertados a las 8:00 a. m.</i>
+
+39
+00:06:28,237 --> 00:06:31,837
+<i>por lo que fue descrito
+como una ruidosa explosión.</i>
+
+40
+00:06:31,938 --> 00:06:33,738
+Hola.
+
+41
+00:06:34,539 --> 00:06:36,639
+- Yo sólo estaba...
+- No hay problema.
+
+42
+00:06:36,640 --> 00:06:39,440
+Agente Shane Cooper
+reportándose al servicio.
+
+43
+00:06:40,141 --> 00:06:42,241
+Sargento Jim Barlow.
+
+44
+00:06:42,242 --> 00:06:44,942
+El viejo Bill dijo que vendrías.
+
+45
+00:06:44,943 --> 00:06:46,443
+Así que, ¿acabas de llegar a la ciudad?
+
+46
+00:06:46,544 --> 00:06:48,244
+Sí, llegué ayer por la noche.
+
+47
+00:06:48,445 --> 00:06:49,845
+¿Cómo estuvo tu viaje?
+
+48
+00:06:49,846 --> 00:06:53,146
+Pudo haber sido más rápido si mi esposa
+no hubiera tenido que orinar a cada rato.
+
+49
+00:06:53,147 --> 00:06:56,847
+- ¿Qué? ¡Tiene problemas de vejiga?
+- No, no, está embarazada.
+
+50
+00:06:56,848 --> 00:06:59,548
+Estupendo.
+
+51
+00:06:59,849 --> 00:07:02,449
+Fay, es una mierda y lo sabes.
+
+52
+00:07:03,050 --> 00:07:04,650
+¡Mierda!
+
+53
+00:07:04,751 --> 00:07:06,451
+No digas eso.
+
+54
+00:07:10,552 --> 00:07:12,552
+Oye, Manning...
+
+55
+00:07:12,653 --> 00:07:15,453
+<i>Maldita sea, Barlow. Estoy retrasado.</i>
+
+56
+00:07:15,954 --> 00:07:18,854
+Manning, ven aquí, quiero
+presentarte a alguien.
+
+57
+00:07:21,455 --> 00:07:24,355
+Es Shane Cooper. El nuevo.
+
+58
+00:07:31,056 --> 00:07:33,456
+Tiene problemas matrimoniales.
+
+59
+00:07:34,357 --> 00:07:37,957
+Entonces, él es el jefe es o...
+
+60
+00:07:38,058 --> 00:07:40,058
+No, el Viejo Bill está
+en el Ayuntamiento.
+
+61
+00:07:40,059 --> 00:07:42,359
+¿Quieres ir a verlo?
+
+62
+00:07:44,160 --> 00:07:46,760
+¿Me dices dónde es? O...
+
+63
+00:07:46,761 --> 00:07:48,661
+Dios mío, lo siento mucho...
+
+64
+00:07:48,762 --> 00:07:51,462
+Tendré que acostumbrarme
+a un chico citadino.
+
+65
+00:07:52,063 --> 00:07:54,963
+Vas a la carretera principal
+y doblas a la derecha.
+
+66
+00:07:54,964 --> 00:07:57,064
+Sube la colina, pasas por
+el centro de información...
+
+67
+00:07:57,065 --> 00:07:59,065
+- ¿El Centro de información?
+- Es fácil de ver,
+
+68
+00:07:59,066 --> 00:08:01,166
+hay una exposición
+prehistórica en la vidriera.
+
+69
+00:08:01,567 --> 00:08:03,367
+De acuerdo.
+
+70
+00:08:04,868 --> 00:08:06,568
+¿Shane?
+
+71
+00:08:06,569 --> 00:08:09,269
+No irás a decirle a Bill que estaba
+durmiendo la siesta, ¿verdad?
+
+72
+00:08:10,270 --> 00:08:13,270
+A menos que digas que llegué tarde.
+
+73
+00:08:15,671 --> 00:08:18,771
+¿Sabías que hay un caballo
+suelto ¿No hay estacionamiento?
+
+74
+00:08:18,772 --> 00:08:21,172
+Sí, es Beth. Ella vive aquí.
+
+75
+00:08:22,373 --> 00:08:24,473
+Por supuesto que sí.
+
+76
+00:08:50,274 --> 00:08:53,574
+Siempre me pregunto
+¿cómo sería esta ciudad...
+
+77
+00:08:53,575 --> 00:08:55,975
+cuando era próspera?
+
+78
+00:08:56,176 --> 00:08:59,776
+¿Cuándo tenía el sentido de
+la vocación y del orgullo?
+
+79
+00:09:00,877 --> 00:09:04,377
+Desde entonces hemos visto el
+cierre la industria maderera...
+
+80
+00:09:04,678 --> 00:09:06,578
+el abandono del aserradero...
+
+81
+00:09:06,779 --> 00:09:09,179
+la reducción a polvo
+de nuestros cultivos...
+
+82
+00:09:09,280 --> 00:09:11,080
+y la zona montañosa...
+
+83
+00:09:11,181 --> 00:09:14,081
+transformada en reserva nacional.
+
+84
+00:09:15,682 --> 00:09:18,082
+Por lo tanto, parece apropiado...
+
+85
+00:09:18,083 --> 00:09:21,383
+que Marta sugiera la
+clausura del último negocio...
+
+86
+00:09:21,484 --> 00:09:23,984
+de esta ciudad miserable.
+
+87
+00:09:27,085 --> 00:09:29,985
+¡Ese no es el punto,
+Bill, y tú lo sabes!
+
+88
+00:09:30,086 --> 00:09:32,386
+En vez de vivir en el pasado...
+
+89
+00:09:32,687 --> 00:09:36,787
+esta ciudad debe avanzar hacia
+nuevas fuentes de ingresos.
+
+90
+00:09:37,188 --> 00:09:41,688
+No estarás sugiriendo una
+feria de comida y vino, ¿Verdad?
+
+91
+00:09:43,689 --> 00:09:45,889
+Nuestros padres no han sacrificado
+
+92
+00:09:45,890 --> 00:09:47,790
+su sangre, sudor y lágrimas...
+
+93
+00:09:47,890 --> 00:09:52,890
+¡para que un montón de idiotas
+vengan aquí a probar el Pinot!
+
+94
+00:10:00,091 --> 00:10:03,291
+Para aquellos que quieren
+destruir este pueblo...
+
+95
+00:10:04,792 --> 00:10:08,092
+antes tendrán que pasar sobre mí...
+
+96
+00:10:08,893 --> 00:10:12,193
+porque no me iré sin pelear.
+
+97
+00:10:25,094 --> 00:10:27,094
+¿Dónde está su arma, agente?
+
+98
+00:10:34,895 --> 00:10:36,995
+Señor...
+
+99
+00:10:39,696 --> 00:10:42,296
+¿Jefe?
+
+100
+00:10:43,597 --> 00:10:46,997
+Mire, llegué muy tarde anoche...
+
+101
+00:10:47,098 --> 00:10:48,798
+tenía la casa llena de cajas...
+
+102
+00:10:48,799 --> 00:10:50,999
+¿Por qué no desempacó?
+
+103
+00:10:51,500 --> 00:10:53,900
+Señor, no sabía dónde estaba.
+
+104
+00:10:54,001 --> 00:10:55,601
+¿Así que la perdió?
+
+105
+00:10:55,602 --> 00:10:57,502
+No señor, sólo no tuve
+tiempo de encontrarla.
+
+106
+00:10:57,503 --> 00:11:00,003
+Si sabía dónde estaba,
+debió haberla encontrado.
+
+107
+00:11:00,204 --> 00:11:01,904
+Señor...
+
+108
+00:11:02,205 --> 00:11:06,405
+¿Sabía que perder un arma amerita
+un procedimiento disciplinario?
+
+109
+00:11:06,806 --> 00:11:09,806
+Me encantaría informar
+que la he perdido...
+
+110
+00:11:09,807 --> 00:11:12,507
+si piensa que es necesario, señor.
+
+111
+00:11:13,108 --> 00:11:16,408
+No trate de impresionarme, Agente.
+
+112
+00:11:17,709 --> 00:11:19,909
+Aún no me he desayunado.
+
+113
+00:11:21,510 --> 00:11:23,910
+Sí, señor.
+
+114
+00:11:33,311 --> 00:11:36,311
+Así que, ¿Por qué se transfirió, Shane?
+
+115
+00:11:37,612 --> 00:11:40,312
+Por razones personales, supongo.
+
+116
+00:11:41,013 --> 00:11:43,713
+¿Qué tipo de razones personales?
+
+117
+00:11:48,514 --> 00:11:51,514
+¿Podrías darnos un minuto?
+
+118
+00:12:07,715 --> 00:12:11,615
+Si voy a ser su superior, no hay
+nada que no pueda decirme.
+
+119
+00:12:13,316 --> 00:12:15,616
+Ahora, para serle honesto Shane,...
+
+120
+00:12:15,817 --> 00:12:19,617
+cuando alguien de la ciudad
+solicita su traslado aquí...
+
+121
+00:12:19,918 --> 00:12:21,918
+sólo puede ser por dos cosas...
+
+122
+00:12:22,119 --> 00:12:24,519
+o es perezoso...
+
+123
+00:12:24,620 --> 00:12:27,620
+y quiere un trabajo suave...
+
+124
+00:12:27,721 --> 00:12:30,921
+o es un nuevo buscando
+una promoción fácil.
+
+125
+00:12:31,722 --> 00:12:35,322
+- Entonces, ¿cuál es?
+- Ninguna, señor.
+
+126
+00:12:39,423 --> 00:12:41,923
+Entonces, ¿de qué se trata?
+
+127
+00:12:42,224 --> 00:12:45,024
+Es mi esposa, señor.
+
+128
+00:12:46,425 --> 00:12:48,725
+Ella tuvo un aborto...
+
+129
+00:12:48,926 --> 00:12:51,826
+tuvo un aborto a los seis meses.
+
+130
+00:12:52,527 --> 00:12:57,027
+El médico le aconsejó ir a un
+lugar tranquilo, lejos de la ciudad.
+
+131
+00:12:57,428 --> 00:13:00,028
+Para tratar de mantener
+baja su presión arterial.
+
+132
+00:13:22,229 --> 00:13:27,029
+Algo que no he visto en mucho tiempo.
+Los hermanos Carlin cabalgando por aquí.
+
+133
+00:13:27,330 --> 00:13:29,530
+- Bill.
+- ¿Qué te trae por aquí, Micky?
+
+134
+00:13:29,531 --> 00:13:32,531
+Gleason perdió el
+rebaño esta mañana.
+
+135
+00:13:32,632 --> 00:13:35,432
+El viejo olvidó cerrar la
+puerta de la cerca, ¿no?
+
+136
+00:13:35,433 --> 00:13:39,433
+Fue algo que los asustó. Con la
+agitación rompieron la cerca.
+
+137
+00:13:40,234 --> 00:13:42,534
+¿Adónde van?
+
+138
+00:13:44,535 --> 00:13:47,835
+No se lo dirás a nadie, ¿Verdad, Billy?
+
+139
+00:13:48,036 --> 00:13:50,736
+No a menos que Uds. regresen.
+
+140
+00:13:53,437 --> 00:13:57,537
+Este es Shane Cooper,
+el nuevo agente.
+
+141
+00:14:02,738 --> 00:14:05,938
+Será mejor que reúnan la manada
+antes que llegue la tormenta.
+
+142
+00:14:06,539 --> 00:14:08,839
+Se asustarán más si no lo hacemos.
+
+143
+00:14:08,840 --> 00:14:11,340
+Bueno, pórtense bien.
+
+144
+00:14:21,041 --> 00:14:23,741
+¿No se les permite andar
+por las montañas?
+
+145
+00:14:23,742 --> 00:14:25,942
+No desde que el gobierno lo prohibió.
+
+146
+00:14:26,243 --> 00:14:28,343
+Dios me libre...
+
+147
+00:14:28,344 --> 00:14:31,444
+pero alguien puede
+pisar una maldita planta.
+
+148
+00:14:36,445 --> 00:14:38,245
+Sí.
+
+149
+00:14:43,946 --> 00:14:46,246
+Inútil.
+
+150
+00:14:56,448 --> 00:14:58,848
+Es bueno ver que el
+negocio está activo, Ted.
+
+151
+00:14:58,849 --> 00:15:01,549
+Alguien tiene que pagar
+las medicinas de Keith.
+
+152
+00:15:08,250 --> 00:15:10,250
+Vi su currículo.
+
+153
+00:15:10,551 --> 00:15:12,851
+Es muy bueno.
+
+154
+00:15:13,152 --> 00:15:15,252
+Gracias, señor.
+
+155
+00:15:17,653 --> 00:15:20,053
+¿Para qué fue la terapia?
+
+156
+00:15:21,654 --> 00:15:23,854
+La terapia de la policía.
+
+157
+00:15:23,955 --> 00:15:26,355
+- Fue una imposición.
+- ¿Por qué?
+
+158
+00:15:28,656 --> 00:15:30,956
+Recibí un disparo en
+servicio, señor.
+
+159
+00:15:32,357 --> 00:15:34,457
+¿Estrés post-traumático?
+
+160
+00:15:34,558 --> 00:15:38,158
+- No, señor.
+- ¿Entonces por qué te obligaron?
+
+161
+00:15:39,959 --> 00:15:42,459
+Creo que pensaron que fue mi culpa.
+
+162
+00:15:42,460 --> 00:15:44,760
+¿Qué, se disparó a sí mismo?
+
+163
+00:15:45,561 --> 00:15:47,361
+No, señor.
+
+164
+00:15:47,562 --> 00:15:49,662
+Entonces, ¿quién disparó?
+
+165
+00:15:51,063 --> 00:15:52,763
+Un niño.
+
+166
+00:15:54,564 --> 00:15:58,564
+Estaba drogado, tenía un
+arma oculta. Saqué la mía y...
+
+167
+00:16:01,165 --> 00:16:05,365
+- No tiraste del gatillo.
+- Era un niño.
+
+168
+00:16:05,666 --> 00:16:07,966
+Era un niño armado.
+
+169
+00:16:08,267 --> 00:16:11,367
+- Es una forma de verlo.
+- ¿Cuál es la otra, agente?
+
+170
+00:16:11,368 --> 00:16:14,368
+Tal vez necesitaba ayuda, no una bala.
+
+171
+00:16:18,469 --> 00:16:20,869
+¿No está de acuerdo, jefe?
+
+172
+00:16:21,070 --> 00:16:25,270
+Tendríamos una conversación
+diferente si Ud. hubiera muerto.
+
+173
+00:16:25,671 --> 00:16:27,771
+<i>Bill adelante. Cambio.</i>
+
+174
+00:16:30,972 --> 00:16:33,072
+Sí, soy yo, habla.
+
+175
+00:16:33,073 --> 00:16:34,773
+<i>Recibí una llamada de Gleason.</i>
+
+176
+00:16:34,774 --> 00:16:37,774
+<i>Quiere a alguien en su
+propiedad para comprobar algo.</i>
+
+177
+00:16:37,975 --> 00:16:39,875
+¿Es acerca de caballos desaparecidos?
+
+178
+00:16:39,876 --> 00:16:43,076
+<i>Sí, dice que ha descubierto
+la causa de los disturbios.</i>
+
+179
+00:16:43,077 --> 00:16:45,077
+<i>¿Vendrás para acá?</i>
+
+180
+00:16:45,078 --> 00:16:48,578
+No. Enviaré a Cooper para allá.
+
+181
+00:16:49,879 --> 00:16:52,479
+Es hora de hacer su debut.
+
+182
+00:16:53,380 --> 00:16:55,180
+<i>Copiado.</i>
+
+183
+00:17:01,281 --> 00:17:03,681
+Una vez que llegues a la parte
+superior de la colina...
+
+184
+00:17:04,182 --> 00:17:06,282
+Hay una torre de comunicaciones.
+
+185
+00:17:06,283 --> 00:17:09,183
+La propiedad está ubicada
+al sur de la torre.
+
+186
+00:17:11,384 --> 00:17:15,084
+De acuerdo. ¿Entonces uso el
+carro que está atrás?
+
+187
+00:17:15,085 --> 00:17:18,185
+No, ese es mío.
+
+188
+00:17:19,886 --> 00:17:21,586
+Muy bien.
+
+189
+00:17:21,787 --> 00:17:23,887
+¿Y el que está adelante?
+
+190
+00:17:24,288 --> 00:17:26,988
+Es de Barlow.
+
+191
+00:17:28,089 --> 00:17:30,589
+¿Cómo se supone que iré
+a la propiedad de Gleason?
+
+192
+00:18:05,990 --> 00:18:08,090
+¡Carajo!
+
+193
+00:18:12,491 --> 00:18:14,591
+¿Señor Gleason?
+
+194
+00:18:18,992 --> 00:18:22,192
+<i>Debbie, tengo entendido que la
+explosión se produjo hace unas horas.</i>
+
+195
+00:18:22,193 --> 00:18:23,593
+<i>Es correcto, Richard.</i>
+
+196
+00:18:23,594 --> 00:18:26,194
+<i>Fue esta mañana
+aproximadamente a las 8:00,</i>
+
+197
+00:18:26,195 --> 00:18:29,195
+<i>una gran explosión destruyó
+el muro sur del edificio.</i>
+
+198
+00:18:29,395 --> 00:18:31,995
+<i>Inicialmente, los guardias
+de la Prisión no sabían</i>
+
+199
+00:18:32,096 --> 00:18:34,396
+<i>cuántos presos habían huido.</i>
+
+200
+00:18:34,596 --> 00:18:39,296
+<i>Pero ahora confirmamos la identidad
+del hombre buscado por la policía.</i>
+
+201
+00:18:39,897 --> 00:18:42,497
+<i>Dural Conway, también
+conocido como "Jimmy"</i>
+
+202
+00:18:42,598 --> 00:18:44,598
+<i>condenado por asesinar a su esposa...</i>
+
+203
+00:18:44,599 --> 00:18:49,599
+<i>y por tratar de asesinar a un
+policía de Red Hill en 1995.</i>
+
+204
+00:18:49,700 --> 00:18:52,400
+<i>Conway fue condenado cadena perpetua.</i>
+
+205
+00:18:52,501 --> 00:18:55,401
+<i>La policía solicita que no se le acerquen,</i>
+
+206
+00:18:55,502 --> 00:18:58,202
+<i>está armado y se le considera peligroso.</i>
+
+207
+00:18:58,402 --> 00:19:00,102
+<i>Gracias, Debbie.</i>
+
+208
+00:19:00,103 --> 00:19:05,003
+<i>Les daremos toda la información sobre
+esta historia tan pronto nos sea posible.</i>
+
+209
+00:19:12,004 --> 00:19:14,504
+¿Qué animal es capaz
+de hacer semejante cosa?
+
+210
+00:19:15,805 --> 00:19:18,205
+Me asusto sólo de pensarlo.
+
+211
+00:19:19,006 --> 00:19:22,106
+Seguro que no está aquí.
+
+212
+00:19:24,707 --> 00:19:26,607
+Cuando yo era niño...
+
+213
+00:19:26,708 --> 00:19:30,308
+Mi padre juró que había visto
+una pantera en las colinas.
+
+214
+00:19:30,909 --> 00:19:34,409
+Algunos residentes afirman
+haber visto la misma cosa.
+
+215
+00:19:35,310 --> 00:19:39,510
+¿Y cómo es que una pantera
+aparece en Australia?
+
+216
+00:19:41,011 --> 00:19:44,111
+Con el circo, cuenta la historia.
+
+217
+00:19:44,412 --> 00:19:48,512
+Parece que dos de ellas escaparon
+de un espectáculo en 1880.
+
+218
+00:19:48,713 --> 00:19:50,713
+Y una estaba preñada.
+
+219
+00:19:52,114 --> 00:19:56,314
+Suerte para nosotros, que las
+Panteras no se reproducen como conejos.
+
+220
+00:20:00,015 --> 00:20:03,315
+Lo vi llegar a caballo.
+
+221
+00:20:04,616 --> 00:20:07,316
+¿Manning, fue quien lo envió?
+
+222
+00:20:10,917 --> 00:20:14,417
+Ese tipo nació hijo de puta.
+
+223
+00:20:17,418 --> 00:20:20,018
+Mira por dónde quieres ir...
+
+224
+00:20:20,119 --> 00:20:22,719
+y el caballo irá.
+
+225
+00:21:03,321 --> 00:21:05,521
+Vamos.
+
+226
+00:21:23,822 --> 00:21:26,222
+<i>Dural Conway, también
+conocido como Jimmy...</i>
+
+227
+00:21:26,323 --> 00:21:29,323
+<i>mide 1,75 de altura...</i>
+
+228
+00:21:30,224 --> 00:21:33,924
+<i>de descendencia aborigen, piel
+oscura mediana y pelo castaño.</i>
+
+229
+00:21:33,925 --> 00:21:37,225
+<i>puede ser reconocido por
+cicatrices de quemaduras...</i>
+
+230
+00:21:37,226 --> 00:21:40,726
+<i>en el lado izquierdo
+de la cara y el torso.</i>
+
+231
+00:21:40,927 --> 00:21:43,227
+<i>Las autoridades han confirmado...</i>
+
+232
+00:21:43,328 --> 00:21:47,228
+<i>que la explosión fue causada por
+la detonación de una tubería de gas...</i>
+
+233
+00:21:47,229 --> 00:21:49,529
+<i>que pasaba por el muro de la prisión.</i>
+
+234
+00:21:49,530 --> 00:21:53,730
+<i>¿Sabrían que el preso
+travesó el gasoducto?</i>
+
+235
+00:21:53,731 --> 00:21:59,431
+<i>Sí, luego del descubrir un hoyo de 3
+metros excavado en las inmediaciones.</i>
+
+236
+00:21:59,832 --> 00:22:02,132
+<i>Los oficiales creen ahora...</i>
+
+237
+00:22:05,933 --> 00:22:10,533
+<i>Las autoridades están preocupadas
+por el paradero del sospechoso...</i>
+
+238
+00:22:10,534 --> 00:22:13,134
+<i>que tiene un historial de violencia.</i>
+
+239
+00:22:13,635 --> 00:22:15,535
+¿Barlow?
+
+240
+00:22:16,336 --> 00:22:17,836
+¿Qué está pasando?
+
+241
+00:22:17,837 --> 00:22:19,837
+<i>¿Cuáles son sus antecedentes penales?</i>
+
+242
+00:22:19,838 --> 00:22:22,938
+<i>Sí, Richard. Fue condenado por
+el asesinato de su esposa...</i>
+
+243
+00:22:22,939 --> 00:22:26,939
+<i>e intento de asesinato de un
+Policía de Red Hill en 1995...</i>
+
+244
+00:22:27,140 --> 00:22:28,940
+<i>Conway fue condenado...</i>
+
+245
+00:22:29,141 --> 00:22:30,641
+Fue el Viejo Bill quien
+quién lo aprehendió.
+
+246
+00:22:30,642 --> 00:22:33,142
+<i>La policía pide no acercarse a él...</i>
+
+247
+00:22:33,143 --> 00:22:35,043
+<i>que se considera armado y peligroso.</i>
+
+248
+00:22:35,244 --> 00:22:37,844
+¿Están todos aquí?
+
+249
+00:22:38,245 --> 00:22:41,345
+Bueno, esto es lo que sabemos.
+
+250
+00:22:41,646 --> 00:22:44,046
+Alrededor de las 9:00 a. m. de hoy...
+
+251
+00:22:44,047 --> 00:22:48,047
+Jimmy Conway se fugó de la cárcel
+de máxima seguridad de Western Bay
+
+252
+00:22:49,448 --> 00:22:54,048
+45 minutos más tarde fue visto
+robando un Falcón blanco 86...
+
+253
+00:22:54,149 --> 00:22:57,249
+Placas MKC-489...
+
+254
+00:22:57,350 --> 00:23:00,050
+de una estación de BP en Jackson.
+
+255
+00:23:00,351 --> 00:23:02,651
+Muy bien, ahora...
+
+256
+00:23:02,652 --> 00:23:06,552
+De Jackson a Red Hill son
+seis horas de viaje.
+
+257
+00:23:06,853 --> 00:23:11,353
+Esto nos da exactamente dos
+horas para controlar el pueblo.
+
+258
+00:23:12,254 --> 00:23:15,854
+Manning, vigilarás la
+salida a la autopista.
+
+259
+00:23:16,555 --> 00:23:21,455
+Rex, el desvío a la montaña
+en caso que use la vía turística.
+
+260
+00:23:21,756 --> 00:23:24,456
+Apuesto a que tratará
+de llegar por los lados...
+
+261
+00:23:24,657 --> 00:23:27,357
+así que voy a vigilar Alpine Drive.
+
+262
+00:23:27,558 --> 00:23:30,358
+Dale, tú vienes conmigo...
+
+263
+00:23:30,359 --> 00:23:32,759
+y Willy, tú vas con Manning.
+
+264
+00:23:33,460 --> 00:23:36,760
+Y tú, Barlow. Te quiero aquí
+a cargo de las comunicaciones.
+
+265
+00:23:37,161 --> 00:23:39,161
+Nos irás informando de la situación.
+
+266
+00:23:39,262 --> 00:23:41,162
+Hay una alerta de tormenta...
+
+267
+00:23:41,163 --> 00:23:44,863
+Llega una hoy, por lo que todo
+el mundo debe estar resguardado.
+
+268
+00:23:45,264 --> 00:23:47,464
+Muy bien. Earl, Slim, Ted.
+
+269
+00:23:47,965 --> 00:23:50,865
+Uds. controlen la calle principal.
+
+270
+00:23:51,066 --> 00:23:55,266
+Earl, tienes buena puntería, así
+que, ubícate en un buen sitio.
+
+271
+00:23:56,267 --> 00:23:58,467
+Kenny.
+
+272
+00:23:59,268 --> 00:24:01,568
+Quédate con Barlow,
+en la estación...
+
+273
+00:24:01,569 --> 00:24:05,069
+porque si ataca, ese será el
+primer lugar donde lo hará.
+
+274
+00:24:07,170 --> 00:24:09,170
+¿Cuál es el chiste?
+
+275
+00:24:10,771 --> 00:24:13,471
+Es algo exagerado, ¿no?
+
+276
+00:24:15,272 --> 00:24:17,272
+Jimmy Conway...
+
+277
+00:24:17,273 --> 00:24:20,273
+fue el mejor domador
+caballos de este pueblo.
+
+278
+00:24:23,074 --> 00:24:27,974
+Permanece en tu posición y armado
+todo el tiempo. ¿Estamos claros?
+
+279
+00:24:32,075 --> 00:24:34,275
+¿Alguna pregunta?
+
+280
+00:24:34,376 --> 00:24:35,776
+¿Y Gleason?
+
+281
+00:24:35,777 --> 00:24:37,577
+No, vamos a dejarlo fuera de esto.
+
+282
+00:24:37,578 --> 00:24:39,778
+¿Qué va a hacer, lanzar una bengala?
+
+283
+00:24:41,678 --> 00:24:44,978
+Me pregunto quién
+controlará Skins Creek Road.
+
+284
+00:24:45,979 --> 00:24:48,479
+Jimmy no viene por Skins Creek Road.
+
+285
+00:24:48,480 --> 00:24:51,680
+- ¿Por qué estás tan seguro?
+- Sé cómo piensa.
+
+286
+00:24:52,281 --> 00:24:55,081
+Intentará buscar el atajo más vigilado.
+
+287
+00:24:55,082 --> 00:24:57,782
+Puede suponer que piensas eso...
+
+288
+00:24:57,783 --> 00:25:00,183
+y hacer algo diferente.
+
+289
+00:25:00,184 --> 00:25:03,484
+No cuesta nada poner
+a alguien allí, Billy.
+
+290
+00:25:11,385 --> 00:25:13,385
+Cooper.
+
+291
+00:25:14,686 --> 00:25:16,686
+Vigilará Skins Creek Road.
+
+292
+00:25:16,787 --> 00:25:18,587
+Sí, señor.
+
+293
+00:25:18,588 --> 00:25:20,988
+"Sí, señor. "
+
+294
+00:25:21,689 --> 00:25:23,589
+¿Todos están armados?
+
+295
+00:25:23,690 --> 00:25:26,090
+Slim, necesitas una, ¿verdad?
+
+296
+00:25:26,091 --> 00:25:28,891
+Nadie sale de aquí sin un arma.
+
+297
+00:25:31,892 --> 00:25:34,292
+Esto también lo
+incluye a usted, agente.
+
+298
+00:25:37,193 --> 00:25:39,293
+Denle algo.
+
+299
+00:25:43,594 --> 00:25:45,194
+Muy bien, los radios.
+
+300
+00:25:45,195 --> 00:25:48,795
+Sintonicen el canal
+cuatro. Si algo sale mal...
+
+301
+00:25:48,996 --> 00:25:52,596
+dejen todo y nos encontramos en
+el granero de Earl. ¡Y escuchen!
+
+302
+00:25:56,497 --> 00:25:59,597
+Sabemos con lo que estamos lidiando.
+
+303
+00:26:01,398 --> 00:26:04,298
+Si Jimmy Conway entra
+en este pueblo...
+
+304
+00:26:04,699 --> 00:26:07,499
+traerá al infierno con él.
+
+305
+00:26:08,100 --> 00:26:10,500
+Tiren a matar.
+
+306
+00:26:10,701 --> 00:26:13,701
+Bueno, ya oyeron. Andando.
+
+307
+00:26:21,102 --> 00:26:24,002
+¿Jefe?
+
+308
+00:26:24,003 --> 00:26:27,703
+Escuche, no quiero causar
+estrés innecesario, pero vine...
+
+309
+00:26:27,704 --> 00:26:29,704
+de la propiedad de Gleason
+
+310
+00:26:30,005 --> 00:26:33,405
+y parece que hay una
+pantera en las inmediaciones.
+
+311
+00:26:34,905 --> 00:26:36,905
+Santo Dios, Cooper.
+
+312
+00:26:36,906 --> 00:26:40,806
+Estamos en Australia no en África.
+
+313
+00:28:31,107 --> 00:28:34,907
+¿Adonis? Adonis.
+
+314
+00:28:41,708 --> 00:28:45,708
+Luca.
+
+315
+00:28:50,409 --> 00:28:52,509
+<i>- Hola, cariño.
+- Hola, sheriff.</i>
+
+316
+00:28:52,510 --> 00:28:54,710
+<i>¿Cómo estuvo tu primer día?</i>
+
+317
+00:28:55,011 --> 00:28:57,511
+Ya sabes, muy complicado.
+
+318
+00:28:57,612 --> 00:28:59,112
+<i>Apuesto que sí.</i>
+
+319
+00:28:59,113 --> 00:29:01,713
+<i>A que no adivinas donde
+encontré la pistola.</i>
+
+320
+00:29:01,714 --> 00:29:03,414
+<i>Bajo las toallas...</i>
+
+321
+00:29:03,415 --> 00:29:06,215
+Bueno. cariño, luego te llamo.
+
+322
+00:29:06,616 --> 00:29:09,716
+<i>- Muy bien, te quiero.
+- También te quiero. Adiós.</i>
+
+323
+00:29:28,817 --> 00:29:30,717
+¿Cómo están?
+
+324
+00:29:32,218 --> 00:29:34,018
+<i>Atención todas las unidades.</i>
+
+325
+00:29:34,019 --> 00:29:36,819
+<i>Supimos que el vehículo
+robado por Conway</i>
+
+326
+00:29:36,820 --> 00:29:38,820
+<i>fue hallado abandonado en Winston.</i>
+
+327
+00:30:06,820 --> 00:30:10,120
+Por favor, arroje el arma.
+
+328
+00:30:18,621 --> 00:30:22,421
+Nadie saldrá herido, ¿verdad?
+
+329
+00:30:23,622 --> 00:30:26,722
+Ya la arrojé, vea.
+
+330
+00:30:29,823 --> 00:30:32,723
+Tiene que dejarlos ir.
+
+331
+00:30:36,124 --> 00:30:39,024
+¿Quiere esto?
+
+332
+00:30:39,425 --> 00:30:43,025
+Voy a bajarlo muy lentamente.
+
+333
+00:30:47,126 --> 00:30:49,326
+Listo. Ya está.
+
+334
+00:30:51,027 --> 00:30:53,027
+Muy bien.
+
+335
+00:30:53,228 --> 00:30:56,128
+Tiene que dejarlos ir ahora.
+
+336
+00:30:56,129 --> 00:30:58,629
+No los necesita.
+
+337
+00:31:06,330 --> 00:31:08,530
+Mantenga la calma.
+
+338
+00:31:09,831 --> 00:31:11,631
+Tranquilo.
+
+339
+00:31:33,332 --> 00:31:36,132
+Verificando. Convey, Cooper. Cambio.
+
+340
+00:31:39,233 --> 00:31:42,233
+Verificando. Convey,
+Cooper, adelante. Cambio.
+
+341
+00:31:45,434 --> 00:31:48,334
+Cooper, ¿Estás ahí?
+
+342
+00:31:57,135 --> 00:31:59,535
+Bill... mira...
+
+343
+00:31:59,536 --> 00:32:02,436
+No quiero que empieces a sudar, pero...
+
+344
+00:32:03,737 --> 00:32:07,137
+he perdido el contacto con Cooper.
+
+345
+00:32:22,138 --> 00:32:24,838
+Jimmy. Calma...
+
+346
+00:32:27,339 --> 00:32:29,839
+no es necesario...
+
+347
+00:34:02,840 --> 00:34:04,840
+No...
+
+348
+00:36:08,641 --> 00:36:10,541
+¡Maldita sea!
+
+349
+00:36:14,342 --> 00:36:17,242
+<i>Barlow, adelante, cambio.</i>
+
+350
+00:36:19,243 --> 00:36:22,343
+<i>Barlow, adelante, cambio.</i>
+
+351
+00:36:24,744 --> 00:36:27,144
+<i>Barlow, adelante.</i>
+
+352
+00:36:30,745 --> 00:36:34,945
+<i>Barlow toma la radio.</i>
+
+353
+00:36:36,546 --> 00:36:40,446
+<i>Carajo, Barlow, toma la radio.</i>
+
+354
+00:36:50,947 --> 00:36:56,747
+¡No! Por favor. ¡Espera!
+
+355
+00:38:22,148 --> 00:38:25,248
+Después de haber destruido
+la torre de comunicaciones...
+
+356
+00:38:25,249 --> 00:38:29,649
+Vació el combustible y se marchó.
+
+357
+00:38:30,350 --> 00:38:31,650
+¿Dijo algo?
+
+358
+00:38:31,651 --> 00:38:33,451
+No
+
+359
+00:38:35,652 --> 00:38:40,252
+- ¿Hacia dónde fue?
+- Al pueblo, supongo.
+
+360
+00:39:13,953 --> 00:39:15,553
+Maldita sea...
+
+361
+00:39:21,954 --> 00:39:24,154
+Es él, Billy...
+
+362
+00:39:24,655 --> 00:39:26,255
+Él se acerca.
+
+363
+00:39:26,256 --> 00:39:28,156
+<i>¿Te vio?</i>
+
+364
+00:39:28,657 --> 00:39:30,257
+No lo sé.
+
+365
+00:39:31,958 --> 00:39:34,058
+<i>Quédate dónde estás.</i>
+
+366
+00:39:34,159 --> 00:39:36,759
+<i>Manning y yo estamos por llegar...</i>
+
+367
+00:39:36,760 --> 00:39:39,060
+<i>Rex ¿me copias?</i>
+
+368
+00:39:39,061 --> 00:39:41,261
+<i>Voy en camino, estaré
+allí en diez minutos.</i>
+
+369
+00:39:41,262 --> 00:39:44,562
+<i>Quédate dónde estás
+y no uses el radio.</i>
+
+370
+00:43:10,963 --> 00:43:12,663
+Por favor...
+
+371
+00:43:12,864 --> 00:43:15,564
+Te daré cualquier cosa.
+
+372
+00:43:17,165 --> 00:43:19,965
+Dime lo que quieres.
+
+373
+00:43:54,866 --> 00:43:56,966
+¡Policía!
+
+374
+00:44:01,167 --> 00:44:03,767
+¡Hola!
+
+375
+00:46:42,068 --> 00:46:45,068
+Por favor no me mates.
+
+376
+00:46:49,169 --> 00:46:52,369
+No quería que nadie
+saliera herido, Jimmy.
+
+377
+00:46:55,970 --> 00:46:58,070
+Te lo juro, Jimmy.
+
+378
+00:46:58,171 --> 00:47:01,971
+Por favor no me mates, Jimmy.
+
+379
+00:47:08,673 --> 00:47:11,673
+Negro hijo de puta.
+
+380
+00:47:24,574 --> 00:47:26,674
+Jimmy.
+
+381
+00:47:28,975 --> 00:47:30,675
+Jimmy... por favor.
+
+382
+00:47:30,676 --> 00:47:33,576
+Jimmy, Jimmy, por favor.
+
+383
+00:47:33,677 --> 00:47:36,077
+Por favor, Jimmy. No
+
+384
+00:47:36,278 --> 00:47:38,178
+Jimmy.
+
+385
+00:47:39,479 --> 00:47:42,079
+Por favor, Jimmy, no, no.
+
+386
+00:48:00,080 --> 00:48:03,580
+Jimmy, no, Jimmy.
+
+387
+00:48:05,281 --> 00:48:09,381
+Puedo verlo ahora, Bill
+no vas a creerlo, hombre.
+
+388
+00:48:09,482 --> 00:48:11,582
+Él le disparó, le disparó Slim.
+
+389
+00:48:11,683 --> 00:48:13,983
+<i>Sólo le disparó.</i>
+
+390
+00:48:14,484 --> 00:48:17,884
+<i>Rex, te dije que no usaras el radio.</i>
+
+391
+00:48:17,985 --> 00:48:20,485
+<i>Jimmy</i>
+
+392
+00:49:32,686 --> 00:49:34,086
+Mierda.
+
+393
+00:51:21,888 --> 00:51:23,788
+Voy a morir.
+
+394
+00:51:24,089 --> 00:51:26,089
+No digas eso.
+
+395
+00:51:28,990 --> 00:51:31,390
+Me iré al infierno.
+
+396
+00:51:32,491 --> 00:51:34,691
+Ya lo sé.
+
+397
+00:51:34,892 --> 00:51:37,392
+Vas a estar bien.
+
+398
+00:52:12,393 --> 00:52:14,993
+¿Qué crees que está haciendo?
+
+399
+00:52:16,394 --> 00:52:18,594
+Nos espera.
+
+400
+00:52:18,795 --> 00:52:21,595
+Fue bueno venir por los lados, Bill.
+
+401
+00:52:21,696 --> 00:52:24,196
+¿Qué quieres hacer?
+
+402
+00:52:27,197 --> 00:52:31,097
+Vamos... a movernos.
+
+403
+00:53:25,698 --> 00:53:28,498
+No... no... no...
+
+404
+00:53:28,499 --> 00:53:32,499
+Tranquilo, calma, soy, yo, Shane.
+
+405
+00:53:32,500 --> 00:53:34,700
+Barlow. ¿Dónde está Bill?
+
+406
+00:53:34,901 --> 00:53:37,601
+- Nos está matando...
+- ¿Dónde está Bill?
+
+407
+00:53:37,602 --> 00:53:39,902
+- ¡No lo sé!
+- ¿Cómo que no lo sabes?
+
+408
+00:53:39,903 --> 00:53:41,703
+- ¿Está muerto?
+- ¡No lo sé, maldita sea!
+
+409
+00:53:41,704 --> 00:53:44,804
+Los teléfonos, radios,
+celulares, nada funciona.
+
+410
+00:53:44,805 --> 00:53:46,705
+Es una venganza.
+
+411
+00:53:46,706 --> 00:53:49,406
+- ¿El Granero de Earl? ¿Sabes dónde está?
+- Vino a ajustar cuentas.
+
+412
+00:53:49,407 --> 00:53:51,405
+Él no se detendrá. Nada lo detendrá.
+
+413
+00:53:51,407 --> 00:53:53,807
+Bill dijo que si algo sale
+mal nos encontraríamos en
+
+414
+00:53:53,808 --> 00:53:56,108
+- El granero de Earl.
+- Nos está cazando como animales.
+
+415
+00:53:56,109 --> 00:53:57,909
+¿Dónde está el granero de Earl?
+
+416
+00:55:12,910 --> 00:55:16,410
+Dios mío...
+
+417
+00:55:18,411 --> 00:55:21,011
+Maldita sea.
+
+418
+00:55:21,712 --> 00:55:23,612
+- ¿Qué?
+- Billy.
+
+419
+00:55:23,713 --> 00:55:25,813
+Maldita sea.
+
+420
+00:55:28,914 --> 00:55:31,414
+Mierda.
+
+421
+00:56:05,315 --> 00:56:07,615
+Debes estar tranquilo, ¿de acuerdo?
+
+422
+00:56:07,616 --> 00:56:09,316
+No me dejes aquí.
+
+423
+00:56:09,617 --> 00:56:12,917
+- Volveré.
+- Por favor, por favor.
+
+424
+00:56:14,918 --> 00:56:16,918
+No quiero morir.
+
+425
+00:56:19,619 --> 00:56:23,219
+- No vas a morir.
+- No, no lo entiendes.
+
+426
+00:56:23,420 --> 00:56:25,720
+Nos matará.
+
+427
+00:56:29,021 --> 00:56:32,321
+Shane, no, por favor, amigo.
+
+428
+00:56:38,822 --> 00:56:40,622
+Toma.
+
+429
+00:56:41,723 --> 00:56:44,423
+No te muevas.
+
+430
+00:56:56,824 --> 00:56:58,724
+¡Maldita sea!
+
+431
+00:56:59,225 --> 00:57:01,125
+Voy a salir...
+
+432
+00:57:01,426 --> 00:57:04,326
+- ¿Qué hacemos?
+- Estamos rodeados.
+
+433
+00:57:08,327 --> 00:57:10,127
+Mierda.
+
+434
+00:57:16,728 --> 00:57:18,928
+¡Cuidado!
+
+435
+00:57:23,229 --> 00:57:25,929
+¡Vamos, vamos, vamos, vamos!
+
+436
+01:06:36,532 --> 01:06:39,732
+Lo vi, Bill, con mis propios ojos.
+
+437
+01:06:39,833 --> 01:06:42,233
+Nos está cazando como perros.
+
+438
+01:06:42,234 --> 01:06:44,934
+- ¿Dónde está Earl?
+- Muerto.
+
+439
+01:06:46,135 --> 01:06:48,235
+¿Y Rex?
+
+440
+01:06:49,236 --> 01:06:50,736
+Solo quedamos nosotros.
+
+441
+01:06:50,737 --> 01:06:52,937
+Él vino a ajustar cuentas.
+
+442
+01:06:52,938 --> 01:06:55,738
+¡Si no lo impedimos, moriremos!
+
+443
+01:06:56,539 --> 01:06:59,639
+¿Crees que puedes gritar más alto?
+
+444
+01:07:02,840 --> 01:07:05,240
+Tenemos que hacer algo, Bill.
+
+445
+01:07:07,441 --> 01:07:09,741
+Dale, busca los caballos.
+
+446
+01:07:09,842 --> 01:07:11,742
+¿Dónde están los refuerzos, Bill?
+
+447
+01:07:11,843 --> 01:07:13,743
+Vamos a seguir su juego.
+
+448
+01:07:13,844 --> 01:07:15,944
+Dejamos de correr
+y comenzamos a cazar.
+
+449
+01:07:15,945 --> 01:07:19,345
+Bill, ¿dónde están los refuerzos?
+
+450
+01:07:19,546 --> 01:07:21,046
+Allí.
+
+451
+01:07:21,147 --> 01:07:23,647
+Destruyó las comunicaciones.
+
+452
+01:07:24,348 --> 01:07:26,348
+¿Y si alguien va a buscar ayuda?
+
+453
+01:07:26,349 --> 01:07:28,549
+El pueblo más cercano está a una hora.
+
+454
+01:07:28,550 --> 01:07:29,850
+¿Y entonces?
+
+455
+01:07:29,851 --> 01:07:33,351
+¡Entonces nosotros resolvemos
+esta situación de mierda!
+
+456
+01:07:34,352 --> 01:07:35,952
+Él tiene razón, Bill.
+
+457
+01:07:35,953 --> 01:07:38,453
+Escúchalo. Debemos pedir refuerzos.
+
+458
+01:07:38,554 --> 01:07:41,954
+¿Un asesino convicto anda suelto
+matando a todos los hombres del pueblo
+
+459
+01:07:41,955 --> 01:07:43,655
+y sugiere que no llamemos a nadie?
+
+460
+01:07:43,656 --> 01:07:45,356
+Exactamente.
+
+461
+01:07:45,657 --> 01:07:48,057
+Gleason tiene un
+teléfono satelital.
+
+462
+01:07:48,658 --> 01:07:51,658
+- Podemos usarlo para pedir ayuda.
+- ¡Cállate, Borlow.
+
+463
+01:07:51,859 --> 01:07:55,659
+Lo hay y se usa para
+casos de emergencia.
+
+464
+01:07:55,860 --> 01:07:57,660
+Voy a pedir refuerzos.
+
+465
+01:07:57,661 --> 01:07:59,461
+No, no.
+
+466
+01:08:10,062 --> 01:08:12,162
+¿Qué demonios está pasando aquí?
+
+467
+01:08:16,863 --> 01:08:18,763
+Tú dime, hijo.
+
+468
+01:08:21,964 --> 01:08:25,664
+Jimmy Conway mató a todos los
+que se atravesaron en su camino.
+
+469
+01:08:25,765 --> 01:08:27,765
+Pero cuando me encontró...
+
+470
+01:08:27,766 --> 01:08:30,366
+me dejó a salvo en
+las afueras del pueblo.
+
+471
+01:08:30,367 --> 01:08:32,867
+Ahora, ¿Por qué cree que lo hizo?
+
+472
+01:08:33,268 --> 01:08:37,968
+Si tienes algo que decir, dilo pronto.
+
+473
+01:08:38,569 --> 01:08:40,369
+¿Billy?
+
+474
+01:08:40,470 --> 01:08:42,470
+Barlow murió.
+
+475
+01:08:47,671 --> 01:08:49,671
+Dale...
+
+476
+01:08:49,672 --> 01:08:51,772
+ensilla tres caballos.
+
+477
+01:08:51,973 --> 01:08:54,273
+Suelta a los otros.
+
+478
+01:08:55,274 --> 01:08:57,674
+Parece que Cooper no va a unírsenos.
+
+479
+01:09:04,075 --> 01:09:07,975
+Desenfundaste rápido para
+alguien que nunca ha disparado.
+
+480
+01:09:11,476 --> 01:09:13,676
+Todo está bajo control.
+
+481
+01:09:14,677 --> 01:09:18,577
+Este agente no tiene valor de
+apretar el gatillo, ¿no hijo?
+
+482
+01:09:22,878 --> 01:09:24,578
+Vaya.
+
+483
+01:09:27,779 --> 01:09:29,279
+Vamos.
+
+484
+01:12:55,880 --> 01:12:58,980
+¡Vamos!
+
+485
+01:13:01,581 --> 01:13:04,481
+¡Vamos!
+
+486
+01:13:05,082 --> 01:13:07,882
+¡Maldita sea! ¡Maldita sea!
+
+487
+01:13:29,883 --> 01:13:33,183
+Basta con mirar a dónde quieres ir.
+
+488
+01:14:09,284 --> 01:14:12,084
+¡Señor Gleason!
+
+489
+01:14:17,085 --> 01:14:19,585
+¡Señor Gleason!
+
+490
+01:14:21,186 --> 01:14:23,186
+¡Señor Gleason!
+
+491
+01:14:35,187 --> 01:14:37,687
+<i>Es la patrulla de High Country,
+dígame ¿cuál es la emergencia?</i>
+
+492
+01:14:37,688 --> 01:14:41,188
+Soy el Agente Cooper Shane
+del Distrito 208, Red Hill.
+
+493
+01:14:41,289 --> 01:14:43,389
+Solicito apoyo inmediato.
+
+494
+01:14:43,390 --> 01:14:46,590
+El fugitivo Jimmy
+Conway está en el área.
+
+495
+01:14:46,891 --> 01:14:49,091
+Está fuertemente
+armado y suelto.
+
+496
+01:14:49,192 --> 01:14:51,192
+Hemos perdido todas las comunicaciones.
+
+497
+01:14:51,193 --> 01:14:54,293
+Un policía y varios
+civiles fueron asesinados.
+
+498
+01:14:54,594 --> 01:14:56,894
+Necesito apoyo inmediato. Cambio.
+
+499
+01:14:57,095 --> 01:15:00,095
+<i>Copiado, 208. ¿Cuál es la
+posición actual del sospechoso?</i>
+
+500
+01:15:01,296 --> 01:15:05,396
+No lo sé. No lo sé.
+Está en todas partes.
+
+501
+01:15:05,497 --> 01:15:09,197
+Escuche. Envíe todas las
+unidades disponibles..
+
+502
+01:15:09,498 --> 01:15:10,898
+No.
+
+503
+01:15:15,699 --> 01:15:17,899
+¡Señor Gleason!
+
+504
+01:15:21,700 --> 01:15:23,300
+¡Señor Gleason!
+
+505
+01:15:25,901 --> 01:15:28,601
+¡Señor Gleason!
+
+506
+01:15:30,602 --> 01:15:32,702
+Está afuera ¿Cierto?
+
+507
+01:15:35,703 --> 01:15:38,403
+Cuando vi la noticia que había escapado...
+
+508
+01:15:38,504 --> 01:15:41,604
+- ... Sabía que vendría por nosotros.
+- ¿Por qué no baja
+
+509
+01:15:41,605 --> 01:15:44,105
+- para poder hablar?
+- No.
+
+510
+01:15:45,406 --> 01:15:49,106
+Es algo que debí haber
+hecho hace mucho tiempo.
+
+511
+01:15:51,307 --> 01:15:54,807
+Él es inocente, Shane.
+
+512
+01:15:56,408 --> 01:15:58,508
+¿Qué está diciendo?
+
+513
+01:15:58,609 --> 01:16:00,609
+<i>Hace quince años...</i>
+
+514
+01:16:00,610 --> 01:16:04,210
+<i>el gobierno estaba comprando la tierra.</i>
+
+515
+01:16:04,611 --> 01:16:07,611
+<i>una línea de ferrocarril
+cruzaría las montañas.</i>
+
+516
+01:16:08,212 --> 01:16:11,312
+<i>Pero Jimmy encontró
+un cementerio sagrado.</i>
+
+517
+01:16:11,513 --> 01:16:13,513
+<i>Bill trató de detenerlos...</i>
+
+518
+01:16:14,514 --> 01:16:17,214
+<i>pero Jimmy lo hizo público.</i>
+
+519
+01:16:17,715 --> 01:16:19,915
+¿Qué hicieron?
+
+520
+01:16:25,416 --> 01:16:27,616
+¿Qué hicieron?
+
+521
+01:16:36,517 --> 01:16:38,817
+Lo escribí todo...
+
+522
+01:16:39,618 --> 01:16:42,118
+exactamente como lo recuerdo.
+
+523
+01:18:21,719 --> 01:18:24,119
+¿Shane?
+
+524
+01:18:25,120 --> 01:18:26,920
+Hola
+
+525
+01:18:29,421 --> 01:18:31,221
+¿Cómo estuvo tu día?
+
+526
+01:18:32,322 --> 01:18:34,722
+Fue genial.
+
+527
+01:18:37,123 --> 01:18:39,523
+Te cortaste la cara.
+
+528
+01:18:40,324 --> 01:18:43,124
+Es sólo un rasguño.
+
+529
+01:18:44,225 --> 01:18:47,525
+El jefe nos hizo reunir el ganado.
+
+530
+01:18:56,226 --> 01:18:59,326
+Lamento habernos mudado para acá.
+
+531
+01:19:11,427 --> 01:19:13,527
+No vuelvas a decir eso...
+
+532
+01:19:13,928 --> 01:19:16,528
+porque estamos juntos en esto.
+
+533
+01:19:18,229 --> 01:19:20,129
+Nosotros tres.
+
+534
+01:19:23,430 --> 01:19:26,530
+Él se cansó de patear esta noche.
+
+535
+01:19:31,531 --> 01:19:34,331
+La cena está en la nevera.
+
+536
+01:19:34,732 --> 01:19:36,432
+Cenaré cuando regrese.
+
+537
+01:19:36,433 --> 01:19:38,833
+- ¿Vas a salir otra vez?
+- Tengo que irme.
+
+538
+01:19:40,434 --> 01:19:43,534
+¿Por qué has vuelto a casa?
+
+539
+01:19:45,235 --> 01:19:47,235
+Por ti.
+
+540
+01:19:52,836 --> 01:19:54,936
+Hasta luego.
+
+541
+01:20:01,537 --> 01:20:03,237
+¿Shane?
+
+542
+01:20:08,238 --> 01:20:10,338
+<i>Cuídate, vaquero.</i>
+
+543
+01:21:06,839 --> 01:21:08,439
+Dispérsense, muchachos.
+
+544
+01:21:08,440 --> 01:21:10,940
+Haremos que venga a nosotros.
+
+545
+01:23:14,141 --> 01:23:16,041
+¿Dale?
+
+546
+01:23:18,642 --> 01:23:20,342
+¿Dale?
+
+547
+01:23:32,943 --> 01:23:35,243
+Jimmy...
+
+548
+01:23:35,444 --> 01:23:38,144
+Tengo una esposa.
+
+549
+01:23:49,445 --> 01:23:51,045
+¿Manning?
+
+550
+01:23:51,846 --> 01:23:53,646
+¿Dale?
+
+551
+01:24:02,747 --> 01:24:06,247
+¡Vamos, Jimmy. Sé que estás ahí!
+
+552
+01:24:55,448 --> 01:24:58,648
+¿Quieres saber dónde está, ¿no?
+
+553
+01:25:00,049 --> 01:25:03,249
+Si me matas, nunca lo sabrás.
+
+554
+01:25:09,450 --> 01:25:12,050
+¡Al final es el
+negro en persona!
+
+555
+01:25:16,151 --> 01:25:19,951
+No contaba con verte en los
+siguientes 30 años, Jimmy.
+
+556
+01:25:23,352 --> 01:25:25,652
+No me digas que te soltaron.
+
+557
+01:25:34,053 --> 01:25:37,353
+¿Quieres que haga un
+arresto ciudadano, Billy?
+
+558
+01:25:37,954 --> 01:25:40,654
+Métele antes un balazo.
+
+559
+01:25:40,855 --> 01:25:43,755
+No sé qué va a gustarme más...
+
+560
+01:25:44,856 --> 01:25:48,756
+si matarte o haber violado a tu esposa.
+
+561
+01:25:48,757 --> 01:25:51,157
+Será mejor que suelte el arma.
+
+562
+01:25:57,258 --> 01:25:59,858
+¿Qué está haciendo, Cooper?
+
+563
+01:26:00,959 --> 01:26:03,259
+Queda arrestado, Bill.
+
+564
+01:26:05,860 --> 01:26:08,160
+¡Baje el arma. Es una orden!
+
+565
+01:26:08,361 --> 01:26:11,261
+Usted... y sus amigos...
+
+566
+01:26:11,362 --> 01:26:15,862
+quedan arrestados por la violación
+y el asesinato de Ellin Conway.
+
+567
+01:26:24,963 --> 01:26:28,863
+No sabe de que está hablando.
+
+568
+01:26:32,664 --> 01:26:36,764
+Tengo aquí una
+declaración bajo juramento.
+
+569
+01:26:44,465 --> 01:26:47,265
+<i>Después de Jimmy detuvo
+la línea de ferrocarril...</i>
+
+570
+01:26:47,666 --> 01:26:50,466
+<i>Ud. organizó un grupo para vengarse.</i>
+
+571
+01:26:55,067 --> 01:26:57,667
+<i>Pero el ensañamiento
+con Jimmy continuó.</i>
+
+572
+01:27:18,568 --> 01:27:21,468
+<i>lo golpearon, lo golpearon...</i>
+
+573
+01:27:21,669 --> 01:27:23,869
+<i>y lo quemaron.</i>
+
+574
+01:27:29,970 --> 01:27:33,470
+<i>Pero no lo mató, ¿Cierto Bill?</i>
+
+575
+01:27:35,071 --> 01:27:36,971
+Entonces hizo que sus hombres...
+
+576
+01:27:36,972 --> 01:27:38,472
+sus muchachos...
+
+577
+01:27:38,573 --> 01:27:42,373
+testificaran en su contra
+por un crimen que no cometió.
+
+578
+01:27:51,374 --> 01:27:53,974
+Linda historia, hombre.
+
+579
+01:27:54,275 --> 01:27:56,975
+Pero no tiene ninguna prueba.
+
+580
+01:27:58,476 --> 01:28:01,976
+La enterró en la cima de Eagle Ridge.
+
+581
+01:28:05,577 --> 01:28:08,077
+¡Shane!
+
+582
+01:28:08,078 --> 01:28:11,478
+¡Arroja el arma o disparo!
+
+583
+01:28:17,279 --> 01:28:18,979
+<i>Está fanfarroneando, muchachos.</i>
+
+584
+01:28:19,180 --> 01:28:21,680
+Vamos, dispárenle.
+
+585
+01:28:21,881 --> 01:28:25,081
+No tiene valor para apretar el gatillo.
+
+586
+01:28:58,282 --> 01:29:00,682
+¿Quién te crees que eres?
+
+587
+01:29:01,083 --> 01:29:04,383
+No sabes nada de este pueblo.
+
+588
+01:29:06,584 --> 01:29:08,584
+Conozco la ley.
+
+589
+01:29:08,685 --> 01:29:10,885
+¡No eres la ley en este pueblo!
+
+590
+01:29:10,886 --> 01:29:12,286
+¡Yo lo soy!
+
+591
+01:29:12,287 --> 01:29:15,487
+¡Este es mi pueblo! ¡Mi pueblo!
+
+592
+01:29:23,788 --> 01:29:26,988
+Le di la oportunidad
+a Jimmy, pero no...
+
+593
+01:29:27,389 --> 01:29:29,589
+él quería ser un héroe.
+
+594
+01:29:29,890 --> 01:29:31,990
+¿Y por qué?
+
+595
+01:29:32,791 --> 01:29:35,791
+¡Por unos huesos enterrados!
+
+596
+01:29:53,692 --> 01:29:56,492
+¿Jimmy?
+
+597
+01:29:57,693 --> 01:29:59,693
+¡Jimmy!
+
+598
+01:30:05,794 --> 01:30:08,494
+No tienes que hacerlo.
+
+599
+01:30:11,295 --> 01:30:15,295
+Vamos, mátame. ¡Hazlo!
+
+600
+01:31:24,996 --> 01:31:28,896
+Íbamos a tener un niño.
+

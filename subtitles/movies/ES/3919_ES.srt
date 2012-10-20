@@ -1,0 +1,4862 @@
+1
+00:00:48,237 --> 00:00:56,245
+VIAJE A LAS ESTRELLAS II LA IRA DE KHAN
+
+2
+00:02:54,238 --> 00:02:58,868
+EN EL SIGLO XXIII
+
+3
+00:03:02,163 --> 00:03:06,012
+Cuaderno de bitácora del Capitán,
+Fecha estelar 8130.3.
+
+4
+00:03:06,112 --> 00:03:09,015
+Astronave Enterprise
+en misión de entrenamiento.
+
+5
+00:03:09,115 --> 00:03:11,147
+Hacia Gamma Hydra, sección 14,
+
+6
+00:03:11,147 --> 00:03:14,994
+coordenadas 22-87-4
+
+7
+00:03:14,994 --> 00:03:17,519
+Acercándonos a la Zona Neutral.
+
+8
+00:03:17,519 --> 00:03:20,548
+Todos los sistemas normales
+y funcionando.
+
+9
+00:03:20,548 --> 00:03:24,018
+Dejando Sección 14 por Sección 15.
+
+10
+00:03:24,648 --> 00:03:28,497
+Alto, proyecte rumbo parabólico
+para evitar la Zona Neutral.
+
+11
+00:03:28,497 --> 00:03:30,219
+Sí, Capitán.
+
+12
+00:03:32,032 --> 00:03:33,793
+Cambio de curso proyectado.
+
+13
+00:03:33,793 --> 00:03:36,423
+¡Capitán! estoy recibiendo algo
+en el canal de emergencia.
+
+14
+00:03:36,423 --> 00:03:37,793
+¡Altoparlantes!
+
+15
+00:03:37,793 --> 00:03:38,243
+<i>¡Urgente!</i>
+
+16
+00:03:38,243 --> 00:03:42,544
+<i>Aquí el Kobayashi Maru, a 19 períodos...
+de Altair VI.</i>
+
+17
+00:03:42,544 --> 00:03:46,513
+<i>Hemos colisionado con una mina gravítica
+Y hemos perdido toda la energía.</i>
+
+18
+00:03:46,513 --> 00:03:48,287
+<i>Tenemos muchas bajas.</i>
+
+19
+00:03:48,287 --> 00:03:52,106
+Este es el USS Enterprise,
+su mensaje se entrecorta.
+
+20
+00:03:52,106 --> 00:03:55,018
+¿Puede darnos sus coordenadas? Repito...
+
+21
+00:03:55,607 --> 00:03:59,858
+<i>Nuestra posición es Gamma Hydra,
+Sección 10.</i>
+
+22
+00:03:59,958 --> 00:04:01,487
+En la zona neutral.
+
+23
+00:04:01,487 --> 00:04:05,872
+<i>Casco perforado. Sistemas de soporte vital fallando,
+¿Puede ayudarnos Enterprise?</i>
+
+24
+00:04:06,350 --> 00:04:08,315
+Información del Kobayashi Maru.
+
+25
+00:04:08,315 --> 00:04:13,950
+<i>Nave de transporte de 3ª combustible neutrónico,
+81 tripulantes, 300 pasajeros.</i>
+
+26
+00:04:15,445 --> 00:04:17,445
+¡Maldición!
+
+27
+00:04:18,247 --> 00:04:22,681
+Sr. Sulu,
+prepare un curso de intercepción.
+
+28
+00:04:22,688 --> 00:04:25,729
+Permítame recordarle Capitán,
+que si esta nave entra en la Zona Neutral...
+
+29
+00:04:25,729 --> 00:04:29,511
+Soy conciente de mis responsabilidades, Sr.
+
+30
+00:04:34,138 --> 00:04:37,141
+Estimando...
+2 minutos para interceptar.
+
+31
+00:04:40,083 --> 00:04:42,609
+Entramos en la zona neutral.
+
+32
+00:04:42,709 --> 00:04:45,069
+<i>¡Alerta!
+¡Entrando en Zona Neutral!</i>
+
+33
+00:04:45,303 --> 00:04:47,760
+Ahora estamos violando el tratado, Capitán.
+
+34
+00:04:47,760 --> 00:04:49,606
+Atención, sala del transportador,
+
+35
+00:04:49,606 --> 00:04:50,911
+preparados para traer sobrevivientes a bordo.
+
+36
+00:04:50,911 --> 00:04:53,724
+¡Capitán!
+¡Perdí la comunicación!
+
+37
+00:04:53,724 --> 00:04:57,999
+<i>¡Alerta! Sensores captan 3 cruceros Klingon
+curso 3-1-6 marca 4,</i>
+
+38
+00:04:58,099 --> 00:04:59,292
+<i>se acercan velozmente.</i>
+
+39
+00:04:59,392 --> 00:05:01,392
+Visual.
+
+40
+00:05:02,330 --> 00:05:05,169
+¡Estaciones de batalla!
+¡Activen escudos!
+
+41
+00:05:05,599 --> 00:05:07,159
+Escudos activados.
+
+42
+00:05:07,159 --> 00:05:09,041
+Informe a los Klingon que
+vamos en misión de rescate.
+
+43
+00:05:09,041 --> 00:05:10,803
+Están bloqueando todas las frecuencias,
+Capitán.
+
+44
+00:05:10,932 --> 00:05:13,190
+<i>¡Cruceros Klingon en curso de ataque acercándose.</i>
+
+45
+00:05:13,707 --> 00:05:14,708
+Están encima de nuestras cabezas.
+
+46
+00:05:14,808 --> 00:05:16,251
+¡Sr. Sulu,
+sáquenos de aquí!
+
+47
+00:05:16,251 --> 00:05:18,468
+Lo intentaré, Capitán.
+
+48
+00:05:18,857 --> 00:05:21,717
+<i>¡Alerta! torpedos Klingon activados.</i>
+
+49
+00:05:21,749 --> 00:05:23,800
+Acción evasiva.
+
+50
+00:05:27,992 --> 00:05:29,746
+¡Ingeniería! ¿Reporte de daños?
+
+51
+00:05:29,746 --> 00:05:31,129
+<i>El generador principal está dañado,
+Capitán.</i>
+
+52
+00:05:31,129 --> 00:05:33,243
+Conecte poder auxiliar,
+prepárese para devolver el fuego.
+
+53
+00:05:37,347 --> 00:05:39,557
+Los escudos se derrumban,
+Capitán.
+
+54
+00:05:43,332 --> 00:05:44,576
+Disparen todos los phasers.
+
+55
+00:05:44,576 --> 00:05:46,619
+Las armas no tienen energía,
+Capitán.
+
+56
+00:05:51,549 --> 00:05:55,061
+<i>Capitán, es inútil, ya somos
+carne muerta flotando en el espacio.</i>
+
+57
+00:05:56,458 --> 00:05:59,141
+Activen las cápsulas de salvataje,
+envíen baliza con el diario de navegación.
+
+58
+00:05:59,176 --> 00:06:00,387
+¡Y que todo el mundo abandone la nave!
+
+59
+00:06:00,387 --> 00:06:01,789
+Repito ¡Todo el mundo abandone la nave!
+
+60
+00:06:01,789 --> 00:06:04,189
+Muy bien, ya,
+abran las puertas.
+
+61
+00:06:12,853 --> 00:06:15,010
+¿Alguna sugerencia, Almirante?
+
+62
+00:06:15,010 --> 00:06:18,998
+Rece, Mr. Saavik,
+los Klingon no toman prisioneros.
+
+63
+00:06:19,815 --> 00:06:21,617
+¡Luces!
+
+64
+00:06:21,776 --> 00:06:23,643
+<i>¡Motores en marcha!</i>
+
+65
+00:06:25,975 --> 00:06:27,975
+¿Capitán?
+
+66
+00:06:32,673 --> 00:06:35,538
+Cadetes...
+a la sala de instrucción.
+
+67
+00:06:35,799 --> 00:06:41,843
+<i>Tripulación de mantenimiento,
+reportarse al simulador de puente.</i>
+
+68
+00:06:41,923 --> 00:06:44,314
+Médico,
+¡Cúrate a ti mismo!
+
+69
+00:06:44,314 --> 00:06:47,634
+¿Sólo eso tienes para decir?
+¿Y qué hay de mi actuación?
+
+70
+00:06:47,734 --> 00:06:49,734
+No soy crítico de teatro.
+
+71
+00:06:51,491 --> 00:06:53,643
+¿Por qué sigue aquí?
+¿Piensa quedarse en una nave que se hunde?
+
+72
+00:06:53,731 --> 00:06:55,799
+Permiso para hablar con franqueza,
+señor.
+
+73
+00:06:56,510 --> 00:06:57,536
+Concedido.
+
+74
+00:06:57,636 --> 00:07:00,197
+No creo que fuera una prueba justa
+de mis capacidades de mando.
+
+75
+00:07:00,262 --> 00:07:01,436
+¿Y por qué no?
+
+76
+00:07:01,436 --> 00:07:04,747
+Porque...
+no había manera de ganar.
+
+77
+00:07:04,747 --> 00:07:08,422
+¿Y no ha pensado que todo comandante
+debe enfrentar una situación donde no puede ganar?
+
+78
+00:07:08,522 --> 00:07:11,386
+No Sr.
+Nunca lo he hecho.
+
+79
+00:07:11,665 --> 00:07:13,533
+El como lidiamos con la muerte es...
+
+80
+00:07:13,911 --> 00:07:16,740
+al menos, igual de importante
+que como lidiamos con la vida ¿No le parece?
+
+81
+00:07:17,632 --> 00:07:20,934
+Como ya le indiqué, Almirante,
+ese pensamiento no se me había ocurrido.
+
+82
+00:07:21,034 --> 00:07:23,770
+Bueno, pues creo que ya tiene
+algo nuevo en que pensar, continúe.
+
+83
+00:07:23,870 --> 00:07:26,865
+<i>Cadetes de ingeniería
+reunirse en plataforma 6.</i>
+
+84
+00:07:26,912 --> 00:07:27,996
+¿Almirante?
+
+85
+00:07:28,494 --> 00:07:32,577
+¿No sería más fácil traer a la nave
+una tripulación más experimentada?
+
+86
+00:07:33,171 --> 00:07:36,215
+Galopar por el espacio,
+es un juego para los jóvenes, Dr.
+
+87
+00:07:37,508 --> 00:07:40,099
+Ahora, ¿qué se supone
+que significa eso?
+
+88
+00:07:46,430 --> 00:07:48,530
+¿No estabas muerto?
+
+89
+00:07:50,034 --> 00:07:55,153
+Supongo que quiere saber la valoración
+de eficacia que le daría a sus cadetes.
+
+90
+00:07:55,153 --> 00:07:58,372
+Mi curiosidad es comprensible.
+
+91
+00:07:58,372 --> 00:08:01,204
+Destruyeron la sala del simulador
+y a usted con ella.
+
+92
+00:08:01,204 --> 00:08:04,993
+El escenario del Kobayashi Maru,
+frecuentemente resulta fatal
+
+93
+00:08:04,995 --> 00:08:07,138
+para estudiantes y equipamiento.
+
+94
+00:08:07,138 --> 00:08:10,649
+Según recuerdo tú hiciste
+esta prueba 3 veces.
+
+95
+00:08:10,749 --> 00:08:14,404
+Tu solución final fue, podríamos decir...
+única.
+
+96
+00:08:14,327 --> 00:08:16,887
+Al menos tenía la virtud de que
+nadie lo había intentado.
+
+97
+00:08:16,798 --> 00:08:20,410
+Oh, Por cierto... gracias por esto.
+
+98
+00:08:20,510 --> 00:08:23,914
+Sé de tu amor por las antigüedades.
+
+99
+00:08:24,214 --> 00:08:25,949
+-'Fue la mejor...
+
+100
+00:08:25,949 --> 00:08:28,968
+-...y fue la peor de las épocas.'
+
+101
+00:08:29,075 --> 00:08:32,135
+-¿Es un mensaje, ¿Spock?
+-Ninguno intencional.
+
+102
+00:08:32,311 --> 00:08:36,714
+Salvo, por supuesto, feliz cumpleaños.
+Seguramente, el mejor de los tiempos.
+
+103
+00:08:36,883 --> 00:08:41,946
+Capitán Spock, el transbordador
+espacial parte en quince minutos.
+
+104
+00:08:42,121 --> 00:08:44,180
+-¿A dónde vas?
+-Al Enterprise.
+
+105
+00:08:44,357 --> 00:08:47,793
+Debo registrarme antes de
+tu inspección. ¿ Y tú?
+
+106
+00:08:49,829 --> 00:08:51,592
+A casa.
+
+107
+00:09:08,214 --> 00:09:11,581
+¡ Doctor!
+¿ Qué lo trae por aquí?
+
+108
+00:09:11,751 --> 00:09:14,618
+''Cuidado con los romulanos
+que traen regalos''.
+
+109
+00:09:16,989 --> 00:09:19,856
+-¡ Feliz cumpleaños, Jim!
+-Gracias.
+
+110
+00:09:22,962 --> 00:09:26,125
+¡Cerveza romulana!
+Bones, tú sabes que es ilegal.
+
+111
+00:09:26,299 --> 00:09:29,632
+Sólo la uso como medicina.
+Estuve en una nave...
+
+112
+00:09:29,802 --> 00:09:32,965
+...que lleva y trae una caja
+a través de la Zona Neutral.
+
+113
+00:09:33,139 --> 00:09:35,664
+-Vamos, no seas miedoso.
+-2283.
+
+114
+00:09:35,841 --> 00:09:39,004
+Bueno, ha tardado un poco en fermentar.
+
+115
+00:09:39,178 --> 00:09:43,012
+A ver, dame eso.
+Tú abre esto.
+
+116
+00:09:44,050 --> 00:09:46,143
+Casi me da miedo.
+
+117
+00:09:46,319 --> 00:09:49,584
+¿ Qué es esto?
+¿Afrodisíacos Klingon?
+
+118
+00:09:49,755 --> 00:09:53,316
+No. Más reliquias para tu colección.
+
+119
+00:09:54,226 --> 00:09:58,925
+Oh, Bones...esto es ...encantador.
+
+120
+00:09:59,098 --> 00:10:03,660
+Tienen unos 400 años. Es difícil
+hallarlos con los lentes aún intactos.
+
+121
+00:10:04,437 --> 00:10:07,270
+- ¿ Qué es esto?
+- ¡Son para tus ojos!.
+
+122
+00:10:07,607 --> 00:10:11,634
+A los pacientes de tu edad,
+les recomiendo Retinax 5.
+
+123
+00:10:11,811 --> 00:10:15,008
+-Soy alérgico al Retinax.
+-Exacto. ¡Salud!
+
+124
+00:10:15,181 --> 00:10:16,842
+Salud.
+
+125
+00:10:26,158 --> 00:10:27,887
+Feliz cumpleaños.
+
+126
+00:10:31,063 --> 00:10:33,896
+-No sé qué decir.
+-Puedes decir gracias.
+
+127
+00:10:34,066 --> 00:10:35,533
+Gracias.
+
+128
+00:10:41,140 --> 00:10:44,041
+¡ Maldición, Jim!
+¿ Cuál es tu problema?
+
+129
+00:10:44,210 --> 00:10:46,804
+¿ Es esto un cumpleaños o
+un funeral?
+
+130
+00:10:46,979 --> 00:10:51,382
+-Bones, no me des sermones.
+-¿ Qué diablos quieres?
+
+131
+00:10:55,087 --> 00:10:59,080
+No se trata de la edad.
+Tú lo sabes.
+
+132
+00:10:59,258 --> 00:11:03,524
+¡ Es estar detrás de una computadora
+cuando quieres andar por las galaxias!
+
+133
+00:11:03,696 --> 00:11:06,756
+Guárdate tu poesía.
+Todos tenemos nuestros deberes.
+
+134
+00:11:06,932 --> 00:11:13,496
+¡Tonto! Te escondes, te escondes
+tras normas y regulaciones.
+
+135
+00:11:14,040 --> 00:11:17,942
+-¿ De quién me escondo?
+-¡ De ti mismo, almirante!
+
+136
+00:11:24,050 --> 00:11:27,315
+No andes con rodeos, Bones.
+¿ Qué piensas realmente?
+
+137
+00:11:31,157 --> 00:11:32,419
+Jim...
+
+138
+00:11:33,759 --> 00:11:37,160
+Soy tu doctor y tu amigo.
+
+139
+00:11:38,264 --> 00:11:40,858
+Retoma el mando.
+
+140
+00:11:41,033 --> 00:11:44,400
+Hazlo antes de convertirte
+en parte de esta colección.
+
+141
+00:11:46,038 --> 00:11:48,700
+Antes de que realmente envejezcas.
+
+142
+00:12:05,591 --> 00:12:09,049
+Diario Estelar.
+Fecha Estelar 8 1 30.4.
+
+143
+00:12:09,228 --> 00:12:11,992
+Registro del
+Primer Oficial Chekov.
+
+144
+00:12:12,164 --> 00:12:15,725
+Nave Estelar Reliant
+acercándose a Ceti Alpha 6...
+
+145
+00:12:15,901 --> 00:12:18,495
+...con relación
+al Proyecto Génesis.
+
+146
+00:12:18,671 --> 00:12:22,300
+Seguimos buscando un
+planeta sin vida...
+
+147
+00:12:22,475 --> 00:12:26,707
+...que satisfaga los requisitos del proyecto
+Génesis. Hasta ahora, sin éxito.
+
+148
+00:12:26,879 --> 00:12:31,748
+Órbita estacionaria, por favor.
+¿Algún cambio en la superficie?
+
+149
+00:12:31,917 --> 00:12:36,945
+Negativo. Atmósfera limitada en la
+que predomina el gas craylon, arena...
+
+150
+00:12:37,123 --> 00:12:40,752
+...vientos fuertes. lncapaz
+de sustentar formas de vida.
+
+151
+00:12:42,528 --> 00:12:44,689
+¿ Debe estar totalmente sin vida?
+
+152
+00:12:44,864 --> 00:12:47,025
+¿ Ha encontrado algo?
+
+153
+00:12:47,199 --> 00:12:51,533
+Detectamos un pequeño flujo de
+energía con uno de los escáneres.
+
+154
+00:12:51,704 --> 00:12:55,936
+Maldición. ¿ Está seguro? Tal vez
+el escáner esté desajustado.
+
+155
+00:12:56,342 --> 00:13:00,403
+Supongo que puede ser una partícula
+de materia preanimada...
+
+156
+00:13:00,579 --> 00:13:02,911
+...atrapada en la matriz.
+
+157
+00:13:03,082 --> 00:13:06,415
+Bueno. Contacta a la Dra. Marcus
+por foto-com.
+
+158
+00:13:08,687 --> 00:13:11,383
+¿Tal vez sea algo que
+podamos transplantar?
+
+159
+00:13:11,557 --> 00:13:13,582
+Sabes lo que dirá.
+
+160
+00:13:13,759 --> 00:13:18,628
+Ahora, aclaremos esto.
+¿ Algo que se pueda transplantar?
+
+161
+00:13:18,798 --> 00:13:21,164
+¿ Que se pueda transplantar?
+
+162
+00:13:23,502 --> 00:13:25,163
+No sé.
+
+163
+00:13:25,337 --> 00:13:27,965
+Puede ser sólo una partícula
+de materia preanimada.
+
+164
+00:13:28,140 --> 00:13:32,736
+Pero puede que no.
+Muchachos, deben tener esto en claro.
+
+165
+00:13:32,912 --> 00:13:36,439
+No puede haber siquiera un microbio,
+o el show se termina.
+
+166
+00:13:36,615 --> 00:13:39,948
+Mire. Pero si es algo
+que podamos mover...
+
+167
+00:13:40,119 --> 00:13:41,916
+Se lo aseguro. Allá vamos.
+
+168
+00:13:47,393 --> 00:13:49,953
+No te preocupes,
+Génesis tendrá éxito.
+
+169
+00:13:50,129 --> 00:13:53,530
+¡Te recordarán junto con Newton
+y Einstein, Zorak!
+
+170
+00:13:53,699 --> 00:13:56,725
+Muchas gracias.
+Y mi propio hijo no.
+
+171
+00:13:56,902 --> 00:14:00,702
+Estamos a mano. ¿Jugamos bridge
+luego de la cena?
+
+172
+00:14:00,873 --> 00:14:02,568
+Tal vez.
+
+173
+00:14:02,741 --> 00:14:04,436
+¿ Qué pasa?
+
+174
+00:14:05,744 --> 00:14:09,407
+Me pone nervioso tratar con
+la Flota Estelar.
+
+175
+00:14:10,616 --> 00:14:13,141
+Estamos manejando algo que...
+
+176
+00:14:13,319 --> 00:14:16,447
+...podría convertirse en
+un arma temible.
+
+177
+00:14:18,123 --> 00:14:21,957
+Ese Boy Scout que conocías
+es justo la clase de hombre...
+
+178
+00:14:22,127 --> 00:14:28,327
+Jim Kirk fue muchas cosas,
+pero, ¡nunca un Boy Scout!
+
+179
+00:14:29,368 --> 00:14:32,997
+Capitán Terrell,
+prepárese para trasladarse.
+
+180
+00:14:47,052 --> 00:14:50,818
+Chekov, ¿ seguro que son las
+coordenadas correctas?
+
+181
+00:14:50,990 --> 00:14:55,359
+Capitán, este es el paraíso
+de Ceti Alpha 6.
+
+182
+00:14:56,996 --> 00:14:59,089
+Apenas puedo verlo.
+
+183
+00:15:08,507 --> 00:15:13,376
+¡Aquí no hay nada!
+El Tricorder debe estar estropeado.
+
+184
+00:15:27,092 --> 00:15:29,583
+¡Chekov! ¡Por aquí!
+
+185
+00:15:36,902 --> 00:15:38,927
+Esos parecen cargueros.
+
+186
+00:15:48,914 --> 00:15:51,246
+Oye, ayúdame.
+
+187
+00:16:30,622 --> 00:16:32,749
+¿ Qué rayos pasó?
+
+188
+00:16:32,925 --> 00:16:35,826
+Si se estrellaron,
+¿dónde está el resto de la nave?
+
+189
+00:16:48,874 --> 00:16:51,570
+¿ Qué diablos es eso?
+
+190
+00:17:01,754 --> 00:17:04,484
+BOTANY BAY
+
+191
+00:17:04,656 --> 00:17:06,487
+Botany Bay...
+
+192
+00:17:07,826 --> 00:17:09,726
+¡ Botany Bay!
+
+193
+00:17:10,763 --> 00:17:12,628
+¡Oh, no!
+
+194
+00:17:13,665 --> 00:17:15,690
+¡Tenemos que salir de aquí!
+
+195
+00:17:15,868 --> 00:17:18,894
+-¿ Y qué de...?
+-¡ No importa! ¡ De prisa!
+
+196
+00:17:19,071 --> 00:17:21,631
+Chekov, ¿qué pasa contigo?
+
+197
+00:17:21,807 --> 00:17:23,001
+¡Chekov!
+
+198
+00:17:24,043 --> 00:17:25,840
+¡ Vamos!
+¡Apúrate!
+
+199
+00:17:39,758 --> 00:17:43,455
+Nave Reliant al Capitán Terrell.
+
+200
+00:17:43,629 --> 00:17:46,655
+Aquí el Comandante Kyle.
+Por favor, responda.
+
+201
+00:17:48,767 --> 00:17:51,736
+Capitán Terrell.
+Responda, por favor.
+
+202
+00:17:57,443 --> 00:17:59,206
+Démosle más tiempo.
+
+203
+00:18:33,011 --> 00:18:34,239
+¡ Khan!
+
+204
+00:18:49,461 --> 00:18:51,292
+A ti no te conozco.
+
+205
+00:18:58,804 --> 00:19:00,601
+Pero tú...
+
+206
+00:19:01,773 --> 00:19:04,105
+Nunca olvido un rostro.
+
+207
+00:19:04,276 --> 00:19:05,607
+Señor...
+
+208
+00:19:07,746 --> 00:19:09,338
+...Chekov.
+
+209
+00:19:10,516 --> 00:19:11,983
+¿ No es cierto?
+
+210
+00:19:15,087 --> 00:19:17,578
+Nunca pensé en volver a
+ver tu rostro.
+
+211
+00:19:17,756 --> 00:19:21,283
+-Chekov, ¿quién es este hombre?
+-Un criminal, Capitán.
+
+212
+00:19:21,460 --> 00:19:24,918
+Un producto de la ingeniería genética
+de fines del siglo XX.
+
+213
+00:19:25,097 --> 00:19:26,928
+¿ Qué es lo que quiere?
+Le exijo...
+
+214
+00:19:27,232 --> 00:19:31,396
+Ud. no está en posición
+de exigir nada.
+
+215
+00:19:33,205 --> 00:19:39,235
+Yo, por otro lado, estoy
+en posición de otorgarle... nada.
+
+216
+00:19:39,411 --> 00:19:43,609
+Lo que ve es todo lo que queda
+de la nave y la tripulación...
+
+217
+00:19:43,782 --> 00:19:45,807
+...del Botany Bay...
+
+218
+00:19:45,984 --> 00:19:51,581
+...abandonado aquí hace 1 5 años
+por el Capitán James T. Kirk.
+
+219
+00:19:51,757 --> 00:19:55,090
+-¡ Escuchen! Todos ustedes...
+-¡Capitán! ¡Capitán! ...
+
+220
+00:19:59,398 --> 00:20:01,423
+Guarde sus fuerzas.
+
+221
+00:20:03,268 --> 00:20:06,669
+Estas personas juraron
+vivir y morir bajo mi comando...
+
+222
+00:20:06,838 --> 00:20:09,773
+...200 años antes
+de que usted naciera.
+
+223
+00:20:11,143 --> 00:20:14,374
+Así que... ¿ él nunca
+le contó la historia?
+
+224
+00:20:16,048 --> 00:20:18,573
+¿ Ni siquiera para entretenerlo?
+
+225
+00:20:21,253 --> 00:20:25,280
+¿ Nunca dijo cómo el Enterprise
+rescató al Botany Bay perdido en el espacio...
+
+226
+00:20:25,457 --> 00:20:31,293
+...conmigo y a los demás de la nave
+congelados desde el año 1996?
+
+227
+00:20:31,463 --> 00:20:34,364
+-Ni conozco al almirante Kirk.
+-¿Almirante?
+
+228
+00:20:35,467 --> 00:20:36,832
+¿Almirante?
+
+229
+00:20:38,003 --> 00:20:39,436
+Almirante...
+
+230
+00:20:44,142 --> 00:20:50,479
+¿ Nunca dijo cómo el... almirante Kirk
+mandó al exilio a 70 de nosotros...
+
+231
+00:20:50,649 --> 00:20:53,812
+...a este montón de arena árida...
+
+232
+00:20:53,986 --> 00:20:58,548
+...con tan solo el contenido de ese
+carguero para mantenernos?
+
+233
+00:20:58,724 --> 00:21:02,387
+¡ Usted miente! ¡ Había vida en
+Ceti Alpha 5!
+
+234
+00:21:02,561 --> 00:21:05,724
+-¡ Una buena posibilidad!
+-¡ Esto es Ceti Alpha 5!
+
+235
+00:21:14,439 --> 00:21:20,867
+Ceti Alpha 6 explotó seis meses
+después de haber sido abandonados.
+
+236
+00:21:21,947 --> 00:21:27,613
+¡ El golpe sacó de órbita al planeta
+y todo quedó desolado!
+
+237
+00:21:27,786 --> 00:21:32,951
+El almirante Kirk... nunca se preocupó
+en averiguar sobre nuestro progreso.
+
+238
+00:21:37,496 --> 00:21:41,592
+Lo único que nos permitió
+sobrevivir, fue mi intelecto...
+
+239
+00:21:41,767 --> 00:21:44,167
+...creado por ingeniería genética.
+
+240
+00:21:48,540 --> 00:21:50,030
+En la Tierra...
+
+241
+00:21:52,644 --> 00:21:54,805
+...200 años atrás...
+
+242
+00:21:56,081 --> 00:21:58,345
+... ¡Yo era un príncipe...
+
+243
+00:22:00,185 --> 00:22:02,244
+...con poder sobre millones!
+
+244
+00:22:02,421 --> 00:22:06,824
+¡ El capitán Kirk era su anfitrión!
+¡ Ud. retribuyó su hospitalidad...
+
+245
+00:22:06,992 --> 00:22:10,325
+...tratando de robar su nave
+y de asesinarlo!
+
+246
+00:22:20,906 --> 00:22:23,272
+No esperaban encontrarme.
+
+247
+00:22:23,442 --> 00:22:27,936
+Creían que esto era...
+Ceti Alpha 6.
+
+248
+00:22:33,352 --> 00:22:34,649
+¿ Por qué están aquí?
+
+249
+00:22:44,663 --> 00:22:46,028
+¿ Por qué?
+
+250
+00:22:53,538 --> 00:22:57,770
+Permítanme presentarles a la única
+forma de vida indígena que queda...
+
+251
+00:22:57,943 --> 00:23:01,106
+...de Ceti Alpha 5.
+
+252
+00:23:12,491 --> 00:23:14,857
+¿ Qué les parece?
+
+253
+00:23:15,026 --> 00:23:17,358
+Ellos mataron a 20 de los míos.
+
+254
+00:23:20,198 --> 00:23:21,893
+lncluyendo a mi amada esposa.
+
+255
+00:23:37,716 --> 00:23:39,843
+Ah, no a todos juntos.
+
+256
+00:23:43,555 --> 00:23:47,651
+Y no... instantáneamente,
+se los aseguro.
+
+257
+00:23:59,337 --> 00:24:05,105
+Verán, las crías entran
+a través de las orejas...
+
+258
+00:24:05,277 --> 00:24:08,838
+...y se alojan en la corteza cerebral.
+
+259
+00:24:09,014 --> 00:24:12,780
+Esto hace a la víctima
+extremadamente susceptible...
+
+260
+00:24:12,951 --> 00:24:14,942
+...a la sugestión.
+
+261
+00:24:17,022 --> 00:24:20,514
+Luego, mientras... crecen...
+
+262
+00:24:22,527 --> 00:24:24,620
+...llevan a la locura.
+
+263
+00:24:26,531 --> 00:24:28,590
+Y luego a la muerte.
+
+264
+00:24:36,074 --> 00:24:38,008
+¡ Khan! ¡ Escúcheme!
+
+265
+00:24:38,176 --> 00:24:41,634
+Estas son mascotas,
+por supuesto.
+
+266
+00:24:44,416 --> 00:24:48,011
+No totalmente domesticadas.
+
+267
+00:24:49,020 --> 00:24:52,683
+Khan... El Capitán Kirk
+sólo cumplía con su deber.
+
+268
+00:24:53,725 --> 00:24:55,454
+¡ No!
+
+269
+00:25:22,287 --> 00:25:23,914
+Así está mejor.
+
+270
+00:25:25,790 --> 00:25:30,250
+Ahora, díganme... ¿ Por qué
+están aquí?
+
+271
+00:25:30,428 --> 00:25:33,454
+Y díganme dónde puedo
+encontrar a...
+
+272
+00:25:34,533 --> 00:25:36,467
+...James Kirk.
+
+273
+00:25:39,804 --> 00:25:41,772
+Enterprise al transbordador.
+
+274
+00:25:41,940 --> 00:25:45,637
+Zona libre para acoplar.
+por la bahía de torpedos de babor.
+
+275
+00:25:48,747 --> 00:25:52,046
+Enterprise, aquí el
+almirante Kirk acercándose.
+
+276
+00:25:52,217 --> 00:25:55,277
+Bienvenido.
+Prepárese para acoplar.
+
+277
+00:26:09,634 --> 00:26:11,625
+Odio las inspecciones.
+
+278
+00:26:12,904 --> 00:26:16,704
+Estoy encantado ante cualquier posibilidad
+de abordar el Enterprise.
+
+279
+00:26:26,084 --> 00:26:29,417
+Me alegra el tenerlo en el control al
+menos por tres semanas.
+
+280
+00:26:29,588 --> 00:26:31,146
+No creo que esos chicos puedan guiarlo.
+
+281
+00:26:48,506 --> 00:26:50,269
+Abran la compuerta.
+
+282
+00:26:51,443 --> 00:26:55,573
+-Permiso para abordar, Capitán.
+-Bienvenido. Conoce a mis reclutas.
+
+283
+00:26:55,747 --> 00:26:57,738
+Ellos sí lo conocen a usted.
+
+284
+00:26:57,916 --> 00:27:00,680
+Juntos hemos atravesado
+muerte y vida.
+
+285
+00:27:06,191 --> 00:27:08,455
+¡Scott!
+¿ Estás bien?
+
+286
+00:27:08,627 --> 00:27:12,154
+Tuve un pequeño ataque, pero
+McCoy me ayudó a superarlo.
+
+287
+00:27:12,330 --> 00:27:15,822
+-¿ Un ataque de qué?
+-De nostalgia, almirante.
+
+288
+00:27:19,304 --> 00:27:21,602
+-¿ Y quién es él?
+-Guardia marina.
+
+289
+00:27:21,773 --> 00:27:25,675
+-¡ Peter Preston, asistente!
+-¿ Primera travesía como recluta?
+
+290
+00:27:25,844 --> 00:27:28,278
+-¡Sí, señor!
+-Ya veo.
+
+291
+00:27:29,681 --> 00:27:32,844
+Bueno... ¿ empezamos por la
+sala de máquinas?
+
+292
+00:27:33,018 --> 00:27:35,282
+Nos vemos allí.
+Todo está en orden.
+
+293
+00:27:35,453 --> 00:27:37,921
+Será una sorpresa agradable, Scott.
+
+294
+00:27:38,957 --> 00:27:43,587
+Lo veo en el puente, almirante.
+Pueden retirarse.
+
+295
+00:27:53,838 --> 00:27:56,068
+Siempre me sorprende, señor.
+
+296
+00:27:56,241 --> 00:27:59,176
+¿ Qué le llama la atención, teniente?
+
+297
+00:27:59,344 --> 00:28:02,472
+Es tan... humano.
+
+298
+00:28:02,647 --> 00:28:05,172
+Nadie es perfecto, Saavik.
+
+299
+00:28:37,549 --> 00:28:39,915
+Creo que todo le parecerá
+bien en esta nave, Almirante.
+
+300
+00:28:40,085 --> 00:28:42,178
+¿ Eso cree?
+
+301
+00:28:42,353 --> 00:28:44,878
+Sabe usted, Sr. Preston,
+¿cuántas veces...
+
+302
+00:28:45,056 --> 00:28:48,423
+...he escuchado al Sr. Scott
+contándome sus problemas...
+
+303
+00:28:48,593 --> 00:28:52,051
+...o las risitas burlonas
+detrás mío en el club de oficiales...
+
+304
+00:28:52,230 --> 00:28:56,030
+...sobre el hecho que la Enterprise
+es una trampa voladora mortal?
+
+305
+00:28:56,201 --> 00:29:01,400
+¡Oh, no, señor! Esta es la mejor sala
+de máquinas de toda la flota.
+
+306
+00:29:01,573 --> 00:29:05,509
+Si el Almirante no puede ver los hechos
+por sí mismo, con todo respeto...
+
+307
+00:29:05,677 --> 00:29:08,737
+...es más ciego que un topo.
+
+308
+00:29:08,913 --> 00:29:10,540
+¡Señor!
+
+309
+00:29:10,715 --> 00:29:13,809
+Asistente, usted es una fiera.
+
+310
+00:29:13,985 --> 00:29:18,319
+Es el hijo menor de mi hermana,
+está loco por venir al espacio.
+
+311
+00:29:18,490 --> 00:29:21,789
+Es la fantasía de cada joven.
+Me recuerda a mí mismo.
+
+312
+00:29:22,460 --> 00:29:27,454
+Scott, ¿pueden sus máquinas
+efectuar una travesía de entrenamiento?
+
+313
+00:29:27,632 --> 00:29:33,229
+-¡ De la orden, almirante!
+-Scott, la orden está dada.
+
+314
+00:29:33,404 --> 00:29:36,464
+Almirante, ¿qué hacemos con el
+resto de la inspección?
+
+315
+00:29:36,641 --> 00:29:38,632
+Luego.
+
+316
+00:29:51,356 --> 00:29:54,553
+Aquí Operaciones. El Enterprise
+está libre para partir.
+
+317
+00:29:54,726 --> 00:29:56,626
+Almirante en el puente.
+
+318
+00:30:05,637 --> 00:30:06,831
+Luces encendidas.
+
+319
+00:30:11,676 --> 00:30:16,079
+Muy bien, Teniente Saavik.
+Puede soltar las amarras.
+
+320
+00:30:18,917 --> 00:30:21,715
+-Todas las amarras sueltas, Capitán.
+-Gracias.
+
+321
+00:30:25,490 --> 00:30:30,655
+Teniente, ¿ha pilotado alguna vez
+una nave fuera del puerto espacial?
+
+322
+00:30:31,663 --> 00:30:34,063
+Nunca, señor.
+
+323
+00:30:43,341 --> 00:30:45,002
+Sáquela, Saavik.
+
+324
+00:30:47,912 --> 00:30:49,345
+Sí, señor.
+
+325
+00:30:57,021 --> 00:31:02,049
+Siempre hay una primera vez, teniente.
+¿ No es cierto, almirante?
+
+326
+00:31:03,094 --> 00:31:05,961
+-Propulsores de popa, Sr. Sulu.
+-Propulsores.
+
+327
+00:31:08,233 --> 00:31:11,896
+-¿ Quiere un sedante?
+-Cuarto de impulso de poder.
+
+328
+00:32:24,542 --> 00:32:27,807
+-Estamos habilitados para navegar.
+-¿ En qué rumbo, Capitán?
+
+329
+00:32:29,981 --> 00:32:31,107
+Como Ud. diga.
+
+330
+00:32:31,783 --> 00:32:36,652
+¿ Sr. Sulu? Puede...
+darse el gusto.
+
+331
+00:32:37,855 --> 00:32:39,288
+Sí, señor.
+
+332
+00:33:05,416 --> 00:33:06,678
+¿ Cómo va eso?
+
+333
+00:33:06,851 --> 00:33:10,617
+No podemos poner más información
+en los bancos de memoria.
+
+334
+00:33:11,756 --> 00:33:14,554
+-Diseñaremos uno mayor.
+-¿ Quién lo construirá?
+
+335
+00:33:14,726 --> 00:33:18,958
+¿ Dra. Marcus? Una foto-com
+por el hipercanal.
+
+336
+00:33:19,130 --> 00:33:23,533
+-Es la Nave Estelar Reliant.
+-En pantalla, por favor, Jedda.
+
+337
+00:33:23,701 --> 00:33:27,467
+Adelante, por favor. Aquí el
+Reliant llamando a Regula One.
+
+338
+00:33:29,273 --> 00:33:32,606
+Repito, aquí el USS Reliant.
+
+339
+00:33:32,777 --> 00:33:36,577
+Comandante, estamos recibiendo.
+Aquí Regula One. Continúe.
+
+340
+00:33:36,748 --> 00:33:42,812
+Dra. Marcus. Vamos en su dirección
+y esperamos llegar en tres días.
+
+341
+00:33:42,987 --> 00:33:47,515
+¿ En camino? No los esperábamos
+hasta dentro de tres meses.
+
+342
+00:33:47,692 --> 00:33:52,755
+-¿ Ha sucedido algo?
+- Ceti Alpha 6 se ha aprobado.
+
+343
+00:33:53,264 --> 00:33:57,064
+-Entonces, no comprendo por qué...
+- Hemos recibido nuevas órdenes.
+
+344
+00:33:57,235 --> 00:34:01,763
+Cuando lleguemos a Regula One, todo
+el material del proyecto Génesis...
+
+345
+00:34:01,939 --> 00:34:06,239
+...será transferido a esta nave para
+pruebas en Ceti Alpha 6.
+
+346
+00:34:06,411 --> 00:34:08,811
+¿ Quién demonios creen que son?
+
+347
+00:34:08,980 --> 00:34:12,347
+Comandante Chekov, esto es
+completamente irregular.
+
+348
+00:34:12,517 --> 00:34:15,350
+¿ Quién dio la orden?
+
+349
+00:34:15,520 --> 00:34:18,353
+La orden viene del Comando
+de la Flota Estelar, Dra. Marcus...
+
+350
+00:34:18,523 --> 00:34:20,184
+...directamente desde
+el Estado Mayor.
+
+351
+00:34:20,358 --> 00:34:22,258
+- Es un civil...
+- ¡Shh!
+
+352
+00:34:22,427 --> 00:34:25,328
+Génesis es un proyecto civil
+bajo mi control.
+
+353
+00:34:26,497 --> 00:34:30,092
+- Tengo mis órdenes.
+-¡Oblígalo, madre!
+
+354
+00:34:30,268 --> 00:34:31,428
+¿ Quién dio la orden?
+
+355
+00:34:32,837 --> 00:34:39,140
+La orden vino de parte de...
+el almirante James T. Kirk.
+
+356
+00:34:39,310 --> 00:34:42,279
+¡ Lo sabía!
+Todos en las fuerzas armadas...
+
+357
+00:34:42,447 --> 00:34:45,382
+¡ Esto es inadecuado,
+comandante Chekov!
+
+358
+00:34:45,550 --> 00:34:49,714
+No intento permitir al Reliant
+o a personal no autorizado...
+
+359
+00:34:49,887 --> 00:34:51,752
+...acceso a nuestro trabajo.
+
+360
+00:34:52,590 --> 00:34:57,926
+Siento que pienses así. Las órdenes
+del almirante están confirmadas.
+
+361
+00:34:58,563 --> 00:35:03,626
+Prepárense para entregarnos el Génesis
+cuando lleguemos. Reliant fuera.
+
+362
+00:35:06,471 --> 00:35:08,769
+Bien hecho, comandante.
+
+363
+00:35:10,441 --> 00:35:14,172
+¿ Se da cuenta de que tratarán
+de contactar al almirante...
+
+364
+00:35:14,345 --> 00:35:16,210
+...y confirmar la orden?
+
+365
+00:35:28,993 --> 00:35:30,961
+Un momento, por favor.
+
+366
+00:35:33,531 --> 00:35:34,998
+Gracias, señor.
+
+367
+00:35:37,902 --> 00:35:40,962
+Teniente, ¿cambió de corte de pelo?
+
+368
+00:35:41,139 --> 00:35:43,334
+Aún es reglamentario, almirante.
+
+369
+00:35:46,110 --> 00:35:47,873
+¿ Podría hablar, señor?
+
+370
+00:35:50,014 --> 00:35:53,006
+Expresarse no parece ser uno
+de sus problemas.
+
+371
+00:35:57,421 --> 00:36:00,982
+Está molesta por su desempeño
+en el Kobayashi Maru.
+
+372
+00:36:01,159 --> 00:36:05,357
+-No pude resolver la situación.
+-Es una prueba de temperamento.
+
+373
+00:36:06,731 --> 00:36:09,427
+¿ Podría preguntarle cómo
+le fue a usted?
+
+374
+00:36:12,069 --> 00:36:13,798
+Podría.
+
+375
+00:36:16,440 --> 00:36:18,499
+Es una pequeña broma.
+
+376
+00:36:18,676 --> 00:36:22,134
+Humor.
+Es un concepto difícil.
+
+377
+00:36:23,214 --> 00:36:27,947
+-No es lógico.
+-Aprendemos de la experiencia.
+
+378
+00:36:28,119 --> 00:36:30,178
+¿ Qué pasa con el maldito elevador?
+
+379
+00:36:30,421 --> 00:36:31,513
+Gracias, señor.
+
+380
+00:36:33,057 --> 00:36:36,618
+-¿ Se cambió el peinado?
+-No lo había notado.
+
+381
+00:36:36,794 --> 00:36:39,490
+Asombrosa sustancia,
+la cerveza romulana.
+
+382
+00:36:39,664 --> 00:36:42,497
+- ¿ Almirante Kirk?
+-Aquí Kirk.
+
+383
+00:36:42,667 --> 00:36:47,434
+Una foto-com urgente de
+Regula One, la Dra. Carol Marcus.
+
+384
+00:36:51,676 --> 00:36:55,407
+-Contesto en mi cuarto.
+-Cuando llueve, llueve a cántaros.
+
+385
+00:36:57,515 --> 00:37:02,077
+Como médico, deberías saber los
+peligros de abrir viejas heridas.
+
+386
+00:37:05,623 --> 00:37:07,750
+-Perdón.
+- ¿Jim, puedes escucharme?
+
+387
+00:37:07,925 --> 00:37:11,918
+Te escucho, Carol.
+¿ Cuál es el problema?
+
+388
+00:37:12,096 --> 00:37:15,759
+¿ Por qué nos estás
+quitando Génesis?
+
+389
+00:37:15,933 --> 00:37:19,767
+¿ Quitándoles Génesis?
+¿ Quién está quitándoles Génesis?
+
+390
+00:37:19,937 --> 00:37:23,168
+- Puedo verte, pero no escucharte.
+-Carol...
+
+391
+00:37:23,341 --> 00:37:28,677
+- Jim, ¿ diste tú la orden?
+-¿ Quién quiere quedarse con Génesis?
+
+392
+00:37:28,846 --> 00:37:34,546
+¡Ayúdennos! No dejaré que tomen
+Génesis sin autorización.
+
+393
+00:37:34,719 --> 00:37:36,880
+¿ Con qué autoridad lo hacen?
+
+394
+00:37:37,054 --> 00:37:40,046
+-¡ De nadie!
+- Haz algo.
+
+395
+00:37:40,224 --> 00:37:43,716
+-Uhura, ¿qué sucede?
+- Transmisión interceptada.
+
+396
+00:37:46,931 --> 00:37:52,631
+Alerte al Cuartel General de la Flota
+Estelar. Contacte al comando.
+
+397
+00:37:53,404 --> 00:37:57,033
+Debemos mantener el orden.
+Esto debe ser un error.
+
+398
+00:37:57,208 --> 00:38:00,609
+¿ Error?
+Estamos solos aquí.
+
+399
+00:38:00,778 --> 00:38:03,542
+Esperaron a que todos se fueran.
+
+400
+00:38:03,714 --> 00:38:06,410
+Se suponía que el Reliant
+estaba disponible.
+
+401
+00:38:06,584 --> 00:38:10,076
+-La Flota Estelar nunca pretendió...
+-Lo sé, pero...
+
+402
+00:38:10,254 --> 00:38:13,587
+Quise decírtelo. La milicia siempre
+usa a los científicos.
+
+403
+00:38:13,758 --> 00:38:15,589
+La paz ha durado 1 00 años.
+
+404
+00:38:15,760 --> 00:38:19,389
+No estoy de acuerdo con
+tu interpretación de esto.
+
+405
+00:38:19,563 --> 00:38:26,765
+Es posible. Pero ¿qué hay del Reliant?
+Está en camino.
+
+406
+00:38:28,339 --> 00:38:31,968
+- Preparen sus equipos.
+- ¿A dónde vamos?
+
+407
+00:38:32,143 --> 00:38:34,771
+Ya lo veremos
+y Reliant tendrá que averiguarlo.
+
+408
+00:38:45,923 --> 00:38:51,054
+Algo debe andar mal en Regula One.
+Nos han mandado a investigar.
+
+409
+00:38:52,797 --> 00:38:57,131
+Creo que es un laboratorio
+de investigación científica.
+
+410
+00:38:57,301 --> 00:39:01,169
+Avisé a la flota que sólo
+tenemos es un montón de niños.
+
+411
+00:39:02,573 --> 00:39:05,804
+Pero... somos la única nave
+en el cuadrante.
+
+412
+00:39:07,144 --> 00:39:12,514
+¿ Cómo responderán estos cadetes
+tuyos a la presión real?
+
+413
+00:39:12,683 --> 00:39:17,177
+Como toda criatura viviente,
+cada uno según sus dones.
+
+414
+00:39:17,355 --> 00:39:20,085
+Por supuesto, esta nave es suya.
+
+415
+00:39:21,125 --> 00:39:26,062
+No, eso no será necesario.
+Sólo llévame a Regula One.
+
+416
+00:39:26,230 --> 00:39:31,167
+Como profesor de la misión,
+me alegra comandar el Enterprise.
+
+417
+00:39:31,335 --> 00:39:37,171
+Pero si se presenta una misión real,
+el oficial superior toma el mando.
+
+418
+00:39:37,375 --> 00:39:39,206
+Puede que no sea nada.
+
+419
+00:39:40,244 --> 00:39:44,442
+Comunicaciones confundidas.
+Tú toma la nave.
+
+420
+00:39:44,615 --> 00:39:47,948
+Jim, partes de una suposición errónea.
+
+421
+00:39:48,986 --> 00:39:52,547
+Soy un vulcano.
+No tengo un ego que lastimar.
+
+422
+00:39:56,427 --> 00:39:59,021
+¿ Me recuerdas que la lógica
+dicta tus acciones?
+
+423
+00:39:59,196 --> 00:40:02,962
+No te recordaría algo que
+conoces tan bien.
+
+424
+00:40:03,134 --> 00:40:07,901
+No te ofendas, pero fue un error
+que aceptaras el ascenso.
+
+425
+00:40:09,039 --> 00:40:12,531
+Comandar una nave estelar es
+tu primer y mejor destino.
+
+426
+00:40:12,710 --> 00:40:16,612
+Cualquier otra cosa es un
+desperdicio de material.
+
+427
+00:40:16,781 --> 00:40:19,443
+No me atrevería a debatir contigo.
+
+428
+00:40:19,617 --> 00:40:21,676
+Eso es sabio.
+
+429
+00:40:21,852 --> 00:40:26,414
+En todo caso... invocando a la lógica,
+las necesidades de muchos...
+
+430
+00:40:26,590 --> 00:40:29,423
+...pesan más que las de unos pocos.
+
+431
+00:40:31,762 --> 00:40:33,730
+O de uno.
+
+432
+00:40:39,470 --> 00:40:43,804
+Eres mi oficial superior.
+También mi amigo.
+
+433
+00:40:43,974 --> 00:40:47,171
+He sido y siempre seré tu amigo.
+
+434
+00:40:50,080 --> 00:40:53,345
+Paren los reactores.
+Preparen los altavoces.
+
+435
+00:40:57,054 --> 00:41:00,785
+Esta es una emergencia. Por orden
+del Comando de la Flota...
+
+436
+00:41:00,958 --> 00:41:04,689
+...desde ahora, las 1 800 horas,
+tomo el mando de esta nave.
+
+437
+00:41:05,129 --> 00:41:07,689
+Oficial al mando,
+fije un nuevo rumbo...
+
+438
+00:41:07,865 --> 00:41:10,333
+...hacia Regula One.
+Sala de máquinas.
+
+439
+00:41:11,602 --> 00:41:15,698
+¡Scott! Viajaremos
+a velocidad Warp.
+
+440
+00:41:17,441 --> 00:41:21,104
+-Rumbo fijado hacia Regula One.
+-Activar motores Warp.
+
+441
+00:41:22,279 --> 00:41:24,873
+-Preparados para velocidad Warp.
+-Listo, señor.
+
+442
+00:41:28,285 --> 00:41:31,652
+Sé que ninguno de ustedes se
+esperaba esto. Lo siento.
+
+443
+00:41:31,822 --> 00:41:35,223
+Tendré que pedirles que maduren
+antes de lo esperado.
+
+444
+00:41:36,227 --> 00:41:38,024
+Warp cinco, Sulu.
+
+445
+00:41:39,964 --> 00:41:42,364
+Vaya travesía de entrenamiento.
+
+446
+00:41:51,175 --> 00:41:54,906
+Rumbo para interceptar al
+Enterprise listo, señor.
+
+447
+00:41:55,079 --> 00:41:58,105
+-¿ Helmsman?
+-Señor. ¿ Podría hablar?
+
+448
+00:42:03,554 --> 00:42:05,681
+Todos lo apoyamos, señor.
+
+449
+00:42:06,857 --> 00:42:08,415
+Pero considere esto.
+
+450
+00:42:09,493 --> 00:42:15,159
+Somos libres. Tenemos una nave y los
+medios para ir adonde queramos.
+
+451
+00:42:15,332 --> 00:42:18,426
+Escapamos del exilio
+en Ceti Alpha 5.
+
+452
+00:42:19,937 --> 00:42:23,566
+Ha probado la superioridad de
+su intelecto...
+
+453
+00:42:23,741 --> 00:42:26,539
+...y frustrado los planes
+del almirante Kirk.
+
+454
+00:42:27,578 --> 00:42:30,672
+No necesita derrotarlo nuevamente.
+
+455
+00:42:30,848 --> 00:42:33,408
+Él me provoca.
+
+456
+00:42:33,584 --> 00:42:36,678
+Y le daré su merecido.
+
+457
+00:42:37,888 --> 00:42:41,051
+¡ Lo perseguiré alrededor de
+las lunas de Nibia...
+
+458
+00:42:41,225 --> 00:42:46,720
+...y entre los remolinos de Antares
+y en las llamas de la perdición...
+
+459
+00:42:46,897 --> 00:42:52,460
+...antes de rendirme!
+Prepárense para cambiar el rumbo.
+
+460
+00:42:54,772 --> 00:42:57,832
+Regula One, adelante por favor.
+
+461
+00:42:58,008 --> 00:43:00,306
+Dra. Marcus, por favor responda.
+
+462
+00:43:02,813 --> 00:43:04,906
+Aquí el Enterprise llam...
+
+463
+00:43:05,950 --> 00:43:08,646
+Regula One no responde.
+
+464
+00:43:08,819 --> 00:43:12,346
+-¿ Pero no hay más interferencias?
+-No, señor. ¡ Nada!
+
+465
+00:43:19,363 --> 00:43:24,926
+Hay dos posibilidades.
+No pueden, o no quieren responder.
+
+466
+00:43:25,102 --> 00:43:28,799
+-¿ Cuánto falta?
+-1 2 hrs. 43 min., a esta velocidad.
+
+467
+00:43:31,742 --> 00:43:36,839
+Entregar Génesis, dijo. ¿ Qué
+significa eso? ¿ Dárselo a quién?
+
+468
+00:43:37,014 --> 00:43:42,782
+Podría ayudar el saber qué es Génesis,
+más allá de la referencia bíblica.
+
+469
+00:43:42,953 --> 00:43:46,047
+Uhura, que el Dr. McCoy
+vaya a mi habitación.
+
+470
+00:43:46,223 --> 00:43:49,784
+Saavik, tome el control.
+
+471
+00:43:54,832 --> 00:43:58,859
+Está lista la enfermería. ¿ Quiere
+alguien decirme qué sucede?
+
+472
+00:44:00,838 --> 00:44:04,399
+Computadora. Solicito procedimiento
+de seguridad y...
+
+473
+00:44:04,575 --> 00:44:06,975
+...acceso al Proyecto Génesis.
+
+474
+00:44:07,611 --> 00:44:10,205
+ldentifíquese para escaneo de retina.
+
+475
+00:44:10,381 --> 00:44:12,713
+Kirk... Almirante James T.
+
+476
+00:44:17,888 --> 00:44:20,288
+COlNClDEN VENAS Y ARTERlAS
+
+477
+00:44:20,457 --> 00:44:22,982
+Escaneo de Seguridad aprobado.
+
+478
+00:44:23,160 --> 00:44:24,320
+Resumen, por favor.
+
+479
+00:44:24,495 --> 00:44:26,520
+ClNTA DE SEGURlDAD
+FECHA ESTELAR: 7 1 30.4
+
+480
+00:44:26,697 --> 00:44:28,597
+PRESENTAClÓN
+
+481
+00:44:28,766 --> 00:44:32,202
+Proyecto Génesis.
+Propuesta a la Federación.
+
+482
+00:44:32,369 --> 00:44:35,702
+-Carol Marcus.
+-Si.
+
+483
+00:44:35,873 --> 00:44:37,966
+¿ Qué es Génesis exactamente?
+
+484
+00:44:39,043 --> 00:44:43,810
+Bien, simplemente, Génesis
+es hacer vida de la no vida.
+
+485
+00:44:45,082 --> 00:44:48,415
+Es un proceso que reorganiza
+la estructura molecular...
+
+486
+00:44:48,585 --> 00:44:53,750
+...a nivel subatómico en materia
+animada de igual masa.
+
+487
+00:44:53,924 --> 00:44:57,121
+La fase uno se llevó a cabo
+en el laboratorio.
+
+488
+00:44:57,294 --> 00:45:01,458
+La fase dos será en
+terreno subterráneo sin vida.
+
+489
+00:45:01,632 --> 00:45:05,796
+La fase tres llevará el proceso
+a una escala planetaria.
+
+490
+00:45:05,969 --> 00:45:09,097
+Pretendemos introducir
+el dispositivo Génesis...
+
+491
+00:45:09,273 --> 00:45:15,075
+...en un área preseleccionada sin
+vida del espacio, como una luna...
+
+492
+00:45:15,245 --> 00:45:18,237
+...lo cual causará
+instantáneamente...
+
+493
+00:45:18,415 --> 00:45:21,179
+...lo que llamamos
+el Efecto Génesis.
+
+494
+00:45:21,351 --> 00:45:25,048
+La materia se reorganiza
+y genera vida.
+
+495
+00:45:40,771 --> 00:45:43,672
+En vez de una luna sin vida,
+un planeta con vida...
+
+496
+00:45:43,841 --> 00:45:48,278
+...capaz de sustentar cualquier forma
+de vida que sea depositada en él.
+
+497
+00:45:48,879 --> 00:45:49,937
+Fascinante.
+
+498
+00:45:50,114 --> 00:45:55,450
+La luna simulada aquí, representa
+una fracción del potencial de Génesis...
+
+499
+00:45:55,619 --> 00:46:00,682
+...en caso de que la Federación quiera
+llevar el experimento hasta el final.
+
+500
+00:46:00,858 --> 00:46:05,261
+Al considerar problemas como
+población y recursos alimenticios...
+
+501
+00:46:05,429 --> 00:46:08,296
+...se hace patente
+la utilidad de este proceso.
+
+502
+00:46:08,465 --> 00:46:11,992
+Aquí termina la presentación.
+Gracias por la atención.
+
+503
+00:46:12,736 --> 00:46:15,500
+Es literalmente Génesis.
+
+504
+00:46:16,640 --> 00:46:18,972
+El poder de crear.
+
+505
+00:46:20,844 --> 00:46:24,143
+-¿ Han actuado?
+-La cinta se hizo hace un año.
+
+506
+00:46:24,314 --> 00:46:28,011
+Supongo que hasta ahora habrán
+alcanzado la fase dos.
+
+507
+00:46:28,185 --> 00:46:32,349
+Pero, ¿cree que somos lo
+suficientemente inteligentes como...
+
+508
+00:46:32,523 --> 00:46:37,290
+Suponga... ¿ Y si esta cosa
+se usara en un planeta con vida?
+
+509
+00:46:37,461 --> 00:46:41,693
+Destruiría dicha vida...
+a favor de su nueva matriz.
+
+510
+00:46:42,232 --> 00:46:47,192
+¿ Su nueva matriz? ¿Tiene idea de lo
+que está diciendo?
+
+511
+00:46:47,371 --> 00:46:51,364
+No intentaba evaluar las
+implicaciones morales.
+
+512
+00:46:51,542 --> 00:46:56,605
+En el cosmos siempre ha sido
+más fácil destruir que crear.
+
+513
+00:46:56,780 --> 00:47:00,079
+¡Ya no! Ahora podremos hacer
+ambas cosas a la vez.
+
+514
+00:47:00,250 --> 00:47:03,242
+Según los mitos, la Tierra fue
+creada en seis días.
+
+515
+00:47:03,420 --> 00:47:07,686
+¡Cuidado! ¡Aquí viene Génesis!
+Lo haremos en seis minutos.
+
+516
+00:47:07,858 --> 00:47:10,554
+No discuto que si cae
+en malas manos...
+
+517
+00:47:10,727 --> 00:47:12,718
+¿ En malas manos?
+
+518
+00:47:12,896 --> 00:47:17,765
+¿ Me podría decir, mi lógico amigo,
+de quién son las manos correctas?
+
+519
+00:47:19,803 --> 00:47:22,829
+Por alguna casualidad,
+¿ está a favor de estos experimentos?
+
+520
+00:47:23,006 --> 00:47:24,064
+Caballeros, esto no es...
+
+521
+00:47:24,241 --> 00:47:28,302
+Realmente, Dr. McCoy, debe aprender
+a dominar sus pasiones.
+
+522
+00:47:28,478 --> 00:47:31,970
+Serán su perdición.
+La lógica sugiere...
+
+523
+00:47:32,149 --> 00:47:35,880
+¿ Lógica? ¡ Dios mío,
+está hablando de lógica!
+
+524
+00:47:36,053 --> 00:47:38,317
+¡ Hablamos del Armagedón Universal!
+
+525
+00:47:39,423 --> 00:47:42,756
+-Ud. y su sangre verde...
+- Puente al Almirante Kirk.
+
+526
+00:47:42,926 --> 00:47:47,454
+Los sensores indican una nave en
+nuestra área, se acerca rápido.
+
+527
+00:47:47,631 --> 00:47:52,864
+-¿ Qué información tiene?
+- Es de las nuestras. Es el Reliant.
+
+528
+00:47:56,006 --> 00:47:58,270
+Intente con los canales de emergencia.
+
+529
+00:48:02,946 --> 00:48:04,174
+Pantalla, Mr. Saavik.
+
+530
+00:48:20,297 --> 00:48:22,697
+Disminuya a la mitad de la potencia.
+
+531
+00:48:23,367 --> 00:48:28,464
+-Seamos amigables.
+-Disminuyendo el impulso.
+
+532
+00:48:28,639 --> 00:48:33,133
+El Reliant está en nuestra sección.
+En el cuadrante y disminuyendo.
+
+533
+00:48:33,310 --> 00:48:37,644
+¿ Podría citar de la Orden General 12?
+''Cuando una nave se acerca...
+
+534
+00:48:37,814 --> 00:48:40,305
+...y no se han establecido
+comunicaciones...
+
+535
+00:48:40,484 --> 00:48:44,113
+El almirante conoce los
+reglamentos.
+
+536
+00:48:44,288 --> 00:48:45,585
+Sí, señor.
+
+537
+00:48:49,393 --> 00:48:51,918
+¿ Habrá fallado su
+sistema de comunicaciones?
+
+538
+00:48:52,963 --> 00:48:54,692
+Eso explicaría muchas cosas.
+
+539
+00:48:54,865 --> 00:48:58,096
+Solicitan comunicación, señor.
+
+540
+00:48:58,268 --> 00:48:59,826
+Mándales estática.
+
+541
+00:49:02,005 --> 00:49:04,473
+Aún navegan
+con los escudos bajos.
+
+542
+00:49:04,641 --> 00:49:08,077
+¡ Por supuesto! ¡Somos una gran
+flota feliz!
+
+543
+00:49:09,179 --> 00:49:15,948
+¡ Kirk, viejo amigo! ¿ Conoces el
+proverbio Klingon que dice que...
+
+544
+00:49:16,119 --> 00:49:20,419
+...la venganza es un plato que sabe
+mejor si se sirve frío?
+
+545
+00:49:22,926 --> 00:49:27,454
+Hace mucho frío... en el espacio.
+
+546
+00:49:37,307 --> 00:49:39,332
+Es muy peculiar.
+
+547
+00:49:41,244 --> 00:49:43,712
+-¡Alerta amarilla!
+-¡ Escudos de defensa!
+
+548
+00:49:50,420 --> 00:49:55,357
+Dicen que la bobina está sobrecargando
+el sistema de comunicación.
+
+549
+00:49:56,493 --> 00:49:59,894
+Escaneo. Las emisiones de la
+bobina son normales.
+
+550
+00:50:02,766 --> 00:50:06,600
+-Los escudos aún están bajos.
+-Levanten los nuestros.
+
+551
+00:50:09,039 --> 00:50:12,031
+-¡ Levantan sus escudos!
+-Fijen los phasers.
+
+552
+00:50:13,343 --> 00:50:14,935
+Fijando los phasers.
+
+553
+00:50:15,112 --> 00:50:17,080
+-Preparan los phasers.
+-Escudos.
+
+554
+00:50:17,247 --> 00:50:18,441
+¡ Fuego!
+
+555
+00:50:33,196 --> 00:50:35,426
+-¡ Restablezca escudos!
+-Eso intento.
+
+556
+00:50:58,855 --> 00:51:00,914
+¡ No puedo darles energía!
+
+557
+00:51:02,859 --> 00:51:04,622
+¿ Scotty?
+
+558
+00:51:04,795 --> 00:51:07,593
+-Apague los canales.
+-Scott en la pantalla.
+
+559
+00:51:07,764 --> 00:51:12,667
+¡Sólo resistimos, señor!
+El reactor principal no responde.
+
+560
+00:51:12,836 --> 00:51:16,135
+- ¡lntente con energía auxiliar!
+-Sí, señor.
+
+561
+00:51:16,306 --> 00:51:17,796
+lnforme de daños.
+
+562
+00:51:24,948 --> 00:51:30,011
+-Sabían bien dónde dispararnos.
+-¿ Quién lo sabía? ¿ Y por qué?
+
+563
+00:51:30,187 --> 00:51:33,953
+Algo es seguro. No podemos escapar
+con energía auxiliar.
+
+564
+00:51:35,992 --> 00:51:37,220
+¡Visualización!
+
+565
+00:51:39,963 --> 00:51:42,158
+-Toda la energía a los phasers.
+-Muy tarde.
+
+566
+00:51:42,332 --> 00:51:43,924
+¡Sosténganse!
+
+567
+00:51:54,911 --> 00:51:57,505
+¡Scotty! ¿ Qué recurso queda?
+
+568
+00:51:57,681 --> 00:52:01,173
+¡Sólo las baterías!
+¡Energía auxiliar en unos minutos!
+
+569
+00:52:01,351 --> 00:52:03,785
+¡ No tenemos unos minutos!
+
+570
+00:52:09,593 --> 00:52:12,562
+-¿ Puede dar energía a los phasers?
+- Un par de disparos.
+
+571
+00:52:12,729 --> 00:52:15,197
+-No bastará.
+-¿ Quienes son?
+
+572
+00:52:15,365 --> 00:52:18,664
+¡Almirante! ¡ El comandante del
+Reliant hace señales!
+
+573
+00:52:18,835 --> 00:52:21,360
+Quiere discutir nuestra rendición.
+
+574
+00:52:31,748 --> 00:52:33,511
+En pantalla.
+
+575
+00:52:33,683 --> 00:52:36,846
+¡ Hazlo! Mientras haya tiempo.
+
+576
+00:52:43,326 --> 00:52:44,554
+En pantalla.
+
+577
+00:52:53,203 --> 00:52:57,299
+-¡ Khan!
+- Todavía me recuerda, almirante.
+
+578
+00:52:57,474 --> 00:53:00,102
+No puedo evitar conmoverme.
+
+579
+00:53:00,277 --> 00:53:02,745
+¡Por supuesto que lo recuerdo!
+
+580
+00:53:02,913 --> 00:53:07,111
+¿ Qué significa este ataque? ¿ Dónde
+está la tripulación del Reliant?
+
+581
+00:53:07,284 --> 00:53:10,845
+Evidentemente dejé en claro
+mis intenciones.
+
+582
+00:53:11,021 --> 00:53:14,388
+Pretendo vengarme
+de usted, almirante.
+
+583
+00:53:14,558 --> 00:53:20,053
+Dejé su nave sin energía
+y lo dejaré a Ud. sin vida.
+
+584
+00:53:22,399 --> 00:53:26,597
+Pero primero quiero que sepa
+quién lo venció.
+
+585
+00:53:28,071 --> 00:53:29,538
+Khan...
+
+586
+00:53:31,541 --> 00:53:34,135
+Si es a mí a quien quiere...
+
+587
+00:53:34,311 --> 00:53:38,111
+Haré que me transporten a su nave.
+¡ Deje mi tripulación!
+
+588
+00:53:38,281 --> 00:53:43,548
+Le hago otra propuesta.
+Aceptaré sus términos si...
+
+589
+00:53:43,720 --> 00:53:48,623
+...si ...además de usted,
+me entrega toda la...
+
+590
+00:53:48,792 --> 00:53:54,128
+...información y material relacionado
+con el proyecto... Génesis.
+
+591
+00:53:54,798 --> 00:53:58,757
+-¿ Qué es eso?
+- No insulte a mi inteligencia.
+
+592
+00:53:59,369 --> 00:54:02,133
+Deme un tiempo para localizar
+la información.
+
+593
+00:54:02,806 --> 00:54:05,866
+Le doy 60 segundos, almirante.
+
+594
+00:54:11,948 --> 00:54:13,745
+Despejen el puente.
+
+595
+00:54:18,855 --> 00:54:22,188
+Al menos sabemos que
+no tiene el Génesis.
+
+596
+00:54:22,359 --> 00:54:25,385
+Actúen como si estuviera
+dando órdenes.
+
+597
+00:54:25,562 --> 00:54:28,929
+Saavik, marque los datos
+de la consola del Reliant.
+
+598
+00:54:29,311 --> 00:54:30,587
+Buena orden.
+
+599
+00:54:30,622 --> 00:54:31,966
+-¡ Rápido!
+- 45 segundos.
+
+600
+00:54:32,135 --> 00:54:33,966
+¿ El prefijo del código?
+
+601
+00:54:40,310 --> 00:54:42,870
+-Está listo, señor.
+- ¡Almirante!
+
+602
+00:54:43,046 --> 00:54:44,638
+Estamos buscando.
+
+603
+00:54:46,616 --> 00:54:48,709
+- ¡Almirante!
+-Por favor.
+
+604
+00:54:48,885 --> 00:54:53,288
+Denos tiempo. El puente está roto,
+la computadora no funciona.
+
+605
+00:54:53,456 --> 00:54:56,050
+Tiempo es un lujo que Ud. no tiene.
+
+606
+00:55:03,600 --> 00:55:04,828
+¡ Maldición!
+
+607
+00:55:06,102 --> 00:55:09,162
+- ¿ Almirante?
+-La estamos mandando, Khan.
+
+608
+00:55:13,443 --> 00:55:17,072
+El prefijo del Reliant es 1 6309.
+
+609
+00:55:17,247 --> 00:55:18,680
+No lo comprendo.
+
+610
+00:55:18,848 --> 00:55:21,749
+Tiene que aprender cómo
+funciona una nave estelar.
+
+611
+00:55:21,918 --> 00:55:24,079
+Cada nave tiene su código.
+
+612
+00:55:24,254 --> 00:55:27,246
+Para evitar que se haga
+lo que intentamos.
+
+613
+00:55:28,591 --> 00:55:33,187
+Use nuestra consola para ordenarles
+que bajen los escudos.
+
+614
+00:55:33,363 --> 00:55:36,594
+Suponiendo que no hayan
+cambiado la combinación.
+
+615
+00:55:36,766 --> 00:55:38,927
+Quince segundos.
+
+616
+00:55:43,506 --> 00:55:46,134
+Khan, ¿cómo sabremos
+que cumplirá?
+
+617
+00:55:46,309 --> 00:55:49,437
+No le prometí nada, almirante.
+
+618
+00:55:49,612 --> 00:55:52,672
+Creo que simplemente
+no tiene otra alternativa.
+
+619
+00:55:55,952 --> 00:55:58,546
+Ya veo.
+
+620
+00:55:58,722 --> 00:56:01,555
+Prepárense a recibir
+nuestra transmisión.
+
+621
+00:56:02,859 --> 00:56:06,317
+Sulu, fije los phasers
+y espere mi orden.
+
+622
+00:56:08,732 --> 00:56:11,462
+Se acabó el tiempo... almirante.
+
+623
+00:56:11,634 --> 00:56:12,965
+Ahí va.
+
+624
+00:56:14,371 --> 00:56:15,429
+Ahora, Spock.
+
+625
+00:56:22,312 --> 00:56:24,439
+¡Se caen los escudos!
+
+626
+00:56:26,549 --> 00:56:28,141
+¡ Levántelos!
+
+627
+00:56:29,185 --> 00:56:31,380
+¡ No puedo!
+
+628
+00:56:32,489 --> 00:56:34,719
+¿ Dónde está el desactivador?
+
+629
+00:56:34,891 --> 00:56:36,586
+¡ Fuego!
+
+630
+00:56:38,695 --> 00:56:39,957
+¡ Fuego!
+
+631
+00:56:44,968 --> 00:56:46,731
+¡ Fuego! ¡ Fuego!
+
+632
+00:56:46,903 --> 00:56:49,303
+-¡ No podemos!
+-¿ Por qué no?
+
+633
+00:56:49,472 --> 00:56:53,841
+Dañaron el control de fotones y la
+Unidad Warp. Debemos retirarnos.
+
+634
+00:56:54,010 --> 00:56:56,137
+-¡ No! ¡ No!
+-¡ Debemos hacerlo!
+
+635
+00:57:03,119 --> 00:57:07,317
+¡ El Enterprise puede esperar!
+¡ No irá a ningún lado!
+
+636
+00:57:15,899 --> 00:57:18,834
+-Señor, ¡lo hizo!
+-¡ No hice nada!
+
+637
+00:57:19,903 --> 00:57:24,863
+Salvo estar desprevenido.
+Debo estar volviéndome senil.
+
+638
+00:57:25,041 --> 00:57:29,273
+¿ Saavik? Estuvo bien en citar
+de los reglamentos.
+
+639
+00:57:29,446 --> 00:57:32,472
+Mientras tanto, veamos
+qué tan grave estamos.
+
+640
+00:58:21,231 --> 00:58:24,667
+-¿ Dio la orden, almirante?
+-Está dada.
+
+641
+00:58:26,302 --> 00:58:27,735
+Velocidad Warp.
+
+642
+00:58:28,204 --> 00:58:29,432
+Sí.
+
+643
+00:58:47,223 --> 00:58:48,781
+¿ Por qué?
+
+644
+00:58:51,494 --> 00:58:56,022
+Quiere matarme por haberlo
+condenado hace 1 5 años...
+
+645
+00:58:56,199 --> 00:59:01,068
+...y no le importa quién esté
+entre él y su venganza.
+
+646
+00:59:01,237 --> 00:59:03,228
+Lo lamento, Scotty.
+
+647
+00:59:04,908 --> 00:59:09,072
+Se mantuvo en su puesto...
+cuando los reclutas huyeron.
+
+648
+00:59:09,245 --> 00:59:12,976
+- ¿ Almirante? Aquí Spock.
+-¿ Sí, Spock?
+
+649
+00:59:13,149 --> 00:59:15,913
+La sala de máquinas informa
+que hay energía auxiliar.
+
+650
+00:59:16,085 --> 00:59:19,179
+Podemos viajar
+a velocidad de impulso.
+
+651
+00:59:19,355 --> 00:59:21,789
+Rápido hacia Regula One.
+
+652
+00:59:26,429 --> 00:59:32,732
+Scotty, debo saber... ¿ Es posible
+reestablecer todo nuevamente?
+
+653
+00:59:32,902 --> 00:59:36,929
+No lo creo, señor,
+pero haré lo que pueda.
+
+654
+00:59:37,106 --> 00:59:41,042
+Gracias.
+Sé que lo intentó, Doctor.
+
+655
+00:59:48,151 --> 00:59:49,846
+¿ Estás bien?
+
+656
+00:59:51,387 --> 00:59:56,757
+No lo sé. A veces perdemos
+a nuestros pacientes, maldición.
+
+657
+00:59:58,061 --> 01:00:00,552
+Aún no lo entiendo.
+¿ Cómo supo lo de Génesis?
+
+658
+01:00:00,730 --> 01:00:02,698
+No tengo idea.
+
+659
+01:00:03,733 --> 01:00:06,998
+Ahora lo importante es evitar
+que se apropie del proyecto.
+
+660
+01:00:07,170 --> 01:00:11,038
+Tú mismo dijiste que era algo
+que podía cambiar el universo.
+
+661
+01:00:11,207 --> 01:00:13,903
+Quizás aún nos quede tiempo.
+
+662
+01:00:15,244 --> 01:00:18,338
+Diste lo mejor de ti.
+
+663
+01:00:20,216 --> 01:00:24,949
+Sobrevivimos sólo porque sabía algo
+de esas naves que ellos ignoraban.
+
+664
+01:00:30,460 --> 01:00:33,623
+Llegando a Regula y a su laboratorio.
+
+665
+01:00:33,796 --> 01:00:38,597
+Estación espacial Regula One,
+esta es la nave Enterprise. Adelante.
+
+666
+01:00:42,105 --> 01:00:44,767
+Estación Regula One,
+¿ me escucha?
+
+667
+01:00:47,710 --> 01:00:51,703
+Estación espacial Regula One,
+por favor, responda.
+
+668
+01:00:53,583 --> 01:00:56,108
+Aquí el Enterprise,
+¿ me escucha?
+
+669
+01:00:58,721 --> 01:01:03,749
+Estación espacial Regula One,
+¿ nos escuchan? Por favor, conteste.
+
+670
+01:01:03,926 --> 01:01:05,951
+No hay respuesta, señor.
+
+671
+01:01:09,899 --> 01:01:11,230
+¿ Sensores, Capitán?
+
+672
+01:01:11,401 --> 01:01:16,236
+Aún no funcionan. No hay manera de
+saber qué sucede en la estación.
+
+673
+01:01:16,406 --> 01:01:19,398
+Ni de saber si el Reliant
+aún está en el área.
+
+674
+01:01:20,209 --> 01:01:22,507
+¿ Qué sabe de ese planetoide?
+
+675
+01:01:22,679 --> 01:01:25,375
+Regula es de clase 'D'.
+
+676
+01:01:25,548 --> 01:01:30,417
+Es de minerales comunes.
+En esencia, una gran roca espacial.
+
+677
+01:01:30,586 --> 01:01:34,579
+-El Reliant podría estar tras ella.
+-Es muy probable.
+
+678
+01:01:36,626 --> 01:01:38,423
+-¿ lngeniería?
+- Sí, señor.
+
+679
+01:01:38,594 --> 01:01:41,825
+¿ Scott? ¿ Podemos transportarnos?
+
+680
+01:01:42,865 --> 01:01:44,560
+A duras penas.
+
+681
+01:01:47,136 --> 01:01:49,468
+-Voy a bajar.
+-¡ Khan podría estar allí!
+
+682
+01:01:49,639 --> 01:01:53,075
+Ya estuvo y no encontró nada.
+¿ Quién puede venir?
+
+683
+01:01:53,242 --> 01:01:54,607
+Yo puedo.
+
+684
+01:01:54,777 --> 01:01:58,873
+La Orden General 1 5 dice: ''Ningún
+oficial deberá transportarse...
+
+685
+01:01:59,048 --> 01:02:01,642
+...a un área peligrosa sin escoltas''.
+
+686
+01:02:01,818 --> 01:02:03,308
+¡ Esa regla no existe!
+
+687
+01:02:08,357 --> 01:02:10,848
+Está bien, venga.
+Sr. Spock, la nave es suya.
+
+688
+01:02:11,027 --> 01:02:12,927
+Jim, tenga cuidado.
+
+689
+01:02:14,030 --> 01:02:15,088
+Lo tendremos.
+
+690
+01:02:38,888 --> 01:02:41,254
+Signos de vida indeterminados.
+
+691
+01:02:44,527 --> 01:02:46,722
+Preparen los phasers.
+
+692
+01:02:49,899 --> 01:02:51,389
+Muévanse.
+
+693
+01:03:56,966 --> 01:03:58,331
+¡Jim!
+
+694
+01:04:08,277 --> 01:04:11,940
+Esto no debe haber
+sucedido hace mucho.
+
+695
+01:04:12,982 --> 01:04:14,040
+¡Carol... !
+
+696
+01:04:14,217 --> 01:04:18,176
+Enterprise llamando al laboratorio de
+Regula One. Respondan.
+
+697
+01:04:18,788 --> 01:04:21,313
+¡Almirante! Por aquí.
+
+698
+01:04:21,491 --> 01:04:23,982
+Dra. Marcus, adelante, por favor.
+
+699
+01:04:48,518 --> 01:04:49,780
+¡Oh, Dios mío!
+
+700
+01:04:49,952 --> 01:04:52,318
+¡ Respondan la señal! Por favor...
+
+701
+01:04:52,488 --> 01:04:58,324
+Aquí la Teniente Saavik.
+Estamos bien. Estén atentos. Fuera.
+
+702
+01:04:59,762 --> 01:05:03,630
+¡Señor! ¡ Fue Khan!
+
+703
+01:05:03,800 --> 01:05:06,598
+-Lo encontramos en Ceti Alpha 5.
+-Calma...
+
+704
+01:05:08,171 --> 01:05:12,733
+¡ Él... puso... criaturas
+en nuestros cuerpos!
+
+705
+01:05:12,909 --> 01:05:15,104
+Para controlarnos la mente.
+
+706
+01:05:16,345 --> 01:05:18,540
+Ahora estás a salvo.
+
+707
+01:05:18,715 --> 01:05:21,809
+Hacernos mentir... hacer cosas.
+
+708
+01:05:22,852 --> 01:05:28,381
+Pero lo vencimos. Pensó que nos
+controlaba, ¡pero no lo logró!
+
+709
+01:05:28,558 --> 01:05:31,322
+-El Capitán fue fuerte.
+-Capitán...
+
+710
+01:05:32,361 --> 01:05:37,094
+¿ Dónde está la Dra. Marcus? ¿ Dónde
+están los materiales de Génesis?
+
+711
+01:05:37,266 --> 01:05:41,032
+No los encontró. Los bancos
+de memoria estaban vacíos.
+
+712
+01:05:41,204 --> 01:05:45,607
+-¿ Borrados?
+-Torturó a la gente.
+
+713
+01:05:45,775 --> 01:05:49,643
+Pero ninguno de ellos le dijo
+nada. Se puso furioso.
+
+714
+01:05:49,812 --> 01:05:55,910
+Les cortó la garganta. Quería
+destrozar el lugar.
+
+715
+01:05:56,085 --> 01:06:01,250
+No tuvo tiempo. Tenía que regresar
+al Reliant para volarlo en pedazos.
+
+716
+01:06:01,424 --> 01:06:03,892
+¿ Y la tripulación?
+¿ Murieron?
+
+717
+01:06:05,762 --> 01:06:08,959
+Abandonados en Ceti Alpha 5.
+
+718
+01:06:09,132 --> 01:06:12,829
+Está loco. Lo culpa por
+la muerte de su esposa.
+
+719
+01:06:13,002 --> 01:06:15,493
+Sé de qué me culpa.
+
+720
+01:06:19,408 --> 01:06:25,369
+No usaron las cápsulas de escape,
+¿ Dónde está la sala de transportación?
+
+721
+01:06:26,916 --> 01:06:30,181
+-¿ Llegó hasta aquí?
+-Me parece que no.
+
+722
+01:06:30,353 --> 01:06:34,016
+Estuvo mucho tiempo
+forzándolos a dar información.
+
+723
+01:06:35,558 --> 01:06:40,359
+Dejaron la unidad encendida. Por lo
+tanto, nadie se quedó a apagarla.
+
+724
+01:06:40,530 --> 01:06:44,990
+Le compraron tiempo
+al Génesis con sus vidas.
+
+725
+01:06:45,168 --> 01:06:49,867
+No es lógico. Éstas coordenadas son
+de la profundidad de Regula.
+
+726
+01:06:50,039 --> 01:06:52,064
+Supuestamente sin vida.
+
+727
+01:06:55,244 --> 01:06:58,475
+Si la fase dos se completaba,
+sería bajo tierra.
+
+728
+01:06:58,648 --> 01:07:02,641
+-Bajo tierra, dijo ella.
+-¿ Fase dos de qué?
+
+729
+01:07:04,353 --> 01:07:06,651
+-Kirk a Enterprise.
+- Aquí Spock.
+
+730
+01:07:06,823 --> 01:07:08,791
+Capitán, informe de daños.
+
+731
+01:07:08,958 --> 01:07:15,363
+Si seguimos las reglas, como Saavik,
+las horas se harán días.
+
+732
+01:07:16,699 --> 01:07:20,135
+-Hagámoslo, Capitán.
+- La situación es seria.
+
+733
+01:07:20,303 --> 01:07:22,931
+No habrá energía principal
+por seis días.
+
+734
+01:07:23,105 --> 01:07:25,903
+La energía auxiliar ha fallado.
+
+735
+01:07:26,075 --> 01:07:31,479
+Restaurarla puede llevarnos dos
+días... según las normas, almirante.
+
+736
+01:07:31,647 --> 01:07:33,615
+¿ Puede regresarnos?
+
+737
+01:07:33,783 --> 01:07:35,774
+Por ahora no.
+
+738
+01:07:38,020 --> 01:07:41,717
+Capitán Spock. Si no sabe de
+nosotros en una hora...
+
+739
+01:07:41,891 --> 01:07:44,189
+...deberá restaurar energía para...
+
+740
+01:07:44,927 --> 01:07:47,487
+...ir a la base más cercana...
+
+741
+01:07:47,663 --> 01:07:50,223
+...y alertar a la Flota.
+
+742
+01:07:50,399 --> 01:07:52,663
+¡No lo vamos a dejar!
+
+743
+01:07:52,835 --> 01:07:56,965
+Uhura, si no tiene noticias,
+será porque no quedará nadie.
+
+744
+01:07:58,608 --> 01:08:01,338
+Señores, pueden quedarse, o...
+
+745
+01:08:01,510 --> 01:08:05,412
+Si da igual, almirante, nos
+gustaría correr el riesgo.
+
+746
+01:08:06,449 --> 01:08:09,043
+De acuerdo. Vamos. Saavik.
+
+747
+01:08:10,720 --> 01:08:13,814
+-¿ lr? ¿A dónde?
+-Donde fueron ellos.
+
+748
+01:08:16,225 --> 01:08:18,489
+¿ Si no fueron a ningún lado?
+
+749
+01:08:18,661 --> 01:08:21,630
+Será tu oportunidad
+para alejarte de todo.
+
+750
+01:08:51,460 --> 01:08:52,825
+Almirante...
+
+751
+01:09:07,043 --> 01:09:09,170
+Génesis, si no me equivoco.
+
+752
+01:09:16,819 --> 01:09:18,446
+¡ Bajen los phasers!
+
+753
+01:09:19,789 --> 01:09:21,051
+¡Tú!
+
+754
+01:09:29,365 --> 01:09:31,765
+-¿ Dónde está la Dra. Marcus?
+-¡Yo soy Marcus!
+
+755
+01:09:31,934 --> 01:09:33,526
+¡Jim!
+
+756
+01:09:46,549 --> 01:09:47,914
+¿ Ese es David?
+
+757
+01:09:48,084 --> 01:09:51,383
+¡ Madre! Mató todo lo que
+dejamos detrás.
+
+758
+01:09:52,855 --> 01:09:57,758
+Por supuesto que no. David, estás
+haciendo las cosas más difíciles.
+
+759
+01:09:57,927 --> 01:10:01,658
+Creo que es peor de lo que
+usted piensa, Doctora.
+
+760
+01:10:01,831 --> 01:10:04,732
+Por favor, no se mueva.
+
+761
+01:10:05,201 --> 01:10:06,498
+¡Chekov!
+
+762
+01:10:06,669 --> 01:10:10,070
+Lo... siento, almirante.
+
+763
+01:10:12,341 --> 01:10:14,172
+Excelencia, ¿ha escuchado?
+
+764
+01:10:17,480 --> 01:10:21,610
+Sí, lo hice, Capitán.
+Hizo bien.
+
+765
+01:10:21,784 --> 01:10:24,878
+¡ Lo sabía! ¡ Hijo de perra!
+
+766
+01:10:26,522 --> 01:10:31,016
+-¡Que nadie se mueva!
+- ¿ Capitán? Estamos esperando.
+
+767
+01:10:32,061 --> 01:10:35,053
+-¿ Por qué se demoran?
+-Todo está bien.
+
+768
+01:10:35,231 --> 01:10:37,392
+Ya puede transportarlo.
+
+769
+01:10:39,568 --> 01:10:42,332
+Lo primero es lo primero, Capitán.
+
+770
+01:10:44,707 --> 01:10:47,369
+Mate al almirante Kirk.
+
+771
+01:10:58,020 --> 01:11:00,580
+Señor, eso es difícil. Yo...
+
+772
+01:11:00,756 --> 01:11:04,248
+- Trato de obedecer, pero...
+-¡ Mátelo!
+
+773
+01:11:04,794 --> 01:11:05,954
+Yo...
+
+774
+01:11:14,103 --> 01:11:16,367
+¡Mátelo, Terrell, ahora!
+
+775
+01:11:39,462 --> 01:11:40,861
+¡ Por el amor de Dios!
+
+776
+01:11:42,932 --> 01:11:44,729
+¿ Qué es eso?
+
+777
+01:12:04,987 --> 01:12:06,284
+Khan, ¡sanguijuela!
+
+778
+01:12:07,189 --> 01:12:10,989
+¡ Tendrás que hacer tu trabajo sucio
+ahora! ¿ Escuchaste?
+
+779
+01:12:13,829 --> 01:12:15,456
+¡ Kirk!
+
+780
+01:12:17,733 --> 01:12:21,225
+Kirk, aún está vivo, viejo amigo.
+
+781
+01:12:21,403 --> 01:12:28,241
+¡Aún, ''viejo amigo''!
+Casi nos mata a todos...
+
+782
+01:12:28,410 --> 01:12:32,642
+...pero como mal jugador de dardos,
+sigue errando el blanco.
+
+783
+01:12:41,824 --> 01:12:44,918
+Quizás ya no necesite practicar.
+
+784
+01:12:51,233 --> 01:12:53,565
+¡ No puede llevárselo!
+
+785
+01:12:57,039 --> 01:12:58,233
+¡ Khan!
+
+786
+01:13:03,245 --> 01:13:06,078
+¡Tiene el Génesis, pero no a mí!
+
+787
+01:13:06,248 --> 01:13:11,550
+Si piensa matarme, Khan.
+¡ Tendrá que venir aquí!
+
+788
+01:13:12,588 --> 01:13:15,523
+He hecho algo peor que matarlo.
+
+789
+01:13:18,160 --> 01:13:19,491
+Lo herí.
+
+790
+01:13:20,996 --> 01:13:24,693
+Y continuaré... hiriéndolo.
+
+791
+01:13:27,670 --> 01:13:29,934
+Lo dejaré, como Ud. me dejó.
+
+792
+01:13:30,639 --> 01:13:32,300
+Como la dejó a ella.
+
+793
+01:13:32,474 --> 01:13:37,935
+Eternamente abandonados,
+en el centro de un planeta muerto.
+
+794
+01:13:39,481 --> 01:13:41,312
+¡ Enterrados vivos!
+
+795
+01:13:41,684 --> 01:13:43,515
+¡Enterrados vivos!
+
+796
+01:13:44,787 --> 01:13:46,379
+¡ Khan!
+
+797
+01:13:47,790 --> 01:13:49,314
+¡Khan!
+
+798
+01:13:55,664 --> 01:13:59,623
+Aquí la Teniente Saavik llamando
+al Enterprise. ¿ Escuchan?
+
+799
+01:14:00,903 --> 01:14:03,428
+Saavik al Enterprise, ¿ escuchan?
+
+800
+01:14:03,706 --> 01:14:06,368
+-Está despertando.
+-¿ Pavel?
+
+801
+01:14:09,311 --> 01:14:13,372
+Es inútil, almirante. Los canales
+siguen interferidos.
+
+802
+01:14:13,549 --> 01:14:16,177
+Si siguieron las órdenes, se fueron.
+
+803
+01:14:16,352 --> 01:14:19,412
+Si no lo hicieron, están acabados.
+
+804
+01:14:19,955 --> 01:14:22,219
+Nosotros también. Parece.
+
+805
+01:14:23,592 --> 01:14:26,891
+¡ No lo entiendo! ¿ Quién es
+responsable de esto?
+
+806
+01:14:27,963 --> 01:14:29,191
+¿ Quién es Khan?
+
+807
+01:14:29,365 --> 01:14:33,324
+-Es una larga historia.
+-Creo que tenemos bastante tiempo.
+
+808
+01:14:37,873 --> 01:14:42,105
+¿ Hay algo para comer? No sé ustedes,
+pero yo me muero de hambre.
+
+809
+01:14:42,278 --> 01:14:44,746
+¿ Cómo puedes pensar en comida?
+
+810
+01:14:44,913 --> 01:14:47,746
+Es lo primero. Supervivencia.
+
+811
+01:14:47,916 --> 01:14:50,851
+Hay comida en la cueva Génesis.
+
+812
+01:14:51,020 --> 01:14:55,582
+Suficiente para toda una vida...
+de ser necesario.
+
+813
+01:14:56,659 --> 01:14:58,183
+Creíamos que era esto.
+
+814
+01:14:58,460 --> 01:14:59,449
+¿ Esto?
+
+815
+01:15:02,665 --> 01:15:04,792
+Los ingenieros pasaron...
+
+816
+01:15:04,967 --> 01:15:07,561
+...diez meses cavando los túneles.
+
+817
+01:15:10,239 --> 01:15:13,265
+Lo que hay allí dentro,
+fue hecho en un día.
+
+818
+01:15:13,442 --> 01:15:18,379
+David, muéstrales a McCoy y
+a la teniente nuestra idea de comida.
+
+819
+01:15:18,547 --> 01:15:23,575
+-¡ No podemos quedarnos sentados!
+-Claro que sí podemos.
+
+820
+01:15:23,752 --> 01:15:25,686
+Es para sacarnos de en medio.
+
+821
+01:15:29,692 --> 01:15:31,023
+Vamos.
+
+822
+01:15:38,634 --> 01:15:42,730
+-¿Almirante?
+-Como profesor, el Sr. Spock, dijo...
+
+823
+01:15:42,905 --> 01:15:47,035
+''Me gusta pensar que siempre
+hay... posibilidades''.
+
+824
+01:15:59,455 --> 01:16:01,923
+Hice lo que querías.
+
+825
+01:16:02,091 --> 01:16:03,752
+Me mantuve alejado.
+
+826
+01:16:06,095 --> 01:16:08,086
+¿ Por qué no me lo dijiste?
+
+827
+01:16:09,131 --> 01:16:10,996
+¿ Cómo me preguntas eso?
+
+828
+01:16:12,201 --> 01:16:14,567
+¿ Estuvimos juntos?
+
+829
+01:16:14,737 --> 01:16:17,035
+¿ Íbamos a estarlo?
+
+830
+01:16:17,206 --> 01:16:20,141
+Tú tenías tu mundo y yo el mío.
+
+831
+01:16:21,477 --> 01:16:23,707
+Yo lo quería a él en el mío.
+
+832
+01:16:23,879 --> 01:16:27,246
+¡ No seguirlo por el universo
+junto con su padre!
+
+833
+01:16:37,559 --> 01:16:41,222
+Realmente... tiene mucho de ti.
+
+834
+01:16:43,031 --> 01:16:44,896
+En varios sentidos.
+
+835
+01:16:48,103 --> 01:16:50,503
+Por favor, dime lo que sientes.
+
+836
+01:16:54,042 --> 01:16:57,136
+No lo veo hace 1 5 años y allí está...
+
+837
+01:16:57,312 --> 01:16:59,405
+...tratando de matarme.
+
+838
+01:17:01,617 --> 01:17:04,484
+Tengo un hijo al que
+me gustaría ayudar.
+
+839
+01:17:07,823 --> 01:17:09,313
+Mi hijo...
+
+840
+01:17:13,395 --> 01:17:15,522
+Mi vida hubiese sido...
+
+841
+01:17:16,999 --> 01:17:18,466
+...y no lo fue.
+
+842
+01:17:21,203 --> 01:17:23,364
+¿ Y yo cómo me siento?
+
+843
+01:17:27,042 --> 01:17:28,407
+Viejo.
+
+844
+01:17:31,880 --> 01:17:33,871
+Desgastado.
+
+845
+01:17:40,055 --> 01:17:42,387
+Déjame mostrarte algo que...
+
+846
+01:17:43,625 --> 01:17:48,426
+...te hará sentir joven, como
+cuando el mundo era nuevo.
+
+847
+01:18:02,077 --> 01:18:04,944
+Energía de impulso restaurada.
+
+848
+01:18:05,113 --> 01:18:10,073
+Excelente, somos demasiado para
+el pobre Enterprise.
+
+849
+01:18:31,139 --> 01:18:34,006
+¿ Hicieron todo esto en un día?
+
+850
+01:18:34,176 --> 01:18:36,770
+La matriz se formó en un día.
+
+851
+01:18:36,945 --> 01:18:42,042
+Luego crecieron las formas de vida
+a un nivel sumamente acelerado.
+
+852
+01:18:45,521 --> 01:18:50,686
+¡Jim! ¡ Esto es fantástico!
+¿ Has visto alguna vez algo similar?
+
+853
+01:18:52,794 --> 01:18:55,092
+¿ Sé cocinar o no?
+
+854
+01:19:14,016 --> 01:19:15,449
+¿ Dónde está?
+
+855
+01:19:21,690 --> 01:19:23,783
+¿ Puedo preguntarle algo?
+
+856
+01:19:23,959 --> 01:19:27,292
+-¿ Qué tiene en mente, teniente?
+-El Kobayashi Maru.
+
+857
+01:19:27,462 --> 01:19:29,794
+¿ Pregunta si haré algo parecido?
+
+858
+01:19:29,965 --> 01:19:36,268
+¿ Me dirá qué hizo usted en la prueba?
+Me gustaría saberlo.
+
+859
+01:19:36,438 --> 01:19:40,636
+Teniente, está viendo al único cadete
+de la Flota Estelar que ha...
+
+860
+01:19:40,809 --> 01:19:43,676
+...ganado en un escenario imposible.
+
+861
+01:19:43,845 --> 01:19:45,938
+¿ Cómo lo hizo?
+
+862
+01:19:46,114 --> 01:19:50,175
+Reprogramé la simulación para
+poder rescatar la nave.
+
+863
+01:19:50,352 --> 01:19:52,479
+-¿ Qué?
+-¡ Hizo trampa!
+
+864
+01:19:52,654 --> 01:19:55,282
+Cambié el entorno de la prueba.
+
+865
+01:19:55,457 --> 01:20:00,417
+Me elogiaron por pensamiento original.
+No me gusta perder.
+
+866
+01:20:00,596 --> 01:20:04,589
+Entonces no enfrentó la situación...
+no enfrentó la muerte.
+
+867
+01:20:05,133 --> 01:20:07,829
+No creo en los escenarios sin salida.
+
+868
+01:20:10,839 --> 01:20:13,967
+-Spock. Dos horas. ¿ Listo?
+- En tiempo.
+
+869
+01:20:14,142 --> 01:20:18,078
+Denos sus coordenadas y los
+transportaremos a bordo.
+
+870
+01:20:22,150 --> 01:20:23,947
+No me gusta perder.
+
+871
+01:20:24,620 --> 01:20:28,112
+El Capitán dijo que
+nos llevaría dos días.
+
+872
+01:20:28,290 --> 01:20:31,782
+Teniente, para los que siguen
+las reglas. ¡Spock!
+
+873
+01:20:31,960 --> 01:20:34,258
+-¿ Conoce a la Dra. Marcus?
+-Por supuesto.
+
+874
+01:20:34,429 --> 01:20:36,727
+-Me los llevo.
+-¿ Por las normas?
+
+875
+01:20:36,898 --> 01:20:42,359
+Norma 46A. ''Si se monitorean
+las transmisiones en batalla...
+
+876
+01:20:42,537 --> 01:20:45,131
+...se mandarán mensajes en clave''.
+
+877
+01:20:48,510 --> 01:20:51,502
+-Mintió.
+-Exageré.
+
+878
+01:20:51,680 --> 01:20:55,616
+Horas en vez de días. Ahora tenemos
+minutos en vez de horas.
+
+879
+01:21:00,656 --> 01:21:03,181
+-Cubierta ''C'' inoperante.
+-¿ Qué funciona?
+
+880
+01:21:03,358 --> 01:21:06,885
+No tenemos mucha energía.
+Sólo lo que logramos en dos horas.
+
+881
+01:21:10,465 --> 01:21:13,229
+Ese jovencito es mi hijo.
+
+882
+01:21:14,636 --> 01:21:17,002
+Es fascinante.
+
+883
+01:21:38,126 --> 01:21:39,889
+-Almirante en el puente.
+-Puestos de combate.
+
+884
+01:21:42,931 --> 01:21:44,193
+¡Táctica!
+
+885
+01:21:50,305 --> 01:21:52,796
+Aún pueden alcanzarnos...
+y vencernos.
+
+886
+01:21:53,775 --> 01:21:58,439
+-Pero aquí está la nebulosa Mutara.
+-Scotty, ¿podemos entrar allí?
+
+887
+01:21:58,613 --> 01:22:02,447
+El reactor no quedó muy bien,
+así que no anden a los saltos.
+
+888
+01:22:02,617 --> 01:22:06,246
+-No prometo nada.
+-Problemas con la nebulosa...
+
+889
+01:22:06,421 --> 01:22:10,050
+...las descargas y el gas
+anulan la pantalla táctica.
+
+890
+01:22:10,225 --> 01:22:13,194
+No veremos nada,
+ni servirán los escudos.
+
+891
+01:22:14,429 --> 01:22:16,897
+Eso le da más sabor, Saavik.
+
+892
+01:22:18,533 --> 01:22:20,125
+Estaremos parejos.
+
+893
+01:23:06,448 --> 01:23:08,609
+¡Ahí está!
+
+894
+01:23:08,784 --> 01:23:10,547
+¡Ahí está!
+
+895
+01:23:13,522 --> 01:23:17,253
+No tan mal como pensábamos.
+
+896
+01:23:17,425 --> 01:23:18,983
+Bastante mejor.
+
+897
+01:23:44,186 --> 01:23:48,714
+Entrando en la nebulosa
+en unos 2.2 minutos.
+
+898
+01:23:50,358 --> 01:23:52,326
+El Reliant se acerca.
+
+899
+01:24:01,870 --> 01:24:03,428
+Si entran, los perderemos.
+
+900
+01:24:05,006 --> 01:24:06,473
+Explíquenselo.
+
+901
+01:24:17,018 --> 01:24:20,954
+-Estuvo cerca.
+-No quieren que vayamos allí.
+
+902
+01:24:21,423 --> 01:24:26,258
+Almirante, ¿qué pasa
+si Reliant no nos sigue?
+
+903
+01:24:26,428 --> 01:24:29,556
+Creo que podemos contar
+que sí lo hará, teniente.
+
+904
+01:24:29,731 --> 01:24:32,996
+Recuérdeme que le explique
+el concepto del ego humano.
+
+905
+01:24:35,670 --> 01:24:36,932
+Mayor velocidad, Scotty.
+
+906
+01:24:44,813 --> 01:24:46,405
+Nebulosa en un minuto.
+
+907
+01:24:47,015 --> 01:24:48,744
+¿ Disminuimos la velocidad?
+
+908
+01:24:49,885 --> 01:24:54,413
+No los seguiremos a la nebulosa.
+Perderíamos los escudos.
+
+909
+01:24:58,226 --> 01:25:01,559
+-Disminuyen la velocidad.
+-Uhura, comuníqueme.
+
+910
+01:25:03,465 --> 01:25:05,933
+Listo, almirante.
+
+911
+01:25:06,101 --> 01:25:10,970
+Habla Kirk. Lo intentamos
+a su modo, Khan. ¿ Quiere la revancha?
+
+912
+01:25:13,074 --> 01:25:16,066
+¡ Khan! Me río de...
+
+913
+01:25:16,244 --> 01:25:18,678
+...su ''intelecto superior''.
+
+914
+01:25:20,181 --> 01:25:24,117
+-lmpulso máximo.
+-¡ No, señor!
+
+915
+01:25:24,286 --> 01:25:27,084
+Tiene el Génesis.
+Puede tener lo que quiera...
+
+916
+01:25:27,255 --> 01:25:29,917
+¡ Energía máxima! ¡ Maldición!
+
+917
+01:25:35,997 --> 01:25:38,158
+Sabía que esto funcionaría.
+
+918
+01:25:39,868 --> 01:25:42,701
+Entramos en la nebulosa Mutara.
+
+919
+01:25:51,713 --> 01:25:53,442
+Luces de emergencia.
+
+920
+01:26:23,445 --> 01:26:24,912
+Táctica.
+
+921
+01:26:26,614 --> 01:26:28,275
+No funciona.
+
+922
+01:26:31,286 --> 01:26:33,811
+Active los escudos.
+
+923
+01:26:33,989 --> 01:26:38,449
+Como temía, señor, no funcionan.
+Reduzco la velocidad.
+
+924
+01:27:20,969 --> 01:27:22,402
+Blanco, señor.
+
+925
+01:27:22,570 --> 01:27:26,028
+-No se pueden fijar los phasers.
+-Dispare cuando esté listo.
+
+926
+01:27:35,417 --> 01:27:37,282
+¡Torpedos! ¡ Fuego!
+
+927
+01:27:46,027 --> 01:27:47,995
+Mantenga el curso.
+
+928
+01:28:10,718 --> 01:28:13,152
+¡ Maniobra evasiva!
+
+929
+01:28:22,597 --> 01:28:24,258
+¡ Fuego!
+
+930
+01:28:45,720 --> 01:28:47,415
+¿ Daños, Scott?
+
+931
+01:28:49,224 --> 01:28:52,990
+Debo quitar
+las líneas principales.
+
+932
+01:28:53,161 --> 01:28:56,460
+-La radiación...
+- ¿ Scotty?
+
+933
+01:28:57,031 --> 01:28:58,259
+¡Joachim!
+
+934
+01:29:00,034 --> 01:29:04,971
+Usted... es... superior...
+
+935
+01:29:13,281 --> 01:29:14,475
+¡Te vengaré!
+
+936
+01:29:24,959 --> 01:29:27,689
+¿ Necesita ayuda, almirante?
+
+937
+01:29:28,663 --> 01:29:30,858
+A la consola de armas.
+
+938
+01:29:35,236 --> 01:29:37,966
+-Spock.
+-Lectura esporádica de energía.
+
+939
+01:29:38,139 --> 01:29:41,540
+La popa.
+Podría ser un giro de impulso.
+
+940
+01:29:42,844 --> 01:29:45,210
+No nos perderá ahora.
+
+941
+01:29:46,347 --> 01:29:49,077
+Si me siguió hasta ahora, volverá.
+
+942
+01:29:50,952 --> 01:29:53,420
+Pero, ¿de dónde?
+
+943
+01:29:53,588 --> 01:29:57,046
+Es inteligente,
+pero no tiene experiencia.
+
+944
+01:29:57,225 --> 01:30:01,127
+Su diseño le indica pensar
+bidimensionalmente.
+
+945
+01:30:07,202 --> 01:30:09,762
+-Alto total.
+-Alto total, señor.
+
+946
+01:30:11,606 --> 01:30:13,972
+Prepare torpedos de fotones.
+
+947
+01:31:08,062 --> 01:31:09,290
+Torpedos listos.
+
+948
+01:31:20,708 --> 01:31:21,936
+Agudice la vista.
+
+949
+01:31:25,813 --> 01:31:27,212
+¡ Fuego!
+
+950
+01:31:33,755 --> 01:31:35,382
+¡ Fuego!
+
+951
+01:32:08,089 --> 01:32:13,721
+Envíe al Comandante del Reliant:
+''Prepárese para ser abordado''.
+
+952
+01:32:13,895 --> 01:32:15,157
+Sí, señor.
+
+953
+01:32:16,597 --> 01:32:18,895
+Reliant. Aquí el Enterprise.
+
+954
+01:32:19,534 --> 01:32:22,662
+Ríndase y prepárese
+para ser abordado.
+
+955
+01:32:22,837 --> 01:32:27,467
+Enterprise al Reliant. Se le
+ordena entregar la nave.
+
+956
+01:32:39,020 --> 01:32:44,617
+¡Reliant! Adelante, Reliant. Se le
+ordena entregar la nave.
+
+957
+01:32:44,792 --> 01:32:49,354
+Enterprise al Reliant. Se le
+ordena entregar la nave. Responda.
+
+958
+01:33:04,645 --> 01:33:05,873
+No, Kirk.
+
+959
+01:33:07,482 --> 01:33:10,315
+El juego no ha terminado.
+
+960
+01:33:45,953 --> 01:33:49,912
+Al final... ¡te venceré!
+
+961
+01:34:04,238 --> 01:34:08,436
+¿Almirante? Notamos una fuente de
+energía en el Reliant.
+
+962
+01:34:09,510 --> 01:34:11,603
+Una nunca vista antes.
+
+963
+01:34:17,452 --> 01:34:19,682
+-¡ Es el efecto Génesis!
+-¿ Qué?
+
+964
+01:34:19,854 --> 01:34:22,322
+¡ Están preparándolo para detonar!
+
+965
+01:34:23,724 --> 01:34:26,693
+-¿ Cuánto tiempo?
+-Cuatro minutos.
+
+966
+01:34:26,861 --> 01:34:29,523
+-Vayamos y detengámoslo.
+-No pueden.
+
+967
+01:34:32,533 --> 01:34:36,970
+¡Scotty! Velocidad Warp en
+tres minutos, o estamos muertos.
+
+968
+01:34:38,406 --> 01:34:40,772
+-Sin respuesta.
+-¡Scotty!
+
+969
+01:34:40,942 --> 01:34:44,241
+Sulu, sáquenos de aquí.
+Velocidad máxima.
+
+970
+01:35:23,451 --> 01:35:27,911
+¿ Perdiste el juicio vulcano? ¡ Ningún
+humano tolera esa radiación!
+
+971
+01:35:28,089 --> 01:35:31,616
+Como se habrá dado cuenta,
+no soy humano.
+
+972
+01:35:33,060 --> 01:35:37,463
+-¡ No va a ir allí!
+-Tal vez tenga razón.
+
+973
+01:35:38,633 --> 01:35:42,865
+-¿ Cómo se encuentra el Sr. Scott?
+-No creo que él...
+
+974
+01:35:43,804 --> 01:35:47,035
+Lo siento, no tengo tiempo de
+discutirlo lógicamente.
+
+975
+01:35:51,512 --> 01:35:52,809
+Recuerde.
+
+976
+01:35:53,848 --> 01:35:55,543
+RADlAClÓN
+
+977
+01:36:02,723 --> 01:36:06,659
+¡Spock!
+¡Salga de ahí Spock!
+
+978
+01:36:07,094 --> 01:36:08,789
+¡Spock! ¡Salga de ahí!
+
+979
+01:36:20,141 --> 01:36:23,406
+-¿Tiempo?
+-Dos minutos diez segundos.
+
+980
+01:36:23,578 --> 01:36:26,342
+¡Sala de máquinas!
+¿ Qué sucede?
+
+981
+01:36:26,514 --> 01:36:31,474
+-¡Spock!
+-¡ Por Dios! ¡Salga de allí!
+
+982
+01:36:31,652 --> 01:36:35,520
+¡ No! ¡ Dios, no!
+
+983
+01:37:05,386 --> 01:37:06,444
+¿Tiempo?
+
+984
+01:37:08,689 --> 01:37:10,520
+3 minutos, 30 segundos.
+
+985
+01:37:16,263 --> 01:37:19,960
+-¿ Distancia hasta el Reliant?
+-4 000 kilómetros.
+
+986
+01:37:20,134 --> 01:37:21,624
+No lo lograremos, ¿no?
+
+987
+01:37:34,615 --> 01:37:35,912
+¡ No!
+
+988
+01:37:37,685 --> 01:37:39,983
+¡ No! ¡ No escaparán!
+
+989
+01:37:42,623 --> 01:37:46,719
+¡Acabaré contigo
+desde el mismísimo infierno!
+
+990
+01:37:48,629 --> 01:37:55,865
+¡Aunque sea lo último que haga!
+
+991
+01:38:08,582 --> 01:38:12,177
+-¡Volvió la energía!
+-Bendito seas. ¡Adelante, Sulu!
+
+992
+01:38:56,263 --> 01:38:58,322
+Por Dios, Carol. Mira.
+
+993
+01:39:10,411 --> 01:39:14,370
+¿ Sala de máquinas?
+Bien hecho, Scotty.
+
+994
+01:39:15,483 --> 01:39:19,351
+¡Jim! Es mejor que bajes aquí.
+
+995
+01:39:20,554 --> 01:39:24,183
+-¿ Bones?
+- Más vale que te apures.
+
+996
+01:39:27,661 --> 01:39:29,891
+Saavik, tome el mando.
+
+997
+01:39:57,925 --> 01:40:00,223
+¡ No! ¡Se contaminará todo!
+
+998
+01:40:00,394 --> 01:40:04,091
+-¡Se va a morir!
+-¡Señor! Ya está muerto.
+
+999
+01:40:07,902 --> 01:40:09,767
+Es demasiado tarde.
+
+1000
+01:40:32,092 --> 01:40:33,184
+¡Spock!
+
+1001
+01:41:03,958 --> 01:41:08,156
+¿ Estamos... fuera de peligro?
+
+1002
+01:41:09,763 --> 01:41:11,025
+Sí.
+
+1003
+01:41:14,568 --> 01:41:16,968
+No te acongojes, almirante.
+
+1004
+01:41:19,440 --> 01:41:21,135
+Es lógico.
+
+1005
+01:41:24,545 --> 01:41:27,844
+Las necesidades de los muchos...
+pesan más...
+
+1006
+01:41:30,117 --> 01:41:32,210
+...que las de los menos.
+
+1007
+01:41:33,254 --> 01:41:35,017
+O las de uno.
+
+1008
+01:41:43,430 --> 01:41:47,764
+Nunca tomé...
+la prueba del Kobayashi Maru.
+
+1009
+01:41:49,370 --> 01:41:51,065
+Hasta ahora.
+
+1010
+01:41:52,940 --> 01:41:55,932
+¿ Qué piensa de mi solución?
+
+1011
+01:41:58,245 --> 01:41:59,940
+¡Spock... !
+
+1012
+01:42:11,158 --> 01:42:12,887
+Siempre he sido...
+
+1013
+01:42:13,060 --> 01:42:15,551
+...y siempre seré...
+
+1014
+01:42:15,729 --> 01:42:17,526
+...tu amigo.
+
+1015
+01:42:23,270 --> 01:42:27,138
+Larga vida... y prosperidad.
+
+1016
+01:42:49,430 --> 01:42:50,692
+¡ No!
+
+1017
+01:43:10,751 --> 01:43:16,314
+Nos hemos reunido para despedir
+a nuestro honorable compañero.
+
+1018
+01:43:22,930 --> 01:43:26,889
+Y hemos de considerar que,
+a pesar de nuestra tristeza...
+
+1019
+01:43:27,067 --> 01:43:30,036
+...su muerte ocurre cuando
+nueva vida asoma.
+
+1020
+01:43:30,204 --> 01:43:32,695
+El amanecer de un nuevo mundo.
+
+1021
+01:43:32,873 --> 01:43:36,775
+Al que nuestro amado compañero
+protegió con su vida.
+
+1022
+01:43:38,312 --> 01:43:41,713
+No vio su sacrificio como
+algo vano o vacío.
+
+1023
+01:43:42,449 --> 01:43:45,782
+Y no debemos dudar de
+lo sabio de su proceder.
+
+1024
+01:43:49,189 --> 01:43:51,589
+De mi amigo, sólo puedo decir...
+
+1025
+01:43:56,864 --> 01:44:00,163
+De todas las almas que he
+conocido en mis viajes...
+
+1026
+01:44:01,201 --> 01:44:02,862
+...la suya fue la más...
+
+1027
+01:44:06,640 --> 01:44:08,267
+...humana.
+
+1028
+01:44:09,610 --> 01:44:11,840
+¡ Honores! ¡Ya!
+
+1029
+01:45:36,296 --> 01:45:37,695
+Entra.
+
+1030
+01:45:40,801 --> 01:45:42,735
+No quiero interrumpir.
+
+1031
+01:45:43,904 --> 01:45:47,670
+No, de ninguna manera.
+Debería estar en el puente.
+
+1032
+01:45:49,576 --> 01:45:53,672
+-¿ Puedo hablarte un minuto?
+-¿ Quieres algo de beber?
+
+1033
+01:45:53,847 --> 01:45:56,509
+La teniente Saavik tenía razón.
+
+1034
+01:45:58,185 --> 01:46:00,653
+Nunca te enfrentaste a la muerte.
+
+1035
+01:46:09,596 --> 01:46:11,461
+No, no de esta manera.
+
+1036
+01:46:14,201 --> 01:46:16,294
+No he enfrentado la muerte.
+
+1037
+01:46:16,470 --> 01:46:18,370
+Le he hecho trampas.
+
+1038
+01:46:21,308 --> 01:46:23,674
+Me escurrí de la muerte...
+
+1039
+01:46:23,844 --> 01:46:27,007
+...y me felicité por mi ingenio.
+
+1040
+01:46:30,984 --> 01:46:33,919
+-No sé nada.
+-Suficiente para decirle a Saavik...
+
+1041
+01:46:34,087 --> 01:46:37,352
+...que es importante la actitud
+ante la vida y la muerte.
+
+1042
+01:46:39,960 --> 01:46:42,986
+-Sólo son palabras.
+-Buenas palabras.
+
+1043
+01:46:44,464 --> 01:46:49,231
+Allí es donde comienzan las ideas.
+Tal vez deberías escucharlas.
+
+1044
+01:46:51,939 --> 01:46:56,239
+Me equivoqué contigo.
+Lo siento.
+
+1045
+01:47:00,314 --> 01:47:01,713
+¿ Es sólo eso?
+
+1046
+01:47:03,717 --> 01:47:05,014
+Es suma, sí.
+
+1047
+01:47:11,425 --> 01:47:15,657
+Y también que estoy... orgulloso...
+
+1048
+01:47:17,965 --> 01:47:21,401
+...muy orgulloso... de ser tu hijo.
+
+1049
+01:47:51,131 --> 01:47:56,194
+Diario del Capitán, fecha estelar
+8 1 4 1.6. Nave Enterprise partiendo...
+
+1050
+01:47:56,370 --> 01:47:59,931
+...para recoger a la tripulación
+del USS Reliant.
+
+1051
+01:48:01,341 --> 01:48:03,366
+Todo está bien.
+
+1052
+01:48:03,543 --> 01:48:06,944
+Aún así, no dejo de preguntarme
+acerca de mi amigo.
+
+1053
+01:48:09,116 --> 01:48:11,846
+''Siempre hay posibilidades'',
+dijo Spock.
+
+1054
+01:48:12,719 --> 01:48:16,712
+Y si Génesis es de hecho
+''vida de la muerte''...
+
+1055
+01:48:18,292 --> 01:48:21,056
+...deberé regresar a aquel lugar.
+
+1056
+01:48:25,599 --> 01:48:30,662
+No habrá muerto realmente,
+mientras su recuerdo viva en nosotros.
+
+1057
+01:48:37,010 --> 01:48:41,242
+''Es algo mucho, mucho mejor
+de lo que jamás he hecho''.
+
+1058
+01:48:43,950 --> 01:48:47,408
+''El mejor lugar de descanso...
+
+1059
+01:48:47,587 --> 01:48:50,886
+...al cual me dirijo''.
+
+1060
+01:48:51,625 --> 01:48:53,490
+¿ Es un poema?
+
+1061
+01:48:55,629 --> 01:48:58,598
+Algo que Spock intentó decirme.
+En mi cumpleaños.
+
+1062
+01:49:00,000 --> 01:49:03,595
+¿Te encuentras bien, Jim?
+¿ Cómo te sientes?
+
+1063
+01:49:06,740 --> 01:49:07,832
+Joven.
+
+1064
+01:49:12,279 --> 01:49:14,839
+Me siento joven.
+
+1065
+01:50:26,620 --> 01:50:29,680
+El espacio, la frontera final.
+
+1066
+01:50:30,757 --> 01:50:36,491
+Estos son los viajes de la
+Nave estelar Enterprise.
+
+1067
+01:50:37,798 --> 01:50:44,226
+Su continua misión...
+explorar extraños nuevos mundos.
+
+1068
+01:50:44,404 --> 01:50:49,137
+Buscando nuevas formas de vida
+y nuevas civilizaciones.
+
+1069
+01:50:50,177 --> 01:50:56,116
+Y así llegar...
+donde ningún hombre ha llegado antes.
+

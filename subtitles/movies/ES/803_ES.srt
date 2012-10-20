@@ -1,0 +1,4303 @@
+1
+00:00:01,001 --> 00:00:04,732
+Liberty Chew Chewing Tobacco
+presenta...
+
+2
+00:00:07,607 --> 00:00:11,873
+<i>Stingray Sam no es un héroe...</i>
+
+3
+00:00:11,978 --> 00:00:15,436
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+4
+00:00:15,548 --> 00:00:20,611
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+5
+00:00:22,589 --> 00:00:28,084
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+6
+00:00:28,194 --> 00:00:31,595
+Episodio 1
+Fugitivos de la fábrica
+
+7
+00:00:33,933 --> 00:00:35,798
+Éste es el planeta Marte.
+
+8
+00:00:35,902 --> 00:00:37,267
+Alguna vez fue conocido...
+
+9
+00:00:37,370 --> 00:00:40,271
+...como la capital del turismo
+y el entretenimiento del Universo.
+
+10
+00:00:40,373 --> 00:00:44,605
+Con el pasar de los años,
+Marte se había desgastado.
+
+11
+00:00:44,711 --> 00:00:48,078
+Las ideas que tenía
+su industria del entretenimiento...
+
+12
+00:00:48,181 --> 00:00:51,617
+...ya no eran valoradas por
+las parejas jóvenes e inteligentes...
+
+13
+00:00:51,718 --> 00:00:53,481
+...que buscaban pasarla bien.
+
+14
+00:00:53,586 --> 00:00:56,919
+No, Marte había tenido
+su día de gloria.
+
+15
+00:00:57,023 --> 00:00:59,491
+Ahora, se había convertido
+en el hogar de la gente olvidada...
+
+16
+00:00:59,592 --> 00:01:00,889
+...con sueños destrozados...
+
+17
+00:01:00,994 --> 00:01:04,760
+...buscando esa oportunidad
+que ya no existía más.
+
+18
+00:01:04,864 --> 00:01:08,027
+Éstos son los visitantes de hoy.
+
+19
+00:01:08,134 --> 00:01:10,932
+Luego están aquellos
+que viven en el planeta.
+
+20
+00:01:11,037 --> 00:01:14,370
+Aquellos que sacan provecho
+de éstos, los menos afortunados.
+
+21
+00:01:14,474 --> 00:01:16,533
+Pero no los juzguen
+tan severamente.
+
+22
+00:01:16,643 --> 00:01:18,702
+Han llegado a Marte
+por la misma razón...
+
+23
+00:01:18,812 --> 00:01:20,109
+...que todos los demás...
+
+24
+00:01:20,213 --> 00:01:23,444
+...sólo que ahora no tienen
+ningún otro lugar adónde ir.
+
+25
+00:01:37,897 --> 00:01:41,162
+<i>Bienvenidos a Marte...</i>
+
+26
+00:01:41,267 --> 00:01:44,703
+<i>Bienvenidos a la vida</i>
+<i>Entre las estrellas...</i>
+
+27
+00:01:44,804 --> 00:01:50,572
+<i>Bienvenidos a los hoteles</i>
+<i>Restaurantes y bares...</i>
+
+28
+00:01:50,677 --> 00:01:54,875
+<i>Donde no extrañarán más su hogar...</i>
+
+29
+00:02:01,588 --> 00:02:04,785
+<i>Vivirán en el espacio...</i>
+
+30
+00:02:04,891 --> 00:02:08,156
+<i>Donde perfeccionarán
+ciertos gustos...</i>
+
+31
+00:02:08,261 --> 00:02:14,166
+<i>Y ciertas visiones de cosas</i>
+<i>A las que nunca se han enfrentado...</i>
+
+32
+00:02:14,267 --> 00:02:19,500
+<i>Donde no extrañarán más su hogar...</i>
+
+33
+00:02:21,875 --> 00:02:27,711
+<i>Estás en la cúpula</i>
+<i>Estás en el hogar perfecto...</i>
+
+34
+00:02:27,814 --> 00:02:31,011
+<i>Donde los dulces sueños</i>
+<i>Significan todo...</i>
+
+35
+00:02:31,117 --> 00:02:35,520
+<i>Y los recuerdos</i>
+<i>No pueden hacerte daño...</i>
+
+36
+00:02:35,622 --> 00:02:38,614
+<i>Aquí es donde te quedarás...</i>
+
+37
+00:02:38,725 --> 00:02:44,664
+<i>Donde todo lo conocido</i>
+<i>Se convertirá en algo nuevo para ti...</i>
+
+38
+00:02:47,967 --> 00:02:52,995
+<i>Donde no extrañarán más su hogar...</i>
+
+39
+00:03:13,593 --> 00:03:14,685
+Muy bien.
+
+40
+00:03:14,794 --> 00:03:17,024
+Muchas gracias,
+y gracias por venir esta noche.
+
+41
+00:03:17,130 --> 00:03:19,758
+Y ahora, me da mucho placer
+el presentarles...
+
+42
+00:03:20,099 --> 00:03:21,964
+...a nuestras bailarinas esta tarde.
+
+43
+00:03:22,068 --> 00:03:28,064
+Ellas son Heaven y Star
+de Liberty Chew Chewing Tobacco.
+
+44
+00:03:28,675 --> 00:03:33,408
+"Libérate con Liberty Chew Tobacco...
+
+45
+00:03:33,513 --> 00:03:36,971
+...y únete a la liberación
+de la libre masticación de tabaco".
+
+46
+00:03:37,083 --> 00:03:40,575
+Estas damas estarán entregándoles,
+más tarde, muestras gratis de tabaco.
+
+47
+00:03:40,687 --> 00:03:44,123
+No se despeguen,
+están como en su casa...
+
+48
+00:03:44,224 --> 00:03:45,885
+...tenemos mucha más diversión.
+
+49
+00:03:45,992 --> 00:03:48,426
+Si tienen algún problema,
+comuníquenmelo a mí o al barman...
+
+50
+00:03:48,528 --> 00:03:49,995
+...y nosotros veremos
+qué hacer al respecto.
+
+51
+00:03:50,096 --> 00:03:52,929
+Muchísimas gracias.
+¿Lo necesitas?
+
+52
+00:03:57,971 --> 00:03:59,905
+¿Cómo estás, Barnaby?
+
+53
+00:04:00,006 --> 00:04:01,598
+No estoy seguro, Stingray.
+
+54
+00:04:01,708 --> 00:04:03,767
+Creo que tendremos
+un pequeño problema.
+
+55
+00:04:03,876 --> 00:04:05,241
+¿Adónde?
+
+56
+00:04:05,912 --> 00:04:07,903
+El tipo que está sentado
+al fondo del bar.
+
+57
+00:04:08,014 --> 00:04:10,175
+Está actuando un poco extraño.
+
+58
+00:04:17,890 --> 00:04:19,448
+Dios mío.
+
+59
+00:04:19,559 --> 00:04:21,186
+De eso estoy hablando.
+
+60
+00:04:21,294 --> 00:04:23,956
+Creo que le vas a tener que pedir
+que se vaya.
+
+61
+00:04:25,732 --> 00:04:28,166
+Alcánzame mi barita preguntona.
+
+62
+00:04:40,546 --> 00:04:42,104
+Guau.
+
+63
+00:04:44,183 --> 00:04:47,710
+Derramaste jugo de aceitunas
+sobre mi barita.
+
+64
+00:04:47,820 --> 00:04:52,120
+Bueno, ¿qué crees
+que debamos hacer?
+
+65
+00:04:52,225 --> 00:04:53,988
+Creo que debes irte.
+
+66
+00:04:54,560 --> 00:04:57,688
+- No sin ti, ¡Stingray Sam!
+- ¡Quasar Kid!
+
+67
+00:04:57,797 --> 00:05:00,891
+Barnaby, él es Quasar Kid.
+¡Dale unas aceitunas!
+
+68
+00:05:01,000 --> 00:05:03,264
+¿Qué te trae por aquí, Kid?
+
+69
+00:05:03,369 --> 00:05:05,837
+Cuando me enteré
+que eras cantante de salón dije:
+
+70
+00:05:05,938 --> 00:05:06,972
+"Está bien, entonces".
+
+71
+00:05:06,973 --> 00:05:09,669
+Está bien.
+¿Qué cuentas?
+
+72
+00:05:09,776 --> 00:05:12,267
+- Yo digo: Está bien.
+- Bueno, de acuerdo.
+
+73
+00:05:48,147 --> 00:05:50,547
+Qué bien, Kid.
+Me alegra verte.
+
+74
+00:05:50,650 --> 00:05:52,880
+Me alegra verte, Stingray.
+
+75
+00:05:54,253 --> 00:05:57,780
+Bueno, Kid, sé que no recorriste
+todo este camino...
+
+76
+00:05:57,890 --> 00:05:59,687
+...sólo por las aceitunas.
+
+77
+00:05:59,792 --> 00:06:01,589
+¿Qué es lo que realmente
+estás haciendo aquí?
+
+78
+00:06:01,694 --> 00:06:03,685
+Unos tipos me encontraron...
+
+79
+00:06:03,796 --> 00:06:07,163
+...y me pidieron si no me molestaba
+saldar mi deuda con la sociedad.
+
+80
+00:06:07,266 --> 00:06:08,631
+Como quizás recuerdes...
+
+81
+00:06:08,735 --> 00:06:11,932
+...no terminamos esa tarea
+al salir de la cárcel.
+
+82
+00:06:12,105 --> 00:06:13,629
+¿Qué estás diciendo?
+
+83
+00:06:13,740 --> 00:06:17,198
+Estoy diciendo que hay
+una niña pequeña en problemas.
+
+84
+00:06:17,310 --> 00:06:18,777
+Y si tú y yo podemos ayudarla...
+
+85
+00:06:18,878 --> 00:06:21,210
+...no seremos hombres
+buscados por la justicia.
+
+86
+00:06:21,314 --> 00:06:24,772
+Ya no tendrás que esconderte
+en este basurero.
+
+87
+00:06:26,319 --> 00:06:27,684
+Esto no es un basurero, Kid.
+
+88
+00:06:27,787 --> 00:06:30,085
+Esto es un club nocturno
+y yo soy el cantante.
+
+89
+00:06:30,189 --> 00:06:31,679
+Quizás esto
+no signifique mucho para ti...
+
+90
+00:06:31,791 --> 00:06:34,885
+...pero sí para mí y para mucha gente
+que viene a ver al cantante.
+
+91
+00:06:34,994 --> 00:06:36,086
+Y ése soy yo.
+
+92
+00:06:36,195 --> 00:06:39,221
+Estoy diciendo que hay
+una niña pequeña en problemas.
+
+93
+00:06:39,332 --> 00:06:41,994
+Aparte de ganar tu libertad,
+ésta puede ser la única oportunidad...
+
+94
+00:06:42,101 --> 00:06:44,069
+...que tengas para hacer algo bueno.
+
+95
+00:06:44,170 --> 00:06:45,637
+¿No eras tú el que decía...
+
+96
+00:06:45,738 --> 00:06:48,639
+...que esperaba poder ayudar
+a alguien algún día?
+
+97
+00:06:48,741 --> 00:06:50,971
+- Diablos, no.
+- Ah, vamos, Stingray.
+
+98
+00:06:51,077 --> 00:06:52,908
+Entonces, hazlo por mí.
+
+99
+00:06:53,012 --> 00:06:54,843
+Me siento feliz aquí, Kid.
+
+100
+00:06:54,947 --> 00:06:58,439
+Y aparte de ti, no hay nadie más
+que me esté buscando.
+
+101
+00:06:58,551 --> 00:07:02,487
+Bueno, si no lo quieres hacer por mí,
+¿lo harías por ella?
+
+102
+00:07:09,228 --> 00:07:12,664
+Stingray Sam
+era del planeta Durango.
+
+103
+00:07:12,765 --> 00:07:17,702
+La economía de Durango estaba
+basada en la fabricación de cohetes.
+
+104
+00:07:17,804 --> 00:07:20,364
+Para satisfacer
+los costos en alza de fabricación...
+
+105
+00:07:20,473 --> 00:07:23,169
+...los líderes del planeta
+cerraron la producción...
+
+106
+00:07:23,276 --> 00:07:26,439
+...y trasladaron la industria
+al lejano planeta Mayberry...
+
+107
+00:07:26,546 --> 00:07:28,741
+...donde la población
+tenía más necesidades...
+
+108
+00:07:28,848 --> 00:07:31,840
+...y por lo tanto la mano de obra
+era más barata.
+
+109
+00:07:31,951 --> 00:07:33,942
+Esto produjo
+una situación apremiante...
+
+110
+00:07:34,053 --> 00:07:35,816
+...para los ciudadanos de Durango...
+
+111
+00:07:35,922 --> 00:07:40,086
+...que resultó en una ola de crímenes
+que dominó el planeta entero.
+
+112
+00:07:40,193 --> 00:07:43,959
+Este problema no fue reconocido
+por la Comunidad Intergaláctica...
+
+113
+00:07:44,063 --> 00:07:45,724
+...hasta que la población de Durango...
+
+114
+00:07:45,832 --> 00:07:47,857
+...empezó a emigrar a planetas
+en mejores condiciones.
+
+115
+00:07:48,201 --> 00:07:49,998
+Perdonen por interrumpir la fiesta.
+
+116
+00:07:50,102 --> 00:07:52,764
+Soy Stingray Sam, él es Quasar Kid...
+
+117
+00:07:52,872 --> 00:07:55,204
+...y acabamos de llegar de Durango.
+
+118
+00:07:59,212 --> 00:08:01,703
+Para restablecer la paz
+en toda la galaxia...
+
+119
+00:08:01,814 --> 00:08:03,475
+...la Organización
+de los Planetas Unidos...
+
+120
+00:08:03,583 --> 00:08:07,144
+...creó un sistema económico nuevo
+para el planeta Durango.
+
+121
+00:08:07,253 --> 00:08:09,187
+Las antiguas fábricas de cohetes...
+
+122
+00:08:09,288 --> 00:08:11,916
+...ahora serían usadas
+como penitenciarías.
+
+123
+00:08:12,024 --> 00:08:14,083
+A un cuarto
+de la población duranguense...
+
+124
+00:08:14,193 --> 00:08:16,252
+...se les dio empleo
+como guardia de cárcel...
+
+125
+00:08:16,362 --> 00:08:19,525
+...mientras que la otra tercera parte
+estaba presa.
+
+126
+00:08:19,632 --> 00:08:22,965
+El costo de los sueldos de la cárcel
+sería mínimo.
+
+127
+00:08:23,069 --> 00:08:25,196
+Con la maquinaria de cohetes
+aún en su lugar...
+
+128
+00:08:25,304 --> 00:08:26,771
+...y con una población carcelaria...
+
+129
+00:08:26,873 --> 00:08:28,773
+...de trabajadores de fábrica
+calificados...
+
+130
+00:08:28,875 --> 00:08:31,742
+...se presentó la oportunidad natural
+para los líderes de Durango...
+
+131
+00:08:31,844 --> 00:08:34,005
+...de caducar todos
+los contratos de fabricación...
+
+132
+00:08:34,113 --> 00:08:36,343
+...del ahora rico planeta Mayberry...
+
+133
+00:08:36,449 --> 00:08:38,974
+...y reinstalar
+la industria de cohetes...
+
+134
+00:08:39,085 --> 00:08:42,350
+...en la población carcelaria
+de Durango.
+
+135
+00:08:42,455 --> 00:08:46,221
+Desafortunadamente, Mayberry tenía
+su propia industria de cohetes...
+
+136
+00:08:46,325 --> 00:08:49,294
+...y Durango rápidamente
+se declaró en bancarrota.
+
+137
+00:08:49,395 --> 00:08:51,329
+Las penitenciarías fueron cerradas...
+
+138
+00:08:51,430 --> 00:08:54,160
+...y se dejó en libertad a todos
+los convictos bajo la condición...
+
+139
+00:08:54,267 --> 00:08:56,462
+...de que serían llamados,
+en cualquier momento...
+
+140
+00:08:56,569 --> 00:08:59,402
+...a terminar de pagar
+su condena con la sociedad.
+
+141
+00:09:14,520 --> 00:09:18,217
+- ¿Qué pasó?
+- Nos arrestaron.
+
+142
+00:09:18,324 --> 00:09:19,518
+¿Por quién?
+
+143
+00:09:19,625 --> 00:09:21,855
+Bueno, técnicamente
+fui yo quien te arrestó...
+
+144
+00:09:21,961 --> 00:09:25,192
+...pero a mí me agarraron primero,
+y siempre fuimos como un equipo.
+
+145
+00:09:25,298 --> 00:09:27,789
+¿Fuiste tú quien me golpeó, Kid?
+
+146
+00:09:27,900 --> 00:09:29,891
+Sí.
+
+147
+00:09:30,002 --> 00:09:32,971
+¿Qué...? ¿Tú me pusiste esto?
+
+148
+00:09:33,072 --> 00:09:36,371
+Tuve que hacerlo. Me dijeron que si
+no te lo colocaba, la mía explotaría.
+
+149
+00:09:36,475 --> 00:09:38,409
+Es parte del trato.
+
+150
+00:09:38,511 --> 00:09:40,240
+No te culparé, entonces.
+
+151
+00:09:41,113 --> 00:09:42,774
+¿Qué tenemos que hacer
+para quitárnoslas?
+
+152
+00:09:42,882 --> 00:09:45,578
+Sólo una cosa. Tenemos
+que salvar a esa pequeña niña.
+
+153
+00:09:45,685 --> 00:09:46,743
+Una vez que lo logremos...
+
+154
+00:09:46,852 --> 00:09:48,581
+...estas cosas se decantarán
+por sí mismas y listo.
+
+155
+00:09:48,688 --> 00:09:51,589
+- Eso es todo, ¿eh?
+- Sí, lo lograremos fácilmente.
+
+156
+00:09:51,691 --> 00:09:54,057
+Tienen a todo el resto
+recogiendo basura.
+
+157
+00:09:54,160 --> 00:09:57,857
+Lo he visto.
+Ese trabajo es de nunca acabar.
+
+158
+00:09:57,964 --> 00:10:00,091
+Sí, bueno, cuando terminemos
+con este trabajo...
+
+159
+00:10:00,199 --> 00:10:02,724
+...nuestra deuda
+habrá sido saldada completamente.
+
+160
+00:10:02,835 --> 00:10:06,066
+Tú y yo seremos hombres libres
+por el resto de nuestras vidas.
+
+161
+00:10:06,172 --> 00:10:08,732
+¿No me podrías haber dicho
+esto en el bar?
+
+162
+00:10:08,841 --> 00:10:09,933
+¿Tenías que herirme así?
+
+163
+00:10:10,042 --> 00:10:11,566
+Te extrañé, Stingray.
+
+164
+00:10:14,847 --> 00:10:16,712
+Y así fue el comienzo...
+
+165
+00:10:16,816 --> 00:10:20,946
+...de la aventura final
+de Stingray Sam y Quasar Kid.
+
+166
+00:10:21,053 --> 00:10:23,385
+Pero, ¿a qué peligros
+se enfrentarían en el camino...
+
+167
+00:10:23,489 --> 00:10:25,286
+...en pos de llegar a ser
+hombres libres?
+
+168
+00:10:25,391 --> 00:10:28,224
+¡Entérense
+en el próximo episodio de...
+
+169
+00:10:28,327 --> 00:10:31,728
+¡Stingray Sam!
+
+170
+00:10:53,352 --> 00:10:57,152
+Liberty Chew Chewing Tobacco
+presenta...
+
+171
+00:10:59,992 --> 00:11:04,224
+<i>Stingray Sam no es un héroe...</i>
+
+172
+00:11:04,330 --> 00:11:07,697
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+173
+00:11:07,800 --> 00:11:12,965
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+174
+00:11:14,974 --> 00:11:20,276
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+175
+00:11:20,379 --> 00:11:23,507
+Episodio 2
+El cromosoma prohibido
+
+176
+00:11:24,283 --> 00:11:27,775
+Niños.
+Tan jóvenes e irresponsables.
+
+177
+00:11:27,886 --> 00:11:32,414
+Cuán rápido maduran y se convierten
+en adultos incompetentes.
+
+178
+00:11:32,524 --> 00:11:36,290
+Incompetentes en el manejo
+de cuestiones administrativas.
+
+179
+00:11:36,395 --> 00:11:39,626
+Era esta incompetencia
+la que había llevado a Stingray Sam...
+
+180
+00:11:39,732 --> 00:11:43,600
+...y a Quasar Kid a una misión
+sin ninguna información.
+
+181
+00:11:43,702 --> 00:11:47,069
+El único detalle que recibieron
+les iba a ser otorgado...
+
+182
+00:11:47,172 --> 00:11:50,699
+...en la Oficina Intergaláctica
+de Archivos y Trivialidades.
+
+183
+00:11:50,809 --> 00:11:53,175
+Es aquí donde ahora encontramos
+a nuestros chicos...
+
+184
+00:11:53,279 --> 00:11:56,305
+...listos y en estado de alerta.
+
+185
+00:12:05,190 --> 00:12:06,384
+34.
+
+186
+00:12:09,561 --> 00:12:11,620
+34.
+
+187
+00:12:16,535 --> 00:12:19,231
+34.
+
+188
+00:12:28,180 --> 00:12:30,944
+36.
+
+189
+00:12:32,084 --> 00:12:35,417
+36.
+
+190
+00:12:37,056 --> 00:12:40,617
+36.
+
+191
+00:12:44,196 --> 00:12:45,720
+Nadie tiene el 36.
+
+192
+00:12:51,170 --> 00:12:53,400
+35.
+
+193
+00:12:59,178 --> 00:13:00,611
+Aquí tiene, señora.
+
+194
+00:13:00,713 --> 00:13:02,908
+Yo soy Stingray Sam
+y él es Quasar Kid.
+
+195
+00:13:03,015 --> 00:13:05,210
+- Somos de Durango.
+- ¿En serio?
+
+196
+00:13:05,317 --> 00:13:06,317
+Sí, señora.
+
+197
+00:13:06,318 --> 00:13:07,478
+Estamos en una misión...
+
+198
+00:13:07,586 --> 00:13:09,577
+...y no sabemos que se supone
+qué tenemos que hacer.
+
+199
+00:13:09,688 --> 00:13:11,747
+- ¿Cuál es su misión?
+- ¿Se supone que tenemos...
+
+200
+00:13:11,857 --> 00:13:13,017
+...que rescatar a una niña?
+
+201
+00:13:13,125 --> 00:13:15,093
+- ¿Quién es ella?
+- No sabemos.
+
+202
+00:13:15,194 --> 00:13:17,094
+Pertenecemos
+al Programa de Trabajo.
+
+203
+00:13:20,966 --> 00:13:23,400
+Denme sus muñecas.
+
+204
+00:13:43,989 --> 00:13:45,513
+¿Solamente una caja?
+
+205
+00:13:45,624 --> 00:13:48,115
+Esto es todo lo que tengo
+para ustedes.
+
+206
+00:13:48,527 --> 00:13:49,824
+Puede decirme
+dónde puedo encontrar...
+
+207
+00:13:49,928 --> 00:13:52,260
+¡38!
+
+208
+00:13:53,165 --> 00:13:56,862
+Si dejo esta bolsa aquí, ¿cree
+que alguien más querrá usarla?
+
+209
+00:13:56,969 --> 00:14:00,501
+Sí. Y estarán muy contentos...
+
+210
+00:14:00,502 --> 00:14:04,034
+...y les diré que es de su parte.
+
+211
+00:14:06,245 --> 00:14:09,009
+¡38!
+
+212
+00:14:13,886 --> 00:14:15,285
+No creo que haya sido estúpido.
+
+213
+00:14:15,387 --> 00:14:18,117
+Tenías una bolsa de plástico
+y no la necesitabas.
+
+214
+00:14:18,223 --> 00:14:20,123
+Pensaste que alguien más
+podría usarla.
+
+215
+00:14:20,225 --> 00:14:23,160
+Igual, ¿sabes lo que hizo esa señora
+cuando dijo eso?
+
+216
+00:14:23,262 --> 00:14:26,197
+- ¿Qué?
+- Nos alegró el día.
+
+217
+00:14:26,298 --> 00:14:28,823
+Eso fue lo que hizo.
+Creo que esa señora es un genio.
+
+218
+00:14:28,934 --> 00:14:31,960
+Con una sola cosa
+hizo que nuestro día valiera la pena.
+
+219
+00:14:32,070 --> 00:14:33,731
+Bueno, me alegra.
+
+220
+00:14:33,839 --> 00:14:36,637
+Se necesitan 20 de estas cajitas
+para averiguar algo...
+
+221
+00:14:36,742 --> 00:14:38,869
+...y no creo que nos vayan
+a decir mucho.
+
+222
+00:14:38,977 --> 00:14:41,707
+Bueno, echemos un vistazo.
+
+223
+00:14:44,082 --> 00:14:46,312
+Para un padre de clase media...
+
+224
+00:14:46,418 --> 00:14:50,752
+...no hay nada más importante
+que "la nena de papá".
+
+225
+00:14:50,856 --> 00:14:53,051
+Desafortunadamente, los padres
+extremadamente ricos...
+
+226
+00:14:53,158 --> 00:14:54,682
+...y padres extremadamente pobres...
+
+227
+00:14:54,793 --> 00:14:57,023
+...no pueden compartir
+este sentimiento.
+
+228
+00:14:57,663 --> 00:15:00,097
+Una niña nacida
+en una familia pobre...
+
+229
+00:15:00,199 --> 00:15:02,861
+...puede que se encuentre
+en situaciones comprometedoras...
+
+230
+00:15:02,968 --> 00:15:04,697
+...en nombre de poder sobrevivir.
+
+231
+00:15:04,803 --> 00:15:07,271
+El padre de una dinastía
+necesita un hijo varón...
+
+232
+00:15:07,372 --> 00:15:09,932
+...como portador del apellido familiar.
+
+233
+00:15:10,042 --> 00:15:12,840
+Por mucho tiempo
+se creyó que el género de un hijo...
+
+234
+00:15:12,945 --> 00:15:14,776
+...era determinado por la madre.
+
+235
+00:15:14,880 --> 00:15:16,939
+El rey Enrique VIII lo creía.
+
+236
+00:15:17,049 --> 00:15:18,949
+Ejecutó a varias de sus esposas...
+
+237
+00:15:19,051 --> 00:15:21,849
+...porque no podían darle un hijo varón.
+
+238
+00:15:21,954 --> 00:15:23,979
+Si Enrique hubiera sabido
+lo que sabemos hoy al respecto...
+
+239
+00:15:24,156 --> 00:15:26,056
+...quizás se hubiera cortado la cabeza.
+
+240
+00:15:26,158 --> 00:15:28,353
+Así mismo,
+las píldoras anticonceptivas...
+
+241
+00:15:28,460 --> 00:15:30,121
+...fueron creadas para la mujer...
+
+242
+00:15:30,229 --> 00:15:32,197
+...hasta hace cinco generaciones...
+
+243
+00:15:32,297 --> 00:15:35,698
+...cuando se inventó la píldora
+para darle la opción al padre.
+
+244
+00:15:35,801 --> 00:15:39,828
+Tanto ricos como pobres empezaron
+a tener hijos exclusivamente.
+
+245
+00:15:39,938 --> 00:15:42,702
+Como resultado,
+las clases bajas y altas...
+
+246
+00:15:42,808 --> 00:15:44,639
+...se encontraron
+al borde la extinción...
+
+247
+00:15:44,743 --> 00:15:47,303
+...hasta que se introdujo el tema
+de la clonación en las clases altas...
+
+248
+00:15:47,412 --> 00:15:51,212
+...como medida obligatoria
+para formar a la próxima generación.
+
+249
+00:15:51,316 --> 00:15:53,511
+Pero los riesgos de la salud
+asociados con la clonación...
+
+250
+00:15:53,619 --> 00:15:54,779
+...vaciaron la economía...
+
+251
+00:15:54,887 --> 00:15:57,117
+...debido al aumento
+de los gastos médicos.
+
+252
+00:15:57,222 --> 00:15:59,315
+En su último intento
+de sobrevivencia...
+
+253
+00:15:59,424 --> 00:16:02,587
+...extrañas teorías nuevas
+fueron ampliamente desarrolladas...
+
+254
+00:16:02,694 --> 00:16:06,095
+...pero se acababa el tiempo
+y las cosas se complicaban...
+
+255
+00:16:06,198 --> 00:16:07,358
+...para la clase alta...
+
+256
+00:16:07,466 --> 00:16:09,093
+...hasta que dos científicos...
+
+257
+00:16:09,201 --> 00:16:11,635
+...conocidos como Edward y Frederick...
+
+258
+00:16:11,737 --> 00:16:13,261
+...desarrollaron un procedimiento...
+
+259
+00:16:13,372 --> 00:16:14,464
+...radicalmente nuevo.
+
+260
+00:16:14,573 --> 00:16:17,064
+Mezclaron exitosamente sus ADN
+
+261
+00:16:17,175 --> 00:16:19,234
+...y colocaron el embrión...
+
+262
+00:16:19,344 --> 00:16:22,871
+...en el cuerpo de Frederick.
+
+263
+00:16:23,749 --> 00:16:27,116
+Los fondos de todos los programas
+de investigación fueron interrumpidos...
+
+264
+00:16:27,219 --> 00:16:29,813
+...y otorgados
+a Edward y Frederick.
+
+265
+00:16:29,922 --> 00:16:31,321
+Cuando el niño nació...
+
+266
+00:16:31,423 --> 00:16:34,221
+...se le dio el nombre de Fredward.
+
+267
+00:16:34,326 --> 00:16:37,318
+La clase alta en su totalidad
+fue impregnada...
+
+268
+00:16:37,429 --> 00:16:40,330
+...con combos genéticos
+masculinos dobles...
+
+269
+00:16:40,432 --> 00:16:43,890
+...y entonces nació así
+una nueva generación.
+
+270
+00:16:57,816 --> 00:17:02,150
+<i>Frederick y Edward</i>
+<i>Tuvieron un bebé llamado Fredward...</i>
+
+271
+00:17:03,322 --> 00:17:07,816
+<i>Frederick y Edward</i>
+<i>Amaban a su tierno hijo...</i>
+
+272
+00:17:09,027 --> 00:17:14,397
+<i>Frederick fue el único</i>
+<i>Hombre embarazado del mundo...</i>
+
+273
+00:17:14,866 --> 00:17:19,200
+<i>Edward puede</i>
+<i>Que no haya sido el elegido...</i>
+
+274
+00:17:20,405 --> 00:17:23,101
+<i>Frederick y Edward</i>
+<i>Tuvieron un bebé llamado Fredward...</i>
+
+275
+00:17:23,208 --> 00:17:25,972
+<i>Max y Clark</i>
+<i>Tuvieron un hijo llamado Mark...</i>
+
+276
+00:17:26,078 --> 00:17:28,842
+<i>Aldo y Rex</i>
+<i>Tuvieron un hijo llamado Alex...</i>
+
+277
+00:17:28,847 --> 00:17:29,880
+<i>Bob y Ringo...</i>
+
+278
+00:17:29,881 --> 00:17:31,473
+<i>Tuvieron un hijo llamado Bingo...</i>
+
+279
+00:17:31,583 --> 00:17:32,650
+<i>Zack y Deke...</i>
+
+280
+00:17:32,651 --> 00:17:34,380
+<i>Tuvieron un hijo llamado Zeke...</i>
+
+281
+00:17:34,486 --> 00:17:35,553
+<i>Bill y Jeff...</i>
+
+282
+00:17:35,554 --> 00:17:37,249
+<i>Tuvieron un hijo llamado Biff...</i>
+
+283
+00:17:37,356 --> 00:17:38,356
+<i>John y Mason...</i>
+
+284
+00:17:38,357 --> 00:17:40,018
+<i>Tuvieron un hijo llamado Jason...</i>
+
+285
+00:17:40,125 --> 00:17:41,192
+<i>Karl y Burt...</i>
+
+286
+00:17:41,193 --> 00:17:42,956
+<i>Tuvieron un hijo llamado Kurt...</i>
+
+287
+00:17:42,961 --> 00:17:43,995
+<i>Reed y Johnny...</i>
+
+288
+00:17:43,996 --> 00:17:45,520
+<i>Tuvieron un hijo llamado Ronny...</i>
+
+289
+00:17:45,831 --> 00:17:46,864
+<i>Chris y Al...</i>
+
+290
+00:17:46,865 --> 00:17:48,423
+<i>Tuvieron un hijo llamado Cal...</i>
+
+291
+00:17:48,533 --> 00:17:49,567
+<i>Clark y Biff...</i>
+
+292
+00:17:49,568 --> 00:17:51,297
+<i>Tuvieron un hijo llamado Cliff...</i>
+
+293
+00:17:51,403 --> 00:17:52,470
+<i>Walter y Bill...</i>
+
+294
+00:17:52,471 --> 00:17:54,166
+<i>Tuvieron un hijo llamado Will...</i>
+
+295
+00:17:54,272 --> 00:17:55,339
+<i>Bill y Kurt...</i>
+
+296
+00:17:55,340 --> 00:17:57,035
+<i>Tuvieron un hijo llamado Burt...</i>
+
+297
+00:17:57,142 --> 00:17:58,175
+<i>Burt y Robby...</i>
+
+298
+00:17:58,176 --> 00:17:59,905
+<i>Tuvieron un hijo llamado Bobby...</i>
+
+299
+00:17:59,912 --> 00:18:00,978
+<i>Fred y Bill...</i>
+
+300
+00:18:00,979 --> 00:18:02,537
+<i>Tuvieron un hijo llamado Phil...</i>
+
+301
+00:18:02,748 --> 00:18:03,814
+<i>Jack y Ronny...</i>
+
+302
+00:18:03,815 --> 00:18:05,442
+<i>Tuvieron un hijo llamado Johnny...</i>
+
+303
+00:18:05,550 --> 00:18:06,584
+<i>Rich y Andy...</i>
+
+304
+00:18:06,585 --> 00:18:08,314
+<i>Tuvieron un hijo llamado Randy...</i>
+
+305
+00:18:08,420 --> 00:18:09,487
+<i>Mick y Jack...</i>
+
+306
+00:18:09,488 --> 00:18:11,115
+<i>Tuvieron un hijo llamado Mac...</i>
+
+307
+00:18:11,223 --> 00:18:12,256
+<i>Hugh y Gordon...</i>
+
+308
+00:18:12,257 --> 00:18:13,952
+<i>Tuvieron un hijo llamado Hugo...</i>
+
+309
+00:18:14,059 --> 00:18:15,126
+<i>Matt y Rick...</i>
+
+310
+00:18:15,127 --> 00:18:16,856
+<i>Tuvieron un hijo llamado Mick...</i>
+
+311
+00:18:16,862 --> 00:18:17,895
+<i>Mel y Alvin...</i>
+
+312
+00:18:17,896 --> 00:18:19,488
+<i>Tuvieron un hijo llamado Melvin...</i>
+
+313
+00:18:19,598 --> 00:18:20,698
+<i>Jack y Bo...</i>
+
+314
+00:18:20,699 --> 00:18:22,360
+<i>Tuvieron un hijo llamado Joe...</i>
+
+315
+00:18:22,367 --> 00:18:23,434
+<i>Clark y Jasper...</i>
+
+316
+00:18:23,435 --> 00:18:25,096
+<i>Tuvieron un hijo llamado Casper...</i>
+
+317
+00:18:25,203 --> 00:18:26,270
+<i>Sam y Randy...</i>
+
+318
+00:18:26,271 --> 00:18:28,034
+<i>Tuvieron un hijo llamado Sandy...</i>
+
+319
+00:18:28,140 --> 00:18:29,173
+<i>George y Harold...</i>
+
+320
+00:18:29,174 --> 00:18:30,937
+<i>Tuvieron un hijo llamado Gerald...</i>
+
+321
+00:18:30,943 --> 00:18:32,009
+<i>Biff y Chuck...</i>
+
+322
+00:18:32,010 --> 00:18:33,568
+<i>Tuvieron un hijo llamado Buck...</i>
+
+323
+00:18:33,879 --> 00:18:34,879
+<i>Nate y Rick...</i>
+
+324
+00:18:34,880 --> 00:18:36,507
+<i>Tuvieron un hijo llamado Nick...</i>
+
+325
+00:18:36,615 --> 00:18:37,682
+<i>Nick y Ted...</i>
+
+326
+00:18:37,683 --> 00:18:39,310
+<i>Tuvieron un hijo llamado Ned...</i>
+
+327
+00:18:39,418 --> 00:18:40,484
+<i>Clark y Ray...</i>
+
+328
+00:18:40,485 --> 00:18:42,180
+<i>Tuvieron un hijo llamado Clay...</i>
+
+329
+00:18:42,287 --> 00:18:43,320
+<i>Bo y Larry...</i>
+
+330
+00:18:43,321 --> 00:18:45,084
+<i>Tuvieron un hijo llamado Barry...</i>
+
+331
+00:18:45,190 --> 00:18:46,223
+<i>Ray y Paco...</i>
+
+332
+00:18:46,224 --> 00:18:47,919
+<i>Tuvieron un hijo llamado Rocco...</i>
+
+333
+00:18:47,926 --> 00:18:48,926
+<i>Ben y Lee...</i>
+
+334
+00:18:48,927 --> 00:18:50,554
+<i>Tuvieron un hijo llamado Bentley...</i>
+
+335
+00:18:50,662 --> 00:18:51,696
+<i>Rocco y Dusty...</i>
+
+336
+00:18:51,697 --> 00:18:53,426
+<i>Tuvieron un hijo llamado Rusty...</i>
+
+337
+00:18:53,532 --> 00:18:54,532
+<i>Rusty y Alf...</i>
+
+338
+00:18:54,533 --> 00:18:56,228
+<i>Tuvieron un hijo llamado Ralph...</i>
+
+339
+00:18:56,334 --> 00:18:57,435
+<i>Tom y Ed...</i>
+
+340
+00:18:57,436 --> 00:18:59,131
+<i>Tuvieron un hijo llamado Ted...</i>
+
+341
+00:18:59,237 --> 00:19:00,337
+<i>John y Ted...</i>
+
+342
+00:19:00,338 --> 00:19:01,999
+<i>Tuvieron un hijo llamado Jed...</i>
+
+343
+00:19:02,007 --> 00:19:03,074
+<i>Ron y Cory...</i>
+
+344
+00:19:03,075 --> 00:19:04,667
+<i>Tuvieron un hijo llamado Rory...</i>
+
+345
+00:19:04,976 --> 00:19:05,976
+<i>Rory y Tex...</i>
+
+346
+00:19:05,977 --> 00:19:07,501
+<i>Tuvieron un hijo llamado Rex...</i>
+
+347
+00:19:07,612 --> 00:19:10,240
+<i>Burt y Morris</i>
+<i>Tuvieron un hijo llamado Boris...</i>
+
+348
+00:19:10,348 --> 00:19:15,911
+<i>Y este bebé, su padre se ha ido</i>
+<i>Y este bebé, su padre se ha ido...</i>
+
+349
+00:19:16,021 --> 00:19:21,954
+<i>Y este bebé, su padre se ha ido</i>
+<i>Y este bebé, su padre se ha ido...</i>
+
+350
+00:19:22,961 --> 00:19:26,795
+Y entonces, el argumento comenzó
+a espesarse, pero no mucho.
+
+351
+00:19:26,898 --> 00:19:28,593
+Una niña necesita ser rescatada...
+
+352
+00:19:28,700 --> 00:19:32,261
+...y el perfil genéticamente diseñado
+de un planeta rico está...
+
+353
+00:19:32,370 --> 00:19:34,235
+...de alguna manera involucrado.
+
+354
+00:19:34,339 --> 00:19:35,806
+Pero, ¿cómo? ¿Quién?
+
+355
+00:19:35,907 --> 00:19:39,365
+¿Qué? ¿Cuándo? ¿Dónde?
+
+356
+00:19:39,478 --> 00:19:41,070
+Y, ¿por qué?
+
+357
+00:19:41,179 --> 00:19:43,704
+Encuentren las respuestas
+a estas preguntas y mucho más...
+
+358
+00:19:43,815 --> 00:19:45,806
+...en nuestro próximo episodio de...
+
+359
+00:19:45,917 --> 00:19:49,683
+¡Stingray Sam!
+
+360
+00:20:09,874 --> 00:20:13,640
+Liberty Chew Chewing Tobacco
+presenta...
+
+361
+00:20:16,447 --> 00:20:20,713
+<i>Stingray Sam no es un héroe...</i>
+
+362
+00:20:20,818 --> 00:20:24,515
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+363
+00:20:24,622 --> 00:20:29,389
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+364
+00:20:31,295 --> 00:20:36,790
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+365
+00:20:36,901 --> 00:20:40,769
+Episodio 3
+El carpintero famoso
+
+366
+00:20:41,272 --> 00:20:43,001
+En el distante planeta solar...
+
+367
+00:20:43,107 --> 00:20:45,371
+...ubicados entre cierta clase
+de planetas...
+
+368
+00:20:45,476 --> 00:20:47,467
+...estaban los planetas
+de las clases sociales...
+
+369
+00:20:47,578 --> 00:20:50,547
+...y, entre ellos,
+había un planeta de cierta clase.
+
+370
+00:20:50,648 --> 00:20:54,049
+Un planeta que había cambiado
+su nombre al de Fredward.
+
+371
+00:20:54,151 --> 00:20:56,949
+Es aquí donde Stingray Sam
+y Quasar Kid...
+
+372
+00:20:57,054 --> 00:21:01,115
+...inician la persecución de un hombre
+que comparte el mismo nombre.
+
+373
+00:21:01,225 --> 00:21:03,090
+Su búsqueda comienza...
+
+374
+00:21:03,261 --> 00:21:04,990
+En el Instituto de Ciencia
+y Trivialidades...
+
+375
+00:21:05,096 --> 00:21:06,154
+...del Hombre Embarazado...
+
+376
+00:21:06,264 --> 00:21:07,731
+...donde una reunión importante del...
+
+377
+00:21:07,832 --> 00:21:10,096
+...Instituto de Ciencia y Trivialidades
+del Hombre Embarazado...
+
+378
+00:21:10,201 --> 00:21:12,066
+...está a punto de comenzar.
+
+379
+00:21:21,345 --> 00:21:24,041
+¡Se llevaron mi sujetapapeles!
+¡Se llevaron mi sujetapapeles!
+
+380
+00:21:24,148 --> 00:21:25,181
+¡Justo el que uso!
+
+381
+00:21:25,182 --> 00:21:28,083
+¡Tenemos que detenerlos!
+
+382
+00:21:39,530 --> 00:21:40,827
+Los triunfantes esfuerzos...
+
+383
+00:21:40,932 --> 00:21:42,422
+...en esta nueva rama
+de la investigación...
+
+384
+00:21:42,533 --> 00:21:45,229
+...no hubieran sido posible
+sin el subsidio generoso...
+
+385
+00:21:45,336 --> 00:21:49,136
+...de la empresa
+Liberty Chew Chewing Tobacco.
+
+386
+00:21:49,240 --> 00:21:52,232
+"Libérate con Liberty Chew Tobacco...
+
+387
+00:21:52,343 --> 00:21:56,074
+...y únete a la liberación
+de la libre masticación de tabaco".
+
+388
+00:21:56,180 --> 00:21:58,341
+Antes de que pasemos
+a un intermedio esta tarde...
+
+389
+00:21:58,449 --> 00:21:59,677
+...el Dr. Adison y yo...
+
+390
+00:21:59,784 --> 00:22:02,878
+...estaremos entregándoles
+muestras gratis de Liberty Chew.
+
+391
+00:22:02,987 --> 00:22:06,582
+Y ahora echémosle un vistazo
+al gráfico.
+
+392
+00:22:11,729 --> 00:22:14,857
+¡Yo soy Quasar Kid
+y él es Stingray Sam!
+
+393
+00:22:14,966 --> 00:22:16,831
+Se meterán en problemas...
+
+394
+00:22:16,934 --> 00:22:19,266
+...si no nos dan
+lo que vinimos a buscar.
+
+395
+00:22:19,370 --> 00:22:20,928
+¿"Stingray" Sam?
+
+396
+00:22:21,038 --> 00:22:23,700
+¿Eres del departamento
+de Oceanología?
+
+397
+00:22:25,977 --> 00:22:27,137
+Sí, lo soy.
+
+398
+00:22:27,244 --> 00:22:30,111
+¡Qué sorpresa!
+
+399
+00:22:30,214 --> 00:22:31,408
+Desde que los océanos
+han desaparecido...
+
+400
+00:22:31,515 --> 00:22:33,847
+...no me puedo imaginar dónde pudiste
+haber encontrado una financiación...
+
+401
+00:22:33,951 --> 00:22:35,782
+...sin un hombre armado a tu lado.
+
+402
+00:22:35,886 --> 00:22:38,013
+A menos que, claro,
+hayas encontrado...
+
+403
+00:22:38,122 --> 00:22:40,113
+...una manera
+de devolver los océanos...
+
+404
+00:22:40,224 --> 00:22:42,385
+...lo cual dudo mucho.
+
+405
+00:22:45,196 --> 00:22:47,824
+¿Cómo planeas hacerlo, jovencito?
+
+406
+00:22:47,932 --> 00:22:49,126
+¿Perdón?
+
+407
+00:22:49,233 --> 00:22:52,396
+Bueno. ¿Cómo planeas
+devolver los océanos?
+
+408
+00:22:53,804 --> 00:22:56,034
+Supongo que pez por pez.
+
+409
+00:22:57,708 --> 00:22:59,073
+Sí, así es.
+
+410
+00:22:59,176 --> 00:23:01,906
+¡Sam ha cruzado dos galaxias...
+
+411
+00:23:02,013 --> 00:23:06,473
+...con un bebé Stingray
+creciendo en su propio vientre!
+
+412
+00:23:06,584 --> 00:23:08,449
+- ¿Un Stingray?
+- ¿Stingray?
+
+413
+00:23:08,552 --> 00:23:09,780
+Stingray...
+
+414
+00:23:09,954 --> 00:23:13,987
+<i>Stingray, Stingray, Stingray...</i>
+
+415
+00:23:13,988 --> 00:23:18,020
+<i>Stingray, Stingray, Stingray...</i>
+
+416
+00:23:25,703 --> 00:23:28,763
+<i>Bueno, fui al doctor...</i>
+
+417
+00:23:29,874 --> 00:23:31,865
+<i>Y me mandó a hacer un ultrasonido...</i>
+
+418
+00:23:31,976 --> 00:23:35,377
+<i>No es la clase de cosa</i>
+<i>Que se le hace a un hombre...</i>
+
+419
+00:23:35,946 --> 00:23:37,573
+<i>Le pregunté al doctor...</i>
+
+420
+00:23:37,681 --> 00:23:39,911
+<i>¿Qué dice esa imagen?</i>
+
+421
+00:23:40,017 --> 00:23:43,714
+<i>Me dijo: "Muchacho</i>
+<i>Vas a tener un Stingray"</i>
+
+422
+00:23:43,921 --> 00:23:47,971
+<i>Stingray, Stingray, Stingray...</i>
+
+423
+00:23:47,972 --> 00:23:52,021
+<i>Stingray, Stingray, Stingray...</i>
+
+424
+00:23:52,129 --> 00:23:53,926
+<i>- ¿Será niño?</i>
+<i>- No, va a ser un Stingray...</i>
+
+425
+00:23:54,031 --> 00:23:56,158
+<i>- ¿Será una niña?</i>
+<i>- No, va a ser un Stingray...</i>
+
+426
+00:23:56,267 --> 00:24:00,169
+<i>Será el Príncipe de los Ladrones</i>
+<i>O la Reina del Mundo...</i>
+
+427
+00:24:00,271 --> 00:24:04,071
+<i>Será un hijo</i>
+<i>O será una hija...</i>
+
+428
+00:24:04,175 --> 00:24:07,076
+<i>Será un Stingray</i>
+<i>Nadando en las aguas...</i>
+
+429
+00:24:07,511 --> 00:24:11,561
+<i>Stingray, Stingray, Stingray...</i>
+
+430
+00:24:11,562 --> 00:24:15,611
+<i>Stingray, Stingray, Stingray...</i>
+
+431
+00:25:00,831 --> 00:25:03,959
+Mi amigo
+no se está sintiendo muy bien.
+
+432
+00:25:04,068 --> 00:25:07,299
+Quizás sea porque tiene
+un bebé Stingray en la panza.
+
+433
+00:25:08,639 --> 00:25:10,266
+Sí, es probable que eso sea.
+
+434
+00:25:10,374 --> 00:25:11,432
+De todas maneras...
+
+435
+00:25:11,542 --> 00:25:13,976
+...necesito sentarme un momento
+y me preguntaba...
+
+436
+00:25:14,078 --> 00:25:17,172
+...dónde guardas todos los archivos,
+registros y cosas por el estilo.
+
+437
+00:25:17,281 --> 00:25:19,909
+Queremos echar un vistazo.
+
+438
+00:25:20,384 --> 00:25:22,909
+Pasando esa puerta
+al final del pasillo.
+
+439
+00:25:23,020 --> 00:25:25,682
+¿Y qué es exactamente
+"echar un vistazo"?
+
+440
+00:25:25,789 --> 00:25:28,314
+No te preocupes por eso.
+
+441
+00:25:47,545 --> 00:25:50,036
+Esto no se ve tan bien.
+
+442
+00:25:50,147 --> 00:25:52,877
+Sí, tenemos muchas cosas por ver.
+
+443
+00:25:55,753 --> 00:25:57,015
+Bueno, si sólo hay una niña...
+
+444
+00:25:57,121 --> 00:25:59,612
+...quizás deberíamos buscar
+en la sección de niñas...
+
+445
+00:25:59,723 --> 00:26:00,985
+...y la encontraremos.
+
+446
+00:26:04,195 --> 00:26:05,287
+Tienes razón.
+
+447
+00:26:05,396 --> 00:26:07,193
+Es la única color rosa.
+
+448
+00:26:09,333 --> 00:26:11,665
+Bueno, veamos.
+
+449
+00:26:16,907 --> 00:26:19,842
+La clase alta se había convertido
+en la única clase.
+
+450
+00:26:19,944 --> 00:26:22,242
+Para que fuera posible
+hacer funcionar a la sociedad...
+
+451
+00:26:22,346 --> 00:26:23,540
+...se convirtió en ley oral...
+
+452
+00:26:23,647 --> 00:26:26,411
+...que el trabajo físico
+no sería despreciado...
+
+453
+00:26:26,517 --> 00:26:29,281
+...mientras que fueras famoso
+haciéndolo.
+
+454
+00:26:29,386 --> 00:26:32,150
+Jerry era un carpintero famoso.
+
+455
+00:26:32,256 --> 00:26:35,817
+Pero la fama no le interesaba
+al famoso Jerry.
+
+456
+00:26:35,926 --> 00:26:37,223
+Era solitario.
+
+457
+00:26:37,328 --> 00:26:38,989
+Rebelde.
+
+458
+00:26:39,096 --> 00:26:43,260
+A diferencia de la norma,
+fue Jerry, el famoso carpintero...
+
+459
+00:26:43,367 --> 00:26:46,894
+...que protestó en contra de la
+obligación de procrear un varón...
+
+460
+00:26:47,004 --> 00:26:50,770
+...tomando, en secreto,
+drogas decisorias de género.
+
+461
+00:26:50,874 --> 00:26:53,741
+Jerry, en privado,
+dio a luz a una niña.
+
+462
+00:26:53,844 --> 00:26:55,436
+Su género fue asumido como varón...
+
+463
+00:26:55,546 --> 00:26:59,107
+...y, por lo tanto, nunca fue informado
+a las autoridades.
+
+464
+00:27:00,150 --> 00:27:03,176
+A Fredward siempre
+le había sido extraño el esfuerzo.
+
+465
+00:27:03,287 --> 00:27:06,984
+Había obtenido su riqueza y fama
+del sólo hecho de haber nacido.
+
+466
+00:27:07,091 --> 00:27:09,992
+Todas sus necesidades
+fueron siempre satisfechas...
+
+467
+00:27:10,094 --> 00:27:14,121
+...y a pesar de que creció aislado,
+nunca estuvo solo.
+
+468
+00:27:14,231 --> 00:27:17,496
+Siempre estuvo rodeado por
+un grupo de seguidores adinerados...
+
+469
+00:27:17,601 --> 00:27:19,626
+...que valoraban
+cada una de sus palabras.
+
+470
+00:27:19,737 --> 00:27:22,763
+Sus ideas
+nunca fueron cuestionadas.
+
+471
+00:27:22,873 --> 00:27:25,000
+Como resultado,
+Fredward fue convencido...
+
+472
+00:27:25,109 --> 00:27:28,670
+...de que sus pensamientos eran
+producto de la inspiración divina.
+
+473
+00:27:29,980 --> 00:27:33,006
+A pesar de eso, nunca desarrolló
+habilidad o talento alguno...
+
+474
+00:27:33,117 --> 00:27:35,381
+...se decía artista...
+
+475
+00:27:35,486 --> 00:27:38,182
+...y para asombro de sus seguidores...
+
+476
+00:27:38,289 --> 00:27:41,554
+...Fredward empezó
+con lo que sería su obra maestra.
+
+477
+00:27:41,659 --> 00:27:46,460
+Iba a rediseñar su propia casa...
+
+478
+00:27:46,563 --> 00:27:50,499
+...y el único hombre famoso
+capaz de hacer su sueño realidad...
+
+479
+00:27:50,601 --> 00:27:54,503
+...era Jerry, el famoso carpintero.
+
+480
+00:27:54,605 --> 00:27:58,132
+El famoso Jerry había sido segregado
+dentro del complejo.
+
+481
+00:27:58,242 --> 00:28:00,437
+Había sido obligado a escuchar
+los conceptos de arte...
+
+482
+00:28:00,544 --> 00:28:02,011
+...más destacados de Fredward.
+
+483
+00:28:02,112 --> 00:28:04,342
+Ninguna de las ideas de Fredward
+estaban basadas en la realidad.
+
+484
+00:28:04,448 --> 00:28:06,177
+Nunca podrían ser materializadas.
+
+485
+00:28:06,283 --> 00:28:10,117
+A la semana, el Famoso Jerry,
+renunció al trabajo.
+
+486
+00:28:10,688 --> 00:28:12,485
+Fredward estaba desolado.
+
+487
+00:28:12,589 --> 00:28:16,548
+Jerry iba a ser arrestado
+y sentenciado a muerte.
+
+488
+00:28:16,660 --> 00:28:18,423
+Antes de que Jerry
+tuviera la oportunidad...
+
+489
+00:28:18,529 --> 00:28:20,258
+...de recuperar a su hija
+e irse del planeta...
+
+490
+00:28:20,364 --> 00:28:22,696
+...su casa fue allanada.
+
+491
+00:28:23,000 --> 00:28:24,160
+La niña fue descubierta...
+
+492
+00:28:24,268 --> 00:28:26,998
+...y llevada directamente
+al complejo de Fredward.
+
+493
+00:28:27,104 --> 00:28:30,403
+El famoso Jerry
+abandonó el planeta solo.
+
+494
+00:28:30,507 --> 00:28:32,065
+Jerry denunció el secuestro...
+
+495
+00:28:32,176 --> 00:28:34,406
+...ante los líderes
+de la Comunidad Intergaláctica.
+
+496
+00:28:34,511 --> 00:28:38,003
+Los arreglos del rescate
+habían sido realizados.
+
+497
+00:29:00,904 --> 00:29:04,965
+- ¿Tan pronto se van?
+- Sí. Tenemos que seguir.
+
+498
+00:29:05,075 --> 00:29:08,636
+- ¿Adónde irán?
+- A buscar a Fredward.
+
+499
+00:29:08,746 --> 00:29:12,147
+Uy, basta de queso y tabaco
+para estos muchachos.
+
+500
+00:29:12,249 --> 00:29:13,876
+Tienen que ver a Fredward.
+
+501
+00:29:13,984 --> 00:29:17,579
+Nunca lo verás, jovencito.
+Él es demasiado importante.
+
+502
+00:29:18,489 --> 00:29:20,081
+Gracias por la hospitalidad.
+
+503
+00:29:20,190 --> 00:29:21,657
+Ah, y a propósito...
+
+504
+00:29:21,825 --> 00:29:24,851
+...¿dijiste que has cruzado
+dos galaxias?
+
+505
+00:29:24,962 --> 00:29:26,486
+Sólo hay una galaxia.
+
+506
+00:29:28,365 --> 00:29:30,731
+Sí, suena un tanto acertado.
+
+507
+00:29:31,335 --> 00:29:33,166
+Con un mejor entendimiento
+de su misión...
+
+508
+00:29:33,270 --> 00:29:35,966
+...y un sentido de propósito
+en cada paso...
+
+509
+00:29:36,073 --> 00:29:38,974
+...Stingray Sam y Quasar Kid
+emprendieron el camino...
+
+510
+00:29:39,076 --> 00:29:40,873
+...al complejo de Fredward.
+
+511
+00:29:40,978 --> 00:29:42,605
+Pero, ¿qué peligros los acechaban?
+
+512
+00:29:42,713 --> 00:29:45,409
+¡Entérense
+en el próximo episodio de...
+
+513
+00:29:45,516 --> 00:29:49,782
+¡Stingray Sam!
+
+514
+00:30:10,507 --> 00:30:14,273
+Liberty Chew Chewing Tobacco
+presenta...
+
+515
+00:30:17,113 --> 00:30:21,311
+<i>Stingray Sam no es un héroe...</i>
+
+516
+00:30:21,417 --> 00:30:25,080
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+517
+00:30:25,188 --> 00:30:30,091
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+518
+00:30:32,028 --> 00:30:37,489
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+519
+00:30:37,500 --> 00:30:38,567
+Episodio 4
+
+520
+00:30:38,568 --> 00:30:41,437
+El Programa Corporativo
+de Rehabilitación de Mascotas
+
+521
+00:30:42,705 --> 00:30:44,900
+Nuestra historia empieza
+donde la dejamos.
+
+522
+00:30:45,008 --> 00:30:48,375
+Aquí entre cierta clase de planetas
+es donde encontramos...
+
+523
+00:30:48,478 --> 00:30:50,537
+...a Stingray Sam y a Quasar Kid...
+
+524
+00:30:50,647 --> 00:30:54,413
+...persiguiendo a un hombre
+llamado Fredward.
+
+525
+00:30:54,517 --> 00:30:57,748
+Como todo ícono
+de gran poder económico...
+
+526
+00:30:57,854 --> 00:31:00,322
+...Fredward estaba bien protegido.
+
+527
+00:31:00,423 --> 00:31:03,551
+Vivía en una gran fortaleza,
+por encima de la ley...
+
+528
+00:31:03,660 --> 00:31:07,118
+...donde ningún hombre
+se atrevía a entrar sin invitación.
+
+529
+00:31:07,230 --> 00:31:10,461
+Era por eso que no tenía
+ningún sistema de seguridad...
+
+530
+00:31:10,567 --> 00:31:13,297
+...haciendo posible
+que Stingray Sam y Quasar Kid...
+
+531
+00:31:13,403 --> 00:31:15,496
+...lograran entrar.
+
+532
+00:31:21,344 --> 00:31:24,871
+Oigan, no deben estar aquí.
+
+533
+00:31:24,981 --> 00:31:27,916
+Se supone que nadie debe verme
+antes de la presentación.
+
+534
+00:31:28,017 --> 00:31:30,008
+¿Cuál presentación?
+
+535
+00:31:30,119 --> 00:31:31,609
+Vinieron a la fiesta,
+¿no es así?
+
+536
+00:31:31,721 --> 00:31:33,621
+¿Qué fiesta?
+
+537
+00:31:36,826 --> 00:31:38,589
+Sí. Vinimos a la fiesta.
+
+538
+00:31:43,733 --> 00:31:45,564
+¿Recuerdas lo que pasó en Durango...
+
+539
+00:31:45,668 --> 00:31:48,501
+...justo antes de que las cárceles
+se declararan en bancarrota...
+
+540
+00:31:48,605 --> 00:31:49,697
+...y pudiéramos escapar?
+
+541
+00:31:49,806 --> 00:31:51,797
+¿Te refieres
+al Programa de Mascotas?
+
+542
+00:31:51,908 --> 00:31:53,000
+Sí.
+
+543
+00:31:53,109 --> 00:31:56,636
+Sí. Yo estaba en una unidad
+de confinamiento solitaria...
+
+544
+00:31:56,746 --> 00:31:59,579
+...que se parecía al saltamontes
+de Liberty Chew.
+
+545
+00:31:59,682 --> 00:32:00,944
+No podía mover los brazos.
+
+546
+00:32:01,050 --> 00:32:04,850
+Sí. Bueno, cuando te fuiste
+me trajeron un compañero nuevo.
+
+547
+00:32:05,955 --> 00:32:09,482
+Su nombre era Cubby.
+
+548
+00:32:13,630 --> 00:32:17,327
+<i>Disculpen</i>
+<i>Soy nuevo en la cárcel...</i>
+
+549
+00:32:17,433 --> 00:32:19,867
+<i>Creo que yo estaba sentado allí...</i>
+
+550
+00:32:19,969 --> 00:32:23,405
+<i>Mira, allí está</i>
+<i>Mi trozo de pan de maíz...</i>
+
+551
+00:32:23,506 --> 00:32:26,566
+Se dijo que Cubby
+no era apropiado para la cárcel...
+
+552
+00:32:26,676 --> 00:32:29,839
+...o que quizás la cárcel
+no era apropiada para él.
+
+553
+00:32:29,946 --> 00:32:31,072
+De cualquier forma...
+
+554
+00:32:31,180 --> 00:32:34,013
+...su momento allí
+no pudo haber sido más perfecto...
+
+555
+00:32:34,117 --> 00:32:36,677
+...porque las instalaciones
+de la cárcel de Durango...
+
+556
+00:32:36,786 --> 00:32:39,311
+...estaban al borde
+del desastre financiero.
+
+557
+00:32:39,422 --> 00:32:41,982
+Fue durante este periodo,
+el de las horas más oscuras...
+
+558
+00:32:42,091 --> 00:32:44,082
+...cuando una compañía de publicidad...
+
+559
+00:32:44,193 --> 00:32:46,957
+...se acercó al CEO del planeta
+con una propuesta.
+
+560
+00:32:47,063 --> 00:32:48,758
+Sería conocida como:
+
+561
+00:32:48,865 --> 00:32:52,665
+El Programa Corporativo
+de Rehabilitación de Mascotas.
+
+562
+00:32:52,835 --> 00:32:55,565
+En este programa
+los prisioneros eran alquilados...
+
+563
+00:32:55,672 --> 00:32:57,572
+...como mascotas corporativas.
+
+564
+00:32:57,674 --> 00:33:00,734
+Los trajes de las mascotas
+eran diseñados y fabricados...
+
+565
+00:33:00,843 --> 00:33:02,435
+...dentro de la cárcel.
+
+566
+00:33:02,545 --> 00:33:06,481
+La parte exterior de estos trajes
+eran diseñados para atraer y divertir...
+
+567
+00:33:06,582 --> 00:33:08,880
+...a los asistentes a convenciones
+y sus familias...
+
+568
+00:33:08,985 --> 00:33:10,885
+...mientras les recordaban
+a qué corporación...
+
+569
+00:33:10,987 --> 00:33:12,614
+...estaban representando.
+
+570
+00:33:12,722 --> 00:33:16,783
+El interior de los trajes era diseñado
+para dominar a los presos...
+
+571
+00:33:16,893 --> 00:33:18,918
+...y prevenir que cometieran crímenes...
+
+572
+00:33:19,028 --> 00:33:22,020
+...o de colocarse o colocar a los demás
+en situaciones de riesgo.
+
+573
+00:33:22,131 --> 00:33:24,395
+Cuando un preso
+se convertía en suicida...
+
+574
+00:33:24,500 --> 00:33:25,865
+...sus intentos fracasarían...
+
+575
+00:33:25,968 --> 00:33:29,904
+...mostrándose cómico y encantador
+para los espectadores.
+
+576
+00:33:30,006 --> 00:33:32,975
+Con el tiempo,
+la higiene llegó a ser un problema.
+
+577
+00:33:33,076 --> 00:33:36,739
+El olor de un preso sucio
+penetraba el traje...
+
+578
+00:33:36,846 --> 00:33:39,838
+...dándole una mala reputación
+a la corporación que representaba.
+
+579
+00:33:39,949 --> 00:33:43,180
+Una nueva propuesta
+fue puesta rápidamente en efecto.
+
+580
+00:33:43,486 --> 00:33:46,114
+A través del uso
+de compresión masa-materia...
+
+581
+00:33:46,222 --> 00:33:48,690
+...el preso podía ser
+reducido de tamaño...
+
+582
+00:33:48,791 --> 00:33:51,658
+...infundido en el cuerpo
+de un pequeño robot...
+
+583
+00:33:51,761 --> 00:33:53,991
+...vestido acorde y colocado
+sobre un estante...
+
+584
+00:33:54,097 --> 00:33:55,894
+...para que el público lo observara.
+
+585
+00:33:55,998 --> 00:34:00,025
+Nunca se tenía contacto
+con el público.
+
+586
+00:34:00,136 --> 00:34:03,663
+Cubby era un genio en relación
+a la compresión masa-materia.
+
+587
+00:34:03,773 --> 00:34:06,674
+Sin él, Durango
+no hubiera tenido un programa.
+
+588
+00:34:06,943 --> 00:34:09,605
+Cubby pidió que se le permitiera
+desarrollar el aparato...
+
+589
+00:34:09,712 --> 00:34:11,680
+...en la privacidad de su celda.
+
+590
+00:34:11,781 --> 00:34:14,579
+Su pedido fue aceptado
+y en poco tiempo...
+
+591
+00:34:14,684 --> 00:34:18,176
+...seis prototipos
+fueron desarrollados y entregados.
+
+592
+00:34:18,287 --> 00:34:21,120
+Dos aparatos adicionales
+fueron secretamente fabricados...
+
+593
+00:34:21,224 --> 00:34:24,159
+...y escondidos
+detrás de las paredes de su celda.
+
+594
+00:34:24,260 --> 00:34:26,660
+Estos dos aparatos
+eran para ser utilizados...
+
+595
+00:34:26,763 --> 00:34:27,787
+...por Cubby y Quasar Kid...
+
+596
+00:34:27,897 --> 00:34:31,526
+...para escapar de la prisión a través
+del angosto sistema de ventilación.
+
+597
+00:34:31,634 --> 00:34:35,331
+La mañana del escape planeado,
+Cubby se infundió...
+
+598
+00:34:35,438 --> 00:34:37,668
+...dentro de uno
+de los pequeños trajes.
+
+599
+00:34:37,774 --> 00:34:41,574
+Se escondió detrás del inodoro
+y esperó a que Quasar Kid...
+
+600
+00:34:41,677 --> 00:34:44,111
+...terminara con las labores
+de la cocina.
+
+601
+00:34:44,213 --> 00:34:45,703
+Kid se distrajo...
+
+602
+00:34:45,815 --> 00:34:48,807
+...y no pudo unirse a Cubby
+como lo habían planeado.
+
+603
+00:34:48,918 --> 00:34:51,682
+Mientras Cubby esperaba
+pacientemente detrás del inodoro...
+
+604
+00:34:51,788 --> 00:34:55,622
+...un portero de la cárcel
+manguereó su celda.
+
+605
+00:34:55,725 --> 00:34:58,387
+El agua produjo un corto circuito
+en el traje de Cubby.
+
+606
+00:34:58,494 --> 00:35:00,689
+Murió en pocos segundos.
+
+607
+00:35:00,797 --> 00:35:04,665
+Cuando Kid regresó a su celda,
+descubrió el aparato miniatura...
+
+608
+00:35:04,767 --> 00:35:08,362
+...que contenía los restos pequeños
+de su amigo.
+
+609
+00:35:08,471 --> 00:35:11,634
+Recién allí se acordó
+del plan de escape.
+
+610
+00:35:11,741 --> 00:35:14,642
+Cubby fue enterrado secretamente
+a la mañana siguiente...
+
+611
+00:35:14,744 --> 00:35:16,712
+...en el jardín comunitario
+de la cárcel.
+
+612
+00:35:18,247 --> 00:35:20,044
+¿Y esperas que me meta
+dentro de esa cosa?
+
+613
+00:35:20,149 --> 00:35:24,882
+- Es fácil. Sólo cierra los ojos.
+- ¡No! ¡Oye! ¡Oye! ¡Oye!
+
+614
+00:35:27,757 --> 00:35:28,917
+¿Cómo lo sientes?
+
+615
+00:35:29,659 --> 00:35:31,752
+Está un poco ajustado.
+
+616
+00:35:32,728 --> 00:35:35,891
+- Creo que se me durmió la pierna.
+- ¿Puedes moverla?
+
+617
+00:35:35,998 --> 00:35:38,296
+- Sí, creo que sí.
+- No dejes de moverla.
+
+618
+00:35:38,601 --> 00:35:41,365
+Estarás bien.
+Sujétate a mi pantalón.
+
+619
+00:35:49,312 --> 00:35:54,545
+Permítanme presentarles
+a nuestras visitas.
+
+620
+00:35:54,650 --> 00:36:00,282
+Debo pedirles que perdonen
+sus displicentes actitudes...
+
+621
+00:36:00,389 --> 00:36:03,654
+...pero los tengo condicionados...
+
+622
+00:36:03,759 --> 00:36:06,853
+...o les he lavado el cerebro.
+
+623
+00:36:06,963 --> 00:36:11,366
+Notarán que les he dicho
+que pueden fumar.
+
+624
+00:36:11,667 --> 00:36:14,500
+Le he permitido a mi gente
+divertirse un poco en la selección...
+
+625
+00:36:14,604 --> 00:36:17,732
+...de sustitutos de tabaco
+un tanto extraños.
+
+626
+00:36:17,840 --> 00:36:20,741
+¿Estás disfrutando tu cigarrillo, Ed?
+
+627
+00:36:20,843 --> 00:36:21,867
+Sí, Fredward.
+
+628
+00:36:22,044 --> 00:36:27,243
+Oh, sabe rico,
+como debe hacerlo un cigarrillo.
+
+629
+00:36:28,050 --> 00:36:33,886
+Y ahora camaradas, permítanme
+presentarles al famoso...
+
+630
+00:36:36,659 --> 00:36:39,423
+¿Puedo ayudarlo?
+
+631
+00:36:42,865 --> 00:36:46,801
+<i>Fiesta, es una fiesta</i>
+<i>A festejar, a emborracharse...</i>
+
+632
+00:36:48,971 --> 00:36:51,872
+<i>Fiesta, es una fiesta</i>
+<i>A festejar, a emborracharse...</i>
+
+633
+00:36:51,974 --> 00:36:54,943
+<i>Fiesta, es una fiesta</i>
+<i>A festejar, comencemos...</i>
+
+634
+00:36:55,044 --> 00:36:57,911
+<i>Fiesta, es una fiesta</i>
+<i>A festejar, a emborracharse...</i>
+
+635
+00:36:59,682 --> 00:37:02,981
+<i>A festejar, comencemos</i>
+<i>Fiesta, es una fiesta, a festejar...</i>
+
+636
+00:37:03,085 --> 00:37:04,177
+<i>A emborracharse...</i>
+
+637
+00:37:33,015 --> 00:37:34,744
+Oh, vaya. Me asustaste.
+
+638
+00:37:34,850 --> 00:37:36,841
+Tú eres la hija del carpintero.
+
+639
+00:37:36,953 --> 00:37:38,784
+Estoy aquí para llevarte con tu papá.
+
+640
+00:37:38,955 --> 00:37:41,719
+Voy a necesitar
+que me ayudes a salir de aquí.
+
+641
+00:37:42,425 --> 00:37:44,620
+Creo que tus piernas lucen geniales.
+
+642
+00:37:44,727 --> 00:37:50,029
+Oh, muchas gracias.
+No son mías, en realidad.
+
+643
+00:37:50,132 --> 00:37:53,033
+- ¿Puedo verlas?
+- Sí, seguro.
+
+644
+00:37:53,135 --> 00:37:54,534
+No tenemos mucho tiempo...
+
+645
+00:37:54,637 --> 00:37:56,730
+...por eso, necesito
+que me escuches atentamente.
+
+646
+00:37:56,839 --> 00:37:58,704
+Esto va a ser un poquito difícil...
+
+647
+00:37:58,808 --> 00:38:01,709
+...y un poquito peligroso,
+pero te voy a sacar de aquí.
+
+648
+00:38:01,811 --> 00:38:06,043
+Lo que necesito que hagas es correr.
+¿Me escuchaste? ¡Corre! ¡Corre!
+
+649
+00:38:06,148 --> 00:38:07,809
+¡De acuerdo!
+
+650
+00:38:30,439 --> 00:38:34,000
+- Corrí realmente rápido.
+- Sí, es cierto.
+
+651
+00:38:34,110 --> 00:38:37,637
+- ¿Puedo ir a ver a mi papá ahora?
+- En cuanto regrese Kid.
+
+652
+00:38:37,747 --> 00:38:38,907
+No le llevará mucho tiempo.
+
+653
+00:38:39,015 --> 00:38:42,246
+Conozco a Kid, no estará allí
+más de lo necesario.
+
+654
+00:38:42,351 --> 00:38:44,785
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+655
+00:38:45,388 --> 00:38:48,016
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+656
+00:38:48,257 --> 00:38:50,919
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+657
+00:38:51,127 --> 00:38:53,789
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+658
+00:38:53,963 --> 00:38:56,397
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+659
+00:38:56,565 --> 00:38:58,999
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+660
+00:38:59,168 --> 00:39:01,398
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+661
+00:39:01,570 --> 00:39:03,902
+<i>Fiesta, es una fiesta</i>
+<i>Es una fiesta, comencemos...</i>
+
+662
+00:39:04,106 --> 00:39:07,132
+Stingray Sam y la niña
+esperaban sobre la nave...
+
+663
+00:39:07,243 --> 00:39:08,801
+...pero, ¿y Quasar Kid?
+
+664
+00:39:08,911 --> 00:39:11,971
+¿Habrá Fredward descubierto
+sus planes?
+
+665
+00:39:12,081 --> 00:39:14,106
+¿Le habrán lavado el cerebro
+a Quasar Kid...
+
+666
+00:39:14,216 --> 00:39:16,013
+...para divertimento de Fredward?
+
+667
+00:39:16,118 --> 00:39:18,245
+¿Volverá la niña a ver
+a su padre?
+
+668
+00:39:18,354 --> 00:39:21,517
+¿Permanecerá Stingray Sam
+un pequeño robot...
+
+669
+00:39:21,624 --> 00:39:23,285
+...indefinidamente?
+
+670
+00:39:23,392 --> 00:39:26,259
+¡Entérense
+en el próximo episodio de...
+
+671
+00:39:26,362 --> 00:39:30,298
+¡Stingray Sam!
+
+672
+00:39:49,251 --> 00:39:53,017
+Liberty Chew Chewing Tobacco
+presenta...
+
+673
+00:39:55,791 --> 00:40:00,091
+<i>Stingray Sam no es un héroe...</i>
+
+674
+00:40:00,195 --> 00:40:03,756
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+675
+00:40:03,865 --> 00:40:08,859
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+676
+00:40:10,539 --> 00:40:16,239
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+677
+00:40:16,345 --> 00:40:20,076
+Episodio 5
+Sacude tus grilletes
+
+678
+00:40:21,049 --> 00:40:24,644
+Fue una noche larga
+de angustias, ansiedad y aprensión...
+
+679
+00:40:24,753 --> 00:40:28,154
+...para Stingray Sam
+y la hija del carpintero.
+
+680
+00:40:28,256 --> 00:40:30,349
+Esperaron lo que les pareció
+una eternidad...
+
+681
+00:40:30,459 --> 00:40:33,826
+...el regreso de Quasar Kid,
+y llegados a este punto...
+
+682
+00:40:33,929 --> 00:40:36,489
+...sólo podían temer lo peor...
+
+683
+00:40:36,598 --> 00:40:38,657
+...y empezaban
+a perder las esperanzas...
+
+684
+00:40:38,767 --> 00:40:40,564
+...cuando de pronto...
+
+685
+00:40:43,839 --> 00:40:46,205
+Buen día, Stingray.
+Señorita.
+
+686
+00:40:47,175 --> 00:40:51,168
+- ¿Adónde estuviste anoche?
+- ¿Cómo pudiste salir del traje?
+
+687
+00:40:51,279 --> 00:40:53,304
+La niña me sacó.
+¿Dónde estuviste?
+
+688
+00:40:53,415 --> 00:40:55,076
+Estaba entreteniendo a Fredward
+y a los chicos.
+
+689
+00:40:55,183 --> 00:40:57,378
+Así podías llegar a la niña
+y salir de allí.
+
+690
+00:40:57,486 --> 00:40:59,010
+Salimos de allí en dos minutos.
+
+691
+00:40:59,121 --> 00:41:01,851
+¿Cómo se supone que lo sabría?
+
+692
+00:41:01,957 --> 00:41:05,085
+Estaba preparándome para irnos.
+Íbamos a dejarte una nota.
+
+693
+00:41:05,193 --> 00:41:07,423
+Tú nunca lo hubieras hecho.
+
+694
+00:41:08,230 --> 00:41:09,857
+Muéstrale la nota.
+
+695
+00:41:14,336 --> 00:41:16,099
+GATO
+
+696
+00:41:17,339 --> 00:41:20,240
+Ésta sí que es una nota bonita.
+Gracias.
+
+697
+00:41:21,810 --> 00:41:25,302
+Vayámonos de aquí antes de que
+se den cuenta que ella no está.
+
+698
+00:41:26,348 --> 00:41:29,806
+Stingray Sam, Quasar Kid
+y la hija del carpintero...
+
+699
+00:41:29,918 --> 00:41:32,648
+...pudieron escapar del planeta
+inadvertidamente.
+
+700
+00:41:32,754 --> 00:41:34,881
+Pero en el complejo de Fredward...
+
+701
+00:41:34,990 --> 00:41:38,221
+...una ráfaga de actividades
+se estaba dando cita.
+
+702
+00:41:38,326 --> 00:41:40,521
+El artista que había sido
+originalmente contratado...
+
+703
+00:41:40,629 --> 00:41:42,358
+...para cantar
+en la fiesta de Fredward...
+
+704
+00:41:42,464 --> 00:41:45,763
+...fue encontrado amordazado
+y amarrado en su camerino.
+
+705
+00:41:45,867 --> 00:41:50,201
+Al mismo tiempo, se dieron cuenta
+que la hija del carpintero no estaba.
+
+706
+00:41:50,305 --> 00:41:52,466
+Pero era la ausencia de Quasar Kid...
+
+707
+00:41:52,574 --> 00:41:55,702
+...la que empujó a Fredward
+al borde del precipicio.
+
+708
+00:41:55,811 --> 00:41:57,438
+No había sentido tanto una pérdida...
+
+709
+00:41:57,546 --> 00:41:59,571
+...desde que Jerry,
+el famoso carpintero...
+
+710
+00:41:59,681 --> 00:42:01,581
+...lo había abandonado.
+
+711
+00:42:01,683 --> 00:42:04,277
+Los discípulos de Fredward
+trataron de consolarlo...
+
+712
+00:42:04,386 --> 00:42:06,479
+...subestimando a Quasar Kid.
+
+713
+00:42:06,588 --> 00:42:07,850
+Trataron de desacreditar...
+
+714
+00:42:07,956 --> 00:42:10,083
+...su participación
+en los eventos vespertinos.
+
+715
+00:42:10,192 --> 00:42:13,093
+De manera cruel se burlaron
+de su forma de bailar.
+
+716
+00:42:14,162 --> 00:42:16,221
+Fredward se enfureció.
+
+717
+00:42:16,331 --> 00:42:18,925
+Los regañó
+defendiendo a Quasar Kid...
+
+718
+00:42:19,034 --> 00:42:21,468
+...y los hizo arrestar
+por traspasar la propiedad privada.
+
+719
+00:42:21,570 --> 00:42:25,563
+Cuando la policía se llevó
+al último de sus invitados...
+
+720
+00:42:25,674 --> 00:42:29,633
+...Fredward hizo algo
+que nunca antes había hecho.
+
+721
+00:42:29,811 --> 00:42:32,279
+Se retiró del complejo.
+
+722
+00:42:32,380 --> 00:42:35,941
+Su furia le dio
+una valentía que no conocía.
+
+723
+00:42:36,051 --> 00:42:39,282
+En un cohete abandonado
+de un invitado convicto...
+
+724
+00:42:39,387 --> 00:42:43,084
+...Fredward escapó de su planeta
+inadvertidamente.
+
+725
+00:42:54,436 --> 00:42:57,064
+- ¿Te lavaste los dientes?
+- Sí.
+
+726
+00:43:01,376 --> 00:43:02,934
+¿Usaste el cepillo blanco que te di?
+
+727
+00:43:03,044 --> 00:43:05,308
+- Sí.
+- De acuerdo. Vete a la cama.
+
+728
+00:43:05,413 --> 00:43:08,348
+- ¿Me puedes tocar una canción?
+- No.
+
+729
+00:43:09,417 --> 00:43:12,181
+Sí. Ve y acuéstate.
+
+730
+00:43:23,164 --> 00:43:29,067
+<i>Ésta es una canción de cuna</i>
+<i>Es una canción para ir a dormir...</i>
+
+731
+00:43:30,071 --> 00:43:33,563
+<i>Cierra los ojos</i>
+<i>Mientras mi amigo y yo...</i>
+
+732
+00:43:33,675 --> 00:43:36,803
+<i>Te cantamos una canción de cuna...</i>
+
+733
+00:43:36,912 --> 00:43:42,909
+<i>Escucha la letra de la canción</i>
+<i>Es sobre gatos y perros...</i>
+
+734
+00:43:44,019 --> 00:43:47,386
+<i>Los gatos y los perros</i>
+<i>Y las estrellas en el cielo...</i>
+
+735
+00:43:47,489 --> 00:43:50,652
+<i>En una bonita canción de cuna...</i>
+
+736
+00:43:50,825 --> 00:43:54,420
+<i>En una bonita canción de cuna...</i>
+
+737
+00:44:01,236 --> 00:44:07,207
+<i>Cierra los ojos</i>
+<i>Ciérralos bien...</i>
+
+738
+00:44:08,276 --> 00:44:11,871
+<i>Las estrellas en el cielo</i>
+<i>Brillando fuertemente...</i>
+
+739
+00:44:11,980 --> 00:44:15,279
+<i>Todo estará bien...</i>
+
+740
+00:44:15,450 --> 00:44:17,884
+<i>Aquí viene el Hombre de Arena...</i>
+
+741
+00:44:17,986 --> 00:44:21,387
+<i>Con el bolsillo lleno</i>
+<i>De tierra para dormir...</i>
+
+742
+00:44:21,856 --> 00:44:23,687
+<i>No es un hombre malo...</i>
+
+743
+00:44:23,792 --> 00:44:25,419
+<i>No tan malo como parece...</i>
+
+744
+00:44:25,527 --> 00:44:29,122
+<i>Él te traerá el sueño</i>
+<i>Tus sueños de bebé...</i>
+
+745
+00:44:29,230 --> 00:44:32,688
+<i>Te traerá los sueños de tus sueños...</i>
+
+746
+00:44:46,681 --> 00:44:49,650
+<i>Ésta es una canción de cuna...</i>
+
+747
+00:44:49,751 --> 00:44:53,517
+<i>Es una melodía para que un niño</i>
+<i>Pequeño se vaya a dormir...</i>
+
+748
+00:44:53,622 --> 00:44:56,785
+<i>Nunca en mi vida</i>
+<i>He cantado una canción de cuna...</i>
+
+749
+00:44:56,891 --> 00:45:00,258
+<i>Y la voy inventando</i>
+<i>A medida que la canto...</i>
+
+750
+00:45:00,428 --> 00:45:06,400
+<i>Si tienes un mal sueño esta noche</i>
+<i>Tienes que decir mi nombre...</i>
+
+751
+00:45:07,402 --> 00:45:10,667
+<i>Correré tan rápido como pueda</i>
+<i>A tu encuentro...</i>
+
+752
+00:45:10,772 --> 00:45:14,435
+<i>Y yo soy mucho más fuerte</i>
+<i>Que cualquiera de ellos...</i>
+
+753
+00:45:14,542 --> 00:45:17,534
+<i>Cuando te despiertes</i>
+<i>Por la mañana...</i>
+
+754
+00:45:17,646 --> 00:45:20,911
+<i>Mira a tu alrededor</i>
+<i>Y me encontrarás...</i>
+
+755
+00:45:21,016 --> 00:45:24,474
+<i>Si quieres levantarte</i>
+<i>Sólo despiértame...</i>
+
+756
+00:45:24,586 --> 00:45:28,420
+<i>Y estaré lo más feliz que pueda...</i>
+
+757
+00:45:28,590 --> 00:45:34,529
+<i>Ésta es una canción de cuna</i>
+<i>Es una canción para ir a dormir...</i>
+
+758
+00:45:35,397 --> 00:45:38,696
+<i>Cierra los ojos</i>
+<i>Mientras mi amigo y yo...</i>
+
+759
+00:45:38,800 --> 00:45:41,826
+<i>Te cantamos una canción de cuna...</i>
+
+760
+00:45:41,936 --> 00:45:45,702
+<i>Te cantaré una canción de cuna...</i>
+
+761
+00:45:54,916 --> 00:45:57,578
+Creo que está dormida.
+
+762
+00:45:58,053 --> 00:46:00,487
+Mira esto.
+
+763
+00:46:00,588 --> 00:46:01,646
+Se salieron solas.
+
+764
+00:46:01,756 --> 00:46:04,156
+Creo que lo conseguimos.
+Somos libres.
+
+765
+00:46:04,259 --> 00:46:06,489
+Tienes razón.
+
+766
+00:46:07,562 --> 00:46:09,587
+Gracias por traerme contigo, Kid.
+
+767
+00:46:09,698 --> 00:46:11,996
+No hubiera podido hacerlo sin ti.
+
+768
+00:46:14,636 --> 00:46:18,037
+Bueno, creo que me voy
+a ir de aquí ahora.
+
+769
+00:46:19,107 --> 00:46:20,870
+- ¿Qué?
+- No quiero despertarla.
+
+770
+00:46:21,042 --> 00:46:23,977
+- Continuaré.
+- Bueno, no la puedes dejar conmigo.
+
+771
+00:46:24,079 --> 00:46:25,637
+No puedo llevármela.
+
+772
+00:46:25,747 --> 00:46:27,544
+Mi trabajo era rescatarla.
+
+773
+00:46:27,649 --> 00:46:29,617
+Más allá de eso, ella puede sola.
+
+774
+00:46:29,718 --> 00:46:32,243
+Además, sólo estaba tratando
+de ayudarte a conseguir tu libertad.
+
+775
+00:46:32,353 --> 00:46:33,980
+Estabas tratando de conseguir
+tu propia libertad...
+
+776
+00:46:34,089 --> 00:46:35,556
+...y me secuestraste para ayudarte.
+
+777
+00:46:35,657 --> 00:46:38,455
+Valoro lo que hiciste.
+
+778
+00:46:41,863 --> 00:46:43,490
+De acuerdo.
+
+779
+00:46:44,799 --> 00:46:46,926
+Inventaré algo.
+
+780
+00:46:47,035 --> 00:46:48,127
+¿Adónde te diriges?
+
+781
+00:46:48,236 --> 00:46:50,670
+- A Marte.
+- ¡Yo voy a Marte!
+
+782
+00:46:50,772 --> 00:46:52,672
+A otro Marte.
+
+783
+00:46:58,880 --> 00:47:01,314
+¡Yo quiero hacerlo!
+
+784
+00:47:04,018 --> 00:47:05,781
+Te enseñaré luego.
+
+785
+00:47:07,088 --> 00:47:12,390
+- Cuídate, Quasar Kid.
+- Tú también, Stingray Sam.
+
+786
+00:47:13,394 --> 00:47:15,157
+Cierra los ojos, pequeña.
+
+787
+00:47:23,071 --> 00:47:26,939
+¡Diablos, Stingray!
+¿Qué diablos hiciste aquí adentro?
+
+788
+00:47:28,476 --> 00:47:30,842
+Cuídate, Quasar Kid.
+
+789
+00:47:43,057 --> 00:47:44,649
+Cuídate.
+
+790
+00:47:54,502 --> 00:47:56,834
+Entonces, ¿qué piensas de Kid?
+
+791
+00:47:58,072 --> 00:48:01,803
+Es un poco agradable
+y un poco mezquino.
+
+792
+00:48:02,610 --> 00:48:06,102
+Guau, niña,
+diste en el clavo con eso.
+
+793
+00:48:06,214 --> 00:48:08,876
+Kid es un poco agradable
+y un poco mezquino.
+
+794
+00:48:08,983 --> 00:48:10,507
+Me caes bien.
+
+795
+00:48:10,618 --> 00:48:13,280
+Te voy a enseñar ese apretón
+de manos, pero es un secreto.
+
+796
+00:48:13,388 --> 00:48:15,049
+No se lo puedes contar a nadie,
+¿de acuerdo?
+
+797
+00:48:15,156 --> 00:48:16,680
+Levanta tu pulgar.
+
+798
+00:48:16,791 --> 00:48:18,349
+Saca el meñique.
+
+799
+00:48:18,459 --> 00:48:20,484
+Pon la mano estirada.
+
+800
+00:48:21,362 --> 00:48:22,795
+Choca los cinco.
+
+801
+00:48:22,897 --> 00:48:24,125
+Hacia un lado.
+
+802
+00:48:24,232 --> 00:48:26,496
+Abajo. Muy lento.
+
+803
+00:48:26,601 --> 00:48:28,364
+Muy lento.
+Hagámoslo otra vez.
+
+804
+00:48:28,469 --> 00:48:31,961
+En la China antigua, se creía
+que los personajes sagrados...
+
+805
+00:48:32,073 --> 00:48:35,907
+...cuidaban
+a "las personas vulnerables".
+
+806
+00:48:36,010 --> 00:48:39,946
+Los tres grupos considerados
+en esta clasificación fueron viajeros...
+
+807
+00:48:40,048 --> 00:48:43,484
+...soldados y madres con hijos.
+
+808
+00:48:43,585 --> 00:48:46,748
+Ahora, con la deuda
+saldada con la sociedad...
+
+809
+00:48:46,855 --> 00:48:50,518
+...Stingray Sam empezó su nueva vida
+como hombre libre...
+
+810
+00:48:50,625 --> 00:48:52,991
+...bajo el peso
+de una obligación imprevista...
+
+811
+00:48:53,094 --> 00:48:57,554
+...que lo había colocado en las tres
+categorías de vulnerabilidad...
+
+812
+00:48:57,665 --> 00:48:59,929
+...de la China antigua.
+
+813
+00:49:00,034 --> 00:49:03,629
+Cuídenlo, oh, santos
+de la China antigua.
+
+814
+00:49:03,738 --> 00:49:05,000
+¡Y ustedes también...
+
+815
+00:49:05,106 --> 00:49:07,574
+...en nuestro próximo
+y último episodio de...
+
+816
+00:49:07,675 --> 00:49:11,202
+¡Stingray Sam!
+
+817
+00:49:31,265 --> 00:49:35,031
+Liberty Chew Chewing Tobacco
+presenta...
+
+818
+00:49:37,805 --> 00:49:42,208
+<i>Stingray Sam no es un héroe...</i>
+
+819
+00:49:42,309 --> 00:49:45,938
+<i>Pero hace las cosas</i>
+<i>Que otros no hacen...</i>
+
+820
+00:49:46,046 --> 00:49:50,881
+<i>Y tienen que ser hechas</i>
+<i>Él tiene valentía...</i>
+
+821
+00:49:52,886 --> 00:49:58,153
+<i>Eso no lo dejará escaparse</i>
+<i>No lo dejará escapar...</i>
+
+822
+00:49:58,259 --> 00:50:02,161
+Episodio 6
+Corazón de Stingray
+
+823
+00:50:02,997 --> 00:50:06,125
+En nuestro último episodio
+una pequeña fue rescatada...
+
+824
+00:50:06,233 --> 00:50:09,396
+...y luego dejada
+en custodia de Stingray Sam.
+
+825
+00:50:09,503 --> 00:50:12,904
+Dejándolo sin opción,
+Stingray se ha resignado...
+
+826
+00:50:13,007 --> 00:50:16,443
+...a entregarle la niña a su padre.
+
+827
+00:50:16,577 --> 00:50:18,340
+Muchos días habían pasado...
+
+828
+00:50:18,445 --> 00:50:22,245
+...desde que la unión
+de este dúo insólito se concretó.
+
+829
+00:50:22,349 --> 00:50:25,284
+Ahora, en la etapa final de su viaje...
+
+830
+00:50:25,386 --> 00:50:28,287
+...la libertad de Stingray culminará...
+
+831
+00:50:28,389 --> 00:50:32,291
+...con el encuentro
+de padre e hija próximamente.
+
+832
+00:50:43,270 --> 00:50:44,337
+Muy bien, niña.
+
+833
+00:50:44,338 --> 00:50:46,238
+Hoy tenemos un largo camino
+por recorrer.
+
+834
+00:50:46,340 --> 00:50:48,035
+¿Por qué no traes
+el cepillo de dientes que te di...
+
+835
+00:50:48,042 --> 00:50:49,075
+...y lo ponemos en tu bolso?
+
+836
+00:50:49,076 --> 00:50:51,670
+Oh, oh, sólo necesito hacer esto.
+
+837
+00:50:52,012 --> 00:50:53,138
+¿No quieres ir a ver a tu papá?
+
+838
+00:50:53,247 --> 00:50:55,715
+Necesito cantar la canción
+una vez más.
+
+839
+00:50:55,816 --> 00:51:00,583
+- Se está haciendo tarde.
+- Sólo una vez más.
+
+840
+00:51:02,323 --> 00:51:06,623
+De acuerdo.
+Una sola vez más.
+
+841
+00:51:06,727 --> 00:51:09,093
+Me gustaría hacerlo a mí también.
+
+842
+00:51:13,600 --> 00:51:15,295
+<i>Soy tu padre pata de palo...</i>
+
+843
+00:51:17,438 --> 00:51:19,133
+<i>Tú eres mi hija adorada...</i>
+
+844
+00:51:19,239 --> 00:51:23,005
+<i>Tú eres mi hija adorada</i>
+<i>Yo soy tu padre pata de palo...</i>
+
+845
+00:51:23,110 --> 00:51:26,568
+<i>Qué se ha hecho</i>
+<i>Tu madre de corazón frío...</i>
+
+846
+00:51:28,615 --> 00:51:30,446
+<i>Soy el hombre que te crió...</i>
+
+847
+00:51:32,219 --> 00:51:34,153
+Su ausencia nunca te desconcertó...
+
+848
+00:51:34,254 --> 00:51:37,690
+<i>Su ausencia nunca te desconcertó</i>
+<i>Soy el hombre que te crió...</i>
+
+849
+00:51:37,991 --> 00:51:39,618
+<i>Tu madre trató</i>
+<i>De asesinarnos a los dos...</i>
+
+850
+00:51:39,727 --> 00:51:41,661
+<i>Pero la bala sólo te rozó...</i>
+
+851
+00:51:43,430 --> 00:51:45,455
+<i>La segunda bala me alcanzó...</i>
+
+852
+00:51:47,201 --> 00:51:48,998
+<i>Tu madre malvada me disparó...</i>
+
+853
+00:51:49,103 --> 00:51:52,732
+<i>Tu madre malvada me disparó</i>
+<i>La segunda bala me alcanzó...</i>
+
+854
+00:51:53,040 --> 00:51:56,669
+<i>Un hombre débil hubiera caído</i>
+<i>Al suelo, pero yo no...</i>
+
+855
+00:51:58,379 --> 00:52:00,279
+<i>Me dio en la pierna...</i>
+
+856
+00:52:02,282 --> 00:52:03,772
+<i>Es por eso que tengo este palo...</i>
+
+857
+00:52:04,084 --> 00:52:07,679
+<i>Es por eso que tengo este palo</i>
+<i>Me disparó en la pierna...</i>
+
+858
+00:52:07,788 --> 00:52:09,346
+<i>La tomé del cuello...</i>
+
+859
+00:52:09,456 --> 00:52:12,016
+<i>La empujé hacia abajo</i>
+<i>y la hice suplicar...</i>
+
+860
+00:52:13,427 --> 00:52:15,554
+<i>Escuché a tu madre maldiciéndome...</i>
+
+861
+00:52:17,164 --> 00:52:19,029
+<i>Pero la sangre me dio sed...</i>
+
+862
+00:52:19,133 --> 00:52:22,728
+<i>Escuché a tu madre maldiciéndome</i>
+<i>Pero la sangre me dio sed...</i>
+
+863
+00:52:22,836 --> 00:52:25,236
+<i>Es por eso que solté</i>
+<i>A tu madre del cuello...</i>
+
+864
+00:52:25,339 --> 00:52:27,170
+<i>Y le demostré misericordia...</i>
+
+865
+00:52:28,409 --> 00:52:30,309
+<i>Se levantó y huyó...</i>
+
+866
+00:52:32,212 --> 00:52:33,804
+<i>Hoy hace un año...</i>
+
+867
+00:52:34,114 --> 00:52:37,811
+<i>Hoy llegó su carta</i>
+<i>Hoy llegó su carta...</i>
+
+868
+00:52:38,118 --> 00:52:41,815
+<i>Qué decía</i>
+<i>Oh, qué decía...</i>
+
+869
+00:52:42,122 --> 00:52:44,056
+EL FIN
+
+870
+00:52:44,158 --> 00:52:48,219
+<i>Qué decía...</i>
+
+871
+00:52:48,328 --> 00:52:52,424
+<i>Qué decía la carta...</i>
+
+872
+00:52:52,533 --> 00:52:57,334
+<i>Qué decía</i>
+<i>Qué decía...</i>
+
+873
+00:53:02,476 --> 00:53:05,536
+Decía que es momento
+de llevarte a casa.
+
+874
+00:53:08,749 --> 00:53:10,717
+Bien, vámonos.
+
+875
+00:53:21,328 --> 00:53:25,389
+¡Deténgase, colega!
+
+876
+00:53:25,499 --> 00:53:28,434
+La pequeña niña viene conmigo.
+
+877
+00:53:30,237 --> 00:53:35,766
+- ¿O qué?
+- O tú mueres. Ella muere.
+
+878
+00:53:35,876 --> 00:53:38,572
+Todos excepto yo, mueren.
+
+879
+00:53:38,679 --> 00:53:41,671
+Básicamente, todos los que estén
+de aquel lado de mi pistola.
+
+880
+00:53:41,782 --> 00:53:42,942
+La regresaré a su padre.
+
+881
+00:53:43,050 --> 00:53:46,645
+- Ella no tiene padre.
+- Su padre huyó y la dejó conmigo.
+
+882
+00:53:47,888 --> 00:53:49,583
+Eso no es realmente lo que pasó.
+
+883
+00:53:49,690 --> 00:53:52,557
+No me importa
+lo que realmente pasó.
+
+884
+00:53:52,659 --> 00:53:55,560
+La niña se queda conmigo.
+¡Es mía!
+
+885
+00:53:55,662 --> 00:53:58,153
+Nadie huye de Fredward. Nadie.
+
+886
+00:53:58,265 --> 00:54:00,165
+Ni la niña, ni su padre...
+
+887
+00:54:00,267 --> 00:54:02,735
+...y, especialmente, tampoco ese tipo
+que bailó en mi fiesta...
+
+888
+00:54:02,836 --> 00:54:04,463
+...hace una semana.
+
+889
+00:54:04,571 --> 00:54:07,233
+A propósito, ¿dónde está?
+Pensé que estaría por aquí.
+
+890
+00:54:08,141 --> 00:54:09,242
+No lo sé.
+
+891
+00:54:09,243 --> 00:54:12,735
+Así que no tienes nada
+que negociar, ¿verdad?
+
+892
+00:54:12,846 --> 00:54:18,546
+Entonces envíame a la niña
+y prepárate para que te desfigure.
+
+893
+00:54:20,521 --> 00:54:23,615
+Niña, será mejor que te vayas
+del otro lado de esa pistola...
+
+894
+00:54:23,724 --> 00:54:24,816
+...y cierres los ojos.
+
+895
+00:54:24,925 --> 00:54:29,555
+- ¡No, Stingray!
+- Anda.
+
+896
+00:54:33,300 --> 00:54:35,461
+Cierra los ojos, niña.
+
+897
+00:54:36,169 --> 00:54:37,966
+Y yo cerraré los míos.
+
+898
+00:54:41,642 --> 00:54:43,371
+¡Stingray!
+
+899
+00:54:43,944 --> 00:54:46,538
+¡Oh, no! ¿Qué me pasó?
+
+900
+00:54:46,647 --> 00:54:47,739
+¿Qué es ese olor?
+
+901
+00:54:47,848 --> 00:54:50,248
+Oye, aquí apesta.
+
+902
+00:54:50,350 --> 00:54:52,409
+Déjame salir.
+
+903
+00:54:52,519 --> 00:54:55,147
+¡Déjame salir de esta cosa!
+No me puedes hacer esto.
+
+904
+00:54:55,255 --> 00:54:59,453
+- ¡Tengo protección!
+- Aquí no estás protegido, amigo.
+
+905
+00:54:59,560 --> 00:55:00,754
+¿Creí que te ibas a Marte?
+
+906
+00:55:01,762 --> 00:55:03,559
+Creí que esto era Marte.
+
+907
+00:55:04,264 --> 00:55:05,822
+Un Marte distinto, supongo.
+
+908
+00:55:05,933 --> 00:55:07,628
+Has sido un chico detestable,
+Fredward.
+
+909
+00:55:07,734 --> 00:55:10,430
+Es momento de empezar a pagar
+tu deuda con la sociedad.
+
+910
+00:55:10,537 --> 00:55:11,765
+Por los poderes que me envisten...
+
+911
+00:55:11,872 --> 00:55:14,807
+...otorgados por los miembros líderes
+de la Comunidad Intergaláctica...
+
+912
+00:55:14,908 --> 00:55:18,173
+...es mi deber leerte sus derechos.
+
+913
+00:55:18,278 --> 00:55:19,540
+No me puede escuchar.
+
+914
+00:55:19,646 --> 00:55:20,840
+Bueno, Quasar Kid...
+
+915
+00:55:20,948 --> 00:55:24,349
+...primero me secuestraste
+para pagar mi deuda con la sociedad...
+
+916
+00:55:24,451 --> 00:55:26,351
+...y ahora has capturado a Fredward.
+
+917
+00:55:26,353 --> 00:55:27,386
+Si no te conociera...
+
+918
+00:55:27,387 --> 00:55:29,412
+...diría que te convertiste
+en un cazador de recompensas...
+
+919
+00:55:29,523 --> 00:55:30,623
+...mientras estuve lejos.
+
+920
+00:55:30,624 --> 00:55:32,558
+Bueno, no todos podemos ser
+cantantes de salón.
+
+921
+00:55:33,226 --> 00:55:37,560
+Eso es verdad, Quasar Kid.
+Cuídate.
+
+922
+00:55:37,664 --> 00:55:40,963
+- Me llevaré tu nave, Stingray.
+- Lo sé, Kid.
+
+923
+00:55:42,836 --> 00:55:45,304
+Lo sé.
+
+924
+00:56:57,911 --> 00:56:59,742
+Allí está la casa de tu papá.
+
+925
+00:57:00,313 --> 00:57:03,373
+Supongo que ahí vivirás
+de ahora en adelante.
+
+926
+00:57:03,483 --> 00:57:04,711
+Se ve bonita.
+
+927
+00:57:04,818 --> 00:57:08,379
+Stingray, ¿te quedarías conmigo
+y con papá?
+
+928
+00:57:08,488 --> 00:57:10,581
+No. Ustedes dos
+tienen mucho que hacer juntos.
+
+929
+00:57:10,691 --> 00:57:13,592
+- Yo tengo que volver al trabajo.
+- ¿Por qué?
+
+930
+00:57:14,428 --> 00:57:15,986
+Porque soy cantante de salón...
+
+931
+00:57:16,096 --> 00:57:18,326
+...y un cantante de salón
+tiene que cantar.
+
+932
+00:57:18,432 --> 00:57:21,333
+Tiene que estar allí todas las noches
+para que se le cante al público.
+
+933
+00:57:22,436 --> 00:57:24,734
+Sé que puede no significar nada
+para mucha gente...
+
+934
+00:57:24,838 --> 00:57:25,862
+...pero sí significa mucho para mí...
+
+935
+00:57:25,972 --> 00:57:27,564
+...y para la gente que viene a ver
+al cantante.
+
+936
+00:57:27,674 --> 00:57:30,404
+- Y ése soy yo.
+- Pero me quiero quedar contigo.
+
+937
+00:57:33,847 --> 00:57:36,338
+- ¿En serio?
+- Sí.
+
+938
+00:57:38,985 --> 00:57:40,976
+Bueno, te diré algo.
+
+939
+00:57:41,088 --> 00:57:43,249
+Sé que tu papá te extraña.
+
+940
+00:57:43,356 --> 00:57:45,586
+Tú y él no se han visto
+desde hace mucho tiempo...
+
+941
+00:57:45,692 --> 00:57:48,718
+...y uno no puede saber
+cómo se plantearán las cosas.
+
+942
+00:57:48,829 --> 00:57:50,763
+Por lo tanto,
+si las cosas no funcionan...
+
+943
+00:57:50,864 --> 00:57:52,991
+...y necesitas alguien
+que venga a buscarte...
+
+944
+00:57:53,100 --> 00:57:56,263
+- ...tan sólo me...
+- ¡Papá!
+
+945
+00:58:24,264 --> 00:58:30,164
+Subtítulo por aRGENTeaM
+www.argenteam.net
+

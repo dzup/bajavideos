@@ -1,0 +1,5236 @@
+1
+00:00:38,638 --> 00:00:40,970
+Un filósofo una vez dijo,
+
+2
+00:00:41,074 --> 00:00:45,568
+"¿Somos humanos porque observamos las estrellas,
+
+3
+00:00:45,678 --> 00:00:49,409
+"O las observamos porque somos humanos?"
+
+4
+00:00:50,283 --> 00:00:51,910
+No tiene importancia, realmente-
+
+5
+00:00:52,752 --> 00:00:54,879
+¿Acaso las estrellas nos observan?
+
+6
+00:00:55,922 --> 00:00:57,753
+Ahora, eso es una pregunta-
+
+7
+00:00:59,125 --> 00:01:01,559
+Pero ahora me estoy adelantando-
+
+8
+00:01:01,661 --> 00:01:04,824
+Nuestra historia comienza aquí,
+
+9
+00:01:04,931 --> 00:01:08,560
+150 años atrás
+en la Academia Real de Ciencia
+
+10
+00:01:08,668 --> 00:01:10,966
+en Londres, Inglaterra,
+
+11
+00:01:11,905 --> 00:01:16,808
+donde una carta llegó,
+Conteniendo una pregunta muy extraña-
+
+12
+00:01:18,178 --> 00:01:20,908
+Venía de un campesino
+
+13
+00:01:21,014 --> 00:01:26,179
+Y el científico que la leyó, pensó que era una clase de broma pesada-
+
+14
+00:01:26,286 --> 00:01:28,914
+Pero el debidamente escribió una respuesta
+
+15
+00:01:29,022 --> 00:01:32,185
+cortésmente explicando que la pregunta no tenía sentido-
+
+16
+00:01:33,059 --> 00:01:38,258
+Y se la envió al niño que vivía en un pueblo llamado Wall (muro),
+
+17
+00:01:38,364 --> 00:01:42,460
+llamado así, dijo el niño por el muro que recorría al lado del pueblo
+
+18
+00:01:42,569 --> 00:01:48,530
+Una pared que, según al folklore local, escondía un extraordinario secreto-
+
+19
+00:01:48,641 --> 00:01:53,101
+Yo soy el encargado de vigilar el portal a otro mundo.
+
+20
+00:01:53,213 --> 00:01:57,650
+¿Y me está pidiendo que lo deje pasar?
+
+21
+00:01:57,750 --> 00:02:01,652
+Si. Porque, seamos honestos, es un campo.
+
+22
+00:02:01,754 --> 00:02:05,121
+Mire. ¿Acaso usted ve otro mundo allá?
+
+23
+00:02:05,225 --> 00:02:09,821
+No. Usted ve un campo. ¿Ve algo no humano?
+
+24
+00:02:09,929 --> 00:02:13,421
+No. ¿Y usted sabe porque? ¡Porque es campo!
+
+25
+00:02:13,533 --> 00:02:16,764
+Cientos de años, este muro ha estado aquí.
+
+26
+00:02:16,870 --> 00:02:21,637
+Cientos de años, esta grieta ha estado bajo 24 horas de vigilancia.
+
+27
+00:02:21,741 --> 00:02:24,574
+-Bueno... - Una palabra mas,
+
+28
+00:02:24,677 --> 00:02:28,636
+¡Y yo lo tendré frente al Consejo del Pueblo!
+
+29
+00:02:30,183 --> 00:02:33,448
+-Bueno, eso suena como el final.
+-Si.
+
+30
+00:02:34,888 --> 00:02:39,882
+-Mejor me voy a casa, supongo.
+Buenas Noches, Dusntan.
+
+31
+00:02:40,727 --> 00:02:42,854
+Salúdeme a su padre.
+
+32
+00:02:45,031 --> 00:02:46,157
+Deténgase!
+
+33
+00:02:48,601 --> 00:02:49,693
+Alto!
+
+34
+00:03:34,247 --> 00:03:36,841
+Yo no lidio con "pierde-tiempos".
+
+35
+00:03:36,950 --> 00:03:38,747
+Ven acá, y atiende este establo.
+
+36
+00:03:38,851 --> 00:03:41,786
+Me voy al Príncipe decapitado por una pinta.
+
+37
+00:03:48,127 --> 00:03:49,958
+¿Ves algo que te guste?
+
+38
+00:03:52,565 --> 00:03:54,430
+Definitivamente.
+
+39
+00:03:54,534 --> 00:03:59,198
+Me refería, lo que refería era estas, las azules.
+
+40
+00:04:00,106 --> 00:04:01,767
+¿Cuánto cuestan?
+
+41
+00:04:01,874 --> 00:04:04,741
+Podrían ser el color de tu cabello.
+
+42
+00:04:04,844 --> 00:04:08,974
+O podrían ser todas tus memorias antes de que tuvieras tres años
+
+43
+00:04:09,082 --> 00:04:11,346
+Puedo verificar si te gusta.
+
+44
+00:04:11,451 --> 00:04:15,888
+De todos modos, no deberías comprar la "campanillas".
+Compra esta en vez.
+
+45
+00:04:16,789 --> 00:04:18,154
+"Gota de nieve".
+
+46
+00:04:20,159 --> 00:04:22,024
+Te traerá suerte.
+
+47
+00:04:23,396 --> 00:04:25,330
+¿Pero cuánto cuesta?
+
+48
+00:04:26,099 --> 00:04:28,966
+Esta cuesta un beso.
+
+49
+00:04:49,122 --> 00:04:50,589
+Se fue?
+
+50
+00:04:52,592 --> 00:04:53,889
+Sígueme.
+
+51
+00:05:07,340 --> 00:05:10,002
+Soy una princesa,
+Engañada para ser una esclava de bruja.
+
+52
+00:05:10,443 --> 00:05:11,967
+¿Me liberarías?
+
+53
+00:05:21,187 --> 00:05:24,714
+Es una cadena encantada.
+Seré libre cuando ella muera.
+
+54
+00:05:27,126 --> 00:05:28,150
+Lo siento.
+
+55
+00:05:28,261 --> 00:05:31,958
+Bueno, si no puedes liberarme,
+¿Qué quieres de mí?
+
+56
+00:05:50,316 --> 00:05:52,307
+De modo, que el científico estuvo equivocado-
+
+57
+00:05:53,720 --> 00:05:56,280
+El muro hizo exitosamente su trabajo
+
+58
+00:05:56,389 --> 00:06:00,655
+de esconder,
+El mágico reino de "StormHold"
+
+59
+00:06:00,760 --> 00:06:04,628
+El joven regresó esa noche
+a su hogar en Inglaterra,
+
+60
+00:06:04,731 --> 00:06:07,962
+Esperando que su aventura
+prontamente sería olvidado-
+
+61
+00:06:08,067 --> 00:06:13,027
+Pero 9 meses después,
+recibió un regalo inesperado
+
+62
+00:06:21,614 --> 00:06:26,677
+Esto fue dejado en el muro para ti.
+Dice que su nombre es Tristan.
+
+63
+00:06:51,277 --> 00:06:53,677
+Tristan? No olvides las flores.
+
+64
+00:06:53,780 --> 00:06:56,374
+Si. Las tengo. Gracias, Padre.
+
+65
+00:06:57,784 --> 00:07:02,187
+18 Años pasaron,
+el bebé Tristan creció
+
+66
+00:07:02,288 --> 00:07:05,621
+Sabiendo nada
+de su inconvencional herencia
+
+67
+00:07:07,126 --> 00:07:11,358
+No importa ahora,
+De como el infante se convirtió en niño
+
+68
+00:07:11,464 --> 00:07:15,764
+Esta es la historia de
+Como Tristan Thorn se convirtió en hombre,
+
+69
+00:07:16,636 --> 00:07:19,127
+Un reto más difícil aún
+
+70
+00:07:20,139 --> 00:07:22,437
+De conseguir,
+
+71
+00:07:22,542 --> 00:07:26,603
+El debe ganarse el corazón
+De su amor verdadero
+
+72
+00:07:29,315 --> 00:07:30,612
+-¡Es el!
+-¡Es el!
+
+73
+00:07:34,821 --> 00:07:35,788
+Humphrey?
+
+74
+00:07:35,788 --> 00:07:36,049
+Humphrey?
+
+75
+00:07:37,156 --> 00:07:39,647
+-No, es Tristan.
+-Oh.
+
+76
+00:07:41,127 --> 00:07:43,186
+¡Dejé algo en la tienda?
+
+77
+00:07:43,296 --> 00:07:45,730
+No. Yo sólo pensé que podría traer...
+
+78
+00:07:47,066 --> 00:07:49,193
+Tristan Thorn,
+
+79
+00:07:49,302 --> 00:07:52,203
+Muchacho de tienda de día, mirón de noche.
+
+80
+00:07:52,305 --> 00:07:54,569
+¿Acaso tus encantos no tienen fin?
+
+81
+00:07:55,575 --> 00:07:57,702
+Humphrey,
+No hay necesidad de ser así.
+
+82
+00:07:57,810 --> 00:07:59,744
+Se amable con el pobre chico.
+
+83
+00:08:01,047 --> 00:08:02,981
+¿Eran esos para Victoria?
+
+84
+00:08:17,230 --> 00:08:20,358
+Tú siempre fuiste un inútil en esgrima en la escuela, Tristan.
+
+85
+00:08:20,466 --> 00:08:23,799
+De hecho, no recuerdo bien
+Si fuiste bueno en algo.
+
+86
+00:08:23,903 --> 00:08:26,303
+Humphrey, suficiente.
+
+87
+00:08:30,977 --> 00:08:33,036
+¿Estas bien?
+
+88
+00:08:33,145 --> 00:08:34,373
+Si, si estoy bien.
+
+89
+00:08:57,503 --> 00:08:59,368
+¿Quieres desayuno?
+No, estoy algo tarde para el trabajo.
+
+90
+00:08:59,472 --> 00:09:03,203
+¿Te encuentras bien?
+-Si estoy bien, ¿Porqué?
+
+91
+00:09:03,309 --> 00:09:07,803
+Oh, No se.
+¿Cómo te fue ayer en la noche?
+
+92
+00:09:07,914 --> 00:09:11,315
+Oh, muy bien, de verdad muy bien.
+
+93
+00:09:26,566 --> 00:09:27,863
+Hola, Tristan.
+
+94
+00:09:27,967 --> 00:09:30,458
+-Victoria.
+Una Libra de azúcar, Por favor.
+
+95
+00:09:32,572 --> 00:09:36,599
+Si.
+Veamos, un saco de harina, una docena de huevos
+
+96
+00:09:36,709 --> 00:09:39,769
+Oh, Mira, Siento mucho lo de anoche.
+Humphrey fue muy grosero.
+
+97
+00:09:39,879 --> 00:09:43,474
+Necesito también una bolsa de papas
+y algo de chocolate, por favor.
+
+98
+00:09:47,253 --> 00:09:49,721
+¿Puedo verte esta noche?
+
+99
+00:09:51,190 --> 00:09:53,249
+No, pero puedes acompañarme a casa.
+
+100
+00:09:54,560 --> 00:09:55,652
+¿Ahora?
+
+101
+00:09:56,696 --> 00:09:58,323
+Si, si, yo puedo.
+
+102
+00:10:05,671 --> 00:10:07,502
+Padre, he perdido mi trabajo.
+
+103
+00:10:09,075 --> 00:10:11,873
+Padre, Yo no... Perdí mi trabajo. Lo siento.
+
+104
+00:10:11,978 --> 00:10:14,173
+Padre...
+¿Perdiste tu trabajo?
+
+105
+00:10:14,981 --> 00:10:16,539
+Si, lo he oído.
+
+106
+00:10:17,783 --> 00:10:19,683
+Padre, lo siento, yo...
+
+107
+00:10:20,720 --> 00:10:23,621
+Tal vez el Sr. Monday estaba en lo correcto.
+Quizás me estoy engañando a mí mismo.
+
+108
+00:10:23,723 --> 00:10:27,955
+Yo no soy lo suficiente bueno para Victoria¿.
+Dijo eso? Eso es mentira
+
+109
+00:10:28,060 --> 00:10:29,823
+¿Realmente quieres saber como me fue ayer?
+
+110
+00:10:29,929 --> 00:10:31,021
+Si.
+
+111
+00:10:31,931 --> 00:10:33,193
+Mal.
+
+112
+00:10:34,166 --> 00:10:36,691
+Vamos, estoy desperdiciando mi tiempo.
+
+113
+00:10:37,403 --> 00:10:39,234
+Yo no soy como Humhprey.
+
+114
+00:10:39,772 --> 00:10:44,709
+Tristan, Yo puedo decirte que cada hombre
+que yo haya envidiado de cuando era niño
+
+115
+00:10:45,444 --> 00:10:47,605
+Ha llevado una vida sin nada especial.
+
+116
+00:10:48,748 --> 00:10:53,344
+Entonces tú no encajas con el pueblo
+Entonces lo tomo como un buen augurio.
+
+117
+00:11:06,399 --> 00:11:09,129
+-Tristan, claramente dije...
+Lo se. Tú me dijiste que no viniera.
+
+118
+00:11:09,235 --> 00:11:11,829
+Tengo algo especial para ti, una sorpresa.
+
+119
+00:11:12,938 --> 00:11:14,030
+No...
+
+120
+00:11:28,320 --> 00:11:31,414
+Mi cumpleaños es hasta la próxima semana, sabías.
+
+121
+00:11:34,994 --> 00:11:38,327
+Nunca he tomado Champaña
+Si yo tampoco.
+
+122
+00:11:39,732 --> 00:11:42,098
+¡Dios mío, esto es delicioso!
+
+123
+00:11:43,869 --> 00:11:46,770
+¿Como..., un muchacho de tienda puede pagar todo esto?
+
+124
+00:11:46,872 --> 00:11:48,567
+No soy un muchacho de tienda.
+
+125
+00:11:49,508 --> 00:11:51,703
+Coño! He oído, lo siento
+¿Que vas a hacer ahora? 
+
+126
+00:11:51,811 --> 00:11:55,577
+No, quiero decir, no soy un muchacho de tienda.
+Solo trabajaba en una tienda.
+
+127
+00:11:55,681 --> 00:11:58,912
+Y ahora no.
+Ahora soy libre de vivir mi vida como me plazca.
+
+128
+00:11:59,018 --> 00:12:01,486
+Esto debió ser todos tus ahorros.
+
+129
+00:12:01,587 --> 00:12:04,613
+¿Y? Puedo hacer más.
+Es lo bueno de esto.
+
+130
+00:12:04,724 --> 00:12:06,316
+Yo nunca intenté quedarme en Wall,
+Victoria.
+
+131
+00:12:06,425 --> 00:12:09,758
+Hay un gran mundo allá afuera,
+Y voy a hacer mi fortuna.
+
+132
+00:12:09,862 --> 00:12:12,490
+Ahora suenas como Humphrey.
+El es viajero.
+
+133
+00:12:12,598 --> 00:12:16,830
+¿Sabías que el va a ir hasta Ipswich, solo para comprarme un anillo?
+
+134
+00:12:16,936 --> 00:12:18,369
+Ipswich?
+
+135
+00:12:18,471 --> 00:12:22,430
+Victoria, yo me refiero a Londres o París o...
+
+136
+00:12:22,541 --> 00:12:26,341
+¿Un anillo? ¿Porque el...
+¿Qué clase de anillo?
+
+137
+00:12:26,445 --> 00:12:29,312
+Lo que pasa es que el planea proponerme en mi cumpleaños.
+
+138
+00:12:29,448 --> 00:12:31,006
+El va...
+
+139
+00:12:32,351 --> 00:12:33,750
+Y tu vas a decir que si.
+
+140
+00:12:33,853 --> 00:12:37,380
+Tampoco puedo decir que no
+después de su viaje hasta Ipswich.
+
+141
+00:12:37,490 --> 00:12:39,583
+¿"De su viaje a Ipswich"?
+
+142
+00:12:39,692 --> 00:12:44,595
+Victoria, para pedir tu mano
+Yo cruzaría océanos o continentes.
+
+143
+00:12:45,431 --> 00:12:46,921
+¿De veras?
+Si.
+
+144
+00:12:47,032 --> 00:12:48,431
+Victoria, por pedir tu mano,
+
+145
+00:12:48,534 --> 00:12:51,901
+Iría a los campos de oro de San Francisco
+
+146
+00:12:52,004 --> 00:12:54,472
+Y traería tu peso en oro.
+
+147
+00:12:55,374 --> 00:12:56,602
+Lo haría.
+
+148
+00:12:57,543 --> 00:13:01,570
+Iría a Afrecha y traería un diamante tan grande como tu puño.
+
+149
+00:13:02,314 --> 00:13:05,181
+O iría al ártico y mataría un oso polar
+
+150
+00:13:05,284 --> 00:13:07,411
+y te traería su cabeza.
+
+151
+00:13:08,754 --> 00:13:10,483
+¿La cabeza de un  oso polar?
+
+152
+00:13:15,194 --> 00:13:17,025
+Eres raro, Tristan.
+
+153
+00:13:18,164 --> 00:13:22,066
+Personas como tú y personas como yo,
+no somos...
+
+154
+00:13:25,938 --> 00:13:27,405
+Ya me debería ir. Se está haciendo tarde.
+
+155
+00:13:27,506 --> 00:13:31,033
+Bueno, espera, al menos terminemos la champaña.
+
+156
+00:13:32,244 --> 00:13:33,336
+Okay.
+
+157
+00:13:37,783 --> 00:13:41,776
+Si Tristan supiera como las estrellas veían la tierra.
+
+158
+00:13:41,887 --> 00:13:43,684
+El se hubiera estremecido por la simple idea
+
+159
+00:13:43,789 --> 00:13:46,189
+de una audiencia a su humillación.
+
+160
+00:13:48,661 --> 00:13:50,356
+Pero, afortunadamente para el.
+
+161
+00:13:50,462 --> 00:13:53,431
+La mayoría de las estrellas en el cielo estaban en ese momento
+
+162
+00:13:53,532 --> 00:13:57,662
+Mirando con ansias a la tierra del otro lado del muro,
+
+163
+00:13:57,770 --> 00:14:01,331
+Donde el Rey de todo Stormhold, yacía en su lecho de muerte.
+
+164
+00:14:01,440 --> 00:14:05,342
+El cual era una coincidencia, porque el rey estaba en su último acto
+
+165
+00:14:05,444 --> 00:14:10,814
+que cambiaría el destino de Tristan para siempre.
+
+166
+00:14:13,085 --> 00:14:14,985
+¿Dónde está Secundus?
+
+167
+00:14:15,921 --> 00:14:17,980
+Ya viene, Padre.
+
+168
+00:14:18,090 --> 00:14:19,785
+Entonces esperemos.
+
+169
+00:14:29,268 --> 00:14:33,432
+Lo siento, Padre.
+Vine los más pronto que se me pudo.
+
+170
+00:14:38,344 --> 00:14:39,572
+Septimus.
+
+171
+00:14:40,012 --> 00:14:41,206
+Primus.
+
+172
+00:14:42,348 --> 00:14:43,542
+Tertius.
+
+173
+00:14:44,316 --> 00:14:48,685
+Vayamos al tema de discusión.
+
+174
+00:14:50,689 --> 00:14:55,592
+De mis 7 hijos,
+hay 4 que siguen parados,
+
+175
+00:14:55,694 --> 00:14:59,994
+Esto si rompe con la tradición
+Tuve 12 Hermanos.
+
+176
+00:15:00,099 --> 00:15:01,896
+Y tú los mataste a todos por el trono.
+
+177
+00:15:02,001 --> 00:15:05,027
+Antes de tu padre, el Rey, aún se sintió mal
+
+178
+00:15:05,771 --> 00:15:08,604
+Sabemos, Padre.
+Eres fuerte y valiente.
+
+179
+00:15:08,707 --> 00:15:12,575
+Y astuto, más importante, astuto.
+
+180
+00:15:13,879 --> 00:15:17,042
+-Secundus.
+-¿Si padre?
+
+181
+00:15:17,149 --> 00:15:21,449
+Mira por la ventana.
+Dime lo que ves.
+
+182
+00:15:28,294 --> 00:15:30,319
+Veo al reino, padre.
+
+183
+00:15:32,064 --> 00:15:33,759
+A todo Stormhold.
+
+184
+00:15:33,866 --> 00:15:37,563
+¿Y?
+¿Mi reino?
+
+185
+00:15:37,670 --> 00:15:40,070
+Tal vez, mira hacia arriba.
+
+186
+00:16:06,098 --> 00:16:11,695
+-Secundus.
+-Sextus. Quartus. Quintus.
+
+187
+00:16:12,905 --> 00:16:17,001
+Estas vivo, Tu estas...
+
+188
+00:16:17,109 --> 00:16:20,010
+Atorado así, hasta que el
+nuevo rey sea coronado.
+
+189
+00:16:20,779 --> 00:16:22,974
+Estuve así de cerca.
+
+190
+00:16:23,082 --> 00:16:25,346
+Bueno, por lo menos
+No perdiste tu apariencia.
+
+191
+00:16:25,451 --> 00:16:28,352
+Oh, por favor. ¿Todavía estas molesto por lo del asesinato?
+
+192
+00:16:28,454 --> 00:16:31,446
+Vamos, eso fue 10 años atrás.
+-Si
+
+193
+00:16:31,557 --> 00:16:33,457
+Fue muy bueno matarme, ¿verdad? ¿Secundus?
+
+194
+00:16:33,559 --> 00:16:36,824
+Porque ahora, obviamente eres el rey de todo Stormhold.
+
+195
+00:16:36,929 --> 00:16:39,796
+Oh, lo siento, espera. No, tu no. Tú estas muerto.
+
+196
+00:16:39,898 --> 00:16:43,061
+Una? Una?
+
+197
+00:16:43,168 --> 00:16:47,229
+No, Padre soy yo, tu hijo.
+
+198
+00:16:48,140 --> 00:16:49,368
+Tertius.
+
+199
+00:16:51,777 --> 00:16:54,507
+¿Dónde esta tu hermana, Una?
+
+200
+00:16:54,613 --> 00:16:57,912
+Lo siento, Padre.
+Nadie ha visto a Una por años.
+
+201
+00:16:58,017 --> 00:17:00,212
+-¿Septimus?
+¿Qué?
+
+202
+00:17:00,319 --> 00:17:05,814
+Tradición dicta que el trono debe
+pasarse a un heredero varón.
+
+203
+00:17:05,924 --> 00:17:08,051
+Exactamente Padre.
+
+204
+00:17:08,160 --> 00:17:10,890
+¿Porque mataría a mi hermana, cuando estos cretinos
+siguen vivos?
+
+205
+00:17:10,996 --> 00:17:12,156
+De verdad.
+
+206
+00:17:13,632 --> 00:17:19,502
+Así que debemos resolver la situación
+en una manera no-tradicional.
+
+207
+00:17:43,195 --> 00:17:48,565
+Solo él de sangre real
+puede restaurar el rubí.
+
+208
+00:17:48,667 --> 00:17:55,300
+Y ahora cualquiera de ustedes lo haga será el nuevo Rey de Stormhold.
+
+209
+00:18:45,924 --> 00:18:48,586
+Oh Tristan, una estrella fugaz
+
+210
+00:18:49,895 --> 00:18:51,192
+Bello.
+
+211
+00:18:54,399 --> 00:18:57,368
+¿Más extravagante que una sortija de Ipswich?
+
+212
+00:19:00,172 --> 00:19:04,973
+Victoria, por pedir tu mano,
+
+213
+00:19:05,077 --> 00:19:08,740
+Cruzaría el muro y te traería de vuelta la estrella.
+
+214
+00:19:09,014 --> 00:19:11,005
+Tú no puedes cruzar el muro.
+
+215
+00:19:11,383 --> 00:19:13,977
+Nadie cruza el muro.
+Ahora estas jugando.
+
+216
+00:19:14,086 --> 00:19:16,919
+No estoy jugando, lo haría.
+
+217
+00:19:18,690 --> 00:19:20,681
+Por ti, haría cualquier cosa.
+
+218
+00:19:21,627 --> 00:19:23,561
+Mi propia estrella.
+
+219
+00:19:27,266 --> 00:19:29,928
+Parece que tenemos un acuerdo.
+
+220
+00:19:30,903 --> 00:19:34,270
+Tienes exactamente una semana
+o me casaré con Humphrey.
+
+221
+00:20:46,445 --> 00:20:50,438
+Mormo! Empusa! Despierten. ¡Ahora!
+
+222
+00:20:51,483 --> 00:20:54,941
+-¿Qué es?
+-Una estrella a caído.
+
+223
+00:21:02,828 --> 00:21:04,591
+¿Dónde están las velas de Babilonia?
+
+224
+00:21:04,696 --> 00:21:09,395
+Usaste la última, Lamia,
+200 años atrás, ¿No te acuerdas?
+
+225
+00:21:09,501 --> 00:21:11,136
+Tal vez podemos obtener otra.
+
+226
+00:21:11,136 --> 00:21:11,761
+Quizás podemos obtener otra.
+
+227
+00:21:11,870 --> 00:21:15,306
+¿Es que tu mente se ha deteriorado como tu rostro, Empusa?
+
+228
+00:21:15,407 --> 00:21:18,171
+Tú hablas como si esas cosas
+son tan fácil de conseguir
+
+229
+00:21:18,277 --> 00:21:19,642
+Lo se, hermana, Solo pensé...
+
+230
+00:21:19,745 --> 00:21:21,269
+Nos tendrás buscando por una vela de Babilonia.
+
+231
+00:21:21,380 --> 00:21:24,144
+Mientras otras brujas encuentren nuestra estrella.
+
+232
+00:21:24,249 --> 00:21:26,843
+Estúpida, no hay tiempo que perder.
+
+233
+00:21:27,586 --> 00:21:30,384
+Si la tenemos que conseguir a pie,
+entonces lo haremos.
+
+234
+00:21:30,489 --> 00:21:32,582
+Mormo, necesitamos información.
+
+235
+00:21:41,833 --> 00:21:46,702
+Si las preediciones son correctas,
+la estrella esta a 100 millas de aquí.
+
+236
+00:21:49,841 --> 00:21:55,211
+4 siglos hemos esperado,
+¿Que sería esperar por unos cuantos días más?
+
+237
+00:21:55,314 --> 00:21:58,750
+Quién de nosotras irá, para encontrarla y traerla?
+
+238
+00:22:06,892 --> 00:22:08,723
+-Tengo su Riñón.
+Tengo su Hígado.
+
+239
+00:22:08,827 --> 00:22:10,522
+Y yo tengo su corazón.
+
+240
+00:22:13,131 --> 00:22:16,157
+Necesitarás lo que sobra de la última estrella.
+
+241
+00:22:23,141 --> 00:22:26,975
+-No queda mucho.
+Pronto habrá tanto para todas nosotras.
+
+242
+00:23:23,368 --> 00:23:27,998
+-Dunstan Thorn. No otra vez.
+-Es Tristan.
+
+243
+00:23:28,874 --> 00:23:32,833
+Oh, Te pareces a tu padre.
+
+244
+00:23:32,944 --> 00:23:36,402
+¿Y supongo que tu intentas cruzar el muro también, verdad?
+
+ 245
+00:23:36,515 --> 00:23:38,346
+Pues, olvídalo, vete a casa.
+
+246
+00:23:38,450 --> 00:23:40,611
+¿Cruzar el muro como quien?
+
+247
+00:23:41,453 --> 00:23:43,751
+Como nadie. Nadie
+
+248
+00:23:43,855 --> 00:23:46,323
+Nadie pasa el muro.
+Y lo sabe!
+
+249
+00:23:46,425 --> 00:23:48,689
+¡Todo el mundo sabe eso!
+
+250
+00:23:48,794 --> 00:23:52,321
+Si... No, no, Yo lo se.
+Entiendo, nadie.
+
+251
+00:23:54,132 --> 00:23:56,532
+Bueno, será mejor que regrese
+de vuelta,
+
+252
+00:23:56,635 --> 00:23:57,761
+Si.
+
+253
+00:23:57,869 --> 00:24:02,033
+-Muy bien, Buenas noches Tristan.
+Buenas Noches.
+
+254
+00:24:02,140 --> 00:24:04,233
+Mándame saludos a tu padre.
+
+255
+00:24:27,365 --> 00:24:28,730
+Te puedes ir.
+
+256
+00:24:34,739 --> 00:24:38,072
+Escuche que entraste.
+Hey, ¿Que paso? ¿Estas herido?
+
+257
+00:24:38,176 --> 00:24:39,404
+No, estoy bien.
+
+258
+00:24:39,511 --> 00:24:41,001
+-¿Ese Humphrey otra vez?
+-No.
+
+259
+00:24:41,112 --> 00:24:44,445
+Esta vez fue el guardia.
+El guardia del muro
+
+260
+00:24:45,350 --> 00:24:46,749
+Tristan, el tiene 97 años.
+
+261
+00:24:46,852 --> 00:24:50,982
+Bueno, eso le ha dado suficiente tiempo para practicar, no es así?
+
+262
+00:24:51,490 --> 00:24:54,653
+¿Porque, te puede preguntar, trataste de cruzar el muro?
+
+263
+00:24:56,928 --> 00:24:59,226
+Te puedo preguntar lo mismo?
+
+264
+00:25:48,980 --> 00:25:50,572
+Tengo una madre.
+
+265
+00:25:52,050 --> 00:25:54,985
+Quiero decir, Tengo una madre.
+Ella podría estar viva.
+
+266
+00:25:55,086 --> 00:25:58,021
+Oh, eso espero, ciertamente me gusta pensarlo así
+
+267
+00:26:01,960 --> 00:26:03,587
+La cadena que cortaste.
+
+268
+00:26:04,763 --> 00:26:06,094
+Justo como lo dijiste
+
+269
+00:26:06,197 --> 00:26:07,323
+Y...
+
+270
+00:26:10,468 --> 00:26:12,936
+Y la flor de vidrio.
+La flor que ella te vendió.
+
+271
+00:26:13,038 --> 00:26:15,029
+Ella me dijo que me traería suerte.
+
+272
+00:26:15,140 --> 00:26:16,437
+Gracias.
+
+273
+00:26:18,243 --> 00:26:21,406
+Esto estaba en la canasta.
+Nunca lo abrí
+
+274
+00:26:22,147 --> 00:26:23,978
+Esta dirigido a ti
+
+275
+00:26:40,298 --> 00:26:41,424
+sip.
+
+276
+00:26:41,533 --> 00:26:46,027
+"Mi querido Tristan, Quiero que sepas que quería lo mejor para ti."
+
+277
+00:26:47,472 --> 00:26:51,499
+Si mi Ama me lo hubiera permitido,
+Me hubiera quedado contigo de un siantamén.
+
+278
+00:26:52,844 --> 00:26:55,711
+Mi más preciado deseo que nos reuniremos algún día.
+
+279
+00:26:57,382 --> 00:27:00,249
+La manera más rápida de viajar es a través de vela.
+
+280
+00:27:01,653 --> 00:27:04,554
+Para usarlo, piensa en mí y solo en mí.
+
+281
+00:27:05,590 --> 00:27:09,424
+Pensaré en ti cada día, por siempre.
+
+282
+00:27:12,063 --> 00:27:13,530
+"Tu madre"
+
+283
+00:27:20,705 --> 00:27:22,332
+bueno, tienes... ¿Tienes un encendedor?
+
+284
+00:28:07,318 --> 00:28:08,683
+¿Madre?
+
+285
+00:28:08,787 --> 00:28:12,018
+Oh! Oh, Madre, Lo siento mucho,
+¿Estas bien?
+
+286
+00:28:12,123 --> 00:28:15,388
+No, yo no soy tu madre, ¡Aléjate de mí!
+
+287
+00:28:15,994 --> 00:28:18,588
+No eres... ¿No eres tu madre?
+
+288
+00:28:18,697 --> 00:28:20,995
+¿Parezco que soy tu madre?
+
+289
+00:28:22,367 --> 00:28:23,391
+No.
+
+290
+00:28:23,702 --> 00:28:24,862
+Perdón.
+
+291
+00:28:27,138 --> 00:28:28,867
+¿Estas bien?
+¿Necesitas ayuda?
+
+292
+00:28:28,973 --> 00:28:31,339
+Puedes ayudarme, dejándome ¡Sola!
+
+293
+00:28:32,610 --> 00:28:33,941
+OK.
+
+294
+00:28:41,186 --> 00:28:44,587
+Oh, Dios Mío. "Enciende la vela y piensa en mi"
+
+295
+00:28:44,689 --> 00:28:46,714
+Yo estaba. Estaba pensando en mí...
+
+296
+00:28:46,825 --> 00:28:49,555
+Pero de pronto me acorde de Victoria y la estrella...
+
+297
+00:28:53,498 --> 00:28:55,523
+Oh, discúlpeme señorita, lo siento.
+
+298
+00:28:55,633 --> 00:28:59,535
+Esto parece raro, pero
+¿Ha visto una estrella por aquí?
+
+299
+00:29:00,271 --> 00:29:02,136
+-Eres gracioso
+No, de veras, estamos en un cráter.
+
+300
+00:29:02,240 --> 00:29:04,333
+aquí debió ser donde cayó.
+
+301
+00:29:04,776 --> 00:29:06,403
+Si, es donde cayó.
+
+302
+00:29:06,511 --> 00:29:09,480
+Es aquí, o si quieres ser mas específico.
+
+303
+00:29:09,581 --> 00:29:11,913
+Allí arriba es donde este raro collar
+
+304
+00:29:12,016 --> 00:29:14,143
+Salió de la nada, y me tumbó del cielo
+
+305
+00:29:14,252 --> 00:29:16,083
+Cuando estaba con sus propios asuntos.
+
+306
+00:29:16,187 --> 00:29:18,087
+Y ahí fue donde cayó.
+
+307
+00:29:18,189 --> 00:29:23,957
+Y justo aquí, fue golpeado por un morón volador mágico.
+
+308
+00:29:27,132 --> 00:29:30,363
+¡Eres la estrella! ¿Tú eres la estrella? ¿De verdad?
+
+309
+00:29:31,035 --> 00:29:35,631
+OH, wow. Lo siento.
+No tenía la menor idea que tu serias una...
+
+310
+00:29:37,709 --> 00:29:40,473
+¿Debo decir de antemano que lo siento?
+
+311
+00:29:40,812 --> 00:29:42,905
+-¿Que lo sientes por que?
+Por esto.
+
+312
+00:29:43,014 --> 00:29:45,915
+Ahora si no me equivoco, esto quiere decir que tu
+tienes que venir conmigo.
+
+313
+00:29:46,017 --> 00:29:49,680
+Tu ves, es que tu vas a ser el regalo de cumpleaños para Victoria, mi verdadero amor.
+
+314
+00:29:49,788 --> 00:29:51,153
+¡Por supuesto!
+
+315
+00:29:51,256 --> 00:29:55,249
+¡Nada más romántico que regalar una secuestrada y herida mujer!
+
+316
+00:29:55,593 --> 00:29:57,891
+No iré a ningún lado contigo.
+
+317
+00:30:03,134 --> 00:30:06,035
+Date prisa. Deberías estar en camino, Primus.
+
+318
+00:30:07,806 --> 00:30:11,298
+Debes encontrar el collar real con
+el rubí antes que tus hermanos.
+
+319
+00:30:11,409 --> 00:30:15,812
+Me gustaría verte tomar el trono.
+El primer Rey benevolente.
+
+320
+00:30:16,481 --> 00:30:20,508
+No dudo que Stormhold será
+un lugar mejor bajo tu régimen.
+
+321
+00:30:20,618 --> 00:30:21,846
+¿Realmente?
+
+322
+00:30:21,953 --> 00:30:24,444
+Eso, es fascinante.
+
+323
+00:30:24,556 --> 00:30:26,683
+-No lo crees, ¿Tertius?
+Si, por supuesto.
+
+324
+00:30:26,791 --> 00:30:31,592
+Príncipe Septimus, Tertius, Bueno.. Bueno..
+Buenoo... Bueno... Yo...
+
+325
+00:30:32,030 --> 00:30:36,194
+Ya que están aquí,
+¿Porque no me acompañan en un brindis?
+
+326
+00:30:37,936 --> 00:30:39,563
+Que buena idea
+
+327
+00:30:39,671 --> 00:30:42,071
+Por el Nuevo Rey de Stormhold.
+
+328
+00:30:42,173 --> 00:30:45,404
+Cualquiera de ustedes será.
+
+329
+00:30:46,144 --> 00:30:48,339
+Por el Nuevo Rey de Stormhold.
+
+330
+00:31:29,687 --> 00:31:30,779
+¡Tu!
+
+331
+00:31:55,246 --> 00:31:57,874
+¿De verdad creíste que tu serías el Rey?
+
+332
+00:31:58,182 --> 00:32:00,582
+¿Mataste al Obispo?
+-No, Primus.
+
+333
+00:32:00,685 --> 00:32:05,520
+Creo que tu sabrás que tu mataste al obispo por beber la copa equivocado.
+
+334
+00:32:06,591 --> 00:32:08,525
+Oh mira, cuando termines de luchar
+con tu conciencia.
+
+335
+00:32:08,626 --> 00:32:11,356
+¿Puedo sugerir que regreses a tu recámara?
+
+336
+00:32:11,462 --> 00:32:13,862
+Deja la búsqueda de la piedra a mi.
+
+337
+00:32:21,139 --> 00:32:23,937
+¿Cómo hemos podido vivir de esta manera
+todos estos años?
+
+338
+00:32:36,921 --> 00:32:40,880
+En mi ausencia, espero que ustedes lo arreglen para las reinas
+que somos.
+
+339
+00:32:41,559 --> 00:32:46,861
+Cuando regreses con nuestro premio,
+Todas seremos jóvenes otra vez.
+
+340
+00:32:48,599 --> 00:32:50,692
+No teman, mis hermanas.
+
+341
+00:32:52,203 --> 00:32:53,795
+No fallaré.
+
+342
+00:33:04,248 --> 00:33:05,681
+¿Acaso nunca duermes?
+
+343
+00:33:05,783 --> 00:33:06,750
+No de noche.
+
+344
+00:33:07,218 --> 00:33:08,583
+Puede que se haya escapado de notar, genio.
+
+345
+00:33:08,686 --> 00:33:10,711
+Pero eso es cuando las estrellas tienen cosas mejores que hacer.
+
+346
+00:33:10,822 --> 00:33:13,120
+Ellas salen, brillan, ese tipo de cosas.
+
+347
+00:33:13,224 --> 00:33:16,455
+Si, puede que se les haya escapado,
+pero no estas en el cielo.
+
+348
+00:33:16,561 --> 00:33:18,529
+Salir esta fuera de la agenda.
+
+349
+00:33:18,629 --> 00:33:22,326
+Brillar está suspendido hasta próximo aviso.
+
+350
+00:33:22,433 --> 00:33:25,869
+Oh, y dormir durante el dia esta
+P-R-O-H-I-B-I-D-O.
+
+351
+00:33:26,604 --> 00:33:30,062
+A menos que tengas alguna habilidad mágica
+para dormir mientras caminas
+
+352
+00:33:30,174 --> 00:33:32,540
+Acaso no te has dado cuenta?
+
+353
+00:33:32,643 --> 00:33:34,634
+No voy a ningún lado
+
+354
+00:33:35,413 --> 00:33:36,539
+Bien.
+
+355
+00:33:37,115 --> 00:33:40,141
+Siéntate en el cráter.
+Ya tengo suficiente de ti.
+
+356
+00:33:40,518 --> 00:33:43,112
+Te iba a poner de vuelta al cielo,
+una vez que te llevara a Victoria.
+
+357
+00:33:43,221 --> 00:33:46,418
+Pero veo que prefieres sentarte
+en el medio de la nada para siempre.
+
+358
+00:33:46,524 --> 00:33:49,891
+¿Y como pretendías regresarme al cielo?
+
+359
+00:33:49,994 --> 00:33:53,259
+Descubrí que la forma más rápida de viajar
+es por vela.
+
+360
+00:33:53,698 --> 00:33:57,566
+Tienes una vela de Babilonia.
+Si, tengo una Vela Bobolona. 
+
+361
+00:33:57,668 --> 00:33:59,226
+-Una Vela Babilona
+Si eso fue lo que dije.
+
+362
+00:33:59,337 --> 00:34:00,326
+Dijiste Bobolona.
+
+363
+00:34:00,438 --> 00:34:02,838
+De todos modos te la iba a dar.
+
+364
+00:34:02,940 --> 00:34:05,272
+Bueno, solo le queda otro uso.
+
+365
+00:34:05,376 --> 00:34:09,870
+Así que se agradecida, que no lo este usando
+para volvamos al muro.
+
+366
+00:34:09,981 --> 00:34:13,348
+Si tienes otra manera de regresar.
+
+367
+00:34:15,987 --> 00:34:17,113
+¡Esta bien!
+
+368
+00:34:17,555 --> 00:34:19,216
+Ayúdame.
+
+369
+00:34:19,891 --> 00:34:22,291
+Esta bien, esta bien, estoy ayudando.
+
+370
+00:34:23,661 --> 00:34:25,253
+Tendrás que caminar más rápido que eso.
+
+371
+00:34:25,363 --> 00:34:28,127
+De otra forma, nunca llegaremos a Victoria en una semana.
+
+372
+00:34:28,232 --> 00:34:29,699
+No empujes tu suerte.
+
+373
+00:34:31,569 --> 00:34:35,437
+No cojas menos que un florín por el, ¡Bernard! ¿Entendiste?Don't take Iess than a florin for him,
+Bernard! You understand?
+
+374
+00:34:35,540 --> 00:34:37,667
+-Si Madre. ¡Sin beber!
+
+375
+00:34:37,775 --> 00:34:41,677
+¡Y no te atrevas a ir a la taberna,
+Bernard o te arrepentirás!
+
+376
+00:34:41,779 --> 00:34:43,906
+Un florín por tu cabra, chico.
+
+377
+00:34:46,818 --> 00:34:47,785
+Oh.
+
+378
+00:34:49,287 --> 00:34:51,755
+El es muy pequeño para jalar su carruaje.
+
+379
+00:34:53,624 --> 00:34:55,319
+Estas en lo cierto.
+
+380
+00:35:05,636 --> 00:35:07,365
+Eso esta mucho mejor.
+
+381
+00:35:12,043 --> 00:35:13,271
+Bernard!
+
+382
+00:35:15,113 --> 00:35:16,341
+Bernard!
+
+383
+00:35:38,569 --> 00:35:39,763
+¡Móntate!
+
+384
+00:36:15,973 --> 00:36:17,270
+¿Quién anda a.C.?
+
+385
+00:36:17,375 --> 00:36:19,366
+Que tu quieres de mi, una pobre y vieja flor...
+
+386
+00:36:19,477 --> 00:36:22,412
+Oh, cállate, se muy bien lo que eres.
+
+387
+00:36:22,513 --> 00:36:27,143
+Y juro por ordenes de la hermandad al cual pertenecemos
+
+388
+00:36:27,251 --> 00:36:29,719
+Que no deseo hacerte daño este día.
+
+389
+00:36:29,820 --> 00:36:31,811
+Deseo compartir tu comida.
+
+390
+00:36:32,256 --> 00:36:38,126
+Bueno, uno nunca puede ser muy precavido.
+Siéntate, Te daré un asiento.
+
+391
+00:36:47,071 --> 00:36:48,868
+-¿Nada más?
+-No.
+
+392
+00:36:52,476 --> 00:36:54,034
+¿Qué pasa?
+
+393
+00:36:54,679 --> 00:36:56,203
+¿Cara o sello?
+
+394
+00:36:56,881 --> 00:36:58,041
+Cara.
+
+395
+00:36:59,850 --> 00:37:01,579
+Y..., Extraño,
+
+396
+00:37:02,053 --> 00:37:05,045
+¿Hacia donde te diriges en este bello día?
+
+397
+00:37:05,156 --> 00:37:07,090
+Busco una estrella.
+
+398
+00:37:08,159 --> 00:37:09,956
+Cayó no muy lejos de aquí.
+
+399
+00:37:10,061 --> 00:37:12,291
+Y cuando la encuentre,
+Usaré mi cuchillo
+
+400
+00:37:12,396 --> 00:37:14,864
+Le cortaré y le sacaré el corazón
+cuando este aún viva.
+
+401
+00:37:14,966 --> 00:37:19,426
+Y la gloria de nuestra juventud será restaurada.
+
+402
+00:37:20,004 --> 00:37:21,403
+¿Una estrella?
+
+403
+00:37:22,573 --> 00:37:25,098
+Es la mejor noticia que es tenido en años.
+
+404
+00:37:25,209 --> 00:37:27,973
+Podría perder unos cuantos años.
+
+405
+00:37:28,079 --> 00:37:30,138
+Y donde es que dijiste que...
+
+406
+00:37:30,248 --> 00:37:31,772
+Limbus grass!
+
+407
+00:37:31,882 --> 00:37:37,218
+¿Te atreves a robarme la verdad de mis labios dándome de comer Limbus grass? (hierba Limbus)
+
+408
+00:37:37,321 --> 00:37:41,587
+¿Tienes alguna idea del error que has hecho Ditchwater sal?
+
+409
+00:37:42,693 --> 00:37:44,786
+¿Como sabes mi...?
+
+410
+00:37:44,895 --> 00:37:46,886
+-¿Quién eres?
+Echa otro vistazo.
+
+411
+00:37:49,433 --> 00:37:53,335
+No buscaré la estrella,
+Su oscura majestad, lo juro.
+
+412
+00:37:53,437 --> 00:37:55,098
+Busca todo lo que desees.
+
+413
+00:37:57,275 --> 00:38:00,733
+No veras, tocarás, olerás ni oirás la estrella.
+
+414
+00:38:01,779 --> 00:38:05,306
+No la sentirás ni siquiera cuando se te presente al frente.
+
+415
+00:38:12,290 --> 00:38:15,259
+Reza que nunca me vuelvas a ver,
+Ditchwater Sal.
+
+416
+00:38:15,893 --> 00:38:17,952
+Ok, dejame pensarlo bien.
+
+417
+00:38:18,062 --> 00:38:20,622
+Tu crees que vamos por el camino correcto porque...
+
+418
+00:38:20,731 --> 00:38:23,495
+Y yo digo, solo lo se
+
+419
+00:38:23,601 --> 00:38:25,296
+Lo se, creo, no se porque.
+
+420
+00:38:25,403 --> 00:38:28,065
+Pueda que sea el amor de victoria que me guía de vuelta a casa.
+
+421
+00:38:28,172 --> 00:38:29,730
+-Por favor.
+Yvonne, aunque te guste o no...
+
+422
+00:38:29,840 --> 00:38:32,468
+Yvaine! Mi nombre es Yvaine, así que...
+
+423
+00:38:32,576 --> 00:38:34,874
+¿Cuántas veces tengo que...
+
+424
+00:38:34,979 --> 00:38:37,743
+Podrías...
+¿Podrías caminar más despacio?
+
+425
+00:38:37,848 --> 00:38:39,110
+Si, Si.
+
+426
+00:38:41,052 --> 00:38:42,212
+Mira, estamos...
+Nos dirigimos al norte, ¿Verdad?
+
+427
+00:38:42,320 --> 00:38:43,582
+El muro es en el norte.
+
+428
+00:38:43,688 --> 00:38:46,851
+y si miras al cielo
+aún durante el dia, podrás ver el...
+
+429
+00:38:46,957 --> 00:38:48,652
+La estrella nocturna. Eso es muy raro.
+
+430
+00:38:48,759 --> 00:38:50,624
+Eso es gracioso, Chistoso.
+Mis lados se están dividiendo.
+
+431
+00:38:50,728 --> 00:38:52,320
+No, estoy siendo...
+
+432
+00:38:53,497 --> 00:38:56,694
+Espera... ¿Esa fuiste tu?
+
+433
+00:38:57,968 --> 00:38:59,731
+¿Qué... ¿Que tu...
+
+434
+00:38:59,837 --> 00:39:02,169
+-¿Que tu estas haciendo?
+¿Qué parece que estoy haciendo?
+
+435
+00:39:02,273 --> 00:39:04,434
+-Sentándome, estoy cansada.
+Por favor no hagas eso otra vez.
+
+436
+00:39:04,542 --> 00:39:07,010
+Hicimos un acuerdo de parar en el próximo
+pueblo, para comer y descansar.
+
+437
+00:39:07,111 --> 00:39:10,080
+Vamos, Tristan. Es mediodía.
+
+438
+00:39:10,681 --> 00:39:15,015
+¡Nunca me he quedado despierta tan tarde,
+Solo déjame dormir!
+
+439
+00:39:15,853 --> 00:39:20,347
+Esta bien... Mientras tu duermes iré a buscar algo de comer.
+
+440
+00:39:27,131 --> 00:39:28,325
+¿Qué estas haciendo?
+
+441
+00:39:28,432 --> 00:39:32,664
+¿Qué parece que hago?
+Me estoy asegurando de que no te vayas a escapar.
+
+442
+00:39:48,786 --> 00:39:53,189
+Su Alteza, el "Cuenta-Verdades",
+como usted pidió.
+
+443
+00:39:54,625 --> 00:39:56,217
+Sur, me dijo.
+
+444
+00:39:57,194 --> 00:39:58,684
+Sur fuimos.
+
+445
+00:40:00,131 --> 00:40:01,655
+Todavía no hay gema.
+
+446
+00:40:03,567 --> 00:40:05,694
+¿Y ahora nos propone que nademos?
+
+447
+00:40:05,803 --> 00:40:10,866
+Señor, yo meramente digo lo que las piedras me dicen.
+
+448
+00:40:10,975 --> 00:40:12,567
+No puede hacer mas.
+
+449
+00:40:13,844 --> 00:40:15,812
+Entonces, consúltelas otra vez.
+
+450
+00:40:16,247 --> 00:40:17,339
+Espera.
+
+451
+00:40:20,351 --> 00:40:24,344
+Antes de buscar la gema,
+tengo otra pregunta.
+
+452
+00:40:26,290 --> 00:40:28,087
+¿Soy el séptimo hijo?
+
+453
+00:40:32,630 --> 00:40:33,722
+Si.
+
+454
+00:40:33,831 --> 00:40:35,458
+Otra pregunta.
+
+455
+00:40:36,200 --> 00:40:38,828
+¿Es mi color favorito el azul?
+
+456
+00:40:42,540 --> 00:40:43,529
+Si.
+
+457
+00:40:43,641 --> 00:40:47,372
+¿Alguna vez los ruego y suplicas
+me han persuadido a...
+
+458
+00:40:47,478 --> 00:40:49,742
+perdonar la vida de un traidor?
+
+459
+00:40:53,050 --> 00:40:54,574
+¿Qué significa?
+
+460
+00:40:54,685 --> 00:40:57,245
+-Significa que no.
+Bien
+
+461
+00:40:58,222 --> 00:41:01,157
+Tírelas otra vez.
+Esta vez, tírelas altas.
+
+462
+00:41:05,229 --> 00:41:07,288
+¿Trabaja usted para mi hermano?
+
+463
+00:41:23,714 --> 00:41:26,740
+¿Entonces continuamos oeste?
+
+464
+00:41:57,214 --> 00:41:58,408
+¿Tristan?
+
+465
+00:42:07,424 --> 00:42:08,823
+¿Quién esta ahi?
+
+466
+00:42:16,300 --> 00:42:18,063
+Tristan, ¿Eres tu?
+
+467
+00:42:19,169 --> 00:42:20,659
+No es gracioso.
+
+468
+00:42:25,009 --> 00:42:26,237
+Tristan?
+
+469
+00:42:36,420 --> 00:42:37,648
+Vamos.
+
+470
+00:43:21,031 --> 00:43:23,625
+Ten cuidado cuanta magia usas, hermana.
+
+471
+00:43:23,734 --> 00:43:25,531
+Se está notando.
+
+472
+00:43:25,636 --> 00:43:28,969
+Una cabra y un pequeño encantamiento.
+Difícilmente extravagante.
+
+473
+00:43:29,073 --> 00:43:32,008
+Bueno, aún usando el anillo
+va a debilitarlo.
+
+474
+00:43:32,109 --> 00:43:34,441
+Mejor que nos llames en solo grave necesidad.
+
+475
+00:43:34,545 --> 00:43:37,844
+Y usa las runas para
+localizar la estrella.
+
+476
+00:43:37,948 --> 00:43:39,939
+Las he usado, y debería estar aquí.
+
+477
+00:43:40,050 --> 00:43:42,848
+Pero ahora
+sólo me dicen sandeces.
+
+478
+00:44:00,304 --> 00:44:03,102
+Es porque tienes que permanecer
+donde estas, hermana.
+
+479
+00:44:03,207 --> 00:44:04,435
+Ella va hacia ti.
+
+480
+00:44:04,541 --> 00:44:07,169
+Oh, ten cuidado, Lamia.
+Delicadeza es necesaria.
+
+481
+00:44:07,277 --> 00:44:11,304
+Miseria la ha agotado.
+Ella casi no brilla.
+
+482
+00:44:11,415 --> 00:44:16,148
+Usa una trampa para asegurar que su corazón
+brille antes de sacárselo.
+
+483
+00:44:16,987 --> 00:44:20,150
+Yvaine! Yvaine!
+
+484
+00:44:21,025 --> 00:44:22,515
+Oh, idiota.
+
+485
+00:44:44,281 --> 00:44:46,909
+Tu serás humano.
+
+486
+00:46:03,961 --> 00:46:08,159
+Eres Billy, el posadero, yo soy tu esposa
+y tu serás nuestra hija.
+
+487
+00:46:08,265 --> 00:46:12,725
+Ahora, preparen todo.
+Nuestra invitada llegará pronto.
+
+488
+00:46:23,647 --> 00:46:27,743
+Vamos, quién ha dicho que él va cumplir su palabra sobre la vela?
+
+489
+00:46:27,851 --> 00:46:31,514
+Me rehúso a creer
+que es solo una persona en Stormhold
+
+490
+00:46:31,622 --> 00:46:33,317
+Quién solo me ayudó.
+
+491
+00:46:33,423 --> 00:46:37,689
+Que sigue y sigue.
+Solo "Victoria esto" y "Victoria aquello".
+
+492
+00:46:40,097 --> 00:46:41,325
+Tristan?
+
+493
+00:46:42,766 --> 00:46:45,360
+Por favor protege a nuestra hermana,
+Tristan.
+
+494
+00:46:46,403 --> 00:46:49,236
+Yvaine está en grave peligro-
+
+495
+00:46:50,073 --> 00:46:52,371
+El unicornio vino a ayudarla
+
+496
+00:46:53,110 --> 00:46:55,601
+Pero se dirigen a una trampa.
+
+497
+00:46:59,616 --> 00:47:02,414
+Ninguna estrella es segura en Stormhold
+
+498
+00:47:03,353 --> 00:47:07,653
+La última cayó, 400 años atrás.
+
+499
+00:47:07,758 --> 00:47:13,094
+Fue capturada por las mismas brujas
+quienes buscan ahora Yvaine
+
+500
+00:47:14,298 --> 00:47:15,925
+La engañaron.
+
+501
+00:47:17,467 --> 00:47:18,957
+La cuidaron,
+
+502
+00:47:20,270 --> 00:47:23,899
+Y cuando su corazón brilló otra vez,
+
+503
+00:47:24,508 --> 00:47:27,875
+Se la cortaron y se la sacaron de su pecho.
+
+504
+00:47:28,946 --> 00:47:30,573
+Y se la comieron
+
+505
+00:47:33,150 --> 00:47:35,118
+No hay tiempo que perder
+
+506
+00:47:35,219 --> 00:47:36,948
+Un carruaje se acerca
+
+507
+00:47:37,054 --> 00:47:40,683
+Debes montarte en el.
+
+508
+00:47:41,325 --> 00:47:42,383
+Corre
+
+509
+00:48:13,323 --> 00:48:14,415
+Whoa!
+
+510
+00:48:22,900 --> 00:48:25,892
+Si Septimus insiste en enviar a un muchacho a hacer
+el trabajo de un hombre...
+
+511
+00:48:26,003 --> 00:48:26,992
+No, no, no, espere, por favor
+
+512
+00:48:27,104 --> 00:48:28,969
+No conozco a Septimus.
+Solo quiero que me lleves.
+
+513
+00:48:29,072 --> 00:48:31,870
+Míreme, Míreme,
+estoy desarmado, por favor.
+
+514
+00:48:32,309 --> 00:48:34,368
+Por favor, dejeme montar con usted.
+
+515
+00:48:34,478 --> 00:48:37,845
+Me temo que es imposible.
+Estoy en un viaje de suma importancia.
+
+516
+00:48:37,948 --> 00:48:39,848
+Bueno, tiene toda una razón para llevarme.
+
+517
+00:48:39,950 --> 00:48:43,442
+¿Puede que llegue el momento cuando se necesite un par de manos extras?
+
+518
+00:48:43,553 --> 00:48:47,182
+Por favor. Tal vez Providencia me envió como me envió usted a mi.
+
+519
+00:48:48,625 --> 00:48:51,321
+Súbete.
+Si gracias
+
+520
+00:49:16,420 --> 00:49:19,947
+Dios mío, querida,
+Entra y aléjate de esa espantosa lluvia.
+
+521
+00:49:20,390 --> 00:49:24,622
+Tenemos comida y bebidas, una cama
+caliente y mucha agua caliente para el baño.
+
+522
+00:49:43,714 --> 00:49:47,878
+Como te gusta el baño?
+tibia, caliente, temperatura de hirviendo para langosta?
+
+523
+00:49:48,819 --> 00:49:50,013
+Honestamente no se.
+
+524
+00:49:50,120 --> 00:49:51,519
+Pues, dejame escogerlo.
+
+525
+00:49:51,621 --> 00:49:54,818
+Y tendré a mi marido par que se encargue de tu caballo en el establo.
+
+526
+00:49:55,792 --> 00:49:56,918
+Billy?
+
+527
+00:50:07,804 --> 00:50:11,069
+Ahora deshagamonos de tu ropa mojada.
+
+528
+00:50:22,386 --> 00:50:23,853
+¿Te sientes mejor?
+
+529
+00:50:23,954 --> 00:50:25,683
+Mucho, Gracias.
+
+530
+00:50:26,089 --> 00:50:28,580
+El agua tibia me ha hecho un mundo de bien.
+
+531
+00:50:28,692 --> 00:50:31,661
+¿Ves?
+Los poderes de un buen baño caliente.
+
+532
+00:50:31,762 --> 00:50:34,196
+¿Y tu pierna? ¿Alguna mejora?
+
+533
+00:50:36,099 --> 00:50:37,930
+Eso es extraordinario.
+
+534
+00:50:38,435 --> 00:50:42,166
+Es lo menos que pude hacer.
+Me alegro que te sientas mejor.
+
+535
+00:50:42,272 --> 00:50:44,137
+Te ves feliz, también.
+
+536
+00:50:44,241 --> 00:50:47,540
+Me siento mejor, menos agitada.
+
+537
+00:50:48,779 --> 00:50:49,939
+Maravilloso.
+
+538
+00:50:50,347 --> 00:50:53,942
+Nada como una mojadita para calentar el corazón.
+
+539
+00:51:01,925 --> 00:51:05,258
+Ahora, yo soy una simple esposa de posadero,
+
+540
+00:51:05,362 --> 00:51:08,854
+Pero me han dicho,
+que tengo manos de sanadora.
+
+541
+00:51:10,000 --> 00:51:12,434
+Me encantaría de darte un masaje.
+
+542
+00:51:12,969 --> 00:51:14,459
+¿Qué es un masaje?
+
+543
+00:51:14,571 --> 00:51:17,802
+Nunca has tenido una..., bueno, bendito seas.
+
+544
+00:51:18,542 --> 00:51:22,672
+Nada como un masaje te enviará al mejor y más profundo descanso.
+
+545
+00:51:22,779 --> 00:51:24,246
+Tengo problemas durmiendo de noche.
+
+546
+00:51:24,347 --> 00:51:26,212
+Acuéstate, querida.
+
+547
+00:51:29,252 --> 00:51:31,220
+¿Porqué no cierras los ojos?
+
+548
+00:51:32,289 --> 00:51:34,655
+Te sentirás mejor de esa manera
+
+549
+00:51:49,039 --> 00:51:50,063
+Hola
+
+550
+00:51:52,175 --> 00:51:53,164
+¡Servicio!
+
+551
+00:51:53,276 --> 00:51:55,801
+Tal vez debemos seguir y probar la próxima posada.
+
+552
+00:51:55,912 --> 00:51:58,642
+Especialmente si esta gema esta como lar runas dicen.
+
+553
+00:51:58,748 --> 00:52:00,477
+Trataré una vez más.
+
+554
+00:52:05,021 --> 00:52:06,249
+Relájate mi amor,
+
+555
+00:52:06,356 --> 00:52:09,723
+Regresaré tan pronto me encargue de este cliente.
+
+556
+00:52:14,831 --> 00:52:17,265
+Por fin. Requerimos acomodación.
+
+557
+00:52:17,367 --> 00:52:20,700
+Por favor ayude a mi amigo
+lleve los caballos a los establos.
+
+558
+00:52:34,684 --> 00:52:35,810
+Hola
+
+559
+00:52:38,688 --> 00:52:39,655
+Oh.
+
+560
+00:52:56,439 --> 00:52:57,929
+Estoy acostumbrado a un mejor servicio.
+
+561
+00:52:58,041 --> 00:53:00,908
+Pero ahora estas despierta y eso es lo que cuenta.
+
+562
+00:53:01,778 --> 00:53:03,109
+Prepare su mejor pieza. (No soy chileno)
+
+563
+00:53:03,213 --> 00:53:04,271
+Ella tiene la gema.
+Gema, gema.
+
+564
+00:53:04,381 --> 00:53:08,545
+Le pido que no se moleste, Yo soy la dueña de esta posada.
+
+565
+00:53:08,652 --> 00:53:10,176
+¿Copa de Vino?
+
+566
+00:53:10,287 --> 00:53:11,481
+No, no, no, no, no.
+
+567
+00:53:12,389 --> 00:53:13,378
+No.
+
+568
+00:53:14,357 --> 00:53:18,384
+Hasta que mi hermano muera,
+Me restrinjo a beber solo mi vino.
+
+569
+00:53:20,530 --> 00:53:24,022
+Mi amigo no se molestaría por una gota.
+
+570
+00:53:26,336 --> 00:53:28,270
+Su mejor cuarto, tal vez.
+
+571
+00:53:29,873 --> 00:53:31,204
+Por supuesto.
+
+572
+00:53:38,415 --> 00:53:40,542
+Lo siento, creí...
+
+573
+00:53:41,117 --> 00:53:43,085
+¿Esta viajando solo?
+
+574
+00:53:44,588 --> 00:53:47,955
+Acabo de dejar mis cuatro caballos y mi carruaje.
+
+575
+00:53:48,058 --> 00:53:51,186
+Bueno digo que son míos.
+Pertenecieron a mi fallecido padre.
+
+576
+00:54:05,175 --> 00:54:06,403
+Gracias.
+
+577
+00:54:06,509 --> 00:54:10,809
+Es muy amable de su parte,
+mi nombre es Tristan, ¿Cuál es el suyo?
+
+578
+00:54:10,914 --> 00:54:12,142
+Bernard.
+
+579
+00:54:19,956 --> 00:54:23,084
+No hubo ni caballo ni bestia que pudiera domesticar.
+
+580
+00:54:23,193 --> 00:54:25,923
+Tanto que en su juventud, cabalgó un camello.
+
+581
+00:54:26,029 --> 00:54:27,394
+Lo cual fue gracioso.
+
+582
+00:54:27,497 --> 00:54:29,590
+Cuando murió,
+el carruaje vino a mi.
+
+583
+00:54:29,699 --> 00:54:30,723
+Ella tiene la gema.
+
+584
+00:54:30,834 --> 00:54:31,823
+¡Ella la tiene!
+¡Ella la tiene!
+
+585
+00:54:31,935 --> 00:54:35,200
+Y dicen que es la más grande de Stormhold
+
+586
+00:54:35,305 --> 00:54:38,069
+Que bonito de tu parte, si me excusa.
+
+587
+00:54:38,174 --> 00:54:39,266
+Espere.
+
+588
+00:54:39,976 --> 00:54:41,967
+La gema que usas, no puede ser.
+
+589
+00:54:42,078 --> 00:54:43,670
+Oh, al fin.
+Si bien hecho, si señor.
+
+590
+00:54:43,780 --> 00:54:44,747
+-Bien hecho.
+Que bien
+
+591
+00:54:44,848 --> 00:54:45,837
+Ven jaca, déjame verla.
+
+592
+00:54:58,895 --> 00:55:00,886
+Usted no sabe la idea con quién se esta metiendo.
+
+593
+00:55:00,997 --> 00:55:06,799
+¡Yo soy Primus, el primogénito de Stormhold y demando
+que me la traiga a mi!
+
+594
+00:55:06,903 --> 00:55:08,393
+¡Tráigame la gema! ahora.
+
+595
+00:55:08,505 --> 00:55:11,633
+Príncipe Primus, no toque nada que le den, ellos trataron de...
+
+596
+00:55:27,691 --> 00:55:29,921
+-¿Está bien?
+-Billy!
+
+597
+00:55:32,095 --> 00:55:33,221
+¡A el!
+
+598
+00:56:11,835 --> 00:56:14,235
+El chamuscante corazón dorado de una estrella en paz
+
+599
+00:56:14,337 --> 00:56:17,363
+es muchísimo mejor que tu asustado pequeño corazón.
+
+600
+00:56:17,474 --> 00:56:21,410
+Peor aún, mejor que ningún corazón.
+
+601
+00:56:23,413 --> 00:56:26,109
+¿Yvaine?
+Abrázame fuerte y piensa en casa.
+
+602
+00:56:34,290 --> 00:56:36,952
+¡No!
+
+603
+00:56:55,412 --> 00:56:59,815
+¿Que carajos hiciste?
+¿Qué hice? ¿Que tu hiciste?
+
+604
+00:56:59,916 --> 00:57:02,817
+"Piensa en casa" Eso fue un estupendo plan
+
+605
+00:57:02,919 --> 00:57:04,978
+Tu pensaste en tu hogar y yo pensé en el mío.
+
+606
+00:57:05,088 --> 00:57:06,953
+¡Y ahora estamos entremedio de ambos!
+
+607
+00:57:07,056 --> 00:57:10,116
+Oh, tu vaca estúpida.
+¿Para que pensaste en tu hogar?
+
+608
+00:57:10,226 --> 00:57:11,659
+¡Tu solo dijiste casa!
+
+609
+00:57:11,761 --> 00:57:15,094
+¡Si hubieses querido que pensara en tu hogar, me lo hubieras dicho!
+
+610
+00:57:15,198 --> 00:57:17,632
+Una vieja loca iba a sacarte el corazón.
+
+611
+00:57:17,734 --> 00:57:19,463
+¿Y tu querías instrucciones más específicas?
+
+612
+00:57:19,569 --> 00:57:22,970
+¡Tal vez lo hubieras preferido escrito, o un diagrama!
+
+613
+00:57:31,347 --> 00:57:35,147
+Mire, Capitán Shakespeare, hemos capturado un bono.
+
+614
+00:57:35,752 --> 00:57:38,050
+Una pareja de cazadores de rayos.
+
+615
+00:57:41,925 --> 00:57:44,985
+No parecen cazadores de rayos
+
+616
+00:57:45,094 --> 00:57:48,188
+¿Quién más estuviese en el medio de una tormenta?
+
+617
+00:57:48,298 --> 00:57:51,495
+"¿Quién más estuviese en el  medio de una tormenta?"
+
+618
+00:57:51,634 --> 00:57:53,363
+Bueno, pensemos.
+
+619
+00:57:53,470 --> 00:57:56,735
+Tal vez por una razón inexplicable somos.
+
+620
+00:57:57,474 --> 00:57:59,032
+Ahora ¿Quienes son ustedes?
+
+621
+00:58:00,910 --> 00:58:04,141
+¡Veremos si nuestro bello calabozo les sueltan los labios!
+
+622
+00:58:04,247 --> 00:58:07,182
+-¡A los calabozos!
+¡Ya escucharon al hombre, vamos!
+
+623
+00:58:07,283 --> 00:58:12,050
+¿Llévenlos a los calabozos el resto a trabajar!
+
+624
+00:58:12,155 --> 00:58:14,749
+Tenemos rayos que atrapar, vamos
+
+625
+00:58:38,748 --> 00:58:42,514
+¿Nos van a matar?, no se.
+
+626
+00:58:45,188 --> 00:58:48,055
+Sabes, es gracioso, solía ver...
+
+627
+00:58:49,459 --> 00:58:52,189
+Ver personas teniendo aventuras.
+
+628
+00:58:54,297 --> 00:58:55,787
+Los envidiaba
+
+629
+00:58:57,300 --> 00:59:00,269
+¿Haz escuchado la expresión, "Ten cuidado con lo que desees"?
+
+630
+00:59:00,370 --> 00:59:03,066
+¿Qué, entonces terminar con mi corazón sacado, es como tiene que ser?
+
+631
+00:59:03,172 --> 00:59:06,198
+No, no no quise...
+No me refería así.
+
+632
+00:59:08,211 --> 00:59:10,338
+Mira, admiro tus sueños.
+
+633
+00:59:11,748 --> 00:59:13,716
+Un muchacho de tienda como yo.
+
+634
+00:59:13,816 --> 00:59:15,716
+Nunca hubiera imaginado una aventura como esta.
+
+635
+00:59:15,818 --> 00:59:18,082
+por ser parte de mi deseo
+
+636
+00:59:18,454 --> 00:59:21,389
+Pensé en encontrar un poco de trozo de piedra celestial.
+
+637
+00:59:21,491 --> 00:59:24,085
+Y llevarla a casa, y sería así.
+
+638
+00:59:24,193 --> 00:59:25,524
+Y no se que pasó.
+
+639
+00:59:33,836 --> 00:59:37,863
+Si hay algo que aprendí todos estos años
+observando la tierra.
+
+640
+00:59:37,974 --> 00:59:40,772
+es que las personas no
+son lo que aparentan.
+
+641
+00:59:41,511 --> 00:59:42,535
+Hay chicos de tienda
+
+642
+00:59:42,645 --> 00:59:46,911
+Y hay chicos que terminan trabajando en tiendas.
+
+643
+00:59:47,016 --> 00:59:51,009
+Y créeme que tu no eres un chico de tienda.
+
+644
+00:59:53,256 --> 00:59:55,918
+Me salvaste la vida, gracias.
+
+645
+01:00:00,897 --> 01:00:02,489
+Bueno, bueno, bueno.
+
+646
+01:00:03,132 --> 01:00:04,963
+El último hermano ha muerto.
+
+647
+01:00:06,703 --> 01:00:08,728
+Eso significa que soy el Rey.
+
+648
+01:00:12,809 --> 01:00:14,037
+¡Soy el Rey!
+
+649
+01:00:17,013 --> 01:00:18,605
+Todavía no, hermano.
+
+650
+01:00:19,882 --> 01:00:22,077
+Mierda, todavía necesito la gema.
+
+651
+01:00:23,319 --> 01:00:27,085
+¿Su hermano no la tiene?
+Bueno ¿Porque no la busca?
+
+652
+01:00:37,333 --> 01:00:38,960
+¿Dónde está mi gema?
+
+653
+01:00:39,068 --> 01:00:40,797
+Yo no...
+
+654
+01:00:40,903 --> 01:00:43,804
+El caballero, digo su hermano...
+Le escuché hablar sobre la gema.
+
+655
+01:00:43,906 --> 01:00:46,807
+Si. La muchacha la tiene, ella la tiene.
+
+656
+01:00:46,909 --> 01:00:48,809
+-¿Qué chica?
+Yo no se.
+
+657
+01:00:48,911 --> 01:00:51,607
+Una muchacha, ella escapó.
+Porque la trampa era para ella.
+
+658
+01:00:51,714 --> 01:00:54,774
+Pero su hermano cayó en ella.
+
+659
+01:00:54,884 --> 01:00:57,148
+¿Una trampa? ¿De quién?
+
+660
+01:00:57,453 --> 01:00:59,353
+Una mujer que debería rezar para nunca conocerla.
+
+661
+01:00:59,455 --> 01:01:00,649
+Ella...
+
+662
+01:01:01,624 --> 01:01:04,491
+Ella se fue.
+Ella tomó el carruaje de su hermano.
+
+663
+01:01:04,594 --> 01:01:06,687
+¿Esta mujer quería mi gema?
+
+664
+01:01:06,796 --> 01:01:09,196
+No, ella quería el corazón de la muchacha.
+
+665
+01:01:09,298 --> 01:01:13,598
+Ella dijo que ella era un estrella y quería sacárselo y...
+
+666
+01:01:16,239 --> 01:01:17,433
+¿Comérselo?
+
+667
+01:01:19,208 --> 01:01:20,573
+OH, Dios mío.
+
+668
+01:01:22,145 --> 01:01:24,705
+¿Acaso tienes una remota idea de que esto significa?
+
+669
+01:01:26,015 --> 01:01:27,642
+Vida eterna.
+
+670
+01:01:29,018 --> 01:01:31,009
+Rey para siempre.
+
+671
+01:01:35,158 --> 01:01:36,716
+No está aquí, señor.
+
+672
+01:01:36,826 --> 01:01:38,919
+Este idiota viene con nosotros.
+
+673
+01:02:03,352 --> 01:02:05,411
+Pregunten otra vez.
+Ya preguntamos otra vez
+
+674
+01:02:05,521 --> 01:02:07,819
+Y la respuesta es la misma. ¡Ella está en el aire!
+
+675
+01:02:07,924 --> 01:02:09,221
+Bueno. No puede quedarse así para siempre.
+
+676
+01:02:09,325 --> 01:02:11,293
+Infórmenme tan pronto ella toque el suelo
+
+677
+01:02:11,394 --> 01:02:13,294
+¡Inmediatamente! ¿Entendido?
+
+678
+01:02:13,396 --> 01:02:16,957
+¡Cuida tu lengua, hermana!
+Fuiste tu quien la perdió.
+
+679
+01:02:17,066 --> 01:02:18,931
+¡La perdiste y rompiste el cuchillo!
+
+680
+01:02:19,035 --> 01:02:22,004
+Aún si la atrapases ¿Cómo pretendes terminar el acto?
+
+681
+01:02:22,105 --> 01:02:25,472
+Tal vez deberías regresar y una de nosotras tomará tu lugar.
+
+682
+01:02:25,575 --> 01:02:26,769
+No seas absurda.
+
+683
+01:02:26,876 --> 01:02:29,743
+La traeré a nuestro hogar y lidiaremos allá.
+
+684
+01:02:29,846 --> 01:02:32,713
+Preparen todo para nuestra llegada.
+
+685
+01:02:39,555 --> 01:02:41,682
+Cuéntame sobre Victoria.
+
+686
+01:02:45,328 --> 01:02:46,955
+Bueno, ella...
+
+687
+01:02:50,533 --> 01:02:53,127
+No hay más nada que decir.
+
+688
+01:02:53,236 --> 01:02:58,765
+Bueno lo poquito que sé del amor es que es incondicional.
+
+689
+01:02:59,509 --> 01:03:01,909
+No es algo que compras.
+
+690
+01:03:02,011 --> 01:03:04,878
+Espera, no trato de comprar su amor.
+
+691
+01:03:06,979 --> 01:03:09,743
+Esto era una forma de probar mi amor.
+
+692
+01:03:12,518 --> 01:03:15,487
+¿Y que ella esta haciendo para probar su amor?
+
+693
+01:03:15,587 --> 01:03:16,747
+Bueno..
+
+694
+01:03:21,160 --> 01:03:24,960
+Mira, Yvaine, la entenderás cuando la conozcas.
+
+695
+01:03:25,464 --> 01:03:28,524
+A menos que estos piratas nos maten primero.
+
+696
+01:03:29,568 --> 01:03:34,665
+Asesinados por piratas, Corazón sacado y comido, conocer a Victoria.
+
+697
+01:03:34,773 --> 01:03:37,571
+No puede decidir cual es más divertido.
+
+698
+01:03:40,112 --> 01:03:42,342
+Hemos localizado una nave.
+
+699
+01:03:42,448 --> 01:03:45,042
+Se dirige norte
+al pueblo puerto en Monte Drummond.
+
+700
+01:03:45,150 --> 01:03:48,483
+Y ya no eres la única que busca la estrella.
+
+701
+01:03:48,587 --> 01:03:50,555
+¡Hay alguien que sigue tu rastro!
+
+702
+01:03:50,656 --> 01:03:52,749
+¿Bruja, hechicero?
+
+703
+01:03:52,858 --> 01:03:55,986
+Un príncipe y te esta alcanzando, muévete.
+
+704
+01:04:23,489 --> 01:04:29,792
+Así, que esta es la parte donde me dicen
+quienes son y que hacen aquí arriba.
+
+705
+01:04:30,596 --> 01:04:35,829
+O le partiré cada dedito como si fueran ramas secas.
+
+706
+01:04:38,137 --> 01:04:40,162
+Mi nombre es Tristan Thorn.
+
+707
+01:04:40,472 --> 01:04:42,997
+Esta es mi esposa, Yvaine.
+-¿Su esposa?
+
+708
+01:04:43,675 --> 01:04:47,372
+¡Demasiada joven y radiante para pertenecer
+solo a un hombre!
+
+709
+01:04:47,746 --> 01:04:51,614
+Es compartiendo y compartiendo como en mi nave muchachito
+
+710
+01:04:53,152 --> 01:04:54,141
+Si la tocas te...
+
+711
+01:04:54,253 --> 01:04:56,949
+Puedas que estés pensando que mostrando un poco de valor en frente
+de tu amiga,
+
+712
+01:04:57,056 --> 01:04:59,889
+pero si me vuelves a hablar para atrás, le daré tu lengua a los perros!
+
+713
+01:04:59,992 --> 01:05:02,051
+¡Impertinente cachorrito!
+
+714
+01:05:02,961 --> 01:05:05,828
+¿Señor?
+¡Mejor! Pero todavía interrumpiendo.
+
+715
+01:05:05,931 --> 01:05:09,765
+Veamos.
+Una colgada es buena par la moral
+
+716
+01:05:09,868 --> 01:05:12,359
+Tal vez veamos tu baile de la horca.
+
+717
+01:05:14,440 --> 01:05:18,399
+O tal vez te lancemos por el lado
+
+718
+01:05:19,144 --> 01:05:21,044
+Y es un camino largo hacia abajo.
+
+719
+01:05:21,146 --> 01:05:24,547
+Mucho tiempo para recordar sus penosas vidas.
+
+720
+01:05:24,650 --> 01:05:27,585
+Por favor, mire, solo tratamos de llegar a casa,
+
+721
+01:05:27,686 --> 01:05:29,017
+Regresar a un lugar llamado Wall, donde pertenezco.
+
+722
+01:05:29,121 --> 01:05:30,645
+¿Qué dijiste?
+
+723
+01:05:30,756 --> 01:05:32,849
+Dije que tratamos de llegar a casa.
+
+724
+01:05:32,958 --> 01:05:34,858
+Eso es una mentira.
+
+725
+01:05:34,960 --> 01:05:35,927
+-¿Wall?
+-Cállate.
+
+726
+01:05:36,028 --> 01:05:36,995
+¿Qué esta diciendo?
+
+727
+01:05:37,096 --> 01:05:39,997
+¿Creías que podías subir a mi nave así por así?
+
+728
+01:05:40,099 --> 01:05:41,532
+El va...
+¿Y vivir para contarlo?
+
+729
+01:05:41,633 --> 01:05:44,124
+¡Esta bien, a la cubierta, a la cubierta ahora, vamos, vamos!
+
+730
+01:05:44,236 --> 01:05:48,673
+Error grande, Sr.Thorn.
+Y la última que va hacer.
+
+731
+01:05:55,948 --> 01:05:58,815
+-No! No! Bruto!
+-Vamos Vamos...!
+
+732
+01:05:58,917 --> 01:06:02,045
+-¡Asesino, cerdo!
+-¡Vamos, vamos levántate!
+
+733
+01:06:03,489 --> 01:06:05,753
+Me llevo a la muchacha a mi cabina,
+Y recuerden mis palabras.
+
+734
+01:06:05,858 --> 01:06:07,587
+Quien me moleste en las próximas horas.
+
+735
+01:06:07,693 --> 01:06:09,558
+Tendrá el mismo trato ¿Qué? Tu...
+
+736
+01:06:09,661 --> 01:06:12,289
+No, idiota.
+Te tiraré por el lado también.
+
+737
+01:06:12,397 --> 01:06:13,659
+Oh, si.
+
+738
+01:06:17,557 --> 01:06:19,923
+el capitán esta ocupado, ustedes también.
+
+739
+01:06:21,561 --> 01:06:23,324
+¡Entre, joven!
+
+740
+01:06:29,402 --> 01:06:32,030
+Así, esto fue bien. creo.
+
+741
+01:06:32,872 --> 01:06:37,138
+Ahora, díganme noticias sobre mi querida Inglaterra.
+
+742
+01:06:37,243 --> 01:06:39,837
+Quiero escuchar todo.
+
+743
+01:06:41,147 --> 01:06:44,139
+Espere.
+No puedo creer que su tripulación se lo creyó todo.
+
+744
+01:06:44,250 --> 01:06:46,684
+¿Y de dónde carajos sacó ese maniquí?
+
+745
+01:06:46,786 --> 01:06:48,481
+Oh, siempre funciona.
+
+746
+01:06:48,588 --> 01:06:50,818
+Una onza de trato, y una pinta de trucos,
+
+747
+01:06:50,924 --> 01:06:53,449
+¡Y un cucharón de intimidación, et voilà!
+
+748
+01:06:53,560 --> 01:06:55,653
+La perfecta receta
+para construir una reputación.
+
+749
+01:06:55,762 --> 01:06:58,230
+Sin tener que derramar ni una sola
+gota de sangre.
+
+750
+01:06:58,331 --> 01:07:01,732
+¿Han tratado de remover sangre de una camisa de seda? Pesadilla.
+
+751
+01:07:01,835 --> 01:07:05,293
+Correcto, Pero todavía no entiendo como no me van a reconocer.
+
+752
+01:07:05,405 --> 01:07:06,394
+Tristan, querido, cuando termine
+
+753
+01:07:06,506 --> 01:07:07,473
+Ni tu propia madre te reconocerá.
+
+754
+01:07:07,574 --> 01:07:08,563
+Ahora, no tenemos tiempo que perder.
+
+755
+01:07:08,675 --> 01:07:10,540
+Solo tenemos dos horas antes hagamos puerto.
+
+756
+01:07:10,643 --> 01:07:12,338
+Primero y más importante...
+
+757
+01:07:16,015 --> 01:07:19,610
+Sería estupendo que se deshicieran de esas aburridas ropas.
+
+758
+01:07:19,719 --> 01:07:22,984
+Que vestimenta tan pueblerina.
+
+759
+01:07:24,724 --> 01:07:26,919
+Esto, très you!!. 
+
+760
+01:07:27,560 --> 01:07:30,222
+Lo usaba cuando era joven. Odio tirar cosas.
+
+761
+01:07:30,330 --> 01:07:31,922
+Sabes que volverá otra vez de moda.
+
+762
+01:07:32,031 --> 01:07:33,931
+Se ve a la moda.
+
+763
+01:07:34,033 --> 01:07:35,432
+Ahora tu cariño.
+
+764
+01:07:35,535 --> 01:07:37,230
+Tengo bellos vestidos, escoge cualquiera.
+
+765
+01:07:37,337 --> 01:07:38,804
+Oh no estoy bien.
+
+766
+01:07:38,905 --> 01:07:41,271
+Cariño, estas usando una bata
+
+767
+01:07:43,243 --> 01:07:46,906
+Ahora, Inglaterra, Inglaterra.
+Quiero escucharlo todo.
+
+768
+01:07:47,647 --> 01:07:49,842
+-Usted no es de Inglaterra.
+Oh, no tristemente, no.
+
+769
+01:07:49,949 --> 01:07:52,247
+Pero en mi juventud me contaban historias.
+
+770
+01:07:52,352 --> 01:07:54,081
+La gente me decía que era más que folklore.
+
+771
+01:07:54,187 --> 01:07:56,678
+Pero mi corazón me decía que era verdad.
+
+772
+01:07:56,790 --> 01:07:58,985
+De niño, me escapaba de mi padre al mercado.
+
+773
+01:07:59,092 --> 01:08:01,959
+Mientras que hacia sus quehaceres, solo para dar un vistazo al muro.
+
+774
+01:08:02,061 --> 01:08:05,053
+Soñando que tal vez un dia pasaría y vería Inglaterra por mí mismo.
+
+775
+01:08:05,165 --> 01:08:07,565
+¿De veras? Estabas viendo por allá.
+
+776
+01:08:07,667 --> 01:08:08,895
+Oh, si,
+
+777
+01:08:10,436 --> 01:08:12,802
+Cabello.
+¿Cabello?
+
+778
+01:08:14,007 --> 01:08:16,305
+Si me dejas, hice lo mejor.
+
+779
+01:08:16,409 --> 01:08:18,673
+Traté de hacer mi padre, Capitán Ghostmaker, orgulloso.
+
+780
+01:08:18,778 --> 01:08:21,178
+Forjé una decente reputación de un despiadado morador
+
+781
+01:08:21,281 --> 01:08:23,249
+Y asesino de sangre fría.
+
+782
+01:08:23,650 --> 01:08:25,379
+Pero mi padre murió.
+
+783
+01:08:26,186 --> 01:08:28,381
+Y le prometí que
+seguiría con el negocio de la familia.
+
+784
+01:08:28,488 --> 01:08:30,456
+Manteniendo a la vieja volando.
+
+785
+01:08:31,491 --> 01:08:33,391
+No tienen idea de la luz que traen a mi corazón
+
+786
+01:08:33,493 --> 01:08:36,519
+Poder confiar a gente tan encantadora como ustedes.
+
+787
+01:08:36,629 --> 01:08:38,961
+La presión de mantener toda la persona de "Capitán Shakespeare".
+
+788
+01:08:39,065 --> 01:08:41,056
+Por el bien de la tripulación, no se.
+
+789
+01:08:41,167 --> 01:08:42,691
+a veces...
+
+790
+01:08:42,802 --> 01:08:45,771
+Ven, soy bastante de mi propia creación.
+
+791
+01:08:45,872 --> 01:08:48,739
+Escogí el nombre especialmente,
+Me tomo años.
+
+792
+01:08:48,842 --> 01:08:50,935
+Estoy pensando Legendario escritor británico.
+
+793
+01:08:51,044 --> 01:08:54,070
+Mis enemigos y tripulación, piensan "Shake" Spear".
+
+794
+01:08:54,714 --> 01:08:56,875
+Cosas como esas me hacen feliz.
+
+795
+01:08:57,217 --> 01:08:59,276
+No entiendo eso.
+
+796
+01:08:59,385 --> 01:09:02,183
+Seguramente serías más feliz siendo como realmente eres.
+
+797
+01:09:02,288 --> 01:09:05,587
+¿Porqué pelear para ser aceptado por personas que en realidad no te quieres parecer?
+
+798
+01:09:05,692 --> 01:09:08,718
+Si.
+¿Porque alguien haría algo así?
+
+799
+01:09:10,029 --> 01:09:11,257
+Exactamente.
+
+800
+01:09:14,367 --> 01:09:18,201
+Puerto a la vista, preparen los barriles de rayos.
+
+801
+01:09:31,985 --> 01:09:33,247
+Apúrense.
+
+802
+01:09:42,295 --> 01:09:45,196
+Si. No se ven frescos.
+Seré honestos
+
+803
+01:09:45,298 --> 01:09:47,323
+¿Te debería dar una muestrita Ferdinand?
+
+804
+01:09:47,433 --> 01:09:49,196
+No, no. Oh, ahi va.
+
+805
+01:09:51,804 --> 01:09:53,533
+Brillante, Como si fueran baratos.
+
+806
+01:09:53,640 --> 01:09:57,576
+Creo que todavía está crujiendo, muy vivos, todavía muy frescos. 
+
+807
+01:09:57,877 --> 01:10:00,471
+Así, Dame tu mejor precio.
+Por 10,000 rayos?
+
+808
+01:10:00,580 --> 01:10:03,014
+Diez mil rayos de la más fina calidad grado A.
+
+809
+01:10:03,116 --> 01:10:05,983
+¿Si, pero es difícil de cambiar verdad? Difícil de guardar.
+
+810
+01:10:06,085 --> 01:10:09,316
+Si me atrapan los "Revenue" aquí, que...
+
+811
+01:10:09,422 --> 01:10:11,185
+Mejor precio, 150 guineas.
+
+812
+01:10:11,291 --> 01:10:11,758
+Caballeros, pongan de vuelta la mercancía abordo y preparen a partir.
+
+813
+01:10:11,758 --> 01:10:13,623
+Caballeros, pongan de vuelta la mercancía y prepárense a partir.
+
+814
+01:10:13,726 --> 01:10:15,023
+Woh, woh, woh.
+Ferdinand, siempre un placer.
+
+815
+01:10:15,161 --> 01:10:16,890
+Espera. Espera. Un minuto.
+
+816
+01:10:16,996 --> 01:10:18,861
+Oh el...
+160, 170
+
+817
+01:10:18,965 --> 01:10:20,899
+Viendo que me siento
+particularmente generoso hoy,
+
+818
+01:10:21,000 --> 01:10:22,262
+Los daré por 200.
+
+819
+01:10:22,368 --> 01:10:25,394
+¿200? Ahora me estas jugando.
+
+820
+01:10:25,505 --> 01:10:26,767
+¿Haz pensando en eso?
+
+821
+01:10:26,873 --> 01:10:29,933
+¿Es que el ha navegado por donde el casi no hay aire?
+
+822
+01:10:31,444 --> 01:10:34,038
+Estas siendo muy grosero.
+Ya no más.
+
+823
+01:10:38,618 --> 01:10:40,916
+Estoy cambiando mi número.
+
+824
+01:10:41,020 --> 01:10:43,454
+¿Escuché 200?
+De ti, lo dijiste, si.
+
+825
+01:10:43,556 --> 01:10:46,354
+Tu dijiste 200.
+Si lo dije, entonces eres un ventrilocuo.
+
+826
+01:10:46,459 --> 01:10:48,518
+Esta bien, 195, oferta final.
+
+827
+01:10:48,895 --> 01:10:52,956
+195 será.
+Así que con impuesto, serían 200.
+
+828
+01:10:53,066 --> 01:10:55,261
+Brillante. Pónganlos atrás.
+
+829
+01:10:55,668 --> 01:10:57,829
+No lo puedo creer, aquí.
+
+830
+01:11:03,309 --> 01:11:05,038
+¿Si, puedo ayudarte?
+
+831
+01:11:07,080 --> 01:11:08,172
+Metiche.
+
+832
+01:11:08,648 --> 01:11:11,879
+¿Haz escuchado uno de esos rumores
+sobre una estrella que anda por ahi?
+
+833
+01:11:11,985 --> 01:11:13,384
+Todo el mundo habla de ello.
+
+834
+01:11:13,486 --> 01:11:16,785
+Te consigues una de esas, y podemos cerrar la tienda, y retirarnos.
+
+835
+01:11:16,889 --> 01:11:18,584
+¿Estrella?
+Si.
+
+836
+01:11:24,630 --> 01:11:26,325
+-¿Nada en tus viajes?
+-No.
+
+837
+01:11:26,432 --> 01:11:27,660
+¿Ni siquiera un pequeño susurro?
+
+838
+01:11:27,767 --> 01:11:29,462
+Todo el mundo en el mercado anda en eso.
+
+839
+01:11:29,569 --> 01:11:30,936
+¿Cuál mercado?
+¿El mercado cerca del muro?
+
+840
+01:11:30,937 --> 01:11:31,904
+De veras.
+
+841
+01:11:32,005 --> 01:11:33,768
+Bueno, Ferdy, estas perdiendo tu tiempo escuchando
+a chismes.
+
+842
+01:11:33,873 --> 01:11:35,807
+De la escoria que viene aquí.
+
+843
+01:11:35,908 --> 01:11:38,240
+Si es...
+Hablando del rey de roma.
+
+844
+01:11:38,344 --> 01:11:40,073
+¿Si, que estabas diciendo?
+
+845
+01:11:40,179 --> 01:11:42,477
+Oh, que maravillosa mujer eres, Sal.
+
+846
+01:11:42,582 --> 01:11:44,277
+De como el mundo no sería igual si no existieras.
+
+847
+01:11:44,384 --> 01:11:46,045
+Te ves bien.
+¿Ya te hicieron lo de los pies, verdad?
+
+848
+01:11:46,152 --> 01:11:50,248
+Bueno ustedes dos tienen negocios
+que hacer, los dejo, buen dia.
+
+849
+01:11:50,356 --> 01:11:53,052
+Ven.
+Tengo algo nuevo para ti.
+
+850
+01:11:59,732 --> 01:12:01,461
+Capitán Shakespeare.
+
+851
+01:12:01,868 --> 01:12:03,165
+Retírense
+
+852
+01:12:03,269 --> 01:12:04,964
+Les presento a mi sobrino,
+El temerario bucanero,
+
+853
+01:12:05,071 --> 01:12:06,561
+Tristan Thorn.
+
+854
+01:12:06,906 --> 01:12:09,431
+Nos acompañará en nuestro viaje a casa.
+
+855
+01:12:09,542 --> 01:12:12,943
+Tengo el perfecto regalo para
+mantenerlos entretenidos en el camino.
+
+856
+01:12:19,819 --> 01:12:20,843
+Oh...
+
+857
+01:12:27,160 --> 01:12:28,627
+Verdad, perezosos.
+
+858
+01:12:28,728 --> 01:12:31,390
+¡Llevemos al joven Tristan a casa!
+
+859
+01:14:23,609 --> 01:14:24,803
+Touché. 
+
+860
+01:14:25,478 --> 01:14:26,968
+Estoy impresionado.
+
+861
+01:14:42,929 --> 01:14:45,022
+Yvaine, se lo que eres.
+
+862
+01:14:47,366 --> 01:14:50,358
+No, no tengas miedo.
+
+863
+01:14:50,870 --> 01:14:55,034
+Nadie en esta nave te hará daño,
+aunque muchos si.
+
+864
+01:14:58,444 --> 01:15:02,175
+Tus emociones de delatan, Yvaine.
+Debes controlarlos.
+
+865
+01:15:02,281 --> 01:15:04,579
+Estás brillando cada
+día más y más.
+
+866
+01:15:04,684 --> 01:15:06,117
+y creo que se cual es el porque.
+
+867
+01:15:06,219 --> 01:15:08,983
+Obviamente se porque brillo.
+Soy una estrella.
+
+868
+01:15:09,155 --> 01:15:13,114
+¿Y que es lo que las estrellas hacen?
+Bueno, ciertamente no es el baile 
+
+869
+01:15:24,303 --> 01:15:25,565
+Ahora trata.
+OK.
+
+870
+01:15:29,041 --> 01:15:30,770
+-¿Viste?
+-Muy bien.
+
+871
+01:15:46,058 --> 01:15:47,457
+¿Al oeste dijiste?
+
+872
+01:15:47,560 --> 01:15:48,891
+¿Y estas seguro que tiene la muchacha con el?
+
+873
+01:15:48,995 --> 01:15:49,984
+Si.
+
+874
+01:15:50,096 --> 01:15:53,395
+¿Estas seguro, absolutamente seguro, de que no me
+estas mintiendo?
+
+875
+01:15:53,899 --> 01:15:56,197
+Se lo juro de corazón.
+
+876
+01:15:57,536 --> 01:15:59,163
+Esta bien.
+Será mejor que me estés diciendo la verdad,
+
+877
+01:15:59,272 --> 01:16:00,534
+Perro doble cara.
+
+878
+01:16:00,640 --> 01:16:03,609
+Si quieres te puede conseguir uno de esos.
+Son muy buenos perros guardias.
+
+879
+01:16:03,709 --> 01:16:05,870
+Te pueden vigilar la puerta de al frente
+y atrás a la misma vez.
+
+880
+01:16:05,978 --> 01:16:06,945
+Te puedo conseguir cualquier cosa que quieras.
+
+881
+01:16:07,046 --> 01:16:09,708
+¿Cuales son las oportunidades de obtener
+una Vela Babilona?
+
+882
+01:16:09,815 --> 01:16:11,248
+Eso esta difícil.
+
+883
+01:16:11,350 --> 01:16:15,810
+Aunque conocí una vez, una chica,
+si sabes a que me refiero.
+
+884
+01:16:15,921 --> 01:16:17,013
+Soy un casanova.
+
+885
+01:16:17,123 --> 01:16:18,522
+...quién tenía una hermana....
+
+886
+01:16:18,624 --> 01:16:19,682
+Creo que fue una mujer.
+
+887
+01:16:19,792 --> 01:16:23,523
+Oh, ella era terrible.
+La cara le parecía una bolsa de ranas, feas ranas.
+
+888
+01:16:23,629 --> 01:16:24,823
+Suficiente.
+
+889
+01:16:42,114 --> 01:16:44,844
+¡Aguántense!
+El capitán está en el mando.
+
+890
+01:17:37,370 --> 01:17:40,100
+Ahí esta el camino que necesitarán para Wall.
+
+891
+01:17:40,206 --> 01:17:43,698
+Buena suerte en su regreso a casa,
+
+892
+01:17:43,809 --> 01:17:46,778
+Y buena suerte para ti, Tristan,
+con tu Victoria.
+
+893
+01:17:47,546 --> 01:17:49,377
+¿Cuánto más debemos agradecerte por tu gentileza?
+
+894
+01:17:49,482 --> 01:17:53,077
+No digan nada.
+Seriamente, no digan nada.
+
+895
+01:17:53,185 --> 01:17:57,212
+Reputación, saben,
+Una vida para construir, segundos para destruirla.
+
+896
+01:17:59,625 --> 01:18:02,560
+Oh, Tristan, y recuerda solo que...
+
+897
+01:18:05,731 --> 01:18:07,494
+Solo piénsalo.
+
+898
+01:18:11,303 --> 01:18:15,672
+Bueno, mándale saludos a Inglaterra, y
+fue un placer conocerlos a ambos.
+
+899
+01:18:19,145 --> 01:18:22,410
+Y no me importa si jode a esa joven, Capitán Tristan
+
+900
+01:18:27,119 --> 01:18:29,019
+¿Que te dijo?
+
+901
+01:18:29,955 --> 01:18:31,183
+¿Cuando dijo que?
+
+902
+01:18:31,290 --> 01:18:33,781
+Ahora mismo. Cuando te susurró.
+
+903
+01:18:35,294 --> 01:18:37,694
+No... No, el... Solo dijo que
+deberíamos usar el rayo.
+
+904
+01:18:37,797 --> 01:18:40,027
+para obtener una vela babilona.
+
+905
+01:18:40,132 --> 01:18:42,066
+Para trueque, tu sabes.
+
+906
+01:18:43,269 --> 01:18:46,830
+¿Por última vez, donde esta la chica?
+
+907
+01:18:48,207 --> 01:18:50,971
+La muchacha con la gema, ¿Dónde fue?
+
+908
+01:18:52,077 --> 01:18:54,204
+¿Te estás burlando de mi?
+-No...
+
+909
+01:18:54,313 --> 01:18:57,805
+Porque si lo estas, créeme,
+que tienes segundos de vida.
+
+910
+01:19:02,788 --> 01:19:04,221
+Fenómeno.
+
+911
+01:19:04,557 --> 01:19:07,082
+Limpien todo esto.
+
+912
+01:19:15,301 --> 01:19:16,598
+Tonterías.
+
+913
+01:19:18,871 --> 01:19:21,567
+Si ya terminaste de desperdiciar tu magia.
+
+914
+01:19:21,674 --> 01:19:24,165
+en tu antiproductiva rutina de belleza,
+
+915
+01:19:24,276 --> 01:19:26,540
+Te gustará que saber que la estrella regresó.
+
+916
+01:19:26,645 --> 01:19:28,010
+Regresó al suelo.
+
+917
+01:19:28,113 --> 01:19:31,480
+Lo se, maldición.
+No pude llegar al lago a tiempo.
+
+918
+01:19:31,584 --> 01:19:35,953
+No importa. Tenemos que encontrarla.
+Esta en el camino a Wall.
+
+919
+01:19:36,055 --> 01:19:38,580
+Pero si tomas el atajo
+a través de los pantanos,
+
+920
+01:19:38,691 --> 01:19:40,556
+Llegarás a tiempo para interceptarla.
+
+921
+01:19:49,535 --> 01:19:50,763
+Yvaine.
+
+922
+01:19:54,607 --> 01:19:56,700
+¿Me quieres romper la pierna otra vez?
+Lo siento, lo siento.
+
+923
+01:19:56,809 --> 01:19:59,744
+No puedo arriesgar que la gente te vea,
+no confío en nadie.
+
+924
+01:19:59,845 --> 01:20:01,506
+Pero a este paso, si nos detenemos...
+
+925
+01:20:01,614 --> 01:20:06,574
+Yvaine. Estamos bien de tiempo
+Solo deja un minuto.
+
+926
+01:20:13,559 --> 01:20:15,288
+¿Estas tentado?
+
+927
+01:20:18,397 --> 01:20:20,126
+¿Tentado por que?
+
+928
+01:20:21,934 --> 01:20:23,333
+Inmortalidad.
+
+929
+01:20:24,370 --> 01:20:26,235
+Pongámoslo de esta forma,
+que tal si no era mi corazón.
+
+930
+01:20:26,805 --> 01:20:30,104
+solo otra estrella que no conocías.
+
+931
+01:20:31,810 --> 01:20:34,506
+¿Crees seriamente que mataría a alguien?
+
+932
+01:20:38,617 --> 01:20:42,986
+Me refiero, si yo pudiera...
+¿Vida eterna?
+
+933
+01:20:45,124 --> 01:20:47,684
+Me la imagino una vida muy solitaria.
+
+934
+01:20:49,929 --> 01:20:51,021
+Bueno,
+
+935
+01:20:52,831 --> 01:20:55,595
+Bueno si tienes alguien con quien la puedas compartir.
+
+936
+01:20:56,769 --> 01:20:58,361
+Alguien que ames.
+
+937
+01:20:58,771 --> 01:21:01,171
+Tal vez será diferente.
+
+938
+01:21:04,376 --> 01:21:06,503
+Ven, creo que estamos a salvo.
+
+939
+01:21:28,634 --> 01:21:32,331
+Recuerden, el Capitán Shakespeare tiene una temible reputación.
+
+940
+01:23:00,592 --> 01:23:03,186
+¿Que es esto?
+¿Qué hacen aquí?
+
+941
+01:23:03,295 --> 01:23:05,388
+Mi nombre es Príncipe Septimus.
+
+942
+01:23:06,632 --> 01:23:09,396
+Y me vas a decir conde puedo conseguir a la chica.
+
+943
+01:23:16,709 --> 01:23:22,113
+Voy a contar hasta tres mariposita...
+uno... dos...
+
+944
+01:23:38,464 --> 01:23:43,128
+Sabes, brillas algunas veces.
+Me he dado cuenta. ¿Es normal?
+
+945
+01:23:43,235 --> 01:23:46,329
+Veamos si lo puedes descifrar por ti mismo.
+
+946
+01:23:46,438 --> 01:23:48,235
+¿Qué hacen las estrellas?
+
+947
+01:23:49,808 --> 01:23:51,435
+¿Atraen problemas?
+
+948
+01:23:53,545 --> 01:23:55,843
+Oh, lo siento, espera, lo siento.
+
+949
+01:23:55,948 --> 01:23:57,506
+Esta bien, dejame... Dejame...
+¿Tengo otra oportunidad?
+
+950
+01:23:58,684 --> 01:24:02,711
+Es... ¿Es que saben como molestar a un chico llamado Tristan Thorn?
+
+951
+01:24:06,992 --> 01:24:10,257
+¿Cuanto tomará?
+Tal vez 2 días.
+
+952
+01:24:10,362 --> 01:24:14,093
+Pero no tenemos dos días.
+El cumpleaños de Victoria es mañana.
+
+953
+01:24:14,867 --> 01:24:17,961
+Si, los. Buena observación.
+
+954
+01:24:24,476 --> 01:24:27,138
+Linda taza de té negro.
+Todo el mundo afuera, afuera.
+
+955
+01:24:27,246 --> 01:24:29,214
+¿Lo hirió, capitán?
+
+956
+01:24:30,916 --> 01:24:34,249
+¿Le dijo hacia donde su sobrino y la muchacha fueron?
+
+957
+01:24:35,320 --> 01:24:37,151
+¿Entonces cual es el problema?
+
+958
+01:24:38,423 --> 01:24:40,118
+Es mi reputación.
+
+959
+01:24:41,627 --> 01:24:43,891
+No. No, no. No sea tonto.
+
+960
+01:24:43,996 --> 01:24:45,827
+Todo está bien capitán.
+
+961
+01:24:46,565 --> 01:24:49,033
+Todos hemos sabido que usted era un maricón.
+
+962
+01:24:52,337 --> 01:24:56,034
+Y siempre será nuestro capitán,
+-Si, Si, Capitan.
+
+963
+01:25:01,513 --> 01:25:02,480
+Capitán.
+
+964
+01:25:02,581 --> 01:25:04,572
+Si, vamos, vamos.
+
+965
+01:25:11,757 --> 01:25:13,622
+Príncipe Septimus,
+sus hombres, están muertos.
+
+966
+01:25:13,725 --> 01:25:15,090
+¿Oh, de veras?
+
+967
+01:25:16,995 --> 01:25:18,155
+Vamos
+
+968
+01:25:31,276 --> 01:25:34,143
+Conocí a la mujer, ella es amiga del capitán.
+
+969
+01:25:34,246 --> 01:25:35,941
+Dijo que ella se la pasa en el mercado cerca de Wall.
+
+970
+01:25:36,048 --> 01:25:38,039
+Podemos decir que nos lleve.
+¿De verdad, es amiga del capitán?
+
+971
+01:25:38,150 --> 01:25:39,378
+¿Estas segura?
+si, si.
+
+972
+01:25:40,252 --> 01:25:44,018
+¡Espere, lo siento!
+Mi nombre es Tristan Thorn, esta...
+
+973
+01:25:44,122 --> 01:25:45,749
+Esa es mi flor.
+
+974
+01:25:46,491 --> 01:25:49,551
+18 años he estado
+buscando esa.
+
+975
+01:25:49,661 --> 01:25:51,288
+¡Dámela ahora!
+
+976
+01:25:52,030 --> 01:25:55,090
+¿Cómo se atreve?
+Eso fue un regalo de su madre.
+
+977
+01:25:55,200 --> 01:25:56,167
+Oh.
+
+978
+01:25:56,735 --> 01:25:58,600
+Tal vez me equivoqué.
+
+979
+01:25:59,905 --> 01:26:01,429
+Esta bien.
+
+980
+01:26:01,974 --> 01:26:04,067
+Obviamente es de mucho valor para usted, la puede tener.
+
+981
+01:26:04,176 --> 01:26:05,700
+en intercambio por algo que necesito.
+
+982
+01:26:05,811 --> 01:26:07,870
+¿Una vela babilona?
+Y un pasaje seguro a Wall.
+
+983
+01:26:07,980 --> 01:26:09,811
+¿Una Vela Babilona?
+
+984
+01:26:09,915 --> 01:26:13,851
+Oh, no, no, no.
+Yo no brego con magia negra.
+
+985
+01:26:13,952 --> 01:26:15,146
+¿De veras?
+
+986
+01:26:15,787 --> 01:26:18,255
+¿Puede llevarnos para wall?
+
+987
+01:26:18,357 --> 01:26:21,383
+Porque no lo dijiste en primer lugar.
+
+988
+01:26:23,428 --> 01:26:26,192
+Por esa flor, puedo ofrecerte el pasaje.
+
+989
+01:26:26,465 --> 01:26:28,626
+¿Comida y alojo en el camino?
+Pasaje seguro.
+
+990
+01:26:28,734 --> 01:26:31,066
+Te juro que llegarás a Wall
+
+991
+01:26:31,169 --> 01:26:34,229
+En la exacta condición que estas ahora.
+
+992
+01:26:39,845 --> 01:26:42,439
+¿Tienes alguna idea de la importancia de esa cosa que tienes?
+
+993
+01:26:42,547 --> 01:26:44,538
+¿Una clase de amuleto de suerte?
+
+994
+01:26:45,017 --> 01:26:48,248
+Un amuleto de suerte, protección.
+
+995
+01:26:49,087 --> 01:26:53,854
+De hecho, la misma cosa que te prevenía de hacerte esto.
+
+996
+01:26:58,263 --> 01:27:00,959
+Dios mío, ¿Qué ha hecho?
+Mucho mejor.
+
+997
+01:27:01,066 --> 01:27:04,866
+No podrás ver, tocar, oler, ni escuchar la estrella.
+
+998
+01:27:05,237 --> 01:27:08,764
+Como te prometí
+No te haré daño.
+
+999
+01:27:17,716 --> 01:27:21,311
+Aquí.
+Comida y alojo como se te fue prometido.
+
+1000
+01:27:21,420 --> 01:27:25,550
+¿Estaría afirmando que no puedes verme ni escucharme?
+
+1001
+01:27:25,991 --> 01:27:28,687
+Pues me gustaría decirte que huelen a orina.
+
+1002
+01:27:28,794 --> 01:27:30,557
+Te pareces al trasero de un perro.
+
+1003
+01:27:30,662 --> 01:27:33,130
+Y le juro,
+que si no me regresa a mi Tristan tal y como estaba,
+
+1004
+01:27:33,231 --> 01:27:35,392
+¡Seré su fantasma personal!
+
+1005
+01:27:54,619 --> 01:27:55,813
+¿Tristan?
+
+1006
+01:27:57,389 --> 01:28:00,187
+Si me entiendes
+mírame ahora.
+
+1007
+01:28:28,720 --> 01:28:31,712
+¿Te acuerdas cuando te dije
+lo poquito que sabía del amor?
+
+1008
+01:28:33,458 --> 01:28:35,358
+Pues, no era del todo verdad.
+
+1009
+01:28:37,896 --> 01:28:39,830
+Se mucho sobre el amor.
+
+1010
+01:28:40,599 --> 01:28:44,035
+Lo he visto.
+Lo he visto siglos y siglos.
+
+1011
+01:28:45,837 --> 01:28:49,796
+Y es lo único que hace digna a la Tierra para ver.
+
+1012
+01:28:51,009 --> 01:28:56,470
+Todas esas guerras, dolor y mentiras. Odio.
+
+1013
+01:28:58,617 --> 01:29:01,916
+Me hacían voltear
+y nunca volver a ver.
+
+1014
+01:29:04,056 --> 01:29:07,856
+Pero al ver a la humanidad amarse.
+
+1015
+01:29:09,061 --> 01:29:11,791
+Me refiero, que podrías ir a los rincones más
+lejos del universo.
+
+1016
+01:29:11,897 --> 01:29:14,730
+y nunca encontrar
+algo tan bello.
+
+1017
+01:29:17,636 --> 01:29:23,040
+Así, que si, se que
+el amor es incondicional.
+
+1018
+01:29:24,676 --> 01:29:28,476
+Pero también se que puede ser impredecible.
+
+1019
+01:29:29,448 --> 01:29:35,080
+inesperado, incontrolable, inaguantable.
+
+1020
+01:29:37,055 --> 01:29:41,151
+Y bueno, extrañamente equivocado por aversión.
+
+1021
+01:29:41,927 --> 01:29:42,894
+Y
+
+1022
+01:29:45,263 --> 01:29:49,666
+lo que quiero decir, Tristan, es
+
+1023
+01:29:51,336 --> 01:29:53,065
+Creo que te amo.
+
+1024
+01:29:54,172 --> 01:29:59,872
+Mi corazón, siento que mi pecho
+no puede contenerlo.
+
+1025
+01:30:01,713 --> 01:30:07,151
+Como si ya no me perteneciera.
+Te pertenece a ti.
+
+1026
+01:30:08,687 --> 01:30:12,919
+Y si lo quisieras,
+te lo daría por nada a cambio.
+
+1027
+01:30:14,226 --> 01:30:19,186
+Ningún regalo, ni demostraciones de devoción.
+
+1028
+01:30:22,234 --> 01:30:24,828
+Nada sino saber que me amas a mi también.
+
+1029
+01:30:26,771 --> 01:30:28,295
+Sólo tu corazón.
+
+1030
+01:30:30,375 --> 01:30:32,070
+en intercambio por el mío.
+
+1031
+01:30:41,553 --> 01:30:43,748
+El muro está a una milla
+
+1032
+01:30:44,556 --> 01:30:48,253
+Ahi. Aunque a pie tardará más de lo normal.
+
+1033
+01:30:48,360 --> 01:30:52,456
+Transformación tiende dejar al cerebro un poco mezclado por unos momentos.
+
+1034
+01:30:55,934 --> 01:30:57,265
+Tu...
+
+1035
+01:30:57,502 --> 01:30:58,491
+Oh!
+
+1036
+01:30:59,738 --> 01:31:02,104
+Te advertí, ahorra tu fuerza.
+
+1037
+01:31:03,074 --> 01:31:05,338
+He estado tan preocupada por ti.
+
+1038
+01:31:06,011 --> 01:31:07,239
+Victoria.
+
+1039
+01:31:08,280 --> 01:31:10,339
+Prefería I think I preferred ""Madre."
+
+1040
+01:31:12,250 --> 01:31:16,812
+Vamos, hay una posada por allá.
+El cumpleaños de Victoria no es hasta mañana.
+
+1041
+01:31:17,856 --> 01:31:19,323
+Necesitas un baño y una buena siesta.
+
+1042
+01:31:19,424 --> 01:31:21,688
+Antes de que me presentes a ella.
+
+1043
+01:31:21,793 --> 01:31:23,420
+Ven.
+
+1044
+01:31:25,797 --> 01:31:28,698
+Vamos Tristan, no está tan lejos.
+OK.
+
+1045
+01:31:50,222 --> 01:31:51,917
+¿Discúlpame?
+-¡Oh!
+
+1046
+01:31:52,023 --> 01:31:55,254
+-Creo que estas en mi baño.
+Bueno. ¡Cierra los ojos!
+
+1047
+01:31:56,795 --> 01:32:00,925
+No estoy... de veras, no estoy mirando.
+Me voltearé.
+
+1048
+01:32:05,904 --> 01:32:08,270
+Ahora, puedes abrirlos ahora.
+
+1049
+01:32:16,014 --> 01:32:19,142
+¿Es verdad lo que me dijiste en la caravana?
+
+1050
+01:32:21,186 --> 01:32:22,448
+Que yo...
+
+1051
+01:32:22,554 --> 01:32:25,580
+¡Pero... pero tu eras un ratón+ardilla!
+
+1052
+01:32:26,024 --> 01:32:29,187
+¡Eras un ratón! ¡Querías queso!
+Tu no...
+
+1053
+01:32:29,294 --> 01:32:31,125
+Te pedí que me dieras una señal.
+
+1054
+01:32:31,229 --> 01:32:35,393
+¿Y arriesgar de que te pondrías muy embarazosa de decir
+cosas tan lindas?
+
+1055
+01:32:40,739 --> 01:32:44,300
+¿Quieres saber que me dijo el capitán
+cuando me susurro ese día?
+
+1056
+01:32:46,645 --> 01:32:51,241
+Me dijo que mi verdadero amor
+estaba juste en frente de mis ojos.
+
+1057
+01:32:53,451 --> 01:32:55,078
+Y estaba correcto.
+
+1058
+01:33:09,868 --> 01:33:12,769
+¡Hey chicos, chicos, vengan,
+tienen que subir y ver esto!
+
+1059
+01:33:12,871 --> 01:33:14,304
+No, gracias.
+
+1060
+01:33:15,040 --> 01:33:17,099
+-¡Pervertido!
+-¡Hagan lo que quieran!.
+
+1061
+01:33:19,077 --> 01:33:22,478
+Irónico, ¿No?
+Si, ¿Qué es?
+
+1062
+01:33:23,114 --> 01:33:25,173
+Septimus estará aquí para la mañana.
+
+1063
+01:33:25,283 --> 01:33:29,049
+Encontrar la muchacha, obtener la gema
+y ser rey para siempre.
+
+1064
+01:33:29,154 --> 01:33:30,485
+Tan injusto.
+
+1065
+01:33:31,089 --> 01:33:33,387
+Por lo menos seremos libres.
+
+1066
+01:33:36,161 --> 01:33:39,494
+Estas cerca.
+Ella esta en el pueblo mercado.
+
+1067
+01:33:39,597 --> 01:33:41,895
+Una milla de la grieta del muro.
+
+1068
+01:33:42,000 --> 01:33:44,059
+Hablas como si fueran buenas noticias.
+
+1069
+01:33:44,169 --> 01:33:48,105
+¿Te debo recordar que Wall no es
+parte de nuestro universo?
+
+1070
+01:33:48,206 --> 01:33:50,766
+Si ella cruza el umbral hacia el reino humano.
+
+1071
+01:33:50,875 --> 01:33:54,902
+nuestra estrella se convertirá nada más que
+en un montón de polvo de estrella.
+
+1072
+01:33:55,413 --> 01:33:57,813
+¡Te sugiero que te des prisa!
+
+1073
+01:34:28,980 --> 01:34:30,140
+¿Qué?
+
+1074
+01:34:31,149 --> 01:34:32,309
+¿Oh, que quieres?
+
+1075
+01:34:32,417 --> 01:34:35,545
+Lo siento.
+¿Puedo tener un papel y un lapicero?
+
+1076
+01:34:35,653 --> 01:34:38,520
+Pídemelo otra vez
+a una hora razonable.
+
+1077
+01:34:38,623 --> 01:34:39,715
+No, no puedo, tengo que irme.
+
+1078
+01:34:39,824 --> 01:34:42,054
+Escuche,
+si mi amiga despierta antes que regrese,
+
+1079
+01:34:42,160 --> 01:34:44,628
+Por favor déjele este mensaje,
+Dale.
+
+1080
+01:35:21,232 --> 01:35:24,861
+Sabes, es la primera vez
+que duermo en la noche.
+
+1081
+01:35:26,204 --> 01:35:27,899
+No lo puedo creer.
+
+1082
+01:35:32,277 --> 01:35:33,266
+¿Tristan?
+
+1083
+01:35:42,554 --> 01:35:44,317
+¿Ha visto a mi amigo?
+
+1084
+01:35:44,422 --> 01:35:46,322
+Se fue absurdamente temprano.
+
+1085
+01:35:47,525 --> 01:35:48,753
+¿Se fue?
+
+1086
+01:35:48,860 --> 01:35:52,091
+Me dijo que le dijera que se fue a ver Victoria
+
+1087
+01:35:52,197 --> 01:35:55,098
+que lo siente, porque el encontró su
+verdadero amor
+
+1088
+01:35:55,200 --> 01:35:58,328
+Y quiere pasar el resto de su vida con ella.
+
+1089
+01:35:59,404 --> 01:36:00,496
+¿Qué?
+
+1090
+01:36:01,506 --> 01:36:03,974
+¿Seguro?
+Estoy seguro.
+
+1091
+01:36:33,404 --> 01:36:36,271
+¡Oye! ¡Oye coño! espere...
+
+1092
+01:37:19,884 --> 01:37:21,374
+Feliz cumpleaños.
+
+1093
+01:37:22,353 --> 01:37:23,650
+Tristan.
+
+1094
+01:37:25,623 --> 01:37:27,386
+¿Qué te pasó?
+
+1095
+01:37:28,793 --> 01:37:30,420
+Encontré la estrella.
+
+1096
+01:37:32,564 --> 01:37:34,464
+No lo puedo creer que lo hagas hecho.
+
+1097
+01:37:34,566 --> 01:37:37,034
+¿Dónde está mi estrella? ¿Puedo verla?
+
+1098
+01:37:38,169 --> 01:37:40,194
+¿Es bella?
+Si.
+
+1099
+01:37:42,440 --> 01:37:44,408
+..., es muy pequeña.
+
+1100
+01:37:45,376 --> 01:37:48,402
+Bueno eso es una pequeña parte.
+Un gesto para tu cumpleaños.
+
+1101
+01:37:48,513 --> 01:37:51,311
+Bueno..., pues olvida la estrella.
+
+1102
+01:37:52,617 --> 01:37:54,812
+No es la estrella que yo quiero.
+
+1103
+01:37:57,255 --> 01:37:59,018
+Sabes lo que quiero.
+
+1104
+01:38:01,225 --> 01:38:03,056
+Si, lo se.
+
+1105
+01:38:08,333 --> 01:38:12,269
+Tienes que madurar.
+
+1106
+01:38:17,075 --> 01:38:18,702
+-Humphrey.
+-Thorn.
+
+1107
+01:38:19,243 --> 01:38:21,336
+De seguro deseas la muerte.
+
+1108
+01:38:29,354 --> 01:38:32,152
+Humphrey. Humphrey, está bien.
+
+1109
+01:38:32,790 --> 01:38:34,451
+Es toda tuya.
+
+1110
+01:38:34,559 --> 01:38:37,119
+De verdad que son la pareja perfecta.
+Le deseo lo mejor a ambos.
+
+1111
+01:38:37,228 --> 01:38:41,858
+¿Y para que desearía esto?
+Es meramente un puño de polvo interestelar.
+
+1112
+01:38:47,405 --> 01:38:48,531
+¿Yvaine?
+
+1113
+01:38:50,675 --> 01:38:52,609
+No puede cruzar el muro.
+
+1114
+01:39:01,352 --> 01:39:02,376
+¡Vamos!
+
+1115
+01:40:09,887 --> 01:40:12,822
+¡Para!
+Si pasas morirás.
+
+1116
+01:40:12,924 --> 01:40:13,982
+¡Qué?
+
+1117
+01:40:16,160 --> 01:40:19,357
+Si pones un paso en suelo humano,
+te convertirás en piedra.
+
+1118
+01:40:19,931 --> 01:40:23,423
+¡Jodida, maldita puerca!
+¿Dónde me has llevado?
+
+1119
+01:40:32,777 --> 01:40:35,268
+¿Planeando en entrar a Wall?
+
+1120
+01:40:35,379 --> 01:40:39,782
+Si muerte es lo que deseas, cariño,
+Estaría mas que feliz de ayudarte.
+
+1121
+01:40:40,118 --> 01:40:42,018
+¿Me hablas a mi?
+
+1122
+01:40:42,754 --> 01:40:44,381
+Tu Puta. Que pequeño es el mundo.
+
+1123
+01:40:45,389 --> 01:40:48,722
+De todos modos, no te estaba hablando a ti.
+sino a la estrella.
+
+1124
+01:40:49,227 --> 01:40:50,524
+¿Cual estrella?
+
+1125
+01:40:52,063 --> 01:40:55,760
+Mi esclava no es estrella.
+Cualquier tonto lo nota.
+
+1126
+01:40:56,300 --> 01:40:58,928
+Si lo fuera,
+Ya tuviera su corazón.
+
+1127
+01:40:59,036 --> 01:41:01,561
+Hacía un buen tiempo, créeme.
+
+1128
+01:41:01,973 --> 01:41:05,374
+¿Confiar en ti? No quiero hacer otra equivocación.
+
+1129
+01:41:06,043 --> 01:41:09,444
+¿Que sería Ditchwater Sal?
+¿Cara o sello?
+
+1130
+01:41:39,477 --> 01:41:43,538
+Mierda, hora de irnos.
+Ella no va a ningún lado.
+
+1131
+01:41:43,681 --> 01:41:45,546
+Sabrás que lo hará.
+
+1132
+01:41:45,650 --> 01:41:48,016
+Esta bien, puedes venir también.
+
+1133
+01:41:50,922 --> 01:41:54,983
+Puedes venir en el carruaje o se arrastrada, tu escoges.
+
+1134
+01:42:14,879 --> 01:42:16,176
+¿Qué paso?
+
+1135
+01:42:16,280 --> 01:42:18,612
+Adelante, renuncio.
+
+1136
+01:42:18,716 --> 01:42:21,708
+80 años
+He los he detenidos de salir.
+
+1137
+01:42:21,819 --> 01:42:23,684
+Y debí enfatizarme...
+
+1138
+01:42:23,788 --> 01:42:25,278
+en las otras personas del otro lado entrar para aquí.
+
+1139
+01:42:25,389 --> 01:42:27,050
+Esta bien,
+¡Solo dígame lo que paso!
+
+1140
+01:42:27,158 --> 01:42:29,023
+¿Qué pasó? ¿Dónde empezar?
+
+1141
+01:42:30,394 --> 01:42:31,361
+¡No!
+
+1142
+01:42:45,376 --> 01:42:46,570
+¡Vamos!
+
+1143
+01:43:16,474 --> 01:43:17,600
+Vamos
+
+1144
+01:43:48,239 --> 01:43:49,467
+¡La estrella!
+
+1145
+01:43:50,074 --> 01:43:51,041
+¿Y quién más?
+
+1146
+01:43:51,142 --> 01:43:54,270
+Una esclava. Será buena para ayudar a trapear el piso.
+
+1147
+01:43:54,378 --> 01:43:56,573
+Para cuando terminemos con nuestra invitada.
+
+1148
+01:43:56,681 --> 01:43:58,080
+Oh, buen trabajo hermana.
+
+1149
+01:43:58,182 --> 01:44:01,083
+Y justo a tiempo, mírate. Te ves horrenda.
+
+1150
+01:45:00,111 --> 01:45:01,510
+¿Quién eres?
+
+1151
+01:45:02,813 --> 01:45:05,111
+¿Que tienes que hacer aquí?
+
+1152
+01:45:06,550 --> 01:45:07,812
+¿Septimus?
+
+1153
+01:45:08,352 --> 01:45:10,445
+Conocí a tu hermano, Primus.
+
+1154
+01:45:11,789 --> 01:45:14,314
+A menos que lo que quieras ver en otra vida,
+
+1155
+01:45:14,425 --> 01:45:17,087
+te sugiero que me contestes.
+¿Qué estas haciendo aquí?
+
+1156
+01:45:17,194 --> 01:45:19,492
+Te pregunto lo mismo.
+
+1157
+01:45:36,247 --> 01:45:38,112
+Hay cuatro de ellas.
+
+1158
+01:45:41,085 --> 01:45:43,815
+Haz lo que te diga y tal vez tengamos una oportunidad.
+
+1159
+01:45:43,921 --> 01:45:46,412
+Espera.
+¿Cómo se que puedo confiar en ti?
+
+1160
+01:45:46,524 --> 01:45:49,118
+No tienes. ¿Porque?
+¿Acaso tienes otra opción?
+
+1161
+01:45:49,226 --> 01:45:51,217
+-No.
+-Pues. Vamos.
+
+1162
+01:45:58,636 --> 01:46:02,231
+¡Suéltame, suéltame!
+
+1163
+01:46:06,477 --> 01:46:08,672
+-¿Una?
+-Septimus.
+
+1164
+01:46:08,779 --> 01:46:10,246
+-¡Una!
+-¡Hermana!  
+
+1165
+01:46:28,999 --> 01:46:30,864
+¡Tristan, No, Tristan!
+
+1166
+01:46:32,103 --> 01:46:34,799
+Soy tu... Soy tu... Soy tu madre.
+
+1167
+01:46:36,040 --> 01:46:37,598
+Soy tu madre.
+
+1168
+01:47:14,311 --> 01:47:16,905
+Muy bien, me libraré de ti. Si.
+
+1169
+01:47:42,506 --> 01:47:43,473
+¡Oh!
+
+1170
+01:47:56,520 --> 01:47:58,715
+Apaguemos ese fuego.
+
+1171
+01:47:59,156 --> 01:48:00,453
+¿Quieres?
+
+1172
+01:48:51,175 --> 01:48:53,040
+¿Que pasa ahora?
+
+1173
+01:48:53,844 --> 01:48:56,244
+Tenemos que aprender a vivir unos con otros.
+
+1174
+01:48:56,347 --> 01:48:57,541
+¿Por siempre?
+
+1175
+01:49:03,053 --> 01:49:04,816
+Vamos al grano.
+
+1176
+01:49:08,759 --> 01:49:10,750
+Se el hombre que se que tu eres.
+
+1177
+01:49:28,545 --> 01:49:29,842
+Ve afuera.
+OK.
+
+1178
+01:49:29,947 --> 01:49:30,936
+Ve.
+
+1179
+01:49:41,125 --> 01:49:42,990
+-¡Tristan!
+-Ve a el.
+
+1180
+01:50:18,662 --> 01:50:19,924
+¡Suéltame!
+
+1181
+01:50:24,068 --> 01:50:25,797
+¡Fuera!
+
+1182
+01:51:02,973 --> 01:51:07,433
+¿Qué vas a ser, príncipe azul, sapo o rana?
+
+1183
+01:52:05,502 --> 01:52:06,730
+¿Septimus?
+
+1184
+01:53:28,852 --> 01:53:30,012
+¡Tristan!
+
+1185
+01:54:13,830 --> 01:54:15,127
+Juventud.
+
+1186
+01:54:16,066 --> 01:54:17,363
+Belleza.
+
+1187
+01:54:19,169 --> 01:54:21,603
+Ahora todo eso ya no tiene importancia.
+
+1188
+01:54:22,306 --> 01:54:24,274
+Mis hermanas murieron!
+
+1189
+01:54:25,909 --> 01:54:29,572
+Todo lo que quería se ha ido.
+
+1190
+01:54:35,752 --> 01:54:36,844
+Ido.
+
+1191
+01:54:42,326 --> 01:54:43,623
+Ido!
+
+1192
+01:55:04,648 --> 01:55:05,615
+¡No!
+
+1193
+01:56:02,739 --> 01:56:04,673
+Te agradezco, chico.
+
+1194
+01:56:05,108 --> 01:56:08,202
+¿Qué uso tendría ese corazón si estaba roto?
+
+1195
+01:56:08,645 --> 01:56:13,548
+Y te deshiciste de mis hermanas y ahora lo tendré todo para mi.
+
+1196
+01:56:19,423 --> 01:56:22,449
+Abrázame y cierra tus ojos.
+¿Qué, porque?
+
+1197
+01:56:23,226 --> 01:56:24,853
+¿Qué hacen las estrellas?
+
+1198
+01:56:31,668 --> 01:56:32,828
+Brillar.
+
+1199
+01:57:09,072 --> 01:57:10,733
+-¡Bravo!
+-Si
+
+1200
+01:57:11,141 --> 01:57:12,438
+Muy bien.
+
+1201
+01:57:14,211 --> 01:57:15,735
+¿Porqué no hiciste eso antes?
+
+1202
+01:57:15,846 --> 01:57:20,476
+No lo pude hacer sin ti, ninguna estrella
+puede brillar con un corazón roto.
+
+1203
+01:57:21,885 --> 01:57:23,750
+Pensé que te perdía.
+
+1204
+01:57:25,021 --> 01:57:26,818
+Pero regresaste.
+
+1205
+01:57:27,224 --> 01:57:29,522
+Por supuesto regresé, te amo.
+
+1206
+01:57:35,098 --> 01:57:36,326
+Vamos.
+
+1207
+01:57:56,419 --> 01:57:57,716
+Tristan.
+
+1208
+01:58:00,457 --> 01:58:03,949
+El último sobreviviente heredero varón de stormhold.
+
+1209
+01:58:06,730 --> 01:58:08,357
+Eres tu, Tristan.
+
+1210
+01:58:12,235 --> 01:58:15,227
+Pero si el es el nuevo Rey de Stormhold,
+entonces...
+
+1211
+01:59:02,319 --> 01:59:06,813
+Lo corono a usted Rey Tristan de Stormhold.
+
+1212
+01:59:24,207 --> 01:59:25,606
+¡Si!
+
+1213
+01:59:41,524 --> 01:59:43,151
+Mi obsequio para ti.
+
+1214
+01:59:44,961 --> 01:59:46,360
+Para ambos.
+
+1215
+01:59:46,663 --> 01:59:47,994
+Gracias.
+
+1216
+02:00:02,946 --> 02:00:05,506
+Gobernaron por 80 años.
+
+1217
+02:00:06,750 --> 02:00:09,685
+Pero nadie vive para siempre.
+
+1218
+02:00:10,587 --> 02:00:13,988
+Excepto el que posea el corazón de una estrella
+
+1219
+02:00:14,891 --> 02:00:19,294
+E Yvaine se lo dio completamente a Tristan.
+
+1220
+02:00:20,864 --> 02:00:24,163
+Cuando sus hijos y nietos crecieron,
+
+1221
+02:00:25,201 --> 02:00:28,432
+Llegó la hora de prender la Vela Babilona
+
+1222
+02:00:34,511 --> 02:00:38,948
+Y todavía viven felices para siempre.
+
+
+1223
+02:00:39,511 --> 02:00:50,948
+Subidos A Subdivx por Maquiaveli

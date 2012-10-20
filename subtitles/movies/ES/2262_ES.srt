@@ -1,0 +1,297 @@
+1
+00:00:38,150 --> 00:00:40,437
+<i>Hola.
+Me llamo Dug.</i>
+
+2
+00:00:40,550 --> 00:00:41,837
+- ¡Dug!
+- ¿Qué haces aquí?
+
+3
+00:00:41,950 --> 00:00:45,035
+- ¡Siempre estás molestando!
+<i>- Hoy es mi cumpleaños...</i>
+
+4
+00:00:45,148 --> 00:00:49,034
+<i>...y será el día más feliz de mi vida.</i>
+
+5
+00:00:49,147 --> 00:00:51,104
+<i>¡El amo estará de lo más molesto...</i>
+
+6
+00:00:51,220 --> 00:00:53,332
+<i>...cuando sepa que perdimos al pájaro
+por tu culpa!</i>
+
+7
+00:00:53,445 --> 00:00:55,643
+¿Puedo ayudarlos a atrapar al pájaro?
+
+8
+00:00:57,143 --> 00:00:58,530
+<i>Esperen.</i>
+
+9
+00:00:58,643 --> 00:01:03,140
+<i>Así que quieres ayudarnos.</i>
+
+10
+00:01:04,740 --> 00:01:08,226
+<i>Acabamos de elegirte
+una misión especial para ti, Dug.</i>
+
+11
+00:01:08,339 --> 00:01:11,025
+<i>¡Tú solito capturarás al pájaro!</i>
+
+12
+00:01:11,138 --> 00:01:14,724
+¡Mi manada me está dando
+una misión especial!
+
+13
+00:01:14,837 --> 00:01:18,622
+¿Saben que hoy es mi cumpleaños?
+¡Pedí un deseo!
+
+14
+00:01:18,735 --> 00:01:21,021
+<i>Sí, muy bonito.</i>
+
+15
+00:01:21,134 --> 00:01:25,020
+<i>Tu misión es vigilar esa roca.</i>
+
+16
+00:01:25,133 --> 00:01:27,019
+Vigilar la roca.
+¡Vigilar la roca!
+
+17
+00:01:27,132 --> 00:01:31,130
+- ¿Por qué?
+<i>- Porque es la roca favorita del pájaro.</i>
+
+18
+00:01:31,245 --> 00:01:32,269
+- Sí.
+- Claro.
+
+19
+00:01:32,384 --> 00:01:36,515
+<i>Así que vigílala
+y avísanos si se mueve.</i>
+
+20
+00:01:36,628 --> 00:01:38,127
+¡Vigilaré la roca!
+
+21
+00:01:39,626 --> 00:01:42,013
+¡Estaré vigilándote, roca!
+
+22
+00:01:42,126 --> 00:01:44,712
+No intentes ningún truco
+porque soy un gran perro guardián.
+
+23
+00:01:44,825 --> 00:01:47,123
+¡Te estoy viendo, roca!
+
+24
+00:02:00,618 --> 00:02:01,617
+¡Alpha!
+
+25
+00:02:01,917 --> 00:02:04,117
+¡La roca se movió!
+
+26
+00:02:04,616 --> 00:02:07,403
+<i>Éste es el hoyo favorito del pájaro.</i>
+
+27
+00:02:07,516 --> 00:02:11,114
+<i>Bajo ninguna circunstancia puedes...
+¡Ardilla!</i>
+
+28
+00:02:11,514 --> 00:02:13,401
+<i>...abandonar jamás el hoyo.</i>
+
+29
+00:02:13,514 --> 00:02:15,800
+<i>¿Entiendes bien
+lo que te estoy diciendo?</i>
+
+30
+00:02:15,913 --> 00:02:19,498
+Sí. Me quedaré en el hoyo
+y atraparé al pájaro.
+
+31
+00:02:19,611 --> 00:02:21,998
+<i>Sí, sin duda.</i>
+
+32
+00:02:22,111 --> 00:02:24,996
+<i>- Con eso será suficiente.</i>
+- Me quedaré en el hoyo.
+
+33
+00:02:25,109 --> 00:02:27,295
+¡Me quedaré en el hoyo!
+Me...
+
+34
+00:02:27,408 --> 00:02:28,995
+...quedaré en el--
+
+35
+00:02:29,108 --> 00:02:31,294
+¡Ahora me caigo por el hoyo!
+
+36
+00:02:31,407 --> 00:02:33,105
+Está oscuro el hoyo.
+
+37
+00:02:34,705 --> 00:02:36,992
+<i>Éste es nuestro día, mis tenientes.</i>
+
+38
+00:02:37,105 --> 00:02:39,103
+<i>El amo tendrá una gran recomp--</i>
+
+39
+00:02:41,602 --> 00:02:44,489
+¡Oigan, mi manada
+también está en el hoyo!
+
+40
+00:02:44,602 --> 00:02:47,499
+<i>Ahora, tu misión
+es sentarte en esa roca.</i>
+
+41
+00:02:48,314 --> 00:02:49,338
+Muy bien.
+
+42
+00:02:55,996 --> 00:02:58,096
+<i>¡Dug, hazte a un lado!</i>
+
+43
+00:02:59,495 --> 00:03:00,495
+<i>Muévete.</i>
+
+44
+00:03:03,593 --> 00:03:06,092
+Encontrar el pájaro.
+Encontrar el pájaro.
+
+45
+00:03:12,391 --> 00:03:14,089
+<i>Me duele.</i>
+
+46
+00:03:14,489 --> 00:03:16,288
+¿Estás bien, Alpha?
+
+47
+00:03:16,988 --> 00:03:19,587
+<i>Me las pagarás, Dug.</i>
+
+48
+00:03:20,087 --> 00:03:21,973
+<i>¡Alpha llamando al amo!</i>
+
+49
+00:03:22,086 --> 00:03:26,471
+<i>¡Reporto que por culpa de Dug
+no capturamos al pájaro!</i>
+
+50
+00:03:26,584 --> 00:03:28,084
+<i>¡Es un perro malo!</i>
+
+51
+00:03:36,581 --> 00:03:40,479
+<i>- ¡Oye, Beta! ¡Dug tendrá su merecido!
+- Sí. Feliz cumpleaños, Dug.</i>
+
+52
+00:03:43,578 --> 00:03:45,577
+<i>Fue un pésimo día de cumpleaños.</i>
+
+53
+00:03:47,176 --> 00:03:49,176
+<i>Eso parece una tortuga.</i>
+
+54
+00:03:50,175 --> 00:03:51,975
+<i>Y eso parece un hombre.</i>
+
+55
+00:03:52,374 --> 00:03:53,574
+Te estoy viendo.
+
+56
+00:03:54,174 --> 00:03:55,173
+<i>¡Es un hombre!</i>
+
+57
+00:03:58,572 --> 00:04:01,971
+- ¡Vete a molestar a otro lado!
+- Hola, ¿están bien?
+
+58
+00:04:03,970 --> 00:04:04,969
+¡Puedo olfatearlos!
+
+59
+00:04:08,568 --> 00:04:12,467
+<i>Es un buen día de cumpleaños
+después de todo.</i>
+
+60
+00:04:12,966 --> 00:04:14,966
+<i>Se cumplió mi deseo.</i>
+
+61
+00:04:16,065 --> 00:04:19,064
+<i>- Un amo nuevo.</i>
+- Eso parece un perro.
+
+62
+00:04:20,963 --> 00:04:24,262
+<i>Y ése fue el día más feliz de mi vida.</i>
+
+63
+00:04:28,060 --> 00:04:32,447
+- Me gustan los perros.
+- ¡Tenemos a su perro!
+
+64
+00:04:32,560 --> 00:04:34,446
+Me pregunto de quién será.
+
+65
+00:04:34,559 --> 00:04:38,057
+Siéntate. Mire, está entrenado.
+La patita.
+
+66
+00:04:39,556 --> 00:04:41,646
+- ¡Habla!
+- Hola.
+
+67
+00:04:41,832 --> 00:04:43,500
+Subtítulos por aRGENTeaM
+www.argenteam.net
+

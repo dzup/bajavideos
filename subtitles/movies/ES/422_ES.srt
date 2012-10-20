@@ -1,0 +1,4566 @@
+1
+00:01:27,886 --> 00:01:30,912
+<i>Aquí estamos,
+flotando pacíficamente en el cielo.</i>
+
+2
+00:01:31,056 --> 00:01:33,650
+<i>Ciudad Metro, la joya más preciada.</i>
+
+3
+00:01:34,225 --> 00:01:37,752
+<i>Hermosa, ¿no? Pero ¿cómo llegamos aquí?</i>
+
+4
+00:01:38,229 --> 00:01:42,723
+<i>Hace 100 años, los fundadores vieron
+que el mundo estaba cambiando.</i>
+
+5
+00:01:42,801 --> 00:01:46,293
+<i>Tomaron el Monte Sofía
+y lo elevaron de la tierra al cielo...</i>
+
+6
+00:01:46,972 --> 00:01:50,908
+<i>...para convertirlo en un oasis,
+un paraíso flotante.</i>
+
+7
+00:01:52,777 --> 00:01:54,677
+<i>No sabemos realmente qué ocurre...</i>
+
+8
+00:01:54,746 --> 00:01:57,874
+<i>...en esa superficie extraña
+y misteriosa que abandonamos.</i>
+
+9
+00:01:57,949 --> 00:02:00,884
+<i>Pero en Ciudad Metro,
+la vida es mejor que nunca...</i>
+
+10
+00:02:00,952 --> 00:02:03,853
+<i>...gracias a nuestros amigos,
+los robots.</i>
+
+11
+00:02:04,889 --> 00:02:06,914
+<i>Robots hacen las compras.</i>
+
+12
+00:02:07,692 --> 00:02:11,128
+<i>Preparan nuestras comidas
+y nos las sirven.</i>
+
+13
+00:02:11,463 --> 00:02:13,488
+<i>Cuidan de nosotros.</i>
+
+14
+00:02:14,065 --> 00:02:16,090
+<i>Y hacen cosas muy importantes...</i>
+
+15
+00:02:16,167 --> 00:02:19,193
+<i>...como recordarnos de llamar a mamá
+en su cumpleaños.</i>
+
+16
+00:02:19,771 --> 00:02:22,831
+<i>Ya sea criando a nuestros hijos,
+construyendo edificios...</i>
+
+17
+00:02:22,907 --> 00:02:26,638
+<i>...protegiendo nuestra ciudad
+o nuestra salud...</i>
+
+18
+00:02:26,711 --> 00:02:29,612
+<i>...para ellos,
+ninguna labor es demasiado difícil...</i>
+
+19
+00:02:31,349 --> 00:02:33,078
+<i>...ni demasiado insignificante.</i>
+
+20
+00:02:33,151 --> 00:02:38,282
+<i>Además, los robots hacen muchas cosas
+que, honestamente, ya no queremos hacer.</i>
+
+21
+00:02:40,225 --> 00:02:43,251
+<i>No se preocupen,
+enseguida limpian la calle.</i>
+
+22
+00:02:43,461 --> 00:02:46,897
+<i>Escogen a los más brillantes
+para las tareas más excitantes.</i>
+
+23
+00:02:47,465 --> 00:02:50,059
+<i>Hoy es el primer día de trabajo
+de este afortunado.</i>
+
+24
+00:02:50,135 --> 00:02:51,762
+PISTA DE PRUEBAS
+
+25
+00:02:54,039 --> 00:02:58,476
+<i>Y todo gracias al Dr. Tenma...</i>
+
+26
+00:02:58,543 --> 00:03:02,309
+<i>...Director del Ministerio de Ciencia
+y padre de la robótica moderna.</i>
+
+27
+00:03:02,380 --> 00:03:05,042
+<i>Gracias a él,
+la vida es más fácil en Ciudad Metro.</i>
+
+28
+00:03:05,116 --> 00:03:07,209
+Toby, ¿ése no es tu papá?
+
+29
+00:03:07,552 --> 00:03:08,849
+Sí.
+
+30
+00:03:09,587 --> 00:03:13,683
+<i>Nuestros amigos los robots nos ayudan.
+Miles son construidos a diario...</i>
+
+31
+00:03:13,758 --> 00:03:16,727
+<i>...y miles,
+desechados en ese ciclo interminable...</i>
+
+32
+00:03:16,795 --> 00:03:19,764
+<i>...que preserva a nuestra gran ciudad.</i>
+
+33
+00:03:19,831 --> 00:03:23,494
+<i>Gracias por todo, muchachos.
+Oxídense en paz.</i>
+
+34
+00:03:25,070 --> 00:03:27,265
+¿Listos para una prueba sorpresa?
+
+35
+00:03:27,706 --> 00:03:29,173
+¿Qué?
+
+36
+00:03:29,240 --> 00:03:30,366
+Comiencen.
+
+37
+00:03:31,543 --> 00:03:34,842
+Ahora sí que estoy en problemas.
+
+38
+00:03:46,858 --> 00:03:48,689
+¿Algún problema, Toby?
+
+39
+00:03:48,760 --> 00:03:51,661
+Terminé y quiero marcharme.
+
+40
+00:03:51,930 --> 00:03:53,090
+¿Terminaste?
+
+41
+00:03:53,298 --> 00:03:56,267
+Por ser una prueba complicada,
+no fue tan complicada.
+
+42
+00:03:56,634 --> 00:03:59,626
+Supongo que no tiene sentido
+que te quedes.
+
+43
+00:04:00,772 --> 00:04:02,399
+Buena suerte.
+
+44
+00:04:06,111 --> 00:04:07,271
+PRUEBA DE FÍSICA
+RESULTADO: 100%
+
+45
+00:04:07,712 --> 00:04:09,202
+Igualito a su padre.
+
+46
+00:04:10,115 --> 00:04:12,845
+Hola, señor Toby. ¿Tuvo un buen día?
+
+47
+00:04:12,917 --> 00:04:14,145
+Rápido, Orrin.
+
+48
+00:04:15,153 --> 00:04:18,486
+Gracias, señor Toby.
+Y muy buen lanzamiento.
+
+49
+00:04:21,359 --> 00:04:23,156
+- Hola, hijo.
+- Hola, señor.
+
+50
+00:04:23,228 --> 00:04:24,957
+- ¿Todo bien?
+- Sensacional.
+
+51
+00:04:25,096 --> 00:04:28,998
+Tuvimos una prueba sorpresa.
+Pero estoy seguro de que saqué el 100%.
+
+52
+00:04:29,067 --> 00:04:33,401
+Muy bien, pero no quiero
+que te vuelvas displicente.
+
+53
+00:04:33,872 --> 00:04:37,706
+Debes seguir estudiando.
+Hacia delante y hacia arriba.
+
+54
+00:04:37,976 --> 00:04:39,204
+Seguro, papá.
+
+55
+00:04:41,279 --> 00:04:44,771
+Sé que te dije que iríamos
+al simposio de mecánica cuántica...
+
+56
+00:04:44,849 --> 00:04:47,147
+...pero tendré que debértela.
+
+57
+00:04:47,285 --> 00:04:51,381
+- Pero me prometiste.
+- Lo siento, pero es inevitable.
+
+58
+00:04:51,556 --> 00:04:54,548
+El Presidente adelantó
+la inauguración del Conciliador.
+
+59
+00:04:54,626 --> 00:04:57,060
+¿El Conciliador? ¡Estás bromeando!
+
+60
+00:04:57,228 --> 00:04:59,719
+Jamás bromeo. Hasta luego, hijo.
+
+61
+00:05:02,433 --> 00:05:03,923
+¿El Conciliador?
+
+62
+00:05:04,135 --> 00:05:08,071
+Orrin, cambio de plan.
+Llévame al Ministerio de Ciencia.
+
+63
+00:05:08,139 --> 00:05:12,633
+Pero, señor Toby,
+su padre me dio órdenes...
+
+64
+00:05:13,211 --> 00:05:17,079
+¡Deténgase! ¿Qué hace?
+
+65
+00:05:17,882 --> 00:05:20,180
+Próxima parada, Ministerio de Ciencia.
+
+66
+00:05:29,594 --> 00:05:31,926
+¿Está listo para sorprenderme, Tenma?
+
+67
+00:05:32,130 --> 00:05:34,792
+¿Ponerme los pelos de punta?
+¿Enseñarme algo imprevisto?
+
+68
+00:05:34,866 --> 00:05:38,893
+- Metafóricamente, sí.
+- Así me gusta.
+
+69
+00:05:39,504 --> 00:05:42,064
+El Dr. Elefun es un colega muy estimado.
+
+70
+00:05:42,140 --> 00:05:44,119
+Puede que no quiera que
+su descubrimiento...
+
+71
+00:05:44,120 --> 00:05:46,099
+...sea usado por los militares.
+
+72
+00:05:46,177 --> 00:05:48,077
+No se preocupe por el Dr. Elefun.
+
+73
+00:05:48,146 --> 00:05:49,704
+- ¡Papá!
+- ¡Deténganlo!
+
+74
+00:05:50,215 --> 00:05:53,548
+¿Qué haces aquí?
+Le di instrucciones precisas a Orrin...
+
+75
+00:05:55,987 --> 00:05:58,683
+Quería ver la demostración.
+Siempre hablas...
+
+76
+00:05:58,756 --> 00:06:00,621
+- ...del Conciliador y...
+- Toby.
+
+77
+00:06:00,692 --> 00:06:02,557
+- ¿Su hijo?
+- Sí, señor.
+
+78
+00:06:02,727 --> 00:06:04,126
+Que venga con nosotros.
+
+79
+00:06:04,195 --> 00:06:05,423
+Liberando a la amenaza.
+
+80
+00:06:05,496 --> 00:06:07,521
+Le vendrá bien. Muy instructivo.
+
+81
+00:06:07,732 --> 00:06:08,790
+Sí, señor.
+
+82
+00:06:09,367 --> 00:06:13,235
+¿Te interesan los robots, hijo?
+¿Los robots armados?
+
+83
+00:06:13,338 --> 00:06:16,830
+Sin duda. Aunque
+los sistemas de entrega subyacentes...
+
+84
+00:06:16,908 --> 00:06:20,173
+...de los Interceptores Clase-D
+más recientes son anticuados.
+
+85
+00:06:21,880 --> 00:06:23,643
+A nadie le gustan los niños listos.
+
+86
+00:06:23,715 --> 00:06:26,206
+Llévenlo a un lugar seguro.
+
+87
+00:06:27,151 --> 00:06:28,982
+- ¡Papá!
+- Es por tu bien, Toby.
+
+88
+00:06:29,053 --> 00:06:30,645
+Dijiste que podía ver al Conciliador.
+
+89
+00:06:30,722 --> 00:06:34,658
+Y lo verás, esta noche por televisión,
+como todo el mundo.
+
+90
+00:06:35,326 --> 00:06:36,850
+<i>Damas y caballeros...</i>
+
+91
+00:06:37,228 --> 00:06:40,891
+...permítanme presentarles
+a la energía Núcleo Azul.
+
+92
+00:06:41,399 --> 00:06:43,560
+Energía Núcleo Azul...
+
+93
+00:06:44,102 --> 00:06:46,593
+...una nueva fuente de poder
+auto-sustentada...
+
+94
+00:06:46,671 --> 00:06:50,869
+...mucho más poderosa y limpia
+que la energía nuclear.
+
+95
+00:06:51,209 --> 00:06:53,507
+La materia prima proviene del espacio.
+
+96
+00:06:53,678 --> 00:06:58,877
+El fragmento de una estrella a millones
+de años luz que ya dejó de existir.
+
+97
+00:06:58,950 --> 00:07:01,680
+Sólo esto queda de ella.
+
+98
+00:07:01,886 --> 00:07:06,084
+Bien utilizada, esta pequeña esfera
+podría transformar...
+
+99
+00:07:06,157 --> 00:07:10,890
+...no sólo la vida en Ciudad Metro,
+sino aquella en la Superficie.
+
+100
+00:07:14,632 --> 00:07:16,964
+Imaginen limpiar las aguas de la Tierra.
+
+101
+00:07:17,035 --> 00:07:19,094
+Imaginen el renacimiento de los bosques.
+
+102
+00:07:19,170 --> 00:07:22,071
+Imaginen revertir
+los efectos de siglos de polución.
+
+103
+00:07:22,273 --> 00:07:25,834
+Sé que es un soñador,
+pero es un científico brillante.
+
+104
+00:07:25,910 --> 00:07:29,175
+Es un idiota peligroso
+con un alto grado de inteligencia.
+
+105
+00:07:29,314 --> 00:07:32,112
+Desafortunadamente,
+todo tiene su precio.
+
+106
+00:07:32,317 --> 00:07:35,650
+Cuando extrajimos la energía azul
+positiva del fragmento...
+
+107
+00:07:35,720 --> 00:07:40,657
+...nos encontramos con un subproducto
+inestable, la energía roja negativa.
+
+108
+00:07:40,892 --> 00:07:42,181
+Me gusta.
+
+109
+00:07:42,193 --> 00:07:44,991
+Las mujeres que votan son
+parciales al color rojo.
+
+110
+00:07:45,063 --> 00:07:48,430
+Hasta que descubramos
+cómo deshacernos de él...
+
+111
+00:07:48,633 --> 00:07:50,328
+¿Qué hacen? ¡Deténganse!
+
+112
+00:07:51,069 --> 00:07:52,764
+¡Manténganlos separados
+o todos moriremos!
+
+113
+00:07:52,837 --> 00:07:54,566
+Hagan lo que dice.
+
+114
+00:07:55,974 --> 00:07:59,341
+¡Esto es escandaloso!
+¿Qué piensa hacer con eso?
+
+115
+00:08:00,445 --> 00:08:02,413
+Darle a la gente de esta ciudad...
+
+116
+00:08:02,480 --> 00:08:04,641
+- ...una razón para reelegirme.
+- ¿Cómo?
+
+117
+00:08:04,849 --> 00:08:08,512
+De la única manera posible,
+con una demostración de poder.
+
+118
+00:08:12,623 --> 00:08:15,421
+- Esto es una injusticia.
+- Tranquilo, muchacho.
+
+119
+00:08:15,994 --> 00:08:17,154
+¡No me deje encerrado!
+
+120
+00:08:17,228 --> 00:08:19,628
+¡No me gustan los lugares pequeños!
+
+121
+00:08:20,031 --> 00:08:23,967
+Tienes 13 años.
+Es hora de que aprendas a ser valiente.
+
+122
+00:08:25,370 --> 00:08:28,464
+Gracias por la lección de vida,
+y por esto.
+
+123
+00:08:28,840 --> 00:08:31,206
+Consejo de amigo, no lo hagas, Tenma.
+
+124
+00:08:31,342 --> 00:08:34,834
+Sabes tan bien como yo,
+sin fondos militares...
+
+125
+00:08:34,979 --> 00:08:38,540
+...todos nuestros proyectos
+quedarían cancelados.
+
+126
+00:08:39,183 --> 00:08:40,343
+Enciéndanlo.
+
+127
+00:08:57,035 --> 00:09:00,368
+Le dije al Presidente:
+"Necesita de alguien musculoso".
+
+128
+00:09:00,571 --> 00:09:02,562
+"Hacia delante y hacia arriba".
+
+129
+00:09:02,707 --> 00:09:04,334
+Carguen el Núcleo Azul.
+
+130
+00:09:11,983 --> 00:09:16,249
+Alto. El Núcleo Azul es
+dulce y brillante, ¿correcto?
+
+131
+00:09:16,487 --> 00:09:19,251
+"Salven a los delfines",
+"Denle una oportunidad a la paz".
+
+132
+00:09:19,323 --> 00:09:21,450
+Es pura energía positiva.
+
+133
+00:09:22,193 --> 00:09:24,354
+Llámenme un soñador, pero creo que...
+
+134
+00:09:24,429 --> 00:09:26,624
+...obtendremos mejores resultados con
+el rojo.
+
+135
+00:09:28,299 --> 00:09:29,323
+Bromea.
+
+136
+00:09:29,400 --> 00:09:34,303
+No pondremos algo tan peligroso
+dentro de algo tan peligroso.
+
+137
+00:09:34,372 --> 00:09:37,239
+Tengo que ganar una elección.
+
+138
+00:09:37,308 --> 00:09:40,436
+Necesito que mi robot sea un luchador,
+no un amante.
+
+139
+00:09:41,012 --> 00:09:43,173
+- Carguen el rojo.
+- No.
+
+140
+00:09:43,247 --> 00:09:45,738
+Entonces lo haré yo. A un lado, cariño.
+
+141
+00:09:49,287 --> 00:09:51,278
+Es como un juego de video.
+
+142
+00:09:58,696 --> 00:10:00,493
+Núcleo cargado.
+
+143
+00:10:01,299 --> 00:10:02,425
+Facilísimo.
+
+144
+00:10:02,834 --> 00:10:04,461
+Activen robots armados.
+
+145
+00:10:11,375 --> 00:10:12,865
+Detesto este trabajo.
+
+146
+00:10:16,881 --> 00:10:18,473
+Esto tengo que verlo.
+
+147
+00:10:18,549 --> 00:10:20,346
+Hora de leer los clasificados.
+
+148
+00:10:28,326 --> 00:10:31,227
+Utiliza al robot contra
+los otros robots. ¿Es posible?
+
+149
+00:10:31,295 --> 00:10:34,287
+Tecnología Adaptante.
+Los absorbe y asume control.
+
+150
+00:10:34,565 --> 00:10:37,693
+Puede que no me haya graduado,
+pero tenía razón.
+
+151
+00:10:38,002 --> 00:10:41,165
+Ustedes los científicos se creen
+los únicos inteligentes.
+
+152
+00:10:44,809 --> 00:10:45,901
+¿Señor?
+
+153
+00:10:53,518 --> 00:10:54,542
+SALIDA DE EMERGENCIA
+
+154
+00:10:59,157 --> 00:11:01,853
+¡Papá! ¡Papá!
+
+155
+00:11:01,926 --> 00:11:02,950
+¡Toby!
+
+156
+00:11:04,128 --> 00:11:06,722
+¡No puedo abrirla!
+
+157
+00:11:07,532 --> 00:11:09,329
+¡Ayúdame, papá! ¡Ayúdame!
+
+158
+00:11:11,102 --> 00:11:13,297
+Nada te pasará, Toby. ¡Yo te rescataré!
+
+159
+00:11:13,371 --> 00:11:14,838
+ANÁLISIS DE BARRERA
+ESCUDO ACTIVADO
+
+160
+00:11:14,906 --> 00:11:15,906
+DESTRUIR ESCUDO
+
+161
+00:11:15,907 --> 00:11:17,772
+Te prometo que todo saldrá bien.
+
+162
+00:11:25,583 --> 00:11:26,607
+¡Toby!
+
+163
+00:11:27,718 --> 00:11:28,810
+ESCUDO INTACTO
+
+164
+00:11:29,020 --> 00:11:30,309
+ABSORBER
+
+165
+00:11:32,723 --> 00:11:33,951
+Disparen.
+
+166
+00:12:03,187 --> 00:12:06,645
+¿Dónde está Toby? ¿Dónde está mi hijo?
+
+167
+00:12:08,859 --> 00:12:11,089
+Lo siento, Tenma.
+
+168
+00:12:27,311 --> 00:12:28,801
+Es culpa mía.
+
+169
+00:13:25,970 --> 00:13:28,063
+ANÁLISIS DE ADN
+
+170
+00:14:07,778 --> 00:14:09,439
+No come ni duerme.
+
+171
+00:14:09,647 --> 00:14:11,945
+- Lo sé.
+- Ha enloquecido, ¿no?
+
+172
+00:14:12,450 --> 00:14:15,908
+Si pierdes un hijo y no enloqueces...
+
+173
+00:14:16,220 --> 00:14:17,619
+...no eres humano.
+
+174
+00:14:18,622 --> 00:14:19,748
+Váyanse.
+
+175
+00:14:36,374 --> 00:14:41,471
+Se parece a él, ¿no?
+Una réplica perfecta.
+
+176
+00:14:41,746 --> 00:14:45,011
+Cargué todos los recuerdos de Toby.
+
+177
+00:14:45,816 --> 00:14:49,377
+- Se creerá Toby.
+- No esperes demasiado, Tenma.
+
+178
+00:14:50,054 --> 00:14:53,615
+Tiene el sistema defensivo más avanzado.
+
+179
+00:14:53,858 --> 00:14:55,450
+No volveré a perderlo.
+
+180
+00:14:56,394 --> 00:14:58,191
+¿Trajiste lo que pedí?
+
+181
+00:14:58,262 --> 00:15:00,662
+No podía rehusarme ante tu sufrimiento.
+
+182
+00:15:05,736 --> 00:15:09,604
+El Núcleo es impredecible.
+No puedo garantizar el efecto...
+
+183
+00:15:09,840 --> 00:15:12,570
+¡Será perfecto! ¡Perfecto!
+
+184
+00:15:13,411 --> 00:15:14,810
+Igual que Toby.
+
+185
+00:16:21,879 --> 00:16:22,937
+¿Papá?
+
+186
+00:16:23,681 --> 00:16:24,909
+Toby.
+
+187
+00:16:32,089 --> 00:16:33,113
+¡Papá!
+
+188
+00:16:33,924 --> 00:16:35,551
+Bienvenido, hijo.
+
+189
+00:16:36,126 --> 00:16:40,722
+Gracias, Elefun.
+Ahora lo llevaré a casa.
+
+190
+00:16:41,165 --> 00:16:44,498
+Le dedicaré todo mi tiempo.
+Compartiremos todo lo bueno.
+
+191
+00:16:45,102 --> 00:16:46,501
+Adiós, Dr. Elefun.
+
+192
+00:16:47,171 --> 00:16:49,002
+Adiós, Toby.
+
+193
+00:16:50,841 --> 00:16:52,308
+Increíble.
+
+194
+00:17:13,364 --> 00:17:14,490
+¿Papá?
+
+195
+00:17:16,934 --> 00:17:20,461
+Buenos días, hijo. ¿Cómo te sientes?
+
+196
+00:17:21,505 --> 00:17:25,669
+Es algo extraño. ¿Estuve enfermo?
+
+197
+00:17:25,809 --> 00:17:29,802
+Estás bien. Eres perfecto.
+Eres maravilloso.
+
+198
+00:17:30,548 --> 00:17:32,379
+Qué bien, porque...
+
+199
+00:17:39,089 --> 00:17:40,420
+¿Estás bien?
+
+200
+00:17:44,828 --> 00:17:49,094
+Debo tener los cables cruzados.
+¡Corto circuito!
+
+201
+00:17:49,166 --> 00:17:51,726
+No puedes ser tú. Estás...
+
+202
+00:17:53,170 --> 00:17:54,694
+¡Cielos!
+
+203
+00:17:55,105 --> 00:17:56,697
+Estás...
+
+204
+00:17:56,774 --> 00:17:58,139
+¿Estás bien?
+
+205
+00:17:58,342 --> 00:18:01,334
+Llegarás tarde a la escuela.
+
+206
+00:18:04,315 --> 00:18:09,878
+Es una alegría volver a verte.
+
+207
+00:18:10,521 --> 00:18:12,989
+Siéntate, Toby. Quiero hablar contigo.
+
+208
+00:18:13,223 --> 00:18:14,247
+Seguro.
+
+209
+00:18:14,325 --> 00:18:18,853
+He decidido que ya no irás a la escuela.
+
+210
+00:18:19,196 --> 00:18:22,063
+Yo te enseñaré aquí en casa.
+
+211
+00:18:22,232 --> 00:18:23,358
+Buena idea.
+
+212
+00:18:23,500 --> 00:18:26,333
+Parece que vamos a pasar
+más tiempo juntos, Orrin.
+
+213
+00:18:26,570 --> 00:18:32,534
+¿Juntos? Será muy agradable, señor Toby.
+
+214
+00:18:33,611 --> 00:18:35,476
+Cielos.
+
+215
+00:18:35,546 --> 00:18:37,096
+Deja que el robot haga su trabajo, Toby.
+
+216
+00:18:37,097 --> 00:18:38,447
+Disculpa.
+
+217
+00:18:39,483 --> 00:18:43,510
+Si vas a enseñarme en casa,
+¿qué del Ministerio?
+
+218
+00:18:43,587 --> 00:18:47,250
+Mi trabajo es ser tu padre.
+
+219
+00:18:48,492 --> 00:18:50,653
+¡Estoy tan friqueado!
+
+220
+00:18:53,097 --> 00:18:54,997
+Comencemos con algo familiar.
+
+221
+00:18:55,833 --> 00:18:58,563
+Cálculo cuatridimensional.
+Tu tema favorito.
+
+222
+00:18:59,670 --> 00:19:00,728
+Supongo.
+
+223
+00:19:00,804 --> 00:19:04,934
+Si el señor lo desea,
+yo podría ayudar a...
+
+224
+00:19:06,110 --> 00:19:09,705
+Mala idea. Soy un robot.
+¿En qué estoy pensando?
+
+225
+00:19:11,815 --> 00:19:13,214
+Camino equivocado.
+
+226
+00:19:14,218 --> 00:19:16,345
+Muy bien.
+
+227
+00:19:17,855 --> 00:19:19,254
+Excelente.
+
+228
+00:19:21,892 --> 00:19:23,416
+Solución interesante.
+
+229
+00:19:24,395 --> 00:19:26,022
+Bien.
+
+230
+00:19:29,700 --> 00:19:32,999
+Bravo. Maravilloso, Toby.
+De primera, hijo.
+
+231
+00:19:33,070 --> 00:19:34,469
+No has visto nada.
+
+232
+00:19:41,645 --> 00:19:42,712
+¡Hola!
+
+233
+00:19:42,713 --> 00:19:45,876
+<i>Esa fractal se ve bien
+Coseno, tangente, ¡es un cuadrado!</i>
+
+234
+00:19:46,016 --> 00:19:48,883
+<i>¿Esa secante es alta o baja?
+Miren cómo bailo...</i>
+
+235
+00:19:51,822 --> 00:19:54,916
+Regresemos a lo básico. ¿Recuerdas éste?
+
+236
+00:19:55,626 --> 00:19:57,617
+<i>Kant, Crítica de la Razón Pura.</i>
+
+237
+00:19:57,795 --> 00:20:00,457
+Solía leértelo en la cama.
+
+238
+00:20:00,864 --> 00:20:02,593
+¿Para dormirme?
+
+239
+00:20:02,700 --> 00:20:05,168
+¡Sí! Lo pedías todas las noches.
+
+240
+00:20:06,670 --> 00:20:07,796
+No me refería...
+
+241
+00:20:07,871 --> 00:20:11,671
+Léelos otra vez.
+Pon en funcionamiento ese cerebro.
+
+242
+00:20:29,426 --> 00:20:30,493
+DESCARTES
+ANTES QUE EL CABALLO
+
+243
+00:20:30,494 --> 00:20:31,722
+El siguiente.
+
+244
+00:20:33,897 --> 00:20:35,228
+LEONARDO DA VINCI
+Obras completas
+
+245
+00:20:36,033 --> 00:20:37,398
+MÁQUINAS DE GUERRA
+
+246
+00:20:40,404 --> 00:20:42,895
+VUELO
+
+247
+00:20:51,949 --> 00:20:54,679
+Hermoso. ¡Mío!
+
+248
+00:20:56,053 --> 00:20:59,113
+- Casi.
+- Bien hecho. Eres increíble.
+
+249
+00:20:59,456 --> 00:21:04,086
+No me he divertido tanto desde... Nunca.
+
+250
+00:21:04,361 --> 00:21:05,555
+Observa.
+
+251
+00:21:13,804 --> 00:21:17,831
+No es como para desmayarse,
+pero quedé impresionado.
+
+252
+00:21:17,975 --> 00:21:19,704
+Eso no es nada. ¡Mira!
+
+253
+00:21:26,483 --> 00:21:30,078
+¡Eso sí que es impresionante,
+señor Toby!
+
+254
+00:21:30,387 --> 00:21:32,617
+Llámame "Toby", Orrin.
+
+255
+00:21:43,500 --> 00:21:47,561
+Te dije que leyeras los libros,
+no que los destruyeras.
+
+256
+00:21:48,238 --> 00:21:51,105
+Sólo quería poner a prueba
+las teorías de Da Vinci.
+
+257
+00:21:51,175 --> 00:21:57,105
+Puede que yo lo haya alentado
+a seguir adelante, señor.
+
+258
+00:22:02,019 --> 00:22:05,648
+No deberías usar esa gorra.
+
+259
+00:22:06,323 --> 00:22:10,851
+Un robot no debería usar
+la gorra de mi hijo... De Toby.
+
+260
+00:22:19,469 --> 00:22:22,927
+Está bien.
+Ni siquiera me gusta esa gorra.
+
+261
+00:22:27,411 --> 00:22:28,901
+Ve a tu dormitorio.
+
+262
+00:22:29,112 --> 00:22:31,171
+- Pero, papá...
+- ¡Obedéceme!
+
+263
+00:22:45,896 --> 00:22:47,693
+¿Tenma? ¿Qué ocurre?
+
+264
+00:22:48,432 --> 00:22:50,332
+Creo que cometí un grave error.
+
+265
+00:22:50,400 --> 00:22:54,302
+Creí que sería como Toby, pero no lo es.
+
+266
+00:22:54,538 --> 00:22:56,938
+Es raro. Es muy raro.
+
+267
+00:22:57,207 --> 00:22:59,232
+¿Raro? ¿Cómo?
+
+268
+00:22:59,443 --> 00:23:02,935
+Es brillante como Toby, pero distinto.
+
+269
+00:23:03,447 --> 00:23:07,042
+No puedes esperar
+que sea una copia exacta. Dale tiempo.
+
+270
+00:23:07,150 --> 00:23:08,447
+No comprendes.
+
+271
+00:23:09,453 --> 00:23:11,614
+Él iba a reemplazar a Toby...
+
+272
+00:23:11,688 --> 00:23:16,352
+...pero sólo me recuerda
+que Toby se fue...
+
+273
+00:23:17,928 --> 00:23:19,725
+...y nunca regresará.
+
+274
+00:23:29,072 --> 00:23:32,769
+¿Qué hay de diferente?
+Nunca había visto a papá enojado.
+
+275
+00:23:39,416 --> 00:23:41,350
+Mira el peinado de ése.
+
+276
+00:23:41,985 --> 00:23:43,612
+Ni que tuviera cuernos.
+
+277
+00:23:43,854 --> 00:23:44,946
+¡Buenísima!
+
+278
+00:23:45,022 --> 00:23:47,183
+¿Cómo que tengo cuernos? ¡Es gomina!
+
+279
+00:23:47,925 --> 00:23:51,383
+- Un momento. ¿Los entiendo?
+- Terrorífico.
+
+280
+00:23:51,461 --> 00:23:53,622
+- ¿Qué cosa?
+- Pareciera entendernos.
+
+281
+00:23:54,231 --> 00:23:56,665
+- ¡Tonto!
+- ¡Oigo lo que dicen!
+
+282
+00:23:57,134 --> 00:23:58,567
+Como si pudiera oírnos.
+
+283
+00:23:58,635 --> 00:24:00,762
+Imposible. ¡Es un humano!
+
+284
+00:24:01,538 --> 00:24:04,268
+Vamos a gotear aceite en una estatua.
+
+285
+00:24:07,945 --> 00:24:10,470
+¿Cómo es que puedo entenderlos?
+Son robots.
+
+286
+00:24:10,781 --> 00:24:12,112
+No queremos problemas.
+
+287
+00:24:12,182 --> 00:24:13,706
+Sólo quiero saber...
+
+288
+00:24:13,784 --> 00:24:15,775
+...qué está pasando. ¿Qué me pasó?
+
+289
+00:24:21,658 --> 00:24:26,322
+Vamos a regresar bien despacito.
+
+290
+00:24:30,867 --> 00:24:32,459
+¡Espera! ¡Ahí vamos!
+
+291
+00:24:40,010 --> 00:24:41,671
+Eso sí que me friquea.
+
+292
+00:25:13,377 --> 00:25:15,538
+Camarero, este bife no está cocido.
+
+293
+00:26:49,072 --> 00:26:53,065
+Esto es increíble.
+Tengo que enseñárselo a papá.
+
+294
+00:26:57,080 --> 00:26:58,672
+PROSPERIDAD Y PAZ
+VOTEN POR LOGAN
+
+295
+00:26:59,950 --> 00:27:02,714
+¿Cómo es que mi índice de aprobación es
+tan bajo?
+
+296
+00:27:02,786 --> 00:27:07,314
+Corté los impuestos
+para mis amigos más influyentes.
+
+297
+00:27:07,591 --> 00:27:08,956
+¿Qué más quieren?
+
+298
+00:27:09,025 --> 00:27:12,358
+Localizamos un objeto volador
+no identificado, señor.
+
+299
+00:27:12,629 --> 00:27:14,563
+¿Los habitantes de la Superficie
+nos dispararon?
+
+300
+00:27:14,631 --> 00:27:17,429
+¡Esto es lo que estaba esperando!
+¡Declaren guerra!
+
+301
+00:27:17,501 --> 00:27:18,968
+Con esto ganaré la reelección.
+
+302
+00:27:19,035 --> 00:27:20,764
+No proviene de la Superficie.
+
+303
+00:27:20,837 --> 00:27:22,964
+Es mi oponente. Quiere guerra.
+
+304
+00:27:23,173 --> 00:27:24,240
+Es implacable.
+
+305
+00:27:24,241 --> 00:27:25,799
+¡Es energía Núcleo Azul!
+
+306
+00:27:25,876 --> 00:27:29,073
+¿Qué? Elefun me dijo
+que había sido destruida.
+
+307
+00:27:29,312 --> 00:27:32,873
+¡Localícenlo! ¡Movilicen todas
+las unidades! ¡Capturen esa cosa!
+
+308
+00:27:34,851 --> 00:27:36,842
+Vine lo más rápido que pude.
+
+309
+00:27:37,320 --> 00:27:39,185
+¿Dónde está Toby?
+
+310
+00:27:39,256 --> 00:27:42,851
+En su dormitorio.
+Desconéctalo y llévatelo.
+
+311
+00:27:42,926 --> 00:27:46,384
+No soportaría volver a ver su cara.
+
+312
+00:27:47,164 --> 00:27:50,133
+No puedes descartarlo
+como si fuera chatarra.
+
+313
+00:27:50,200 --> 00:27:51,292
+¿Papá?
+
+314
+00:27:53,403 --> 00:27:54,802
+¿Qué está pasando?
+
+315
+00:27:55,005 --> 00:27:56,495
+¿Por qué hablas así de mí?
+
+316
+00:27:56,573 --> 00:27:59,371
+Ha habido un pequeño malentendido.
+
+317
+00:27:59,576 --> 00:28:03,512
+En realidad, no eres un niño cualquiera.
+
+318
+00:28:04,247 --> 00:28:05,373
+Lo sé.
+
+319
+00:28:05,448 --> 00:28:09,407
+Puedo volar.
+Taladrar roca sólida. Es increíble.
+
+320
+00:28:10,453 --> 00:28:12,751
+¿Cómo pude creer que esto funcionaría?
+
+321
+00:28:13,123 --> 00:28:16,320
+¿Qué pasa? ¿Por qué no me quieres?
+
+322
+00:28:16,393 --> 00:28:19,123
+Está programado
+con las memorias de tu hijo.
+
+323
+00:28:19,396 --> 00:28:22,194
+- ¿Programado?
+- ¿No significa nada para ti?
+
+324
+00:28:23,700 --> 00:28:25,497
+No es mi hijo.
+
+325
+00:28:26,636 --> 00:28:27,694
+Papá.
+
+326
+00:28:28,972 --> 00:28:32,738
+No soy tu padre. No eres Toby.
+
+327
+00:28:32,809 --> 00:28:34,709
+Eres una copia.
+
+328
+00:28:35,612 --> 00:28:37,637
+No mi hijo, un robot.
+
+329
+00:28:40,483 --> 00:28:44,078
+Y yo ya no te quiero.
+
+330
+00:28:48,625 --> 00:28:52,755
+No puedo ver el futuro,
+pero sé que hay un lugar para ti.
+
+331
+00:28:52,829 --> 00:28:54,057
+Encuéntralo.
+
+332
+00:28:54,130 --> 00:28:58,396
+Es mi padre. Ésta es mi casa.
+Sólo eso sé.
+
+333
+00:28:58,602 --> 00:29:01,127
+Todos tienen su destino, Toby.
+
+334
+00:29:01,671 --> 00:29:04,606
+¿No lo oyó? No soy Toby.
+
+335
+00:29:05,408 --> 00:29:06,568
+Por favor, Elefun.
+
+336
+00:29:33,436 --> 00:29:34,664
+Es cierto.
+
+337
+00:29:35,939 --> 00:29:37,099
+¿Qué?
+
+338
+00:29:38,875 --> 00:29:42,311
+Localizamos la fuente de la señal.
+Es un niño.
+
+339
+00:29:42,746 --> 00:29:44,680
+¡Los indicadores sobrepasan
+todos los niveles!
+
+340
+00:29:44,748 --> 00:29:46,511
+¿El hijo de Tenma?
+
+341
+00:29:46,816 --> 00:29:51,480
+¡Claro que no! Cielos.
+Tenma perdió la cabeza.
+
+342
+00:29:52,122 --> 00:29:53,214
+Tráiganlo.
+
+343
+00:29:53,290 --> 00:29:55,918
+Aguijón Uno.
+Armamento configurado para captura.
+
+344
+00:30:00,230 --> 00:30:01,561
+¡Despegó!
+
+345
+00:30:01,631 --> 00:30:04,794
+Comandante, confronte al sujeto
+con intención de captura.
+
+346
+00:30:12,676 --> 00:30:13,904
+¿Qué quieren?
+
+347
+00:30:14,144 --> 00:30:16,408
+Centro de Comando, lo hemos avistado.
+
+348
+00:30:31,227 --> 00:30:32,353
+BLANCO ESTABLECIDO
+
+349
+00:30:40,837 --> 00:30:43,499
+Voy a regresar estas cosas.
+
+350
+00:30:43,573 --> 00:30:45,564
+¡Voy a casarme!
+
+351
+00:30:45,875 --> 00:30:46,967
+¡Captúrenlo!
+
+352
+00:30:47,043 --> 00:30:48,067
+RASTREANDO
+
+353
+00:30:51,247 --> 00:30:52,680
+¿Adónde fue?
+
+354
+00:30:54,017 --> 00:30:55,143
+¿Qué?
+
+355
+00:31:11,368 --> 00:31:13,734
+Lo tenemos. Estamos regresando.
+
+356
+00:31:25,882 --> 00:31:27,406
+NÁUSEA ENORME
+
+357
+00:32:03,186 --> 00:32:04,448
+FLUIDOS CORPORALES
+EVACUACIÓN REPENTINA
+
+358
+00:32:08,491 --> 00:32:10,618
+Envíen el Espíritu de la Libertad.
+
+359
+00:32:11,127 --> 00:32:13,527
+Destruyan al robot y colecten el Núcleo.
+
+360
+00:32:15,799 --> 00:32:16,959
+A salvo.
+
+361
+00:32:19,169 --> 00:32:21,603
+¿Otra vez? ¿Qué les pasa?
+
+362
+00:32:21,671 --> 00:32:22,763
+¡Te adoro!
+
+363
+00:32:23,940 --> 00:32:24,998
+¡Vamos!
+
+364
+00:32:43,827 --> 00:32:44,987
+¡Fuego!
+
+365
+00:33:03,580 --> 00:33:04,740
+Destrúyanlo.
+
+366
+00:33:12,555 --> 00:33:13,817
+¡Gol!
+
+367
+00:33:19,829 --> 00:33:21,319
+¿Adónde va?
+
+368
+00:33:21,431 --> 00:33:23,922
+- A la Superficie.
+- ¡Encuéntrenlo!
+
+369
+00:33:24,000 --> 00:33:26,298
+Estoy declarando
+un estado de emergencia nacional.
+
+370
+00:33:26,369 --> 00:33:31,898
+Buscaremos al hijo de Tenma
+hasta que lo encontremos.
+
+371
+00:33:54,297 --> 00:33:56,128
+Bienvenido a tu nueva casa.
+
+372
+00:33:57,767 --> 00:33:58,995
+Hola.
+
+373
+00:33:59,736 --> 00:34:02,762
+¡Baterías! ¡Tiene baterías nuevas!
+
+374
+00:34:02,972 --> 00:34:05,463
+¿Compartirías un par de voltios
+con un compañero robot?
+
+375
+00:34:05,542 --> 00:34:06,566
+Baterías nuevas.
+
+376
+00:34:06,643 --> 00:34:09,669
+Ayúdame, hijo. Me estoy...
+
+377
+00:34:11,047 --> 00:34:13,743
+Mesa para uno. ¿Fumador o no fumador?
+
+378
+00:34:13,816 --> 00:34:16,649
+Fumador. Estoy fumando.
+De eso no hay duda.
+
+379
+00:34:16,886 --> 00:34:18,979
+Eres uno de nosotros ahora.
+
+380
+00:34:19,055 --> 00:34:22,047
+No soy uno de ustedes.
+
+381
+00:34:22,125 --> 00:34:23,888
+Eres robot, ¿no?
+
+382
+00:34:24,594 --> 00:34:27,324
+- Sí...
+- Bienvenido al basural.
+
+383
+00:34:27,397 --> 00:34:29,729
+Aquí acabamos todos, tarde o temprano.
+
+384
+00:34:29,999 --> 00:34:31,899
+Aún no estoy listo.
+
+385
+00:34:31,968 --> 00:34:34,493
+¡Suéltenme! ¿Qué hacen?
+
+386
+00:34:34,571 --> 00:34:36,732
+Uno de nosotros.
+
+387
+00:34:36,806 --> 00:34:38,095
+¡Cuidado!
+
+388
+00:34:54,757 --> 00:34:56,156
+¿Qué hago?
+
+389
+00:34:58,461 --> 00:34:59,621
+¿Papá?
+
+390
+00:35:03,333 --> 00:35:04,425
+¿Quién es?
+
+391
+00:35:13,476 --> 00:35:16,843
+Te gusto, ¿no? "Basurero".
+
+392
+00:35:16,913 --> 00:35:18,744
+¿Estás perdido, Basurero?
+
+393
+00:35:20,149 --> 00:35:21,980
+Yo sí.
+
+394
+00:35:23,219 --> 00:35:24,880
+¿Qué pasa?
+
+395
+00:35:24,988 --> 00:35:26,683
+¿Alguien en apuros?
+
+396
+00:35:30,460 --> 00:35:32,052
+¡Espera, Basurero!
+
+397
+00:35:34,664 --> 00:35:36,029
+¿Aquí?
+
+398
+00:35:37,734 --> 00:35:39,759
+¿En este lugar? ¡Hola!
+
+399
+00:35:40,870 --> 00:35:42,269
+Millas de profundidad.
+
+400
+00:35:42,338 --> 00:35:44,966
+¡Ese agujero parece ser muy profundo!
+
+401
+00:35:48,478 --> 00:35:51,140
+Rápido. Conténganlo. ¡Apúrate!
+
+402
+00:35:51,214 --> 00:35:53,944
+¡Bien hecho! Aquí tienes.
+
+403
+00:35:54,083 --> 00:35:56,574
+¡Basta!
+
+404
+00:35:57,920 --> 00:36:00,445
+- No es un robot.
+- Es un niño.
+
+405
+00:36:01,457 --> 00:36:06,451
+- Así es. Soy un niño como ustedes.
+- ¿Qué?
+
+406
+00:36:06,529 --> 00:36:09,259
+Queremos robots, no niños,
+estúpido come basura.
+
+407
+00:36:09,465 --> 00:36:11,296
+¿De dónde eres, no robot?
+
+408
+00:36:11,668 --> 00:36:13,499
+De Ciudad Metro.
+
+409
+00:36:13,569 --> 00:36:17,403
+¿Pueden creerlo? Es de Ciudad Metro...
+
+410
+00:36:17,473 --> 00:36:19,771
+- ...y me está hablando.
+- ¿Estás bien?
+
+411
+00:36:19,909 --> 00:36:21,638
+¡Cielos! Volvió a hablarme.
+
+412
+00:36:21,711 --> 00:36:25,408
+Lo escribiré en mi diario,
+el día más increíble de mi vida.
+
+413
+00:36:25,481 --> 00:36:28,507
+Ya entiendo.
+No te gusta la gente de Ciudad Metro.
+
+414
+00:36:28,751 --> 00:36:32,187
+Ciudad Metro.
+Robots que cumplen todos tus deseos.
+
+415
+00:36:32,288 --> 00:36:34,882
+Me gustaría visitar, sólo por un día.
+
+416
+00:36:35,491 --> 00:36:36,822
+No puedes.
+
+417
+00:36:36,893 --> 00:36:40,294
+"No se permiten tontos de la Superficie"
+es la regla.
+
+418
+00:36:40,630 --> 00:36:42,291
+¿Por qué querrías ir?
+
+419
+00:36:42,365 --> 00:36:44,196
+Creen que eres basura.
+
+420
+00:36:44,867 --> 00:36:46,596
+Mira esto.
+
+421
+00:36:47,437 --> 00:36:49,962
+¿Puedes creer
+que alguien lo haya desechado?
+
+422
+00:36:50,239 --> 00:36:51,866
+El que fue a Sevilla...
+
+423
+00:36:52,375 --> 00:36:54,434
+¿Qué haces aquí?
+
+424
+00:36:55,178 --> 00:36:59,706
+No sé. En busca de algo.
+En alguna parte.
+
+425
+00:36:59,916 --> 00:37:01,178
+¿Te escapaste?
+
+426
+00:37:01,484 --> 00:37:05,614
+No exactamente.
+Sugirieron que encontrara otro lugar.
+
+427
+00:37:06,189 --> 00:37:07,554
+O algo así.
+
+428
+00:37:07,623 --> 00:37:09,989
+Viejo, eso quiere decir que te echaron.
+
+429
+00:37:10,193 --> 00:37:13,219
+Zane.
+
+430
+00:37:13,463 --> 00:37:15,090
+- Widget.
+- Sludge.
+
+431
+00:37:15,164 --> 00:37:16,961
+- Y soy mayor que ella.
+- Por 90 segundos.
+
+432
+00:37:17,033 --> 00:37:19,729
+Yo soy Cora. ¿Cómo te llamas?
+
+433
+00:37:20,837 --> 00:37:22,805
+¡Viva la robot-lución!
+
+434
+00:37:23,206 --> 00:37:24,730
+¿Qué acaba de pasar?
+
+435
+00:37:26,776 --> 00:37:31,679
+¿Viste la cara de los humanos? ¡Estaban
+temblando de miedo, los capitalistas!
+
+436
+00:37:33,282 --> 00:37:35,113
+No te preocupes. Estás a salvo.
+
+437
+00:37:35,184 --> 00:37:36,947
+¡Te rescató...
+
+438
+00:37:37,687 --> 00:37:39,951
+...el Frente Revolucionario Robótico!
+
+439
+00:37:41,290 --> 00:37:42,814
+Soy Chispa, el cerebro.
+
+440
+00:37:42,892 --> 00:37:45,588
+Yo soy Robotsky, el músculo.
+
+441
+00:37:46,129 --> 00:37:49,792
+Y yo soy Mike, el refrigerador.
+Soy una refrigeradora.
+
+442
+00:37:50,199 --> 00:37:51,826
+¡Has sido liberado!
+
+443
+00:37:52,135 --> 00:37:56,595
+Adelante, camarada.
+Da tu primer paso como robot libre.
+
+444
+00:37:56,706 --> 00:37:57,900
+¡Hazlo!
+
+445
+00:38:01,611 --> 00:38:02,908
+Diferente, ¿no?
+
+446
+00:38:04,447 --> 00:38:09,043
+- Mojado.
+- ¡Se siente más mojado! ¡Libertad!
+
+447
+00:38:10,486 --> 00:38:12,716
+¿Qué haces?
+
+448
+00:38:14,190 --> 00:38:17,682
+Disculpa. Lo recogeré.
+
+449
+00:38:17,927 --> 00:38:19,326
+Sí, por favor.
+
+450
+00:38:20,630 --> 00:38:23,531
+Tienes aspecto
+de modelo avanzado, hermano.
+
+451
+00:38:23,699 --> 00:38:26,793
+¿Estás exento...
+
+452
+00:38:26,869 --> 00:38:29,997
+- ...de las leyes robóticas?
+- ¿Cuáles eran?
+
+453
+00:38:30,173 --> 00:38:33,904
+Un robot no puede lastimar
+a un humano...
+
+454
+00:38:33,976 --> 00:38:36,274
+...aburrido, aburrido, aburrido.
+
+455
+00:38:36,345 --> 00:38:38,677
+No quiero lastimar a nadie.
+
+456
+00:38:38,915 --> 00:38:42,851
+¡Tuercas! El FRR se dedica
+a liberar a todo robot...
+
+457
+00:38:42,919 --> 00:38:46,320
+...de la esclavitud humana
+por cualquier medio necesario.
+
+458
+00:38:46,389 --> 00:38:49,756
+Y se refiere
+a cualquier medio necesario.
+
+459
+00:38:49,826 --> 00:38:51,851
+¿Cómo te llamas, camarada?
+
+460
+00:38:54,497 --> 00:38:55,521
+Mediocre.
+
+461
+00:38:55,698 --> 00:38:57,632
+Necesitas algo con más fuerza.
+
+462
+00:38:57,700 --> 00:39:01,500
+- Algo como "El Hace Hielos".
+- O "El aniquilador".
+
+463
+00:39:01,971 --> 00:39:03,563
+O "Paulina".
+
+464
+00:39:05,708 --> 00:39:07,733
+Espera, aún no se nos ocurrió un nombre.
+
+465
+00:39:12,148 --> 00:39:14,207
+¿Qué tal "Astro"?
+
+466
+00:39:14,650 --> 00:39:17,244
+Si no eres capaz
+de sugerir algo decente...
+
+467
+00:39:17,320 --> 00:39:20,016
+- ...no te entrometas.
+- Disculpa.
+
+468
+00:39:20,089 --> 00:39:21,784
+Piensa.
+
+469
+00:39:22,124 --> 00:39:23,182
+¡Ya sé!
+
+470
+00:39:23,259 --> 00:39:25,750
+- ¡Astro!
+- Maravilloso.
+
+471
+00:39:25,828 --> 00:39:27,762
+Moderno. Espacial. Me encanta.
+
+472
+00:39:27,830 --> 00:39:30,128
+Gracias, muchachos. Tengo que irme.
+
+473
+00:39:30,333 --> 00:39:32,324
+¡Enséñale nuestro plan!
+
+474
+00:39:32,568 --> 00:39:35,128
+Sí, camarada. ¡Hamegg!
+
+475
+00:39:35,204 --> 00:39:36,493
+HAMEGG
+REPARACIÓN DE ROBOTS
+
+476
+00:39:38,941 --> 00:39:41,569
+- Genial.
+- Esclaviza a nuestra especie.
+
+477
+00:39:41,944 --> 00:39:43,673
+Debemos darle un castigo ejemplar.
+
+478
+00:39:43,746 --> 00:39:47,477
+Hacer algo tan horrible, tan temible...
+
+479
+00:39:47,550 --> 00:39:50,678
+...que los humanos se vean forzados
+a liberar a los robots.
+
+480
+00:39:50,753 --> 00:39:52,914
+- ¿Qué?
+- Entraremos a escondidas.
+
+481
+00:39:53,089 --> 00:39:55,819
+- Esperaremos por Hamegg.
+- ¿Y?
+
+482
+00:39:55,992 --> 00:39:58,825
+- Cuando aparezca...
+- ¿Sí?
+
+483
+00:39:58,895 --> 00:40:02,023
+Recuerda que debemos obedecer
+las leyes robóticas.
+
+484
+00:40:02,131 --> 00:40:06,363
+¡Vamos a hacerle cosquillas
+con una pluma!
+
+485
+00:40:07,069 --> 00:40:08,798
+¡Viva la robot-lución!
+
+486
+00:40:08,938 --> 00:40:09,962
+¿Ése es el plan?
+
+487
+00:40:10,039 --> 00:40:12,439
+Ya estamos pensando en comprar la pluma.
+
+488
+00:40:12,975 --> 00:40:14,264
+¡Cielos!
+
+489
+00:40:14,410 --> 00:40:17,072
+- ¿Estás bien?
+- ¿Cómo encontraste nuestro escondite?
+
+490
+00:40:17,146 --> 00:40:18,213
+ESCONDITE
+
+491
+00:40:18,214 --> 00:40:20,205
+Necesitan mejorar
+su conocimiento de camuflaje.
+
+492
+00:40:20,283 --> 00:40:23,343
+No nos obliguen a desarmarlos.
+Sólo queremos al niño.
+
+493
+00:40:23,419 --> 00:40:25,410
+¿Niño? ¿De qué estás hablando?
+
+494
+00:40:26,923 --> 00:40:28,447
+¿Quieres vértelas conmigo, hojalata?
+
+495
+00:40:28,524 --> 00:40:31,186
+Tranquilo. Soy un robot espía
+de Ciudad Metro.
+
+496
+00:40:31,260 --> 00:40:33,922
+Lo sabía. Viva la robot-lución.
+
+497
+00:40:34,797 --> 00:40:37,322
+No le hacen daño a nadie.
+Dejémoslos en paz.
+
+498
+00:40:37,733 --> 00:40:38,961
+Como quieras.
+
+499
+00:40:40,636 --> 00:40:43,969
+Gracias. El FRR te debe una.
+
+500
+00:40:46,409 --> 00:40:47,842
+¿Cómo te llamas?
+
+501
+00:40:49,278 --> 00:40:52,441
+Toby, pero ése no soy yo.
+
+502
+00:40:52,515 --> 00:40:54,483
+- Verás...
+- No es tan complicado.
+
+503
+00:40:56,185 --> 00:40:59,313
+Me llamo Astro. Llámame Astro.
+
+504
+00:40:59,555 --> 00:41:00,920
+Suena moderno.
+
+505
+00:41:00,990 --> 00:41:02,821
+Espacial. Me encanta.
+
+506
+00:41:03,559 --> 00:41:05,720
+Ya voy.
+
+507
+00:41:05,828 --> 00:41:07,625
+- Buenas tardes.
+- Disculpa, robot.
+
+508
+00:41:07,697 --> 00:41:10,222
+¡Revisen el apartamento!
+En su totalidad.
+
+509
+00:41:10,333 --> 00:41:12,301
+- Arréstenlo.
+- Señor.
+
+510
+00:41:12,601 --> 00:41:15,468
+- ¿Qué hacen? ¡Deténganse!
+- ¿El hijo robot de Tenma?
+
+511
+00:41:15,838 --> 00:41:17,169
+No está aquí.
+
+512
+00:41:17,239 --> 00:41:18,672
+¿Qué significa esto?
+
+513
+00:41:18,741 --> 00:41:21,437
+Colocó el Núcleo de mi Conciliador
+en su robot.
+
+514
+00:41:22,011 --> 00:41:24,343
+Estoy en medio de una reelección...
+
+515
+00:41:24,413 --> 00:41:26,244
+...y en guerra con la Superficie.
+
+516
+00:41:26,315 --> 00:41:28,442
+¿En guerra? Tonterías.
+
+517
+00:41:30,252 --> 00:41:33,949
+Fue una idea tonta.
+Cuando perdí a mi hijo...
+
+518
+00:41:34,023 --> 00:41:38,517
+...creí que podría... Creí...
+
+519
+00:41:38,894 --> 00:41:44,560
+Yo también detesto perder.
+Pregúntele a mis esposas...
+
+520
+00:41:44,700 --> 00:41:47,635
+...pero tenemos que dejar de lado
+lo personal.
+
+521
+00:41:47,703 --> 00:41:51,161
+Es director del Ministerio de Ciencia.
+Olvídese de lo ocurrido.
+
+522
+00:41:51,407 --> 00:41:53,773
+Recupere el Núcleo.
+Colóquelo en el Conciliador.
+
+523
+00:41:53,843 --> 00:41:56,107
+Que algo bueno resulte de todo esto.
+
+524
+00:42:00,916 --> 00:42:06,013
+Cuando usted encuentre al robot,
+lo desactivaré y le daré el Núcleo.
+
+525
+00:42:06,188 --> 00:42:08,213
+Bien. Suéltenlo.
+
+526
+00:42:11,627 --> 00:42:13,857
+Esperemos que nunca lo encuentres.
+
+527
+00:42:15,398 --> 00:42:17,696
+¿Hay gente viviendo en estas ruinas?
+
+528
+00:42:17,967 --> 00:42:23,803
+¿Ruinas? No tendrá comparación
+con Ciudad Metro, pero es nuestro hogar.
+
+529
+00:42:24,173 --> 00:42:25,401
+Llegamos.
+
+530
+00:42:30,079 --> 00:42:31,740
+Vamos, Astro.
+
+531
+00:42:38,020 --> 00:42:39,180
+Disculpa.
+
+532
+00:42:45,961 --> 00:42:47,588
+¿Cuál es la contraseña?
+
+533
+00:42:47,763 --> 00:42:49,560
+No quiero lastimarte.
+
+534
+00:42:50,299 --> 00:42:51,732
+Bastante parecida.
+
+535
+00:43:00,876 --> 00:43:02,036
+¡Cuidado!
+
+536
+00:43:02,545 --> 00:43:04,672
+- ¡Cinco!
+- ¡Afuera!
+
+537
+00:43:04,747 --> 00:43:07,272
+Se acabaron las manzanas.
+Ahora usamos uvas.
+
+538
+00:43:08,084 --> 00:43:10,018
+¿Me trajiste algo?
+
+539
+00:43:10,319 --> 00:43:12,753
+El regalo perfecto para una niña dulce.
+
+540
+00:43:13,923 --> 00:43:16,289
+- ¡Gracias!
+- ¡Cuidado!
+
+541
+00:43:17,259 --> 00:43:19,727
+- ¡Demasiado tarde!
+- ¡Estamos cansados!
+
+542
+00:43:19,962 --> 00:43:21,862
+- ¿Estás bien?
+- Seguro.
+
+543
+00:43:22,064 --> 00:43:24,692
+Necesitas 10 pares de ojos aquí.
+
+544
+00:43:30,573 --> 00:43:32,040
+Hola, Hamegg.
+
+545
+00:43:35,544 --> 00:43:37,102
+¿De regreso tan pronto?
+
+546
+00:43:37,179 --> 00:43:39,613
+¿Encontraron algo bueno para darme?
+
+547
+00:43:41,317 --> 00:43:45,310
+No sé. Muchas baterías muertas.
+Muchos codos.
+
+548
+00:43:45,955 --> 00:43:50,085
+¿La rodilla de un robot limpia inodoros?
+Necesito cabezas.
+
+549
+00:43:50,159 --> 00:43:52,684
+Hubiéramos encontrado
+mejores cosas, pero...
+
+550
+00:43:58,834 --> 00:44:01,302
+Se llama Astro. Es de Ciudad Metro.
+
+551
+00:44:01,704 --> 00:44:05,572
+¿Ciudad Metro?
+Solía trabajar ahí hace mucho tiempo.
+
+552
+00:44:05,808 --> 00:44:06,900
+¿En serio?
+
+553
+00:44:07,409 --> 00:44:09,934
+¿Por qué reparo robots aquí...
+
+554
+00:44:10,012 --> 00:44:12,810
+...cuando podría crear robots
+en Ciudad Metro?
+
+555
+00:44:13,382 --> 00:44:14,449
+No quise...
+
+556
+00:44:14,450 --> 00:44:18,443
+Tranquilo. Aquí somos familia.
+Las preguntas son bienvenidas.
+
+557
+00:44:18,821 --> 00:44:23,656
+Respuesta: Me encantan los robots,
+especialmente los descartados.
+
+558
+00:44:23,726 --> 00:44:25,921
+Cuanto peor estén,
+cuanto más abusados...
+
+559
+00:44:25,995 --> 00:44:28,463
+...mayor es mi placer
+cuando los arreglo.
+
+560
+00:44:31,167 --> 00:44:34,364
+Es casi una cuestión religiosa conmigo.
+
+561
+00:44:34,637 --> 00:44:37,367
+Así como los santos sienten
+por los pobres...
+
+562
+00:44:37,506 --> 00:44:41,499
+...las mujeres por los zapatos,
+los gordos por las donas...
+
+563
+00:44:41,877 --> 00:44:45,506
+...o... Mejor me detengo
+con eso de los gordos.
+
+564
+00:44:45,581 --> 00:44:48,379
+Así que, ¿no le gusta esclavizar robots?
+
+565
+00:44:48,551 --> 00:44:50,815
+- ¿Qué?
+- Se topó con el FRR.
+
+566
+00:44:51,921 --> 00:44:57,325
+No esclavizo a los robots.
+¡Adoro a los robots!
+
+567
+00:44:57,693 --> 00:45:01,993
+Son nuestros amigos.
+Dependemos de ellos para sobrevivir.
+
+568
+00:45:02,331 --> 00:45:05,459
+¿Alguno de ustedes tiene hambre?
+
+569
+00:45:07,136 --> 00:45:10,367
+Déjame adivinar, ¿pizza para llevar?
+
+570
+00:45:10,439 --> 00:45:13,135
+Más bien, ¡pizza del basural!
+
+571
+00:45:13,209 --> 00:45:16,201
+Quisquilloso.
+Apenas tiene un par de días.
+
+572
+00:45:16,445 --> 00:45:18,936
+¡Ésta aún tiene ingredientes!
+
+573
+00:45:20,916 --> 00:45:23,316
+¿No olvidaron algo?
+
+574
+00:45:24,987 --> 00:45:26,955
+¿Qué olvidaron, hijo?
+
+575
+00:45:28,090 --> 00:45:31,321
+- ¿Dar gracias?
+- Exactamente. ¡Grace!
+
+576
+00:45:32,328 --> 00:45:33,556
+- ¿Qué?
+- ¿Enciendes la TV, cariño?
+
+577
+00:45:33,629 --> 00:45:35,028
+Tan dulce.
+
+578
+00:45:37,366 --> 00:45:39,732
+Buen apetito.
+
+579
+00:45:39,802 --> 00:45:41,895
+¿Nuevo? ¿Vas a comer eso?
+
+580
+00:45:41,971 --> 00:45:43,097
+Es tuya.
+
+581
+00:45:43,405 --> 00:45:44,497
+No seas tan bondadoso.
+
+582
+00:45:44,573 --> 00:45:48,634
+Morirás de hambre
+o serás el único sobreviviente.
+
+583
+00:45:49,111 --> 00:45:52,205
+¿Saben tus padres dónde estás?
+
+584
+00:45:52,748 --> 00:45:54,079
+No tengo padres.
+
+585
+00:45:55,050 --> 00:45:59,885
+Qué triste. ¿Los perdiste?
+¿O te perdieron?
+
+586
+00:46:00,055 --> 00:46:04,389
+La verdad es que, en realidad, soy...
+
+587
+00:46:07,596 --> 00:46:08,688
+¿Qué?
+
+588
+00:46:09,498 --> 00:46:10,522
+Tranquilo.
+
+589
+00:46:10,599 --> 00:46:14,126
+Aquí, todos somos huérfanos.
+
+590
+00:46:15,537 --> 00:46:17,266
+¿Ninguno de ustedes tiene padres?
+
+591
+00:46:17,339 --> 00:46:19,239
+¿Padres? ¿Estás bromeando?
+
+592
+00:46:22,478 --> 00:46:24,275
+No permitimos padres aquí.
+
+593
+00:46:24,346 --> 00:46:27,645
+Yo nací en el basural.
+Perros salvajes me criaron.
+
+594
+00:46:27,716 --> 00:46:30,344
+¿Seguro que no eran cerdos salvajes?
+
+595
+00:46:49,338 --> 00:46:52,136
+¿Extrañas Ciudad Metro?
+
+596
+00:46:54,543 --> 00:46:55,601
+Yo tampoco.
+
+597
+00:46:57,946 --> 00:47:01,245
+Era director de robótica avanzada
+del Ministerio de Ciencia.
+
+598
+00:47:02,918 --> 00:47:06,319
+Junto a Tenma y a los otros mugrientos.
+
+599
+00:47:06,922 --> 00:47:09,652
+- ¿Qué pasó?
+- Lo que siempre con un genio.
+
+600
+00:47:09,725 --> 00:47:12,592
+Se sintieron intimidados por mi talento,
+mis ideas...
+
+601
+00:47:13,162 --> 00:47:15,960
+...así que me descartaron
+como a una batería usada.
+
+602
+00:47:17,700 --> 00:47:18,860
+Lo siento.
+
+603
+00:47:19,335 --> 00:47:23,533
+No es tu problema.
+Tengo un presentimiento, Astro.
+
+604
+00:47:24,006 --> 00:47:27,203
+Siempre tenemos lugar
+para un niño bueno.
+
+605
+00:47:27,776 --> 00:47:30,301
+¿Por qué no vas a dormir?
+
+606
+00:47:30,679 --> 00:47:32,909
+Buenas noches, hijo.
+
+607
+00:47:34,316 --> 00:47:36,443
+Buenas noches, Hamegg.
+
+608
+00:47:39,488 --> 00:47:42,821
+Se los diré. Pero no ahora.
+
+609
+00:47:51,700 --> 00:47:53,065
+Deja de molestar.
+
+610
+00:47:53,168 --> 00:47:56,797
+Te dije que lo haré.
+Primero quiero que se acostumbren a mí.
+
+611
+00:47:59,608 --> 00:48:01,439
+¿Para qué quiere todas estas partes?
+
+612
+00:48:01,510 --> 00:48:06,675
+Es un genio.
+Puede hacer un robot con cualquier cosa.
+
+613
+00:48:06,749 --> 00:48:09,843
+Luego los hace participar
+en los "Juegos Robóticos Hamegg".
+
+614
+00:48:09,918 --> 00:48:10,942
+¿Juegos?
+
+615
+00:48:11,019 --> 00:48:14,682
+Son una tradición aquí. Algo muy romano.
+
+616
+00:48:14,923 --> 00:48:16,254
+Son excelentes.
+
+617
+00:48:16,392 --> 00:48:19,225
+No encontrarán mucho aquí.
+Es un cementerio.
+
+618
+00:48:19,962 --> 00:48:22,931
+El primer día del Sr. Metro,
+y ya es un experto.
+
+619
+00:48:23,098 --> 00:48:26,124
+Te sorprendería. Sé algo de robots.
+
+620
+00:48:26,201 --> 00:48:27,930
+Creo que encontramos algo.
+
+621
+00:48:28,137 --> 00:48:30,867
+¿Ves? ¡Voy!
+
+622
+00:48:32,074 --> 00:48:33,701
+¿Qué te pasa?
+
+623
+00:48:36,645 --> 00:48:39,079
+ES UN ROBOT
+
+624
+00:48:43,819 --> 00:48:46,151
+Cómo quisiera saber leer.
+
+625
+00:48:47,256 --> 00:48:49,019
+Buen intento, oxidado.
+
+626
+00:48:51,493 --> 00:48:53,791
+¡Creo que encontré algo, Cora!
+
+627
+00:48:58,100 --> 00:48:59,965
+Es un antiguo robot de construcción.
+
+628
+00:49:00,035 --> 00:49:02,663
+Cayó a la Superficie hace unos 100 años.
+
+629
+00:49:02,871 --> 00:49:04,429
+¿Crees que Hamegg pueda usarlo?
+
+630
+00:49:04,506 --> 00:49:07,634
+Si tuviera un robot como ése,
+ganaría fortunas en los juegos.
+
+631
+00:49:07,709 --> 00:49:11,042
+Es basura.
+Solíamos hacer picnics en su cabeza.
+
+632
+00:49:11,380 --> 00:49:14,372
+- Un minuto.
+- Pesa 100 toneladas.
+
+633
+00:49:14,550 --> 00:49:17,280
+¿Qué piensas hacer,
+cargarlo en tu mochila?
+
+634
+00:49:18,720 --> 00:49:20,984
+Si supiera que soy capaz de cargarlo.
+
+635
+00:49:43,645 --> 00:49:46,512
+Sé que no estás muerto. Sólo finges.
+
+636
+00:50:05,167 --> 00:50:06,759
+Vamos.
+
+637
+00:50:07,369 --> 00:50:08,996
+Hora de despertar.
+
+638
+00:50:23,285 --> 00:50:25,082
+Permíteme ayudarte.
+
+639
+00:50:27,456 --> 00:50:28,753
+Vamos.
+
+640
+00:50:41,770 --> 00:50:43,704
+A ver qué eres capaz de hacer.
+
+641
+00:50:47,376 --> 00:50:49,139
+Alto, Sr. Bailarín.
+
+642
+00:50:49,745 --> 00:50:51,406
+¿Qué eres, patinador sobre hielo?
+
+643
+00:50:51,480 --> 00:50:55,280
+¿Vas a bailar o a pelearte
+con tu oponente?
+
+644
+00:50:56,184 --> 00:50:58,550
+¡Así! Ahora pégale debajo del cinturón.
+
+645
+00:50:59,021 --> 00:51:01,080
+¡A eso me refiero!
+
+646
+00:51:01,189 --> 00:51:05,819
+¡Agárrale la cabeza y pégale!
+¡Usa el pulgar!
+
+647
+00:51:06,161 --> 00:51:09,995
+Sensacional. Creo que tienes
+pasta de campeón.
+
+648
+00:51:16,672 --> 00:51:18,105
+¡Hola, Hamegg!
+
+649
+00:51:18,240 --> 00:51:20,071
+Lamento lo de tu robot.
+
+650
+00:51:21,109 --> 00:51:25,273
+¿Qué? ¿Él? No tenía futuro.
+
+651
+00:51:25,347 --> 00:51:30,444
+¡Éste sí que es increíble!
+Mira esas piernas.
+
+652
+00:51:30,819 --> 00:51:35,085
+Esos pies.
+Éste no está hecho de fibra de carbono.
+
+653
+00:51:35,190 --> 00:51:36,782
+Eso es hierro puro.
+
+654
+00:51:37,659 --> 00:51:40,287
+Astro lo arregló,
+lo cual aún no puedo creer.
+
+655
+00:51:40,362 --> 00:51:43,957
+¡Hace un siglo que yace muerto!
+¿Cómo lo lograste?
+
+656
+00:51:44,166 --> 00:51:47,499
+¡Por favor dímelo!
+
+657
+00:51:47,669 --> 00:51:50,866
+Lo pateé,
+como a una máquina expendedora.
+
+658
+00:51:50,939 --> 00:51:53,772
+"¡Regrésame mi dinero!" No fue nada.
+
+659
+00:51:53,842 --> 00:51:56,276
+¿Oyeron? Un genio modesto.
+
+660
+00:51:56,345 --> 00:51:58,813
+No sabía que existían.
+
+661
+00:51:58,880 --> 00:52:01,508
+Eres de no creer, muchacho.
+
+662
+00:52:01,583 --> 00:52:04,313
+Sigue así y tendré que adoptarte.
+
+663
+00:52:07,756 --> 00:52:11,419
+Cielos. Tiene suficiente poder
+como para iluminar una ciudad.
+
+664
+00:52:12,194 --> 00:52:13,483
+¿Y eso?
+
+665
+00:52:13,929 --> 00:52:18,559
+Sólo una máquina con mente propia.
+
+666
+00:52:23,305 --> 00:52:24,738
+¿Listos?
+
+667
+00:53:47,289 --> 00:53:50,622
+Creí que yo... Y tú...
+
+668
+00:53:51,993 --> 00:53:53,255
+¿Cómo hiciste eso?
+
+669
+00:53:53,328 --> 00:53:55,421
+Soy más rápido de lo que parezco.
+
+670
+00:54:07,375 --> 00:54:09,400
+Todos digan "Limburger".
+
+671
+00:54:19,821 --> 00:54:21,083
+Buenas noches.
+
+672
+00:54:22,791 --> 00:54:26,227
+¿Quieres jugar, Basurero?
+
+673
+00:54:28,830 --> 00:54:29,854
+¡Búscalo!
+
+674
+00:54:40,609 --> 00:54:41,837
+¿Hola?
+
+675
+00:54:49,651 --> 00:54:52,779
+¿Nunca te enseñaron
+que espiar es de mala educación?
+
+676
+00:54:53,054 --> 00:54:55,784
+- ¿Estás bien?
+- Sí.
+
+677
+00:54:56,992 --> 00:54:59,620
+Dicen que a veces,
+cuando está despejado...
+
+678
+00:54:59,694 --> 00:55:01,594
+...puedes llamar a Ciudad Metro.
+
+679
+00:55:01,997 --> 00:55:04,158
+¿Quieres llamar a Ciudad Metro?
+
+680
+00:55:04,566 --> 00:55:07,364
+¿Nunca llamaste a alguien en broma?
+
+681
+00:55:08,503 --> 00:55:11,995
+Pero no consigo
+hacer funcionar este teléfono.
+
+682
+00:55:12,974 --> 00:55:15,408
+- Permíteme.
+- Seguro.
+
+683
+00:55:21,950 --> 00:55:24,384
+Es débil, pero hay una señal.
+
+684
+00:55:24,886 --> 00:55:28,686
+No está mal. Tienes talentos secretos.
+
+685
+00:55:29,057 --> 00:55:30,684
+No tienes idea.
+
+686
+00:55:32,127 --> 00:55:36,928
+Vamos, contesten, por favor.
+Soy yo, Cora.
+
+687
+00:55:39,034 --> 00:55:40,524
+Los extraño.
+
+688
+00:55:42,771 --> 00:55:43,931
+¿Estás bien?
+
+689
+00:55:44,039 --> 00:55:47,475
+A veces me pregunto
+si se dieron cuenta de que me fui.
+
+690
+00:55:47,709 --> 00:55:48,801
+¿Quién?
+
+691
+00:55:50,178 --> 00:55:51,372
+Mis padres.
+
+692
+00:55:51,613 --> 00:55:53,774
+¿Tus padres?
+
+693
+00:55:54,115 --> 00:55:56,777
+Ahora sabes la verdad sobre mí.
+
+694
+00:55:57,485 --> 00:56:00,682
+¿Qué esperas?
+Ve a contarle a Zane y a los demás...
+
+695
+00:56:00,755 --> 00:56:05,624
+...que Cora es de Ciudad Metro
+y quiere llamar a su casa.
+
+696
+00:56:05,694 --> 00:56:08,629
+Y que fuiste criada por robots niñeras.
+
+697
+00:56:11,466 --> 00:56:16,301
+Todos tenemos secretos.
+No se los diré. Confía en mí.
+
+698
+00:56:16,838 --> 00:56:19,966
+Eres un buen muchacho, Astro.
+
+699
+00:56:21,476 --> 00:56:24,968
+¿Puedo contarte mi secreto?
+
+700
+00:56:25,247 --> 00:56:27,738
+Para eso están los amigos, ¿no?
+
+701
+00:56:29,017 --> 00:56:31,485
+¿Alguna vez te sientes como un intruso?
+
+702
+00:56:32,420 --> 00:56:36,186
+¿Cómo que eres diferente a los demás?
+
+703
+00:56:36,424 --> 00:56:39,916
+Todos nos sentimos así alguna vez.
+
+704
+00:56:40,395 --> 00:56:43,023
+Estos últimos días han sido
+distintos para mí.
+
+705
+00:56:43,431 --> 00:56:46,264
+El estar con ustedes y con Hamegg.
+
+706
+00:56:47,636 --> 00:56:50,400
+Necesito decirte que soy...
+
+707
+00:56:51,006 --> 00:56:52,769
+Soy una especie de...
+
+708
+00:56:56,077 --> 00:56:57,101
+¿Sí?
+
+709
+00:56:57,178 --> 00:57:01,012
+Me gusta estar aquí contigo.
+
+710
+00:57:02,117 --> 00:57:04,085
+- Con ustedes.
+- ¿Sí?
+
+711
+00:57:06,187 --> 00:57:08,087
+Nosotros también te queremos.
+
+712
+00:57:10,892 --> 00:57:12,359
+Hola, Basurero.
+
+713
+00:57:17,265 --> 00:57:21,395
+Sé que no es lo mismo,
+pero ¿es Hamegg nuestro padre ahora?
+
+714
+00:57:22,304 --> 00:57:24,135
+Supongo que sí.
+
+715
+00:57:31,579 --> 00:57:34,810
+Frente Revolucionario Robótico,
+¡transformarse!
+
+716
+00:57:40,288 --> 00:57:42,119
+Probando, probando.
+
+717
+00:57:50,031 --> 00:57:54,229
+¡Suéltame! ¿Qué parte de "como un Ninja"
+no entiendes?
+
+718
+00:57:54,536 --> 00:57:55,935
+¿Qué es un Ninja?
+
+719
+00:57:56,638 --> 00:57:59,402
+Produzcan el arma secreta.
+
+720
+00:58:12,087 --> 00:58:14,055
+La estaba buscando.
+
+721
+00:58:17,125 --> 00:58:18,592
+¡Viva la robot-lución!
+
+722
+00:58:18,660 --> 00:58:22,619
+Mis cohabitantes de la Superficie,
+¡llegó el día que todos esperaban!
+
+723
+00:58:22,964 --> 00:58:25,865
+¡Un aplauso
+para el muchacho de las botas rojas!
+
+724
+00:58:26,201 --> 00:58:29,193
+¡Logró reactivar a esta máquina asesina!
+
+725
+00:58:29,404 --> 00:58:31,031
+Cuidado, Hamegg.
+
+726
+00:58:34,542 --> 00:58:37,375
+Eres el niño mimado. Hamegg te quiere.
+
+727
+00:58:37,445 --> 00:58:38,912
+Y yo a él.
+
+728
+00:58:38,980 --> 00:58:40,845
+¿Qué quiso decir con "máquina asesina"?
+
+729
+00:58:40,915 --> 00:58:43,315
+Los robots pelean
+hasta que uno de ellos es destruido.
+
+730
+00:58:43,385 --> 00:58:47,116
+- ¿Qué?
+- No te preocupes. Zog acabará con todos.
+
+731
+00:58:47,188 --> 00:58:48,917
+¿Eso ocurre en los juegos robóticos?
+
+732
+00:58:48,990 --> 00:58:51,220
+¿Qué esperabas? ¿Que se acariciaran?
+
+733
+00:58:51,459 --> 00:58:53,418
+- ¿Quién es el robot?
+- ¡Yo!
+
+734
+00:58:53,595 --> 00:58:55,087
+- ¿Quién es el robot?
+- ¡Yo!
+
+735
+00:58:55,263 --> 00:58:57,060
+- ¿Quién es el robot?
+- ¡Yo!
+
+736
+00:58:57,132 --> 00:58:58,329
+- ¡Sin piedad!
+- ¡Sin piedad!
+
+737
+00:58:58,600 --> 00:59:01,961
+- ¡Sin piedad!
+- ¡Sin piedad!
+
+738
+00:59:05,874 --> 00:59:08,035
+- ¿Piedad?
+- Fue un placer.
+
+739
+00:59:08,410 --> 00:59:10,275
+Creí que era un show, no una matanza.
+
+740
+00:59:10,345 --> 00:59:12,939
+- Son robots, hijo.
+- Creí que te gustaban.
+
+741
+00:59:13,014 --> 00:59:17,246
+Sí, pero apenas son
+una colección de chatarra.
+
+742
+00:59:18,019 --> 00:59:20,351
+Algunos de los más avanzados...
+
+743
+00:59:20,422 --> 00:59:24,586
+...están programados
+para reírse como nosotros.
+
+744
+00:59:25,326 --> 00:59:26,527
+¿Sí?
+
+745
+00:59:26,528 --> 00:59:29,088
+Sí. Desafortunadamente,
+no tienen emociones.
+
+746
+00:59:29,364 --> 00:59:31,832
+¡Por eso no tengo problema
+en hacer esto!
+
+747
+00:59:38,406 --> 00:59:40,670
+- ¡Funcionó! ¡Increíble!
+- ¿Qué haces?
+
+748
+00:59:40,742 --> 00:59:44,075
+Se lo robé a Tenma
+cuando me despidió del Ministerio.
+
+749
+00:59:44,312 --> 00:59:47,475
+- ¿Qué le hiciste a Astro?
+- ¡Es nuestro amigo!
+
+750
+00:59:47,549 --> 00:59:49,744
+Creí que los había criado mejor.
+¿Son ciegos?
+
+751
+00:59:49,818 --> 00:59:51,342
+¡Es un robot!
+
+752
+00:59:52,220 --> 00:59:55,246
+No es cierto. No puede ser cierto.
+
+753
+00:59:55,323 --> 00:59:58,884
+Alguien lo programó para ser bueno.
+No es bueno.
+
+754
+00:59:58,960 --> 01:00:01,394
+Es una máquina con un poder increíble.
+
+755
+01:00:01,563 --> 01:00:02,791
+Pero...
+
+756
+01:00:02,864 --> 01:00:05,924
+Lo sé. Es difícil.
+
+757
+01:00:06,501 --> 01:00:07,900
+¿Qué harás con él?
+
+758
+01:00:07,969 --> 01:00:09,630
+Adivina.
+
+759
+01:00:16,678 --> 01:00:18,737
+<i>Damas y caballeros, niños y niñas...</i>
+
+760
+01:00:18,813 --> 01:00:22,214
+<i>...y la gentuza
+que entró sin pagar entrada...</i>
+
+761
+01:00:22,417 --> 01:00:26,877
+<i>...¡les presento a Astro Boy!</i>
+
+762
+01:00:29,390 --> 01:00:32,826
+<i>Se preguntarán,
+¿qué hace un niño tan bueno...</i>
+
+763
+01:00:32,894 --> 01:00:34,521
+<i>...en un lugar como éste?</i>
+
+764
+01:00:34,596 --> 01:00:36,325
+<i>No es un niño.</i>
+
+765
+01:00:36,498 --> 01:00:41,128
+<i>Es un robot de Ciudad Metro.</i>
+
+766
+01:00:41,569 --> 01:00:46,939
+<i>Oigan esto. Astro me dijo personalmente
+que no está impresionado...</i>
+
+767
+01:00:47,008 --> 01:00:49,067
+<i>...con nuestros robots luchadores.</i>
+
+768
+01:00:50,078 --> 01:00:52,103
+<i>¡Cree que son unos afeminados!</i>
+
+769
+01:00:52,180 --> 01:00:54,671
+<i>¡Y que ustedes son unos ignorantes!</i>
+
+770
+01:00:55,150 --> 01:00:56,310
+No dijo eso.
+
+771
+01:00:56,384 --> 01:00:58,318
+Tampoco dijo que era un robot.
+
+772
+01:00:58,386 --> 01:01:01,048
+<i>Esto es lo que todos esperaban...</i>
+
+773
+01:01:01,122 --> 01:01:04,990
+<i>...un combate
+entre la Superficie y Ciudad Metro.</i>
+
+774
+01:01:06,060 --> 01:01:07,721
+<i>¡Comencemos!</i>
+
+775
+01:01:14,869 --> 01:01:16,598
+No pelearé.
+
+776
+01:01:25,280 --> 01:01:26,941
+No lo haré.
+
+777
+01:01:52,140 --> 01:01:53,630
+- ¡Sí!
+- ¡Vamos, Astro!
+
+778
+01:02:01,015 --> 01:02:03,506
+<i>¡Traigan al desgraciadito!</i>
+
+779
+01:02:07,589 --> 01:02:09,318
+¿Juegas con nosotros?
+
+780
+01:02:09,724 --> 01:02:11,692
+- ¿"Nosotros"?
+- Sí, nosotros.
+
+781
+01:02:28,610 --> 01:02:30,009
+Hola.
+
+782
+01:02:37,018 --> 01:02:39,919
+Tengo una lastimadura.
+
+783
+01:02:45,293 --> 01:02:48,285
+<i>¡A él! ¡A él!</i>
+
+784
+01:02:53,635 --> 01:02:55,125
+¡Ataquen!
+
+785
+01:02:55,403 --> 01:02:56,768
+- ¡Atrás!
+- ¿Qué hacen?
+
+786
+01:02:56,838 --> 01:03:00,137
+Tenemos una pluma
+y estamos dispuestos a usarla.
+
+787
+01:03:02,810 --> 01:03:04,744
+Me apresuré a hablar.
+
+788
+01:03:21,229 --> 01:03:24,687
+¿Por qué pelearnos, hermanos?
+Un gran robot dijo...
+
+789
+01:03:24,999 --> 01:03:26,398
+¡Mi nariz!
+
+790
+01:03:54,762 --> 01:03:56,992
+Localizamos al hijo de Tenma, señor.
+
+791
+01:03:57,732 --> 01:03:58,926
+¡Volví a ganar!
+
+792
+01:03:59,000 --> 01:04:02,231
+<i>Y ahora, el último contrincante.</i>
+
+793
+01:04:02,437 --> 01:04:07,704
+<i>Un robot tan temible,
+que ni yo me animo a ver esto.</i>
+
+794
+01:04:08,910 --> 01:04:13,404
+<i>¡Les presento al poderoso Zog!</i>
+
+795
+01:04:15,483 --> 01:04:18,316
+<i>¿Cómo le irá a Astro Boy
+contra un robot...</i>
+
+796
+01:04:18,386 --> 01:04:21,378
+<i>...propulsado
+por la misma energía que él?</i>
+
+797
+01:04:22,156 --> 01:04:23,953
+No pelearé contra ti, Zog.
+
+798
+01:04:27,729 --> 01:04:29,924
+En serio. No pelearé.
+
+799
+01:04:49,784 --> 01:04:53,811
+<i>¡Genial! Una fiesta de amor.
+¡Les dije que peleen!</i>
+
+800
+01:04:57,158 --> 01:04:59,319
+- No pelearé.
+- ¡Pelea!
+
+801
+01:05:00,061 --> 01:05:01,085
+¡Basta!
+
+802
+01:05:01,195 --> 01:05:02,457
+¿Qué te pasa?
+
+803
+01:05:02,530 --> 01:05:04,521
+¡Son máquinas! ¡Me obedecerán!
+
+804
+01:05:04,766 --> 01:05:06,199
+No pasaré vergüenza...
+
+805
+01:05:06,267 --> 01:05:08,827
+...por culpa de un engreído
+de Ciudad Metro...
+
+806
+01:05:09,170 --> 01:05:12,606
+...ni una topadora
+de Nueva Jersey de 100 años.
+
+807
+01:05:12,940 --> 01:05:14,635
+¡No ocurrirá!
+
+808
+01:05:15,042 --> 01:05:17,374
+¡Los desconectaré a ambos!
+
+809
+01:05:23,684 --> 01:05:25,777
+¡Alto! ¡Las leyes robóticas!
+
+810
+01:05:26,020 --> 01:05:29,786
+¡No puedes herir a un humano!
+¡Hace 50 años que es así!
+
+811
+01:05:30,625 --> 01:05:32,559
+Fui criado a la antigua.
+
+812
+01:05:35,797 --> 01:05:36,957
+¡Miren!
+
+813
+01:05:44,572 --> 01:05:46,563
+¿Qué clase de robot eres?
+
+814
+01:05:49,644 --> 01:05:52,078
+Tenemos que reclutar al grandote.
+
+815
+01:06:06,127 --> 01:06:07,719
+¿Qué hacen aquí?
+
+816
+01:06:08,029 --> 01:06:10,827
+Capturen al robot rebelde
+y despejen el área.
+
+817
+01:06:13,968 --> 01:06:16,163
+¡Detente, Zog! Suéltalos.
+
+818
+01:06:19,106 --> 01:06:20,869
+Ya no importa.
+
+819
+01:06:22,510 --> 01:06:24,478
+- Estoy bien.
+- Vamos.
+
+820
+01:06:29,717 --> 01:06:33,118
+- Lo siento. Intenté decírtelo.
+- Muévete.
+
+821
+01:06:34,689 --> 01:06:36,122
+¡No, Basurero!
+
+822
+01:06:37,692 --> 01:06:41,219
+¡Suéltame, robot tonto!
+
+823
+01:06:42,630 --> 01:06:44,097
+Está bien.
+
+824
+01:06:49,604 --> 01:06:52,038
+<i>El índice de aprobación del Presidente
+bajó aún más...</i>
+
+825
+01:06:52,106 --> 01:06:55,473
+<i>...cuando no se presentó
+a un debate con Robert Logan...</i>
+
+826
+01:06:55,543 --> 01:06:59,240
+<i>...el hombre que muchos dicen es
+el próximo presidente de Ciudad Metro.</i>
+
+827
+01:06:59,480 --> 01:07:01,914
+Ningún hippie se sentará
+en mi Oficina Presidencial...
+
+828
+01:07:01,983 --> 01:07:04,747
+...comiendo habichuelas
+y apestando a pachulí.
+
+829
+01:07:04,986 --> 01:07:06,681
+Tengo el Núcleo Azul.
+
+830
+01:07:06,754 --> 01:07:09,780
+Mi Conciliador comenzará
+una guerra con la Superficie.
+
+831
+01:07:10,091 --> 01:07:12,491
+Con eso, seguro que me reeligen.
+
+832
+01:07:13,461 --> 01:07:18,558
+¿Por qué la cara larga?
+Vas a ver a tu padre.
+
+833
+01:07:18,966 --> 01:07:20,331
+¿Un trago?
+
+834
+01:07:22,336 --> 01:07:24,236
+Muy gracioso, Sr. Presidente.
+
+835
+01:07:32,880 --> 01:07:36,714
+El experimento ha acabado.
+Extraiga el Núcleo Azul...
+
+836
+01:07:36,784 --> 01:07:39,218
+...y transfiéralo
+al Conciliador ya mismo.
+
+837
+01:07:39,453 --> 01:07:41,353
+¿Me ayudas, Elefun?
+
+838
+01:07:41,656 --> 01:07:43,146
+Aquí es donde lo creamos.
+
+839
+01:07:43,224 --> 01:07:45,522
+Pues, des-créenlo. Desenchúfenlo.
+
+840
+01:07:46,060 --> 01:07:47,823
+Es una cuestión de seguridad nacional.
+
+841
+01:07:47,895 --> 01:07:50,090
+Permítame hablarle primero.
+
+842
+01:07:53,267 --> 01:07:55,394
+- Hola, Dr. Elefun.
+- Hola, Toby.
+
+843
+01:07:55,903 --> 01:07:58,804
+Hace mucho que nadie me llamaba Toby.
+
+844
+01:07:59,140 --> 01:08:02,576
+Esto no es culpa tuya. Eres fantástico.
+
+845
+01:08:02,810 --> 01:08:06,075
+De primera. Espléndido. Maravilloso.
+
+846
+01:08:06,347 --> 01:08:10,147
+Gracias. Intenté buscar
+mi lugar en el mundo.
+
+847
+01:08:11,586 --> 01:08:14,146
+Creí haberlo encontrado,
+pero integrarse...
+
+848
+01:08:14,221 --> 01:08:16,689
+...es mucho más complicado
+de lo que parece.
+
+849
+01:08:16,757 --> 01:08:19,089
+Si sólo supieras, muchacho querido.
+
+850
+01:08:19,794 --> 01:08:22,354
+Quizá esto es lo que debía ocurrir.
+
+851
+01:08:22,964 --> 01:08:24,989
+Éste es mi destino.
+
+852
+01:08:26,968 --> 01:08:28,595
+¡Cómo lloro!
+
+853
+01:08:28,669 --> 01:08:30,466
+Es una máquina.
+
+854
+01:08:30,538 --> 01:08:32,506
+Prosigamos de una vez, gente.
+
+855
+01:08:32,640 --> 01:08:34,972
+¡Esto no está bien, y lo sabes!
+
+856
+01:08:35,176 --> 01:08:39,203
+El Presidente tiene razón.
+Es sólo una máquina.
+
+857
+01:08:40,848 --> 01:08:42,577
+Adiós, Doctor.
+
+858
+01:08:42,984 --> 01:08:44,747
+Carguen el Núcleo Azul
+en el Conciliador.
+
+859
+01:08:44,819 --> 01:08:48,084
+Tengo una conferencia de prensa
+en 10 minutos.
+
+860
+01:09:29,430 --> 01:09:30,795
+Lo siento.
+
+861
+01:09:31,065 --> 01:09:35,195
+No. Lamento no haber sido
+un mejor Toby...
+
+862
+01:09:36,504 --> 01:09:37,698
+...papá.
+
+863
+01:09:41,108 --> 01:09:43,599
+¿Listo?
+
+864
+01:09:48,115 --> 01:09:49,446
+Listo.
+
+865
+01:09:56,090 --> 01:09:57,148
+Bien.
+
+866
+01:09:57,425 --> 01:10:00,292
+Cuando me reelijan, le daré fondos...
+
+867
+01:10:00,361 --> 01:10:02,955
+...para que construya
+cuanto juguete quiera.
+
+868
+01:10:03,597 --> 01:10:08,091
+No. Si quiere el Núcleo,
+tendrá que matarme.
+
+869
+01:10:09,670 --> 01:10:13,766
+¡No, Tenma! Yo creé el Núcleo.
+Tendrán que matarme.
+
+870
+01:10:13,841 --> 01:10:17,971
+Creo que Ciudad Metro sobrevivirá
+sin usted. Démelo.
+
+871
+01:10:20,147 --> 01:10:23,139
+- Parece que no lo tengo.
+- ¡Tenma!
+
+872
+01:10:26,821 --> 01:10:28,686
+¡Abra la puerta!
+
+873
+01:10:30,157 --> 01:10:31,647
+¡Ábrala!
+
+874
+01:10:32,493 --> 01:10:33,892
+Por favor.
+
+875
+01:10:38,265 --> 01:10:40,062
+¡Le dije que abra la puerta!
+
+876
+01:10:40,134 --> 01:10:41,795
+- Nunca.
+- ¡Ahora!
+
+877
+01:10:44,572 --> 01:10:45,766
+Maldición.
+
+878
+01:10:45,840 --> 01:10:48,536
+Si quieres algo bien hecho,
+hazlo tú mismo.
+
+879
+01:10:55,082 --> 01:10:56,549
+¿Qué haces?
+
+880
+01:10:56,817 --> 01:11:00,378
+No serás Toby,
+pero sigues siendo mi hijo.
+
+881
+01:11:00,454 --> 01:11:01,614
+Papá.
+
+882
+01:11:06,160 --> 01:11:08,287
+¡Vuela! ¡Vuela!
+
+883
+01:11:22,109 --> 01:11:24,839
+¡Arréstenlos de inmediato!
+
+884
+01:11:25,179 --> 01:11:27,739
+Necesitamos al Conciliador
+para recuperar el Núcleo Azul.
+
+885
+01:11:27,815 --> 01:11:29,976
+No utilice
+el Núcleo Rojo de energía negativa.
+
+886
+01:11:30,050 --> 01:11:31,608
+No sabemos cómo se comportará.
+
+887
+01:11:31,685 --> 01:11:34,779
+En conflictos entre
+la energía positiva y la negativa...
+
+888
+01:11:34,855 --> 01:11:39,349
+...la negativa siempre gana.
+¡Míreme a mí!
+
+889
+01:11:39,493 --> 01:11:40,790
+A eso me refiero.
+
+890
+01:11:40,861 --> 01:11:42,726
+- Enciéndalo.
+- No.
+
+891
+01:11:42,797 --> 01:11:45,891
+¡Tengo a 50 reporteros esperándome!
+¡Enciéndalo!
+
+892
+01:11:45,966 --> 01:11:47,524
+No comprende la tecnología.
+
+893
+01:11:47,601 --> 01:11:52,436
+¡Tecnología! ¿A quién le importa
+la tecnología?
+
+894
+01:11:52,506 --> 01:11:55,236
+¡Es un robot! ¡Hará lo que yo le diga!
+
+895
+01:11:57,077 --> 01:11:58,704
+Núcleo Rojo cargado.
+
+896
+01:11:59,013 --> 01:12:03,143
+¿Listo para obedecerme?
+¿Listo para atacar?
+
+897
+01:12:03,284 --> 01:12:04,478
+¡Señor!
+
+898
+01:12:04,552 --> 01:12:08,545
+Destruye al niño robot
+y regresa con el Núcleo Azul.
+
+899
+01:12:12,793 --> 01:12:16,524
+¿Eres sordo? Destruye al niño robot...
+
+900
+01:12:18,933 --> 01:12:21,766
+...y regresa con el Núcleo Azul.
+
+901
+01:12:22,203 --> 01:12:24,398
+- ¡Todos afuera! ¡Ahora!
+- ¡Vamos!
+
+902
+01:12:34,648 --> 01:12:38,049
+<i>Me dicen
+que el Presidente se encuentra demorado.</i>
+
+903
+01:12:47,928 --> 01:12:49,452
+<i>¿Funcionan?</i>
+
+904
+01:12:52,466 --> 01:12:54,331
+¿Adónde van? ¡Regresen!
+
+905
+01:12:54,401 --> 01:12:58,735
+<i>Monstruo, ríndase
+por orden del presidente Stone.</i>
+
+906
+01:13:02,643 --> 01:13:05,635
+Esto es vida. Qué tranquilidad.
+
+907
+01:13:08,349 --> 01:13:09,577
+Disculpen.
+
+908
+01:13:09,884 --> 01:13:12,182
+¡Es ese muchacho loco!
+
+909
+01:13:12,319 --> 01:13:16,756
+Soy un robot como ustedes.
+¿Qué hacen aquí?
+
+910
+01:13:16,824 --> 01:13:19,088
+Nos cansamos del trajín. Renunciamos.
+
+911
+01:13:19,260 --> 01:13:22,195
+Estamos tratando de vivir
+como los pájaros.
+
+912
+01:13:23,864 --> 01:13:26,162
+- ¿Eso?
+- Ya sabes cómo son los humanos.
+
+913
+01:13:26,233 --> 01:13:29,293
+Fin de Año, Día de la Madre.
+
+914
+01:13:29,403 --> 01:13:30,870
+Debemos regresar.
+
+915
+01:13:30,938 --> 01:13:33,168
+¿Defender a los humanos?
+Somos robots. No es nuestro problema.
+
+916
+01:13:33,240 --> 01:13:36,437
+Olvídalos. ¿Qué hicieron por nosotros?
+
+917
+01:13:43,484 --> 01:13:46,817
+Tiene razón.
+Las leyes dicen que debemos ayudarlos.
+
+918
+01:13:47,888 --> 01:13:51,790
+Una botella debe hacer
+lo que una botella debe hacer.
+
+919
+01:13:53,394 --> 01:13:54,793
+ZONA CENTRO
+¡EVACUADA!
+
+920
+01:13:56,597 --> 01:13:59,691
+¡Sal de tu escondite!
+
+921
+01:14:08,976 --> 01:14:11,809
+¿Dónde estás, niño robot?
+
+922
+01:14:21,956 --> 01:14:23,480
+Ahí estás.
+
+923
+01:14:33,701 --> 01:14:34,767
+CAÑONES
+
+924
+01:14:34,768 --> 01:14:36,099
+¿Qué?
+
+925
+01:14:37,471 --> 01:14:38,631
+¡Genial!
+
+926
+01:14:50,551 --> 01:14:52,246
+Es Astro.
+
+927
+01:14:52,519 --> 01:14:54,987
+No me importa si es un robot,
+lo extraño.
+
+928
+01:14:55,322 --> 01:14:56,448
+Yo también.
+
+929
+01:14:59,593 --> 01:15:02,585
+Cuando las cosas se ponen difíciles,
+los inteligentes se marchan.
+
+930
+01:15:02,663 --> 01:15:05,826
+Adiós. ¿Qué quieres, una disculpa?
+
+931
+01:15:06,066 --> 01:15:07,556
+No, sólo el auto.
+
+932
+01:15:07,668 --> 01:15:10,193
+Me encantaría poder darte el gusto...
+
+933
+01:15:13,107 --> 01:15:18,135
+¡Los quiero!
+¡Por favor detengan al maldito robot!
+
+934
+01:15:23,450 --> 01:15:24,508
+¡Te tengo!
+
+935
+01:15:33,293 --> 01:15:35,761
+¡La ciudad me eligió!
+
+936
+01:15:35,829 --> 01:15:38,559
+¡Es mía! ¡Es mía!
+
+937
+01:15:48,342 --> 01:15:50,333
+¡Yo voto por el otro candidato!
+
+938
+01:15:57,551 --> 01:15:59,781
+Gracias. Siempre a sus órdenes.
+
+939
+01:16:13,133 --> 01:16:14,293
+¿Qué?
+
+940
+01:16:16,270 --> 01:16:19,171
+¿Tengo ametralladoras en el trasero?
+
+941
+01:16:22,076 --> 01:16:23,236
+Bromeas.
+
+942
+01:16:23,377 --> 01:16:24,503
+¡Preparado!
+
+943
+01:16:29,450 --> 01:16:30,678
+¡Gol!
+
+944
+01:16:50,504 --> 01:16:52,665
+- ¿Astro?
+- ¿Cora?
+
+945
+01:16:53,907 --> 01:16:57,035
+Gracias. ¿Quién está conduciendo?
+
+946
+01:17:05,619 --> 01:17:07,211
+¡Más rápido, Basurero!
+
+947
+01:17:08,789 --> 01:17:09,983
+¡A un lado!
+
+948
+01:17:35,749 --> 01:17:36,841
+¿Estamos subiendo?
+
+949
+01:17:36,917 --> 01:17:38,248
+¡La ciudad está bajando!
+
+950
+01:17:38,318 --> 01:17:40,286
+Tengo que encargarme de esto.
+
+951
+01:17:40,354 --> 01:17:41,548
+¡Astro! ¡No!
+
+952
+01:17:42,322 --> 01:17:43,550
+¡Astro!
+
+953
+01:17:50,063 --> 01:17:51,257
+¡Miren!
+
+954
+01:18:03,911 --> 01:18:06,243
+Camaradas, ¡a las armas!
+
+955
+01:18:06,413 --> 01:18:08,210
+Tengo tres brazos.
+
+956
+01:18:23,697 --> 01:18:24,857
+¿Dónde está?
+
+957
+01:18:24,932 --> 01:18:26,297
+¿Se repondrá?
+
+958
+01:18:26,366 --> 01:18:27,765
+Eso espero.
+
+959
+01:18:33,640 --> 01:18:35,403
+¡Oye! ¡Feo!
+
+960
+01:18:36,376 --> 01:18:37,570
+¡Aquí!
+
+961
+01:18:38,078 --> 01:18:40,569
+Exigimos que ya mismo
+dejes de oprimir...
+
+962
+01:18:40,647 --> 01:18:44,208
+...a nuestro camarada, Astro.
+No podemos lastimar a humanos...
+
+963
+01:18:44,418 --> 01:18:48,912
+...pero no hay nada escrito
+que nos prevenga de lastimar monstruos.
+
+964
+01:18:49,056 --> 01:18:50,523
+¿Cierto, camaradas?
+
+965
+01:18:54,628 --> 01:18:55,959
+¡Mira!
+
+966
+01:18:57,998 --> 01:19:01,399
+¿Dónde estás, niño robot?
+Sé que estás con vida.
+
+967
+01:19:02,002 --> 01:19:03,560
+No puedes esconderte de...
+
+968
+01:19:07,975 --> 01:19:09,272
+¿Eso es todo?
+
+969
+01:19:17,517 --> 01:19:18,643
+¡Ven!
+
+970
+01:19:21,755 --> 01:19:25,748
+Se acabó la fiesta.
+Núcleo Azul recuperado.
+
+971
+01:19:46,880 --> 01:19:48,006
+¡Toby!
+
+972
+01:19:49,349 --> 01:19:50,509
+¡Papá!
+
+973
+01:19:52,119 --> 01:19:54,883
+No entiendo. ¿Por qué no me absorbió?
+
+974
+01:19:54,988 --> 01:19:56,046
+No puede.
+
+975
+01:19:56,123 --> 01:20:00,685
+Si los Núcleos Rojos y Azules se unen,
+ambos mueren.
+
+976
+01:20:02,929 --> 01:20:05,295
+Vamos, hijo. Tenemos que irnos de aquí.
+
+977
+01:20:06,366 --> 01:20:07,390
+¿Dónde estás?
+
+978
+01:20:10,470 --> 01:20:12,734
+¿Dónde está su amigo? ¿Dónde?
+
+979
+01:20:14,541 --> 01:20:17,510
+Tengo que ganar una elección
+y quiero ese Núcleo.
+
+980
+01:20:21,748 --> 01:20:23,682
+¡Díganme dónde está escondido!
+
+981
+01:20:23,750 --> 01:20:25,615
+¿Me oyen? ¿Dónde está?
+
+982
+01:20:25,986 --> 01:20:27,248
+Debemos irnos.
+
+983
+01:20:27,554 --> 01:20:31,081
+Ésta es la razón por la cual fui creado.
+
+984
+01:20:31,558 --> 01:20:33,992
+Éste es mi destino.
+
+985
+01:20:34,194 --> 01:20:35,525
+Toby, ¡ahora!
+
+986
+01:20:35,729 --> 01:20:37,856
+Lo siento, pero esto es quien soy.
+
+987
+01:20:38,265 --> 01:20:42,668
+Hacia delante y hacia arriba, papá.
+
+988
+01:20:45,172 --> 01:20:46,833
+¿Regresaste por más?
+
+989
+01:20:54,548 --> 01:20:56,778
+¡Espera! ¡No!
+
+990
+01:21:12,099 --> 01:21:13,532
+- Mi hijo.
+- Papá.
+
+991
+01:21:20,607 --> 01:21:22,734
+¡Sal de ahí ya mismo!
+
+992
+01:21:24,077 --> 01:21:25,339
+¡Sal!
+
+993
+01:21:26,279 --> 01:21:28,304
+- ¡Sácanos de aquí!
+- ¡Eso intento!
+
+994
+01:21:34,121 --> 01:21:35,588
+Maldición.
+
+995
+01:21:44,431 --> 01:21:45,523
+Hijo.
+
+996
+01:22:06,653 --> 01:22:10,089
+Arresten a esta muchacha.
+¡Me pateó! ¡No puede patearme!
+
+997
+01:22:10,157 --> 01:22:12,421
+Está bajo arresto, señor.
+
+998
+01:22:12,526 --> 01:22:15,859
+¡No pueden hacerme esto!
+
+999
+01:22:34,347 --> 01:22:37,145
+- ¿Quién era?
+- Ese robot salvó a la ciudad.
+
+1000
+01:22:37,350 --> 01:22:38,977
+¿Por qué?
+
+1001
+01:22:39,152 --> 01:22:42,679
+Porque era más humano
+que la mayoría de nosotros.
+
+1002
+01:22:43,623 --> 01:22:44,681
+¿Quién eres?
+
+1003
+01:22:44,758 --> 01:22:47,124
+Una amiga de la Superficie.
+
+1004
+01:22:47,394 --> 01:22:49,191
+¿Eres de la Superficie?
+
+1005
+01:22:54,034 --> 01:22:55,365
+¿Puede arreglarlo?
+
+1006
+01:22:55,435 --> 01:22:59,428
+Me temo que no.
+Su Núcleo Azul era único.
+
+1007
+01:23:00,574 --> 01:23:02,064
+Murió con él.
+
+1008
+01:23:02,576 --> 01:23:06,205
+No es justo.
+Lo único que hizo fue ayudar a la gente.
+
+1009
+01:23:06,279 --> 01:23:07,712
+No sólo a la gente.
+
+1010
+01:23:10,050 --> 01:23:12,518
+- Astro resucitó a Zog.
+- ¿Cómo?
+
+1011
+01:23:13,220 --> 01:23:14,585
+La cosa azul.
+
+1012
+01:23:16,189 --> 01:23:18,521
+¿Aún tienes algo de esa cosa azul?
+
+1013
+01:23:20,026 --> 01:23:22,722
+¿Podrías compartirla con tu amigo?
+
+1014
+01:23:56,463 --> 01:23:57,623
+¡Mira, mamá!
+
+1015
+01:23:58,465 --> 01:24:01,866
+¿Papá? ¿Cora? ¿Qué pasó?
+
+1016
+01:24:02,035 --> 01:24:04,128
+- ¿Se fue el Conciliador?
+- Sí.
+
+1017
+01:24:08,708 --> 01:24:11,233
+¿Cómo es que sigo con vida?
+
+1018
+01:24:16,249 --> 01:24:17,773
+Gracias, Zog.
+
+1019
+01:24:17,851 --> 01:24:19,250
+No fue nada.
+
+1020
+01:24:26,993 --> 01:24:31,259
+Creo que encontraste tu lugar
+en el mundo.
+
+1021
+01:24:31,565 --> 01:24:35,501
+Eres un héroe,
+un robot con corazón de león.
+
+1022
+01:24:35,702 --> 01:24:37,397
+Y todos lo saben ahora.
+
+1023
+01:24:45,211 --> 01:24:47,202
+Me encantan los finales felices.
+
+1024
+01:24:48,348 --> 01:24:49,975
+- ¿Podrías?
+- Seguro.
+
+1025
+01:24:50,784 --> 01:24:52,081
+Gracias.
+
+1026
+01:24:52,752 --> 01:24:54,014
+¡Cora!
+
+1027
+01:24:54,421 --> 01:24:56,116
+- ¡Cora!
+- ¡Cora!
+
+1028
+01:24:56,289 --> 01:24:57,483
+¿Mamá?
+
+1029
+01:24:57,557 --> 01:25:00,219
+- ¿Adónde fuiste?
+- Te estuvimos buscando.
+
+1030
+01:25:00,293 --> 01:25:01,351
+¿En serio?
+
+1031
+01:25:06,633 --> 01:25:08,294
+¡Viva la robot-lución!
+
+1032
+01:25:09,169 --> 01:25:11,262
+Parece que ya pasó todo lo interesante.
+
+1033
+01:25:11,338 --> 01:25:12,703
+Típico.
+
+1034
+01:25:12,772 --> 01:25:14,034
+Gracias por la ayuda.
+
+1035
+01:25:14,107 --> 01:25:15,301
+No es nada.
+
+1036
+01:25:15,775 --> 01:25:19,370
+Cuando lo analizas,
+realmente no fue nada.
+
+1037
+01:25:19,779 --> 01:25:21,770
+¿Buscas disgustarme?
+
+1038
+01:25:23,283 --> 01:25:25,478
+¿Va a necesitar el auto, señor?
+
+1039
+01:25:25,685 --> 01:25:28,483
+No quiero que me llames "señor", Orrin.
+
+1040
+01:25:28,555 --> 01:25:33,049
+Es más, tómate el día libre.
+Ve a divertirte con damas robot.
+
+1041
+01:25:34,027 --> 01:25:36,154
+Gracias, Dr. Tenma.
+
+1042
+01:25:36,329 --> 01:25:37,887
+Llámame Bill.
+
+1043
+01:25:40,000 --> 01:25:41,661
+Estoy más que friqueado.
+
+1044
+01:25:46,806 --> 01:25:49,832
+¡Pónganse a cubierto!
+¡Un ataque extraterrestre!
+
+1045
+01:25:52,445 --> 01:25:55,107
+Espera. ¿Estás seguro
+de que estás listo, Astro?
+
+1046
+01:25:55,181 --> 01:25:56,842
+Nací listo.
+
+1047
+01:26:04,643 --> 01:26:10,543
+Subtítulo por aRGENTeaM
+www.argenteam.net
+
