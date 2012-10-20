@@ -1,0 +1,5928 @@
+1
+00:01:22,182 --> 00:01:23,809
+<i>"Aullido" para Carl Solomon.</i>
+
+2
+00:01:27,154 --> 00:01:30,180
+<i>¡Vi las mejores mentes de mi generación</i>
+
+3
+00:01:30,323 --> 00:01:32,450
+<i>destruidas por la locura,</i>
+
+4
+00:01:32,893 --> 00:01:36,454
+<i>hambrientas histéricas desnudas,</i>
+
+5
+00:01:37,063 --> 00:01:40,055
+<i>arrastrándose por las calles
+de los negros al amanecer</i>
+
+6
+00:01:40,200 --> 00:01:42,327
+<i>en busca de un colérico pinchazo,</i>
+
+7
+00:01:43,570 --> 00:01:45,470
+<i>hipsters con cabezas de ángel ardiendo</i>
+
+8
+00:01:45,605 --> 00:01:48,836
+<i>por la antigua conexión
+celestial con el estrellado dínamo</i>
+
+9
+00:01:48,975 --> 00:01:50,875
+<i>de la maquinaria nocturna,</i>
+
+10
+00:01:51,244 --> 00:01:53,610
+<i>que pobres y harapientos...</i>
+
+11
+00:01:53,747 --> 00:01:55,612
+<i>...y ojerosos y drogados...</i>
+
+12
+00:01:55,749 --> 00:01:58,115
+<i>...pasaron la noche
+fumando en la oscuridad...</i>
+
+13
+00:01:58,116 --> 00:02:00,482
+<i>...sobrenatural de
+apartamentos de agua fría...</i>
+
+14
+00:02:00,620 --> 00:02:04,818
+<i>...flotando sobre las cimas de
+las ciudades contemplando jazz!</i>
+
+15
+00:03:26,700 --> 00:03:30,200
+En 1955, un poeta no
+publicado presentó su...
+
+16
+00:03:30,201 --> 00:03:33,700
+...visión del mundo en un
+poema de cuatro partes.
+
+17
+00:03:34,200 --> 00:03:35,700
+Lo llamó...
+
+18
+00:03:37,700 --> 00:03:40,700
+AULLIDO
+
+19
+00:03:46,700 --> 00:03:51,700
+Su nombre era Allen Ginsberg.
+
+20
+00:03:52,700 --> 00:03:55,700
+Compuesta a partir de registros de la corte,
+entrevistas y "Aullido" de Allen Ginsberg.
+
+21
+00:03:56,200 --> 00:03:58,700
+Animaciones inspiradas en "Poemas iluminados"
+de Allen Ginsberg y Aric Drooker
+
+22
+00:04:08,114 --> 00:04:11,106
+A veces me siento al mando
+cuando estoy escribiendo.
+
+23
+00:04:11,551 --> 00:04:15,078
+Cuando estoy en el fragor de
+algunas lágrimas de verdad, sí.
+
+24
+00:04:15,722 --> 00:04:18,213
+Otras veces... la
+mayoría del tiempo, no.
+
+25
+00:04:18,358 --> 00:04:21,953
+Ya sabes, sólo dando vueltas...
+
+26
+00:04:22,095 --> 00:04:24,655
+tallando en la madera, tú
+sabes, buscando una bonita forma,
+
+27
+00:04:24,798 --> 00:04:26,425
+como la mayoría de mi poesía.
+
+28
+00:04:28,401 --> 00:04:32,497
+Sólo ha habido un par de veces en
+que he alcanzado un estado de...
+
+29
+00:04:32,639 --> 00:04:34,698
+completo control...
+
+30
+00:04:35,475 --> 00:04:37,807
+Quizás en un pedazo de "Aullido", y...
+
+31
+00:04:37,944 --> 00:04:40,606
+...uno o dos momentos en otro poemas.
+
+32
+00:04:45,852 --> 00:04:48,650
+El comienzo del miedo para mí es pensar:
+
+33
+00:04:50,357 --> 00:04:53,758
+Qué pensaría mi padre
+de algo que yo escribo.
+
+34
+00:04:54,294 --> 00:04:56,524
+En un punto, escribiendo "Aullido",
+
+35
+00:04:56,696 --> 00:04:58,186
+Yo asumí que lo que yo escribía
+
+36
+00:04:58,331 --> 00:04:59,662
+no era algo que sería publicado,
+
+37
+00:04:59,799 --> 00:05:00,788
+porque...
+
+38
+00:05:00,934 --> 00:05:04,700
+Yo no quería que mi
+padre viera qué había ahí.
+
+39
+00:05:04,838 --> 00:05:07,170
+Entonces, asumí que no sería
+publicado, por tanto, podía
+
+40
+00:05:07,307 --> 00:05:08,774
+escribir lo que yo quisiera.
+
+41
+00:06:04,764 --> 00:06:07,631
+<i>Vi las mejores mentes de mi generación...</i>
+
+42
+00:06:07,767 --> 00:06:09,667
+<i>...destruidas por la locura,</i>
+
+43
+00:06:10,870 --> 00:06:13,498
+<i>hambrientas histéricas desnudas,</i>
+
+44
+00:06:14,07 --> 00:06:16,805
+<i>arrastrándose por las calles
+de los negros al amanecer...</i>
+
+45
+00:06:16,943 --> 00:06:19,377
+<i>...en busca de un colérico pinchazo,</i>
+
+46
+00:06:22,115 --> 00:06:24,310
+<i>hipsters con cabeza de ángel...</i>
+
+47
+00:06:24,451 --> 00:06:27,147
+<i>...ardiendo por la antigua
+conexión celestial...</i>
+
+48
+00:06:27,287 --> 00:06:30,381
+<i>...con el estrellado dínamo
+de la maquinaria nocturna,</i>
+
+49
+00:06:33,326 --> 00:06:35,692
+<i>qué pobres y harapientos...</i>
+
+50
+00:06:35,829 --> 00:06:37,763
+<i>...y ojerosos y drogados...</i>
+
+51
+00:06:37,897 --> 00:06:40,331
+<i>...pasaron toda la noche fumando
+en la oscuridad sobrenatural...</i>
+
+52
+00:06:40,467 --> 00:06:42,458
+<i>...de apartamentos de agua fría...</i>
+
+53
+00:06:42,602 --> 00:06:46,936
+<i>...flotando sobre las cimas de
+ciudades, contemplando jazz,</i>
+
+54
+00:06:48,508 --> 00:06:52,00
+<i>que pasaron por las universidades
+con radiantes ojos imperturbables</i>
+
+55
+00:06:52,145 --> 00:06:53,908
+<i>...alucinando Arkansas y...</i>
+
+56
+00:06:54,047 --> 00:06:57,813
+<i>...tragedia en la luz de Blake
+entre los maestros de la guerra,</i>
+
+57
+00:06:59,085 --> 00:07:01,781
+<i>...que fueron expulsados de
+las academias por locos...</i>
+
+58
+00:07:01,921 --> 00:07:05,857
+<i>...y por publicar odas obscenas en
+las ventanas de las calaveras,</i>
+
+59
+00:07:06,359 --> 00:07:09,522
+<i>que se acurrucaron en ropa interior
+en sus habitaciones sin afeitar,</i>
+
+60
+00:07:09,662 --> 00:07:11,789
+<i>quemando su dinero en papeleras...</i>
+
+61
+00:07:11,931 --> 00:07:14,957
+<i>...y escuchando el terror
+a través del muro,</i>
+
+62
+00:07:15,902 --> 00:07:17,893
+<i>que fueron arrestados
+por sus barbas púbicas</i>
+
+63
+00:07:18,037 --> 00:07:22,030
+<i>regresando de Laredo con su
+cinturón de marihuana hacia Nueva York,</i>
+
+64
+00:07:22,642 --> 00:07:25,167
+<i>que comieron fuego en hoteles de pintura...</i>
+
+65
+00:07:25,311 --> 00:07:27,973
+<i>...y bebieron trementina en Paradise Alley,</i>
+
+66
+00:07:28,114 --> 00:07:29,411
+<i>muerte...</i>
+
+67
+00:07:29,549 --> 00:07:33,679
+<i>...o sometieron sus torsos a un
+purgatorio noche tras noche, con sueños,</i>
+
+68
+00:07:33,820 --> 00:07:36,618
+<i>con drogas, con
+pesadillas que despiertan,</i>
+
+69
+00:07:36,756 --> 00:07:41,352
+<i>alcohol y verga y bailes sin fin,</i>
+
+70
+00:07:50,570 --> 00:07:52,834
+Lo que quiero leer para el
+registro, Su Señoría, no es...
+
+71
+00:07:52,972 --> 00:07:56,203
+...mucho, pero es pertinente para el caso.
+
+72
+00:07:56,876 --> 00:07:59,436
+¿Por qué no está usted en el Juicio?
+
+73
+00:08:00,046 --> 00:08:01,809
+Porque...
+
+74
+00:08:02,448 --> 00:08:04,416
+el juicio no es sobre mí.
+
+75
+00:08:04,918 --> 00:08:08,115
+Tanto como tengo que agradecerle por él...
+
+76
+00:08:08,254 --> 00:08:10,245
+...como por mi fama...
+
+77
+00:08:10,390 --> 00:08:12,756
+...es al editor, Lawrence Ferlinghetti que fue...
+
+78
+00:08:12,892 --> 00:08:15,656
+...arrestado por vender...
+
+79
+00:08:15,795 --> 00:08:17,763
+...material obsceno.
+
+80
+00:08:17,897 --> 00:08:22,630
+Lo que quiero mostrar está en la
+primera página dentro de "Aullido".
+
+81
+00:08:22,769 --> 00:08:26,398
+Allí dice, "Todos estos
+libros son editados en el Cielo"
+
+82
+00:08:27,106 --> 00:08:27,765
+Y...
+
+83
+00:08:28,074 --> 00:08:30,804
+En verdad no entiendo
+aquello, pero en fin,
+
+84
+00:08:30,944 --> 00:08:32,138
+dejemos para el registro, Su Señoría,
+
+85
+00:08:32,278 --> 00:08:35,076
+que es publicado por City
+Lights Pocketbook Shop.
+
+86
+00:08:35,682 --> 00:08:38,344
+¿Mr. Ferlinghetti podría ir
+a la cárcel si es condenado?
+
+87
+00:08:38,484 --> 00:08:40,918
+Espero que no.
+Aquello sería terrible.
+
+88
+00:09:03,943 --> 00:09:05,274
+¿Podría decir su nombre, por favor?
+
+89
+00:09:05,578 --> 00:09:06,738
+Gail Potter.
+
+90
+00:09:06,879 --> 00:09:09,347
+¿Y usted ha escrito algo de su autoría?
+
+91
+00:09:09,482 --> 00:09:11,143
+Sí, lo he hecho bastante.
+
+92
+00:09:11,284 --> 00:09:15,380
+Estuve en la NBC por 10
+años, mientras era profesora.
+
+93
+00:09:15,688 --> 00:09:17,417
+Fui la directora del
+servicio comunitario,
+
+94
+00:09:17,557 --> 00:09:19,286
+coordinadora académica...
+
+95
+00:09:19,792 --> 00:09:21,487
+He reescrito "Fausto".
+
+96
+00:09:21,628 --> 00:09:24,062
+Me tomó 3 años hacerlo, pero lo hice.
+
+97
+00:09:24,197 --> 00:09:25,755
+Reescribí "Elegía"
+
+98
+00:09:27,967 --> 00:09:29,901
+Aquello no fue tan
+divertido como deben creer.
+
+99
+00:09:30,036 --> 00:09:30,866
+Discúlpeme, Señora.
+
+100
+00:09:31,04 --> 00:09:32,062
+Señoras y Señores,
+
+101
+00:09:32,205 --> 00:09:34,264
+este es un juicio que
+implica cuestiones muy serias.
+
+102
+00:09:34,407 --> 00:09:35,965
+Siendo amable con la testigo...
+
+103
+00:09:36,109 --> 00:09:37,667
+...démosle la cortesía que merece.
+
+104
+00:09:37,810 --> 00:09:38,401
+De acuerdo.
+
+105
+00:09:38,544 --> 00:09:41,672
+¿Se ha formado usted una
+opinión acerca de si el libro...
+
+106
+00:09:41,814 --> 00:09:45,716
+..."Aullido y otros poemas"
+tiene algún mérito literario?
+
+107
+00:09:46,919 --> 00:09:49,319
+Creo que no tiene
+mérito literario alguno.
+
+108
+00:09:52,358 --> 00:09:53,450
+Continúe.
+
+109
+00:09:53,593 --> 00:09:55,788
+En función de tener un estilo
+literario, usted debe tener...
+
+110
+00:09:55,928 --> 00:09:59,125
+...forma, dicción, fluidez, claridad.
+
+111
+00:09:59,265 --> 00:10:01,597
+Ahora, sólo le estoy
+hablando del estilo literario.
+
+112
+00:10:01,734 --> 00:10:04,066
+En cuanto al contenido,
+toda gran pieza de literatura,
+
+113
+00:10:04,203 --> 00:10:07,969
+todo aquello que pueda ser
+clasificado como literatura, es...
+
+114
+00:10:08,107 --> 00:10:09,199
+de alguna grandeza moral,
+
+115
+00:10:09,342 --> 00:10:11,537
+y creo que en esto falla
+en un grado profundo.
+
+116
+00:10:12,045 --> 00:10:13,034
+Así veo.
+
+117
+00:10:13,179 --> 00:10:15,079
+¿Puede usted pensar en alguna otra razón?
+
+118
+00:10:15,214 --> 00:10:16,044
+Sí...
+
+119
+00:10:16,182 --> 00:10:17,342
+El uso del lenguaje.
+
+120
+00:10:17,483 --> 00:10:20,145
+En lo que respecta a las
+formas lingüísticas que utiliza,
+
+121
+00:10:20,286 --> 00:10:21,310
+él yerra en retórica, por supuesto,
+
+122
+00:10:21,454 --> 00:10:23,718
+por una cosa, porque
+sus formas lingüísticas...
+
+123
+00:10:23,856 --> 00:10:26,484
+...crudas, y usted siente
+como a través de un canal...
+
+124
+00:10:26,626 --> 00:10:28,423
+...cuando lo lee.
+
+125
+00:10:28,761 --> 00:10:31,525
+No pude leerlo por mucho
+tiempo se lo aseguro.
+
+126
+00:10:33,232 --> 00:10:34,893
+Puede usted continuar
+con el interrogatorio.
+
+127
+00:10:36,803 --> 00:10:38,100
+Se puede retirar.
+
+128
+00:10:39,472 --> 00:10:41,940
+¿Hay algo más que usted...?
+
+129
+00:10:42,308 --> 00:10:43,639
+Se puede retirar
+
+130
+00:10:44,744 --> 00:10:46,769
+El Sr. Ehrlich no desea
+continuar el interrogatorio.
+
+131
+00:10:46,913 --> 00:10:48,813
+¿Eso está bien...?
+
+132
+00:10:49,148 --> 00:10:50,115
+Se puede retirar.
+
+133
+00:10:51,951 --> 00:10:54,351
+¿Qué es la "Generación Beat"?
+
+134
+00:10:56,823 --> 00:10:58,984
+No existe la "Generación Beat".
+
+135
+00:10:59,525 --> 00:11:03,052
+sólo es una tropa de tipos
+tratando de ser publicados.
+
+136
+00:11:05,565 --> 00:11:09,160
+¿Por qué no me cuenta cómo
+empezó a escribir poesía?
+
+137
+00:11:11,137 --> 00:11:14,664
+Comencé a escribir poesía
+porque yo era un tarado,
+
+138
+00:11:15,575 --> 00:11:17,338
+y mi padre escribía poesía.
+
+139
+00:11:18,077 --> 00:11:21,410
+Entonces, comencé a
+escribir versos como él.
+
+140
+00:11:21,714 --> 00:11:24,615
+Y después me fui a la Universidad
+de Columbia y me enamoré...
+
+141
+00:11:24,884 --> 00:11:26,715
+...de Jack Kerouac.
+
+142
+00:11:40,333 --> 00:11:43,268
+Hasta los 18 años, yo era virgen.
+
+143
+00:11:44,070 --> 00:11:47,130
+Yo estaba incapacitado de
+acercarme al cuerpo de alguien.
+
+144
+00:11:47,774 --> 00:11:49,435
+Para lograr alcanzar el deseo.
+
+145
+00:11:50,610 --> 00:11:51,872
+Me sentía...
+
+146
+00:11:52,612 --> 00:11:53,977
+Encadenado.
+
+147
+00:11:59,252 --> 00:12:01,652
+Jack me dio el permiso para abrirme.
+
+148
+00:12:02,321 --> 00:12:03,982
+Él era un poeta romántico...
+
+149
+00:12:05,191 --> 00:12:07,318
+...y me enseñó que escribir
+es algo personal,
+
+150
+00:12:07,460 --> 00:12:10,861
+algo que viene de la
+propia persona del poeta.
+
+151
+00:12:11,230 --> 00:12:11,821
+Su cuerpo,
+
+152
+00:12:12,331 --> 00:12:13,764
+del ritmo de su respiración,
+
+153
+00:12:14,167 --> 00:12:15,191
+de su conversación.
+
+154
+00:12:17,937 --> 00:12:21,998
+Eventualmente yo desarrollé un
+sentido más profundo de confesión.
+
+155
+00:12:22,141 --> 00:12:23,699
+lo necesitaba...
+
+156
+00:12:23,843 --> 00:12:28,212
+...expresar mis sentimiento hacia
+él, pero él no los quería escuchar.
+
+157
+00:12:28,347 --> 00:12:31,407
+...entonces tuve que encontrar
+una nueva forma de expresarlos...
+
+158
+00:12:32,118 --> 00:12:33,813
+una manera en que le llegaran.
+
+159
+00:12:35,421 --> 00:12:37,389
+Esto va bien acá.
+
+160
+00:12:37,523 --> 00:12:40,686
+"Me ofrecieron refrescos que acepté".
+
+161
+00:12:40,827 --> 00:12:42,590
+"Comí un sándwich de pura carne"
+
+162
+00:12:42,728 --> 00:12:44,958
+"Un enorme sándwich de
+carne humana, me di cuenta,"
+
+163
+00:12:45,097 --> 00:12:46,496
+"Mientras yo comía en él. "
+
+164
+00:12:46,632 --> 00:12:48,759
+"¡También incluía un culo sucio!"
+
+165
+00:12:49,135 --> 00:12:50,124
+¡Está bueno!
+
+166
+00:12:51,137 --> 00:12:53,697
+¡Está bueno!
+La carne y el culo.
+
+167
+00:12:53,840 --> 00:12:54,534
+Allen, no crees.
+
+168
+00:12:54,674 --> 00:12:57,768
+Luego me di cuenta que si en realidad...
+
+169
+00:12:59,612 --> 00:13:02,445
+...admitía y confesaba la ternura secreta...
+
+170
+00:13:02,582 --> 00:13:04,777
+...de mi alma en mis escritos...
+
+171
+00:13:04,917 --> 00:13:07,909
+...él entendería al desnudo
+quién era yo. Entonces...
+
+172
+00:13:08,554 --> 00:13:11,114
+...aquella charla sincera
+reemplazaría mi temprana...
+
+173
+00:13:11,257 --> 00:13:14,522
+...rima imitativa que estaba
+haciendo por mi padre.
+
+174
+00:13:16,729 --> 00:13:20,790
+Jack fue la primera persona a la
+que realmente me abrí y le dije:
+
+175
+00:13:21,801 --> 00:13:23,462
+"Soy homosexual. "
+
+176
+00:13:26,072 --> 00:13:30,532
+Desde muy temprano me di cuenta que
+en verdad nadie se sorprende por nada.
+
+177
+00:13:31,077 --> 00:13:33,705
+A menos que salgas afuera
+a matar gente, tú sabes,
+
+178
+00:13:34,647 --> 00:13:38,674
+La gente nunca se
+sorprende realmente por...
+
+179
+00:13:38,818 --> 00:13:40,843
+...una expresión de sentimientos.
+
+180
+00:13:45,458 --> 00:13:47,517
+En verdad escribí "Aullido" por Jack.
+
+181
+00:13:51,831 --> 00:13:54,823
+<i>Que se encadenaron al subterráneo
+por el interminable viaje...</i>
+
+182
+00:13:54,967 --> 00:13:57,993
+<i>...desde Battery al santo
+Bronx en bencedrina...</i>
+
+183
+00:13:58,237 --> 00:14:01,900
+<i>...hasta el ruido de las ruedas
+y niños los hizo caer temblando...</i>
+
+184
+00:14:02,041 --> 00:14:05,568
+<i>...con la boca desvencijada y
+golpeados yermos de cerebro...</i>
+
+185
+00:14:05,711 --> 00:14:10,273
+<i>...completamente drenados de brillo
+bajo la lúgubre luz del Zoológico,</i>
+
+186
+00:14:10,516 --> 00:14:12,746
+<i>Que hablaron sin parar por 70 horas...</i>
+
+187
+00:14:12,885 --> 00:14:15,854
+<i>...del parque al apartamento
+al bar a Bellevue...</i>
+
+188
+00:14:15,988 --> 00:14:18,548
+<i>...al museo al puente de Brooklyn,</i>
+
+189
+00:14:20,893 --> 00:14:24,090
+<i>Un batallón perdido de
+conversadores platónicos...</i>
+
+190
+00:14:24,230 --> 00:14:25,754
+<i>...saltando desde las barandas,</i>
+
+191
+00:14:25,898 --> 00:14:29,061
+<i>...desde salidas de
+incendio, desde ventanas,</i>
+
+192
+00:14:29,201 --> 00:14:30,725
+<i>desde el Empire State,</i>
+
+193
+00:14:30,870 --> 00:14:32,599
+<i>desde la luna,</i>
+
+194
+00:14:35,174 --> 00:14:38,337
+<i>parloteando gritando vomitando...</i>
+
+195
+00:14:38,477 --> 00:14:42,04
+<i>...susurrando hechos y memorias y anécdotas...</i>
+
+196
+00:14:42,148 --> 00:14:47,085
+<i>...y excitaciones del globo ocular y
+shocks de hospitales y cárceles y guerras</i>
+
+197
+00:14:50,957 --> 00:14:54,290
+<i>Que encendieron cigarrillos
+en furgones, furgones, furgones...</i>
+
+198
+00:14:54,427 --> 00:14:59,262
+<i>...haciendo ruido a través de la nieve hacia
+granjas solitarias en la abuela noche.</i>
+
+199
+00:14:59,899 --> 00:15:02,959
+<i>Que estudiaron a Plotino
+Poe, San Juan De La Cruz,</i>
+
+200
+00:15:03,202 --> 00:15:05,432
+<i>telepatía pop kabbalah...</i>
+
+201
+00:15:05,571 --> 00:15:10,167
+<i>porque el cosmos instintivamente
+a sus pies en Kansas,</i>
+
+202
+00:15:11,210 --> 00:15:13,201
+<i>que vagaron solos por
+las calles de Idaho...</i>
+
+203
+00:15:13,346 --> 00:15:15,780
+<i>...buscando ángeles indios visionarios...</i>
+
+204
+00:15:15,915 --> 00:15:18,941
+<i>...que fueran ángeles indios visionarios,</i>
+
+205
+00:15:19,552 --> 00:15:22,715
+<i>que subieron en limosinas
+con el chino de Oklahoma...</i>
+
+206
+00:15:22,855 --> 00:15:27,451
+<i>...impulsados por la lluvia de pueblo
+luz de calle en la medianoche invernal,</i>
+
+207
+00:15:28,661 --> 00:15:30,754
+<i>Que reaparecieron en la Costa Oeste...</i>
+
+208
+00:15:30,896 --> 00:15:34,559
+<i>...investigando al FBI con
+barba y pantalones cortos...</i>
+
+209
+00:15:34,700 --> 00:15:36,930
+<i>...con grandes ojos pacifistas...</i>
+
+210
+00:15:37,069 --> 00:15:39,03
+<i>...en su oscura piel...</i>
+
+211
+00:15:39,138 --> 00:15:42,596
+<i>...repartiendo incomprensibles panfletos,</i>
+
+212
+00:15:44,276 --> 00:15:46,471
+<i>que se quemaron los
+brazos con cigarrillos...</i>
+
+213
+00:15:46,612 --> 00:15:50,446
+<i>...protestando por la neblina
+narcótica del tabaco del Capitalismo,</i>
+
+214
+00:15:53,285 --> 00:15:57,016
+<i>Que distribuyeron panfletos
+Super-comunistas en Union Square...</i>
+
+215
+00:15:57,156 --> 00:16:00,125
+<i>...sollozando y desnudándose
+mientras las sirenas de Los Álamos...</i>
+
+216
+00:16:00,259 --> 00:16:03,057
+<i>...aullaban por ellos y
+aullaban por la calle Wall,</i>
+
+217
+00:16:03,195 --> 00:16:06,255
+<i>y el ferry de Staten
+Island también aullaba,</i>
+
+218
+00:16:08,334 --> 00:16:13,237
+<i>Que se dejaron follar por el
+culo por santos motociclistas...</i>
+
+219
+00:16:13,372 --> 00:16:15,863
+<i>y gritaban de gozo,</i>
+
+220
+00:16:19,145 --> 00:16:24,310
+<i>que mamaron y fueron mamados por
+serafines humanos, los marinos,</i>
+
+221
+00:16:24,450 --> 00:16:28,318
+<i>caricias de amor atlántico y caribeño.</i>
+
+222
+00:16:37,430 --> 00:16:40,297
+El problema, cuando entras
+a la literatura, es que:
+
+223
+00:16:41,100 --> 00:16:44,263
+Hay un montón de escritores
+que tienen ideas preconcebidas...
+
+224
+00:16:44,403 --> 00:16:45,995
+...acerca de lo que la literatura
+se supone que debe ser,
+
+225
+00:16:46,138 --> 00:16:50,199
+pero sus ideas parecen impedir...
+
+226
+00:16:50,342 --> 00:16:52,708
+...todo aquello que se hace más interesante...
+
+227
+00:16:52,845 --> 00:16:54,836
+...en una conversación casual...
+
+228
+00:16:55,247 --> 00:16:56,179
+su homosexualidad,
+
+229
+00:16:56,415 --> 00:16:57,814
+su soledad,
+
+230
+00:16:57,950 --> 00:16:59,08
+su neurosis,
+
+231
+00:16:59,151 --> 00:17:01,312
+su tontería,
+
+232
+00:17:01,454 --> 00:17:02,682
+su vulgaridad,
+
+233
+00:17:02,822 --> 00:17:06,485
+o, incluso, a veces su masculinidad.
+
+234
+00:17:06,625 --> 00:17:09,287
+Porque ellos creen
+que van a escribir algo...
+
+235
+00:17:09,428 --> 00:17:11,692
+...que suena como aquello que
+ellos leyeron con anterioridad,
+
+236
+00:17:11,831 --> 00:17:13,059
+en vez de...
+
+237
+00:17:13,199 --> 00:17:14,325
+...sonar como algo propio...
+
+238
+00:17:14,467 --> 00:17:16,867
+...o, que venga de sus propias vidas.
+
+239
+00:17:18,070 --> 00:17:19,128
+Todos hablamos entre nosotros;
+
+240
+00:17:19,271 --> 00:17:21,205
+tenemos un entendimiento común,
+
+241
+00:17:21,340 --> 00:17:24,969
+Decimos aquello que queremos decir.
+Hablamos de nuestros culos,
+
+242
+00:17:25,111 --> 00:17:26,476
+hablamos de nuestras vergas,
+
+243
+00:17:26,612 --> 00:17:29,410
+hablamos acerca de quién
+nos folló la noche anterior,
+
+244
+00:17:29,548 --> 00:17:31,641
+o de quién nos cogeremos mañana,
+
+245
+00:17:31,784 --> 00:17:34,514
+o del tipo de relación
+amorosa en la que estamos,
+
+246
+00:17:34,653 --> 00:17:36,450
+o de cuando nos
+emborrachamos y terminamos...
+
+247
+00:17:36,451 --> 00:17:38,248
+...con el palo de una escoba
+metido hasta el culo...
+
+248
+00:17:38,390 --> 00:17:40,153
+en el Hotel Ambassador en Praga...
+
+249
+00:17:40,292 --> 00:17:45,059
+Quiero decir, ¡todos le contamos
+aquello a un amigo! ¿Cierto?
+
+250
+00:17:45,231 --> 00:17:46,095
+Entonces...
+
+251
+00:17:46,632 --> 00:17:50,159
+a lo que vamos es, ¿qué pasa
+cuando haces una distinción...
+
+252
+00:17:50,302 --> 00:17:53,362
+...entre aquello que le dices a tu amigo
+y aquello que le dices a tu Musa?
+
+253
+00:17:53,639 --> 00:17:56,403
+el truco está en
+quebrar dicha distinción,
+
+254
+00:17:56,542 --> 00:17:58,908
+y aproximar a tu Musa...
+
+255
+00:17:59,044 --> 00:18:02,639
+...sinceramente a cómo te hablarías
+a ti mismo o a tus amigos.
+
+256
+00:18:02,948 --> 00:18:10,616
+Es la capacidad de
+comprometerse a escribir...
+
+257
+00:18:11,056 --> 00:18:12,683
+...de la manera...
+
+258
+00:18:12,825 --> 00:18:13,985
+...en que tú eres.
+
+259
+00:18:15,427 --> 00:18:18,954
+<i>Que follaron en la mañana en las tardes,</i>
+
+260
+00:18:19,098 --> 00:18:24,297
+<i>en los rosales y en el pasto de
+parques públicos y cementerios...</i>
+
+261
+00:18:24,436 --> 00:18:29,635
+<i>...repartiendo su semen libremente
+a quien quisiera venir,</i>
+
+262
+00:18:29,942 --> 00:18:33,207
+<i>Que hiparon interminablemente
+tratando de reír...</i>
+
+263
+00:18:33,345 --> 00:18:37,805
+<i>...pero terminaron con un llanto
+tras la partición de un baño turco...</i>
+
+264
+00:18:37,950 --> 00:18:42,853
+<i>cuando un desnudo y rubio ángel
+vino a atravesarlos con una espada.</i>
+
+265
+00:18:42,988 --> 00:18:46,583
+El acto de escribir deviene en algo
+como... un ejercicio de meditación.
+
+266
+00:18:49,361 --> 00:18:52,330
+Si caminas por la calle en
+New York por un par de cuadras...
+
+267
+00:18:52,464 --> 00:18:56,298
+...tendrás esa sensación
+descomunal de los edificios.
+
+268
+00:18:56,435 --> 00:19:00,701
+Y, si caminas todo el día,
+estarás al borde de las lágrimas.
+
+269
+00:19:01,140 --> 00:19:04,701
+Pero, tienes que caminar todo el día
+antes de sentir aquella sensación.
+
+270
+00:19:06,045 --> 00:19:09,537
+Lo que quiero decir es que, si tú
+escribes todo el día entrarás en eso...
+
+271
+00:19:09,682 --> 00:19:13,140
+En tu cuerpo, en tus
+sentimientos, en tu conciencia...
+
+272
+00:19:16,188 --> 00:19:18,782
+Yo no escribo mucho en ese sentido.
+
+273
+00:19:31,03 --> 00:19:35,497
+<i>Que perdieron sus efebos por las
+tres viejas arpías del destino...</i>
+
+274
+00:19:35,774 --> 00:19:39,835
+<i>...la arpía tuerta del dólar heterosexual...</i>
+
+275
+00:19:40,112 --> 00:19:43,206
+<i>La arpía tuerta que guiña
+el ojo fuera del vientre,</i>
+
+276
+00:19:43,349 --> 00:19:46,876
+<i>...y la arpía tuerta que no hace
+más que sentarse en su culo...</i>
+
+277
+00:19:47,019 --> 00:19:51,615
+<i>...y cortar las hebras intelectuales
+doradas del telar del artesano..</i>
+
+278
+00:19:52,625 --> 00:19:56,459
+<i>Que copularon estáticos e insaciables
+con una botella de cerveza,</i>
+
+279
+00:19:56,595 --> 00:19:59,120
+<i>un amorcito, un paquete de cigarrillos,</i>
+
+280
+00:19:59,265 --> 00:20:01,529
+<i>una vela y se cayeron de la cama</i>
+
+281
+00:20:01,667 --> 00:20:04,761
+<i>y continuaron por el
+suelo y por el pasillo...</i>
+
+282
+00:20:04,904 --> 00:20:07,031
+<i>...y terminaron desmayándose en el muro...</i>
+
+283
+00:20:07,172 --> 00:20:09,197
+<i>...con una visión del coño
+supremo y eyacularon...</i>
+
+284
+00:20:09,341 --> 00:20:12,208
+<i>...eludiendo el último
+hálito de conciencia,</i>
+
+285
+00:20:17,416 --> 00:20:20,510
+<i>Que se desvanecieron en
+vastas y sórdidas películas,</i>
+
+286
+00:20:20,653 --> 00:20:22,484
+<i>eran cambiados en sueños,</i>
+
+287
+00:20:22,621 --> 00:20:26,216
+<i>despertaban en un súbito
+Manhattan, y se levantaron...</i>
+
+288
+00:20:26,358 --> 00:20:30,124
+<i>...en sótanos con resacas
+de despiadado Tokai...</i>
+
+289
+00:20:30,262 --> 00:20:33,390
+<i>...y horrores de sueños de
+hierro de la Tercera Avenida...</i>
+
+290
+00:20:33,532 --> 00:20:36,558
+<i>...y se tambalearon hacia
+las oficinas de desempleo,</i>
+
+291
+00:20:40,372 --> 00:20:43,170
+<i>Que crearon grandes dramas suicidas...</i>
+
+292
+00:20:43,309 --> 00:20:45,709
+<i>...en los farellones de los
+apartamentos del Hudson...</i>
+
+293
+00:20:45,844 --> 00:20:49,302
+<i>...bajo el foco azul de la
+luna durante la guerra...</i>
+
+294
+00:20:49,448 --> 00:20:53,384
+<i>y sus cabezas serán
+coronadas con laurel y olvido,</i>
+
+295
+00:20:54,086 --> 00:20:56,179
+<i>Que lloraron ante el
+romance de las calles</i>
+
+296
+00:20:56,322 --> 00:21:00,019
+<i>con sus carritos llenos
+de cebolla y mala música,</i>
+
+297
+00:21:00,759 --> 00:21:04,195
+<i>Que se sentaron respirando sobre las
+cajas en la oscuridad bajo el puente,</i>
+
+298
+00:21:04,530 --> 00:21:08,626
+<i>...y se levantaron para construir
+clavicordios en sus áticos,</i>
+
+299
+00:21:14,707 --> 00:21:16,675
+<i>Que escribieron frenéticos toda la noche...</i>
+
+300
+00:21:16,676 --> 00:21:18,643
+<i>...balanceándose y rodando
+sobre sublimas encantamientos</i>
+
+301
+00:21:18,777 --> 00:21:22,474
+<i>que en el amarillo amanecer
+eran estrofas incoherentes,</i>
+
+302
+00:21:23,449 --> 00:21:26,646
+<i>Que fueron quemados vivos en
+sus inocentes trajes de franela...</i>
+
+303
+00:21:26,785 --> 00:21:27,877
+<i>...en la Avenida Madison...</i>
+
+304
+00:21:28,020 --> 00:21:30,181
+<i>...entre explosiones de versos plúmbeos...</i>
+
+305
+00:21:30,322 --> 00:21:34,258
+<i>...y el enlatado martilleo de
+férreos regimientos de la moda...</i>
+
+306
+00:21:34,626 --> 00:21:39,154
+<i>...y los gritos de nitroglicerina
+de maricas de la publicidad...</i>
+
+307
+00:21:39,298 --> 00:21:42,893
+<i>y el gas mostaza de
+inteligentes editores siniestros,</i>
+
+308
+00:21:43,035 --> 00:21:47,938
+<i>o fueron atropellados por los taxis
+ebrios de la realidad absoluta.</i>
+
+309
+00:21:52,478 --> 00:21:56,073
+¿Diría usted que "Aullido"
+tiene algún mérito literario?
+
+310
+00:21:56,215 --> 00:21:57,341
+Sí.
+
+311
+00:21:57,483 --> 00:22:01,613
+Y supongo que usted
+entiende de lo que habla, ¿no?
+
+312
+00:22:01,854 --> 00:22:03,151
+Eso espero.
+
+313
+00:22:03,822 --> 00:22:05,983
+No es fácil saber que uno en realidad...
+
+314
+00:22:06,125 --> 00:22:09,219
+...entiende exactamente aquello que
+un poeta contemporáneo quiere decir,
+
+315
+00:22:09,361 --> 00:22:10,589
+pero creo que yo lo hago.
+
+316
+00:22:10,963 --> 00:22:13,932
+Bien, adentremos un poco en esto:
+
+317
+00:22:15,667 --> 00:22:19,603
+"Con sueños, con drogas, con
+pesadillas que despiertan"
+
+318
+00:22:19,738 --> 00:22:24,038
+"Alcohol y verga y bailes sin fin"
+
+319
+00:22:25,110 --> 00:22:27,408
+¿Qué significado tiene ésto para usted?
+
+320
+00:22:28,280 --> 00:22:29,269
+Bien...
+
+321
+00:22:30,516 --> 00:22:34,418
+Existen personas desarraigadas
+vagando por los Estados Unidos,
+
+322
+00:22:34,653 --> 00:22:35,711
+soñando,
+
+323
+00:22:36,422 --> 00:22:37,684
+drogados...
+
+324
+00:22:38,123 --> 00:22:39,681
+Eso está claro ¿no?
+
+325
+00:22:39,825 --> 00:22:42,419
+Incluso sus horas de
+vigilia con como pesadillas,
+
+326
+00:22:43,062 --> 00:22:45,189
+cargadas de licor...
+
+327
+00:22:45,330 --> 00:22:48,060
+disfrutando, según entiendo,
+
+328
+00:22:48,200 --> 00:22:52,034
+una variedad de indiscriminadas
+experiencias sexuales.
+
+329
+00:22:52,304 --> 00:22:55,637
+¿Entiende usted qué significa:
+"Hipster con cabezas de ángel"
+
+330
+00:22:55,774 --> 00:22:58,538
+"ardiendo por la antigua
+conexión celestial"
+
+331
+00:22:58,677 --> 00:23:02,306
+"con el estrellado dínamo
+de la maquinaria nocturna"?
+
+332
+00:23:03,482 --> 00:23:07,213
+Señor, usted no puede
+traducir la poesía en prosa.
+
+333
+00:23:07,653 --> 00:23:09,280
+Por eso es Poesía.
+
+334
+00:23:09,421 --> 00:23:12,015
+Pero ¿qué significa:
+"Hipsters con cabezas de ángel"?
+
+335
+00:23:29,174 --> 00:23:32,268
+Estaba trabajando como
+ayudante en Associated Press,
+
+336
+00:23:32,411 --> 00:23:35,608
+y estaba habilitado para
+manejar algunas cosas
+
+337
+00:23:35,747 --> 00:23:37,243
+Excepto que vivía en un lugar por...
+
+338
+00:23:37,244 --> 00:23:38,739
+...trece dólares al mes,
+un departamento de agua fría...
+
+339
+00:23:38,884 --> 00:23:41,409
+...repleto de drogadictos y ladrones.
+
+340
+00:23:42,521 --> 00:23:46,218
+El lugar estaba equipado con
+cubiertos de plata robados y...
+
+341
+00:23:46,358 --> 00:23:48,189
+...muebles de roble...
+
+342
+00:23:48,327 --> 00:23:51,194
+...tomados de los lobbys de
+edificios de departamentos.
+
+343
+00:23:53,532 --> 00:23:55,295
+En cierto punto,
+
+344
+00:23:55,567 --> 00:23:58,502
+me di cuenta que las cosas se estaban
+poniendo muy calientes, y eso...
+
+345
+00:23:58,637 --> 00:24:00,605
+mejor salía de ese lugar.
+Ya sabes, salir de lo bajo.
+
+346
+00:24:00,739 --> 00:24:01,467
+Entonces...
+
+347
+00:24:01,607 --> 00:24:04,201
+Me ordené y apilé todos mis manuscritos...
+
+348
+00:24:04,343 --> 00:24:05,935
+...en la parte trasera del coche de alguien...
+
+349
+00:24:06,078 --> 00:24:08,308
+...que resultó ser robado.
+
+350
+00:24:08,614 --> 00:24:10,172
+Tenía en la maleta,
+
+351
+00:24:10,315 --> 00:24:13,478
+todos los trajes robados y
+maletas y cubiertos de plata,
+
+352
+00:24:13,619 --> 00:24:16,087
+dobló en el camino equivocado
+en una calle de un sentido,
+
+353
+00:24:16,221 --> 00:24:18,587
+al final de ella había
+una patrulla de policía.
+
+354
+00:24:18,724 --> 00:24:21,284
+Entonces desvió su auto
+para tomar un camino lateral,
+
+355
+00:24:21,593 --> 00:24:24,687
+el auto derrapó y chocó
+los papeles volaron...
+
+356
+00:24:24,830 --> 00:24:27,560
+perdí mis anteojos, toda
+la ropa quedó botada.
+
+357
+00:24:28,500 --> 00:24:30,434
+Salté fuera del coche.
+Miré a mi alrededor...
+
+358
+00:24:30,569 --> 00:24:33,037
+...y volví al coche para
+coger mis cuadernos, pero...
+
+359
+00:24:33,172 --> 00:24:36,573
+...no pude encontrar mis gafas,
+entonces no pude encontrar mis papeles.
+
+360
+00:24:37,209 --> 00:24:38,938
+La multitud estaba
+reuniéndose a mi alrededor.
+
+361
+00:24:39,077 --> 00:24:40,339
+Caos.
+
+362
+00:24:40,479 --> 00:24:41,810
+Caos.
+
+363
+00:24:44,716 --> 00:24:47,344
+La forma más fácil
+para salir de todo esto,
+
+364
+00:24:47,486 --> 00:24:48,885
+como consecuencia, fue...
+
+365
+00:24:49,021 --> 00:24:53,185
+...ir al Instituto Psiquiátrico
+de la calle 168.
+
+366
+00:24:56,795 --> 00:25:01,232
+Estuve en el manicomio por ocho meses.
+
+367
+00:25:02,868 --> 00:25:04,392
+Ahí conocí a Carl Solomon.
+
+368
+00:25:05,871 --> 00:25:08,305
+Él también pensaba acerca del vacío...
+
+369
+00:25:08,440 --> 00:25:09,907
+...y ese tipo de problemas, y...
+
+370
+00:25:10,709 --> 00:25:14,110
+Pasamos meses sentados
+preguntándonos acerca de la
+
+371
+00:25:14,246 --> 00:25:16,544
+autoridad de los doctores
+
+372
+00:25:16,682 --> 00:25:19,082
+y si su sentido de realidad
+estaba bien para nosotros...
+
+373
+00:25:19,218 --> 00:25:22,415
+...o si estábamos en lo cierto,
+o saber qué estaba pasando.
+
+374
+00:25:23,989 --> 00:25:26,389
+Carl tenía problemas...
+
+375
+00:25:26,525 --> 00:25:29,460
+...porque estaba recibiendo un
+tratamiento de electroshock.
+
+376
+00:25:30,495 --> 00:25:33,987
+Yo no recibía nada de eso, ningún
+medicamento, ningún electroshock...
+
+377
+00:25:35,634 --> 00:25:40,435
+...porque le prometí a los médicos
+que iba a ser heterosexual.
+
+378
+00:25:40,939 --> 00:25:42,839
+Y así fue como salí de ahí.
+
+379
+00:25:44,776 --> 00:25:48,712
+Su madre fue internada, ¿cierto?
+
+380
+00:25:53,585 --> 00:25:57,351
+<i>El concreto vacío de
+la Insulina Metrazol,</i>
+
+381
+00:25:57,489 --> 00:26:00,458
+<i>electricidad hidroterapia psicoterapia,</i>
+
+382
+00:26:00,592 --> 00:26:04,221
+<i>terapia ocupacional ping pong y amnesia,</i>
+
+383
+00:26:04,363 --> 00:26:06,263
+<i>Que en una protesta sin humor,</i>
+
+384
+00:26:06,398 --> 00:26:09,765
+<i>volcaron sólo una mesa
+de ping pong simbólica,</i>
+
+385
+00:26:09,901 --> 00:26:13,098
+<i>descansando brevemente en catatonia,</i>
+
+386
+00:26:13,472 --> 00:26:17,841
+<i>volviendo años después realmente
+calvos excepto por una peluca de sangre,</i>
+
+387
+00:26:17,976 --> 00:26:19,910
+<i>y de lágrimas y dedos,</i>
+
+388
+00:26:20,045 --> 00:26:22,570
+<i>a la visible condenación del loco</i>
+
+389
+00:26:22,714 --> 00:26:24,443
+<i>de los barrios de las
+locas ciudades del Este,</i>
+
+390
+00:26:24,583 --> 00:26:30,317
+<i>Los fétidos salones del Pilgrim
+State Rockland y Greystone...</i>
+
+391
+00:26:30,455 --> 00:26:32,286
+Naomi, mi madre...
+
+392
+00:26:32,424 --> 00:26:34,415
+...entró y salió de instituciones mentales...
+
+393
+00:26:34,559 --> 00:26:36,322
+desde que yo tenía 6 años.
+
+394
+00:26:36,728 --> 00:26:41,893
+Cuando yo tenía 21, tuve que firmar
+los papeles para su lobotomía.
+
+395
+00:26:42,167 --> 00:26:45,034
+Murió en el Hospital Pilgrim State.
+
+396
+00:26:47,172 --> 00:26:49,606
+<i>...discutiendo con los ecos del alma,</i>
+
+397
+00:26:49,741 --> 00:26:51,732
+<i>balanceándose y rodando
+en la banca de la</i>
+
+398
+00:26:51,877 --> 00:26:55,040
+<i>soledad de medianoche
+reinos dolmen del amor,</i>
+
+399
+00:26:55,180 --> 00:26:58,115
+<i>sueños de la vida una pesadilla,</i>
+
+400
+00:26:58,750 --> 00:27:03,312
+<i>cuerpos convertidos en
+piedras pesados como la luna,</i>
+
+401
+00:27:03,855 --> 00:27:05,345
+<i>con la madre</i>
+
+402
+00:27:05,490 --> 00:27:07,424
+<i>finalmente jodida,</i>
+
+403
+00:27:07,893 --> 00:27:10,191
+<i>y el último libro fantástico</i>
+
+404
+00:27:10,329 --> 00:27:13,355
+<i>arrojado por la ventana
+de la habitación,</i>
+
+405
+00:27:13,865 --> 00:27:17,096
+<i>y la última puerta cerrada a las 4am</i>
+
+406
+00:27:17,235 --> 00:27:22,070
+<i>y el último teléfono golpeado
+contra el muro en protesta</i>
+
+407
+00:27:22,207 --> 00:27:25,699
+<i>y el último cuarto amoblado
+vaciado hasta la última pieza</i>
+
+408
+00:27:25,844 --> 00:27:27,311
+<i>de mobiliario mental,</i>
+
+409
+00:27:27,446 --> 00:27:32,281
+<i>un papel amarillo se irguió torcido
+en un colgador de alambre en el clóset,</i>
+
+410
+00:27:32,417 --> 00:27:35,113
+<i>e incluso eso imaginario,</i>
+
+411
+00:27:35,253 --> 00:27:40,190
+<i>nada si no un esperanzado
+poco de alucinación</i>
+
+412
+00:27:41,226 --> 00:27:42,853
+<i>Oh, Carl,</i>
+
+413
+00:27:43,261 --> 00:27:45,422
+<i>mientras no estás a salvo</i>
+
+414
+00:27:45,564 --> 00:27:47,498
+<i>yo no estaré a salvo,</i>
+
+415
+00:27:47,933 --> 00:27:53,894
+<i>y ahora realmente estás en la
+completa sopa animal del tiempo...</i>
+
+416
+00:28:51,363 --> 00:28:53,627
+Después de que salí del
+Hospital Psiquiátrico,
+
+417
+00:28:53,765 --> 00:28:56,290
+Tuve un periodo de miedo...
+
+418
+00:28:56,802 --> 00:28:58,736
+Sentía que tenía que salir de Nueva York.
+
+419
+00:29:01,239 --> 00:29:04,333
+Me estaba cuestionando mí
+sentido de realidad versus el...
+
+420
+00:29:04,476 --> 00:29:07,206
+...sentido social que se
+me estaba imponiendo.
+
+421
+00:29:07,479 --> 00:29:08,946
+era una posición en la que...
+
+422
+00:29:09,381 --> 00:29:12,145
+Muchas personas en el
+Hospital salen con, tú sabes,
+
+423
+00:29:12,284 --> 00:29:14,411
+un total auto rechazo,
+
+424
+00:29:14,786 --> 00:29:17,653
+un rechazo de... su propio universo.
+
+425
+00:29:18,523 --> 00:29:20,855
+Apoyo poco sincero, realmente, a...
+
+426
+00:29:21,993 --> 00:29:24,723
+patrones sociales
+supuestamente aceptados.
+
+427
+00:29:26,198 --> 00:29:28,098
+Pero me enamoraba una y otra vez,
+
+428
+00:29:28,233 --> 00:29:30,201
+y continuaba escribiendo
+mi poesía acerca de quienes...
+
+429
+00:29:30,335 --> 00:29:32,030
+...me iba enamorando.
+
+430
+00:29:32,170 --> 00:29:33,501
+Todos hombres heterosexuales.
+
+431
+00:29:34,606 --> 00:29:37,404
+Terminé en una excursión campo a través...
+
+432
+00:29:37,542 --> 00:29:40,306
+...desde Denver con mi amigo, Neal Cassady.
+
+433
+00:29:40,445 --> 00:29:43,414
+Y Neal era bien frenético,
+
+434
+00:29:43,548 --> 00:29:44,981
+muy encantador,
+
+435
+00:29:45,116 --> 00:29:47,584
+tenía seis mil chicas...
+
+436
+00:29:47,719 --> 00:29:50,847
+...a los largo del continente
+que lo mantenía bien ocupado.
+
+437
+00:29:51,523 --> 00:29:56,256
+De acuerdo... mmm...
+No. mmm...
+
+438
+00:29:57,462 --> 00:29:58,292
+¡Besaos!
+
+439
+00:30:00,332 --> 00:30:02,493
+Espera, espera, tienes algo...
+
+440
+00:30:03,068 --> 00:30:04,262
+A ver, ahí, lo tengo.
+
+441
+00:30:05,036 --> 00:30:05,900
+- ¿Mejor?
+- Sí.
+
+442
+00:30:13,311 --> 00:30:15,472
+- ¿Lo tienes?
+- Sí, lo tengo.
+
+443
+00:30:19,150 --> 00:30:21,015
+Un día, con Neal estábamos echados...
+
+444
+00:30:21,016 --> 00:30:22,881
+...en la cama juntos, a
+las cuatro de la madrugada.
+
+445
+00:30:23,021 --> 00:30:24,249
+Por algún motivo...
+
+446
+00:30:24,389 --> 00:30:27,017
+sin ningún lugar dónde ir y
+ningún otro lugar dónde dormir.
+
+447
+00:30:28,193 --> 00:30:30,787
+Recuerdo que yo estaba un poco asustado,
+
+448
+00:30:31,396 --> 00:30:33,762
+y no muy seguro de lo que
+tenía que hacer, entonces...
+
+449
+00:30:34,332 --> 00:30:37,460
+De alguna manera,
+me di vuelta...
+
+450
+00:30:37,602 --> 00:30:40,571
+...puse mi cuerpo un poco rígido y
+traté de ponerme al borde de la cama.
+
+451
+00:30:41,773 --> 00:30:43,741
+Él se dio cuenta que estaba incómodo.
+
+452
+00:30:44,776 --> 00:30:46,539
+En ese tiempo,
+todavía me ponía...
+
+453
+00:30:46,678 --> 00:30:50,273
+...incómodo de estar o
+sentirme con otra persona.
+
+454
+00:30:54,386 --> 00:30:56,183
+Entonces, puso su brazo sobre mí,
+
+455
+00:30:56,321 --> 00:30:58,915
+y me movió hacia él, yo...
+
+456
+00:30:59,224 --> 00:31:02,387
+...puse mi cabeza sobre su pecho, y...
+
+457
+00:31:02,527 --> 00:31:04,791
+...me dio amor... la verdad.
+
+458
+00:31:37,829 --> 00:31:39,820
+Entonces un día, recibí una carta...
+
+459
+00:31:39,965 --> 00:31:41,865
+...diciendo, finalmente:
+
+460
+00:31:42,00 --> 00:31:44,298
+"No nos debemos considerar a
+nosotros mismos como amantes... "
+
+461
+00:31:44,436 --> 00:31:46,802
+"estoy distraído con la esposa,"
+
+462
+00:31:48,306 --> 00:31:49,933
+"tanto como te amo. "
+
+463
+00:31:51,276 --> 00:31:54,143
+Mi corazón se rompió.
+
+464
+00:32:00,118 --> 00:32:01,176
+"Querido Allen,"
+
+465
+00:32:01,853 --> 00:32:04,321
+"Aquello que dices, es honestamente
+lo que he estado haciendo"
+
+466
+00:32:04,456 --> 00:32:06,981
+"o luchando toda mi vida. "
+
+467
+00:32:07,125 --> 00:32:08,956
+"En ello radica nuestro... "
+
+468
+00:32:09,094 --> 00:32:11,858
+"o confuso sentido de cercanía".
+
+469
+00:32:12,163 --> 00:32:16,031
+"También me temo que allí radica
+esa fuerza que nos mantiene juntos".
+
+470
+00:32:16,167 --> 00:32:17,259
+"Me temo'
+
+471
+00:32:17,402 --> 00:32:21,099
+"porque realmente no sé cuán
+satisfecho puedo estar amándote".
+
+472
+00:32:21,239 --> 00:32:22,365
+"quiero decir 'físicamente'".
+
+473
+00:32:22,507 --> 00:32:25,965
+"Tú sabes, a veces en el pasado no me
+gustaban realmente los hombres antes que tú"
+
+474
+00:32:26,111 --> 00:32:29,410
+"conscientemente me
+forzaba a ser homosexual".
+
+475
+00:32:30,382 --> 00:32:32,111
+"Tú significas mucho para mí".
+
+476
+00:32:32,817 --> 00:32:35,684
+"Y ahora me sentí forzado
+a desearte físicamente"
+
+477
+00:32:35,820 --> 00:32:37,515
+"como compensación"
+
+478
+00:32:37,789 --> 00:32:39,484
+"por todo lo que me has dado".
+
+479
+00:32:39,858 --> 00:32:41,485
+"Allen, soy directo"
+
+480
+00:32:41,760 --> 00:32:45,355
+"Lo que realmente quiero es vivir
+contigo desde Septiembre a Junio"
+
+481
+00:32:45,497 --> 00:32:48,728
+"tener un apartamento,
+una chica, ir a estudiar,"
+
+482
+00:32:48,867 --> 00:32:50,528
+"verlo todo, hacerlo todo,"
+
+483
+00:32:50,669 --> 00:32:54,036
+"y transformarme en realmente
+heterosexual, por favor, Allen,"
+
+484
+00:32:54,172 --> 00:32:56,538
+"dale a esto un par de vueltas".
+
+485
+00:33:06,985 --> 00:33:11,012
+<i>Que condujeron campo traviesa por 72 horas
+para averiguar si yo había tenido una visión</i>
+
+486
+00:33:11,156 --> 00:33:12,418
+<i>o tú habías tenido una visión</i>
+
+487
+00:33:12,557 --> 00:33:15,651
+<i>o él había tenido una visión
+para conocer la Eternidad,</i>
+
+488
+00:33:17,128 --> 00:33:18,720
+<i>Que viajaron a Denver,</i>
+
+489
+00:33:18,863 --> 00:33:20,228
+<i>Que murieron en Denver,</i>
+
+490
+00:33:20,799 --> 00:33:23,996
+<i>que volvían a Denver
+y esperaron en vano,</i>
+
+491
+00:33:24,135 --> 00:33:28,231
+<i>Que velaron por Denver y
+meditaron y andaban solos en Denver</i>
+
+492
+00:33:28,373 --> 00:33:31,365
+<i>y finalmente se fueron lejos
+para averiguar el tiempo,</i>
+
+493
+00:33:31,743 --> 00:33:34,507
+<i>y ahora Denver extraña a sus héroes,</i>
+
+494
+00:33:39,484 --> 00:33:41,975
+<i>Que cayeron de rodillas
+desesperanzadas catedrales</i>
+
+495
+00:33:42,120 --> 00:33:45,851
+<i>rezando por la salvación de
+cada uno y la luz y los pechos,</i>
+
+496
+00:33:45,990 --> 00:33:49,653
+<i>hasta que al alma se le iluminó
+el cabello por un segundo,</i>
+
+497
+00:33:50,195 --> 00:33:52,720
+<i>que endulzaron los coños
+de un millón de chicas</i>
+
+498
+00:33:52,864 --> 00:33:54,729
+<i>estremeciéndose en el crepúsculo,</i>
+
+499
+00:33:55,033 --> 00:33:57,01
+<i>y tenían los ojos rojos en la
+mañana pero estaban preparados...</i>
+
+500
+00:33:57,135 --> 00:33:59,569
+<i>...para endulzar el coño al amanecer,</i>
+
+501
+00:33:59,704 --> 00:34:03,367
+<i>resplandecientes nalgas bajo
+graneros y desnudos en el lago,</i>
+
+502
+00:34:04,776 --> 00:34:09,110
+<i>Que salieron de putas por Colorado en
+miríadas de coches robados en una noche,</i>
+
+503
+00:34:09,247 --> 00:34:13,240
+<i>Neal Cassady, el secreto
+héroe de estos poemas,</i>
+
+504
+00:34:13,551 --> 00:34:15,951
+<i>follador y Adonis de Denver,</i>
+
+505
+00:34:16,087 --> 00:34:19,784
+<i>regocijémonos con los recuerdos de
+sus innumerables jodidas con muchachas</i>
+
+506
+00:34:19,924 --> 00:34:22,893
+<i>en solares vacíos y patios
+traseros de restaurantes,</i>
+
+507
+00:34:23,027 --> 00:34:27,691
+<i>en desvencijados asientos de cines,
+en cimas de montañas en cuevas...</i>
+
+508
+00:34:27,999 --> 00:34:30,627
+<i>...o con demacradas camareras
+en familiares solitarios...</i>
+
+509
+00:34:30,902 --> 00:34:34,201
+<i>Solitarios levantamiento de enaguas.</i>
+
+510
+00:34:34,773 --> 00:34:37,298
+Creo que es un aullido de dolor.
+
+511
+00:34:37,809 --> 00:34:39,902
+Figurativamente hablando sus
+dedos han estado pisando...
+
+512
+00:34:40,044 --> 00:34:43,070
+Poéticamente él puso
+su llanto de dolor y
+
+513
+00:34:43,214 --> 00:34:44,841
+protesta en el libro, "Aullido".
+
+514
+00:34:44,983 --> 00:34:48,180
+¿Usted cree que este libro
+definitivamente tiene un valor literario?
+
+515
+00:34:48,453 --> 00:34:49,317
+Sí.
+
+516
+00:34:49,587 --> 00:34:51,748
+Como si fuera un hecho,
+creo que de cierto modo...
+
+517
+00:34:51,890 --> 00:34:54,916
+...él emplea la fraseología del jazz...
+
+518
+00:34:55,059 --> 00:34:57,152
+...y, debo decir, él...
+
+519
+00:34:57,295 --> 00:35:02,426
+Creo que también emplea
+aquellas palabras que escuchó...
+
+520
+00:35:02,567 --> 00:35:06,03
+...durante su vida, en su recorrer
+en sus variadas experiencias.
+
+521
+00:35:07,105 --> 00:35:08,197
+Gracias.
+
+522
+00:35:08,339 --> 00:35:11,934
+Ahora, ¿usted entiende la mayoría
+de las palabras de este libro?
+
+523
+00:35:12,210 --> 00:35:14,371
+Yo creo que entiendo su significado...
+
+524
+00:35:14,512 --> 00:35:16,377
+...y el contexto general de uso.
+
+525
+00:35:16,748 --> 00:35:17,772
+Así veo.
+
+526
+00:35:20,285 --> 00:35:23,584
+Veamos la página 13,
+
+527
+00:35:23,721 --> 00:35:24,779
+línea número 14:
+
+528
+00:35:26,291 --> 00:35:28,759
+"Que aullaron de rodillas
+en el subterráneo"
+
+529
+00:35:28,893 --> 00:35:33,921
+"y eran arrastrados por los tejados
+blandiendo genitales y manuscritos"
+
+530
+00:35:34,265 --> 00:35:37,393
+Ahora, ¿usted entiende qué
+quiere decir este párrafo,
+
+531
+00:35:37,535 --> 00:35:40,095
+como parte de "Aullido"?
+
+532
+00:35:40,371 --> 00:35:41,804
+De forma no explícita.
+
+533
+00:35:43,208 --> 00:35:45,972
+Yo diría que él está
+tratando de mostrar...
+
+534
+00:35:46,110 --> 00:35:49,341
+una falta de inhibición en
+la persona que está hablando,
+
+535
+00:35:50,415 --> 00:35:52,906
+la generación post II Guerra Mundial...
+
+536
+00:35:53,685 --> 00:35:55,880
+aquellos que retornaron,
+
+537
+00:35:56,020 --> 00:35:57,971
+fueron a la universidad
+y luego a trabajar,
+
+538
+00:35:57,972 --> 00:35:59,922
+inmediatamente después
+de la II Guerra Mundial...
+
+539
+00:36:00,592 --> 00:36:05,222
+quizás sintiéndose desplazados
+por el caos de la guerra...
+
+540
+00:36:05,363 --> 00:36:07,558
+...sin poder hallarse inmediatamente.
+
+541
+00:36:08,099 --> 00:36:11,227
+Ahora, el siguiente párrafo:
+
+542
+00:36:15,773 --> 00:36:18,970
+"Que mamaron y fueron mamados"
+
+543
+00:36:19,110 --> 00:36:22,978
+"por serafines humanos los marinos,"
+
+544
+00:36:23,114 --> 00:36:26,845
+"caricias del amor
+atlántico y caribeño. "
+
+545
+00:36:26,985 --> 00:36:30,887
+Ahora, ¿entiende usted el
+significado de "mamaron" y "mamados"?
+
+546
+00:36:31,456 --> 00:36:33,788
+Bueno, yo creo que son palabras
+con variados significados.
+
+547
+00:36:34,359 --> 00:36:37,590
+¿Qué significado le atribuye a
+estas palabras en este párrafo?
+
+548
+00:36:37,729 --> 00:36:40,994
+Podrían significar, en cierto nivel...
+Que ellos fueron vagabundos,
+
+549
+00:36:41,132 --> 00:36:45,535
+que fueron mamados por
+vientos naturales, literales.
+
+550
+00:36:45,670 --> 00:36:48,798
+Por otro lado, tal vez
+tienen connotaciones sexuales...
+
+551
+00:36:49,941 --> 00:36:52,637
+...en referencia a la
+copulación oral, ¿cierto?
+
+552
+00:36:52,944 --> 00:36:54,206
+Sí, posiblemente.
+
+553
+00:36:54,545 --> 00:36:56,240
+Entonces...
+¿Cree usted que estas palabras...
+
+554
+00:36:56,381 --> 00:36:58,144
+son, en este contexto,
+necesarias...
+
+555
+00:36:58,283 --> 00:37:00,012
+...para hacer un trabajo
+con valor literario?
+
+556
+00:37:00,151 --> 00:37:01,846
+Creo que eso lo habíamos
+establecido, Su Señoría.
+
+557
+00:37:01,986 --> 00:37:04,511
+Sí, Sr. Mclntosh, si usted recuerda,
+
+558
+00:37:04,656 --> 00:37:07,819
+Yo señalé que no permitiría el
+uso de la palabra "necesario".
+
+559
+00:37:08,259 --> 00:37:10,659
+Pero usted puede hacer la
+pregunta: "¿Son pertinentes?"
+
+560
+00:37:11,296 --> 00:37:14,891
+¿Son estas palabras pertinentes para
+hacer este trabajo con valor literario?
+
+561
+00:37:15,033 --> 00:37:16,557
+Sí, yo diría que sí.
+
+562
+00:37:16,701 --> 00:37:19,363
+Ahora, entonces si retiramos
+esas palabras fuera de ahí,
+
+563
+00:37:19,737 --> 00:37:21,534
+aquello, ¿arruinaría la obra?
+
+564
+00:37:21,673 --> 00:37:23,157
+Eso está haciendo
+indirectamente, aquello que,
+
+565
+00:37:23,158 --> 00:37:24,642
+Su Señoría, no permite
+hacer directamente.
+
+566
+00:37:24,776 --> 00:37:26,835
+Este hombre es un experto.
+
+567
+00:37:27,111 --> 00:37:28,578
+Está especulando.
+
+568
+00:37:28,713 --> 00:37:33,082
+No, Sr. Mclntosh. Temo que no
+estoy de acuerdo con usted en esto.
+
+569
+00:37:33,217 --> 00:37:36,948
+Si el autor podría haber
+usado palabras diferentes,
+
+570
+00:37:37,088 --> 00:37:39,716
+usted está entrando en el
+reino de la especulación.
+
+571
+00:37:39,857 --> 00:37:41,347
+Objeción aceptada.
+
+572
+00:37:42,593 --> 00:37:44,220
+Bajemos un poco más...
+
+573
+00:37:47,398 --> 00:37:51,027
+"Que endulzaron los coños
+de un millón de muchachas"
+
+574
+00:37:51,169 --> 00:37:55,128
+"estremeciéndose en el crepúsculo, y
+tenía los ojos rojos en las mañanas"
+
+575
+00:37:55,273 --> 00:37:59,232
+"pero estaban preparados para
+endulzar el coño al amanecer,"
+
+576
+00:37:59,377 --> 00:38:04,110
+"resplandecientes nalgas bajo
+graneros y desnudos en el lago"
+
+577
+00:38:08,219 --> 00:38:09,880
+¿Cuál es su pregunta?
+
+578
+00:38:10,254 --> 00:38:12,916
+Aquella palabra... "coño" es...
+
+579
+00:38:13,057 --> 00:38:14,456
+¿Es ella...
+
+580
+00:38:14,592 --> 00:38:17,857
+...pertinente para el esfuerzo
+literario del Sr. Ginsberg?
+
+581
+00:38:17,996 --> 00:38:22,399
+Sí. Creo que el uso de eufemismos
+en la descripción de esto...
+
+582
+00:38:23,601 --> 00:38:26,069
+sería deshonesto para el Sr. Ginsberg.
+
+583
+00:38:26,771 --> 00:38:30,298
+Usted también dijo, según creo,
+que un libro con valor literario...
+
+584
+00:38:30,441 --> 00:38:34,104
+...sobrevive a cualquier
+evaluación, en cualquier época...
+
+585
+00:38:34,245 --> 00:38:35,627
+¿Cree usted que el
+trabajo del Sr. Ginsberg...
+
+586
+00:38:35,628 --> 00:38:37,09
+...sobrevivirá al paso del tiempo?
+
+587
+00:38:37,148 --> 00:38:39,139
+Él no tiene forma de saberlo,
+
+588
+00:38:39,283 --> 00:38:42,150
+sólo un par de personas pensaron
+que "Hojas de Hierba" sobreviviría.
+
+589
+00:38:42,286 --> 00:38:45,119
+Le estoy preguntando su opinión,
+que nos dé una opinión sobre ese libro.
+
+590
+00:38:45,256 --> 00:38:47,190
+Él señaló que el valor literario...
+
+591
+00:38:47,325 --> 00:38:49,259
+...depende de su sobrevivencia al tiempo...
+
+592
+00:38:49,394 --> 00:38:50,622
+y quiero saber si éste lo hará.
+
+593
+00:38:50,762 --> 00:38:52,161
+Si Luther Nichols puede responder eso,
+
+594
+00:38:52,296 --> 00:38:55,231
+entonces Dios lo puede usar de ayudante
+y llevarlo a su lado, allá arriba.
+
+595
+00:38:55,366 --> 00:38:56,298
+¿Cómo puede saberlo?
+
+596
+00:38:56,434 --> 00:38:58,868
+Le estoy pidiendo su
+opinión como experto.
+
+597
+00:38:59,03 --> 00:38:59,799
+Le preguntaré.
+
+598
+00:39:00,905 --> 00:39:02,896
+¿Puede contestar esa pregunta?
+
+599
+00:39:04,976 --> 00:39:07,308
+Me pide una predicción.
+
+600
+00:39:08,880 --> 00:39:11,576
+Creo que este juicio llevará la
+atención de la gente sobre el libro.
+
+601
+00:39:11,716 --> 00:39:15,413
+"Aullido" tendrá más lectores
+que los que debería haber tenido,
+
+602
+00:39:15,553 --> 00:39:19,455
+y puede pasar a la historia
+como un peldaño en el camino...
+
+603
+00:39:19,590 --> 00:39:21,649
+...hacia una mayor o menor libertad...
+
+604
+00:39:21,793 --> 00:39:23,522
+...en la concesión de permiso
+a poemas de este tipo.
+
+605
+00:39:38,176 --> 00:39:41,09
+La Poesía, generalmente, es una...
+
+606
+00:39:41,145 --> 00:39:43,841
+...articulación rítmica de sentimientos.
+
+607
+00:39:44,849 --> 00:39:46,874
+Y un Sentimiento...
+
+608
+00:39:47,018 --> 00:39:49,748
+...es un impulso que se inicia dentro.
+
+609
+00:39:50,555 --> 00:39:54,355
+Cómo el impulso sexual, sabes.
+Casi tan definido como aquello. Es...
+
+610
+00:39:55,259 --> 00:39:58,626
+Es un sentimiento que comienza,
+en la boca del estómago, ¿verdad?
+
+611
+00:39:59,330 --> 00:40:03,266
+Y sube a través del pecho, y...
+
+612
+00:40:03,401 --> 00:40:06,131
+...fuera de la boca y oídos, ¿cierto?
+
+613
+00:40:07,738 --> 00:40:08,705
+Y...
+
+614
+00:40:08,840 --> 00:40:12,571
+...que surge como un canturreo o
+un gemido o un suspiro, ¿cierto?
+
+615
+00:40:12,910 --> 00:40:15,208
+Entonces, si tratas
+de poner palabras a eso...
+
+616
+00:40:15,346 --> 00:40:17,871
+...mirando a tu alrededor y...
+
+617
+00:40:18,015 --> 00:40:21,07
+...tratando de describir
+aquello que te hace suspirar,
+
+618
+00:40:21,152 --> 00:40:22,847
+...sólo suspirar con las palabras,
+
+619
+00:40:23,554 --> 00:40:25,852
+...simplemente tienes que
+articular aquello que sientes.
+
+620
+00:40:26,390 --> 00:40:29,587
+<i>Que mordieron detectives en el
+cuello y chillaron con deleite...</i>
+
+621
+00:40:29,727 --> 00:40:32,662
+<i>...en autos de policía por
+no cometer más crímenes,</i>
+
+622
+00:40:32,797 --> 00:40:36,927
+<i>que su propia y salvaje
+pederastia e intoxicación.</i>
+
+623
+00:40:37,902 --> 00:40:41,394
+<i>Que aullaron de rodillas
+en el subterráneo...</i>
+
+624
+00:40:41,539 --> 00:40:43,837
+<i>...y eran arrastrados por los tejados...</i>
+
+625
+00:40:43,975 --> 00:40:47,775
+<i>...blandiendo genitales y manuscritos.</i>
+
+626
+00:40:52,884 --> 00:40:54,613
+En el momento de la composición,
+
+627
+00:40:54,886 --> 00:40:57,150
+Necesariamente no sé qué quiere decir.
+
+628
+00:40:58,022 --> 00:40:59,819
+Suele significar algo más tarde,
+
+629
+00:40:59,957 --> 00:41:01,549
+después de uno o dos años
+me doy cuenta...
+
+630
+00:41:01,692 --> 00:41:02,852
+...que aquello significa algo claro,
+
+631
+00:41:02,994 --> 00:41:04,325
+inconscientemente.
+
+632
+00:41:05,096 --> 00:41:07,758
+Toma un significado con el
+tiempo, tú sabes... como...
+
+633
+00:41:08,065 --> 00:41:09,794
+...una fotografía que se
+desarrollo con lentitud.
+
+634
+00:41:11,869 --> 00:41:13,666
+Es absolutamente espontáneo.
+
+635
+00:41:15,106 --> 00:41:17,904
+A veces ni siquiera sé si tiene sentido.
+
+636
+00:41:18,376 --> 00:41:21,675
+Otras veces, sé que
+tiene completo sentido,
+
+637
+00:41:23,047 --> 00:41:24,810
+Me pongo a llorar.
+
+638
+00:41:26,150 --> 00:41:27,879
+Porque me doy cuenta que estoy...
+
+639
+00:41:29,220 --> 00:41:31,313
+Que estoy golpeando en un área que es...
+
+640
+00:41:31,722 --> 00:41:33,155
+...totalmente cierta.
+
+641
+00:41:33,524 --> 00:41:37,085
+En ese sentido, capaz
+de ser leído por alguien...
+
+642
+00:41:37,228 --> 00:41:40,254
+...y llorar también,
+quizás, siglos después.
+
+643
+00:41:40,665 --> 00:41:42,963
+En ese sentido, como una profecía,
+
+644
+00:41:43,935 --> 00:41:46,233
+porque toca una llave maestra.
+
+645
+00:41:46,871 --> 00:41:47,735
+Quiero decir,
+
+646
+00:41:48,906 --> 00:41:51,136
+lo que una profecía en verdad es,
+
+647
+00:41:51,676 --> 00:41:55,112
+no es saber si...
+
+648
+00:41:55,713 --> 00:41:57,681
+la bomba caerá en 1942.
+
+649
+00:41:58,115 --> 00:42:00,675
+Es saber y sentir algo que...
+
+650
+00:42:00,818 --> 00:42:02,843
+...alguien sabrá y sentirá...
+
+651
+00:42:03,688 --> 00:42:05,451
+...en cientos de años más...
+
+652
+00:42:07,758 --> 00:42:10,249
+Quizás aquella
+articulación es un indicio...
+
+653
+00:42:10,394 --> 00:42:13,056
+...que tomarán en cien años más.
+
+654
+00:42:32,984 --> 00:42:35,077
+<i>Que chocaron a través
+de su mente en la cárcel,</i>
+
+655
+00:42:35,219 --> 00:42:36,982
+<i>Esperando por imposibles criminales...</i>
+
+656
+00:42:37,121 --> 00:42:38,782
+<i>...de cabeza dorada...</i>
+
+657
+00:42:38,923 --> 00:42:42,051
+<i>...y el encanto de la
+realidad en sus corazones...</i>
+
+658
+00:42:44,462 --> 00:42:47,522
+<i>Que cantaban un dulce Blues a Alcatraz,</i>
+
+659
+00:42:48,733 --> 00:42:52,396
+<i>Que demandaron juicios de cordura
+acusando a la radio de hipnotismo...</i>
+
+660
+00:42:52,536 --> 00:42:54,401
+<i>...y fueron abandonados con su locura...</i>
+
+661
+00:42:54,538 --> 00:42:56,733
+<i>...y sus manos y un jurado indeciso...</i>
+
+662
+00:42:59,443 --> 00:43:03,379
+<i>Que tiraron ensalada de papas a los
+lectores de la CCNY sobre dadaísmo...</i>
+
+663
+00:43:03,514 --> 00:43:05,345
+<i>...y subsiguientemente se
+presentaron ellos mismos...</i>
+
+664
+00:43:05,483 --> 00:43:07,417
+<i>...en los escalones de
+granito del manicomio...</i>
+
+665
+00:43:07,551 --> 00:43:10,782
+<i>...con las cabezas afeitadas y un
+arlequinesco discurso de suicido,</i>
+
+666
+00:43:10,921 --> 00:43:13,947
+<i>...exigiendo una lobotomía instantánea,</i>
+
+667
+00:43:16,227 --> 00:43:17,854
+<i>y recibieron a cambio...</i>
+
+668
+00:43:17,995 --> 00:43:20,225
+<i>...el concreto vacío de
+la Insulina Metrazol...</i>
+
+669
+00:43:20,364 --> 00:43:23,299
+<i>...electricidad hidroterapia psicoterapia...</i>
+
+670
+00:43:23,434 --> 00:43:26,835
+<i>...terapia ocupacional ping pong y amnesia,</i>
+
+671
+00:43:31,542 --> 00:43:33,874
+<i>y que por lo tanto corrió a
+través de las heladas calles...</i>
+
+672
+00:43:34,011 --> 00:43:35,706
+<i>...obsesionado con la súbita...</i>
+
+673
+00:43:35,846 --> 00:43:37,780
+<i>...sobre la alquimia del uso de la elipse...</i>
+
+674
+00:43:37,915 --> 00:43:41,715
+<i>...el catálogo del medidor
+y el plano vibratorio,</i>
+
+675
+00:43:45,890 --> 00:43:50,156
+<i>Que soñaron e hicieron aberturas
+encarnadas en el tiempo y el espacio...</i>
+
+676
+00:43:50,294 --> 00:43:52,455
+<i>...a través de imágenes yuxtapuestas,</i>
+
+677
+00:43:52,596 --> 00:43:54,826
+<i>y atraparon al Arcángel del alma...</i>
+
+678
+00:43:54,965 --> 00:43:56,830
+<i>...entre 2 imágenes visuales...</i>
+
+679
+00:43:56,967 --> 00:44:00,960
+<i>...para recrear la sintaxis y la
+medida de la pobre prosa humana...</i>
+
+680
+00:44:01,105 --> 00:44:04,472
+<i>...y pararse frente a ti
+mudos e inteligentes...</i>
+
+681
+00:44:04,608 --> 00:44:06,769
+<i>...y temblorosos de vergüenza,</i>
+
+682
+00:44:07,478 --> 00:44:09,673
+<i>rechazados y no obstante
+confesando el alma...</i>
+
+683
+00:44:09,814 --> 00:44:11,748
+<i>...para conformarse al
+ritmo del pensamiento...</i>
+
+684
+00:44:11,882 --> 00:44:14,146
+<i>en su desnuda cabeza sin fin,</i>
+
+685
+00:44:16,787 --> 00:44:20,314
+<i>el vagabundo demente y el
+ángel Beat en el tiempo,</i>
+
+686
+00:44:20,458 --> 00:44:22,722
+<i>desconocido, y no
+obstante escribiendo aquí...</i>
+
+687
+00:44:22,860 --> 00:44:26,455
+<i>...lo que podría quedar por decir
+en el tiempo después de la muerte,</i>
+
+688
+00:44:27,998 --> 00:44:32,526
+<i>y se alzaron reencarnando en
+las fantasmales ropas del jazz...</i>
+
+689
+00:44:32,670 --> 00:44:35,195
+<i>...en la sombra de cuerno
+dorado de la banda...</i>
+
+690
+00:44:35,339 --> 00:44:39,776
+<i>...y soplaron el sufrimiento fuera de la
+mente desnuda de América por el amor...</i>
+
+691
+00:44:39,910 --> 00:44:42,435
+<i>...en un llanto de saxofón...</i>
+
+692
+00:44:42,580 --> 00:44:45,447
+<i>Eli Eli Lamma Lamma Sabacthani.</i>
+
+693
+00:44:45,583 --> 00:44:49,178
+<i>Que estremeció las ciudades
+hasta la última radio...</i>
+
+694
+00:44:49,320 --> 00:44:52,221
+<i>...con el absoluto corazón
+del poema sanguinariamente...</i>
+
+695
+00:44:52,356 --> 00:44:54,756
+<i>...arrancado de sus cuerpos...</i>
+
+696
+00:44:54,892 --> 00:44:58,259
+<i>...bueno para alimentarse mil años.</i>
+
+697
+00:45:16,781 --> 00:45:17,770
+Después de dejar Nueva York,
+
+698
+00:45:18,315 --> 00:45:20,476
+pasé un año en San Francisco.
+
+699
+00:45:20,751 --> 00:45:23,948
+Tenía un apartamento en Nob Hill,
+
+700
+00:45:24,989 --> 00:45:27,321
+la corbata y el traje,
+
+701
+00:45:27,458 --> 00:45:30,552
+un trabajo con muchas
+secretarias que era...
+
+702
+00:45:30,694 --> 00:45:32,286
+el inicio de darme placer,
+
+703
+00:45:33,130 --> 00:45:35,155
+el placer de saber que lo podía hacer...
+
+704
+00:45:35,299 --> 00:45:38,291
+...ya no estaba intimidado
+por las formas sociales,
+
+705
+00:45:38,436 --> 00:45:41,872
+para poder hacerlo en
+mundo seco de los negocios.
+
+706
+00:45:44,608 --> 00:45:45,802
+Y allí fue cuando conocí a Peter.
+
+707
+00:46:15,739 --> 00:46:17,570
+Y fue cuando conocí a Peter...
+
+708
+00:46:17,708 --> 00:46:19,767
+...que todo cambió para mí.
+
+709
+00:46:23,214 --> 00:46:26,445
+Aquello fue como si el
+cielo me bañara en oro.
+
+710
+00:46:27,785 --> 00:46:32,279
+Finalmente alguien me
+amaba como yo lo amaba,
+
+711
+00:46:33,257 --> 00:46:36,784
+y, por primera vez en mi vida,
+me sentí aceptado.
+
+712
+00:46:36,927 --> 00:46:38,326
+Completamente.
+
+713
+00:46:48,572 --> 00:46:50,05
+En San Francisco,
+
+714
+00:46:50,140 --> 00:46:53,337
+estuve un año en
+psicoterapia con el Dr. Hicks.
+
+715
+00:46:54,745 --> 00:46:56,906
+Estaba bloqueado,
+no podía escribir...
+
+716
+00:46:58,115 --> 00:46:59,946
+Aún estaba tratando de actuar normal.
+
+717
+00:47:00,084 --> 00:47:02,075
+Tenía miedo de estar loco.
+
+718
+00:47:02,219 --> 00:47:05,086
+Estaba seguro que
+suponer ser heterosexual...
+
+719
+00:47:05,222 --> 00:47:07,554
+...era algo que estaba mal en mí.
+
+720
+00:47:09,660 --> 00:47:11,719
+Y el Dr. Hicks lo seguía diciendo,
+
+721
+00:47:11,862 --> 00:47:14,126
+"¿Qué quieres hacer?
+
+722
+00:47:14,265 --> 00:47:17,257
+"¿Cuál es el deseo de tu corazón?"
+
+723
+00:47:17,401 --> 00:47:19,528
+Finalmente dije...
+
+724
+00:47:19,670 --> 00:47:21,831
+Lo que realmente quiero hacer es...
+
+725
+00:47:21,972 --> 00:47:24,236
+...renunciar a todo esto...
+
+726
+00:47:24,475 --> 00:47:25,271
+...y...
+
+727
+00:47:25,409 --> 00:47:27,274
+...vivir en una pequeña
+habitación con Peter...
+
+728
+00:47:27,411 --> 00:47:30,05
+...dedicarme a mis escritos y...
+
+729
+00:47:30,447 --> 00:47:34,315
+...la contemplación y follar
+y fumar marihuana y...
+
+730
+00:47:34,451 --> 00:47:36,442
+...hacer lo que quiera.
+
+731
+00:47:37,488 --> 00:47:40,252
+Y me dijo, "Entonces,
+¿por qué no lo haces?"
+
+732
+00:47:42,726 --> 00:47:46,127
+Pienso... ¿qué va a pasar
+si me hago viejo...
+
+733
+00:47:46,263 --> 00:47:48,231
+...con manchas de orina en mi ropa interior...
+
+734
+00:47:48,365 --> 00:47:50,731
+...y estoy viviendo en
+habitaciones amuebladas...
+
+735
+00:47:50,868 --> 00:47:52,893
+...y nadie me ama y...
+
+736
+00:47:53,037 --> 00:47:54,334
+...tengo el pelo cano y...
+
+737
+00:47:54,471 --> 00:47:56,905
+no tengo dinero, con las
+migas de tiradas en el suelo?"
+
+738
+00:47:57,041 --> 00:47:58,440
+Y él me dijo,
+
+739
+00:47:59,543 --> 00:48:01,101
+"No te preocupes de eso,"
+
+740
+00:48:01,245 --> 00:48:05,204
+"eres encantador y amable
+la gente siempre te amará".
+
+741
+00:48:05,349 --> 00:48:07,579
+¡Qué alivio escuchar eso!
+
+742
+00:48:08,752 --> 00:48:11,243
+¡Muy pronto me di cuenta que todo era...
+
+743
+00:48:11,755 --> 00:48:13,017
+...una trampa de miedo...
+
+744
+00:48:14,325 --> 00:48:15,622
+Ilusoria!
+
+745
+00:48:18,462 --> 00:48:21,488
+<i>¿Qué esfinge de cemento y aluminio...</i>
+
+746
+00:48:21,632 --> 00:48:23,998
+<i>...abrió sus cráneos...</i>
+
+747
+00:48:24,134 --> 00:48:27,01
+<i>...y devoró sus cerebros e imaginación?</i>
+
+748
+00:48:27,638 --> 00:48:32,132
+<i>¡Moloch! ¡Soledad! ¡Inmundicia!</i>
+
+749
+00:48:32,276 --> 00:48:36,474
+<i>¡Fealdad! ¡Ceniceros y
+dólares inalcanzables!</i>
+
+750
+00:48:37,081 --> 00:48:39,777
+<i>¡Niños gritando bajo las escaleras!</i>
+
+751
+00:48:39,917 --> 00:48:42,408
+<i>¡Muchachos sollozando en ejércitos!</i>
+
+752
+00:48:42,553 --> 00:48:45,181
+<i>¡Ancianos llorando en los parques!</i>
+
+753
+00:48:45,322 --> 00:48:48,086
+<i>¡Moloch! ¡Moloch!</i>
+
+754
+00:48:48,225 --> 00:48:52,787
+<i>¡Pesadilla de Moloch!
+¡Moloch el sin amor!</i>
+
+755
+00:48:53,263 --> 00:48:55,094
+<i>¡Moloch mental!</i>
+
+756
+00:48:55,232 --> 00:48:58,827
+<i>¡Moloch el pesado juez de los hombres!</i>
+
+757
+00:49:02,206 --> 00:49:05,539
+Peter y yo vimos un día a
+Moloch cuando tomamos peyote...
+
+758
+00:49:05,676 --> 00:49:08,577
+...y estábamos dando vueltas
+en la calles del centro.
+
+759
+00:49:09,279 --> 00:49:12,771
+es un Dios que hace
+sacrificios de fuego.
+
+760
+00:49:13,417 --> 00:49:14,315
+Pero...
+
+761
+00:49:14,685 --> 00:49:18,416
+...en mi mente, fue aquello que
+llevó a mi madre a la locura.
+
+762
+00:49:19,857 --> 00:49:22,348
+Entonces, tenía la línea:
+
+763
+00:49:22,693 --> 00:49:26,959
+"Moloch cuyos ojos son
+mil de ventanas ciegas"
+
+764
+00:49:27,331 --> 00:49:28,855
+tenía esta palabra,
+
+765
+00:49:31,669 --> 00:49:33,034
+y... también tenía la sensación
+
+766
+00:49:33,170 --> 00:49:35,604
+<i>DA de de DA de de DA de de DA DA. Hmm?</i>
+
+767
+00:49:35,739 --> 00:49:40,676
+Entonces, todo lo que tenía que hacer
+era mirar y ver un montón de ventanas,
+
+768
+00:49:40,811 --> 00:49:42,836
+y dije: "Oh, ventanas, por supuesto,"
+
+769
+00:49:43,113 --> 00:49:45,547
+Pero ¿qué tipo de ventanas? ¿Verdad? y...
+
+770
+00:49:45,683 --> 00:49:47,548
+No sólo eso...
+
+771
+00:49:47,685 --> 00:49:49,983
+"Moloch cuyos ojos"... ¿Verdad?
+
+772
+00:49:50,120 --> 00:49:53,283
+"Moloch cuyos ojos" que
+es hermoso por sí mismo...
+
+773
+00:49:54,024 --> 00:49:55,355
+Pero sabes,
+¿qué hay acerca de eso?
+
+774
+00:49:55,492 --> 00:49:56,584
+"Moloch cuyos ojos"
+¿Qué?
+
+775
+00:49:56,727 --> 00:49:58,888
+"Moloch cuyos ojos"...
+
+776
+00:49:59,029 --> 00:50:02,157
+Luego, la siguiente cosa que
+pensé, probablemente, fue...
+
+777
+00:50:02,299 --> 00:50:02,856
+"Miles".
+
+778
+00:50:03,00 --> 00:50:04,661
+Vale, pero "Miles"
+¿qué?
+
+779
+00:50:04,802 --> 00:50:06,429
+"Miles de ciegas"...
+
+780
+00:50:06,570 --> 00:50:09,505
+Y entonces tenía que terminarlo
+de alguna manera. Entonces...
+
+781
+00:50:09,640 --> 00:50:10,937
+Debo haber dicho "Ventanas".
+
+782
+00:50:16,613 --> 00:50:21,482
+<i>¡Moloch cuyos ojos son
+mil ventanas ciegas!</i>
+
+783
+00:50:23,687 --> 00:50:25,780
+<i>¡Moloch cuyos rascacielos...</i>
+
+784
+00:50:25,923 --> 00:50:29,415
+<i>...se yerguen en las largas
+calles como inacabables Jehovás!</i>
+
+785
+00:50:31,095 --> 00:50:35,156
+<i>¡Moloch cuyas fábricas
+sueñan y croan en la niebla!</i>
+
+786
+00:50:37,968 --> 00:50:42,064
+<i>¡Moloch cuyo amor es
+aceite y piedra sin fin!</i>
+
+787
+00:50:43,907 --> 00:50:47,274
+<i>¡Moloch cuya alma es
+electricidad y bancos!</i>
+
+788
+00:50:48,045 --> 00:50:52,744
+<i>¡Moloch cuyo destino es una
+nube de hidrógeno asexuado!</i>
+
+789
+00:50:54,585 --> 00:50:57,281
+<i>¡Moloch en quien me asiento solitario!</i>
+
+790
+00:50:58,222 --> 00:51:01,623
+<i>¡Moloch en quien sueño Ángeles!</i>
+
+791
+00:51:03,994 --> 00:51:05,757
+<i>¡Demente en Moloch!</i>
+
+792
+00:51:06,063 --> 00:51:08,190
+<i>¡Chupavergas en Moloch!</i>
+
+793
+00:51:08,866 --> 00:51:11,926
+<i>¡Sin amor ni hombre en Moloch!</i>
+
+794
+00:51:12,936 --> 00:51:16,030
+<i>¡Moloch quien entró
+tempranamente en mi alma!</i>
+
+795
+00:51:16,807 --> 00:51:21,176
+<i>¡Moloch quien me ahuyentó
+de mi éxtasis natural!</i>
+
+796
+00:51:21,745 --> 00:51:23,804
+<i>¡Moloch a quien yo abandono!</i>
+
+797
+00:51:24,948 --> 00:51:26,540
+<i>¡Despierten en Moloch!</i>
+
+798
+00:51:26,917 --> 00:51:29,647
+<i>¡Luz chorreando del cielo!</i>
+
+799
+00:51:31,822 --> 00:51:33,756
+<i>¡Moloch! ¡Moloch!</i>
+
+800
+00:51:33,891 --> 00:51:35,381
+<i>¡Apartamentos robots!</i>
+
+801
+00:51:35,526 --> 00:51:37,255
+<i>¡Suburbios invisibles!</i>
+
+802
+00:51:37,561 --> 00:51:39,461
+<i>¡Tesorerías esqueléticas!</i>
+
+803
+00:51:39,596 --> 00:51:41,188
+<i>¡Capitales ciegas!</i>
+
+804
+00:51:41,331 --> 00:51:42,798
+<i>¡Industrias demoníacas!</i>
+
+805
+00:51:42,933 --> 00:51:44,696
+<i>Naciones espectrales</i>
+
+806
+00:51:44,835 --> 00:51:47,395
+<i>¡Invencibles manicomios!</i>
+
+807
+00:51:47,538 --> 00:51:49,130
+<i>¡Vergas de granito!</i>
+
+808
+00:51:49,439 --> 00:51:51,304
+<i>¡Bombas monstruosas!</i>
+
+809
+00:51:52,442 --> 00:51:56,208
+<i>¡Rompieron sus espaldas levantando
+a Moloch hasta el cielo!</i>
+
+810
+00:51:57,581 --> 00:51:59,674
+<i>¡Pavimentos, árboles</i>
+
+811
+00:51:59,817 --> 00:52:01,808
+<i>levantando la ciudad hasta el cielo</i>
+
+812
+00:52:01,952 --> 00:52:04,944
+<i>que existe y está alrededor nuestro!</i>
+
+813
+00:52:05,923 --> 00:52:06,947
+<i>¡Sueños!</i>
+
+814
+00:52:07,090 --> 00:52:08,387
+<i>¡Adoraciones!</i>
+
+815
+00:52:08,525 --> 00:52:10,015
+<i>¡Iluminaciones!</i>
+
+816
+00:52:10,294 --> 00:52:11,625
+<i>¡Religiones!</i>
+
+817
+00:52:11,762 --> 00:52:14,560
+<i>¡Todo el cargamento de mierda sensible!</i>
+
+818
+00:52:15,065 --> 00:52:16,657
+<i>¡Progresos</i>
+
+819
+00:52:17,134 --> 00:52:18,601
+<i>Sobre el río!</i>
+
+820
+00:52:18,902 --> 00:52:20,961
+<i>¡Giros y crucifixiones!</i>
+
+821
+00:52:21,104 --> 00:52:23,04
+<i>¡Arrastrados por la corriente!</i>
+
+822
+00:52:23,273 --> 00:52:25,332
+<i>Alturas! Epifanías!</i>
+
+823
+00:52:25,475 --> 00:52:26,533
+<i>Desesperaciones!</i>
+
+824
+00:52:26,677 --> 00:52:31,046
+<i>Diez años de gritos
+de animales y suicidios</i>
+
+825
+00:52:31,181 --> 00:52:34,708
+<i>¡Mentes! ¡Nuevos amores!
+¡Generación demente!</i>
+
+826
+00:52:34,852 --> 00:52:37,320
+<i>¡Abajo sobre las rocas del tiempo!</i>
+
+827
+00:52:37,454 --> 00:52:40,446
+<i>¡Auténtica risa santa en el río!</i>
+
+828
+00:52:40,591 --> 00:52:42,252
+<i>¡Ellos lo vieron todo!</i>
+
+829
+00:52:42,626 --> 00:52:45,857
+<i>¡Los ojos salvajes!
+¡Los santos gritos!</i>
+
+830
+00:52:45,996 --> 00:52:47,588
+<i>¡Dijeron hasta luego!</i>
+
+831
+00:52:47,731 --> 00:52:50,859
+<i>¡Saltaron del techo!
+¡Hacia la soledad!</i>
+
+832
+00:52:51,01 --> 00:52:52,025
+<i>¡Despidiéndose!</i>
+
+833
+00:52:52,169 --> 00:52:54,069
+<i>¡Llevando flores</i>
+
+834
+00:52:54,204 --> 00:52:56,069
+<i>Hacia el río!</i>
+
+835
+00:52:56,506 --> 00:52:57,871
+<i>Por la calle!</i>
+
+836
+00:52:59,443 --> 00:53:02,469
+En mi opinión, si tuviera
+algún valor literario,
+
+837
+00:53:02,613 --> 00:53:04,376
+sería insignificante.
+
+838
+00:53:04,514 --> 00:53:07,210
+Me he esforzado para
+llegar a esta postura...
+
+839
+00:53:07,351 --> 00:53:08,511
+...con una base objetiva.
+
+840
+00:53:08,652 --> 00:53:09,584
+Por ejemplo,
+
+841
+00:53:09,720 --> 00:53:13,884
+una gran obra literaria, o incluso
+una obra literaria muy grande,
+
+842
+00:53:14,024 --> 00:53:17,460
+evidentemente sería exitosa en su forma,
+
+843
+00:53:17,928 --> 00:53:20,488
+pero este poema es
+sólo una débil imitación...
+
+844
+00:53:20,631 --> 00:53:23,964
+...de la forma usada unos 80 a
+90 años atrás por Walt Whitman.
+
+845
+00:53:24,101 --> 00:53:26,626
+¿Recuerdan el nombre de ese poema?
+
+846
+00:53:26,770 --> 00:53:29,830
+"Hojas sobre la hierba"
+era el nombre el poema.
+
+847
+00:53:29,973 --> 00:53:32,533
+El valor literario que
+también recae en el tema,
+
+848
+00:53:33,477 --> 00:53:36,105
+y qué poco valor
+literario hay en "Aullido",
+
+849
+00:53:36,246 --> 00:53:37,770
+me parece que viene en su tema.
+
+850
+00:53:38,415 --> 00:53:41,907
+La declaración del tema o idea
+del poema está relativamente clara,
+
+851
+00:53:42,052 --> 00:53:45,044
+pero tiene poca validez,
+y, por tanto, el tema...
+
+852
+00:53:45,188 --> 00:53:46,655
+...tiene más bien un valor negativo.
+
+853
+00:53:46,790 --> 00:53:47,916
+Ningún valor alguno.
+
+854
+00:53:48,058 --> 00:53:49,082
+Gracias.
+
+855
+00:53:50,494 --> 00:53:52,462
+¿Creo haber entendido que dijo que...
+
+856
+00:53:52,596 --> 00:53:55,497
+...Ginsberg usó el estilo de Walt Whitman?
+
+857
+00:53:55,632 --> 00:53:56,564
+La forma.
+
+858
+00:53:56,700 --> 00:53:58,998
+La forma del libro
+"Hojas sobre la hierba".
+
+859
+00:53:59,136 --> 00:54:01,468
+Y, debido a que Ginsberg usó esta forma,
+
+860
+00:54:01,605 --> 00:54:04,039
+...en su opinión el poema "Aullido"...
+
+861
+00:54:04,174 --> 00:54:06,05
+no tiene valor literario...
+
+862
+00:54:06,143 --> 00:54:07,770
+...o mérito alguno, ¿es aquello cierto?
+
+863
+00:54:08,045 --> 00:54:10,104
+En relación a la forma,
+aquello es correcto,
+
+864
+00:54:10,247 --> 00:54:12,647
+porque la gran literatura siempre crea...
+
+865
+00:54:12,783 --> 00:54:14,910
+...su propia forma en cada
+ocasión significativa.
+
+866
+00:54:15,052 --> 00:54:17,282
+Siguiendo aquello,
+usted no quiere decir...
+
+867
+00:54:17,421 --> 00:54:20,322
+que "Hojas sobre la hierba" de
+Walt Whitman no califica, cierto?
+
+868
+00:54:20,457 --> 00:54:22,482
+Es una gran obra literaria.
+
+869
+00:54:22,626 --> 00:54:24,787
+La forma fue creada por Walt Whitman.
+
+870
+00:54:24,928 --> 00:54:26,657
+Al mismo tiempo, usted dice que,
+
+871
+00:54:26,797 --> 00:54:28,765
+debido a que Ginsberg copia esa forma,
+
+872
+00:54:28,899 --> 00:54:32,096
+"Aullido" no tiene valor o mérito
+alguno, ¿estoy en lo correcto?
+
+873
+00:54:32,235 --> 00:54:33,259
+Eso es correcto.
+
+874
+00:54:33,403 --> 00:54:36,702
+Una imitación nunca tiene
+el valor del original.
+
+875
+00:54:36,840 --> 00:54:38,467
+Quien hizo una copia de Walt Whitman?
+
+876
+00:54:39,076 --> 00:54:40,839
+Según lo que sé, nadie.
+
+877
+00:54:41,144 --> 00:54:42,133
+Pero usted no sabe,
+
+878
+00:54:42,279 --> 00:54:44,770
+fue esa su respuesta,
+usted no sabe, señor?
+
+879
+00:54:46,283 --> 00:54:47,375
+Así es.
+
+880
+00:54:47,718 --> 00:54:49,413
+Según entiendo,
+su próximo punto...
+
+881
+00:54:49,553 --> 00:54:51,077
+...es que la idea de...
+
+882
+00:54:51,221 --> 00:54:53,951
+..."Aullido" es clara,
+pero tiene poco valor.
+
+883
+00:54:54,091 --> 00:54:55,854
+¿Lo estoy citando de forma correcta?
+
+884
+00:54:56,326 --> 00:54:58,351
+Aquella es la conclusión general, sí...
+
+885
+00:54:58,495 --> 00:55:00,554
+...la idea de "Aullido" es
+clara en cuanto a su tema.
+
+886
+00:55:00,697 --> 00:55:01,959
+La idea es clara? Sí.
+
+887
+00:55:03,233 --> 00:55:05,758
+Cuál es la idea de
+Ginsberg en "Aullido"?
+
+888
+00:55:05,902 --> 00:55:09,360
+Bien, él celebra la
+desafortunada vida de...
+
+889
+00:55:11,641 --> 00:55:13,370
+No puedo recordar el
+nombre del tipo, Solomon...
+
+890
+00:55:13,510 --> 00:55:16,070
+la desafortunada vida
+de un tipo, Solomon,
+
+891
+00:55:16,213 --> 00:55:18,681
+quien es un vagabundo de
+la persuasión dadaísta.
+
+892
+00:55:19,316 --> 00:55:20,374
+¿Un vagabundo de qué?
+
+893
+00:55:20,784 --> 00:55:22,809
+Vagabundo de la persuasión dadaísta.
+
+894
+00:55:23,920 --> 00:55:25,080
+¿Él interpreta aquello?
+
+895
+00:55:25,422 --> 00:55:26,719
+Así es.
+
+896
+00:55:27,057 --> 00:55:29,651
+¿Y aquella interpretación
+tiene algún valor?
+
+897
+00:55:29,793 --> 00:55:31,920
+Como literatura, no.
+
+898
+00:55:32,229 --> 00:55:33,821
+<i>¡Carl Solomon!</i>
+
+899
+00:55:34,398 --> 00:55:36,514
+<i>Estoy contigo en Rockland</i>
+
+900
+00:55:36,515 --> 00:55:38,630
+<i>Donde estás más loco de lo que yo estoy.</i>
+
+901
+00:55:39,669 --> 00:55:41,984
+<i>Estoy contigo en Rockland</i>
+
+902
+00:55:41,985 --> 00:55:44,299
+<i>Donde te debes sentir muy extraño.</i>
+
+903
+00:55:45,308 --> 00:55:49,972
+<i>Estoy contigo en Rockland
+Donde imitas la sombra de mi madre.</i>
+
+904
+00:55:52,616 --> 00:55:54,567
+<i>Estoy contigo en Rockland</i>
+
+905
+00:55:54,568 --> 00:55:56,518
+<i>Donde te burlas de los
+cuerpos de tus enfermeras,</i>
+
+906
+00:55:56,653 --> 00:55:59,053
+<i>las arpías del Bronx.</i>
+
+907
+00:55:59,723 --> 00:56:01,623
+<i>Estoy contigo en Rockland</i>
+
+908
+00:56:01,758 --> 00:56:04,226
+<i>Donde golpeas el piano catatónico</i>
+
+909
+00:56:04,361 --> 00:56:06,522
+<i>el alma es inocente e inmortal</i>
+
+910
+00:56:06,663 --> 00:56:10,292
+<i>jamás debería morir sin dios
+en una casa de locos armada.</i>
+
+911
+00:56:11,068 --> 00:56:12,626
+<i>Estoy contigo en Rockland</i>
+
+912
+00:56:12,769 --> 00:56:14,566
+<i>Donde cincuenta shocks
+más no te devolverán nunca...</i>
+
+913
+00:56:14,704 --> 00:56:16,672
+<i>...tu alma a su cuerpo...</i>
+
+914
+00:56:16,807 --> 00:56:20,208
+<i>...desde su peregrinaje
+a una cruz en el vacío.</i>
+
+915
+00:56:21,311 --> 00:56:22,573
+<i>Estoy contigo en Rockland</i>
+
+916
+00:56:22,712 --> 00:56:24,509
+<i>Donde acusas a tus doctores de locura...</i>
+
+917
+00:56:24,648 --> 00:56:27,276
+<i>...y planeas la revolución
+socialista Hebrea...</i>
+
+918
+00:56:27,417 --> 00:56:30,477
+<i>...contra el Gólgota nacional fascista</i>
+
+919
+00:56:31,555 --> 00:56:33,216
+<i>Estoy contigo en Rockland</i>
+
+920
+00:56:33,356 --> 00:56:35,551
+<i>Donde abres los cielos
+cielos de Long Island...</i>
+
+921
+00:56:35,692 --> 00:56:38,126
+<i>...y resucitas a tu Jesús humano y viviente...</i>
+
+922
+00:56:38,261 --> 00:56:40,286
+<i>...de la tumba sobrehumana...</i>
+
+923
+00:56:41,064 --> 00:56:43,931
+<i>Estoy contigo en Rockland
+Donde hay veinticinco mil...</i>
+
+924
+00:56:44,067 --> 00:56:46,627
+<i>...camaradas locos todos juntos cantando...</i>
+
+925
+00:56:46,770 --> 00:56:49,330
+<i>...las estrofas finales
+de la Internacional.</i>
+
+926
+00:56:50,540 --> 00:56:51,905
+<i>Estoy contigo en Rockland</i>
+
+927
+00:56:52,042 --> 00:56:54,442
+<i>Donde despertamos electrificado del coma...</i>
+
+928
+00:56:54,578 --> 00:56:58,241
+<i>...por el rugir de los aeroplanos de
+nuestras propias almas sobre el tejado.</i>
+
+929
+00:56:58,748 --> 00:57:01,478
+<i>Ellos han venido para
+lanzar bombas angelicales...</i>
+
+930
+00:57:01,618 --> 00:57:04,212
+<i>...el hospital se ilumina a sí mismo...</i>
+
+931
+00:57:05,155 --> 00:57:07,885
+<i>...colapsan muros imaginarios...</i>
+
+932
+00:57:08,758 --> 00:57:11,921
+<i>Oh, escuálidas legiones corren afuera</i>
+
+933
+00:57:12,829 --> 00:57:18,495
+<i>Oh, estrellado shock de compasión
+la guerra eterna está aquí</i>
+
+934
+00:57:21,438 --> 00:57:25,602
+<i>Oh victoria olvida tu
+ropa interior somos libres</i>
+
+935
+00:57:27,377 --> 00:57:29,675
+<i>Estoy contigo en Rockland</i>
+
+936
+00:57:29,813 --> 00:57:31,337
+<i>En mis sueños...</i>
+
+937
+00:57:31,481 --> 00:57:34,211
+<i>...caminas goteando por un
+viaje a través del mar...</i>
+
+938
+00:57:34,351 --> 00:57:36,717
+<i>...sobre las carreteras a través de América...</i>
+
+939
+00:57:37,053 --> 00:57:40,216
+<i>...llorando hasta la puerta de mi cabaña...</i>
+
+940
+00:57:40,357 --> 00:57:42,154
+<i>...en la noche del Oeste.</i>
+
+941
+00:57:44,961 --> 00:57:49,864
+¿Cuál es su impresión de la
+tercera parte de "Aullido"?
+
+942
+00:57:50,00 --> 00:57:53,026
+A mi entender allí el poeta expresaría...
+
+943
+00:57:53,170 --> 00:57:55,263
+...la línea habitual dadaísta...
+
+944
+00:57:55,405 --> 00:57:58,272
+...donde todo es creado por
+la desesperación del hombre,
+
+945
+00:57:58,408 --> 00:58:01,275
+donde todo debe ser
+olvidado y destruido, y...
+
+946
+00:58:01,411 --> 00:58:03,971
+...que la vida de Solomon aparentemente
+ha tenido ese tipo de ritmo.
+
+947
+00:58:04,114 --> 00:58:06,014
+Por lo tanto, habría cierto valor...
+
+948
+00:58:06,149 --> 00:58:08,549
+...del tema, en aquella área.
+
+949
+00:58:08,818 --> 00:58:10,877
+Entonces, ¿hay valor del tema allí?
+
+950
+00:58:11,922 --> 00:58:15,551
+Me temo que mi lengua se
+me arrancó allí... este...
+
+951
+00:58:15,692 --> 00:58:18,183
+Debí haber dicho "claridad"
+en vez de "valor. "
+
+952
+00:58:18,328 --> 00:58:20,592
+Pero usted ha usado el término "valor"...
+
+953
+00:58:20,730 --> 00:58:22,721
+...todo el tiempo que ha
+estado en el estrado.
+
+954
+00:58:23,400 --> 00:58:25,595
+Por cierto, Sr. Kirk,
+¿ha leído usted la Biblia?
+
+955
+00:58:26,503 --> 00:58:27,663
+Lo he hecho.
+
+956
+00:58:28,238 --> 00:58:29,865
+Dígame, ¿ha leído a Job?
+
+957
+00:58:30,06 --> 00:58:31,030
+Lo he hecho, sí.
+
+958
+00:58:31,608 --> 00:58:34,736
+¿No llora Job de la misma manera
+como Ginsberg lo hace en "Aullido"?
+
+959
+00:58:34,878 --> 00:58:36,106
+Para nada.
+
+960
+00:58:36,246 --> 00:58:40,012
+¿Está de acuerdo conmigo
+en que Job condena la vida?
+
+961
+00:58:40,850 --> 00:58:43,478
+Job condena la condición humana, sí,
+
+962
+00:58:43,620 --> 00:58:47,181
+pero no lo hace, a la
+manera dadaísta, con...
+
+963
+00:58:47,324 --> 00:58:49,189
+...el deseo de acabar con
+toda la memoria humana...
+
+964
+00:58:49,326 --> 00:58:51,089
+...de todo lo que la raza humana ha hecho...
+
+965
+00:58:51,228 --> 00:58:54,061
+...pudiendo haber un nuevo comienzo...
+
+966
+00:58:54,197 --> 00:58:55,630
+...como lo hace el dadaísta.
+
+967
+00:58:55,765 --> 00:58:57,096
+¿Y usted cree en aquella filosofía?
+
+968
+00:58:57,234 --> 00:58:57,666
+No del todo.
+
+969
+00:58:57,934 --> 00:59:01,165
+No, está muerto desde
+alrededor de 1922 o '23.
+
+970
+00:59:01,304 --> 00:59:02,794
+Pero aquello no significa
+necesariamente que...
+
+971
+00:59:02,939 --> 00:59:04,736
+...alguien que crea aquello está...
+
+972
+00:59:04,975 --> 00:59:05,805
+...equivocado, cierto?
+
+973
+00:59:05,942 --> 00:59:08,809
+No, pero aquello no crea literatura.
+
+974
+00:59:08,945 --> 00:59:10,242
+Bien, ¿Qué...?
+
+975
+00:59:10,981 --> 00:59:12,812
+¿Qué crea literatura, Sr. Kirk?
+
+976
+00:59:13,083 --> 00:59:16,246
+Volveré a retomar las tres
+bases de la crítica objetiva:
+
+977
+00:59:16,386 --> 00:59:18,445
+Forma, tema y oportunidad.
+
+978
+00:59:18,588 --> 00:59:19,646
+Bueno...
+
+979
+00:59:19,789 --> 00:59:22,280
+¿Siente que Ginsberg tiene la...
+
+980
+00:59:22,425 --> 00:59:24,325
+...oportunidad por medio de su viaje...
+
+981
+00:59:24,461 --> 00:59:26,258
+...de observar la vida y
+escribir acerca de ella?
+
+982
+00:59:26,396 --> 00:59:28,091
+En una pequeña parte, sí.
+
+983
+00:59:28,231 --> 00:59:29,926
+Y esta parte es de la cual él escribe,
+
+984
+00:59:30,066 --> 00:59:30,760
+¿no es cierto?
+
+985
+00:59:30,900 --> 00:59:31,867
+En una cosa...
+
+986
+00:59:32,02 --> 00:59:34,596
+Conteste la pregunta,
+por favor, "Sí" o "No. "
+
+987
+00:59:35,505 --> 00:59:38,997
+Estoy...
+Estoy confundido.
+
+988
+00:59:39,976 --> 00:59:42,137
+Ésta parte es de la cual él escribe,
+
+989
+00:59:42,279 --> 00:59:42,938
+¿no es cierto?
+
+990
+00:59:43,079 --> 00:59:45,013
+No puedo contestar
+esto con un "Sí" o "No".
+
+991
+00:59:45,148 --> 00:59:46,775
+Pero usted dijo que en su viaje,
+
+992
+00:59:46,916 --> 00:59:49,09
+él escribió acerca de
+una parte de la comunidad.
+
+993
+00:59:49,552 --> 00:59:51,281
+Allí es donde la confusión comienza:
+
+994
+00:59:51,421 --> 00:59:54,413
+Yo creo que el viaje es
+de Solomon, no de Ginsberg.
+
+995
+00:59:54,557 --> 00:59:56,081
+Aquella es la base de mi confusión.
+
+996
+00:59:56,359 --> 00:59:59,123
+Sí, bueno, Ginsberg
+escribe acerca de Solomon...
+
+997
+00:59:59,262 --> 01:00:00,889
+es su propia mirada.
+
+998
+01:00:01,031 --> 01:00:02,089
+Usted lo ha leído, ¿no?
+
+999
+01:00:02,432 --> 01:00:04,423
+Soy incapaz de saber si él tenía un...
+
+1000
+01:00:04,567 --> 01:00:06,057
+...conocimiento y cercanía de Solomon.
+
+1001
+01:00:06,202 --> 01:00:08,636
+Aquello es lo que está
+más allá de mi experiencia,
+
+1002
+01:00:08,772 --> 01:00:10,069
+más allá de mi conocimiento.
+
+1003
+01:00:10,206 --> 01:00:12,868
+¿Evalúa un trabajo
+a partir de si el escritor...
+
+1004
+01:00:13,09 --> 01:00:14,169
+...tiene conocimiento de la
+persona sobre la que escribe?
+
+1005
+01:00:14,477 --> 01:00:15,808
+Por supuesto.
+
+1006
+01:00:15,945 --> 01:00:18,971
+¿Usted está seguro que Carl
+Solomon vivió alguna vez?
+
+1007
+01:00:19,115 --> 01:00:19,740
+No.
+
+1008
+01:00:20,317 --> 01:00:21,614
+Entonces usted no lo sabe, ¿cierto?
+
+1009
+01:00:22,085 --> 01:00:22,608
+No del todo.
+
+1010
+01:00:24,120 --> 01:00:26,588
+¿Ha leído alguna vez a... Voltaire?
+
+1011
+01:00:27,557 --> 01:00:28,489
+He leído una de sus obras,
+
+1012
+01:00:28,792 --> 01:00:29,520
+"Cándido".
+
+1013
+01:00:29,659 --> 01:00:31,217
+¿Cuál es su opinión de "Cándido"?
+
+1014
+01:00:31,361 --> 01:00:33,761
+¿Como literatura?
+Es una gran obra.
+
+1015
+01:00:34,030 --> 01:00:36,191
+¿Y qué estilo copió Voltaire?
+
+1016
+01:00:37,100 --> 01:00:37,691
+¡Su Señoría!
+
+1017
+01:00:37,834 --> 01:00:38,323
+¡Por Favor!
+
+1018
+01:00:38,601 --> 01:00:40,398
+Al abogado se le permite
+hacer una objeción.
+
+1019
+01:00:40,537 --> 01:00:42,061
+Si él objeta.
+
+1020
+01:00:42,639 --> 01:00:44,698
+Bueno, me gustaría...
+
+1021
+01:00:46,276 --> 01:00:48,710
+No quiero pelear con él.
+
+1022
+01:00:48,845 --> 01:00:50,540
+Él me perturba.
+
+1023
+01:00:51,448 --> 01:00:54,315
+Disculpe... fue sólo un exabrupto.
+
+1024
+01:01:01,257 --> 01:01:04,226
+¿Por cuánto tiempo reflexionó
+acerca de "Aullido"?
+
+1025
+01:01:05,395 --> 01:01:06,657
+Creo que dos semanas.
+
+1026
+01:01:06,796 --> 01:01:07,854
+¿Dos semanas?
+
+1027
+01:01:07,997 --> 01:01:10,090
+Dos semanas sería un tiempo
+prudente para darle una oportunidad.
+
+1028
+01:01:10,233 --> 01:01:12,531
+De todos modos, me formé una
+opinión después de 5 minutos.
+
+1029
+01:01:12,669 --> 01:01:14,967
+Y usted reflexionó por
+un largo, largo tiempo
+
+1030
+01:01:15,105 --> 01:01:17,05
+acerca de "Cándido" de
+Voltaire, no es cierto?
+
+1031
+01:01:17,140 --> 01:01:18,232
+Exactamente.
+
+1032
+01:01:18,375 --> 01:01:20,434
+Bueno, ¿cree usted que,
+si le diéramos unos...
+
+1033
+01:01:20,577 --> 01:01:22,374
+...diez años para reflexionar
+acerca de "Aullido",
+
+1034
+01:01:22,512 --> 01:01:24,207
+cambiaría de opinión?
+
+1035
+01:01:24,347 --> 01:01:26,611
+Estoy seguro que no.
+
+1036
+01:01:29,352 --> 01:01:30,341
+Eso es todo.
+
+1037
+01:01:32,021 --> 01:01:34,353
+<i>...Donde acusas a
+tus doctores de locura...</i>
+
+1038
+01:01:34,491 --> 01:01:36,891
+<i>...y planeas la revolución
+hebrea socialista...</i>
+
+1039
+01:01:37,026 --> 01:01:39,961
+<i>...contra el Gólgota nacional fascista.</i>
+
+1040
+01:01:40,096 --> 01:01:41,757
+<i>Estoy contigo en Rockland</i>
+
+1041
+01:01:41,898 --> 01:01:44,458
+<i>Donde abres los cielos de Long Island</i>
+
+1042
+01:01:44,601 --> 01:01:49,561
+<i>y resucitas a tu Jesús humano
+viviente de la tumba sobrehumana</i>
+
+1043
+01:01:50,440 --> 01:01:52,237
+<i>Estoy contigo en Rockland</i>
+
+1044
+01:01:52,375 --> 01:01:56,243
+<i>Donde hay veinticinco
+mil camaradas locos juntos...</i>
+
+1045
+01:01:56,379 --> 01:01:59,871
+<i>...cantando las estrofas
+finales de la Internacional</i>
+
+1046
+01:02:00,750 --> 01:02:02,684
+<i>Estoy contigo en Rockland</i>
+
+1047
+01:02:02,819 --> 01:02:04,844
+<i>Donde abrazamos y besamos...</i>
+
+1048
+01:02:04,988 --> 01:02:07,855
+<i>...a los Estados Unidos
+bajo nuestras sábanas.</i>
+
+1049
+01:02:08,124 --> 01:02:09,682
+<i>Los Estados Unidos...</i>
+
+1050
+01:02:09,826 --> 01:02:13,262
+<i>...que tosen toda la noche
+y no nos dejan dormir.</i>
+
+1051
+01:02:14,063 --> 01:02:15,496
+<i>Estoy contigo en Rockland</i>
+
+1052
+01:02:16,166 --> 01:02:19,795
+<i>Donde despertamos
+electrificados del coma...</i>
+
+1053
+01:02:19,936 --> 01:02:23,565
+<i>...por el rugir de los aeroplanos
+de nuestras almas sobre el tejado.</i>
+
+1054
+01:02:23,706 --> 01:02:27,472
+<i>Ellos han venido para
+lanzar bombas angelicales.</i>
+
+1055
+01:02:27,744 --> 01:02:30,577
+<i>El hospital se ilumina a sí mismo</i>
+
+1056
+01:02:30,713 --> 01:02:34,080
+<i>Colapsan muros imaginarios</i>
+
+1057
+01:02:34,350 --> 01:02:38,047
+<i>Oh escuálidas legiones corren afuera</i>
+
+1058
+01:02:38,321 --> 01:02:41,518
+<i>Oh estrellado shock de compasión</i>
+
+1059
+01:02:41,658 --> 01:02:44,320
+<i>¡La guerra eterna está aquí!</i>
+
+1060
+01:02:44,461 --> 01:02:46,088
+<i>¡Oh victoria</i>
+
+1061
+01:02:46,429 --> 01:02:48,124
+<i>olvida tu ropa interior!</i>
+
+1062
+01:02:48,264 --> 01:02:49,731
+<i>¡Somos libres!</i>
+
+1063
+01:02:50,767 --> 01:02:53,099
+<i>Estoy contigo en Rockland</i>
+
+1064
+01:02:53,636 --> 01:02:55,399
+<i>En mis sueños...</i>
+
+1065
+01:02:55,538 --> 01:02:58,098
+<i>...caminas goteando por un
+viaje a través del mar...</i>
+
+1066
+01:02:58,241 --> 01:03:00,539
+<i>...sobre las carreteras través de América...</i>
+
+1067
+01:03:00,677 --> 01:03:04,670
+<i>...llorando hasta la puerta de mi cabaña...</i>
+
+1068
+01:03:04,814 --> 01:03:06,873
+<i>...en la noche del Oeste.</i>
+
+1069
+01:03:17,961 --> 01:03:20,054
+"Aullido" contiene palabras,
+
+1070
+01:03:20,196 --> 01:03:22,687
+tomándolas por sí mismas, Su Señoría,
+
+1071
+01:03:22,832 --> 01:03:25,096
+que son francamente obscenas.
+
+1072
+01:03:25,335 --> 01:03:28,395
+Y hemos tenido el testimonio de
+una serie de expertos literarios...
+
+1073
+01:03:28,538 --> 01:03:32,372
+...que el libro tiene méritos literarios,
+y que esas palabras...
+
+1074
+01:03:32,509 --> 01:03:35,205
+...son necesarias para ese llamado mérito.
+
+1075
+01:03:37,146 --> 01:03:39,910
+Pero es interesante que
+en nuestra legislatura,
+
+1076
+01:03:40,049 --> 01:03:41,607
+podemos traer el...
+
+1077
+01:03:41,751 --> 01:03:44,447
+...el testimonio de expertos para
+evaluar el mérito literario,
+
+1078
+01:03:44,587 --> 01:03:47,215
+pero no podemos
+traer, aquello que podemos...
+
+1079
+01:03:47,357 --> 01:03:49,587
+...llamar, un hombre promedio
+
+1080
+01:03:49,726 --> 01:03:52,251
+para testificar que,
+cuando lee el libro,
+
+1081
+01:03:52,395 --> 01:03:53,987
+no lo entiende.
+
+1082
+01:03:54,130 --> 01:03:56,724
+Él no sabe de qué se trata.
+
+1083
+01:03:57,333 --> 01:03:59,392
+Quizás está sobre su entendimiento.
+
+1084
+01:03:59,936 --> 01:04:02,063
+Toma, por ejemplo...
+
+1085
+01:04:04,274 --> 01:04:08,108
+Francamente, y he hecho el
+comentario a la corte que lo he leído,
+
+1086
+01:04:08,945 --> 01:04:11,04
+no lo entiendo muy bien.
+
+1087
+01:04:11,147 --> 01:04:13,377
+De hecho, mirándolo en forma general,
+
+1088
+01:04:13,516 --> 01:04:16,246
+creo que es sólo un montón
+de basura o mierda sensible,
+
+1089
+01:04:16,386 --> 01:04:18,752
+usando el lenguaje del Sr. Ginsberg.
+
+1090
+01:04:19,789 --> 01:04:20,448
+Entonces,
+
+1091
+01:04:21,190 --> 01:04:24,682
+Si la venta del libro
+no es limitada sólo...
+
+1092
+01:04:24,827 --> 01:04:26,158
+...a los revisores de libro modernos...
+
+1093
+01:04:26,296 --> 01:04:28,230
+...y los expertos en poesía moderna,
+
+1094
+01:04:28,364 --> 01:04:30,696
+y cae en la manos del público general,
+
+1095
+01:04:30,833 --> 01:04:33,529
+es decir, al lector promedio,
+
+1096
+01:04:34,537 --> 01:04:36,664
+esta corte debería tomar
+esto en consideración...
+
+1097
+01:04:36,806 --> 01:04:39,969
+...al determinar si
+"Aullido" es obsceno o no.
+
+1098
+01:04:40,677 --> 01:04:42,144
+Gracias, Su Señoría.
+
+1099
+01:04:43,613 --> 01:04:44,409
+Muy bien...
+
+1100
+01:04:44,547 --> 01:04:46,037
+Escucharé a continuación a la defensa.
+
+1101
+01:04:51,888 --> 01:04:55,551
+La Corte Suprema de los Estados Unidos
+han dicho que la obscenidad...
+
+1102
+01:04:56,492 --> 01:04:58,050
+...es un constructo referido a:
+
+1103
+01:04:58,695 --> 01:05:01,562
+"tener una sustanciosa
+tendencia a corromper
+
+1104
+01:05:01,698 --> 01:05:04,292
+despertando los deseos lujuriosos".
+
+1105
+01:05:07,370 --> 01:05:11,238
+¿Es la palabra relevante para lo
+que el autor está tratando de decir,
+
+1106
+01:05:11,774 --> 01:05:15,05
+o sólo la usó para
+ser sucio y asqueroso?
+
+1107
+01:05:15,645 --> 01:05:18,944
+Él ve aquello que sólo puede denominar...
+
+1108
+01:05:19,415 --> 01:05:22,509
+..."un Adonis de Denver,
+regocijémonos con el recuerdo...
+
+1109
+01:05:22,652 --> 01:05:25,086
+...de sus innumerables jodiendas... "
+
+1110
+01:05:25,221 --> 01:05:27,883
+<i>Que salieron de putas por Colorado...</i>
+
+1111
+01:05:28,024 --> 01:05:31,050
+<i>...en miríadas de coches
+robados por una noche...</i>
+
+1112
+01:05:31,194 --> 01:05:36,097
+<i>Neal Cassady, héroe
+secreto de estos poemas,</i>
+
+1113
+01:05:36,232 --> 01:05:38,860
+<i>follador y Adonis de Denver,</i>
+
+1114
+01:05:39,302 --> 01:05:43,602
+<i>regocijémonos con el recuerdo de sus
+innumerables jodiendas de muchachas...</i>
+
+1115
+01:05:43,740 --> 01:05:47,176
+<i>...en solares vacíos y patios
+traseros de restaurantes,</i>
+
+1116
+01:05:47,310 --> 01:05:49,904
+<i>en desvencijados asientos de cines,</i>
+
+1117
+01:05:50,046 --> 01:05:54,915
+<i>de montañas en cuevas o
+con demacradas camareras,</i>
+
+1118
+01:05:55,051 --> 01:05:59,454
+<i>en familiares solitarios
+levantamientos de enaguas,</i>
+
+1119
+01:05:59,589 --> 01:06:04,720
+<i>y especialmente secretos
+solipsismos en baños de gasolineras,</i>
+
+1120
+01:06:04,861 --> 01:06:07,091
+<i>y también en callejones
+de la ciudad natal.</i>
+
+1121
+01:06:07,497 --> 01:06:10,557
+Ahora, supongo que él
+podría haber dicho aquello,
+
+1122
+01:06:10,700 --> 01:06:12,793
+el héroe secreto de estos poemas,
+
+1123
+01:06:12,935 --> 01:06:16,393
+este "follador," este
+"Adonis de Denver,"
+
+1124
+01:06:16,539 --> 01:06:20,168
+regocijarse con el recuerdo
+de sus innumerables conquistas...
+
+1125
+01:06:20,309 --> 01:06:21,606
+...en el Waldorf de Astoria...
+
+1126
+01:06:22,445 --> 01:06:25,039
+...o en el restaurante de Chasen,
+o después de una o dos copas,
+
+1127
+01:06:25,181 --> 01:06:27,513
+yéndose a la cama en el Club Stork.
+
+1128
+01:06:28,317 --> 01:06:30,410
+Creo que él pudo haber dicho eso...
+
+1129
+01:06:30,553 --> 01:06:32,453
+Pero no es ese tipo de persona...
+
+1130
+01:06:32,588 --> 01:06:34,419
+...de la que está escribiendo.
+
+1131
+01:06:34,891 --> 01:06:37,451
+El Sr. Ginsberg no elige
+las palabras que usa...
+
+1132
+01:06:38,061 --> 01:06:40,291
+...para contar su historia
+pensando en nosotros,
+
+1133
+01:06:40,430 --> 01:06:42,193
+él cuenta la historia de
+la manera en que la ve.
+
+1134
+01:06:42,331 --> 01:06:44,094
+Él está usando sus palabras.
+
+1135
+01:06:44,767 --> 01:06:46,758
+Hay libros que tienen
+el poder de cambiar la...
+
+1136
+01:06:46,903 --> 01:06:48,268
+...mente de los hombres que los leen,
+
+1137
+01:06:48,604 --> 01:06:51,04
+llevando a atender situaciones que...
+
+1138
+01:06:51,474 --> 01:06:52,532
+...son visibles...
+
+1139
+01:06:52,875 --> 01:06:53,705
+...pero no vistas.
+
+1140
+01:06:55,211 --> 01:06:58,374
+Ahora, si "Aullido" es
+o no es "obsceno" es poco...
+
+1141
+01:06:58,881 --> 01:07:02,214
+importante para nuestro mundo,
+preocupado de la sobrevivencia...
+
+1142
+01:07:02,351 --> 01:07:04,080
+...física,
+
+1143
+01:07:04,954 --> 01:07:05,613
+pero...
+
+1144
+01:07:06,355 --> 01:07:08,653
+el problema es qué es
+legalmente permitido...
+
+1145
+01:07:08,791 --> 01:07:11,726
+...en la descripción de los
+actos sexuales o sentimientos...
+
+1146
+01:07:11,861 --> 01:07:14,796
+...en el arte y la literatura
+así como su importancia para...
+
+1147
+01:07:14,931 --> 01:07:16,865
+...una sociedad libre.
+
+1148
+01:07:17,667 --> 01:07:19,464
+¿Qué es "lascivo"?
+
+1149
+01:07:19,936 --> 01:07:21,528
+¿Y para quién?
+
+1150
+01:07:22,038 --> 01:07:25,07
+Y la idea de describir como
+peligroso algo para un grupo...
+
+1151
+01:07:25,141 --> 01:07:27,166
+...poco específico y
+susceptible de lectores.
+
+1152
+01:07:27,844 --> 01:07:29,072
+Es interesante cómo...
+
+1153
+01:07:29,212 --> 01:07:31,578
+...las personas que imponen
+aquellos estándares de censura...
+
+1154
+01:07:31,714 --> 01:07:34,080
+...raramente sienten que su propia...
+
+1155
+01:07:34,217 --> 01:07:36,708
+...salud y moral están en juicio.
+
+1156
+01:07:37,520 --> 01:07:39,147
+El deseo del censor...
+
+1157
+01:07:39,655 --> 01:07:42,283
+...no se limita, sin embargo,
+a chiflados y fanáticos,
+
+1158
+01:07:42,425 --> 01:07:43,619
+existe...
+
+1159
+01:07:44,060 --> 01:07:46,153
+...en la mayoría de nosotros el deseo...
+
+1160
+01:07:46,662 --> 01:07:49,324
+...de hacer el mundo conforme
+con nuestras propias visiones.
+
+1161
+01:07:49,465 --> 01:07:52,457
+Y usa todas las fuerzas
+de nuestra propia razón,
+
+1162
+01:07:52,602 --> 01:07:56,129
+así como las instituciones legales
+para desafiar un impulso tan humano.
+
+1163
+01:07:56,939 --> 01:07:58,907
+La batalla por la
+censura no será finalmente...
+
+1164
+01:07:59,041 --> 01:08:01,475
+...resuelta por la decisión de Su Señoría...
+
+1165
+01:08:02,078 --> 01:08:05,741
+...pero sí se sumará al
+pensamiento liberal y educado o,
+
+1166
+01:08:06,015 --> 01:08:08,540
+por su decisión, agregará combustible...
+
+1167
+01:08:08,684 --> 01:08:10,618
+...al fuego de la ignorancia.
+
+1168
+01:08:12,688 --> 01:08:14,349
+Que se haga la luz.
+
+1169
+01:08:15,825 --> 01:08:17,884
+Que se haga la honestidad.
+
+1170
+01:08:18,828 --> 01:08:20,523
+Que no exista espacio para...
+
+1171
+01:08:20,663 --> 01:08:24,190
+los destructores de
+la moral inexistentes.
+
+1172
+01:08:25,501 --> 01:08:28,493
+...Que se haga el entendimiento honesto.
+
+1173
+01:08:32,842 --> 01:08:35,242
+Caballeros, ¿los argumentos
+están presentados?
+
+1174
+01:08:36,512 --> 01:08:38,173
+Están presentados, Su Señoría.
+
+1175
+01:08:39,849 --> 01:08:41,111
+Están muy presionados.
+
+1176
+01:09:12,715 --> 01:09:14,080
+Todos de pie.
+
+1177
+01:09:19,722 --> 01:09:20,916
+Por favor, asiento.
+
+1178
+01:09:29,031 --> 01:09:32,660
+Existe un número de
+palabras usadas en "Aullido"...
+
+1179
+01:09:32,802 --> 01:09:35,828
+...que actualmente se pueden
+considerar toscas y vulgares...
+
+1180
+01:09:35,972 --> 01:09:37,940
+...en algunos círculos de la comunidad,
+
+1181
+01:09:38,074 --> 01:09:41,510
+y en otros círculos, aquellas
+palabras son de uso diario.
+
+1182
+01:09:41,911 --> 01:09:43,936
+El autor de "Aullido"...
+
+1183
+01:09:44,080 --> 01:09:46,207
+...ha usado esas palabras
+porque él creía que aquellas...
+
+1184
+01:09:46,349 --> 01:09:49,716
+...son necesarias para ilustrar
+de manera adecuada el personaje.
+
+1185
+01:09:49,852 --> 01:09:53,652
+La Gente estima que tales
+palabras no son necesarias...
+
+1186
+01:09:53,789 --> 01:09:58,283
+...y que otras serían más
+aceptables para el buen gusto.
+
+1187
+01:09:58,895 --> 01:10:03,559
+La respuesta es que la vida no
+se encasilla en una sola fórmula...
+
+1188
+01:10:03,699 --> 01:10:05,633
+...que obligue a cada personas
+a actuar de la misma manera...
+
+1189
+01:10:05,768 --> 01:10:08,396
+...conforme a un patrón único.
+
+1190
+01:10:09,739 --> 01:10:11,639
+No existen dos personas que
+piensen de la misma forma.
+
+1191
+01:10:11,774 --> 01:10:14,072
+Todos hemos sido hechos
+desde el mismo molde...
+
+1192
+01:10:14,410 --> 01:10:16,469
+...pero de formas diferentes.
+
+1193
+01:10:16,812 --> 01:10:19,303
+¿Habría alguna libertad
+de prensa o discurso...
+
+1194
+01:10:19,448 --> 01:10:21,712
+...si redujéramos su vocabulario...
+
+1195
+01:10:21,851 --> 01:10:24,046
+...al eufemismo insípido o inocuo?
+
+1196
+01:10:24,186 --> 01:10:27,917
+Un autor debe ser real en
+el tratamiento de su tema...
+
+1197
+01:10:28,057 --> 01:10:30,287
+...y se le debe permitir
+expresar sus pensamientos...
+
+1198
+01:10:30,426 --> 01:10:32,656
+e ideas en sus propias palabras.
+
+1199
+01:10:33,296 --> 01:10:35,992
+En la consideración de la obscenidad,
+
+1200
+01:10:36,132 --> 01:10:38,191
+es bueno recordar el lema:
+
+1201
+01:10:38,334 --> 01:10:40,325
+"Honi soit qui mal y pense"
+
+1202
+01:10:40,569 --> 01:10:43,697
+"El mal, al que piensa mal"
+
+1203
+01:10:43,839 --> 01:10:46,467
+Las libertades de expresión y prensa...
+
+1204
+01:10:46,609 --> 01:10:48,907
+...son inherentes a una
+nación de personas libres.
+
+1205
+01:10:49,045 --> 01:10:53,141
+Estas libertades deben ser protegidas
+si queremos seguir siendo libres,
+
+1206
+01:10:53,282 --> 01:10:56,012
+...tanto a nivel individual
+como a nivel nacional.
+
+1207
+01:10:57,186 --> 01:11:00,383
+Por lo tanto, concluyo que el libro
+"Aullido y otros poemas"...
+
+1208
+01:11:00,523 --> 01:11:03,754
+tiene algo de un
+importancia social redentora,
+
+1209
+01:11:04,126 --> 01:11:06,617
+y considero que el libro no es obsceno.
+
+1210
+01:11:06,996 --> 01:11:09,226
+El acusado es declarado Inocente.
+
+1211
+01:11:34,357 --> 01:11:37,417
+El momento crucial de
+la revelación vino cuando...
+
+1212
+01:11:38,127 --> 01:11:40,322
+me di cuenta cuán entretenido sería si,
+
+1213
+01:11:40,463 --> 01:11:42,294
+en el medio de un largo poema,
+
+1214
+01:11:42,431 --> 01:11:44,194
+dijera:
+
+1215
+01:11:44,900 --> 01:11:46,891
+"¡Que se dejaron follar por el culo
+
+1216
+01:11:47,036 --> 01:11:48,731
+y gritaban de gozo!"
+
+1217
+01:11:48,871 --> 01:11:50,998
+En vez de: "y gritaban de dolor".
+
+1218
+01:11:51,140 --> 01:11:53,074
+Aquella es la
+contradicción en esa línea.
+
+1219
+01:11:53,209 --> 01:11:55,973
+Un lector americano
+esperaría leer "dolor",
+
+1220
+01:11:56,112 --> 01:11:57,807
+en vez de eso, dice: "¡gritaron de gozo!"
+
+1221
+01:11:57,947 --> 01:12:00,142
+Lo que es realmente verdadero.
+
+1222
+01:12:00,282 --> 01:12:01,943
+Absolutamente, 100%.
+
+1223
+01:12:02,985 --> 01:12:05,749
+Y, nuevamente, escribí líneas como:
+
+1224
+01:12:07,590 --> 01:12:10,457
+"Que mamaron y fueron mamados
+por esos serafines humanos,
+
+1225
+01:12:10,593 --> 01:12:12,254
+los marinos, caricias de amor...
+
+1226
+01:12:12,395 --> 01:12:14,260
+...atlántico y caribeño"
+
+1227
+01:12:16,632 --> 01:12:18,031
+Aquello es un reconocimiento...
+
+1228
+01:12:18,167 --> 01:12:21,102
+...del placer básico homosexual.
+
+1229
+01:12:22,405 --> 01:12:24,999
+Aquello fue una revelación
+en el sentido de los..
+
+1230
+01:12:25,641 --> 01:12:27,268
+...cánones sociales de...
+
+1231
+01:12:27,410 --> 01:12:30,243
+...sentimientos, emociones,
+actitudes, tú sabes,
+
+1232
+01:12:30,780 --> 01:12:31,804
+eso...
+
+1233
+01:12:33,215 --> 01:12:37,174
+No me hubiese gustado que
+mi padre o familia viera eso,
+
+1234
+01:12:37,420 --> 01:12:40,787
+e incluso dudé en hacerlo público.
+
+1235
+01:12:46,996 --> 01:12:49,021
+El poema se ha malinterpretado...
+
+1236
+01:12:49,365 --> 01:12:51,595
+...como sólo una promoción
+de la homosexualidad.
+
+1237
+01:12:51,967 --> 01:12:55,061
+En verdad es, es...
+mas la promoción de la...
+
+1238
+01:12:55,204 --> 01:12:57,968
+...sinceridad,
+acerca de cualquier tema.
+
+1239
+01:12:59,542 --> 01:13:02,978
+Si eres un fetichista de los
+pies, escribe acerca de los pies.
+
+1240
+01:13:03,112 --> 01:13:05,842
+Si eres un especulador del mercado,
+
+1241
+01:13:05,981 --> 01:13:09,542
+puedes escribir acerca del
+aumento de la curva de ventas
+
+1242
+01:13:09,685 --> 01:13:11,744
+o el gráfico del mercado del petróleo.
+
+1243
+01:13:13,255 --> 01:13:16,554
+Cuando un pequeño grupo de personas...
+
+1244
+01:13:16,692 --> 01:13:18,523
+es franca acerca de la
+homosexualidad en público,
+
+1245
+01:13:18,661 --> 01:13:19,992
+aquello rompe el hielo.
+
+1246
+01:13:20,796 --> 01:13:24,459
+Entonces, la gente es franca
+acerca de lo que sea, entonces...
+
+1247
+01:13:26,268 --> 01:13:28,327
+Aquello es socialmente útil.
+
+1248
+01:13:37,213 --> 01:13:39,238
+La homosexualidad es una condición,
+
+1249
+01:13:40,149 --> 01:13:42,549
+y debido a que esto me aliena
+
+1250
+01:13:42,685 --> 01:13:44,414
+o me aparta y aísla desde siempre,
+
+1251
+01:13:44,553 --> 01:13:48,683
+sirve como un catalizar
+de la autoexploración,
+
+1252
+01:13:48,824 --> 01:13:50,086
+o...
+
+1253
+01:13:50,926 --> 01:13:54,521
+o un detallado "darme
+cuenta" de mi ambiente y...
+
+1254
+01:13:55,297 --> 01:14:00,462
+las razones del por qué
+todos somos diferentes
+
+1255
+01:14:02,571 --> 01:14:04,402
+y por qué Yo soy diferente.
+
+1256
+01:14:22,725 --> 01:14:26,286
+<i>¡Santo! ¡Santo! ¡Santo!
+¡Santo! ¡Santo!</i>
+
+1257
+01:14:26,428 --> 01:14:29,886
+<i>¡Santo! ¡Santo! ¡Santo!
+¡Santo! ¡Santo!</i>
+
+1258
+01:14:30,032 --> 01:14:33,866
+<i>¡Santo! ¡Santo! ¡Santo! ¡Santo! ¡Santo!</i>
+
+1259
+01:14:34,537 --> 01:14:36,869
+<i>¡El mundo es santo!</i>
+
+1260
+01:14:37,339 --> 01:14:39,705
+<i>¡El alma es santa!</i>
+
+1261
+01:14:39,842 --> 01:14:41,639
+<i>¡La piel es santa!</i>
+
+1262
+01:14:42,011 --> 01:14:43,808
+<i>¡La nariz es santa!</i>
+
+1263
+01:14:44,280 --> 01:14:48,239
+<i>¡La lengua y la verga y la mano y
+el agujero del culo, son santos!</i>
+
+1264
+01:14:48,384 --> 01:14:49,908
+<i>¡Todo es santo!</i>
+
+1265
+01:14:50,152 --> 01:14:51,881
+<i>¡Todos son santos!</i>
+
+1266
+01:14:52,121 --> 01:14:53,782
+<i>¡Todo lugar es santo!</i>
+
+1267
+01:14:54,023 --> 01:14:56,457
+<i>¡Todo día está en la eternidad!</i>
+
+1268
+01:14:56,592 --> 01:14:58,617
+<i>¡Todo hombre es un ángel!</i>
+
+1269
+01:14:58,894 --> 01:15:01,454
+<i>¡El vago es tan santo como un serafín!</i>
+
+1270
+01:15:01,597 --> 01:15:07,331
+<i>¡El demente es tan santo
+como tú mi alma eres santa!</i>
+
+1271
+01:15:07,570 --> 01:15:09,060
+<i>¡La máquina de escribir es santa!</i>
+
+1272
+01:15:09,205 --> 01:15:10,797
+<i>¡El poema es santo!</i>
+
+1273
+01:15:10,940 --> 01:15:12,407
+<i>¡La voz es santa!</i>
+
+1274
+01:15:12,541 --> 01:15:14,270
+<i>¡Los oyentes son santos!</i>
+
+1275
+01:15:14,410 --> 01:15:16,640
+<i>¡El éxtasis es santo!</i>
+
+1276
+01:15:17,313 --> 01:15:18,405
+<i>¡Santo Peter!</i>
+
+1277
+01:15:18,547 --> 01:15:19,571
+<i>¡Santo Allen!</i>
+
+1278
+01:15:19,915 --> 01:15:20,813
+<i>¡Santo Solomon!</i>
+
+1279
+01:15:21,183 --> 01:15:22,172
+<i>¡Santo Lucien!</i>
+
+1280
+01:15:22,585 --> 01:15:23,847
+<i>¡Santo Kerouacl!</i>
+
+1281
+01:15:24,186 --> 01:15:25,568
+<i>¡Santo Huncke</i>
+
+1282
+01:15:25,569 --> 01:15:26,259
+<i>Santo Burroughs</i>
+
+1283
+01:15:26,260 --> 01:15:26,950
+<i>Santo Cassady!</i>
+
+1284
+01:15:27,723 --> 01:15:31,284
+<i>¡Santos los desconocidos locos
+y sufrientes mendigos!</i>
+
+1285
+01:15:31,694 --> 01:15:34,754
+<i>¡Santos los horribles ángeles humanos!</i>
+
+1286
+01:15:36,131 --> 01:15:38,929
+<i>¡Santa mi madre en la casa de locos!</i>
+
+1287
+01:15:40,069 --> 01:15:43,766
+<i>¡Santas las vergas de
+los abuelos de Kansas!</i>
+
+1288
+01:15:44,940 --> 01:15:47,170
+<i>¡Santo el gimiente saxofón!</i>
+
+1289
+01:15:47,543 --> 01:15:49,875
+<i>¡Santo el apocalipsis del bop!</i>
+
+1290
+01:15:50,412 --> 01:15:53,870
+<i>¡Santas las bandas de
+jazz marihuana hipsters</i>
+
+1291
+01:15:54,016 --> 01:15:56,678
+<i>paz peyote pipas y baterías!</i>
+
+1292
+01:15:57,419 --> 01:15:59,080
+<i>¡Santo el tiempo en la eternidad!</i>
+
+1293
+01:15:59,588 --> 01:16:01,385
+<i>¡Santa la eternidad en el tiempo!</i>
+
+1294
+01:16:02,091 --> 01:16:03,786
+<i>¡Santos los relojes y el espacio!</i>
+
+1295
+01:16:04,426 --> 01:16:06,189
+<i>¡Santa la cuarta dimensión!</i>
+
+1296
+01:16:06,629 --> 01:16:09,029
+<i>¡Santa la Quinta Internacional!</i>
+
+1297
+01:16:09,498 --> 01:16:11,659
+<i>¡Santo el ángel en Moloch!</i>
+
+1298
+01:16:12,501 --> 01:16:13,832
+<i>¡Santo el mar,</i>
+
+1299
+01:16:14,169 --> 01:16:15,466
+<i>Santo el desierto!</i>
+
+1300
+01:16:16,171 --> 01:16:18,799
+<i>¡Santa la vía férrea,
+Santa la locomotora</i>
+
+1301
+01:16:19,174 --> 01:16:20,334
+<i>Santas las visiones!</i>
+
+1302
+01:16:20,476 --> 01:16:22,501
+<i>¡Santas las alucinaciones!</i>
+
+1303
+01:16:23,045 --> 01:16:24,478
+<i>¡Santos los milagros!</i>
+
+1304
+01:16:25,114 --> 01:16:26,809
+<i>¡Santo el globo ocular!</i>
+
+1305
+01:16:26,949 --> 01:16:27,938
+<i>¡Santo el abismo!</i>
+
+1306
+01:16:30,052 --> 01:16:31,212
+<i>¡Santo el perdón!</i>
+
+1307
+01:16:32,988 --> 01:16:34,080
+<i>¡Piedad!</i>
+
+1308
+01:16:34,723 --> 01:16:35,951
+<i>¡Caridad!</i>
+
+1309
+01:16:36,525 --> 01:16:37,617
+<i>¡Fe!</i>
+
+1310
+01:16:37,993 --> 01:16:38,755
+<i>¡Santos!</i>
+
+1311
+01:16:39,061 --> 01:16:40,119
+<i>¡Nuestros!</i>
+
+1312
+01:16:40,596 --> 01:16:41,654
+<i>¡Cuerpos!</i>
+
+1313
+01:16:42,331 --> 01:16:43,298
+<i>¡Sufriendo!</i>
+
+1314
+01:16:44,066 --> 01:16:45,158
+<i>Magnanimidad</i>
+
+1315
+01:16:46,669 --> 01:16:52,266
+<i>Santa la sobrenatural extra
+brillante inteligente bondad...</i>
+
+1316
+01:16:52,408 --> 01:16:54,968
+<i>...del alma.</i>
+
+1317
+01:17:10,700 --> 01:17:14,700
+<i>Con la ayuda de Allen Ginsberg
+Jack Kerouac encontró un editor...</i>
+
+1318
+01:17:15,200 --> 01:17:18,700
+<i>...para su libro "On the Road" 1955,
+el mismo año de "Aullido"</i>
+
+1319
+01:17:23,700 --> 01:17:27,700
+<i>Jack murió en 1969, a la edad de 47 años.</i>
+
+1320
+01:17:31,700 --> 01:17:34,700
+<i>Neil Cassady murió en 1968 a los
+41 años, mientras viajaba por México.</i>
+
+1321
+01:17:35,200 --> 01:17:37,700
+<i>La causa de su muerte es un misterio.</i>
+
+1322
+01:17:41,700 --> 01:17:45,700
+<i>Su novela autobiográfica "The First Third"
+fue publicada de forma póstuma.</i>
+
+1323
+01:17:48,700 --> 01:17:51,700
+<i>Después de su paso por el Psiquiátrico,
+Carl Solomon trabajó en la publicación...</i>
+
+1324
+01:17:52,200 --> 01:17:55,700
+<i>...de su libro de ensayos "Mishaps, Perhaps"
+que fue publicado en 1966.</i>
+
+1325
+01:17:58,700 --> 01:18:02,700
+<i>Carl Murió en 1993.</i>
+
+1326
+01:18:04,700 --> 01:18:06,700
+<i>Lawrence Ferlinghetti continuó
+como poeta y co-propietario...</i>
+
+1327
+01:18:07,200 --> 01:18:08,700
+<i>...de Publicaciones City Lights
+en San Francisco.</i>
+
+1328
+01:18:11,700 --> 01:18:13,700
+<i>"Aullido y Otros Poemas",
+continúa siendo...</i>
+
+1329
+01:18:14,200 --> 01:18:16,700
+<i>...el título más popular de este editor.</i>
+
+1330
+01:18:17,700 --> 01:18:20,700
+<i>Peter Orlovsky y Allen Gisnberg,
+siguieron siendo pareja desde...</i>
+
+1331
+01:18:21,200 --> 01:18:24,700
+<i>...que se conocieron hasta el
+fin de los días de Allen.</i>
+
+1332
+01:18:29,700 --> 01:18:31,700
+<i>Peter se retiró a una
+vida tranquila en el...</i>
+
+1333
+01:18:32,200 --> 01:18:33,700
+<i>...Estado de Vermont,
+donde murió en 2010.</i>
+
+1334
+01:18:34,700 --> 01:18:36,700
+<i>Allen Ginsberg se convertiría
+en uno de los más reconocidos...</i>
+
+1335
+01:18:37,200 --> 01:18:39,700
+<i>...poetas del Siglo XX.</i>
+
+1336
+01:18:50,700 --> 01:18:53,700
+<i>Allen murió tranquilamente
+en 1997, a los 70 años.</i>
+

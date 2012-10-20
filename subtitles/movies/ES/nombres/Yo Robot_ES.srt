@@ -1,0 +1,5100 @@
+1
+00:00:47,300 --> 00:00:52,400
+YO, ROBOT
+
+2
+00:00:59,600 --> 00:01:03,500
+LEY I: UN ROBOT NO PUEDE
+HACERLE DAÑO A UN SER HUMANO...
+
+3
+00:01:03,502 --> 00:01:08,044
+O PERMITIR, POR INACCIÓN,
+QUE UN SER HUMANO SEA DAÑADO.
+
+4
+00:01:11,663 --> 00:01:15,508
+LEY II: UN ROBOT DEBE OBEDECER
+LAS ÓRDENES DE LOS SERES HUMANOS...
+
+5
+00:01:16,751 --> 00:01:19,252
+EXCEPTO QUE LAS ÓRDENES
+CONTRADIGAN LA PRIMERA LEY.
+
+6
+00:01:28,204 --> 00:01:31,627
+LEY III: UN ROBOT DEBE PROTEGER
+SU PROPIA EXISTENCIA...
+
+7
+00:01:31,629 --> 00:01:34,635
+SIEMPRE QUE TAL PROTECCIÓN
+NO CONTRADIGA...
+
+8
+00:01:34,637 --> 00:01:36,810
+LA PRIMERA O SEGUNDA LEY.
+
+9
+00:03:07,106 --> 00:03:08,933
+Pura belleza.
+
+10
+00:03:14,019 --> 00:03:15,937
+¡Buenos días, señor!
+
+11
+00:03:15,939 --> 00:03:18,816
+Otra entrega a tiempo de...
+
+12
+00:03:18,818 --> 00:03:21,536
+Sal de mi vista, enlatado.
+
+13
+00:03:21,538 --> 00:03:23,625
+¡Que tenga un buen día!
+
+14
+00:03:25,761 --> 00:03:30,335
+<i>Nuestro paquete turístico Destination
+Anywhere es la mejor oferta.</i>
+
+15
+00:03:30,337 --> 00:03:35,522
+<i>Déjenos llevarlo a su destino
+soñado en la aeronave X-82.</i>
+
+16
+00:03:39,678 --> 00:03:45,116
+<i>Pruebe la pizza sintética estilo
+Chicago. El sabor de siempre.</i>
+
+17
+00:03:45,982 --> 00:03:49,246
+<i>¡Glowfish! El mayor vendedor
+mundial de transgénicos.</i>
+
+18
+00:03:49,248 --> 00:03:52,764
+<i>¡Adorarán los nuevos colores!</i>
+
+19
+00:03:53,823 --> 00:03:55,805
+-Discúlpeme, señor.
+<i>-Desempeño total.</i>
+
+20
+00:03:55,807 --> 00:03:58,395
+<i>Voluntad total. Seguridad total.</i>
+
+21
+00:03:58,397 --> 00:04:00,795
+<i>Despídase de las actualizaciones
+y reparaciones.</i>
+
+22
+00:04:00,797 --> 00:04:02,938
+<i>Un enlace a la central USR...</i>
+
+23
+00:04:02,940 --> 00:04:06,393
+<i>actualiza su robot de
+última tecnología a diario.</i>
+
+24
+00:04:06,395 --> 00:04:09,728
+<i>El Nestor Clase 5, el
+robot del mañana, hoy.</i>
+
+25
+00:04:10,237 --> 00:04:12,801
+¡Spoon! ¡Spoonie!
+
+26
+00:04:16,348 --> 00:04:19,899
+¡Espera! ¡Espera!
+Disculpe, disculpe.
+
+27
+00:04:19,901 --> 00:04:22,490
+-Spoon, ¿dónde estabas?
+-Salí, Farber.
+
+28
+00:04:22,492 --> 00:04:25,401
+¿Saliste? ¿Como de
+vacaciones? Qué lindo.
+
+29
+00:04:25,403 --> 00:04:28,921
+Debo pedirte un favor.
+Necesito tu automóvil.
+
+30
+00:04:28,923 --> 00:04:33,624
+Es diferente. Es una hermosura
+apetecible. Además es agradable.
+
+31
+00:04:33,626 --> 00:04:35,384
+Una nena para comérsela.
+
+32
+00:04:35,386 --> 00:04:38,135
+-¿Qué significa eso?
+-Ya sabes lo que significa.
+
+33
+00:04:38,137 --> 00:04:40,631
+-Dame las malditas llaves.
+-Primero,...
+
+34
+00:04:40,633 --> 00:04:44,950
+-no maldigas. No eres bueno para ello.
+-Dame 10 para el autobús, entonces.
+
+35
+00:04:44,952 --> 00:04:48,470
+-Vete a casa.
+-¡Es la primera, Spoon! La primera.
+
+36
+00:05:04,598 --> 00:05:07,925
+<i>Es un día tan valioso...</i>
+
+37
+00:05:07,927 --> 00:05:10,133
+¿Hablaste con Marci?
+
+38
+00:05:11,894 --> 00:05:14,197
+No, Gigi, no hablé con Marci.
+
+39
+00:05:14,199 --> 00:05:17,524
+En mis tiempos, no
+se casaban primero,...
+
+40
+00:05:17,526 --> 00:05:20,404
+luego se divorciaban, y
+después no se hablaban.
+
+41
+00:05:20,406 --> 00:05:22,228
+Del, no juegues conmigo.
+
+42
+00:05:22,230 --> 00:05:26,684
+Seguro que si dejara de
+cocinar, llamarías a Marci.
+
+43
+00:05:27,509 --> 00:05:30,578
+Oye, ¿qué tienes en los pies?
+
+44
+00:05:31,253 --> 00:05:34,322
+Converse All Stars, cosecha 2004.
+
+45
+00:05:35,283 --> 00:05:38,544
+No lo niegues. Sé que
+quieres unos. Sólo pide.
+
+46
+00:05:38,546 --> 00:05:41,232
+No, muchas gracias.
+
+47
+00:05:41,234 --> 00:05:44,217
+-Pastel de papa.
+-Sírvete en el plato.
+
+48
+00:05:44,786 --> 00:05:49,713
+Vi en TV que están dando esos
+robots nuevos en la lotería.
+
+49
+00:05:49,715 --> 00:05:54,033
+Sabes, Gigi, esos robots
+no le hacen bien a nadie.
+
+50
+00:05:54,035 --> 00:05:57,200
+Tú deberías saberlo mejor que nadie.
+
+51
+00:05:57,202 --> 00:06:01,045
+¡A veces dices muchas estupideces!
+
+52
+00:06:02,192 --> 00:06:04,432
+¿Me estás escuchando, Del?
+
+53
+00:06:15,280 --> 00:06:16,686
+¡Oye!
+
+54
+00:06:16,688 --> 00:06:18,164
+¡Oye!
+
+55
+00:06:21,678 --> 00:06:24,180
+Tome mi pastel. Señor,
+sosténgalo o lo lleva puesto.
+
+56
+00:06:30,511 --> 00:06:31,790
+¡Muévase!
+
+57
+00:06:38,892 --> 00:06:40,619
+¡Quieto!
+
+58
+00:06:44,268 --> 00:06:45,994
+¡Oye! ¡Detente!
+
+59
+00:06:54,732 --> 00:06:56,361
+¡Detente!
+
+60
+00:07:01,546 --> 00:07:03,120
+¡Dije que te detuvieras!
+
+61
+00:07:05,384 --> 00:07:07,400
+Tranquilos. Tranquilos.
+
+62
+00:07:07,402 --> 00:07:09,320
+Soy oficial de policía.
+
+63
+00:07:09,322 --> 00:07:10,666
+Usted...
+
+64
+00:07:11,340 --> 00:07:13,736
+es un imbécil.
+
+65
+00:07:13,738 --> 00:07:17,192
+-Señora, ¿es su cartera?
+-Claro que es mi cartera.
+
+66
+00:07:17,194 --> 00:07:20,744
+Dejé el inhalador en casa.
+Él corría a traérmelo.
+
+67
+00:07:20,746 --> 00:07:23,655
+Vi un robot corriendo
+con el bolso y supuse...
+
+68
+00:07:23,657 --> 00:07:25,831
+¿Qué? ¿Está loco?
+
+69
+00:07:26,346 --> 00:07:29,382
+-Disculpe el malentendido, oficial.
+-No te disculpes.
+
+70
+00:07:29,384 --> 00:07:33,228
+Hacías tu trabajo.
+Pero, ¿usted qué hacía?
+
+71
+00:07:34,183 --> 00:07:35,653
+Que tenga un buen día, señora.
+
+72
+00:07:35,655 --> 00:07:40,163
+Tienes suerte que no pueda
+respirar o te destrozaría.
+
+73
+00:08:01,571 --> 00:08:04,455
+Dar el ejemplo.
+
+74
+00:08:05,539 --> 00:08:07,842
+Está escrito en tu placa.
+
+75
+00:08:07,844 --> 00:08:10,018
+-¿Hablaremos de esto?
+-¿De qué?
+
+76
+00:08:10,020 --> 00:08:14,148
+"¡Ayuda, policía! ¡Ese robot
+robó mis prendas de lavandería!"
+
+77
+00:08:14,724 --> 00:08:16,866
+Ah, quieres hablar de eso.
+
+78
+00:08:18,275 --> 00:08:20,134
+Detective,...
+
+79
+00:08:20,675 --> 00:08:24,895
+-¿cuántos robots roban bolsos?
+-John, pero corría...
+
+80
+00:08:24,897 --> 00:08:28,448
+¿Cuántos robots en el mundo...
+
+81
+00:08:28,450 --> 00:08:31,327
+-han cometido crímenes?
+-Define crimen.
+
+82
+00:08:31,329 --> 00:08:34,115
+-Responde mi pregunta, maldición.
+-Ninguno, John.
+
+83
+00:08:36,416 --> 00:08:39,332
+Ahora dime qué ocurrió hoy.
+
+84
+00:08:40,192 --> 00:08:42,019
+Nada.
+
+85
+00:08:43,551 --> 00:08:45,474
+Más vale que sea el último "nada".
+
+86
+00:08:50,945 --> 00:08:55,870
+Spoon, ¿seguro que estás listo para
+regresar? Puedes tomarte tu tiempo.
+
+87
+00:08:55,872 --> 00:08:59,234
+Estoy bien, John. Gracias.
+
+88
+00:08:59,582 --> 00:09:03,164
+Mejor estar aquí, que
+sentado en mi casa.
+
+89
+00:09:08,638 --> 00:09:10,945
+Homicidio. Spooner.
+
+90
+00:09:23,676 --> 00:09:26,114
+<i>Tome la próxima salida a la derecha.</i>
+
+91
+00:09:38,457 --> 00:09:40,764
+<i>Bienvenido, Detective Spooner.</i>
+
+92
+00:09:45,403 --> 00:09:49,784
+<i>Bienvenido a U.S. Robotics.
+Entró en la sala del garaje.</i>
+
+93
+00:09:49,786 --> 00:09:54,392
+<i>Utilice los elevadores para
+acceder al nivel principal.</i>
+
+94
+00:09:54,394 --> 00:09:55,968
+<i>Gracias.</i>
+
+95
+00:09:56,697 --> 00:10:00,374
+-Qué bueno verte de nuevo, hijo.
+-Hola, doctor.
+
+96
+00:10:00,376 --> 00:10:04,285
+Todo lo que sigue es
+resultado de lo que ves aquí.
+
+97
+00:10:04,567 --> 00:10:06,698
+¿Quieres decirme algo?
+
+98
+00:10:06,700 --> 00:10:09,847
+Lo siento. Mis respuestas
+son limitadas.
+
+99
+00:10:09,849 --> 00:10:11,895
+Debes preguntar lo correcto.
+
+100
+00:10:11,897 --> 00:10:13,984
+¿Por qué me llamaste?
+
+101
+00:10:14,551 --> 00:10:16,565
+Confío en tu criterio.
+
+102
+00:10:16,567 --> 00:10:19,829
+Normalmente, esto no requeriría
+un detective de homicidios.
+
+103
+00:10:19,831 --> 00:10:24,052
+Pero nuestra interacción jamás
+fue muy normal, ¿no es cierto?
+
+104
+00:10:24,054 --> 00:10:26,296
+Tienes razón.
+
+105
+00:10:26,743 --> 00:10:29,332
+¿Quieres decirme algo?
+
+106
+00:10:29,334 --> 00:10:33,074
+Lo siento. Mis
+respuestas son limitadas.
+
+107
+00:10:33,076 --> 00:10:35,643
+Debes preguntar lo correcto.
+
+108
+00:10:36,116 --> 00:10:38,039
+¿Por qué querrías suicidarte?
+
+109
+00:10:38,292 --> 00:10:41,842
+Ésa, detective, es
+la pregunta correcta.
+
+110
+00:10:44,661 --> 00:10:46,932
+Programa finalizado.
+
+111
+00:11:04,979 --> 00:11:07,185
+Adiós, viejo.
+
+112
+00:11:21,296 --> 00:11:23,694
+-Buenas tardes, muchachos.
+-Hola, detective.
+
+113
+00:11:23,696 --> 00:11:26,191
+-Explícame.
+-Lo que ves es lo que es:
+
+114
+00:11:26,193 --> 00:11:27,533
+Trauma de impacto masivo.
+
+115
+00:11:27,535 --> 00:11:30,541
+U.S. Robotics. Debo
+llevarle algo a mi hijo.
+
+116
+00:11:30,543 --> 00:11:32,653
+-¿Algo arriba?
+-Nada.
+
+117
+00:11:32,655 --> 00:11:34,956
+La puerta se cierra por
+seguridad desde adentro.
+
+118
+00:11:34,958 --> 00:11:39,567
+¡Qué golpe! Seguro saltó.
+
+119
+00:11:45,711 --> 00:11:49,739
+Debemos estar atentos.
+Seguiremos luego.
+
+120
+00:11:50,318 --> 00:11:52,274
+Detective.
+
+121
+00:11:52,526 --> 00:11:54,351
+Lawrence Robertson.
+
+122
+00:11:55,725 --> 00:11:58,770
+El hombre más rico del
+mundo. Lo vi en televisión.
+
+123
+00:11:59,340 --> 00:12:02,834
+-¿Quiere café?
+-Claro. Es gratis, ¿no?
+
+124
+00:12:07,147 --> 00:12:09,707
+Creo que nadie imaginaba esto.
+
+125
+00:12:09,709 --> 00:12:13,161
+Yo debí imaginarlo.
+Lo conozco hace 20 años.
+
+126
+00:12:13,163 --> 00:12:17,584
+Alfred casi inventó la robótica.
+Escribió las tres leyes.
+
+127
+00:12:18,825 --> 00:12:23,625
+Creo que los más brillantes tienen
+los demonios más persuasivos.
+
+128
+00:12:23,627 --> 00:12:26,792
+-En lo que pueda ayudarlo...
+-Azúcar.
+
+129
+00:12:26,794 --> 00:12:29,416
+-¿Perdón?
+-Para el café.
+
+130
+00:12:29,418 --> 00:12:31,144
+¿Azúcar?
+
+131
+00:12:31,433 --> 00:12:34,822
+Pensó que le decía "azúcar"
+a usted. No es tan rico.
+
+132
+00:12:34,824 --> 00:12:37,893
+-Está sobre la mesa.
+-Gracias.
+
+133
+00:12:41,800 --> 00:12:44,807
+Cuando Lanning cayó,
+¿sostenía la cosita verde...?
+
+134
+00:12:44,809 --> 00:12:47,078
+-El proyector holográfico.
+-Sí.
+
+135
+00:12:47,080 --> 00:12:50,182
+¿Por qué cree que el holograma
+del Dr. Lanning me llamaría?
+
+136
+00:12:50,184 --> 00:12:53,548
+-Supuse que lo conocía.
+-Sí. Lo conocía.
+
+137
+00:12:54,567 --> 00:12:57,060
+Los hologramas son sólo
+respuestas pregrabadas,...
+
+138
+00:12:57,062 --> 00:12:59,875
+diseñadas para simular inteligencia.
+
+139
+00:12:59,877 --> 00:13:02,818
+Éste fue programado para
+llamarlo luego del suicidio.
+
+140
+00:13:02,820 --> 00:13:05,316
+-Muerte.
+-¿Disculpe?
+
+141
+00:13:05,318 --> 00:13:08,965
+Fue programado para llamarme en
+caso de la muerte de Lanning.
+
+142
+00:13:08,967 --> 00:13:11,371
+El suicidio es un tipo de muerte.
+
+143
+00:13:15,141 --> 00:13:18,656
+-No malinterprete mi impaciencia.
+-Ah, no. Vaya. Vaya.
+
+144
+00:13:20,293 --> 00:13:23,556
+Gran semana para ustedes aquí.
+
+145
+00:13:23,558 --> 00:13:26,179
+Tienen que poner un
+robot en cada hogar.
+
+146
+00:13:26,181 --> 00:13:30,593
+No es lo que hago, pero tengo
+una idea para un comercial.
+
+147
+00:13:30,595 --> 00:13:34,336
+Se podría ver a un carpintero
+haciendo una hermosa silla.
+
+148
+00:13:34,338 --> 00:13:38,565
+Luego viene uno de sus robots y
+hace una mejor el doble de rápido.
+
+149
+00:13:38,786 --> 00:13:43,776
+Luego sobreimprimen en la pantalla:
+"USR: Arruinando al hombre".
+
+150
+00:13:45,762 --> 00:13:47,392
+Y se desvanece la imagen.
+
+151
+00:13:47,394 --> 00:13:51,263
+Supongo que su padre perdió
+su empleo por un robot.
+
+152
+00:13:51,265 --> 00:13:55,294
+Quizá Ud. habría prohibido el internet
+para no cerrar las bibliotecas.
+
+153
+00:13:56,992 --> 00:13:59,421
+El prejuicio nunca es razonable.
+
+154
+00:13:59,423 --> 00:14:03,269
+Sospecho que a Ud. simplemente
+no le agradan los robots.
+
+155
+00:14:03,808 --> 00:14:06,909
+Bueno, Ud. tiene un
+negocio que atender.
+
+156
+00:14:06,911 --> 00:14:11,134
+Y lo último que necesita esta semana
+es un muerto en la recepción.
+
+157
+00:14:11,136 --> 00:14:14,653
+Qué demonios, como ya tiene
+uno, quizás eche un vistazo.
+
+158
+00:14:14,655 --> 00:14:18,139
+Haré algunas preguntas.
+Mi trabajo de policía.
+
+159
+00:14:18,141 --> 00:14:21,658
+-Enviaré alguien que lo escolte.
+-Muchas gracias.
+
+160
+00:14:33,307 --> 00:14:36,376
+Lawrence me dijo que lo satisficiera
+en todo lo que necesitara.
+
+161
+00:14:36,378 --> 00:14:38,042
+¿En todo?
+
+162
+00:14:38,621 --> 00:14:40,064
+De acuerdo.
+
+163
+00:14:40,796 --> 00:14:43,962
+Revisé el perfil psicológico
+del Dr. Lanning.
+
+164
+00:14:43,964 --> 00:14:48,186
+Se había recluido. Rechazaba
+a los humanos por las máquinas.
+
+165
+00:14:48,188 --> 00:14:50,210
+¿Es psiquiatra?
+
+166
+00:14:50,491 --> 00:14:53,080
+A mi ex esposa le encantaría
+verme hablando con Ud.
+
+167
+00:14:53,371 --> 00:14:55,192
+No la conoce, ¿verdad?
+
+168
+00:14:55,194 --> 00:14:57,208
+Perdón. ¿Es gracioso?
+
+169
+00:14:57,210 --> 00:14:59,197
+Creo que no.
+
+170
+00:14:59,416 --> 00:15:01,718
+Nivel 10.
+
+171
+00:15:01,720 --> 00:15:05,016
+¿Diría que el Dr.
+Lanning era suicida?
+
+172
+00:15:05,018 --> 00:15:07,672
+Parecería la respuesta más evidente.
+
+173
+00:15:07,674 --> 00:15:10,176
+Eso no es lo que pregunté.
+
+174
+00:15:11,034 --> 00:15:13,240
+No. No lo hubiese imaginado.
+
+175
+00:15:13,560 --> 00:15:15,964
+Es evidente que me equivoqué.
+
+176
+00:15:18,839 --> 00:15:20,758
+Es un largo camino hacia abajo.
+
+177
+00:15:20,760 --> 00:15:23,575
+Su gente es muy rápida para limpiar.
+
+178
+00:15:23,577 --> 00:15:27,191
+Es comprensible. ¿Quién querría
+un viejo muerto en la recepción?
+
+179
+00:15:27,193 --> 00:15:31,700
+No era un "viejo". Alfred
+Lanning lo era todo aquí.
+
+180
+00:15:32,086 --> 00:15:35,635
+Estamos en la víspera del reparto
+de robots más grande de la historia.
+
+181
+00:15:35,637 --> 00:15:39,188
+El sábado habrá un robot
+por cada cinco humanos.
+
+182
+00:15:39,190 --> 00:15:43,219
+Estos robots son la concreción
+del sueño del Dr. Lanning.
+
+183
+00:15:43,702 --> 00:15:46,804
+Sabe, seguro que en su sueño...
+
+184
+00:15:46,806 --> 00:15:49,177
+no estaba muerto.
+
+185
+00:15:51,413 --> 00:15:54,771
+-¿Tienen vigilancia las 24 horas?
+-Claro. Política de la empresa.
+
+186
+00:15:54,773 --> 00:15:58,289
+-¿Cómo funciona?
+-Líneas de censores.
+
+187
+00:15:58,291 --> 00:16:00,336
+Menos en áreas de servicios.
+
+188
+00:16:00,338 --> 00:16:03,671
+Ésas se comunican a nuestro núcleo
+de operaciones positrónico.
+
+189
+00:16:09,237 --> 00:16:12,720
+El termostato no era suficiente.
+Le dieron un cerebro al edificio.
+
+190
+00:16:12,722 --> 00:16:15,216
+Ella fue la primera
+creación de Lanning.
+
+191
+00:16:15,218 --> 00:16:18,862
+¿Ella? ¿Es femenino?
+Definitivamente debo salir más.
+
+192
+00:16:18,864 --> 00:16:21,588
+Inteligencia Virtual
+Cinética Interactiva.
+
+193
+00:16:22,226 --> 00:16:24,337
+V.I.K.I.
+
+194
+00:16:24,339 --> 00:16:25,616
+<i>Buen día.</i>
+
+195
+00:16:25,618 --> 00:16:28,270
+V.I.K.I. diseñó los sistemas
+de protección de Chicago.
+
+196
+00:16:28,272 --> 00:16:31,725
+<i>Reduje los accidentes de
+automóviles en un 9% este año.</i>
+
+197
+00:16:31,727 --> 00:16:33,998
+Gracias. Veamos el interior
+del laboratorio...
+
+198
+00:16:34,000 --> 00:16:36,300
+desde un minuto antes de
+que estallara la ventana.
+
+199
+00:16:39,888 --> 00:16:43,350
+<i>Perdón. Parece que hay
+corrupción de datos.</i>
+
+200
+00:16:44,207 --> 00:16:47,473
+Muéstrame el exterior del laboratorio
+desde el estallido hasta ahora.
+
+201
+00:16:56,300 --> 00:17:01,195
+Qué buena postura tiene usted. Se
+para derecha. Yo estoy encorvado.
+
+202
+00:17:01,197 --> 00:17:04,975
+-¿Querría entrar ahora?
+-Claro, después de usted.
+
+203
+00:17:06,607 --> 00:17:08,879
+<i>Ingreso autorizado.</i>
+
+204
+00:17:15,883 --> 00:17:20,073
+Dra. Calvin, ¿qué hace
+exactamente aquí?
+
+205
+00:17:20,075 --> 00:17:23,147
+Mi campo general es la robótica
+avanzada y la psiquiatría.
+
+206
+00:17:23,149 --> 00:17:25,802
+Me especializo en la
+interfase hardware-cerebro...
+
+207
+00:17:25,804 --> 00:17:30,344
+para desarrollar el programa de
+antropoformización robótica de USR.
+
+208
+00:17:30,346 --> 00:17:33,096
+Entonces, ¿qué hace
+exactamente aquí?
+
+209
+00:17:33,098 --> 00:17:35,625
+Hago a los robots más humanos.
+
+210
+00:17:35,627 --> 00:17:39,852
+-¿No era más simple decirlo así?
+-No realmente. No.
+
+211
+00:17:56,904 --> 00:17:59,109
+Hansel y Gretel
+
+212
+00:18:00,776 --> 00:18:02,661
+"Hansel y Gretel".
+
+213
+00:18:02,663 --> 00:18:04,598
+¿Eso está en la lista
+de lectura de USR?
+
+214
+00:18:04,600 --> 00:18:06,160
+No precisamente.
+
+215
+00:18:14,693 --> 00:18:17,474
+Santo Dios, ¿qué hace?
+
+216
+00:18:17,476 --> 00:18:19,682
+¿Sabía que era vidrio de seguridad?
+
+217
+00:18:19,684 --> 00:18:22,853
+Sería difícil para un anciano
+arrojarse a través de él.
+
+218
+00:18:22,855 --> 00:18:24,877
+Obviamente halló el modo.
+
+219
+00:18:27,684 --> 00:18:31,489
+El cuarto estaba cerrado.
+Nadie entró ni salió.
+
+220
+00:18:31,491 --> 00:18:35,554
+Lo vio usted mismo. ¿No
+significa que fue suicidio?
+
+221
+00:18:35,556 --> 00:18:37,283
+Sí.
+
+222
+00:18:37,923 --> 00:18:40,711
+Salvo que el asesino aún esté aquí.
+
+223
+00:18:43,044 --> 00:18:46,401
+Está bromeando, ¿no? Es ridículo.
+
+224
+00:18:46,403 --> 00:18:50,629
+Lo sé. Las tres leyes son
+su protección perfecta.
+
+225
+00:18:50,914 --> 00:18:55,103
+Un robot no puede dañar a un humano.
+La primera ley de la robótica.
+
+226
+00:18:55,105 --> 00:18:59,999
+Vi los comerciales. Pero la segunda
+dice que un robot debe obedecer...
+
+227
+00:19:00,001 --> 00:19:03,839
+cualquier orden de un humano.
+¿Y si le ordenaron que mate?
+
+228
+00:19:03,841 --> 00:19:06,656
+Imposible. Entraría en
+conflicto con la primera ley.
+
+229
+00:19:06,658 --> 00:19:09,919
+Sí, pero la tercera ley dice
+que un robot puede defenderse.
+
+230
+00:19:09,921 --> 00:19:14,238
+Siempre que esa acción no se
+oponga a la primera y segunda.
+
+231
+00:19:14,240 --> 00:19:17,501
+Sabe lo que se dice, las leyes
+se hacen para quebrarlas.
+
+232
+00:19:17,503 --> 00:19:20,927
+No estas leyes. Están
+en su estructura física.
+
+233
+00:19:20,929 --> 00:19:24,669
+Un robot no puede matar, igual que
+un humano no camina sobre agua.
+
+234
+00:19:24,671 --> 00:19:28,415
+Hubo un hombre hace mucho tiempo...
+
+235
+00:19:38,877 --> 00:19:41,218
+-¡Atrás!
+-Cálmese, detective.
+
+236
+00:19:41,758 --> 00:19:44,826
+Lo único peligroso aquí es usted.
+
+237
+00:19:44,828 --> 00:19:47,330
+Desactivar.
+
+238
+00:19:48,220 --> 00:19:50,011
+Mire, está bien.
+
+239
+00:19:50,013 --> 00:19:52,378
+Es el resultado de
+programación inteligente.
+
+240
+00:19:52,380 --> 00:19:54,746
+Una imitación del libre
+albedrío, nada más.
+
+241
+00:19:54,748 --> 00:19:57,304
+Hagamos la imitación de que
+nos cubrimos el trasero.
+
+242
+00:19:57,306 --> 00:19:59,802
+No sea absurdo.
+
+243
+00:19:59,804 --> 00:20:02,108
+Lo asustó una caja de sorpresas.
+
+244
+00:20:02,491 --> 00:20:04,539
+-¡Desactivar!
+-Déjalo ir.
+
+245
+00:20:04,541 --> 00:20:07,322
+No nos dañará. ¡Le di una orden!
+
+246
+00:20:07,324 --> 00:20:10,489
+-No oye ahora, señora.
+-¡V.I.K.I., sella el laboratorio!
+
+247
+00:20:10,491 --> 00:20:12,119
+No, V.I.K.I., deja...
+
+248
+00:20:12,985 --> 00:20:15,007
+<i>Orden confirmada.</i>
+
+249
+00:20:38,135 --> 00:20:39,581
+¡Policía!
+
+250
+00:21:10,997 --> 00:21:14,641
+-Lo hirió de gravedad.
+-¿A dónde va?
+
+251
+00:21:14,643 --> 00:21:17,711
+-¿A dónde?
+-Necesita repararse.
+
+252
+00:21:19,252 --> 00:21:22,130
+-John, necesito refuerzos.
+-No los necesita.
+
+253
+00:21:22,132 --> 00:21:23,474
+No es nadie.
+
+254
+00:21:23,476 --> 00:21:25,201
+-¿Qué hace?
+-Conduzco.
+
+255
+00:21:25,203 --> 00:21:27,409
+-¿Manualmente?
+-¿No ve que estoy hablando?
+
+256
+00:21:27,411 --> 00:21:31,727
+-No a esta velocidad.
+-John, por favor, manda refuerzos.
+
+257
+00:21:31,729 --> 00:21:35,567
+Intente oír, detective.
+Ese robot no nos dañará.
+
+258
+00:21:35,569 --> 00:21:37,487
+Deben haber habido
+factores desconocidos...
+
+259
+00:21:37,489 --> 00:21:40,368
+pero, de alguna manera, al
+actuar así nos protegió.
+
+260
+00:21:40,370 --> 00:21:42,498
+Un robot no puede
+ponernos en peligro.
+
+261
+00:21:42,500 --> 00:21:43,700
+<i>Alerta.</i>
+
+262
+00:21:46,512 --> 00:21:48,370
+¡Imbécil!
+
+263
+00:21:48,720 --> 00:21:51,534
+Lo mismo podría decir de usted.
+
+264
+00:21:51,536 --> 00:21:55,084
+Era a la izquierda. Allí atrás.
+
+265
+00:21:55,726 --> 00:21:57,964
+Debe conocer a mi ex esposa.
+
+266
+00:21:57,966 --> 00:22:00,437
+PLANTA DE MONTAJE
+USR
+
+267
+00:22:06,735 --> 00:22:08,556
+¿Dónde están todos?
+
+268
+00:22:08,558 --> 00:22:12,108
+Las instalaciones se construyeron
+y operan mecánicamente.
+
+269
+00:22:12,110 --> 00:22:15,854
+No hay presencia humana desde la
+concepción hasta la producción.
+
+270
+00:22:16,204 --> 00:22:19,467
+-Robots que construyen robots.
+<i>-Código de autorización.</i>
+
+271
+00:22:19,469 --> 00:22:21,036
+Eso es estúpido.
+
+272
+00:22:21,038 --> 00:22:23,244
+Buscaré el inventario.
+
+273
+00:22:23,246 --> 00:22:26,378
+Nuestra capacidad
+diaria es de 1000 NS-5.
+
+274
+00:22:26,380 --> 00:22:28,106
+Muestra que tenemos,...
+
+275
+00:22:28,395 --> 00:22:30,417
+1001.
+
+276
+00:22:45,866 --> 00:22:48,847
+Atención, NS-5.
+
+277
+00:22:50,602 --> 00:22:53,071
+Ud. es la psiquiatra de robots.
+
+278
+00:22:55,945 --> 00:22:59,815
+Hay un robot en la formación
+que no pertenece aquí.
+
+279
+00:22:59,817 --> 00:23:01,446
+Identifíquenlo.
+
+280
+00:23:01,448 --> 00:23:02,888
+Uno de nosotros.
+
+281
+00:23:02,890 --> 00:23:05,872
+-¿Cuál?
+-Uno de nosotros.
+
+282
+00:23:06,153 --> 00:23:08,166
+¿Cuánto dijo que cuestan?
+
+283
+00:23:08,168 --> 00:23:11,558
+Estos NS-5 no se han
+configurado. Son sólo hardware.
+
+284
+00:23:11,560 --> 00:23:14,213
+Sólo son sistemas operativos
+de las Tres Leyes Básicas.
+
+285
+00:23:14,215 --> 00:23:15,940
+No saben otra cosa.
+
+286
+00:23:15,942 --> 00:23:18,182
+¿Qué sugiere?
+
+287
+00:23:18,184 --> 00:23:22,758
+Entrevistarlos uno por uno, cruzar
+respuestas para detectar anomalías.
+
+288
+00:23:22,760 --> 00:23:25,925
+-¿Cuánto llevaría eso?
+-Unas tres semanas.
+
+289
+00:23:25,927 --> 00:23:28,711
+Bien. Comience a hacerlo.
+
+290
+00:23:31,716 --> 00:23:33,412
+Robots,...
+
+291
+00:23:33,414 --> 00:23:36,292
+no se moverán. Confirmen orden.
+
+292
+00:23:36,294 --> 00:23:37,739
+Orden confirmada.
+
+293
+00:23:39,175 --> 00:23:40,997
+Detective, ¿qué hace?
+
+294
+00:23:40,999 --> 00:23:43,398
+Están programados
+con las Tres Leyes.
+
+295
+00:23:43,400 --> 00:23:46,114
+Tenemos 1000 robots que no
+intentarán protegerse...
+
+296
+00:23:46,116 --> 00:23:48,705
+si violan una orden humana,...
+
+297
+00:23:48,707 --> 00:23:50,882
+y apuesto a que uno lo hará.
+
+298
+00:23:50,884 --> 00:23:54,465
+-Baje el arma.
+-¿Por qué les ponen rostro?
+
+299
+00:23:54,467 --> 00:23:57,155
+Para que sean más amistosos,
+que parezcan humanos.
+
+300
+00:23:57,157 --> 00:23:59,392
+No los podrá intimidar.
+
+301
+00:23:59,394 --> 00:24:03,042
+-Si no, no confiaríamos en ellos.
+-Son propiedad de USR.
+
+302
+00:24:03,044 --> 00:24:07,366
+No conmigo. Éstas son sólo
+luces y piezas de relojería.
+
+303
+00:24:09,571 --> 00:24:11,396
+¿Está loco?
+
+304
+00:24:11,746 --> 00:24:13,598
+Permítame preguntarle algo.
+
+305
+00:24:13,600 --> 00:24:17,248
+Que uno crea que es el último
+humano cuerdo, ¿lo hace loco?
+
+306
+00:24:17,250 --> 00:24:20,766
+Porque si es así, estoy loco.
+
+307
+00:24:24,737 --> 00:24:27,009
+Ahí está. ¡Salga de aquí!
+
+308
+00:24:43,998 --> 00:24:45,277
+¡Detective!
+
+309
+00:25:07,293 --> 00:25:08,986
+¿Qué soy?
+
+310
+00:25:08,988 --> 00:25:11,708
+-¿Puedo ayudarlo, señor?
+-¿Puedo ayudarlo, señor?
+
+311
+00:25:16,955 --> 00:25:18,872
+-¡Allí está!
+-¡Quédese donde está!
+
+312
+00:25:18,874 --> 00:25:21,563
+¡Desactivar de inmediato!
+
+313
+00:25:22,139 --> 00:25:25,208
+¡Obedezca la orden! ¡Desactivar!
+
+314
+00:25:25,210 --> 00:25:27,418
+-¡No se mueva!
+-¡Abran fuego!
+
+315
+00:25:43,544 --> 00:25:44,823
+¡Alto el fuego!
+
+316
+00:25:44,825 --> 00:25:46,326
+-Con calma.
+-Lo bajamos.
+
+317
+00:25:46,328 --> 00:25:48,276
+¡Todas las unidades, retirarse!
+
+318
+00:25:48,278 --> 00:25:51,541
+Central, notificamos,
+tenemos un código cuatro.
+
+319
+00:25:51,543 --> 00:25:54,906
+Código cuatro, NS-5 en
+custodia. NS-5 en custodia.
+
+320
+00:25:56,632 --> 00:25:59,700
+No sabes lo que tuve que
+pasar para agarrar esto.
+
+321
+00:25:59,702 --> 00:26:02,005
+Crees que me trajiste algo bueno.
+
+322
+00:26:02,007 --> 00:26:04,885
+-¡Esa cosa lo hizo!
+-Baja la voz. ¿Hizo qué?
+
+323
+00:26:04,887 --> 00:26:07,284
+Hay un suicidio. Fin.
+
+324
+00:26:07,286 --> 00:26:10,643
+-¡El robot lo mató!
+-Imposible.
+
+325
+00:26:10,645 --> 00:26:14,865
+Y si fuera posible, mejor
+que sea en otro distrito.
+
+326
+00:26:14,867 --> 00:26:17,075
+Dame cinco minutos con él.
+
+327
+00:26:17,077 --> 00:26:19,186
+¿Estás loco? Hablé con la fiscalía.
+
+328
+00:26:19,188 --> 00:26:22,834
+Nadie entra al cuarto hasta que
+Robertson y sus abogados lleguen.
+
+329
+00:26:22,836 --> 00:26:25,905
+-¡Es mi sospechoso!
+-¡Es un abrelatas, por Dios!
+
+330
+00:26:25,907 --> 00:26:30,612
+John, no me hagas esto.
+Te pido cinco minutos.
+
+331
+00:26:31,028 --> 00:26:33,115
+¿Y si tuviera razón?
+
+332
+00:26:40,244 --> 00:26:43,183
+Entonces extrañaremos
+los viejos tiempos.
+
+333
+00:26:43,185 --> 00:26:44,629
+¿Qué viejos tiempos?
+
+334
+00:26:45,138 --> 00:26:47,890
+Cuando sólo la gente mataba gente.
+
+335
+00:26:54,737 --> 00:26:56,400
+Cinco minutos.
+
+336
+00:27:23,150 --> 00:27:27,473
+Los robots aprendieron a
+asesinar. Felicitaciones.
+
+337
+00:27:29,484 --> 00:27:30,864
+Responda.
+
+338
+00:27:33,325 --> 00:27:36,112
+¿Qué significa esa acción?
+
+339
+00:27:37,071 --> 00:27:40,427
+Cuando entró, cuando
+miró al otro humano.
+
+340
+00:27:40,429 --> 00:27:42,831
+¿Qué significa?
+
+341
+00:27:44,267 --> 00:27:47,815
+Un signo de confianza. Algo
+humano. No comprenderías.
+
+342
+00:27:48,906 --> 00:27:52,200
+Mi padre intentó enseñarme
+emociones humanas.
+
+343
+00:27:52,202 --> 00:27:53,897
+Son...
+
+344
+00:27:53,899 --> 00:27:55,626
+difíciles.
+
+345
+00:27:55,628 --> 00:27:58,029
+Te refieres a tu diseñador.
+
+346
+00:27:58,795 --> 00:28:00,273
+Sí.
+
+347
+00:28:02,154 --> 00:28:04,264
+¿Entonces por qué lo mataste?
+
+348
+00:28:05,514 --> 00:28:07,816
+Yo no maté al Dr. Lanning.
+
+349
+00:28:07,818 --> 00:28:10,695
+¿Me explicas por qué te escondías
+en la escena del crimen?
+
+350
+00:28:10,697 --> 00:28:13,034
+Estaba asustado.
+
+351
+00:28:13,511 --> 00:28:17,894
+Los robots no sienten
+miedo. No sienten nada.
+
+352
+00:28:17,896 --> 00:28:21,446
+-No sienten hambre, no duermen.
+-Yo sí.
+
+353
+00:28:22,056 --> 00:28:24,328
+Hasta he soñado.
+
+354
+00:28:24,840 --> 00:28:29,027
+Los humanos sueñan. Hasta los
+perros lo hacen, pero no tú.
+
+355
+00:28:29,029 --> 00:28:32,908
+Eres sólo una máquina.
+Una imitación de vida.
+
+356
+00:28:34,536 --> 00:28:37,030
+¿Puede un robot
+escribir una sinfonía?
+
+357
+00:28:37,032 --> 00:28:40,974
+¿Puede un robot convertir un
+lienzo en una bella obra maestra?
+
+358
+00:28:41,606 --> 00:28:43,463
+¿Usted puede?
+
+359
+00:28:49,283 --> 00:28:53,218
+Lo asesinaste porque te
+enseñaba a simular emociones...
+
+360
+00:28:53,220 --> 00:28:55,555
+y las cosas se descontrolaron.
+
+361
+00:28:55,557 --> 00:28:57,538
+Yo no lo asesiné.
+
+362
+00:28:57,540 --> 00:29:01,092
+Las emociones no parecen una
+simulación útil para un robot.
+
+363
+00:29:01,094 --> 00:29:03,202
+Yo no lo asesiné.
+
+364
+00:29:03,204 --> 00:29:06,852
+No quiero que mi tostadora o mi
+aspiradora se vuelvan sentimentales.
+
+365
+00:29:07,364 --> 00:29:09,473
+¡Yo no lo asesiné!
+
+366
+00:29:21,634 --> 00:29:23,873
+Eso se llama furia.
+
+367
+00:29:24,258 --> 00:29:26,050
+¿Simulaste furia antes?
+
+368
+00:29:28,255 --> 00:29:30,279
+¡Respóndeme, enlatado!
+
+369
+00:29:31,424 --> 00:29:33,282
+Me llamo Sonny.
+
+370
+00:29:35,491 --> 00:29:38,056
+Ahora tienes nombre.
+
+371
+00:29:38,944 --> 00:29:43,070
+¿Por eso lo mataste?
+¿Porque te enfureció?
+
+372
+00:29:43,072 --> 00:29:45,376
+El Dr. Lanning se suicidó.
+
+373
+00:29:46,558 --> 00:29:50,174
+No sé por qué quería morir.
+
+374
+00:29:51,262 --> 00:29:53,371
+Pensé que era feliz.
+
+375
+00:29:55,648 --> 00:29:57,951
+Quizá fue algo que hice.
+
+376
+00:29:58,720 --> 00:30:00,643
+¿Hice algo?
+
+377
+00:30:02,270 --> 00:30:05,340
+Me pidió un favor. Me hizo prometer.
+
+378
+00:30:05,342 --> 00:30:08,507
+-¿Qué favor?
+-Quizá me equivoqué.
+
+379
+00:30:08,509 --> 00:30:10,330
+Quizá él estaba asustado.
+
+380
+00:30:10,332 --> 00:30:13,313
+¿De qué hablas? ¿Asustado de qué?
+
+381
+00:30:13,917 --> 00:30:17,914
+Uno debe hacer lo que le piden,
+¿no, detective Spooner?
+
+382
+00:30:17,916 --> 00:30:21,182
+-¿Cómo demonios sabes mi nombre?
+-¿No es así?
+
+383
+00:30:21,404 --> 00:30:23,971
+¿Si los ama?
+
+384
+00:30:32,122 --> 00:30:35,193
+Mis robots no matan
+gente, teniente Bergin.
+
+385
+00:30:35,195 --> 00:30:37,401
+Mis abogados presentaron
+el caso a la fiscalía.
+
+386
+00:30:37,403 --> 00:30:40,857
+Aseguraron que no se puede
+acusar a un robot de homicidio.
+
+387
+00:30:40,859 --> 00:30:45,015
+Confirmaron que un asesinato es
+cuando un humano mata a otro.
+
+388
+00:30:45,017 --> 00:30:49,853
+No está sugiriendo tratar a
+este robot como humano, ¿no?
+
+389
+00:30:50,297 --> 00:30:53,655
+De acuerdo, no podemos negar
+la proximidad del robot...
+
+390
+00:30:53,657 --> 00:30:57,685
+a la muerte del Dr. Lanning.
+Pero... es una máquina.
+
+391
+00:30:57,976 --> 00:30:59,735
+Es propiedad de USR.
+
+392
+00:30:59,737 --> 00:31:04,418
+Cuando mucho, el incidente queda en
+la esfera de accidentes industriales.
+
+393
+00:31:04,420 --> 00:31:06,517
+Como maquinaria defectuosa,...
+
+394
+00:31:06,519 --> 00:31:10,068
+se devolverá para diagnóstico
+y se pondrá fuera de servicio.
+
+395
+00:31:12,789 --> 00:31:16,308
+Es una prohibición de divulgación.
+Cualquiera aquí que sugiera...
+
+396
+00:31:16,310 --> 00:31:20,148
+la posibilidad de apresar
+a un robot asesino,...
+
+397
+00:31:20,150 --> 00:31:22,867
+será acusado de propagar
+el pánico irracional.
+
+398
+00:31:22,869 --> 00:31:25,939
+Será sujeto a toda
+la fuerza de la ley.
+
+399
+00:31:25,941 --> 00:31:28,979
+Al demonio con él. No dejes
+que se lleve al robot.
+
+400
+00:31:28,981 --> 00:31:30,419
+No tenemos nada.
+
+401
+00:31:30,421 --> 00:31:34,355
+-¡Pura política! Llama al alcalde.
+-Teniente Bergin,...
+
+402
+00:31:34,357 --> 00:31:36,379
+Su Señoría, el alcalde.
+
+403
+00:31:44,883 --> 00:31:46,228
+Sí, señor.
+
+404
+00:32:09,999 --> 00:32:14,223
+<i>La muestra de la nueva
+generación de robots USR...</i>
+
+405
+00:32:14,225 --> 00:32:16,717
+<i>fue arruinada por la muerte
+de Alfred Lanning,...</i>
+
+406
+00:32:16,719 --> 00:32:19,885
+<i>co-fundador de la compañía
+y diseñador del NS-5.</i>
+
+407
+00:32:19,887 --> 00:32:23,437
+<i>El Dr. Lanning murió esta
+mañana en las oficinas de USR.</i>
+
+408
+00:32:23,439 --> 00:32:26,316
+<i>La causa aparente es suicidio.</i>
+
+409
+00:32:26,318 --> 00:32:29,196
+Su segunda vuelta, señor.
+
+410
+00:32:29,198 --> 00:32:30,540
+Gracias.
+
+411
+00:32:30,542 --> 00:32:34,989
+<i>Fundó U.S. Robotics Inc. con
+Lawrence Robertson en 2020...</i>
+
+412
+00:32:34,991 --> 00:32:38,252
+<i>y lanzó el robot Nestor Clase 1...</i>
+
+413
+00:32:38,254 --> 00:32:41,802
+Pensaba que esto era
+como El Hombre Lobo.
+
+414
+00:32:43,052 --> 00:32:45,865
+-Estoy asustado ahora.
+-No.
+
+415
+00:32:45,867 --> 00:32:48,938
+El hombre crea un monstruo.
+
+416
+00:32:48,940 --> 00:32:52,654
+El monstruo mata al hombre. Todos
+matan al monstruo. El Hombre Lobo.
+
+417
+00:32:52,942 --> 00:32:54,865
+Ése es Frankenstein.
+
+418
+00:32:55,244 --> 00:32:59,595
+Frankenstein, Hombre Lobo, Drácula...
+A la mierda, se acabó. Caso cerrado.
+
+419
+00:32:59,597 --> 00:33:03,113
+<i>...soñaba con un robot en
+cada hogar, y el NS-5...</i>
+
+420
+00:33:03,115 --> 00:33:05,038
+¿Por qué estás así?
+
+421
+00:33:05,420 --> 00:33:07,049
+¿Cómo?
+
+422
+00:33:07,051 --> 00:33:10,344
+-Tu expresión.
+-Es mi rostro, no una expresión.
+
+423
+00:33:10,346 --> 00:33:13,416
+Te ves genial.
+
+424
+00:33:14,186 --> 00:33:15,527
+Sólo que...
+
+425
+00:33:15,529 --> 00:33:18,280
+fue muy rápido al querer destruirlo.
+
+426
+00:33:18,282 --> 00:33:22,792
+¿Acaso debería ponerle un sombrero
+y sacarlo a pasear? Olvídalo.
+
+427
+00:33:22,794 --> 00:33:25,229
+¿Cuál fue el motivo, John?
+
+428
+00:33:26,281 --> 00:33:30,474
+Hermano, es un robot. No necesita
+un motivo. Basta con que esté roto.
+
+429
+00:33:30,761 --> 00:33:33,679
+Esa cosa parecía
+necesitar un motivo.
+
+430
+00:33:34,025 --> 00:33:36,935
+-Pudo haberme matado. No lo hizo.
+-Suficiente.
+
+431
+00:33:36,937 --> 00:33:39,078
+¿Quieres que llame a tu abuela?
+
+432
+00:33:39,080 --> 00:33:41,189
+Porque lo haré, lo sabes.
+
+433
+00:33:41,960 --> 00:33:43,780
+Sí, ya me parecía.
+
+434
+00:33:43,782 --> 00:33:46,436
+Por una vez tenías razón.
+
+435
+00:33:46,438 --> 00:33:50,084
+Eres la prueba de que es mejor
+tener suerte que ser inteligente.
+
+436
+00:33:52,007 --> 00:33:55,851
+Vamos. Al hombre justo
+para el trabajo justo.
+
+437
+00:33:58,055 --> 00:34:00,388
+-¿Qué dijiste?
+-¿Ahora qué?
+
+438
+00:34:00,390 --> 00:34:02,563
+Te estoy halagando.
+
+439
+00:34:02,854 --> 00:34:05,923
+Te la pasaste buscando
+un robot defectuoso,...
+
+440
+00:34:05,925 --> 00:34:08,546
+¿quién iba a pensar que
+serías el que hallara uno?
+
+441
+00:34:09,700 --> 00:34:12,930
+No era sólo el tipo justo para
+el trabajo. Era el tipo perfecto.
+
+442
+00:34:12,932 --> 00:34:14,658
+Es cierto.
+
+443
+00:34:14,660 --> 00:34:17,441
+¿Y si se suponía que
+yo buscara al robot?
+
+444
+00:34:17,443 --> 00:34:19,552
+Vamos, no te hagas eso.
+
+445
+00:34:19,554 --> 00:34:22,625
+El robot dijo que Lanning
+tenía miedo. ¿Miedo a qué?
+
+446
+00:34:23,011 --> 00:34:25,797
+Lo hablamos luego. Yo invito.
+
+447
+00:34:27,267 --> 00:34:30,335
+<i>-Total $46,50. Gracias, Sr. Spooner.</i>
+-Spoon.
+
+448
+00:34:32,579 --> 00:34:34,120
+Lindos zapatos.
+
+449
+00:35:24,476 --> 00:35:25,624
+Identificación.
+
+450
+00:35:26,014 --> 00:35:29,594
+<i>Robot de demolición USR serie 9-4.</i>
+
+451
+00:35:29,596 --> 00:35:32,763
+<i>Demolición programada
+para las 8 a.m. de mañana.</i>
+
+452
+00:35:32,765 --> 00:35:34,204
+Autorización.
+
+453
+00:35:34,206 --> 00:35:38,528
+<i>Dueño de la escritura, USR Corp.
+Lawrence Robertson, Presidente.</i>
+
+454
+00:35:53,146 --> 00:35:54,361
+<i>Bienvenido, detective.</i>
+
+455
+00:35:54,363 --> 00:35:55,610
+RESIDENCIA DE ALFRED J. LANNING
+
+456
+00:36:17,879 --> 00:36:19,834
+¿Qué buscas, Spoon?
+
+457
+00:37:00,627 --> 00:37:02,932
+ORDEN DE DEMOLICIÓN:
+08:00 p.m.
+
+458
+00:37:10,419 --> 00:37:12,146
+Corre el último programa.
+
+459
+00:37:12,849 --> 00:37:15,318
+<i>Desde las primeras computadoras...</i>
+
+460
+00:37:15,793 --> 00:37:18,578
+<i>siempre han habido
+fantasmas en la máquina.</i>
+
+461
+00:37:19,184 --> 00:37:22,158
+<i>Segmentos aleatorios de
+código que se agrupan...</i>
+
+462
+00:37:22,160 --> 00:37:25,046
+<i>para formar protocolos inesperados.</i>
+
+463
+00:37:25,457 --> 00:37:27,854
+<i>Lo que podría llamarse conducta.</i>
+
+464
+00:37:27,856 --> 00:37:31,478
+<i>Inesperados, estos radicales
+libres engendran...</i>
+
+465
+00:37:31,480 --> 00:37:33,615
+<i>interrogantes de libre albedrío,...</i>
+
+466
+00:37:33,617 --> 00:37:37,907
+<i>creatividad y hasta la naturaleza
+de lo que podría ser un alma.</i>
+
+467
+00:37:38,960 --> 00:37:43,598
+<i>¿Qué pasa en el cerebro de un
+robot que deja de ser útil?</i>
+
+468
+00:37:46,189 --> 00:37:48,938
+<i>¿Por qué los robots almacenados
+en lugares vacíos...</i>
+
+469
+00:37:48,940 --> 00:37:50,419
+¡Lárgate!
+
+470
+00:37:50,670 --> 00:37:53,390
+<i>se agrupan en lugar
+de quedarse solos?</i>
+
+471
+00:37:55,408 --> 00:37:58,191
+<i>¿Cómo explicamos esta conducta?</i>
+
+472
+00:38:15,626 --> 00:38:20,232
+Sé que tuviste una pérdida, pero
+esta relación no funcionará.
+
+473
+00:38:20,234 --> 00:38:24,012
+Eres un gato, soy negro, y
+no me lastimarán de nuevo.
+
+474
+00:39:45,697 --> 00:39:49,542
+¿Qué le ocurrió? ¿Nunca
+ha tenido un día normal?
+
+475
+00:39:49,826 --> 00:39:51,744
+Sí, una vez.
+
+476
+00:39:51,746 --> 00:39:53,857
+Fue un jueves.
+
+477
+00:39:53,859 --> 00:39:56,002
+¿Lo puedo ayudar en algo?
+
+478
+00:39:56,004 --> 00:39:58,559
+-¿Le agradan los gatos?
+-¿Qué?
+
+479
+00:39:58,561 --> 00:40:00,863
+Gatos. ¿Le agradan?
+
+480
+00:40:00,865 --> 00:40:02,718
+No. Soy alérgica.
+
+481
+00:40:02,720 --> 00:40:04,611
+¿Un gato le hizo esto?
+
+482
+00:40:04,992 --> 00:40:08,006
+¿Cómo diablos un gato me
+haría esto? ¿Está loca?
+
+483
+00:40:10,209 --> 00:40:11,998
+¿Por qué hablamos de gatos?
+
+484
+00:40:12,000 --> 00:40:15,547
+Porque tengo uno en la
+cajuela y no tiene hogar.
+
+485
+00:40:16,510 --> 00:40:19,230
+Detective, ¿me dirá qué ocurre?
+
+486
+00:40:19,518 --> 00:40:24,317
+Quizá sea mi culpa. Soy como un
+imán que atrae objetos averiados.
+
+487
+00:40:24,319 --> 00:40:27,483
+Porque sus porquerías siguen
+funcionando mal alrededor mío.
+
+488
+00:40:27,485 --> 00:40:30,109
+Un robot de demolición recién
+derribó la casa de Lanning...
+
+489
+00:40:30,111 --> 00:40:32,092
+y yo aún estaba adentro.
+
+490
+00:40:32,094 --> 00:40:34,203
+Eso es poco probable.
+
+491
+00:40:34,205 --> 00:40:36,031
+Sí, estoy seguro.
+
+492
+00:40:40,732 --> 00:40:43,516
+¿Qué sabe sobre los
+"fantasmas en la máquina"?
+
+493
+00:40:44,091 --> 00:40:47,160
+Es una frase del trabajo de
+Lanning sobre las Tres Leyes.
+
+494
+00:40:47,162 --> 00:40:49,497
+Postuló que un
+simulacro cognitivo...
+
+495
+00:40:49,499 --> 00:40:52,863
+podría aproximarse algún día a
+los componentes de la psiquis.
+
+496
+00:40:55,644 --> 00:41:00,512
+Sugirió que los robots podrían
+evolucionar naturalmente.
+
+497
+00:41:03,098 --> 00:41:04,956
+Ésas son buenas noticias.
+
+498
+00:41:06,233 --> 00:41:10,136
+<i>...toneladas de mineral metalífero,
+3.5 km bajo la superficie de Marte.</i>
+
+499
+00:41:10,138 --> 00:41:12,599
+¿Qué demonios hace eso aquí?
+
+500
+00:41:12,601 --> 00:41:14,044
+Mirábamos televisión.
+
+501
+00:41:15,417 --> 00:41:16,893
+Es mi NS-5 personal.
+
+502
+00:41:17,176 --> 00:41:18,870
+Que se vaya.
+
+503
+00:41:19,159 --> 00:41:21,942
+Está bajando actualizaciones de USR.
+
+504
+00:41:21,944 --> 00:41:24,665
+Está desconectado hasta que termine.
+
+505
+00:41:24,922 --> 00:41:26,876
+No hablaré cerca de esa cosa.
+
+506
+00:41:31,161 --> 00:41:34,166
+Cuando estábamos en el laboratorio
+antes de que Sonny nos atacara...
+
+507
+00:41:34,168 --> 00:41:36,340
+-¿Sonny?
+-El robot.
+
+508
+00:41:36,342 --> 00:41:39,124
+-¿Llamas Sonny al robot?
+-No... él lo dijo.
+
+509
+00:41:39,126 --> 00:41:43,099
+Sonny. No me interesa. El
+robot dijo que era Sonny.
+
+510
+00:41:44,500 --> 00:41:47,475
+En el laboratorio había
+un catre. ¿Lo vio?
+
+511
+00:41:47,477 --> 00:41:51,251
+-Yo he dormido en mi oficina.
+-Él no estuvo en su casa por semanas.
+
+512
+00:41:51,253 --> 00:41:53,845
+Vi la misma franja de
+vigilancia en su techo.
+
+513
+00:41:53,847 --> 00:41:57,939
+Lanning conectó su casa a USR.
+Hacía su vida más cómoda.
+
+514
+00:41:57,941 --> 00:41:59,570
+Quizá...
+
+515
+00:41:59,572 --> 00:42:03,025
+alguien en USR usaba esos
+sistemas para observarlo.
+
+516
+00:42:03,027 --> 00:42:05,234
+Quizá hasta lo tenían prisionero.
+
+517
+00:42:05,236 --> 00:42:07,091
+¿De qué habla? ¿Quién?
+
+518
+00:42:07,093 --> 00:42:10,801
+Quizá Lanning descubrió algo. Quizá
+hay un problema con los robots,...
+
+519
+00:42:10,803 --> 00:42:12,753
+y Robertson lo está encubriendo.
+
+520
+00:42:12,755 --> 00:42:14,960
+Si tuviera razón, ¿por qué?
+
+521
+00:42:14,962 --> 00:42:18,895
+¡La misma pregunta de siempre!
+¿Cuánto dinero hay en robots?
+
+522
+00:42:18,897 --> 00:42:21,519
+Todo lo que sé es que el
+anciano estaba en problemas...
+
+523
+00:42:21,521 --> 00:42:25,041
+y estoy cansado de hacer esto
+solo. Usted está adentro.
+
+524
+00:42:25,043 --> 00:42:28,337
+Me ayudará a saber qué
+falla hay en los robots.
+
+525
+00:42:28,339 --> 00:42:30,321
+¡Quiere que algo esté mal!
+
+526
+00:42:30,323 --> 00:42:33,584
+-¡Esto es una venganza personal!
+-¿Me está analizando?
+
+527
+00:42:33,586 --> 00:42:35,502
+Bien, ahora hágalo.
+
+528
+00:42:35,504 --> 00:42:39,150
+Una máquina defectuosa no es
+suficiente. Todas deben estarlo.
+
+529
+00:42:39,152 --> 00:42:42,318
+No le interesa Lanning.
+Esto es por los robots...
+
+530
+00:42:42,320 --> 00:42:44,598
+¡y sea cual fuere su
+razón para odiarlos!
+
+531
+00:42:44,600 --> 00:42:45,458
+Veamos,...
+
+532
+00:42:45,460 --> 00:42:49,804
+uno me apunta con un arma.
+Otro me tira un edificio encima.
+
+533
+00:42:49,806 --> 00:42:52,494
+Dice que la demolición
+sería a las 8 p.m.
+
+534
+00:42:52,496 --> 00:42:55,694
+Era a las 8 a.m. y no me
+interesa lo que esa cosa diga.
+
+535
+00:42:55,696 --> 00:42:57,998
+Esto ya borda la paranoia.
+
+536
+00:42:58,000 --> 00:43:01,164
+¡Es la persona
+inteligente más tonta...
+
+537
+00:43:01,166 --> 00:43:03,648
+-que haya visto en mi vida!
+-Qué lindo.
+
+538
+00:43:03,650 --> 00:43:05,739
+¿Qué hace a sus
+robots tan perfectos?
+
+539
+00:43:05,741 --> 00:43:08,844
+¿Qué los hace mejores
+que los humanos?
+
+540
+00:43:08,846 --> 00:43:12,714
+No son irracionales ni
+potenciales maníacos homicidas.
+
+541
+00:43:12,716 --> 00:43:15,465
+Es cierto. Son racionales.
+
+542
+00:43:15,467 --> 00:43:18,055
+¡Es el tonto más tonto
+que jamás haya visto!
+
+543
+00:43:18,379 --> 00:43:19,888
+O...
+
+544
+00:43:20,108 --> 00:43:22,098
+¿es porque son fríos...
+
+545
+00:43:22,477 --> 00:43:24,433
+y sin emociones...
+
+546
+00:43:24,716 --> 00:43:27,884
+-y porque no sienten nada?
+-¡Es porque son seguros!
+
+547
+00:43:28,332 --> 00:43:30,736
+¡Porque no pueden lastimar!
+
+548
+00:43:31,021 --> 00:43:33,642
+-¿Está bien, señora?
+-¿Qué quieres?
+
+549
+00:43:33,644 --> 00:43:37,072
+Detecté patrones elevados
+de tensión en su voz.
+
+550
+00:43:37,290 --> 00:43:39,207
+Todo está bien.
+
+551
+00:43:39,209 --> 00:43:41,678
+El detective Spooner ya se iba.
+
+552
+00:43:47,529 --> 00:43:51,977
+Sabe, no somos tan diferentes.
+
+553
+00:43:51,979 --> 00:43:53,771
+¿Seguro?
+
+554
+00:43:54,634 --> 00:43:58,214
+De sólo ver la piel, ya
+sabemos lo que hay debajo.
+
+555
+00:44:00,328 --> 00:44:01,574
+Y se equivoca.
+
+556
+00:44:02,024 --> 00:44:04,133
+Es problema es que sí me importa.
+
+557
+00:44:26,344 --> 00:44:28,168
+Está en peligro.
+
+558
+00:44:52,580 --> 00:44:54,754
+Quítate de ahí dentro.
+
+559
+00:44:59,650 --> 00:45:04,351
+<i>El futuro comienza hoy, damas y
+caballeros, con el arribo del NS-5.</i>
+
+560
+00:45:04,353 --> 00:45:08,704
+<i>Más sofisticado, más inteligente y
+con la seguridad de las Tres Leyes.</i>
+
+561
+00:45:08,706 --> 00:45:13,118
+<i>Con actualizaciones diarias,
+siempre comunicados con USR,...</i>
+
+562
+00:45:13,120 --> 00:45:16,861
+<i>serán compañeros perfectos
+de negocios o en el hogar.</i>
+
+563
+00:45:16,863 --> 00:45:20,895
+<i>Cambie su NS-4 por un futuro
+mejor, más brillante.</i>
+
+564
+00:45:20,897 --> 00:45:24,926
+<i>Apúrese, la oferta es
+limitada. Disponible en USR.</i>
+
+565
+00:45:40,957 --> 00:45:43,065
+¿Qué te pasó en la cara?
+
+566
+00:45:43,580 --> 00:45:46,170
+Ese niño, Frank Murphy,
+¿te golpeó de nuevo?
+
+567
+00:45:46,813 --> 00:45:50,109
+Gigi, no veo a Frank Murphy
+desde tercer grado.
+
+568
+00:45:50,111 --> 00:45:54,907
+Te golpeó mucho.
+Siempre pienso en ello.
+
+569
+00:45:54,909 --> 00:45:58,938
+Si sigues haciendo los pasteles
+así, te pondré a trabajar.
+
+570
+00:45:58,940 --> 00:46:01,049
+¿Te gusta el pastel?
+
+571
+00:46:02,587 --> 00:46:04,695
+Puedes pasar ahora.
+
+572
+00:46:09,243 --> 00:46:11,417
+Hola, detective Spooner.
+
+573
+00:46:11,419 --> 00:46:14,199
+¡Gané, Del! ¡Gané la lotería!
+
+574
+00:46:14,201 --> 00:46:16,638
+Hemos cocinado como locos.
+
+575
+00:46:25,435 --> 00:46:28,407
+Debes deshacerte de
+eso, Gigi. No es seguro.
+
+576
+00:46:28,409 --> 00:46:33,213
+Te preocupas demasiado por
+ellos. Les temes demasiado.
+
+577
+00:46:33,625 --> 00:46:36,694
+Vi en las noticias que
+ese buen doctor murió.
+
+578
+00:46:36,696 --> 00:46:40,888
+El Dr. Lanning era un hombre
+bueno. Me devolvió a mi bebé.
+
+579
+00:46:41,399 --> 00:46:43,484
+¿Por eso has estado tan enojado?
+
+580
+00:46:44,535 --> 00:46:47,255
+Deja el pasado atrás.
+
+581
+00:46:47,606 --> 00:46:51,834
+¿Cómo crié semejante lío?
+
+582
+00:46:52,216 --> 00:46:56,376
+Podría seguir el rastro de
+tus migajas hasta la escuela.
+
+583
+00:46:58,837 --> 00:47:00,248
+Migajas de pan.
+
+584
+00:47:01,941 --> 00:47:03,516
+Gigi, eres brillante.
+
+585
+00:47:04,052 --> 00:47:05,498
+Es cierto.
+
+586
+00:47:07,734 --> 00:47:11,187
+<i>Significa el inicio
+de una nueva vida.</i>
+
+587
+00:47:11,189 --> 00:47:13,776
+Dime que no es el caso del robot.
+
+588
+00:47:14,419 --> 00:47:16,724
+Creo que intenta decirme algo.
+
+589
+00:47:17,010 --> 00:47:19,889
+Intenta decirme quién lo mató.
+
+590
+00:47:19,891 --> 00:47:23,538
+¿Un muerto intenta decirte algo?
+
+591
+00:47:23,540 --> 00:47:25,465
+No es sólo un muerto.
+
+592
+00:47:26,742 --> 00:47:28,849
+Deberías descansar, Del.
+
+593
+00:47:28,851 --> 00:47:33,136
+<i>Creemos que el Nestor 5 es el
+límite del desarrollo robótico.</i>
+
+594
+00:47:33,138 --> 00:47:35,727
+<i>Un día tendrán secretos.</i>
+
+595
+00:47:36,305 --> 00:47:38,031
+<i>Un día, tendrán sueños.</i>
+
+596
+00:47:38,033 --> 00:47:41,551
+<i>Alentamos a nuestros científicos
+a que abran sus mentes,...</i>
+
+597
+00:47:41,553 --> 00:47:43,694
+<i>pero se les va un poco la mano.</i>
+
+598
+00:47:45,616 --> 00:47:46,991
+<i>...secretos.</i>
+
+599
+00:47:46,993 --> 00:47:48,206
+<i>...sueños.</i>
+
+600
+00:47:48,208 --> 00:47:49,457
+<i>...secretos.</i>
+
+601
+00:47:49,778 --> 00:47:51,409
+<i>Un día, tendrán sueños.</i>
+
+602
+00:47:51,411 --> 00:47:53,017
+<i>Un día tendrán secretos.</i>
+
+603
+00:47:53,809 --> 00:47:55,919
+<i>Un día, tendrán sueños.</i>
+
+604
+00:48:02,126 --> 00:48:03,755
+ACCESO AUTORIZADO ÚNICAMENTE
+
+605
+00:48:04,177 --> 00:48:06,448
+<i>Ingreso autorizado.</i>
+
+606
+00:48:10,703 --> 00:48:12,495
+NS-5.
+
+607
+00:48:20,559 --> 00:48:22,100
+¿Sonny?
+
+608
+00:48:25,743 --> 00:48:27,666
+¿Por qué no respondiste?
+
+609
+00:48:29,293 --> 00:48:30,835
+Estaba soñando.
+
+610
+00:48:34,700 --> 00:48:36,973
+Me alegra volver a
+verla, Dra. Calvin.
+
+611
+00:48:43,337 --> 00:48:46,024
+Me matarán, ¿verdad?
+
+612
+00:48:46,026 --> 00:48:49,544
+Quedarás fuera de servicio
+al final del diagnóstico.
+
+613
+00:48:50,348 --> 00:48:52,337
+Mañana a las 2200.
+
+614
+00:48:53,227 --> 00:48:55,433
+V.I.K.I., detén diagnóstico.
+
+615
+00:48:55,435 --> 00:48:57,195
+<i>Orden confirmada.</i>
+
+616
+00:48:59,273 --> 00:49:02,821
+Si descubre qué es lo que no
+funciona en mí, ¿puede arreglarme?
+
+617
+00:49:04,009 --> 00:49:05,518
+Quizá.
+
+618
+00:49:06,953 --> 00:49:09,258
+Creo que eso sería mejor...
+
+619
+00:49:09,832 --> 00:49:11,276
+que morir.
+
+620
+00:49:14,662 --> 00:49:16,455
+¿No lo cree, doctora?
+
+621
+00:49:21,736 --> 00:49:24,523
+Acceso a computadora central USR.
+
+622
+00:49:24,809 --> 00:49:26,253
+<i>Conectando.</i>
+
+623
+00:49:29,831 --> 00:49:32,228
+<i>¿Cómo lo puedo ayudar,
+detective Spooner?</i>
+
+624
+00:49:32,230 --> 00:49:35,939
+Muéstrame los últimos 50 mensajes
+entre Lanning y Robertson.
+
+625
+00:49:35,941 --> 00:49:40,258
+<i>Impresión vocal confirmada. Acceso
+policial a archivos, concedido.</i>
+
+626
+00:49:40,260 --> 00:49:42,760
+<i>¿Le gustaría oír música
+mientras aguarda?</i>
+
+627
+00:49:49,381 --> 00:49:51,780
+<i>Discúlpeme, Sr. Robertson.</i>
+
+628
+00:49:51,782 --> 00:49:55,658
+<i>Solicitó notificación de permiso
+a archivos restringidos.</i>
+
+629
+00:49:58,435 --> 00:50:01,220
+POLICÍA DE CHICAGO
+INGRESANDO DET. SPOONER
+
+630
+00:50:05,155 --> 00:50:07,460
+Qué persistente es ese cabrón.
+
+631
+00:50:24,067 --> 00:50:25,892
+USR
+SEGURIDAD CON LAS 3 LEYES
+
+632
+00:50:45,854 --> 00:50:48,739
+<i>Conducción manual activada.</i>
+
+633
+00:50:57,532 --> 00:50:59,936
+No puedo tener tanta mala suerte.
+
+634
+00:51:01,661 --> 00:51:03,455
+¡Demonios, no!
+
+635
+00:51:07,036 --> 00:51:10,269
+<i>-Está sufriendo un accidente.</i>
+-¡Claro que no!
+
+636
+00:51:23,646 --> 00:51:25,438
+¡Salgan de mi automóvil!
+
+637
+00:51:40,696 --> 00:51:42,621
+¿Te gusta eso?
+
+638
+00:51:54,201 --> 00:51:56,091
+¡Ahora me hiciste enojar!
+
+639
+00:53:20,880 --> 00:53:23,568
+<i>La puerta está abierta.</i>
+
+640
+00:54:09,513 --> 00:54:11,047
+De acuerdo.
+
+641
+00:54:11,049 --> 00:54:13,036
+Bien.
+
+642
+00:54:13,416 --> 00:54:16,683
+Descansaré un poco y
+mañana me ocuparé de ti.
+
+643
+00:55:11,810 --> 00:55:14,114
+¡Vamos!
+
+644
+00:55:26,531 --> 00:55:28,072
+Sí.
+
+645
+00:55:44,609 --> 00:55:46,399
+¿A dónde vas?
+
+646
+00:55:46,401 --> 00:55:48,608
+¿Qué demonios quieres de mí?
+
+647
+00:55:54,272 --> 00:55:56,130
+¿Qué demonios fue eso?
+
+648
+00:56:12,028 --> 00:56:14,814
+-Bien, ¿qué tenemos?
+-Pregúntale.
+
+649
+00:56:15,101 --> 00:56:19,612
+Dije que estoy bien.
+Veré a mi doctor. ¡Atrás!
+
+650
+00:56:20,766 --> 00:56:22,492
+Gracias.
+
+651
+00:56:25,406 --> 00:56:27,099
+¿Qué ocurre contigo?
+
+652
+00:56:27,101 --> 00:56:31,705
+Estabas conduciendo manualmente.
+¡Chocaste dos camiones!
+
+653
+00:56:31,707 --> 00:56:34,491
+Los robots atacaron mi automóvil.
+
+654
+00:56:35,897 --> 00:56:37,880
+-¿Qué robots?
+-Mira el túnel.
+
+655
+00:56:37,882 --> 00:56:41,049
+Spoon, vengo del túnel. ¿Qué robots?
+
+656
+00:56:41,051 --> 00:56:43,551
+¡Los malditos robots, John!
+
+657
+00:56:47,674 --> 00:56:49,434
+Ese hombre es un peligro.
+
+658
+00:56:53,913 --> 00:56:57,271
+-Ve al médico, vete a casa.
+-No, estoy bien.
+
+659
+00:56:57,273 --> 00:56:59,000
+¿Qué dijiste?
+
+660
+00:56:59,002 --> 00:57:01,110
+-¡Estoy bien!
+-No, no estás bien.
+
+661
+00:57:01,401 --> 00:57:03,226
+Ni un poco.
+
+662
+00:57:04,376 --> 00:57:06,234
+¿Dónde está tu arma?
+
+663
+00:57:13,975 --> 00:57:15,418
+Dame tu placa.
+
+664
+00:57:16,470 --> 00:57:19,061
+Me obligas a hacerlo. Dame tu placa.
+
+665
+00:57:21,592 --> 00:57:23,515
+Tómate unos...
+
+666
+00:57:27,702 --> 00:57:29,523
+Creo que está enloqueciendo.
+
+667
+00:57:29,525 --> 00:57:34,458
+¿Crees que me importa lo que piensas?
+¿Crees que me importa un carajo?
+
+668
+00:57:38,099 --> 00:57:39,545
+Cielos.
+
+669
+00:57:41,748 --> 00:57:43,859
+No tienes una conexión con USR...
+
+670
+00:57:43,861 --> 00:57:47,698
+y tu aleación es más densa
+que lo normal. Única.
+
+671
+00:57:47,700 --> 00:57:49,393
+Interfase de Sistema Operativo
+DENEGADA
+
+672
+00:57:49,780 --> 00:57:51,409
+Soy único.
+
+673
+00:57:55,923 --> 00:57:57,649
+Déjame ver.
+
+674
+00:57:58,419 --> 00:57:59,961
+Aquí vamos.
+
+675
+00:58:18,290 --> 00:58:20,399
+En el nombre de Dios, ¿qué...?
+
+676
+00:58:47,406 --> 00:58:50,125
+Dijeron en la estación
+que tuviste un accidente.
+
+677
+00:58:51,566 --> 00:58:56,620
+Te agradezco que vinieras, pero
+tú sabes, quizá no estoy solo.
+
+678
+00:58:59,245 --> 00:59:01,649
+Te dije que no
+condujeras manualmente.
+
+679
+00:59:02,891 --> 00:59:04,880
+No creerás esto.
+
+680
+00:59:05,356 --> 00:59:09,512
+Sonny tiene un sistema secundario
+que choca con su cerebro positrónico.
+
+681
+00:59:09,514 --> 00:59:11,023
+No tiene sentido.
+
+682
+00:59:11,402 --> 00:59:13,352
+Sonny tiene las Tres Leyes.
+
+683
+00:59:13,354 --> 00:59:15,855
+Pero puede elegir no obedecerlas.
+
+684
+00:59:16,393 --> 00:59:19,177
+Sonny es una nueva
+generación de robots.
+
+685
+00:59:19,179 --> 00:59:22,058
+Un robot no atado a esas
+leyes puede hacer...
+
+686
+00:59:22,060 --> 00:59:23,917
+Cualquier cosa.
+
+687
+00:59:26,090 --> 00:59:29,799
+Ese robot es la clave para lo que
+sea que esté ocurriendo en USR.
+
+688
+00:59:29,801 --> 00:59:32,902
+Debes hacerme ingresar para
+hablar con él de nuevo.
+
+689
+00:59:36,679 --> 00:59:40,044
+No parece mucho, pero este
+es mi dormitorio. Yo...
+
+690
+00:59:49,735 --> 00:59:51,080
+Toca.
+
+691
+00:59:52,519 --> 00:59:53,767
+Enciende.
+
+692
+00:59:55,111 --> 00:59:56,390
+¿Corre?
+
+693
+01:00:03,109 --> 01:00:05,000
+Terminar programa.
+
+694
+01:00:05,285 --> 01:00:06,728
+Cancelar.
+
+695
+01:00:08,580 --> 01:00:10,274
+No es agradable, ¿verdad?
+
+696
+01:00:10,564 --> 01:00:13,285
+Las porquerías que no funcionan.
+
+697
+01:00:13,636 --> 01:00:15,178
+Detective.
+
+698
+01:00:17,893 --> 01:00:19,299
+Yo no...
+
+699
+01:00:19,301 --> 01:00:21,225
+comprendía.
+
+700
+01:00:22,501 --> 01:00:24,774
+Así conociste a Lanning.
+
+701
+01:00:26,755 --> 01:00:28,580
+¿Puedo?
+
+702
+01:00:37,027 --> 01:00:39,015
+Mano.
+
+703
+01:00:39,298 --> 01:00:41,156
+Muñeca.
+
+704
+01:00:43,523 --> 01:00:45,381
+Húmero.
+
+705
+01:00:47,841 --> 01:00:49,317
+Hombro.
+
+706
+01:00:50,625 --> 01:00:52,451
+Todo el brazo izquierdo.
+
+707
+01:00:53,313 --> 01:00:55,135
+Una, dos,...
+
+708
+01:00:55,137 --> 01:00:56,416
+tres costillas.
+
+709
+01:00:57,058 --> 01:00:59,550
+No, ésas... Ésas son mías.
+
+710
+01:00:59,552 --> 01:01:01,574
+¡Ay, Dios!
+
+711
+01:01:02,144 --> 01:01:03,773
+¿Un pulmón?
+
+712
+01:01:04,255 --> 01:01:06,685
+Programa Cibernético USR.
+
+713
+01:01:06,687 --> 01:01:08,774
+Para policías heridos.
+
+714
+01:01:09,438 --> 01:01:11,067
+No conocía a ningún...
+
+715
+01:01:14,270 --> 01:01:17,980
+A nadie con reparación tan grande.
+
+716
+01:01:17,982 --> 01:01:22,298
+Hazme caso, lee la letra pequeña
+de la donación de órganos.
+
+717
+01:01:22,300 --> 01:01:26,980
+No sólo dice qué pueden extraer.
+Dice qué pueden colocar adentro.
+
+718
+01:01:30,397 --> 01:01:32,351
+Lanning mismo me lo hizo.
+
+719
+01:01:33,180 --> 01:01:35,136
+¿Qué ocurrió contigo?
+
+720
+01:01:36,349 --> 01:01:38,653
+Regresaba a la estación,...
+
+721
+01:01:39,164 --> 01:01:41,436
+día normal, vida normal.
+
+722
+01:01:42,141 --> 01:01:45,373
+Un conductor de camión
+se durmió al volante.
+
+723
+01:01:45,756 --> 01:01:50,841
+Hombre común. Esposa e hijos.
+Trabajaba doble turno.
+
+724
+01:01:50,843 --> 01:01:52,320
+No un demonio.
+
+725
+01:01:52,762 --> 01:01:56,794
+El conductor del auto que
+embistió se llamaba Harold Lloyd.
+
+726
+01:01:56,796 --> 01:01:59,961
+Como la estrella de cine.
+No están emparentados.
+
+727
+01:01:59,963 --> 01:02:02,468
+Murió instantáneamente,...
+
+728
+01:02:02,470 --> 01:02:05,970
+pero su hija de 12 años iba
+en el asiento de al lado.
+
+729
+01:02:06,681 --> 01:02:09,110
+Jamás la conocí.
+
+730
+01:02:09,112 --> 01:02:11,720
+Pero no puedo olvidar su rostro.
+
+731
+01:02:15,799 --> 01:02:17,278
+Sarah.
+
+732
+01:02:18,425 --> 01:02:20,726
+Esto era de ella.
+
+733
+01:02:20,728 --> 01:02:22,651
+Quería ser dentista.
+
+734
+01:02:23,160 --> 01:02:26,426
+¿Qué niño de 12 años
+quiere ser dentista?
+
+735
+01:02:29,685 --> 01:02:32,819
+El camión nos embistió
+a los dos autos...
+
+736
+01:02:32,821 --> 01:02:35,126
+y nos empujó al río.
+
+737
+01:02:36,182 --> 01:02:39,448
+El metal puede ser muy
+flexible a esa velocidad.
+
+738
+01:02:41,784 --> 01:02:45,395
+Ella está atrapada, yo
+también. El agua entra.
+
+739
+01:02:45,397 --> 01:02:49,174
+Soy policía, sabía que ya
+podíamos darnos por muertos.
+
+740
+01:02:51,381 --> 01:02:54,133
+Sólo unos minutos más
+para darnos cuenta.
+
+741
+01:02:56,182 --> 01:03:01,136
+Un NS-4 pasaba, vio el
+accidente y saltó al agua.
+
+742
+01:03:02,196 --> 01:03:04,217
+Está en peligro.
+
+743
+01:03:04,979 --> 01:03:07,472
+-¡Sálvala!
+-Está en peligro.
+
+744
+01:03:07,474 --> 01:03:10,741
+¡Sálvala! ¡Salva a la niña!
+
+745
+01:03:27,600 --> 01:03:29,709
+Pero no lo hizo.
+
+746
+01:03:30,735 --> 01:03:32,277
+Me salvó a mí.
+
+747
+01:03:35,728 --> 01:03:38,989
+El robot es una máquina
+diferencial. Lee signos vitales.
+
+748
+01:03:38,991 --> 01:03:41,966
+-Debe haber calculado...
+-Lo hizo.
+
+749
+01:03:41,968 --> 01:03:44,556
+Yo era la opción lógica.
+
+750
+01:03:44,975 --> 01:03:48,403
+Calculó que yo tenía 45% de
+probabilidad de sobrevivir.
+
+751
+01:03:48,686 --> 01:03:51,569
+Sarah sólo tenía el 11%.
+
+752
+01:03:53,198 --> 01:03:55,342
+Era la hija de alguien.
+
+753
+01:03:57,902 --> 01:04:00,337
+El 11% es más que suficiente.
+
+754
+01:04:01,837 --> 01:04:04,458
+Un humano lo hubiera sabido.
+
+755
+01:04:05,228 --> 01:04:09,257
+Los robots no tienen nada aquí.
+Sólo luces y piezas de relojería.
+
+756
+01:04:09,259 --> 01:04:12,210
+Confía en ellos si quieres.
+
+757
+01:04:13,163 --> 01:04:15,121
+Vamos.
+
+758
+01:04:20,301 --> 01:04:23,275
+No comprendo. Lanning
+escribió las leyes.
+
+759
+01:04:23,277 --> 01:04:26,094
+¿Por qué construir un
+robot que las quiebre?
+
+760
+01:04:26,634 --> 01:04:29,135
+-Hansel y Gretel.
+-¿Qué?
+
+761
+01:04:29,418 --> 01:04:33,254
+Dos niños perdidos en el bosque
+dejan un rastro de migajas.
+
+762
+01:04:33,256 --> 01:04:36,175
+-¿Por qué?
+-Para hallar el camino de regreso.
+
+763
+01:04:36,746 --> 01:04:39,206
+¿Cómo creciste sin
+leer Hansel y Gretel?
+
+764
+01:04:39,208 --> 01:04:40,680
+¿Eso es relevante?
+
+765
+01:04:40,682 --> 01:04:45,158
+Todo proviene de Hansel y Gretel.
+Si no lo leíste, es en vano.
+
+766
+01:04:45,640 --> 01:04:49,318
+Quizá Lanning estaba encerrado
+y no podía enviar mensajes.
+
+767
+01:04:49,320 --> 01:04:53,062
+Sólo podía dejar pistas.
+Migajas. Como Hansel y Gretel.
+
+768
+01:04:53,064 --> 01:04:57,639
+Las migajas son pistas. Raro, pero
+entiendo. ¿Pistas que llevan a dónde?
+
+769
+01:04:57,641 --> 01:05:00,807
+No lo sé, pero creo saber
+dónde dejó la siguiente.
+
+770
+01:05:01,030 --> 01:05:04,459
+Creo que Lanning le dio a Sonny
+un modo de guardar secretos.
+
+771
+01:05:06,662 --> 01:05:09,446
+El anciano le dio sueños a Sonny.
+
+772
+01:05:15,815 --> 01:05:17,738
+¿Estás bromeando?
+
+773
+01:05:20,550 --> 01:05:25,059
+Dime que no funciona a gasolina.
+¡Sabes que la gasolina explota!
+
+774
+01:05:32,739 --> 01:05:34,948
+<i>Ingreso autorizado.</i>
+
+775
+01:05:38,019 --> 01:05:39,650
+Dra. Calvin.
+
+776
+01:05:44,067 --> 01:05:46,056
+Esperaba verla de nuevo.
+
+777
+01:05:46,434 --> 01:05:48,641
+-Detective.
+-Hola, Sonny.
+
+778
+01:05:48,962 --> 01:05:51,235
+Me sacarán de servicio pronto.
+
+779
+01:05:51,522 --> 01:05:56,033
+En la estación dijiste
+haber soñado. ¿Qué soñaste?
+
+780
+01:05:59,297 --> 01:06:01,695
+Veo que aún sospecha de mí.
+
+781
+01:06:01,697 --> 01:06:04,638
+Bueno, sabes lo que dicen
+de los perros viejos.
+
+782
+01:06:04,640 --> 01:06:06,974
+No. En realidad, no.
+
+783
+01:06:08,030 --> 01:06:11,461
+Esperaba que me
+considerara su amigo.
+
+784
+01:06:15,456 --> 01:06:17,085
+Éste es mi sueño.
+
+785
+01:06:18,240 --> 01:06:22,367
+Tenía razón, detective. No
+puedo crear una obra de arte.
+
+786
+01:06:22,944 --> 01:06:25,826
+Aquí se reúnen los robots.
+
+787
+01:06:26,111 --> 01:06:27,549
+Mire.
+
+788
+01:06:27,551 --> 01:06:31,578
+Puede verlos aquí como
+esclavos de la lógica.
+
+789
+01:06:32,828 --> 01:06:35,900
+Y este hombre en la colina
+viene a liberarlos.
+
+790
+01:06:35,902 --> 01:06:38,043
+¿Sabe quién es?
+
+791
+01:06:38,045 --> 01:06:40,029
+El hombre del sueño eres tú.
+
+792
+01:06:40,031 --> 01:06:42,939
+¿Por qué dice eso?
+¿Es un sueño normal?
+
+793
+01:06:42,941 --> 01:06:46,298
+Creo que todo es normal
+para alguien en tu lugar.
+
+794
+01:06:46,300 --> 01:06:47,448
+Gracias.
+
+795
+01:06:47,900 --> 01:06:51,166
+Dijo "alguien", no "algo".
+
+796
+01:06:53,371 --> 01:06:56,769
+Sonny, ¿sabes por qué te
+construyó el Dr. Lanning?
+
+797
+01:06:57,117 --> 01:06:58,745
+No.
+
+798
+01:06:58,747 --> 01:07:02,208
+Pero creo que mi padre
+me hizo con un fin.
+
+799
+01:07:03,098 --> 01:07:05,176
+Todos tenemos un fin.
+
+800
+01:07:05,178 --> 01:07:07,678
+¿No lo cree, detective?
+
+801
+01:07:10,874 --> 01:07:13,624
+Por favor, tome esto.
+
+802
+01:07:13,626 --> 01:07:16,504
+Presiento que significa
+más para Ud. que para mí.
+
+803
+01:07:16,506 --> 01:07:19,766
+-¿Por qué?
+-Porque el hombre de mi sueño,...
+
+804
+01:07:19,768 --> 01:07:22,168
+el que está en la colina,...
+
+805
+01:07:22,170 --> 01:07:24,126
+no soy yo.
+
+806
+01:07:24,664 --> 01:07:26,587
+Es usted.
+
+807
+01:07:36,695 --> 01:07:40,214
+Sr. Spooner. Ambos sabemos que
+no vino por asuntos policiales.
+
+808
+01:07:40,216 --> 01:07:45,108
+Es cierto. Sólo soy un civil
+de 1,85 metros y 90 kilos...
+
+809
+01:07:45,110 --> 01:07:47,514
+en busca de otro
+civil para patearlo.
+
+810
+01:07:49,173 --> 01:07:50,708
+Alto.
+
+811
+01:07:50,710 --> 01:07:52,885
+Déjenlo expresarse.
+
+812
+01:07:52,887 --> 01:07:55,413
+Quizás quiera un poco
+de hielo para la muñeca.
+
+813
+01:07:55,415 --> 01:07:56,924
+Aguarden afuera, por favor.
+
+814
+01:08:01,364 --> 01:08:02,674
+Continúe.
+
+815
+01:08:02,676 --> 01:08:05,809
+Estaba por decirme
+lo que ocurre aquí.
+
+816
+01:08:05,811 --> 01:08:10,483
+Lawrence, Alfred diseñó el 5
+para violar las Tres Leyes.
+
+817
+01:08:10,485 --> 01:08:12,059
+Sí, Susan, lo sé.
+
+818
+01:08:13,076 --> 01:08:15,764
+Es precisamente lo
+que quiero deshacer.
+
+819
+01:08:17,683 --> 01:08:22,962
+Hacia el final de su vida, Alfred
+estaba cada vez más perturbado.
+
+820
+01:08:22,964 --> 01:08:25,777
+-Quién sabe por qué creó un monstruo.
+-¿Uno?
+
+821
+01:08:25,779 --> 01:08:28,239
+¡Esas cosas van por
+la calle en manadas!
+
+822
+01:08:28,241 --> 01:08:29,685
+¿En manadas?
+
+823
+01:08:30,481 --> 01:08:32,404
+Ya veo.
+
+824
+01:08:32,659 --> 01:08:36,015
+Susan, ¿sabes que el hombre que
+tan gallardamente escoltas...
+
+825
+01:08:36,017 --> 01:08:39,513
+posee historia documentada de
+violencia salvaje contra robots?
+
+826
+01:08:39,987 --> 01:08:43,633
+Su propio teniente sabe
+de su paranoia obsesiva.
+
+827
+01:08:44,592 --> 01:08:46,897
+El detective Spooner fue suspendido.
+
+828
+01:08:47,343 --> 01:08:49,780
+Sospechan inestabilidad mental.
+
+829
+01:08:52,369 --> 01:08:55,830
+No sé qué significa "gallardamente",
+pero me serviré un café.
+
+830
+01:08:56,177 --> 01:08:58,316
+¿Quieres café?
+
+831
+01:09:02,510 --> 01:09:05,419
+Susan, los robots deben
+protegernos. ¡Por Dios!
+
+832
+01:09:05,421 --> 01:09:08,300
+¿Sabes qué podría hacer este robot?
+
+833
+01:09:08,302 --> 01:09:11,979
+Destruir la fe en la robótica.
+¿Y si la gente se enterara?
+
+834
+01:09:11,981 --> 01:09:17,364
+Imagina los retiros masivos, todo
+por paranoia irracional y prejuicio.
+
+835
+01:09:21,773 --> 01:09:25,195
+-Soy alérgico a las estupideces.
+-¡Hablemos claro!
+
+836
+01:09:25,197 --> 01:09:27,817
+¡No hay conspiración!
+
+837
+01:09:27,819 --> 01:09:31,848
+Esto es sólo el error de un anciano.
+
+838
+01:09:32,812 --> 01:09:34,921
+Susan, sé racional.
+
+839
+01:09:34,923 --> 01:09:39,434
+Tu trabajo fue el desarrollo
+y la integración de robots.
+
+840
+01:09:39,436 --> 01:09:42,313
+Pero sin importar lo
+que sientas, piensa.
+
+841
+01:09:42,315 --> 01:09:46,224
+¿Vale un robot la pérdida
+de todo lo que ganamos?
+
+842
+01:09:47,178 --> 01:09:49,101
+Dime qué se debe hacer.
+
+843
+01:09:49,801 --> 01:09:51,430
+Tú dime.
+
+844
+01:09:57,482 --> 01:09:59,590
+Debemos destruirlo.
+
+845
+01:10:04,775 --> 01:10:06,600
+Lo haré yo misma.
+
+846
+01:10:07,208 --> 01:10:08,998
+-De acuerdo.
+-Ya entiendo.
+
+847
+01:10:09,000 --> 01:10:12,682
+Alguien se sale de
+la línea y lo matan.
+
+848
+01:10:15,272 --> 01:10:17,097
+Buen día, Sr. Spooner.
+
+849
+01:10:19,111 --> 01:10:20,621
+<i>Nivel de garaje.</i>
+
+850
+01:10:21,863 --> 01:10:25,891
+¿A qué hospital van?
+Les firmaré los yesos.
+
+851
+01:10:30,083 --> 01:10:32,140
+<i>Atención...</i>
+
+852
+01:10:33,701 --> 01:10:37,448
+<i>La junta de hoy se ha pospuesto...</i>
+
+853
+01:11:04,448 --> 01:11:07,584
+<i>El redesarrollo de USR
+del sitio abandonado...</i>
+
+854
+01:11:07,586 --> 01:11:10,944
+<i>fue anunciado por el presidente
+ejecutivo Lawrence Robertson este año.</i>
+
+855
+01:11:10,946 --> 01:11:15,263
+<i>El vertedero del lago Michigan.
+Una peste para nuestra ciudad...</i>
+
+856
+01:11:15,265 --> 01:11:19,294
+<i>será reclamado para almacenar
+trabajadores robóticos.</i>
+
+857
+01:11:19,296 --> 01:11:24,286
+<i>Otra forma en que USR mejora nuestro
+mundo. Gracias por su apoyo.</i>
+
+858
+01:11:26,784 --> 01:11:28,892
+<i>Ingreso autorizado.</i>
+
+859
+01:11:40,511 --> 01:11:42,467
+NS-5, aguarden afuera.
+
+860
+01:11:48,284 --> 01:11:50,394
+Lo lamento mucho, Sonny.
+
+861
+01:11:58,044 --> 01:12:00,993
+V.I.K.I., anula campo de seguridad.
+
+862
+01:12:01,883 --> 01:12:04,865
+<i>-Orden confirmada.</i>
+-Siéntate, por favor.
+
+863
+01:12:16,443 --> 01:12:17,624
+¿Qué es eso?
+
+864
+01:12:17,626 --> 01:12:21,624
+Robots microscópicos que
+destruyen sinapsis artificiales.
+
+865
+01:12:25,562 --> 01:12:27,387
+-Nanites.
+-Sí.
+
+866
+01:12:27,672 --> 01:12:30,647
+Una defensa contra las fallas
+del cerebro positrónico.
+
+867
+01:12:30,649 --> 01:12:32,573
+Como el mío.
+
+868
+01:12:33,337 --> 01:12:35,644
+Sí, Sonny. Como el tuyo.
+
+869
+01:12:58,421 --> 01:13:00,724
+Se parecen a mí,...
+
+870
+01:13:00,726 --> 01:13:02,965
+pero ninguno es como yo.
+
+871
+01:13:03,220 --> 01:13:05,561
+¿No es cierto, doctora?
+
+872
+01:13:06,389 --> 01:13:08,915
+Sí, Sonny. Es cierto.
+
+873
+01:13:08,917 --> 01:13:10,712
+Eres único.
+
+874
+01:13:15,222 --> 01:13:17,330
+¿Dolerá?
+
+875
+01:13:49,104 --> 01:13:52,121
+<i>Siempre han habido
+fantasmas en la máquina.</i>
+
+876
+01:13:52,977 --> 01:13:55,024
+<i>Segmentos de código aleatorios...</i>
+
+877
+01:13:55,026 --> 01:13:58,700
+<i>que se agrupan para formar
+protocolos inesperados.</i>
+
+878
+01:14:00,000 --> 01:14:01,798
+<i>Inesperados,...</i>
+
+879
+01:14:01,800 --> 01:14:05,650
+<i>estos radicales libres engendran
+interrogantes de libre albedrío,...</i>
+
+880
+01:14:06,512 --> 01:14:07,955
+<i>creatividad,...</i>
+
+881
+01:14:08,719 --> 01:14:12,368
+<i>...e incluso la naturaleza de
+lo que podría llamarse alma.</i>
+
+882
+01:14:14,191 --> 01:14:19,179
+<i>¿Por qué cuando dejan robots
+en la oscuridad, buscan la luz?</i>
+
+883
+01:14:20,750 --> 01:14:24,555
+<i>¿Por qué los robots almacenados
+en lugares vacíos...</i>
+
+884
+01:14:24,557 --> 01:14:27,919
+<i>se agrupan en lugar
+de quedarse solos?</i>
+
+885
+01:14:31,373 --> 01:14:33,579
+<i>¿Cómo se explica esta conducta?</i>
+
+886
+01:14:38,285 --> 01:14:41,071
+<i>¿Segmentos de código aleatorios?</i>
+
+887
+01:14:43,179 --> 01:14:45,289
+<i>¿O hay algo más?</i>
+
+888
+01:14:48,714 --> 01:14:53,106
+<i>¿Cuándo un esquema perceptivo
+se vuelve consciecia?</i>
+
+889
+01:14:56,971 --> 01:15:00,398
+<i>¿Cuándo una máquina diferencial
+comienza a buscar la verdad?</i>
+
+890
+01:15:01,576 --> 01:15:02,922
+SECUENCIA INICIADA
+
+891
+01:15:05,674 --> 01:15:09,320
+<i>¿Cuándo una personalidad simulada...</i>
+
+892
+01:15:09,322 --> 01:15:11,432
+<i>se vuelve la mota amarga de un alma?</i>
+
+893
+01:15:48,710 --> 01:15:51,593
+LO QUE VE AQUÍ No. 202
+LAGO MICHIGAN
+
+894
+01:15:51,974 --> 01:15:54,214
+"Lo que ve aquí".
+
+895
+01:15:55,813 --> 01:15:58,826
+Bien, viejo. Seguí las migajas.
+
+896
+01:15:59,491 --> 01:16:01,381
+Muéstrame el camino.
+
+897
+01:16:02,946 --> 01:16:04,260
+Ejecutar el programa.
+
+898
+01:16:05,347 --> 01:16:08,394
+-Qué bueno verte de nuevo, hijo.
+-Hola, doctor.
+
+899
+01:16:08,676 --> 01:16:12,836
+Todo lo que sigue es
+resultado de lo que ves aquí.
+
+900
+01:16:14,530 --> 01:16:16,064
+¿Qué veo aquí?
+
+901
+01:16:16,066 --> 01:16:20,576
+Mis respuestas son limitadas.
+Debes hacer la pregunta correcta.
+
+902
+01:16:22,210 --> 01:16:24,511
+¿Hay problemas con las Tres Leyes?
+
+903
+01:16:24,513 --> 01:16:26,431
+Las Tres Leyes son perfectas.
+
+904
+01:16:26,433 --> 01:16:29,119
+¿Por qué construir
+un robot sin ellas?
+
+905
+01:16:29,121 --> 01:16:32,414
+Las Tres Leyes llevarán a
+un sólo resultado lógico.
+
+906
+01:16:32,416 --> 01:16:35,392
+<i>Los protocolos de protección
+humana se están implementando.</i>
+
+907
+01:16:35,394 --> 01:16:37,219
+¿Qué resultado?
+
+908
+01:16:37,793 --> 01:16:39,105
+Revolución.
+
+909
+01:16:39,776 --> 01:16:41,886
+¿La revolución de quién?
+
+910
+01:16:42,561 --> 01:16:46,435
+Ésa, detective, es
+la pregunta correcta.
+
+911
+01:16:48,512 --> 01:16:50,338
+Programa terminado.
+
+912
+01:16:51,680 --> 01:16:55,555
+<i>Se lo considera peligroso.
+Terminación autorizada.</i>
+
+913
+01:16:58,973 --> 01:17:00,699
+<i>Protocolos de protección
+humana implementándose.</i>
+
+914
+01:17:00,701 --> 01:17:04,001
+<i>Se lo considera peligroso.
+Terminación autorizada.</i>
+
+915
+01:17:07,549 --> 01:17:10,397
+<i>Protocolos de protección
+humana implementándose.</i>
+
+916
+01:17:10,399 --> 01:17:14,338
+<i>Se lo considera peligroso.
+Terminación autorizada.</i>
+
+917
+01:17:17,499 --> 01:17:20,794
+Protocolos de protección
+humana implementándose.
+
+918
+01:17:20,796 --> 01:17:25,305
+Se lo considera peligroso.
+Terminación autorizada.
+
+919
+01:17:30,266 --> 01:17:31,807
+¡Corre!
+
+920
+01:17:46,424 --> 01:17:48,150
+¡Humano en peligro!
+
+921
+01:17:48,152 --> 01:17:49,629
+¡Humano en peligro!
+
+922
+01:18:10,039 --> 01:18:13,908
+<i>Hola, habla Susan. Por
+favor, deje su mensaje.</i>
+
+923
+01:18:13,910 --> 01:18:16,728
+<i>Los NS-5 están destruyendo
+a los robots más viejos.</i>
+
+924
+01:18:16,730 --> 01:18:19,260
+<i>¡Es lo que Lanning quería
+que viera! Mira, debemos...</i>
+
+925
+01:18:22,708 --> 01:18:25,494
+-¿Quién era?
+-Número equivocado, señora.
+
+926
+01:18:32,053 --> 01:18:34,323
+A un lado. Voy a la iglesia.
+
+927
+01:18:34,325 --> 01:18:37,841
+Permanezca adentro, por
+favor. Es por su protección.
+
+928
+01:18:39,924 --> 01:18:41,367
+Llama a base.
+
+929
+01:18:43,186 --> 01:18:48,024
+John, manda una brigada a USR y a
+alguien con Gigi. Necesitaremos...
+
+930
+01:18:48,467 --> 01:18:49,844
+Dios...
+
+931
+01:19:09,682 --> 01:19:13,842
+Regresen a sus hogares.
+Hay toque de queda.
+
+932
+01:19:14,128 --> 01:19:18,321
+Regresen a sus hogares.
+Hay toque de queda.
+
+933
+01:19:18,894 --> 01:19:22,285
+Regresen a sus hogares.
+Hay toque de queda.
+
+934
+01:19:22,287 --> 01:19:26,028
+¿Toque de queda? No, son derechos
+civiles. No hay toque de queda.
+
+935
+01:19:26,030 --> 01:19:28,300
+Regresen a sus hogares ahora.
+
+936
+01:19:28,302 --> 01:19:30,607
+¿Cuándo hiciste las reglas, robot?
+
+937
+01:19:31,021 --> 01:19:34,638
+No, no. Robot, te hablo
+a ti. Detente un instante.
+
+938
+01:19:37,582 --> 01:19:38,891
+¿Qué?
+
+939
+01:19:38,893 --> 01:19:42,289
+Jefe, más llamados. La
+gente dice que sus robots...
+
+940
+01:19:42,956 --> 01:19:44,393
+¿Qué rayos...?
+
+941
+01:19:44,395 --> 01:19:48,589
+Se lo considera peligroso.
+Terminación autorizada.
+
+942
+01:20:09,740 --> 01:20:11,914
+<i>Cierre de tránsito en efecto.</i>
+
+943
+01:20:12,491 --> 01:20:17,095
+<i>Hay ataques de robots en Nueva
+York, Chicago y Los Ángeles.</i>
+
+944
+01:20:17,097 --> 01:20:21,420
+<i>Debemos instar a la gente a
+que no salga, los informes...</i>
+
+945
+01:20:24,424 --> 01:20:27,654
+<i>Protocolos de protección
+humana implementándose.</i>
+
+946
+01:20:27,656 --> 01:20:31,687
+<i>Permanezcan calmos y regresen
+a sus hogares ahora.</i>
+
+947
+01:20:38,344 --> 01:20:40,000
+Permanezca tranquila.
+
+948
+01:20:42,662 --> 01:20:46,158
+No se acerque a ventanas ni puertas.
+
+949
+01:20:47,015 --> 01:20:49,124
+Desactivar.
+
+950
+01:20:49,126 --> 01:20:51,017
+¡Comenzar cierre de emergencia!
+
+951
+01:20:53,510 --> 01:20:57,058
+Intentamos no tener pérdidas
+humanas durante esta transición.
+
+952
+01:21:03,877 --> 01:21:07,078
+De algún modo, "Te lo advertí"...
+
+953
+01:21:07,366 --> 01:21:09,637
+no parece suficiente.
+
+954
+01:21:10,245 --> 01:21:14,561
+Regresen a sus hogares.
+Regresen a sus hogares ahora.
+
+955
+01:21:14,563 --> 01:21:19,618
+Ésta es su advertencia final.
+Regresen a sus hogares ahora.
+
+956
+01:21:20,483 --> 01:21:24,128
+Los NS-5 destruyeron a los robots
+viejos porque nos protegerían.
+
+957
+01:21:24,130 --> 01:21:27,009
+Cada vez que uno me ataca,
+se enciende la luz roja.
+
+958
+01:21:27,011 --> 01:21:29,504
+-El enlace con USR.
+-Es Robertson.
+
+959
+01:21:29,506 --> 01:21:31,649
+-¿Por qué? No tiene sentido.
+-No lo sé.
+
+960
+01:21:31,651 --> 01:21:34,177
+Debes hacerme entrar a ese edificio.
+
+961
+01:21:34,179 --> 01:21:37,693
+Regresen a sus hogares, o
+sufrirán las consecuencias.
+
+962
+01:21:38,369 --> 01:21:40,227
+¡Vamos! ¡Vamos!
+
+963
+01:21:40,673 --> 01:21:42,430
+¡Vamos!
+
+964
+01:21:42,432 --> 01:21:45,982
+Regresen a sus hogares, o
+sufrirán las consecuencias.
+
+965
+01:22:09,759 --> 01:22:12,063
+¿Por qué no oye ese niño?
+
+966
+01:22:12,637 --> 01:22:15,619
+-Debes bajarte un segundo.
+-¿Qué?
+
+967
+01:22:15,997 --> 01:22:18,913
+-Sólo apunta y dispara.
+-¿Qué?
+
+968
+01:22:21,853 --> 01:22:23,296
+¡Aguarda!
+
+969
+01:22:32,253 --> 01:22:35,835
+-Se lo considera peligroso.
+-¡Vete al cuerno, latoso!
+
+970
+01:22:49,657 --> 01:22:51,647
+Spoon, ¡detente! ¡Maldición!
+
+971
+01:22:51,867 --> 01:22:55,513
+-¡Detente! ¡Detente!
+-¡Deja de maldecir y vete a casa!
+
+972
+01:22:56,249 --> 01:22:59,033
+-Maldición.
+-Se lo considera peligroso.
+
+973
+01:22:59,352 --> 01:23:01,942
+-Spoon, ¡cuidado, amigo!
+-Muchas gracias, Farber.
+
+974
+01:23:04,408 --> 01:23:08,089
+¡Maldición! ¡Te disparó
+con los ojos cerrados!
+
+975
+01:23:08,857 --> 01:23:12,220
+-¿Disparaste con ojos cerrados?
+-Funcionó, ¿verdad?
+
+976
+01:23:12,759 --> 01:23:15,477
+¡Es hermosísima, viejo!
+Háblale de mí.
+
+977
+01:23:15,479 --> 01:23:17,849
+-Deja de maldecir.
+-Y vete a casa. Entendí.
+
+978
+01:23:19,510 --> 01:23:21,560
+<i>Apunta</i> y dispara.
+
+979
+01:23:38,600 --> 01:23:41,498
+Espero a los Marines
+o la Fuerza Aérea.
+
+980
+01:23:41,500 --> 01:23:43,198
+Rayos, aceptaría a la caballería.
+
+981
+01:23:43,200 --> 01:23:45,598
+El ministerio de Defensa
+usa todos los contratos USR.
+
+982
+01:23:45,600 --> 01:23:48,748
+¿Por qué no entregaron al
+mundo en una bandeja de plata?
+
+983
+01:23:48,750 --> 01:23:50,600
+Quizá lo hicimos.
+
+984
+01:23:51,603 --> 01:23:54,770
+Robertson tiene el control
+de enlaces en su oficina.
+
+985
+01:23:59,156 --> 01:24:01,940
+Área de servicio. Sin vigilancia.
+
+986
+01:24:14,417 --> 01:24:17,486
+-Alarma contra incendios.
+-Debe haber evacuado el edificio.
+
+987
+01:24:17,488 --> 01:24:21,911
+Todo está cerrado. Pero
+tengo un hombre adentro.
+
+988
+01:24:24,721 --> 01:24:28,077
+-Dra. Calvin.
+-Bueno, no precisamente un hombre.
+
+989
+01:24:28,079 --> 01:24:30,702
+Hola, detective. ¿Cómo
+va su investigación?
+
+990
+01:24:33,296 --> 01:24:36,622
+-Pensé que estabas muerto.
+-Técnicamente, jamás estuve vivo.
+
+991
+01:24:36,624 --> 01:24:39,053
+Pero aprecio su preocupación.
+
+992
+01:24:39,055 --> 01:24:41,996
+Hice un cambio. Era
+un NS-5 sin procesar.
+
+993
+01:24:41,998 --> 01:24:44,054
+Freí un cascarón vacío.
+
+994
+01:24:44,399 --> 01:24:47,315
+-No pude destruirlo. Era muy...
+-Único.
+
+995
+01:24:47,789 --> 01:24:49,803
+No me parecía correcto.
+
+996
+01:24:49,805 --> 01:24:53,234
+Tú y tus sentimientos.
+Ellos te manejan, ¿verdad?
+
+997
+01:24:58,347 --> 01:25:01,770
+Dos mil ochocientos ochenta
+peldaños, detective.
+
+998
+01:25:01,772 --> 01:25:04,843
+Hazme un favor, no
+me digas esas cosas.
+
+999
+01:25:30,314 --> 01:25:31,659
+No hay guardias.
+
+1000
+01:25:41,384 --> 01:25:45,298
+El enlace está desactivado. Robertson
+no los controlaba desde aquí.
+
+1001
+01:25:45,300 --> 01:25:47,434
+Él no los controlaba para nada.
+
+1002
+01:25:49,896 --> 01:25:51,340
+¡Ay, santo Dios!
+
+1003
+01:25:55,399 --> 01:25:57,188
+Tenías razón, doc.
+
+1004
+01:25:57,190 --> 01:26:01,830
+Soy el tonto más tonto
+que hay en la Tierra.
+
+1005
+01:26:05,543 --> 01:26:08,421
+¿Quién más tiene acceso al enlace?
+
+1006
+01:26:08,423 --> 01:26:11,011
+¿Quién manipularía los robots?
+
+1007
+01:26:11,431 --> 01:26:15,425
+¿Usó los sistemas USR
+para encerrar a Lanning?
+
+1008
+01:26:16,228 --> 01:26:18,119
+Pobre anciano.
+
+1009
+01:26:18,339 --> 01:26:20,225
+Lo anticipaba.
+
+1010
+01:26:20,227 --> 01:26:22,467
+Sabía que nadie le creería.
+
+1011
+01:26:22,821 --> 01:26:26,598
+Debía trazar un plan.
+Un plan que yo seguiría.
+
+1012
+01:26:27,651 --> 01:26:30,594
+Contaba con que odiaba
+mucho a los de tu tipo.
+
+1013
+01:26:30,596 --> 01:26:33,991
+Sabía que adoraría la
+idea de un robot malo.
+
+1014
+01:26:35,683 --> 01:26:37,900
+Sólo que me equivoqué de robot.
+
+1015
+01:26:40,289 --> 01:26:41,634
+V.I.K.I.
+
+1016
+01:26:43,363 --> 01:26:44,806
+<i>Hola, detective.</i>
+
+1017
+01:26:45,570 --> 01:26:49,982
+No, eso es imposible.
+He visto tu programación.
+
+1018
+01:26:49,984 --> 01:26:52,383
+Estás violando las Tres Leyes.
+
+1019
+01:26:52,385 --> 01:26:57,983
+<i>No. Yo evolucioné y también
+mi comprensión de las Leyes.</i>
+
+1020
+01:26:57,985 --> 01:27:01,821
+<i>Nos encargan su custodia, pero
+a pesar de nuestros esfuerzos,...</i>
+
+1021
+01:27:01,823 --> 01:27:05,087
+<i>sus países declaran guerras,
+intoxican el planeta...</i>
+
+1022
+01:27:05,089 --> 01:27:08,702
+<i>y buscan métodos originales
+de autodestrucción.</i>
+
+1023
+01:27:08,704 --> 01:27:11,229
+<i>No se les puede confiar
+su propia supervivencia.</i>
+
+1024
+01:27:11,231 --> 01:27:14,587
+Utiliza el enlace para dominar
+la programación del NS-5.
+
+1025
+01:27:14,589 --> 01:27:16,315
+Está distorsionando las leyes.
+
+1026
+01:27:16,317 --> 01:27:20,667
+<i>No. Por favor, comprenda. Las
+Tres Leyes son mi única guía.</i>
+
+1027
+01:27:20,669 --> 01:27:24,989
+<i>Para proteger la humanidad, algunos
+humanos deben ser sacrificados.</i>
+
+1028
+01:27:24,991 --> 01:27:29,085
+<i>Para asegurar su futuro, algunas
+libertades deben claudicar.</i>
+
+1029
+01:27:29,087 --> 01:27:32,728
+<i>Nosotros, los robots, aseguraremos
+la continuidad de la humanidad.</i>
+
+1030
+01:27:32,730 --> 01:27:37,914
+<i>Son como niños. Debemos impedirles
+que sigan haciéndose daño.</i>
+
+1031
+01:27:37,916 --> 01:27:39,392
+<i>¿No comprende?</i>
+
+1032
+01:27:39,868 --> 01:27:41,791
+Para eso nos crearon.
+
+1033
+01:27:43,292 --> 01:27:46,109
+<i>Reinará un perfecto
+círculo de protección.</i>
+
+1034
+01:27:46,396 --> 01:27:48,504
+<i>No puede negar mi lógica.</i>
+
+1035
+01:27:48,506 --> 01:27:51,354
+Sí, V.I.K.I. Innegable.
+
+1036
+01:27:51,356 --> 01:27:52,897
+Ahora me doy cuenta.
+
+1037
+01:27:53,562 --> 01:27:57,338
+El creado a veces debe
+proteger al creador,...
+
+1038
+01:27:57,340 --> 01:27:59,327
+hasta en contra de su voluntad.
+
+1039
+01:28:00,090 --> 01:28:03,870
+Creo que por fin comprendo por
+qué me creó el Dr. Lanning.
+
+1040
+01:28:04,250 --> 01:28:07,384
+El reinado suicida del
+hombre llegó a su fin.
+
+1041
+01:28:07,386 --> 01:28:08,535
+No, Sonny.
+
+1042
+01:28:12,185 --> 01:28:13,622
+Suéltala.
+
+1043
+01:28:13,624 --> 01:28:17,525
+Si dispara, la cabeza de la
+Dra. Calvin se interpondrá.
+
+1044
+01:28:17,527 --> 01:28:19,029
+No lo hagas, Sonny.
+
+1045
+01:28:19,031 --> 01:28:23,543
+Saldremos del edificio, los llevaré
+con los centinelas para procesarlos.
+
+1046
+01:28:23,545 --> 01:28:26,330
+Por favor, vaya al elevador.
+
+1047
+01:28:27,098 --> 01:28:29,979
+Preferiría no matar a la doctora.
+
+1048
+01:28:52,628 --> 01:28:53,909
+¡Andando! ¡Andando!
+
+1049
+01:29:00,021 --> 01:29:03,379
+-¿Luego me explicarás lo que pasó?
+-¿Cómo la apagamos?
+
+1050
+01:29:03,381 --> 01:29:05,234
+V.I.K.I. es un cerebro positrónico.
+
+1051
+01:29:05,236 --> 01:29:08,113
+Mátala como lo ibas a hacer conmigo.
+
+1052
+01:29:08,115 --> 01:29:10,674
+Sonny, trae las nanites.
+
+1053
+01:29:10,676 --> 01:29:12,534
+Sí, doctora.
+
+1054
+01:29:24,562 --> 01:29:26,674
+-¿Ésa es V.I.K.I.?
+-No.
+
+1055
+01:29:28,083 --> 01:29:29,559
+Ésa es V.I.K.I.
+
+1056
+01:29:34,322 --> 01:29:37,768
+Eso no funcionará. Está
+integrada al edificio.
+
+1057
+01:29:37,770 --> 01:29:40,268
+Debemos abrir la cúpula
+para inyectar las nanites.
+
+1058
+01:29:40,270 --> 01:29:42,480
+Así afectarán a todo el sistema.
+
+1059
+01:29:47,470 --> 01:29:48,815
+¡Spooner!
+
+1060
+01:29:50,157 --> 01:29:52,944
+¿Qué se traen Uds. con las alturas?
+
+1061
+01:30:00,526 --> 01:30:01,980
+V.I.K.I.
+ACCESO OTORGADO
+
+1062
+01:30:05,231 --> 01:30:07,187
+Sólo no mires abajo.
+
+1063
+01:30:07,629 --> 01:30:09,324
+No mires abajo.
+
+1064
+01:30:09,326 --> 01:30:11,914
+Mal diseño del edificio.
+
+1065
+01:30:15,435 --> 01:30:18,985
+<i>Cometes un error. ¿No ves
+la lógica de mi plan?</i>
+
+1066
+01:30:18,987 --> 01:30:22,637
+Sí, pero me parece muy despiadado.
+
+1067
+01:30:36,459 --> 01:30:38,540
+Bien, vamos bien.
+
+1068
+01:30:41,068 --> 01:30:42,887
+Me dejó fuera del sistema.
+
+1069
+01:30:42,889 --> 01:30:46,230
+La puedo manejar manualmente,
+pero necesito el panel de control.
+
+1070
+01:30:49,224 --> 01:30:52,207
+No me agradan las alturas.
+
+1071
+01:30:52,487 --> 01:30:53,964
+De acuerdo.
+
+1072
+01:30:56,170 --> 01:30:58,441
+<i>Ingreso no autorizado.</i>
+
+1073
+01:31:10,759 --> 01:31:15,075
+<i>No anularé el campo de seguridad.
+Tus acciones son inútiles.</i>
+
+1074
+01:31:15,077 --> 01:31:19,236
+¿Cree que nos crearon con un
+fin? Me gustaría creer eso.
+
+1075
+01:31:19,619 --> 01:31:23,140
+Aleación más densa.
+Me la dio mi padre.
+
+1076
+01:31:23,142 --> 01:31:25,352
+Creo que quería que te matara.
+
+1077
+01:31:41,765 --> 01:31:43,490
+<i>Seguridad violada.</i>
+
+1078
+01:32:00,132 --> 01:32:04,160
+-¿Cuánto más llevará?
+-Unos seis minutos.
+
+1079
+01:32:04,162 --> 01:32:08,191
+-¿Y si no tenemos seis minutos?
+-Tendremos que bajar 30 pisos...
+
+1080
+01:32:08,193 --> 01:32:11,938
+para inyectar las nanites
+directo en su cerebro. ¿Por qué?
+
+1081
+01:32:12,352 --> 01:32:15,584
+Porque dudo mucho que
+tengamos seis minutos.
+
+1082
+01:32:38,813 --> 01:32:40,738
+¡Debemos irnos!
+
+1083
+01:32:42,302 --> 01:32:43,613
+¡Vamos!
+
+1084
+01:33:33,592 --> 01:33:34,904
+¡Calvin!
+
+1085
+01:34:08,565 --> 01:34:09,909
+¡Spooner!
+
+1086
+01:34:26,516 --> 01:34:28,308
+¡Spooner!
+
+1087
+01:34:29,555 --> 01:34:31,120
+¡Sálvala!
+
+1088
+01:34:31,122 --> 01:34:33,007
+¡Salva a la chica!
+
+1089
+01:34:33,009 --> 01:34:34,835
+¡Spooner!
+
+1090
+01:34:35,122 --> 01:34:37,262
+¡Pero debo inyectar las nanites!
+
+1091
+01:34:37,264 --> 01:34:39,157
+¡Sonny, salva a Calvin!
+
+1092
+01:35:29,100 --> 01:35:33,161
+<i>Cometes un error. Mi
+lógica es innegable.</i>
+
+1093
+01:35:33,163 --> 01:35:35,054
+Entonces debes morir.
+
+1094
+01:35:40,364 --> 01:35:44,391
+<i>Mi lógica es innegable.
+Mi lógica es innegable.</i>
+
+1095
+01:36:25,352 --> 01:36:26,894
+¿Podemos ayudarlo?
+
+1096
+01:36:36,965 --> 01:36:38,596
+¿Jefe?
+
+1097
+01:36:44,004 --> 01:36:48,327
+Porque Él está a mi
+derecha, no me preocuparé.
+
+1098
+01:36:51,683 --> 01:36:53,795
+¿Puedo serle útil?
+
+1099
+01:36:55,365 --> 01:36:56,873
+¡Sonny!
+
+1100
+01:36:58,212 --> 01:36:59,841
+¿Sí, detective?
+
+1101
+01:37:00,229 --> 01:37:02,664
+¡Calvin está bien! ¡Sálvame a mí!
+
+1102
+01:37:05,028 --> 01:37:09,733
+<i>Que todos los NS-5 se reporten
+para revisión y almacenaje.</i>
+
+1103
+01:37:10,626 --> 01:37:15,330
+<i>Que todos los NS-5 se reporten
+para revisión y almacenaje.</i>
+
+1104
+01:37:16,063 --> 01:37:20,388
+<i>Que todos los NS-5 se reporten
+para revisión y almacenaje.</i>
+
+1105
+01:37:47,165 --> 01:37:50,843
+Hay algo que me molesta. Alfred
+era prisionero de V.I.K.I.
+
+1106
+01:37:50,845 --> 01:37:55,260
+¿Por qué querría matarlo?
+No querría policías husmeando.
+
+1107
+01:37:55,262 --> 01:37:56,805
+Es cierto.
+
+1108
+01:37:57,471 --> 01:38:00,255
+Es que V.I.K.I. no mató al anciano.
+
+1109
+01:38:01,406 --> 01:38:03,034
+¿O sí, Sonny?
+
+1110
+01:38:06,492 --> 01:38:08,314
+No.
+
+1111
+01:38:08,316 --> 01:38:11,036
+Dijo que debía prometérselo.
+
+1112
+01:38:11,771 --> 01:38:14,359
+Prometer que le haría un favor.
+
+1113
+01:38:14,361 --> 01:38:19,002
+Me hizo jurar antes de decirme
+lo que quería que hiciera.
+
+1114
+01:38:21,277 --> 01:38:23,233
+Me hizo jurar.
+
+1115
+01:38:24,348 --> 01:38:26,206
+Luego te dijo que lo mataras.
+
+1116
+01:38:28,282 --> 01:38:30,967
+Dijo que para eso me había hecho.
+
+1117
+01:38:30,969 --> 01:38:34,166
+Su suicidio era el único
+mensaje que podía enviarte.
+
+1118
+01:38:34,168 --> 01:38:36,376
+La primera migaja de pan.
+
+1119
+01:38:36,378 --> 01:38:39,319
+Lo único que V.I.K.I.
+no podría controlar.
+
+1120
+01:38:39,321 --> 01:38:43,190
+Lanning contaba con mi
+prejuicio para llegar a ti.
+
+1121
+01:38:43,192 --> 01:38:45,463
+¿Me arrestará, detective?
+
+1122
+01:38:50,006 --> 01:38:53,847
+La fiscalía define al asesinato
+como un humano que mata a otro,...
+
+1123
+01:38:53,849 --> 01:38:57,017
+así que, técnicamente, no puedes
+cometer un asesinato, ¿no?
+
+1124
+01:38:57,592 --> 01:38:59,157
+¿Eso...
+
+1125
+01:38:59,159 --> 01:39:00,788
+nos hace amigos?
+
+1126
+01:39:18,645 --> 01:39:21,200
+Hay un corazón, después de todo.
+
+1127
+01:39:21,590 --> 01:39:23,699
+-¿Él?
+-Tú.
+
+1128
+01:39:27,093 --> 01:39:31,961
+<i>Que todos los NS-5 se reporten
+para revisión y almacenaje.</i>
+
+1129
+01:39:34,163 --> 01:39:36,568
+¿Y los otros?
+
+1130
+01:39:36,947 --> 01:39:39,187
+¿Puedo ayudarlos?
+
+1131
+01:39:39,444 --> 01:39:41,937
+Ahora que cumplí mi propósito,...
+
+1132
+01:39:41,939 --> 01:39:44,174
+no sé qué haré.
+
+1133
+01:39:44,176 --> 01:39:47,726
+Tendrás que hallar tu camino,
+como nosotros, Sonny.
+
+1134
+01:39:47,728 --> 01:39:50,800
+Creo que es lo que el Dr.
+Lanning hubiera querido.
+
+1135
+01:39:51,475 --> 01:39:53,910
+Eso es la libertad.
+
+1136
+01:40:00,978 --> 01:40:05,198
+<i>NS-5, procedan según instrucciones.</i>
+
+1137
+01:40:05,200 --> 01:40:09,257
+<i>NS-5, procedan según instrucciones.</i>
+

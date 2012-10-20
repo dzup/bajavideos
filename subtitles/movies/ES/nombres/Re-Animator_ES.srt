@@ -1,0 +1,3096 @@
+1
+00:00:01,360 --> 00:00:04,318
+UNIVERSIDAD DE ZURICH
+INSTITUTO DE MEDICINA
+
+2
+00:00:28,560 --> 00:00:30,312
+¡Doctor Gruber!
+
+3
+00:00:33,480 --> 00:00:34,799
+¡Doctor!
+
+4
+00:00:37,000 --> 00:00:38,353
+Herbert...
+
+5
+00:00:41,880 --> 00:00:43,871
+Herbert, ¿qué está pasando?
+
+6
+00:00:46,400 --> 00:00:47,515
+¿La rompemos?
+
+7
+00:00:47,680 --> 00:00:49,716
+- Sí, vamos.
+- ¡Atrás!
+
+8
+00:01:04,360 --> 00:01:06,510
+¡Dios mío!
+
+9
+00:01:09,880 --> 00:01:13,316
+Necesito sangre para
+recuperar sus signos vitales.
+
+10
+00:01:14,560 --> 00:01:15,913
+¡No!
+
+11
+00:01:17,600 --> 00:01:18,828
+Dr. Gruber.
+
+12
+00:01:19,160 --> 00:01:21,071
+Dr. Gruber, ¿qué le pasa?
+
+13
+00:01:26,120 --> 00:01:27,553
+¡Dr. Gruber!
+
+14
+00:01:43,000 --> 00:01:44,319
+Está muerto.
+
+15
+00:01:44,760 --> 00:01:47,638
+Claro que está muerto,
+la dosis era muy alta.
+
+16
+00:01:48,160 --> 00:01:50,549
+- Tú lo has matado.
+- No, no lo hice.
+
+17
+00:01:52,560 --> 00:01:54,312
+Le di vida.
+
+18
+00:04:13,480 --> 00:04:18,235
+ESCUELA DE MEDICINA MISKATONIC
+Arkham, Massachussets
+
+19
+00:04:39,480 --> 00:04:41,311
+Está bien,
+le daré electroshocks.
+
+20
+00:04:41,640 --> 00:04:43,153
+Carguémoslo.
+
+21
+00:04:44,280 --> 00:04:46,589
+- Vamos, vamos.
+- Lo siento, doctora.
+
+22
+00:04:47,400 --> 00:04:49,072
+Compresión.
+
+23
+00:04:56,200 --> 00:04:57,315
+Plano.
+
+24
+00:04:59,560 --> 00:05:00,675
+Está bien, dejémoslo.
+
+25
+00:05:02,360 --> 00:05:03,315
+Cain.
+
+26
+00:05:03,440 --> 00:05:06,034
+Necesita más tiempo
+para que haga efecto.
+
+27
+00:05:06,320 --> 00:05:09,915
+Cain, hemos hecho todo lo posible
+por esta mujer.
+
+28
+00:05:10,160 --> 00:05:12,116
+No está respondiendo.
+
+29
+00:05:14,640 --> 00:05:16,278
+La hemos perdido.
+
+30
+00:05:26,600 --> 00:05:30,559
+Cain, un buen doctor
+sabe cuándo terminar...
+
+31
+00:05:30,960 --> 00:05:34,111
+- Doctora, yo...
+- Cain, llévala al depósito.
+
+32
+00:05:37,440 --> 00:05:39,635
+Vamos.
+
+33
+00:05:49,480 --> 00:05:53,234
+- ¡Sr. Cain!
+- Mace, tienes otro huésped.
+
+34
+00:05:53,400 --> 00:05:55,868
+Está abierto,
+el doctor Hill está por ahí...
+
+35
+00:05:56,960 --> 00:05:58,154
+Gracias.
+
+36
+00:05:58,480 --> 00:06:01,119
+No sé por qué dejan
+las puertas cerradas.
+
+37
+00:06:01,520 --> 00:06:05,115
+Nadie quiere entrar,
+y seguro que nadie va a salir.
+
+38
+00:06:06,080 --> 00:06:07,832
+Sí.
+
+39
+00:06:34,600 --> 00:06:35,430
+¿Dónde?
+
+40
+00:07:30,320 --> 00:07:31,992
+Lo siento, Dan.
+No era mi intención asustarte.
+
+41
+00:07:32,200 --> 00:07:34,509
+No me ha asustado, decano Halsey.
+Creía que no había nadie.
+
+42
+00:07:35,000 --> 00:07:36,513
+Querrás decir "nadie más".
+
+43
+00:07:36,760 --> 00:07:39,752
+Dan, él es Herbert West.
+Se unirá al tercer año.
+
+44
+00:07:39,960 --> 00:07:42,076
+Estaba haciendo investigaciones
+independientes en Suiza...
+
+45
+00:07:42,320 --> 00:07:43,639
+antes de que
+el Dr. Gruber muriera.
+
+46
+00:07:43,800 --> 00:07:45,631
+Sr. West, él es Daniel Cain...
+
+47
+00:07:46,080 --> 00:07:50,073
+una de las mayores esperanzas
+de Miskatonic para el futuro de la medicina.
+
+48
+00:07:50,680 --> 00:07:52,875
+- ¿Qué investiga?
+- La muerte.
+
+49
+00:07:53,080 --> 00:07:55,913
+¡Alan!
+No los vemos mucho por aquí.
+
+50
+00:07:56,040 --> 00:07:59,919
+Le estaba haciendo un tour
+a nuestro nuevo estudiante, Herbert West.
+
+51
+00:08:00,240 --> 00:08:04,028
+Te puede interesar, Carl.
+Trabajó con Gruber.
+
+52
+00:08:06,120 --> 00:08:07,109
+Sr. West.
+
+53
+00:08:07,320 --> 00:08:11,791
+Él es nuestro investigador cerebral
+y encargado de las becas, Dr. Carl Hill.
+
+54
+00:08:12,760 --> 00:08:14,478
+Conozco su trabajo, Dr. Hill.
+
+55
+00:08:14,720 --> 00:08:15,835
+Muy bien.
+
+56
+00:08:16,360 --> 00:08:20,512
+Su teoría de la localización de la
+voluntad en el cerebro es interesante...
+
+57
+00:08:21,320 --> 00:08:24,232
+aunque basada en la investigación
+del Dr. Gruber de los 70.
+
+58
+00:08:24,560 --> 00:08:27,518
+Tan "basada" que en Europa
+la consideran un plagio.
+
+59
+00:08:28,000 --> 00:08:29,752
+Y su idea de los 12 minutos...
+
+60
+00:08:29,880 --> 00:08:31,472
+de límite después
+de la muerte cerebral...
+
+61
+00:08:31,600 --> 00:08:34,114
+6 a 12 minutos, señor...
+
+62
+00:08:34,440 --> 00:08:36,715
+West, Herbert West.
+
+63
+00:08:37,360 --> 00:08:39,749
+Francamente, doctor Hill...
+
+64
+00:08:40,400 --> 00:08:43,233
+Su trabajo de la muerte
+cerebral está obsoleto.
+
+65
+00:08:45,960 --> 00:08:47,439
+Carl, antes que se me olvide...
+
+66
+00:08:47,560 --> 00:08:49,790
+el jueves hay reunión
+del comité de subvenciones.
+
+67
+00:08:50,000 --> 00:08:52,275
+A Megan y a mí nos gustaría
+que estuvieseis allí.
+
+68
+00:08:52,560 --> 00:08:54,915
+Estaba deseando ir, Alan.
+
+69
+00:08:55,680 --> 00:08:59,514
+Espero verte
+en las clases, Dr. West.
+
+70
+00:09:03,840 --> 00:09:06,035
+COMPARTO PISO
+CON ESTUDIANTE DE MEDICINA
+
+71
+00:09:06,200 --> 00:09:08,191
+CONTACTAR CON DAN CAIN
+
+72
+00:09:15,320 --> 00:09:16,673
+Hola.
+
+73
+00:09:20,640 --> 00:09:23,632
+No, no, no...
+
+74
+00:09:24,160 --> 00:09:25,878
+Sí, sí...
+
+75
+00:09:44,760 --> 00:09:47,320
+Rufus.
+Lárgate, gato.
+
+76
+00:09:48,560 --> 00:09:50,312
+Tengo que irme.
+
+77
+00:09:53,200 --> 00:09:54,633
+Quédate.
+
+78
+00:09:55,200 --> 00:09:56,155
+Papá sabe que estoy aquí.
+
+79
+00:09:56,680 --> 00:09:58,636
+No me importa lo que
+el decano sepa.
+
+80
+00:09:58,880 --> 00:10:00,233
+Sé razonable.
+
+81
+00:10:00,640 --> 00:10:02,995
+Si no llego a casa una noche,
+sólo una noche...
+
+82
+00:10:04,720 --> 00:10:07,075
+¿Qué harán? ¿Echarme?
+
+83
+00:10:08,200 --> 00:10:09,918
+Es tan anticuado...
+
+84
+00:10:10,120 --> 00:10:11,519
+Así es él.
+
+85
+00:10:11,760 --> 00:10:14,069
+El último puritano en este mundo.
+
+86
+00:10:17,080 --> 00:10:18,832
+Lo odio.
+
+87
+00:10:24,280 --> 00:10:28,432
+El día que te gradúes,
+al minuto, me caso contigo.
+
+88
+00:10:29,640 --> 00:10:32,552
+Te ayudaré y estaré contigo...
+
+89
+00:10:33,320 --> 00:10:35,834
+todo lo que pueda
+hasta que llegue ese momento.
+
+90
+00:10:35,960 --> 00:10:37,313
+Lo prometo.
+
+91
+00:10:39,000 --> 00:10:40,797
+Y mientras, ¿qué?
+
+92
+00:10:41,200 --> 00:10:44,875
+Bueno,
+así puedo domesticarte.
+
+93
+00:10:46,800 --> 00:10:49,075
+¿Domesticarme?
+
+94
+00:10:54,240 --> 00:10:56,754
+Tendré que enseñarte una lección.
+
+95
+00:10:56,880 --> 00:10:58,359
+¿Qué estás haciendo?
+
+96
+00:11:03,080 --> 00:11:04,035
+Dan, para.
+
+97
+00:11:04,520 --> 00:11:05,475
+No.
+
+98
+00:11:06,440 --> 00:11:07,919
+Dan, para.
+
+99
+00:11:08,160 --> 00:11:10,628
+- Preciosa.
+- No me gusta eso.
+
+100
+00:11:12,080 --> 00:11:16,073
+No hay jurado en el mundo
+que pueda condenarme.
+
+101
+00:11:17,160 --> 00:11:18,957
+¡Dr. Dan!
+
+102
+00:11:19,680 --> 00:11:21,113
+Dan, para.
+
+103
+00:11:31,280 --> 00:11:33,475
+- Hola.
+- ¿Puedo ayudarle?
+
+104
+00:11:35,560 --> 00:11:37,039
+¿Viene por el piso?
+
+105
+00:11:37,360 --> 00:11:38,475
+Sí.
+
+106
+00:11:39,120 --> 00:11:40,997
+Nos conocimos por la mañana.
+
+107
+00:11:41,280 --> 00:11:43,032
+West, Herbert West.
+
+108
+00:11:43,240 --> 00:11:45,549
+West, sólo un segundo.
+
+109
+00:11:49,280 --> 00:11:50,952
+- Entre.
+- Gracias.
+
+110
+00:11:56,920 --> 00:11:59,957
+- La he asustado.
+- Sí.
+
+111
+00:12:02,440 --> 00:12:04,954
+Le presento a mi novia,
+Megan Halsey.
+
+112
+00:12:05,640 --> 00:12:08,200
+- Srta. Halsey.
+- Sr. West.
+
+113
+00:12:08,800 --> 00:12:11,473
+El lugar todavía
+es un desastre, Sr. West.
+
+114
+00:12:12,200 --> 00:12:13,713
+Herbert.
+
+115
+00:12:23,760 --> 00:12:25,990
+Entonces, viene de Europa.
+
+116
+00:12:26,280 --> 00:12:27,713
+Suiza.
+
+117
+00:12:28,680 --> 00:12:30,830
+El Dr. Gruber era muy famoso.
+
+118
+00:12:30,960 --> 00:12:34,555
+Sí, muy famoso.
+¿Esta casa tiene sótano?
+
+119
+00:12:40,600 --> 00:12:41,794
+Sí.
+
+120
+00:12:44,560 --> 00:12:45,788
+Sí.
+
+121
+00:12:46,960 --> 00:12:49,520
+Creo que esto estará muy bien.
+
+122
+00:12:49,720 --> 00:12:51,790
+Tengo mis cosas afuera.
+¿Me mudo ahora?
+
+123
+00:12:53,440 --> 00:12:54,873
+Me tengo que ir.
+
+124
+00:12:55,080 --> 00:12:57,116
+Creo que tú y el señor West
+tenéis mucho que discutir...
+
+125
+00:12:57,280 --> 00:13:00,272
+- antes de que tú decidas algo.
+- Ya me he decidido.
+
+126
+00:13:01,480 --> 00:13:04,074
+- Bueno...
+- Ni siquiera notarás que estoy aquí.
+
+127
+00:13:04,400 --> 00:13:06,356
+- Dan, yo...
+- Excepto, a principio de cada mes.
+
+128
+00:13:06,560 --> 00:13:09,279
+- Sr. West...
+- Señorita Halsey.
+
+129
+00:13:09,720 --> 00:13:12,439
+No ha dicho por qué dejó Suiza.
+
+130
+00:13:15,400 --> 00:13:18,153
+No quedaba nada que aprender allí.
+
+131
+00:13:20,600 --> 00:13:23,034
+¿Trato hecho?
+
+132
+00:13:28,440 --> 00:13:30,112
+Hecho.
+
+133
+00:13:31,120 --> 00:13:32,348
+Hecho.
+
+134
+00:13:34,000 --> 00:13:37,436
+Hacen una incisión
+en la base del cráneo.
+
+135
+00:13:50,800 --> 00:13:53,553
+Separando la aponeurosis...
+
+136
+00:13:56,240 --> 00:13:58,515
+para poder meter sus dedos dentro.
+
+137
+00:14:01,200 --> 00:14:04,590
+Sujetando fuerte con ambas manos...
+
+138
+00:14:05,240 --> 00:14:09,756
+se tira de la piel hacia la frente.
+
+139
+00:14:10,800 --> 00:14:13,268
+Es como pelar una naranja grande.
+
+140
+00:14:16,360 --> 00:14:19,238
+Una vez que el cráneo
+se hace visible...
+
+141
+00:14:20,880 --> 00:14:23,440
+con una sierra...
+
+142
+00:14:25,240 --> 00:14:27,595
+se corta el perímetro.
+
+143
+00:14:39,720 --> 00:14:42,234
+Y aquí tienen, damas y caballeros...
+
+144
+00:14:43,320 --> 00:14:44,958
+el cerebro humano.
+
+145
+00:14:45,800 --> 00:14:50,430
+Una vez que el motor del individuo, y
+hablo de sistemas de activación reticular...
+
+146
+00:14:50,840 --> 00:14:53,877
+regulación cardiaca, centro respiratorio.
+
+147
+00:14:54,080 --> 00:14:57,516
+Cuando estas actividades cesan
+el cerebro puede sobrevivir...
+
+148
+00:14:57,640 --> 00:15:00,279
+entre 6 y 12 minutos adicionales.
+
+149
+00:15:01,400 --> 00:15:03,436
+¡6 a 12 minutos!
+
+150
+00:15:05,880 --> 00:15:07,359
+Hasta...
+
+151
+00:15:08,920 --> 00:15:12,799
+que la muerte
+cerebral es irreversible.
+
+152
+00:15:22,000 --> 00:15:27,120
+Todos querríamos conservar
+nuestra personalidad en una vida posterior.
+
+153
+00:15:27,520 --> 00:15:30,080
+Todos rezamos
+pidiendo algún milagro...
+
+154
+00:15:30,320 --> 00:15:34,836
+alguna droga, poción, píldora...
+
+155
+00:15:39,520 --> 00:15:41,238
+Quizás...
+
+156
+00:15:42,160 --> 00:15:44,071
+requiere de algo más.
+
+157
+00:15:44,320 --> 00:15:48,393
+Quizás requiere deseo,
+un deseo obsesivo.
+
+158
+00:15:49,200 --> 00:15:51,111
+Quizás requiere...
+
+159
+00:15:56,280 --> 00:16:00,193
+Discutiremos la localización de
+la voluntad en la estructura del cerebro...
+
+160
+00:16:00,280 --> 00:16:01,759
+en otra ocasión.
+
+161
+00:16:03,440 --> 00:16:04,873
+Sr. West.
+
+162
+00:16:05,520 --> 00:16:08,318
+Le sugiero que
+se compre una pluma.
+
+163
+00:16:10,600 --> 00:16:11,635
+Es todo.
+
+164
+00:16:14,320 --> 00:16:15,514
+¿Cómo puede enseñar
+esta basura?
+
+165
+00:16:15,640 --> 00:16:17,835
+Esta gente viene a aprender
+y les cierra la mente...
+
+166
+00:16:17,960 --> 00:16:20,269
+- antes de que tengan una oportunidad.
+- ¿A qué ha venido, Sr. West?
+
+167
+00:16:20,480 --> 00:16:23,597
+Debería haber robado más ideas de Gruber,
+al menos tendría alguna.
+
+168
+00:16:23,720 --> 00:16:24,835
+¡Sr. West!
+
+169
+00:16:28,320 --> 00:16:31,278
+Será un placer suspenderle.
+
+170
+00:16:38,600 --> 00:16:41,319
+Me gustaría proponer un brindis...
+
+171
+00:16:42,280 --> 00:16:47,638
+por la fundación de ciencias,
+por reconocer el genio del Dr. Carl Hill.
+
+172
+00:16:49,160 --> 00:16:52,072
+Y por darle a la escuela
+de medicina Miskatonic...
+
+173
+00:16:52,240 --> 00:16:54,310
+su mayor premio monetario
+en la historia.
+
+174
+00:16:54,880 --> 00:16:58,111
+Tu cirugía láser revolucionará
+la cirugía cerebral.
+
+175
+00:16:58,960 --> 00:17:00,518
+Por la fundación.
+
+176
+00:17:00,800 --> 00:17:02,711
+Por Miskatonic.
+
+177
+00:17:06,800 --> 00:17:09,439
+Vamos, bebe,
+hay que celebrarlo.
+
+178
+00:17:09,600 --> 00:17:11,352
+Lo sé papá,
+pero tengo que irme pronto.
+
+179
+00:17:11,880 --> 00:17:13,871
+Has preparado este festín, ¿no?
+
+180
+00:17:14,200 --> 00:17:16,555
+- Debes estar cansada.
+- He quedado para estudiar.
+
+181
+00:17:16,960 --> 00:17:19,155
+- ¿Con Daniel?
+- Sí.
+
+182
+00:17:19,760 --> 00:17:21,671
+¿Daniel Cain?
+
+183
+00:17:22,320 --> 00:17:25,312
+Herbert West
+se ha mudado a su casa, ¿no?
+
+184
+00:17:25,760 --> 00:17:27,239
+Por ahora.
+
+185
+00:17:27,560 --> 00:17:29,676
+Debe ser él, perdonadme.
+
+186
+00:17:34,040 --> 00:17:36,918
+Tu hija está con Cain.
+
+187
+00:17:39,200 --> 00:17:40,918
+¿Crees que es sensato?
+
+188
+00:17:41,440 --> 00:17:43,351
+- Dan.
+- Hola, Decano.
+
+189
+00:17:43,880 --> 00:17:45,313
+Dr. Hill.
+
+190
+00:17:45,760 --> 00:17:48,035
+¿Nos acompañarías
+una copa de vino?
+
+191
+00:17:49,400 --> 00:17:50,992
+En realidad,
+tenemos mucho que hacer.
+
+192
+00:17:51,120 --> 00:17:52,712
+¿Por qué no estudian aquí?
+
+193
+00:17:53,040 --> 00:17:55,315
+Regresaremos pronto,
+no se preocupen.
+
+194
+00:17:56,720 --> 00:17:58,119
+Bien.
+
+195
+00:17:58,440 --> 00:18:00,351
+Un último brindis.
+
+196
+00:18:02,560 --> 00:18:03,788
+Por Megan.
+
+197
+00:18:04,200 --> 00:18:06,077
+La hija de mi colega...
+
+198
+00:18:06,240 --> 00:18:09,630
+hermosa y amada hija.
+
+199
+00:18:11,000 --> 00:18:13,912
+La obsesión de los que caen
+bajo su hechizo.
+
+200
+00:18:29,040 --> 00:18:31,679
+¡Dan, no!
+
+201
+00:18:33,480 --> 00:18:35,232
+¡Por favor!
+
+202
+00:18:36,320 --> 00:18:38,675
+- Está bien. ¿Qué pasa?
+- No lo sé, es...
+
+203
+00:18:40,120 --> 00:18:44,591
+Mira, no eres tú,
+son pequeñas cosas.
+
+204
+00:18:45,200 --> 00:18:46,758
+- ¿Como cuál?
+- Bueno...
+
+205
+00:18:46,920 --> 00:18:48,876
+West siempre está en la habitación
+con la puerta cerrada.
+
+206
+00:18:49,000 --> 00:18:51,878
+¿Lo has visto?
+¿Lo has visto comer?
+
+207
+00:18:52,400 --> 00:18:55,073
+Ya te dije que es un poco raro.
+
+208
+00:18:56,720 --> 00:18:58,517
+Y te molesta también...
+
+209
+00:18:59,160 --> 00:19:00,912
+No seas ridícula.
+
+210
+00:19:01,320 --> 00:19:02,673
+Rufus está asustado.
+
+211
+00:19:02,840 --> 00:19:04,478
+Cuando West sale,
+corre y se esconde.
+
+212
+00:19:04,600 --> 00:19:07,273
+Rufus corre y se esconde siempre.
+Es normal en un gato.
+
+213
+00:19:07,400 --> 00:19:11,075
+Sí, pero cuando estamos juntos
+intenta llamar tu atención.
+
+214
+00:19:12,080 --> 00:19:13,354
+¿Dónde está?
+
+215
+00:19:13,520 --> 00:19:14,873
+No lo he visto
+desde que llegamos.
+
+216
+00:19:15,000 --> 00:19:16,194
+Está bien,
+debe estar por ahí.
+
+217
+00:19:16,320 --> 00:19:19,835
+No lo he escuchado. Por lo menos,
+se hace notar cuando estoy aquí.
+
+218
+00:19:25,800 --> 00:19:28,519
+¡Rufus, Rufus!
+
+219
+00:19:29,680 --> 00:19:31,671
+Vamos, gordinflón.
+
+220
+00:19:34,760 --> 00:19:38,150
+Vamos, maldito animal.
+
+221
+00:19:38,960 --> 00:19:40,598
+Está escondido en algún lado.
+
+222
+00:19:41,040 --> 00:19:42,917
+Debe estar por allí.
+
+223
+00:19:44,680 --> 00:19:45,874
+¿Dónde estás, chico?
+
+224
+00:19:46,160 --> 00:19:48,515
+Sal, gatito.
+
+225
+00:19:51,640 --> 00:19:52,595
+Sal, gatito.
+
+226
+00:19:57,920 --> 00:20:00,115
+¡Rufus! ¡Chico!
+
+227
+00:20:12,560 --> 00:20:13,515
+¿Rufus?
+
+228
+00:20:18,280 --> 00:20:19,235
+Rufus.
+
+229
+00:20:22,920 --> 00:20:23,875
+Rufus.
+
+230
+00:20:30,560 --> 00:20:31,515
+¿Rufus?
+
+231
+00:20:48,480 --> 00:20:49,959
+Rufus, ¿estás ahí?
+
+232
+00:20:55,400 --> 00:20:56,355
+Chico...
+
+233
+00:21:21,000 --> 00:21:22,194
+Dios mío.
+
+234
+00:21:22,760 --> 00:21:25,638
+¿Qué haces en mi habitación?
+¿Cómo te atreves a entrar?
+
+235
+00:21:27,720 --> 00:21:28,994
+¿Qué pasa?
+
+236
+00:21:29,280 --> 00:21:31,396
+Te pagué por
+un cuarto privado, Dan.
+
+237
+00:21:31,920 --> 00:21:33,069
+¿Qué diablos
+estás haciendo aquí?
+
+238
+00:21:33,600 --> 00:21:35,989
+- ¡Por favor, váyanse!
+- Tranquilo.
+
+239
+00:21:37,360 --> 00:21:39,271
+En el refrigerador.
+
+240
+00:21:48,640 --> 00:21:50,437
+Te lo iba a enseñar...
+
+241
+00:21:50,920 --> 00:21:52,592
+Cállate.
+
+242
+00:21:57,040 --> 00:21:58,553
+¿Qué ha pasado?
+
+243
+00:21:58,720 --> 00:22:00,790
+Estaba muerto
+cuando lo encontré.
+
+244
+00:22:01,640 --> 00:22:03,153
+Lo mataste.
+
+245
+00:22:03,480 --> 00:22:05,198
+Él te odiaba.
+
+246
+00:22:06,200 --> 00:22:07,997
+Se asfixió.
+
+247
+00:22:11,320 --> 00:22:14,392
+Volcó la basura
+y se le atascó la cabeza.
+
+248
+00:22:15,240 --> 00:22:16,719
+No estabas y lo puse ahí.
+
+249
+00:22:16,840 --> 00:22:20,150
+Supuse que no querrías encontrarlo así
+y no quería apestar el lugar.
+
+250
+00:22:20,400 --> 00:22:21,879
+Te lo iba a mostrar.
+
+251
+00:22:22,120 --> 00:22:23,792
+No pudiste llamar
+o escribir una nota.
+
+252
+00:22:23,960 --> 00:22:25,359
+Estaba ocupado
+cargando cuerpos.
+
+253
+00:22:25,520 --> 00:22:29,149
+¿Qué querías que dijera, Dan?
+"Gato muerto: Detalles luego."
+
+254
+00:22:29,600 --> 00:22:32,239
+- Sé que le tenías cariño.
+- Lo mató, sé que lo mató.
+
+255
+00:22:32,480 --> 00:22:34,232
+- Él lo mató.
+- No me gusta que entren en mi habitación.
+
+256
+00:22:34,360 --> 00:22:35,918
+Ya es suficiente.
+
+257
+00:22:43,760 --> 00:22:45,239
+Es mejor que se vayan.
+
+258
+00:22:45,400 --> 00:22:47,356
+- ¿Qué diablos es esto?
+- No es de tu incumbencia.
+
+259
+00:22:47,480 --> 00:22:49,232
+- Creo que sí...
+- No es de mi incumbencia...
+
+260
+00:22:49,360 --> 00:22:51,430
+que te acuestes
+con la hija del decano.
+
+261
+00:22:54,120 --> 00:22:56,156
+No me gustaría
+que a mi compañero...
+
+262
+00:22:56,320 --> 00:22:57,878
+tan prometedor como tú...
+
+263
+00:22:58,040 --> 00:23:02,511
+le expulsaran de la universidad
+por una inmoralidad.
+
+264
+00:23:03,600 --> 00:23:05,750
+Creo que el Dr. Halsey lo entendería.
+
+265
+00:23:06,040 --> 00:23:08,838
+¿En serio?
+Quizás tengas razón.
+
+266
+00:23:10,040 --> 00:23:12,270
+¿Estás seguro de que
+lo quieres averiguar?
+
+267
+00:24:01,080 --> 00:24:03,548
+¿Herbert,
+has oído ese ruido?
+
+268
+00:24:08,760 --> 00:24:10,273
+¡West!
+¿Qué ha sido eso?
+
+269
+00:24:43,160 --> 00:24:44,559
+¡Vete!
+
+270
+00:24:49,200 --> 00:24:51,031
+¡Quítamelo!
+
+271
+00:24:57,600 --> 00:25:01,195
+- ¿Qué diablos era eso?
+- Después. Después.
+
+272
+00:25:05,600 --> 00:25:06,828
+¡Mierda!
+
+273
+00:25:17,640 --> 00:25:18,789
+Cuidado.
+
+274
+00:26:06,360 --> 00:26:07,475
+¡Cuidado!
+
+275
+00:26:21,200 --> 00:26:25,034
+Es muy simple. Toda vida tiene
+un proceso químico y físico.
+
+276
+00:26:25,440 --> 00:26:29,274
+Es por esa razón que si
+a especímenes recién fallecidos...
+
+277
+00:26:29,480 --> 00:26:31,835
+les recargamos
+el proceso químico...
+
+278
+00:26:32,040 --> 00:26:34,270
+- conseguimos reanimarlos.
+- ¡La teoría no es nueva, West!
+
+279
+00:26:34,360 --> 00:26:36,590
+Pero mi suero sí.
+
+280
+00:26:37,280 --> 00:26:38,952
+Lee.
+
+281
+00:26:43,520 --> 00:26:46,910
+"Con la solución reanimadora
+he devuelto la vida...
+
+282
+00:26:47,080 --> 00:26:50,709
+a conejos y cerdos,
+gatos y perros."
+
+283
+00:26:50,920 --> 00:26:54,595
+He roto la barrera de los 12 minutos
+de muerte cerebral...
+
+284
+00:26:57,360 --> 00:27:00,113
+"...revivir animales
+y el subsiguiente aumento...
+
+285
+00:27:00,200 --> 00:27:03,078
+de fuerza del suero,
+la reacción se vuelve más violenta...
+
+286
+00:27:04,520 --> 00:27:06,511
+y mis experimentos
+más difíciles."
+
+287
+00:27:07,000 --> 00:27:09,036
+Por eso necesito
+que me ayudes.
+
+288
+00:27:10,080 --> 00:27:13,117
+- ¿Ayudarte?
+- Eres el ayudante perfecto.
+
+289
+00:27:13,320 --> 00:27:16,073
+Eres trabajador, brillante,
+la gente te respeta...
+
+290
+00:27:16,360 --> 00:27:19,477
+y tienes acceso a todas partes.
+
+291
+00:27:20,960 --> 00:27:23,428
+Podremos vencer a la muerte.
+
+292
+00:27:24,320 --> 00:27:26,436
+Haremos realidad
+el sueño de todo médico.
+
+293
+00:27:26,680 --> 00:27:30,116
+Serás famoso
+y serás eterno.
+
+294
+00:27:30,560 --> 00:27:32,676
+No puedes ponérselo
+a la gente.
+
+295
+00:27:38,400 --> 00:27:41,949
+No puedo aquí.
+Necesito más espacio.
+
+296
+00:27:43,680 --> 00:27:45,910
+- ¿Me ayudarás?
+- ¡No!
+
+297
+00:27:46,160 --> 00:27:47,718
+¿Por qué?
+¿Porque está mal?
+
+298
+00:27:47,920 --> 00:27:50,195
+- No, porque no te creo.
+- ¿Cómo puedes decir eso?
+
+299
+00:27:50,400 --> 00:27:53,278
+- Viste los resultados.
+- No, Rufus no estaba muerto.
+
+300
+00:27:53,600 --> 00:27:55,113
+Lo ahogaste y redujiste
+sus signos vitales...
+
+301
+00:27:55,280 --> 00:27:57,157
+la temperatura del cuerpo,
+no debía estar muerto.
+
+302
+00:27:57,280 --> 00:27:58,838
+¿Ahora estás de acuerdo
+que está muerto?
+
+303
+00:28:00,040 --> 00:28:02,190
+¿Estás de acuerdo
+en que está muerto ahora?
+
+304
+00:28:09,640 --> 00:28:11,312
+West, no.
+
+305
+00:28:15,840 --> 00:28:20,118
+- ¡West, para!
+- Te lo mostraré y me ayudarás.
+
+306
+00:28:20,360 --> 00:28:22,237
+- ¡No!
+- Sí lo harás.
+
+307
+00:28:22,520 --> 00:28:25,671
+Así le devolví de la muerte
+a esta bestia infernal.
+
+308
+00:28:31,200 --> 00:28:33,111
+- ¿En el cerebro?
+- Claro.
+
+309
+00:28:36,800 --> 00:28:39,633
+No esperes que baile.
+Tiene la espalda rota.
+
+310
+00:28:44,920 --> 00:28:48,879
+Dios.
+¿Por qué hace ese ruido?
+
+311
+00:28:49,480 --> 00:28:52,074
+Nacer siempre ha sido doloroso.
+
+312
+00:28:56,520 --> 00:28:59,512
+- Estaba muerto.
+- Dos veces.
+
+313
+00:29:03,000 --> 00:29:04,752
+- Es él.
+- ¿Qué estás haciendo aquí?
+
+314
+00:29:04,920 --> 00:29:07,878
+- Es Rufus. ¿Cómo?
+- Vamos, no deberías estar aquí.
+
+315
+00:29:08,080 --> 00:29:09,638
+Dios mío.
+
+316
+00:29:17,560 --> 00:29:20,677
+Herbert West ha reanimado
+tejido animal muerto.
+
+317
+00:29:23,040 --> 00:29:24,712
+Sr. Cain...
+
+318
+00:29:25,760 --> 00:29:28,115
+- estoy sorprendido.
+- Lo he visto.
+
+319
+00:29:28,400 --> 00:29:31,915
+Devolvió a la vida a un animal muerto.
+Un gato.
+
+320
+00:29:32,280 --> 00:29:34,714
+No esperaba tonterías de usted,
+señor Cain...
+
+321
+00:29:34,960 --> 00:29:37,633
+¡Debí imaginarlo
+cuando aceptó a West!
+
+322
+00:29:37,800 --> 00:29:40,678
+¡Sé que es inestable
+pero he visto los resultados!
+
+323
+00:29:41,120 --> 00:29:42,872
+¡Y también su hija!
+
+324
+00:29:43,320 --> 00:29:45,072
+¿Qué has estado haciendo
+con mi hija?
+
+325
+00:29:45,480 --> 00:29:47,357
+Entró durante el experimento.
+
+326
+00:29:47,640 --> 00:29:50,518
+¿Has involucrado a Megan
+en tus locuras?
+
+327
+00:29:50,840 --> 00:29:52,353
+Nunca la involucraría.
+
+328
+00:29:52,520 --> 00:29:56,798
+Mañana me presentarás
+una disculpa escrita por esto.
+
+329
+00:29:57,160 --> 00:30:00,391
+Estos experimentos van más allá
+del cometido de sus prácticas.
+
+330
+00:30:00,560 --> 00:30:03,950
+Claramente están interfiriendo
+en su labor aquí.
+
+331
+00:30:04,200 --> 00:30:06,919
+Si cualquier equipo del hospital...
+
+332
+00:30:07,120 --> 00:30:11,557
+o del laboratorio de Miskatonic se ven
+involucrados en estos actos ilegales...
+
+333
+00:30:11,680 --> 00:30:17,391
+nos pueden demandar.
+En todo caso te quitarán la beca.
+
+334
+00:30:19,360 --> 00:30:20,713
+¿A mí?
+
+335
+00:30:22,560 --> 00:30:24,152
+Arruinaría mi carrera.
+
+336
+00:30:24,320 --> 00:30:26,550
+El señor West también debe
+enviarme una disculpa.
+
+337
+00:30:26,680 --> 00:30:29,752
+Dígale que puede continuar
+con sus investigaciones...
+
+338
+00:30:29,880 --> 00:30:31,950
+sin el impedimento de una educación.
+
+339
+00:30:32,160 --> 00:30:35,630
+Ya no es estudiante
+de esta universidad.
+
+340
+00:30:36,160 --> 00:30:40,472
+Señor, por favor, podemos discutirlo.
+Creo que está cegado por sus emociones.
+
+341
+00:30:41,000 --> 00:30:43,116
+Eso es todo, Sr. Cain.
+
+342
+00:30:51,720 --> 00:30:54,029
+No culpe a Meg de esto.
+
+343
+00:30:54,800 --> 00:30:58,918
+- Trató de detenerme.
+- He dicho que eso sería todo.
+
+344
+00:31:14,400 --> 00:31:16,834
+- ¿Nuevos inquilinos?
+- Sí.
+
+345
+00:31:25,600 --> 00:31:27,830
+Mi almuerzo no estará por ahí,
+¿verdad?
+
+346
+00:31:28,400 --> 00:31:30,516
+Tengo carne molida,
+aplastada por un bus.
+
+347
+00:31:31,960 --> 00:31:34,030
+He perdido el apetito.
+Me lo cuidas un rato.
+
+348
+00:31:34,200 --> 00:31:36,191
+Voy a buscar un poco de café.
+
+349
+00:31:36,720 --> 00:31:38,756
+Tómate tu tiempo.
+
+350
+00:31:47,240 --> 00:31:50,232
+- ¿Carne molida?
+- Ponte los zapatos.
+
+351
+00:32:03,520 --> 00:32:07,479
+- Si nos pillan...
+- ¿Qué? ¿Nos tirarán una bomba?
+
+352
+00:32:08,680 --> 00:32:09,829
+Vamos.
+
+353
+00:32:28,040 --> 00:32:29,519
+Víctima de incendio.
+
+354
+00:32:34,840 --> 00:32:36,671
+Aquí está tu carne molida.
+
+355
+00:32:41,400 --> 00:32:43,470
+Balazo en la cabeza.
+
+356
+00:32:45,600 --> 00:32:47,636
+Dios, está destrozado.
+
+357
+00:32:50,080 --> 00:32:52,196
+- Error médico.
+- Mierda.
+
+358
+00:32:53,240 --> 00:32:57,313
+- No vamos a encontrar nada aquí.
+- Espera.
+
+359
+00:33:01,680 --> 00:33:03,989
+Sí, parece que tú...
+
+360
+00:33:04,200 --> 00:33:07,397
+- ¿Cuánto hace que murió?
+- Hace poco.
+
+361
+00:33:07,560 --> 00:33:10,120
+Es un Juan Nadie.
+Muerte natural.
+
+362
+00:33:10,560 --> 00:33:13,233
+No hay detalles de ningún daño,
+está casi perfecto.
+
+363
+00:33:14,320 --> 00:33:16,993
+- ¿Por qué "casi"?
+- Por el corazón.
+
+364
+00:33:18,240 --> 00:33:20,834
+- Encuentra otro.
+- No tenemos más tiempo.
+
+365
+00:33:21,360 --> 00:33:25,114
+Intentaremos
+una reanimación elemental.
+
+366
+00:33:25,280 --> 00:33:26,599
+Lleva horas muerto.
+
+367
+00:33:26,720 --> 00:33:30,759
+Cualquier evidencia de reanimación
+justificará nuestro intento.
+
+368
+00:33:32,520 --> 00:33:34,238
+Coge la grabadora.
+
+369
+00:33:35,440 --> 00:33:36,998
+¡Empieza a grabar!
+
+370
+00:33:40,400 --> 00:33:41,958
+Haz la introducción.
+
+371
+00:33:44,320 --> 00:33:46,788
+10 de octubre...
+
+372
+00:33:48,120 --> 00:33:49,553
+Sujeto: Varón.
+
+373
+00:33:49,720 --> 00:33:50,550
+¿Edad?
+
+374
+00:33:51,360 --> 00:33:53,430
+Edad: 20 años.
+
+375
+00:33:54,760 --> 00:33:57,069
+- Estado físico...
+- Sin lesiones.
+
+376
+00:33:57,800 --> 00:34:02,157
+Parece en buena forma física.
+
+377
+00:34:05,240 --> 00:34:07,629
+Aparentemente,
+la causa de su muerte fue...
+
+378
+00:34:09,760 --> 00:34:12,797
+- ¿Cuál?
+- Fallo cardíaco.
+
+379
+00:34:13,720 --> 00:34:15,392
+Fallo cardíaco.
+
+380
+00:34:17,520 --> 00:34:20,080
+Hora: 10:33 p.m.
+
+381
+00:34:20,360 --> 00:34:23,272
+10:33 p.m.
+
+382
+00:34:25,600 --> 00:34:27,591
+15 c.c.
+
+383
+00:34:29,360 --> 00:34:31,555
+15 c.c. de suero.
+
+384
+00:34:40,080 --> 00:34:41,593
+Me quiere.
+¡Nos vamos a casar!
+
+385
+00:34:41,760 --> 00:34:44,433
+¡Está loco!
+He visto qué pasa con algunos alumnos...
+
+386
+00:34:44,640 --> 00:34:45,868
+los mejores.
+
+387
+00:34:46,040 --> 00:34:48,713
+¿Está el Sr. Cain en el hospital?
+
+388
+00:34:49,200 --> 00:34:50,713
+En el depósito.
+
+389
+00:34:50,920 --> 00:34:53,753
+Le dije al Dr. Riley
+que lo suspendiera.
+
+390
+00:34:53,920 --> 00:34:56,480
+Que lo expulsara si lo veía.
+
+391
+00:34:56,840 --> 00:35:01,516
+El doctor ha estado en cirugía
+de emergencia 4 horas, no lo he visto.
+
+392
+00:35:04,040 --> 00:35:05,837
+Tiempo transcurrido.
+
+393
+00:35:08,280 --> 00:35:09,315
+15 segundos.
+
+394
+00:35:12,440 --> 00:35:14,431
+¡Debería haber pasado algo!
+
+395
+00:35:26,040 --> 00:35:27,439
+Es inútil...
+
+396
+00:35:28,800 --> 00:35:29,755
+¡Vámonos!
+
+397
+00:35:29,920 --> 00:35:32,673
+La dosis para humanos
+todavía no está clara.
+
+398
+00:35:32,880 --> 00:35:36,270
+- Incrementaré la dosis 20 c.c.
+- Herbert, vámonos.
+
+399
+00:35:36,440 --> 00:35:37,793
+¡No!
+
+400
+00:36:02,000 --> 00:36:03,194
+¡Maldita sea!
+
+401
+00:36:03,360 --> 00:36:06,318
+Que Cain se presente
+en el sector de seguridad "L".
+
+402
+00:36:06,440 --> 00:36:08,954
+Y asegúrese de que ella se quede aquí.
+
+403
+00:36:09,400 --> 00:36:10,992
+¡No puedes detenerme!
+Te seguí hasta aquí.
+
+404
+00:36:11,120 --> 00:36:13,429
+Te seguiré hasta que me escuches.
+¡Le quiero!
+
+405
+00:36:13,600 --> 00:36:15,795
+¡Eres mi hija
+y harás lo que yo diga!
+
+406
+00:36:16,000 --> 00:36:17,479
+Siéntese, señorita.
+
+407
+00:36:17,720 --> 00:36:20,029
+El Sr. Cain volverá
+y podrán conversar.
+
+408
+00:36:20,200 --> 00:36:21,952
+¡No debes culparle, papá!
+
+409
+00:36:22,800 --> 00:36:23,915
+Fracasamos.
+
+410
+00:36:24,880 --> 00:36:27,519
+Vámonos.
+Vendrán en cualquier momento.
+
+411
+00:36:27,600 --> 00:36:30,512
+Fracasó él.
+¡No yo!
+
+412
+00:36:30,920 --> 00:36:35,994
+<i>Sr. Cain. Sr. Daniel Cain. Por favor,
+preséntese en seguridad, en el nivel "L".</i>
+
+413
+00:36:37,400 --> 00:36:40,278
+Dios mío.
+
+414
+00:36:41,400 --> 00:36:43,197
+- Vámonos.
+- Está bien.
+
+415
+00:37:07,320 --> 00:37:08,878
+¡Para!
+
+416
+00:37:12,560 --> 00:37:14,039
+Me ha oído.
+
+417
+00:37:25,920 --> 00:37:26,875
+¡Cain!
+
+418
+00:37:29,960 --> 00:37:31,712
+¡Abre la puerta!
+
+419
+00:37:32,680 --> 00:37:34,079
+¡Auxilio!
+
+420
+00:37:35,640 --> 00:37:36,993
+¡Auxilio!
+
+421
+00:37:37,240 --> 00:37:39,117
+¿Está West contigo?
+
+422
+00:37:39,360 --> 00:37:41,112
+Se han metido en un buen lío.
+
+423
+00:38:03,320 --> 00:38:04,355
+¡No!
+
+424
+00:38:12,000 --> 00:38:13,194
+¡Suéltalo!
+
+425
+00:38:26,200 --> 00:38:27,519
+¡Detente!
+
+426
+00:38:27,680 --> 00:38:30,035
+¡Por Dios! ¡Detente!
+
+427
+00:38:30,200 --> 00:38:32,873
+¡Dan!
+Cuidado.
+
+428
+00:39:01,960 --> 00:39:03,359
+Vamos.
+
+429
+00:39:04,680 --> 00:39:06,352
+La grabadora.
+
+430
+00:39:09,320 --> 00:39:12,039
+- ¡No!
+- Lo viste. ¡Me escuchó!
+
+431
+00:39:12,240 --> 00:39:15,835
+- Produjo un acto consciente.
+- ¡Te escuchó como lo haría un animal!
+
+432
+00:39:17,360 --> 00:39:19,396
+Herbert,
+no puedes decirlo en serio.
+
+433
+00:39:19,640 --> 00:39:20,868
+Quizás tengas razón.
+
+434
+00:39:21,120 --> 00:39:23,680
+Quizá llevaba mucho tiempo muerto.
+No estaba muy fresco
+
+435
+00:39:24,560 --> 00:39:27,358
+Probablemente reanimamos
+sus sentidos y el instinto, así que vamos...
+
+436
+00:39:27,600 --> 00:39:29,192
+ayúdame a levantarlo.
+
+437
+00:39:30,080 --> 00:39:32,833
+- ¿Está muerto?
+- Claro. ¿Me echas una mano?
+
+438
+00:39:33,160 --> 00:39:35,390
+Interrumpió
+un experimento muy importante.
+
+439
+00:39:35,520 --> 00:39:36,919
+Ha sido un accidente...
+
+440
+00:39:37,120 --> 00:39:40,317
+pero éste es el mejor cuerpo que tenemos,
+sin tener que matar a nadie.
+
+441
+00:39:40,480 --> 00:39:42,869
+Cada minuto que perdemos
+es vital para el resultado.
+
+442
+00:39:42,960 --> 00:39:44,837
+Ahora ¡échame una mano!
+
+443
+00:39:46,720 --> 00:39:50,838
+Dan, podremos devolverlo a la vida.
+
+444
+00:40:13,600 --> 00:40:16,990
+Trae la grabadora y el suero.
+
+445
+00:40:20,720 --> 00:40:22,392
+Esto es una pesadilla.
+
+446
+00:40:25,560 --> 00:40:27,278
+Agarra la otra mano.
+
+447
+00:40:29,360 --> 00:40:31,316
+Dios.
+
+448
+00:40:32,320 --> 00:40:34,311
+Plástico irrompible.
+
+449
+00:40:34,600 --> 00:40:37,956
+Una de las mejores invenciones
+del hombre.
+
+450
+00:40:39,400 --> 00:40:41,595
+Nada más duradero que esto.
+
+451
+00:40:42,200 --> 00:40:44,077
+Te necesitamos en recuperación.
+
+452
+00:40:45,840 --> 00:40:47,319
+Ahora vuelvo.
+
+453
+00:41:15,600 --> 00:41:17,795
+Se administran 12 c.c.
+
+454
+00:41:18,000 --> 00:41:21,879
+La dosis es menor de acuerdo
+a lo fresco del sujeto.
+
+455
+00:41:35,400 --> 00:41:38,392
+- 5 segundos.
+- 5 segundos.
+
+456
+00:41:40,520 --> 00:41:41,919
+Vamos.
+
+457
+00:41:42,920 --> 00:41:44,911
+Te lo demostraré.
+
+458
+00:41:46,800 --> 00:41:49,917
+15 segundos.
+¡Te lo demostraré!
+
+459
+00:41:50,560 --> 00:41:53,120
+¡17 segundos!
+¡La reanimación será en 17 segundos!
+
+460
+00:41:53,280 --> 00:41:56,158
+Los ojos se abren.
+Dr. Halsey.
+
+461
+00:41:56,520 --> 00:41:59,592
+Me ha hecho usted un favor
+al aceptarme en esta universidad.
+
+462
+00:42:00,000 --> 00:42:03,231
+Doctor, bienvenido a la vida.
+
+463
+00:42:25,240 --> 00:42:26,753
+¿Papá?
+
+464
+00:42:27,200 --> 00:42:30,158
+- ¿Papá?
+- Maldita sea.
+
+465
+00:42:30,400 --> 00:42:31,879
+Meg.
+
+466
+00:42:32,480 --> 00:42:33,754
+Meg.
+
+467
+00:42:35,920 --> 00:42:37,638
+Dan.
+
+468
+00:42:38,520 --> 00:42:39,953
+¿Qué pasa? ¿Estás bien?
+
+469
+00:42:40,240 --> 00:42:42,470
+DEPOSITO DE CADAVERES
+
+470
+00:42:44,640 --> 00:42:46,119
+¡Trata de hablar!
+¡La grabadora!
+
+471
+00:42:50,840 --> 00:42:51,795
+¡No!
+
+472
+00:42:52,760 --> 00:42:53,988
+¡Papá!
+
+473
+00:42:54,360 --> 00:42:56,555
+- ¡Papá, no!
+- No te acerques.
+
+474
+00:42:56,720 --> 00:42:59,109
+¿Qué diablos pasa?
+¿Dan, estás bien?
+
+475
+00:42:59,960 --> 00:43:01,188
+¿Quién es?
+
+476
+00:43:04,720 --> 00:43:06,676
+Es el decano Halsey.
+
+477
+00:43:07,280 --> 00:43:11,478
+Verá, vine a ver al señor Cain,
+que estaba trabajando...
+
+478
+00:43:11,720 --> 00:43:15,508
+y Halsey entró y empezó a golpearnos
+de forma irracional.
+
+479
+00:43:15,640 --> 00:43:19,030
+¡No!
+Sólo estaba enojado.
+
+480
+00:43:19,800 --> 00:43:21,438
+¡Papá!
+¿Qué ha pasado?
+
+481
+00:43:21,600 --> 00:43:24,512
+- ¿Quién hay ahí?
+- Sólo es un cadáver.
+
+482
+00:43:24,800 --> 00:43:27,917
+Verá, Halsey entró aquí
+y agarró eso.
+
+483
+00:43:28,400 --> 00:43:30,868
+Estaba loco.
+
+484
+00:43:31,480 --> 00:43:33,152
+¡Decano Halsey!
+Decano Halsey.
+
+485
+00:43:34,600 --> 00:43:35,999
+Llamaré a la policía.
+
+486
+00:43:37,280 --> 00:43:38,235
+Papá...
+
+487
+00:43:49,600 --> 00:43:53,195
+Es la impresión.
+No te preocupes.
+
+488
+00:44:19,000 --> 00:44:20,718
+Papá.
+
+489
+00:44:22,520 --> 00:44:25,671
+No puede verte ni oírte.
+Sólo ve un espejo.
+
+490
+00:44:29,520 --> 00:44:31,795
+¿Qué le está pasando, doctor?
+
+491
+00:44:33,400 --> 00:44:36,710
+- ¿Se pondrá?
+- Hasta que sepamos lo que le pasó...
+
+492
+00:44:37,160 --> 00:44:40,232
+no podremos saber
+el tiempo de recuperación.
+
+493
+00:44:42,560 --> 00:44:47,076
+Es por eso que necesito que firmes
+la autorización para una exploración.
+
+494
+00:44:49,360 --> 00:44:51,749
+¿Es eso absolutamente necesario, Dr. Hill?
+
+495
+00:44:52,200 --> 00:44:54,998
+Sé que debe ser difícil para ti...
+
+496
+00:44:56,760 --> 00:45:00,958
+pero estoy convencido de que
+el problema de tu padre es neurológico.
+
+497
+00:45:02,120 --> 00:45:04,395
+Tomaremos
+las debidas precauciones.
+
+498
+00:45:07,920 --> 00:45:10,070
+Debes confiar en mí.
+
+499
+00:45:23,000 --> 00:45:25,514
+Quiero que mires el lóbulo frontal.
+
+500
+00:45:25,800 --> 00:45:29,429
+- Abriré el hueso aquí.
+- No quiero saberlo.
+
+501
+00:45:30,640 --> 00:45:32,756
+Sólo ayúdelo.
+
+502
+00:45:53,880 --> 00:45:55,996
+Por favor, doctor.
+
+503
+00:45:56,800 --> 00:45:59,109
+Por favor, déjeme hablar con él.
+
+504
+00:45:59,560 --> 00:46:00,879
+No.
+
+505
+00:46:02,040 --> 00:46:05,077
+Déjame el tratamiento a mí.
+
+506
+00:46:06,280 --> 00:46:10,398
+Piensa en mí como en alguien
+que te ayudará cuando tengas un problema...
+
+507
+00:46:14,240 --> 00:46:16,708
+o si te sientes sola.
+
+508
+00:46:20,800 --> 00:46:23,678
+Sé que estás sola ahora.
+
+509
+00:46:33,200 --> 00:46:35,270
+¡Yo lo cuidaré, doctor!
+
+510
+00:46:35,400 --> 00:46:38,153
+¡Voy a averiguar qué pasó con él!
+
+511
+00:47:18,280 --> 00:47:19,998
+¿Qué estás haciendo aquí?
+
+512
+00:47:20,600 --> 00:47:22,113
+Te esperaba.
+
+513
+00:47:23,040 --> 00:47:25,190
+Tenía que hablar contigo.
+
+514
+00:47:27,120 --> 00:47:29,156
+¿Qué le hicisteis?
+
+515
+00:47:31,440 --> 00:47:34,671
+¿Qué estabas haciendo
+con West allí abajo?
+
+516
+00:47:36,760 --> 00:47:38,398
+Fue horrible.
+
+517
+00:47:40,200 --> 00:47:41,918
+No quise...
+
+518
+00:47:44,000 --> 00:47:45,911
+¿Qué le hiciste?
+
+519
+00:47:52,280 --> 00:47:53,952
+No está loco.
+
+520
+00:47:58,360 --> 00:47:59,998
+Está muerto.
+
+521
+00:48:05,600 --> 00:48:08,558
+¡Tú estás loco!
+¡Tú estás loco!
+
+522
+00:48:08,720 --> 00:48:10,790
+Es verdad, Meg.
+
+523
+00:48:11,120 --> 00:48:13,554
+Todo es verdad.
+
+524
+00:48:18,560 --> 00:48:19,515
+Papá...
+
+525
+00:48:27,520 --> 00:48:29,511
+Te lo explicaré todo.
+
+526
+00:48:29,920 --> 00:48:31,831
+Todo.
+
+527
+00:48:42,560 --> 00:48:44,676
+Buenas noches, Sr. West.
+
+528
+00:48:49,440 --> 00:48:51,317
+¿Qué es lo que quiere?
+
+529
+00:48:51,840 --> 00:48:54,479
+Quiero saber por qué
+el corazón de Halsey tiene convulsiones.
+
+530
+00:48:54,680 --> 00:48:55,954
+No tengo nada que decirle.
+
+531
+00:48:56,120 --> 00:48:59,351
+- ¿Por qué no hay pulso?
+- Le conté todo lo que sé a la policía.
+
+532
+00:48:59,520 --> 00:49:03,149
+- ¿Por qué grita de dolor?
+- Ya puede irse, doctor.
+
+533
+00:49:03,320 --> 00:49:08,075
+Los dos sabemos que Halsey
+está muerto.
+
+534
+00:49:14,320 --> 00:49:17,153
+Interesante laboratorio el que tiene.
+
+535
+00:49:18,920 --> 00:49:20,672
+Sr. West.
+
+536
+00:49:21,120 --> 00:49:23,588
+Reconozco esto.
+
+537
+00:49:25,400 --> 00:49:26,833
+¿Qué quiere?
+
+538
+00:49:27,280 --> 00:49:30,750
+Sí.
+Los dos somos científicos.
+
+539
+00:49:31,120 --> 00:49:33,509
+Vayamos al grano.
+
+540
+00:49:37,320 --> 00:49:39,709
+Quiero tener su descubrimiento.
+
+541
+00:49:41,040 --> 00:49:44,237
+Sea lo que sea.
+Da a los muertos la apariencia de los vivos.
+
+542
+00:49:44,440 --> 00:49:47,512
+No es la apariencia de vida.
+Da la vida. Esto no es magia.
+
+543
+00:49:47,680 --> 00:49:50,672
+Como usted dice: Yo soy un científico.
+
+544
+00:49:51,000 --> 00:49:55,596
+Te encerraré como a un loco
+o un asesino.
+
+545
+00:50:02,520 --> 00:50:08,197
+Harás lo que yo te diga.
+
+546
+00:50:39,960 --> 00:50:42,235
+Genial, Sr. West.
+
+547
+00:50:43,440 --> 00:50:47,069
+Su continuación del trabajo
+del tonto de Gruber es...
+
+548
+00:50:48,480 --> 00:50:50,391
+brillante.
+
+549
+00:51:09,440 --> 00:51:12,113
+- ¿El Dr. Hill examinó a tu padre?
+- Sí.
+
+550
+00:51:12,600 --> 00:51:17,754
+- Le hizo cirugía exploratoria.
+- Mierda.
+
+551
+00:51:18,440 --> 00:51:20,476
+Lo sabrá.
+
+552
+00:51:21,040 --> 00:51:23,554
+Acabará sabiéndolo.
+
+553
+00:51:25,000 --> 00:51:30,313
+Veamos mi nuevo suero funcionando.
+
+554
+00:51:33,160 --> 00:51:35,549
+Tejido de gato muerto.
+
+555
+00:51:39,720 --> 00:51:41,039
+Reactivo.
+
+556
+00:52:07,000 --> 00:52:09,195
+¡Magnífico!
+
+557
+00:52:25,080 --> 00:52:28,038
+Sí, Sr. West...
+
+558
+00:52:28,560 --> 00:52:31,996
+Seré famoso.
+
+559
+00:52:43,480 --> 00:52:44,799
+Descanse en paz.
+
+560
+00:53:29,760 --> 00:53:31,557
+Sí.
+
+561
+00:53:36,000 --> 00:53:37,592
+Parcial.
+
+562
+00:53:39,000 --> 00:53:42,072
+Nunca lo he hecho en partes...
+
+563
+00:53:43,480 --> 00:53:44,435
+aisladas.
+
+564
+00:54:31,480 --> 00:54:33,471
+West.
+
+565
+00:54:39,080 --> 00:54:40,832
+Sí, doctor.
+
+566
+00:54:41,120 --> 00:54:43,031
+Soy Herbert West.
+
+567
+00:54:43,640 --> 00:54:46,871
+¿Qué piensa?
+¿Qué siente?
+
+568
+00:54:47,320 --> 00:54:49,914
+Tú.
+
+569
+00:54:52,320 --> 00:54:53,514
+¿Tú?
+
+570
+00:54:54,360 --> 00:54:58,751
+Bastardo.
+
+571
+00:56:31,560 --> 00:56:32,515
+¡Dan!
+
+572
+00:56:32,720 --> 00:56:35,553
+Dios mío.
+¿Qué le han hecho?
+
+573
+00:56:45,120 --> 00:56:46,917
+Una lobotomía con láser.
+
+574
+00:57:29,920 --> 00:57:31,592
+¿Dónde está?
+
+575
+00:57:33,240 --> 00:57:34,719
+¡Mi trabajo!
+
+576
+00:57:35,160 --> 00:57:36,593
+¡Mi trabajo!
+
+577
+00:57:36,800 --> 00:57:38,836
+- ¿Qué pasa?
+- Mi trabajo ha desaparecido.
+
+578
+00:57:40,160 --> 00:57:41,593
+Ha desaparecido.
+
+579
+00:57:41,800 --> 00:57:44,758
+Se llevó el suero.
+¡Salvo el que tengo arriba!
+
+580
+00:57:44,960 --> 00:57:47,633
+¿Quién?
+¿Qué ha pasado aquí?
+
+581
+00:57:49,120 --> 00:57:51,839
+Hill se ha llevado el suero y mis notas.
+¡Todo!
+
+582
+00:57:52,000 --> 00:57:55,117
+- Herbert, ¿qué ha pasado aquí?
+- Tuve que matarlo.
+
+583
+00:57:55,400 --> 00:57:56,833
+¿Qué?
+
+584
+00:57:57,600 --> 00:57:58,953
+¿Está muerto?
+
+585
+00:58:00,840 --> 00:58:02,558
+Ya no.
+
+586
+00:58:04,080 --> 00:58:06,389
+Herbert.
+¡Esto tiene que parar!
+
+587
+00:58:06,600 --> 00:58:08,352
+- Intentó chantajearme.
+- Ya basta.
+
+588
+00:58:08,520 --> 00:58:10,670
+Quería que desaparecieses.
+
+589
+00:58:23,800 --> 00:58:25,597
+Por eso le hizo eso a Halsey.
+
+590
+00:58:25,720 --> 00:58:28,473
+- ¿Qué? ¿Has visto a Halsey?
+- Le han hecho una lobotomía.
+
+591
+00:58:28,800 --> 00:58:31,997
+Para controlarlo, para que no hablara
+o le contara a alguien lo que pasó.
+
+592
+00:58:32,120 --> 00:58:36,033
+Así que protege su descubrimiento.
+Muy listo.
+
+593
+00:58:36,240 --> 00:58:39,312
+- Tengo que contárselo a Meg.
+- ¿Qué tiene que ver Meg en esto?
+
+594
+00:58:39,680 --> 00:58:43,639
+Hill tiene su expediente.
+Con notas, pelo, fotografías...
+
+595
+00:58:43,920 --> 00:58:46,798
+Parece que tiene
+una obsesión psicópata con ella.
+
+596
+01:00:20,360 --> 01:00:22,874
+Sí.
+
+597
+01:00:36,600 --> 01:00:37,555
+Alan.
+
+598
+01:00:45,520 --> 01:00:46,475
+Alan.
+
+599
+01:01:20,640 --> 01:01:24,349
+Sí, Alan.
+
+600
+01:01:27,440 --> 01:01:32,434
+Es hora...
+
+601
+01:01:32,640 --> 01:01:37,668
+de que salgas.
+
+602
+01:02:07,600 --> 01:02:10,990
+- ¿Es Ud., Dr. Hill?
+- Sí, soy yo.
+
+603
+01:02:22,920 --> 01:02:24,751
+Qué día.
+
+604
+01:02:53,040 --> 01:02:55,429
+Así está mejor.
+
+605
+01:03:41,200 --> 01:03:42,918
+Meg.
+
+606
+01:03:43,640 --> 01:03:45,073
+- Meg.
+- Dan.
+
+607
+01:03:46,280 --> 01:03:47,998
+- ¿Dan?
+- Estoy asustado.
+
+608
+01:03:48,200 --> 01:03:50,031
+¿Qué pasa?
+
+609
+01:03:50,840 --> 01:03:52,353
+¿Qué te pasa?
+
+610
+01:03:55,240 --> 01:03:58,949
+No lo sé.
+Estaba preocupado por ti.
+
+611
+01:04:00,040 --> 01:04:01,712
+¿Por qué?
+
+612
+01:04:04,200 --> 01:04:07,431
+Me sentía fatal
+por todo.
+
+613
+01:04:09,880 --> 01:04:12,348
+Supongo que me estoy volviendo
+paranoico.
+
+614
+01:04:15,360 --> 01:04:17,157
+Es sólo que...
+
+615
+01:04:17,800 --> 01:04:19,711
+me duele perderte.
+
+616
+01:04:21,720 --> 01:04:23,790
+Deberías irte.
+
+617
+01:04:27,160 --> 01:04:29,469
+Trasladarte a otra universidad.
+
+618
+01:04:29,960 --> 01:04:31,632
+No te preocupes por mí.
+
+619
+01:04:33,880 --> 01:04:36,030
+Tú eres la que deberías irte.
+
+620
+01:04:38,840 --> 01:04:40,831
+Seguir con tu vida.
+
+621
+01:04:43,800 --> 01:04:45,916
+Encontrar a alguien.
+
+622
+01:04:46,520 --> 01:04:48,476
+Intenté odiarte.
+
+623
+01:04:51,600 --> 01:04:54,990
+Quería tanto odiarte.
+
+624
+01:04:59,520 --> 01:05:01,112
+Te amo.
+
+625
+01:05:03,880 --> 01:05:05,836
+- ¡No, papá!
+- ¡Doctor Halsey!
+
+626
+01:05:09,600 --> 01:05:10,555
+No, papá.
+
+627
+01:05:33,000 --> 01:05:34,991
+La puerta.
+
+628
+01:06:15,320 --> 01:06:19,632
+Sí, Alan.
+
+629
+01:07:02,080 --> 01:07:03,035
+¿Dan?
+
+630
+01:07:04,280 --> 01:07:05,235
+¿Dan?
+
+631
+01:07:06,560 --> 01:07:07,515
+¡Dan!
+
+632
+01:07:08,680 --> 01:07:09,874
+Vamos.
+
+633
+01:07:13,960 --> 01:07:16,997
+- Vaya, te pondrás bien.
+- Meg.
+
+634
+01:07:18,080 --> 01:07:20,389
+- Dios mío.
+- ¿Dónde está, Herbert?
+
+635
+01:07:20,600 --> 01:07:23,160
+En el hospital, me imagino.
+¿Puedes ponerte en pie?
+
+636
+01:07:23,360 --> 01:07:24,793
+Vamos.
+
+637
+01:08:13,400 --> 01:08:15,197
+Siempre...
+
+638
+01:08:15,760 --> 01:08:19,594
+admiré tu belleza, querida.
+
+639
+01:08:22,120 --> 01:08:26,796
+Creo que siempre te he querido.
+
+640
+01:08:34,320 --> 01:08:36,914
+Me amarás.
+
+641
+01:08:43,520 --> 01:08:45,272
+Lo harás.
+
+642
+01:08:47,840 --> 01:08:49,068
+Por favor.
+
+643
+01:08:49,400 --> 01:08:51,072
+Por favor, para.
+
+644
+01:08:51,440 --> 01:08:52,953
+Déjeme.
+
+645
+01:08:53,200 --> 01:08:58,718
+Querida, más pasión.
+
+646
+01:09:02,480 --> 01:09:06,393
+- ¡Dios mío!
+- Sí, mi amor.
+
+647
+01:09:07,440 --> 01:09:09,556
+Debo decirle, Dr. Hill...
+
+648
+01:09:09,800 --> 01:09:12,598
+que me decepciona usted.
+
+649
+01:09:13,080 --> 01:09:15,389
+Roba el secreto
+de la vida y la muerte.
+
+650
+01:09:15,520 --> 01:09:18,512
+Y está aquí, revolcándose
+con una cabeza de chorlito.
+
+651
+01:09:18,640 --> 01:09:21,438
+¡Es Ud. Un científico de segunda!
+
+652
+01:09:22,760 --> 01:09:24,398
+Sr. West.
+
+653
+01:09:24,640 --> 01:09:27,916
+Me alegra verlo.
+
+654
+01:09:29,120 --> 01:09:33,671
+Me ahorró el problema
+de mandarlo a buscar.
+
+655
+01:09:34,240 --> 01:09:36,356
+Nunca tendrá el crédito
+de mi descubrimiento.
+
+656
+01:09:36,480 --> 01:09:40,155
+¿Quién creerá a una cabeza parlante?
+Busque trabajo como fenómeno de circo.
+
+657
+01:09:41,560 --> 01:09:43,790
+No comprendo...
+
+658
+01:09:44,000 --> 01:09:47,117
+por qué un joven inteligente
+como usted...
+
+659
+01:09:48,000 --> 01:09:51,629
+comete el error fatal...
+
+660
+01:09:51,840 --> 01:09:54,308
+de venir aquí...
+
+661
+01:09:54,680 --> 01:09:56,716
+para retarme.
+
+662
+01:09:58,880 --> 01:10:00,279
+Tengo un plan.
+
+663
+01:10:00,480 --> 01:10:03,995
+Yo también lo tengo.
+
+664
+01:10:42,080 --> 01:10:43,069
+¡Basta!
+
+665
+01:10:56,280 --> 01:10:59,795
+Voy a mostrarle mi poder, Sr. West.
+
+666
+01:11:00,040 --> 01:11:04,636
+Mi descubrimiento.
+Una cirugía láser...
+
+667
+01:11:05,000 --> 01:11:09,437
+hace posible
+una nueva técnica en lobotomía.
+
+668
+01:11:09,920 --> 01:11:15,756
+Que se transforma en el dominio total
+de la voluntad humana.
+
+669
+01:11:16,360 --> 01:11:21,388
+Los sujetos reanimados
+se han vuelto mejores.
+
+670
+01:11:21,920 --> 01:11:25,549
+Ellos me dan poder.
+
+671
+01:11:25,720 --> 01:11:28,792
+El poder absoluto.
+
+672
+01:11:31,280 --> 01:11:32,633
+Quédate detrás de mí.
+
+673
+01:11:37,400 --> 01:11:39,755
+Papá, escúchame, soy Megan.
+
+674
+01:11:39,960 --> 01:11:42,428
+- Megan.
+- Hill, van a matarla.
+
+675
+01:11:42,600 --> 01:11:44,477
+Entonces yo le daré la vida.
+
+676
+01:11:46,920 --> 01:11:48,876
+Mírame.
+
+677
+01:12:49,120 --> 01:12:50,758
+Vamos, larguémonos.
+
+678
+01:12:51,960 --> 01:12:53,916
+¡Espera!
+Aún no he acabado.
+
+679
+01:12:54,960 --> 01:12:57,952
+- Meg, no.
+- ¡Suéltame!
+
+680
+01:12:58,160 --> 01:13:00,037
+Te dije que tengo una nueva teoría.
+
+681
+01:13:00,240 --> 01:13:02,879
+Sobredosis.
+
+682
+01:13:53,480 --> 01:13:54,959
+¡Herbert!
+
+683
+01:14:13,720 --> 01:14:15,199
+¡Cuidado!
+
+684
+01:14:23,120 --> 01:14:25,475
+- Papá.
+- No, Meg.
+
+685
+01:14:35,000 --> 01:14:36,274
+Mis notas.
+
+686
+01:15:02,160 --> 01:15:03,752
+Déjalo.
+
+687
+01:15:11,960 --> 01:15:13,279
+Vamos.
+
+688
+01:16:21,200 --> 01:16:24,510
+- Dios mío, está muerta.
+- Por aquí.
+
+689
+01:16:30,480 --> 01:16:32,471
+Rápido. Por favor.
+
+690
+01:16:32,880 --> 01:16:34,757
+Activando fibrilación.
+
+691
+01:16:35,360 --> 01:16:37,157
+Deprisa.
+
+692
+01:16:43,600 --> 01:16:46,353
+Déjenme a mí.
+¡Hagan sitio!
+
+693
+01:16:48,680 --> 01:16:50,591
+Fuera todo el mundo.
+
+694
+01:16:51,400 --> 01:16:52,355
+Listo.
+
+695
+01:16:55,640 --> 01:16:56,914
+Nada.
+
+696
+01:16:58,440 --> 01:16:59,475
+Otra vez.
+
+697
+01:17:02,760 --> 01:17:06,719
+- Están dilatadas.
+- No hay respuesta.
+
+698
+01:17:12,520 --> 01:17:14,158
+Cain.
+
+699
+01:17:15,800 --> 01:17:17,472
+Cain.
+
+700
+01:18:51,480 --> 01:18:53,357
+Te quiero.
+

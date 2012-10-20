@@ -1,0 +1,4529 @@
+1
+00:01:28,421 --> 00:01:30,651
+Hola, papá.
+¿Te demoraste por el tránsito?
+
+2
+00:01:30,723 --> 00:01:33,817
+¿Cuántas veces te lo dije?
+No andes en bici por Sunset.
+
+3
+00:01:34,327 --> 00:01:36,227
+¿Quieres que te arrolle
+un productor de cine?
+
+4
+00:01:36,863 --> 00:01:40,629
+- Por algo te compré el BMW.
+- Está bien. Lo conduciré.
+
+5
+00:01:41,868 --> 00:01:45,099
+- Hasta la ruta 101 a Santa Bárbara.
+- Dana...
+
+6
+00:01:45,171 --> 00:01:47,105
+¿Abriste aunque sea
+el catálogo que te di?
+
+7
+00:01:47,440 --> 00:01:49,240
+¿Vas a analizar peces
+y surfear todo el día?
+
+8
+00:01:49,241 --> 00:01:51,240
+No puedo ni hablar contigo.
+
+9
+00:01:51,311 --> 00:01:53,802
+Tienes paga una muy buena universidad.
+
+10
+00:01:53,947 --> 00:01:55,778
+- Vas a asistir, y se terminó.
+- ¿Por qué?
+
+11
+00:01:55,849 --> 00:01:57,840
+¿Para tener un empleo que pague mucho...
+
+12
+00:01:57,917 --> 00:02:00,818
+...y pudrirme ante un escritorio
+todo el día para saldar todo esto?
+
+13
+00:02:02,455 --> 00:02:05,253
+- Tal vez "pudrirme" no fue lo correcto.
+- No tengo tiempo.
+
+14
+00:02:05,458 --> 00:02:07,153
+Nunca tienes tiempo.
+
+15
+00:02:07,227 --> 00:02:10,143
+Papá, entiendo que trabajes tanto.
+En serio.
+
+16
+00:02:10,144 --> 00:02:12,859
+Pero yo me asfixiaría en ese mundo.
+
+17
+00:02:12,932 --> 00:02:15,901
+Soy como mamá.
+Alguien de espíritu libre.
+
+18
+00:02:17,103 --> 00:02:19,003
+¿De dónde sacaste eso
+de "espíritu libre"?
+
+19
+00:02:19,072 --> 00:02:20,664
+De su diario, papá.
+
+20
+00:02:22,142 --> 00:02:24,042
+No debiste traerla a Los Ángeles.
+
+21
+00:02:24,110 --> 00:02:26,044
+Eso fue lo que la mató, no el cáncer.
+
+22
+00:02:27,347 --> 00:02:30,714
+Dana, déjame tranquilo.
+Tenías cinco años. Apenas la conociste.
+
+23
+00:02:59,612 --> 00:03:01,102
+<i>Choca los cinco.</i>
+
+24
+00:03:02,882 --> 00:03:04,713
+<i>Eso es gracioso.</i>
+
+25
+00:03:05,018 --> 00:03:07,452
+<i>Quítame la cámara de la cara.</i>
+
+26
+00:03:07,520 --> 00:03:08,953
+<i>Mira eso, ahí mismo.</i>
+
+27
+00:03:16,729 --> 00:03:19,755
+<i>Vamos, chicos. La comida está lista.</i>
+
+28
+00:03:20,366 --> 00:03:21,628
+<i>Papi, ¿me prestas la cámara?</i>
+
+29
+00:03:21,701 --> 00:03:24,033
+<i>Dana, ve a buscar el cubo,
+o se lo llevan las olas.</i>
+
+30
+00:03:25,138 --> 00:03:28,073
+<i>Ve a rescatar tu cubo del mar.</i>
+
+31
+00:03:31,644 --> 00:03:33,305
+<i>Esto es divertido.</i>
+
+32
+00:03:41,588 --> 00:03:43,488
+<i>Cuidado. Es una ola enorme.</i>
+
+33
+00:03:50,063 --> 00:03:52,691
+<i>Vamos, hagamos un castillo de arena.</i>
+
+34
+00:03:55,168 --> 00:03:57,796
+<i>Te voy a atrapar.</i>
+
+35
+00:04:01,007 --> 00:04:03,134
+<i>Anoche tuve un sueño.</i>
+
+36
+00:04:03,209 --> 00:04:06,542
+<i>En él, llevaba a Dana
+a Sudáfrica de nuevo conmigo...</i>
+
+37
+00:04:06,746 --> 00:04:10,113
+<i>...y le mostraba Bay of Plenty
+y Cave Rock...</i>
+
+38
+00:04:10,516 --> 00:04:13,576
+<i>...Vulamanzi Point y Banana Reef.</i>
+
+39
+00:04:13,653 --> 00:04:18,056
+<i>Recorríamos toda la Wild Coast
+hasta Coffee Bay y Bruce's.</i>
+
+40
+00:04:19,025 --> 00:04:21,357
+<i>Por fin llegábamos a Jeffreys Bay...</i>
+
+41
+00:04:21,427 --> 00:04:25,591
+<i>...el lugar donde siempre soñé
+con surfear.</i>
+
+42
+00:04:27,066 --> 00:04:30,092
+<i>Ojalá pudiera llevarla ahí.</i>
+
+43
+00:04:30,169 --> 00:04:35,300
+<i>Si ella pudiera ver esos lugares,
+quizá también podría verme a mí.</i>
+
+44
+00:04:37,176 --> 00:04:39,167
+<i>Pero eso nunca va a pasar.</i>
+
+45
+00:04:39,245 --> 00:04:41,304
+<i>No me queda tiempo.</i>
+
+46
+00:04:41,381 --> 00:04:43,611
+<i>Y me temo que nunca
+podré volver a mi país.</i>
+
+47
+00:04:50,923 --> 00:04:53,585
+<i>Papá, para cuando vuelvas
+de tu viaje de negocios...</i>
+
+48
+00:04:53,660 --> 00:04:55,252
+<i>...estaré en Sudáfrica.</i>
+
+49
+00:04:55,762 --> 00:04:58,458
+<i>Un poco de distancia
+nos va a venir bien.</i>
+
+50
+00:04:58,631 --> 00:05:01,361
+<i>Es hora de que conozca
+un poco más sobre mamá.</i>
+
+51
+00:05:02,001 --> 00:05:04,128
+<i>Es algo que tengo que hacer.</i>
+
+52
+00:05:04,671 --> 00:05:05,871
+<i>No te preocupes por mí.</i>
+
+53
+00:05:05,872 --> 00:05:09,472
+<i>Voy a estar bien, como siempre.
+Te quiere, Dana.</i>
+
+54
+00:05:20,219 --> 00:05:23,416
+- ¿Primer viaje a Sudáfrica?
+- Sí.
+
+55
+00:05:23,923 --> 00:05:26,050
+¿Vas a ver parientes?
+
+56
+00:05:27,226 --> 00:05:28,284
+Algo así.
+
+57
+00:05:29,095 --> 00:05:31,495
+- Que lo disfrutes.
+- Gracias.
+
+58
+00:05:36,135 --> 00:05:37,625
+Déjame adivinar...
+
+59
+00:05:38,805 --> 00:05:42,104
+...una joven californiana va al sur
+en busca de una oleada invernal.
+
+60
+00:05:43,042 --> 00:05:44,066
+¿Tan evidente es?
+
+61
+00:05:44,310 --> 00:05:46,904
+Un vuelo a Durban, la ciudad del surf.
+
+62
+00:05:47,313 --> 00:05:49,713
+Lentes de sol Roxy, pelo descolorido.
+
+63
+00:05:49,782 --> 00:05:54,742
+- Qué perspicaz lo tuyo.
+- Sí, también llevas la revista de surf.
+
+64
+00:05:56,789 --> 00:05:58,814
+Todos los que practican surf la tienen.
+
+65
+00:05:59,525 --> 00:06:01,288
+- Soy Grant.
+- Dana.
+
+66
+00:06:01,794 --> 00:06:03,022
+Un placer, californiana.
+
+67
+00:06:04,297 --> 00:06:06,094
+¿Adónde vas?
+
+68
+00:06:06,866 --> 00:06:10,131
+- No tengo un plan fijo.
+- Qué bien.
+
+69
+00:06:10,203 --> 00:06:12,967
+- Una mendiga de las playas.
+- Sí.
+
+70
+00:06:13,039 --> 00:06:15,200
+Si vas hacia el sur, búscame.
+
+71
+00:06:15,675 --> 00:06:17,370
+Te compraré un licuado en mi bar.
+
+72
+00:06:18,077 --> 00:06:19,510
+Se llama Sally Can't Surf.
+
+73
+00:06:20,980 --> 00:06:23,540
+- Genial. Gracias.
+- Un placer.
+
+74
+00:06:46,539 --> 00:06:48,302
+¿Taxi?
+
+75
+00:06:51,210 --> 00:06:54,077
+- Señorita, ¿adónde va?
+- ¿Adónde puedo tomar un bus a la playa?
+
+76
+00:06:54,180 --> 00:06:56,705
+- Hoy no hay buses, señorita.
+- ¡Oiga! ¿Qué hace?
+
+77
+00:06:56,983 --> 00:07:01,443
+Vacaciones especiales. Un buen precio.
+No hay problema. Le haré buen precio.
+
+78
+00:07:06,325 --> 00:07:07,587
+<i>Atención a los pasajeros.</i>
+
+79
+00:07:07,960 --> 00:07:11,361
+<i>Este bus parte con destino a Durban
+en dos minutos.</i>
+
+80
+00:07:11,431 --> 00:07:12,659
+Lo siento.
+
+81
+00:07:18,805 --> 00:07:19,936
+Mueve el bolso.
+
+82
+00:07:19,937 --> 00:07:21,467
+Perdón, pero este asiento está ocupado.
+
+83
+00:07:21,641 --> 00:07:24,769
+- ¿Sí? ¿Quién está?
+- Ella.
+
+84
+00:07:25,711 --> 00:07:28,612
+Oye, llegas tarde. Te guardé el asiento.
+
+85
+00:07:46,332 --> 00:07:49,665
+- Pushy.
+- ¿Qué dices? Qué cretino.
+
+86
+00:07:49,969 --> 00:07:52,335
+Me llamo Pushy.
+
+87
+00:07:54,373 --> 00:07:57,308
+Qué extraño.
+¿Cómo se traduce en tu idioma?
+
+88
+00:07:57,677 --> 00:07:59,645
+- Pushy.
+- ¿Te refieres a "prepotente"?
+
+89
+00:07:59,879 --> 00:08:03,076
+- Mi nombre en zulú es Nokuthula.
+- ¿Qué significa?
+
+90
+00:08:03,316 --> 00:08:04,681
+"Cállate."
+
+91
+00:08:24,570 --> 00:08:25,628
+¿Qué?
+
+92
+00:08:26,072 --> 00:08:29,564
+Nunca antes había visto
+una chica blanca en un bus.
+
+93
+00:08:29,642 --> 00:08:33,442
+- Ni yo una chica negra que surfee.
+- Si tienes suerte...
+
+94
+00:08:33,513 --> 00:08:36,414
+...quizá puedas observarlo
+por primera vez.
+
+95
+00:08:37,083 --> 00:08:38,550
+Tal vez aprendas algo.
+
+96
+00:08:38,618 --> 00:08:41,746
+Si esa situación particular
+se nos presenta...
+
+97
+00:08:42,788 --> 00:08:46,349
+...no te asombres si no soy yo
+la que aprenda una lección.
+
+98
+00:09:24,030 --> 00:09:25,429
+Allá está New Pier.
+
+99
+00:09:25,965 --> 00:09:28,695
+Pegan olas increíbles
+casi todos los días.
+
+100
+00:09:30,937 --> 00:09:34,703
+- Es el mejor lugar de la ciudad.
+- ¿Qué esperamos?
+
+101
+00:09:41,814 --> 00:09:43,509
+- ¿Estás bien?
+- Sí, nos vemos ahí.
+
+102
+00:10:02,168 --> 00:10:04,762
+- Parece decente.
+- ¿Decente?
+
+103
+00:10:05,338 --> 00:10:07,772
+Apuesto a que es mejor que Malibú.
+
+104
+00:10:08,641 --> 00:10:11,269
+Mi consejo: Siéntate...
+
+105
+00:10:11,711 --> 00:10:17,343
+...sonríe, espera a que peguen contra
+el muelle y quizá puedas montar alguna.
+
+106
+00:10:20,720 --> 00:10:23,120
+- Demonios.
+- ¿Qué?
+
+107
+00:10:23,222 --> 00:10:25,417
+No me digas que le temes
+a las olas de 1,20 m.
+
+108
+00:10:25,491 --> 00:10:29,222
+No, a las olas no. Es ella. Tara.
+
+109
+00:10:37,770 --> 00:10:39,863
+Vaya. Tara sabe surfear.
+
+110
+00:10:41,774 --> 00:10:44,402
+¿Qué hacemos? ¿Nos zambullimos?
+
+111
+00:10:45,878 --> 00:10:48,403
+A veces es la única manera.
+
+112
+00:11:19,812 --> 00:11:22,144
+Aquí ya somos demasiados.
+Vayan a South Beach.
+
+113
+00:11:23,916 --> 00:11:25,747
+Aquí hay muchísimas olas, Tara.
+
+114
+00:11:26,285 --> 00:11:29,914
+Sí. Para mí. No para ti ni para Barbie.
+
+115
+00:11:30,556 --> 00:11:32,922
+No te metas en mi camino,
+y yo no me meteré en el tuyo.
+
+116
+00:11:32,992 --> 00:11:35,893
+¿Sí? Será mejor que le expliques
+el orden de jerarquías, Push.
+
+117
+00:11:36,295 --> 00:11:37,887
+No quisiera enseñarle por la fuerza.
+
+118
+00:11:44,937 --> 00:11:47,269
+Vamos. Detesto esta onda agresiva.
+
+119
+00:11:47,440 --> 00:11:52,673
+De ningún modo. Viajé 23 horas en
+un avión en tercera. Voy a surfear.
+
+120
+00:12:02,188 --> 00:12:04,053
+Cuidado que viene Gidget.
+
+121
+00:12:05,024 --> 00:12:09,654
+- ¿Vienes a la lección de surf?
+- Oye, <i>Baywatch,</i> ¿cómo estás?
+
+122
+00:12:09,729 --> 00:12:12,357
+¿Tu papá te compró
+la tabla de surf antigua?
+
+123
+00:12:39,391 --> 00:12:40,449
+Es mía.
+
+124
+00:12:41,927 --> 00:12:43,519
+Ni en sueños.
+
+125
+00:13:31,343 --> 00:13:33,811
+- Vaya.
+- Sí, linda ola.
+
+126
+00:13:34,046 --> 00:13:37,777
+No, me refiero a que le robaste
+una ola a la abeja reina.
+
+127
+00:13:37,850 --> 00:13:39,784
+Luego hablas de quién debe
+aprender una lección.
+
+128
+00:13:39,952 --> 00:13:43,080
+Sí. Tara necesita aflojarse un poco.
+
+129
+00:13:43,155 --> 00:13:45,555
+Vamos.
+
+130
+00:13:53,933 --> 00:13:56,197
+Genial. Ahora cualquier idiota cree
+que sabe surfear.
+
+131
+00:14:01,841 --> 00:14:03,103
+¡Fuera!
+
+132
+00:14:05,277 --> 00:14:06,608
+Fuera de mi camino, Barbie.
+
+133
+00:14:10,149 --> 00:14:11,241
+¡Muévete!
+
+134
+00:14:11,684 --> 00:14:13,777
+Te dije que iba yo. ¡Oye!
+
+135
+00:14:14,887 --> 00:14:16,286
+¡Maldición!
+
+136
+00:14:36,108 --> 00:14:37,939
+- ¿Qué crees que haces?
+- ¡Maldición!
+
+137
+00:14:38,010 --> 00:14:40,308
+¡Casi me matas! ¡Sal del agua, idiota!
+
+138
+00:14:40,579 --> 00:14:41,910
+¡Te caíste sobre ella, Tara!
+
+139
+00:14:45,584 --> 00:14:47,984
+- ¡Maldita sea!
+- ¿Por qué tienes...?
+
+140
+00:14:48,053 --> 00:14:49,953
+- ¿Qué cosa?
+- ¡Dios!
+
+141
+00:14:50,022 --> 00:14:52,354
+Eso es. Huye.
+
+142
+00:14:53,959 --> 00:14:55,620
+Y no vuelvas.
+
+143
+00:15:03,502 --> 00:15:04,992
+¿Así son las cosas en Sudáfrica?
+
+144
+00:15:05,170 --> 00:15:06,501
+No le hagas caso.
+
+145
+00:15:06,572 --> 00:15:09,541
+Te robaste la ola cerrada del día.
+Frente a todos.
+
+146
+00:15:09,675 --> 00:15:13,111
+- Sí, pero ¡arruiné mi tabla!
+- Mejor la tabla que la cabeza.
+
+147
+00:15:13,812 --> 00:15:16,645
+Era de mi mamá. No puedo reemplazarla.
+
+148
+00:15:22,254 --> 00:15:24,051
+No puedo creerlo.
+
+149
+00:15:28,727 --> 00:15:31,662
+No.
+
+150
+00:15:41,807 --> 00:15:43,638
+Esto no puede ser.
+
+151
+00:15:47,579 --> 00:15:48,739
+Maldita sea.
+
+152
+00:15:48,814 --> 00:15:51,248
+- ¿Tu dinero?
+- Eso no me interesa.
+
+153
+00:15:52,985 --> 00:15:54,509
+La talla de mi madre tampoco está.
+
+154
+00:15:55,154 --> 00:15:57,452
+Sí, estos casilleros son de juguete.
+
+155
+00:15:58,290 --> 00:15:59,917
+No me digas.
+
+156
+00:16:04,430 --> 00:16:05,692
+¿Sabes qué? Lo siento.
+
+157
+00:16:05,764 --> 00:16:07,823
+¿Podrías dejarme sola un momento?
+
+158
+00:16:31,156 --> 00:16:34,250
+<i>Dana, déjame tranquilo.
+Apenas la conociste.</i>
+
+159
+00:16:39,164 --> 00:16:42,395
+Quisiera hacer una llamada por cobrar
+a Estados Unidos.
+
+160
+00:16:44,803 --> 00:16:49,001
+Código de área 310-467
+
+161
+00:16:49,775 --> 00:16:52,437
+Debes de tener hambre.
+
+162
+00:16:52,878 --> 00:16:54,971
+Esta noche asamos pescado.
+
+163
+00:17:00,085 --> 00:17:01,575
+Cuelga.
+
+164
+00:17:02,354 --> 00:17:05,414
+Vamos. Date una oportunidad más.
+
+165
+00:17:11,530 --> 00:17:13,020
+¿Qué pescado?
+
+166
+00:17:18,637 --> 00:17:22,198
+Mi papá moriría del susto
+si me viera haciendo esto.
+
+167
+00:17:22,741 --> 00:17:25,505
+Me llevaría arrastrando a casa,
+sin duda.
+
+168
+00:17:25,577 --> 00:17:28,375
+Si supiera dónde estoy, claro.
+
+169
+00:17:28,447 --> 00:17:30,677
+¿No sabe tu papá que estás en África?
+
+170
+00:17:31,316 --> 00:17:34,217
+Cielos, estás en problemas, nena.
+
+171
+00:17:36,321 --> 00:17:41,224
+No. Lo dudo. Ni siquiera estoy segura
+de si sabe que me fui.
+
+172
+00:17:41,493 --> 00:17:42,585
+¿Qué?
+
+173
+00:17:47,266 --> 00:17:49,063
+Gracias, viejo.
+
+174
+00:17:49,168 --> 00:17:50,692
+- Gracias.
+- De nada.
+
+175
+00:18:03,982 --> 00:18:07,509
+- ¿Vives aquí?
+- Sí.
+
+176
+00:18:07,686 --> 00:18:09,677
+Y estas personas son mi familia.
+
+177
+00:18:09,755 --> 00:18:10,779
+- Hola, muchachos.
+- Hola.
+
+178
+00:18:11,557 --> 00:18:14,151
+Podría ser el paraíso.
+
+179
+00:18:14,226 --> 00:18:17,491
+Un momento. ¿Qué diablos hace ella aquí?
+
+180
+00:18:18,864 --> 00:18:20,764
+- Vive aquí.
+- ¿Qué?
+
+181
+00:18:21,400 --> 00:18:26,303
+¿Vive contigo? Borra lo de "paraíso"
+e inserta "infierno".
+
+182
+00:18:26,738 --> 00:18:31,334
+- ¿Cuál es su problema?
+- Para empezar, es atleta profesional.
+
+183
+00:18:31,577 --> 00:18:35,570
+Es la número uno del equipo Roxy,
+y no deja que nadie lo olvide.
+
+184
+00:18:35,647 --> 00:18:38,115
+Pensé que había quedado claro
+lo de "no vuelvas".
+
+185
+00:18:38,383 --> 00:18:40,374
+Y aquí te veo de nuevo.
+Como un mal recuerdo.
+
+186
+00:18:40,452 --> 00:18:42,511
+No es tu casa solamente, Tara.
+
+187
+00:18:42,588 --> 00:18:45,648
+No, pero hay un orden de jerarquías,
+como en la línea.
+
+188
+00:18:45,724 --> 00:18:48,522
+Sí.
+Tu orden de jerarquías no va conmigo.
+
+189
+00:18:50,629 --> 00:18:52,688
+Volvió la policía. Ya saben qué hacer.
+
+190
+00:18:52,764 --> 00:18:54,789
+- Otra vez, no.
+- Retomaremos más tarde.
+
+191
+00:18:56,368 --> 00:18:58,029
+- Vamos.
+- ¡Andando!
+
+192
+00:19:12,017 --> 00:19:13,314
+Vamos.
+
+193
+00:19:15,754 --> 00:19:19,315
+<i>Por orden de la municipalidad
+metropolitana de e Thekwini...</i>
+
+194
+00:19:19,391 --> 00:19:21,518
+<i>...esta propiedad
+está declarada ruinosa...</i>
+
+195
+00:19:21,693 --> 00:19:23,957
+<i>...y deben evacuarla de inmediato.</i>
+
+196
+00:19:24,363 --> 00:19:26,831
+- ¿Podrías explicarme esto?
+- Quieren que nos vayamos.
+
+197
+00:19:27,499 --> 00:19:29,126
+Les molestamos.
+
+198
+00:19:30,369 --> 00:19:32,303
+Quieren demoler el lugar.
+
+199
+00:19:35,374 --> 00:19:37,239
+<i>Es la última advertencia.</i>
+
+200
+00:19:37,509 --> 00:19:40,137
+<i>Vamos a demoler esta estructura
+en una semana.</i>
+
+201
+00:19:42,114 --> 00:19:45,242
+<i>Por orden del tribunal,
+ésta es la última advertencia.</i>
+
+202
+00:19:51,123 --> 00:19:52,715
+Globos rellenos con pis.
+
+203
+00:19:53,759 --> 00:19:54,919
+¡Qué asco!
+
+204
+00:19:58,397 --> 00:20:01,924
+<i>Es la última advertencia.
+Tienen una semana para retirarse.</i>
+
+205
+00:20:04,336 --> 00:20:06,770
+Vamos, te presentaré a la familia.
+
+206
+00:20:08,740 --> 00:20:10,765
+<i>Nos apropiamos de esta playa hace años.</i>
+
+207
+00:20:11,243 --> 00:20:14,178
+<i>Primero sólo eran un par de tiendas
+y unas tablas de surf.</i>
+
+208
+00:20:14,580 --> 00:20:17,105
+<i>Ahora es una comunidad
+que se autosustenta.</i>
+
+209
+00:20:17,182 --> 00:20:22,210
+<i>En realidad, es un grupo de amigos
+que toman en serio el ocio y el surfear.</i>
+
+210
+00:20:22,354 --> 00:20:24,117
+- Bienvenida.
+- Me gusta tu familia.
+
+211
+00:20:24,289 --> 00:20:27,850
+La mejor gente del mundo.
+Conocí a todos por Tim.
+
+212
+00:20:28,760 --> 00:20:29,818
+¡Oye!
+
+213
+00:20:32,698 --> 00:20:34,563
+Hablando de Roma.
+
+214
+00:20:34,633 --> 00:20:36,123
+Timothy, te presento a Dana.
+
+215
+00:20:36,535 --> 00:20:37,866
+- Hola.
+- Hola.
+
+216
+00:20:39,738 --> 00:20:42,935
+- ¿Eres de Los Ángeles?
+- Sí. Llegué hoy.
+
+217
+00:20:43,308 --> 00:20:45,401
+- ¿Te quedas?
+- No sé.
+
+218
+00:20:45,877 --> 00:20:47,538
+Eso significa que te quedas.
+
+219
+00:20:47,613 --> 00:20:50,639
+Pushy, mostrémosle lo mejor.
+
+220
+00:20:56,421 --> 00:20:57,786
+¿Qué tal?
+
+221
+00:20:57,956 --> 00:20:59,548
+Mi humilde morada.
+
+222
+00:21:00,993 --> 00:21:04,019
+Genial. ¿Y anda?
+
+223
+00:21:04,096 --> 00:21:06,724
+Si me las arreglo, algún día, sí.
+
+224
+00:21:08,967 --> 00:21:10,032
+Cuántos elefantes.
+
+225
+00:21:10,033 --> 00:21:13,097
+Sí, soy voluntario
+en una reserva natural.
+
+226
+00:21:13,639 --> 00:21:16,972
+Además de ser uno de los mejores
+surfistas del lugar.
+
+227
+00:21:17,042 --> 00:21:20,808
+Y el que lo remienda todo.
+De ahí el desorden.
+
+228
+00:21:21,613 --> 00:21:23,979
+Pero puedo hacerte un lugar
+si necesitas dónde dormir.
+
+229
+00:21:24,049 --> 00:21:27,314
+¡Buen intento! Se quedará conmigo.
+
+230
+00:21:29,288 --> 00:21:30,516
+Vamos.
+
+231
+00:21:43,602 --> 00:21:47,504
+Cuidado, Dana. Ya viste cómo tratamos
+a los de afuera.
+
+232
+00:21:47,939 --> 00:21:48,997
+Se quedará conmigo, Tara.
+
+233
+00:21:50,942 --> 00:21:52,876
+No te metas en mi camino.
+
+234
+00:21:53,478 --> 00:21:55,742
+Con gusto.
+
+235
+00:21:59,251 --> 00:22:04,553
+No es el Hilton,
+pero tampoco está tan mal.
+
+236
+00:22:07,759 --> 00:22:09,590
+Sí, podría soportarlo un tiempo.
+
+237
+00:22:14,966 --> 00:22:18,868
+Veo a Laura y a Sally,
+las mejores surfistas de Roxy...
+
+238
+00:22:20,272 --> 00:22:22,502
+...pero no veo a Tara.
+
+239
+00:22:22,574 --> 00:22:24,565
+No sé cómo se me pasó por alto.
+
+240
+00:22:26,078 --> 00:22:28,444
+Una chica con suerte, ¿no?
+
+241
+00:22:28,513 --> 00:22:31,448
+Recorre el mundo,
+practica surf todo el día...
+
+242
+00:22:31,449 --> 00:22:34,383
+...posa para las cámaras
+y encima le pagan.
+
+243
+00:22:34,686 --> 00:22:36,881
+- ¿Por qué no te postulas en el equipo?
+- Lo intenté.
+
+244
+00:22:38,223 --> 00:22:41,784
+- No llegué.
+- ¿Por qué? Sabes surfear bien. Te vi.
+
+245
+00:22:42,494 --> 00:22:44,587
+- O...
+- ¿O qué?
+
+246
+00:22:46,765 --> 00:22:49,233
+O Tara me saboteó.
+
+247
+00:22:50,235 --> 00:22:53,068
+Vaya. No me extraña.
+
+248
+00:22:53,205 --> 00:22:57,539
+Sí, una linda familia feliz.
+
+249
+00:22:57,609 --> 00:22:59,577
+Eso es lo que somos.
+
+250
+00:23:01,980 --> 00:23:05,245
+- ¿Estás cansada por el cambio horario?
+- Un poco.
+
+251
+00:23:18,163 --> 00:23:19,562
+¿Dana?
+
+252
+00:23:41,386 --> 00:23:42,444
+¡Dana!
+
+253
+00:24:09,948 --> 00:24:12,280
+¡Hola, hermana!
+
+254
+00:24:13,418 --> 00:24:16,751
+- Tranquilo.
+- Estoy tranquilo.
+
+255
+00:24:16,822 --> 00:24:19,950
+- No, actúa tranquilo.
+- Está bien.
+
+256
+00:24:20,025 --> 00:24:21,993
+Mira, un zombi.
+
+257
+00:24:22,394 --> 00:24:27,127
+- La noche de la muerta Dana.
+- Comida. Denme comida.
+
+258
+00:24:27,599 --> 00:24:29,032
+<i>Voilà.</i>
+
+259
+00:24:31,303 --> 00:24:34,966
+Dios mío. Es el mejor pescado que comí.
+
+260
+00:24:35,040 --> 00:24:37,099
+Qué bien, porque es
+el plato principal de mañana.
+
+261
+00:24:37,175 --> 00:24:39,109
+- Y pasado.
+- Y el desayuno.
+
+262
+00:24:40,846 --> 00:24:42,336
+Qué bien.
+
+263
+00:24:46,418 --> 00:24:48,579
+- Oye. Grant.
+- Hola.
+
+264
+00:24:50,155 --> 00:24:51,918
+Hola, Sugaree.
+
+265
+00:24:54,392 --> 00:24:55,654
+No puedo creerlo.
+
+266
+00:24:56,127 --> 00:24:59,290
+- ¿Conoces a Grant?
+- Nos conocimos en el avión.
+
+267
+00:25:00,765 --> 00:25:03,825
+- Apuesto a que volaba en primera clase.
+- ¿Cómo lo sabes?
+
+268
+00:25:04,503 --> 00:25:06,630
+Grant es el único
+que puede pagar un camión así.
+
+269
+00:25:07,906 --> 00:25:09,237
+Ojalá tuviera uno.
+
+270
+00:25:09,574 --> 00:25:12,065
+Créeme que no te gustaría
+mezclarte en eso.
+
+271
+00:25:12,477 --> 00:25:14,775
+Vamos. Te mostraré
+las tortugas marinas gigantes.
+
+272
+00:25:14,846 --> 00:25:16,575
+Desovan en la playa.
+
+273
+00:25:16,815 --> 00:25:18,043
+¡Si es la californiana!
+
+274
+00:25:19,684 --> 00:25:23,051
+- Pensé que no tardarías en aparecer.
+- Qué chico es el mundo.
+
+275
+00:25:23,288 --> 00:25:25,552
+- Sí.
+- Pushy me trajo.
+
+276
+00:25:26,992 --> 00:25:28,254
+Pushy.
+
+277
+00:25:30,095 --> 00:25:31,494
+Hermano.
+
+278
+00:25:31,863 --> 00:25:33,125
+Te debo una. Sí.
+
+279
+00:25:34,466 --> 00:25:36,957
+Entonces, californiana,
+¿nos muestras lo que sabes hacer?
+
+280
+00:25:38,069 --> 00:25:39,866
+- No sé.
+- Vamos.
+
+281
+00:25:40,305 --> 00:25:42,136
+Sientes el ritmo.
+
+282
+00:25:44,042 --> 00:25:45,509
+Vamos.
+
+283
+00:25:46,978 --> 00:25:48,639
+¿Me sostienes esto?
+
+284
+00:25:55,720 --> 00:25:58,433
+"Te mostraré las tortugas
+marinas gigantes."
+
+285
+00:25:58,434 --> 00:25:59,747
+¿Estás loco?
+
+286
+00:26:00,158 --> 00:26:01,216
+Cállate.
+
+287
+00:26:19,878 --> 00:26:21,869
+La californiana sabe bailar.
+
+288
+00:27:33,885 --> 00:27:35,512
+¿Pushy?
+
+289
+00:28:10,488 --> 00:28:12,046
+Nos vemos.
+
+290
+00:28:25,637 --> 00:28:28,902
+- ¡Buenos días, californiana!
+- Hola.
+
+291
+00:28:29,541 --> 00:28:31,702
+- ¿Desfase horario?
+- Aquí estoy, ¿o no?
+
+292
+00:28:36,815 --> 00:28:40,046
+No puedo creer que esos dos sean amigos.
+Parecen tan distintos.
+
+293
+00:28:40,885 --> 00:28:43,513
+El amor por el mar
+atrae a espíritus distintos.
+
+294
+00:28:45,023 --> 00:28:47,924
+Creo que también sienten
+la misma atracción por algo más.
+
+295
+00:28:48,993 --> 00:28:51,359
+- No te seguiré el juego.
+- ¿En serio?
+
+296
+00:28:51,730 --> 00:28:54,893
+Creo que anoche tus labios
+sí querían jugar.
+
+297
+00:28:54,966 --> 00:28:57,992
+- Y la lengua también.
+- Claro.
+
+298
+00:29:00,338 --> 00:29:04,001
+Adelante, chica. Es tuya.
+Muéstrales lo que sabes.
+
+299
+00:29:04,075 --> 00:29:06,407
+Estoy como loca.
+
+300
+00:29:08,980 --> 00:29:11,414
+¡Adelante, californiana!
+
+301
+00:29:17,055 --> 00:29:18,750
+¡Vamos, chica!
+
+302
+00:29:28,833 --> 00:29:30,892
+- Continúa, viejo.
+- ¡Eso intento!
+
+303
+00:29:41,946 --> 00:29:44,881
+Ve por ellas, Tim.
+
+304
+00:30:15,914 --> 00:30:18,075
+¡Vamos!
+
+305
+00:31:30,989 --> 00:31:32,786
+¿No la recuerdas para nada?
+
+306
+00:31:35,526 --> 00:31:39,223
+Tengo algunas imágenes borrosas.
+Como en un sueño.
+
+307
+00:31:39,297 --> 00:31:41,458
+Se llamaba Catherine.
+
+308
+00:31:41,532 --> 00:31:44,933
+- Yo tenía cinco años.
+- ¿Son las únicas que te quedan?
+
+309
+00:31:45,503 --> 00:31:49,769
+Y tenía otro recuerdo de ella,
+pero me lo robaron con todo.
+
+310
+00:31:50,808 --> 00:31:53,038
+Siempre quiso mostrarme su tierra natal.
+
+311
+00:31:55,046 --> 00:31:56,877
+¡Tu mamá era súper sexy!
+
+312
+00:31:59,150 --> 00:32:00,777
+De tal palo, tal astilla.
+
+313
+00:32:05,523 --> 00:32:08,321
+Sí. Mira esto, hermano.
+
+314
+00:32:09,160 --> 00:32:12,220
+Supertubes, un clásico. Y ni un alma.
+
+315
+00:32:13,164 --> 00:32:15,359
+¿Cuándo fue la última vez que viste
+así a J's Bay?
+
+316
+00:32:15,833 --> 00:32:17,198
+- Nunca.
+- Nunca.
+
+317
+00:32:17,268 --> 00:32:19,259
+Escribió mucho sobre Jeffrey's Bay
+en su diario.
+
+318
+00:32:19,504 --> 00:32:20,835
+Como si fuera un lugar sagrado.
+
+319
+00:32:21,105 --> 00:32:24,472
+"Sagrado" es la palabra.
+El mejor rompiente de olas del mundo.
+
+320
+00:32:25,076 --> 00:32:27,874
+Mi vieja morada.
+
+321
+00:32:27,946 --> 00:32:29,971
+Cuando Jeffrey’s Bay está a pleno...
+
+322
+00:32:30,114 --> 00:32:31,945
+Y las olas vienen de Boneyards...
+
+323
+00:32:32,016 --> 00:32:34,041
+...por Impossibles, hasta The Point...
+
+324
+00:32:34,419 --> 00:32:36,169
+Es el santo grial
+de las olas de derecha.
+
+325
+00:32:36,170 --> 00:32:37,320
+El santo grial.
+
+326
+00:32:37,555 --> 00:32:40,149
+Era en el único lugar
+que deseaba surfear antes de morir.
+
+327
+00:32:40,458 --> 00:32:41,652
+Pero no lo logró.
+
+328
+00:32:42,794 --> 00:32:44,421
+- No.
+- Quizá no hubiera podido.
+
+329
+00:32:45,396 --> 00:32:46,693
+Pero yo lo haré.
+
+330
+00:32:46,764 --> 00:32:48,197
+Lo haré por ella.
+
+331
+00:32:49,067 --> 00:32:50,091
+¿Saben qué más?
+
+332
+00:32:50,234 --> 00:32:53,169
+Voy a recorrer todos los lugares
+de esas fotos.
+
+333
+00:32:54,339 --> 00:32:57,536
+¿Sabes qué, Dana? Estás en un <i>Uhambo.</i>
+
+334
+00:32:58,276 --> 00:33:00,369
+Así lo llamamos en Sudáfrica.
+
+335
+00:33:00,511 --> 00:33:02,945
+Cuando alguien está buscando...
+
+336
+00:33:04,849 --> 00:33:08,785
+- ¿Qué?
+- No sé. A mi mamá, supongo.
+
+337
+00:33:09,387 --> 00:33:11,048
+O quizá a ti misma.
+
+338
+00:33:11,122 --> 00:33:13,215
+En Australia lo llaman "paseo".
+
+339
+00:33:13,658 --> 00:33:15,455
+En Tierra Santa, peregrinación.
+
+340
+00:33:15,526 --> 00:33:17,721
+¿Cómo lo llaman en EE. UU.?
+
+341
+00:33:19,897 --> 00:33:21,990
+- ¿Un viaje?
+- Qué aburrido.
+
+342
+00:33:22,100 --> 00:33:23,590
+No me gusta.
+
+343
+00:33:26,571 --> 00:33:27,663
+¿Odisea?
+
+344
+00:33:28,639 --> 00:33:29,765
+- Sí.
+- Eso me gusta.
+
+345
+00:33:30,208 --> 00:33:31,971
+Odisea.
+
+346
+00:33:32,043 --> 00:33:34,341
+Yo lo llamo "quimera".
+
+347
+00:33:36,981 --> 00:33:39,541
+¿Creen que todavía es
+como en la época de <i>Endless Summer?</i>
+
+348
+00:33:39,617 --> 00:33:42,381
+Es un trayecto largo y difícil
+hasta llegar a J’s Bay.
+
+349
+00:33:43,287 --> 00:33:45,380
+Se viene el invierno.
+¿Tienes traje de neopreno?
+
+350
+00:33:46,491 --> 00:33:48,391
+Hay tiburones en el océano...
+
+351
+00:33:48,659 --> 00:33:52,186
+...gente local que exige respeto total,
+y olas de lo más difíciles.
+
+352
+00:33:53,297 --> 00:33:55,595
+La niña de Beverly Hills no durará
+ni un día sola.
+
+353
+00:33:55,900 --> 00:33:57,925
+¿Quién dijo que estará sola, Tara?
+
+354
+00:33:59,804 --> 00:34:03,900
+Dana, tú y yo
+emprenderemos esta odisea juntas.
+
+355
+00:34:04,909 --> 00:34:06,501
+Genial. Un roto para un descosido.
+
+356
+00:34:08,279 --> 00:34:09,439
+Para mí lo van a lograr.
+
+357
+00:34:10,214 --> 00:34:13,047
+Apuesto cien a que no. Y quiero pruebas.
+
+358
+00:34:13,518 --> 00:34:15,918
+Fotos de todos los lugares.
+Y surfeando allí también.
+
+359
+00:34:16,788 --> 00:34:18,255
+- Por supuesto.
+- Acepto.
+
+360
+00:34:18,322 --> 00:34:19,380
+Jamás logrará surfear en J’s Bay.
+
+361
+00:34:20,591 --> 00:34:21,956
+Les presto mi camión.
+
+362
+00:34:22,960 --> 00:34:24,018
+¿En serio?
+
+363
+00:34:24,128 --> 00:34:27,120
+Por un precio.
+¿Alguna vez fuiste camarera?
+
+364
+00:34:28,666 --> 00:34:29,928
+Una de mis camareras renunció.
+
+365
+00:34:30,635 --> 00:34:33,297
+Quizá Pushy
+pueda mostrarte cómo hacerlo.
+
+366
+00:34:35,673 --> 00:34:37,766
+- ¿Te parece bien?
+- Me parece bien.
+
+367
+00:34:39,110 --> 00:34:40,134
+Muy bien.
+
+368
+00:34:44,916 --> 00:34:46,474
+Un juego extra.
+
+369
+00:34:48,519 --> 00:34:50,783
+Siempre hay que estar preparado.
+
+370
+00:34:50,855 --> 00:34:52,482
+Es un Land Rover.
+
+371
+00:34:52,557 --> 00:34:56,152
+- Un auto resistente.
+- Podemos lograrlo.
+
+372
+00:35:03,734 --> 00:35:06,464
+Gracias, Grant.
+¿Seguro no quieres venir con nosotras?
+
+373
+00:35:07,772 --> 00:35:12,004
+No. Podemos ir a dar una vuelta luego,
+cuando regreses.
+
+374
+00:35:12,910 --> 00:35:16,812
+- A medianoche tal vez. Tú y yo.
+- No eres tan afortunado.
+
+375
+00:35:19,917 --> 00:35:21,942
+Aquí tienes.
+Documenta la odisea correctamente.
+
+376
+00:35:22,286 --> 00:35:24,720
+Tim, ¿de dónde sacaste una Polaroid?
+
+377
+00:35:24,922 --> 00:35:27,152
+De una tienda de segunda mano.
+Y película también.
+
+378
+00:35:29,160 --> 00:35:31,651
+Qué dulce de tu parte.
+
+379
+00:35:31,729 --> 00:35:33,720
+Tengo algo más.
+
+380
+00:35:43,307 --> 00:35:45,298
+Tim, esto es increíble.
+
+381
+00:35:45,877 --> 00:35:48,846
+¿Sabes qué poca gente puede arreglar
+una tabla de éstas?
+
+382
+00:35:53,184 --> 00:35:56,415
+Le arreglaste la tabla de surf,
+y sólo te dio un beso en la mejilla.
+
+383
+00:35:59,957 --> 00:36:01,015
+Cuidado.
+
+384
+00:36:01,392 --> 00:36:02,859
+Tara estaba hablando medio en broma...
+
+385
+00:36:02,927 --> 00:36:05,122
+...pero pueden pasar
+muchas cosas feas allá.
+
+386
+00:36:05,196 --> 00:36:06,720
+Tienes un largo camino por delante.
+
+387
+00:36:07,465 --> 00:36:10,491
+<i>La vida es un largo camino...</i>
+
+388
+00:36:10,568 --> 00:36:11,967
+Gracias.
+
+389
+00:36:13,504 --> 00:36:16,940
+<i>Quiero recorrerlo
+Toda la noche...</i>
+
+390
+00:36:26,517 --> 00:36:28,668
+<i>La vida es un largo camino...</i>
+
+391
+00:36:28,669 --> 00:36:32,820
+<i>Quiero recorrerlo toda la noche...</i>
+
+392
+00:36:33,624 --> 00:36:35,251
+¡Sí!
+
+393
+00:36:35,560 --> 00:36:38,028
+<i>Si estás en mi camino...</i>
+
+394
+00:36:38,029 --> 00:36:41,897
+<i>Quiero recorrerlo toda la noche...</i>
+
+395
+00:36:49,307 --> 00:36:54,176
+"Y llegué al amanecer,
+mi momento favorito del día.
+
+396
+00:36:55,379 --> 00:36:58,837
+"Es difícil de encontrar,
+casi imposible de irse."
+
+397
+00:37:01,886 --> 00:37:03,547
+Qué poesía.
+
+398
+00:37:04,021 --> 00:37:06,819
+- Eso es profundo.
+- ¿Te parece?
+
+399
+00:37:09,393 --> 00:37:13,352
+- Era una mamá de primera línea.
+- Lo era.
+
+400
+00:37:15,733 --> 00:37:18,167
+Al menos, eso pienso.
+
+401
+00:37:18,269 --> 00:37:20,669
+Sé que tenía un espíritu libre.
+
+402
+00:37:23,874 --> 00:37:27,469
+Lo único que sé
+es lo que está en ese libro.
+
+403
+00:37:28,980 --> 00:37:33,280
+Según las palabras memorables
+de mi papá: "Apenas si la conocí."
+
+404
+00:37:33,651 --> 00:37:35,846
+Apuesto a que eres muy parecida a ella.
+
+405
+00:37:36,287 --> 00:37:38,221
+Eso espero.
+
+406
+00:37:39,590 --> 00:37:42,388
+Vivo cada día con el miedo
+de que nunca lo sabré.
+
+407
+00:37:46,831 --> 00:37:49,095
+Sí. Lo veo.
+
+408
+00:37:50,735 --> 00:37:52,032
+¿Qué cosa?
+
+409
+00:37:54,505 --> 00:37:55,597
+¡Ahí está!
+
+410
+00:38:01,312 --> 00:38:02,745
+Es un Land Rover.
+
+411
+00:38:03,281 --> 00:38:06,478
+Como dijo Grant.
+Un auto muy resistente.
+
+412
+00:38:08,552 --> 00:38:09,678
+¡Sí!
+
+413
+00:38:22,733 --> 00:38:23,825
+Hola.
+
+414
+00:38:24,535 --> 00:38:26,662
+Eso fue recio.
+
+415
+00:39:56,694 --> 00:39:59,390
+Eso es lo que llamo espíritu libre.
+
+416
+00:40:15,546 --> 00:40:17,514
+Sí.
+
+417
+00:40:23,087 --> 00:40:27,285
+Primer paso en la odisea
+de Dana y Pushy, completo.
+
+418
+00:40:29,760 --> 00:40:31,352
+Lo exigimos al máximo.
+
+419
+00:40:38,269 --> 00:40:40,430
+Viejo, lo exigieron al máximo.
+
+420
+00:40:45,776 --> 00:40:48,210
+- Hole in the Wall.
+- Listo.
+
+421
+00:40:48,312 --> 00:40:50,246
+Voy ganando, nena.
+
+422
+00:40:50,314 --> 00:40:51,838
+Todavía no cantes victoria.
+
+423
+00:41:00,257 --> 00:41:03,852
+La regla aquí es
+que la nueva limpia los baños.
+
+424
+00:41:04,328 --> 00:41:05,727
+Vamos.
+
+425
+00:41:05,796 --> 00:41:07,559
+Tranquila, no es tan malo.
+
+426
+00:41:07,631 --> 00:41:11,158
+Salvo cuando alguno regurgita
+tras varios brandy con cola.
+
+427
+00:41:11,969 --> 00:41:13,869
+- ¿Qué dijiste?
+- Devuelve.
+
+428
+00:41:14,605 --> 00:41:17,540
+- Lanza.
+- Qué asco.
+
+429
+00:41:18,509 --> 00:41:19,601
+Y dicho sea de paso...
+
+430
+00:41:19,677 --> 00:41:22,703
+...por si te preguntabas
+qué hay en esta odisea para mí...
+
+431
+00:41:23,414 --> 00:41:24,972
+Estaba esperando eso.
+
+432
+00:41:25,049 --> 00:41:28,177
+A cambio de ser tu guía de confianza...
+
+433
+00:41:28,252 --> 00:41:31,915
+...tienes que enseñarme
+a hacer el 360 floater.
+
+434
+00:41:32,523 --> 00:41:34,150
+¿Volverás a concursar
+para el equipo Roxy?
+
+435
+00:41:34,925 --> 00:41:36,893
+No eres la única que tiene una misión.
+
+436
+00:41:39,196 --> 00:41:41,687
+- Eso me gusta.
+- Toma.
+
+437
+00:41:43,100 --> 00:41:45,864
+<i>Habla Spike, de Wakescape,
+con la actualización de la marejada.</i>
+
+438
+00:41:45,970 --> 00:41:48,803
+<i>Esa zona espumosa de baja presión
+proviene de la Antártida...</i>
+
+439
+00:41:48,873 --> 00:41:51,398
+<i>...y se ha intensificado
+en las últimas 24 horas.</i>
+
+440
+00:41:51,675 --> 00:41:55,202
+<i>Si sigue girando así, prepárense
+para un furioso mar de fondo del sur...</i>
+
+441
+00:41:55,279 --> 00:41:58,806
+<i>...que golpeará la Costa Este. Los que
+están en J’s Bay, preparen las tablas.</i>
+
+442
+00:41:59,250 --> 00:42:01,081
+<i>- Volvemos a la música...</i>
+- ¿Oíste eso, Flash?
+
+443
+00:42:01,151 --> 00:42:04,348
+J’s Bay va a estar increíble, hermano.
+
+444
+00:42:04,855 --> 00:42:06,254
+Destornillador.
+
+445
+00:42:06,857 --> 00:42:10,258
+Gracias. Arregla la radio, ¿quieres?
+
+446
+00:42:26,210 --> 00:42:30,237
+Caminen por aquí. Derecho.
+Sólo de a pie.
+
+447
+00:42:30,514 --> 00:42:31,845
+Gracias.
+
+448
+00:42:51,468 --> 00:42:53,868
+Conque un largo camino, ¿sí?
+
+449
+00:42:58,042 --> 00:42:59,202
+¿Pushy?
+
+450
+00:43:05,516 --> 00:43:09,714
+- Deberíamos hacernos a un lado.
+- Sí. Es lo más lógico.
+
+451
+00:43:29,373 --> 00:43:32,604
+Tu mamá recorrió
+unos lugares alucinantes.
+
+452
+00:43:32,676 --> 00:43:34,837
+Sí, como Beverly Hills.
+
+453
+00:43:39,984 --> 00:43:44,250
+Quizá ese anciano nos estaba
+tomando el pelo.
+
+454
+00:43:46,357 --> 00:43:50,123
+O quizá no.
+
+455
+00:43:52,396 --> 00:43:54,844
+Por eso los surfistas
+adoptamos palabras.
+
+456
+00:43:54,845 --> 00:43:56,093
+¿Qué dices?
+
+457
+00:43:56,934 --> 00:44:00,335
+Como "alucinante" o "estupefacto".
+
+458
+00:44:00,871 --> 00:44:03,738
+¿Qué hacemos? ¿Nos zambullimos?
+
+459
+00:44:04,441 --> 00:44:06,807
+Claro. Ve tú primero.
+
+460
+00:44:19,089 --> 00:44:22,718
+El giro en 360 aéreo. Observa y aprende.
+
+461
+00:44:39,143 --> 00:44:41,043
+¡Vamos, Push! ¡Dale!
+
+462
+00:44:47,317 --> 00:44:49,217
+Todo bien. ¡Intenta de nuevo!
+
+463
+00:45:03,200 --> 00:45:06,397
+<i>Como tú montas con el pie derecho
+adelante, debes hacerlo del revés.</i>
+
+464
+00:45:07,071 --> 00:45:10,404
+<i>- Es más difícil, Push.
+- No me digas.</i>
+
+465
+00:45:10,974 --> 00:45:12,965
+Tienes que bajar, girar y subir.
+
+466
+00:45:20,617 --> 00:45:22,812
+MUELLE DE BAY OF PLENTY
+
+467
+00:46:13,237 --> 00:46:15,432
+<i>De la cabina de mando,
+habla el capitán Glen Ross.</i>
+
+468
+00:46:15,639 --> 00:46:18,164
+<i>Empezamos nuestro descenso final
+hacia Durban.</i>
+
+469
+00:46:18,242 --> 00:46:21,700
+<i>Abróchense los cinturones.
+Aterrizaremos en diez minutos.</i>
+
+470
+00:46:26,283 --> 00:46:28,911
+Licuado de mango, sin mucho hielo, Push.
+
+471
+00:46:34,124 --> 00:46:36,319
+Dana, creo que empezamos
+con el pie izquierdo.
+
+472
+00:46:36,927 --> 00:46:38,918
+Aunque no lo creas,
+estoy haciendo fuerza por ti.
+
+473
+00:46:39,329 --> 00:46:41,923
+¿Como hiciste con Pushy,
+cuando quiso ser parte del equipo?
+
+474
+00:46:42,900 --> 00:46:44,162
+¿Te dijo que yo la saboteé?
+
+475
+00:46:45,769 --> 00:46:48,260
+Sí. Es mentira.
+La verdad es que surfeó pésimo.
+
+476
+00:46:49,873 --> 00:46:52,307
+Yo estuve ahí.
+No estaba en forma ni preparada.
+
+477
+00:46:53,710 --> 00:46:56,201
+Sabes que estar en un equipo
+exige trabajo y compromiso.
+
+478
+00:46:56,280 --> 00:46:58,180
+Algunos lo tienen y otros no.
+
+479
+00:46:59,049 --> 00:47:02,018
+Tú podrías llegar a tenerlo, Dana.
+Podrías.
+
+480
+00:47:02,986 --> 00:47:05,113
+Hay una prueba abierta
+en Jeffrey’s Bay el sábado.
+
+481
+00:47:05,189 --> 00:47:06,255
+Y, como vas para allá de todos modos--
+
+482
+00:47:06,256 --> 00:47:08,522
+Sí, no es mi objetivo, Tara.
+
+483
+00:47:08,592 --> 00:47:09,650
+Pero Pushy se presentará.
+
+484
+00:47:12,796 --> 00:47:15,287
+- Genial. Yo también.
+- Bien.
+
+485
+00:47:17,467 --> 00:47:19,697
+Eso es para ti, Push.
+No se esfuercen mucho.
+
+486
+00:47:24,875 --> 00:47:28,504
+Aunque llegue a Jeffrey’s Bay,
+ella no me dejará unirme al equipo.
+
+487
+00:47:28,579 --> 00:47:31,173
+Quizá esa decisión dependa de ti
+y no de ella.
+
+488
+00:47:50,634 --> 00:47:52,124
+¿Qué?
+
+489
+00:48:06,283 --> 00:48:07,443
+Hola.
+
+490
+00:48:07,517 --> 00:48:09,007
+- ¿Quién era?
+- ¿Quién?
+
+491
+00:48:10,153 --> 00:48:12,178
+El de la camioneta.
+
+492
+00:48:12,256 --> 00:48:16,955
+Uno que preguntaba por el surf aquí.
+Ni tenía tabla.
+
+493
+00:48:17,027 --> 00:48:20,519
+- ¿No lo conoces?
+- No. No lo había visto.
+
+494
+00:48:26,737 --> 00:48:28,329
+Pushy...
+
+495
+00:48:29,640 --> 00:48:31,938
+...creo que vi al tipo que me robó.
+
+496
+00:48:32,809 --> 00:48:35,710
+¿Qué? ¿Segura? Sólo lo viste una vez.
+
+497
+00:48:36,313 --> 00:48:40,249
+Pushy. Tengo que recuperar
+las cosas de mi mamá.
+
+498
+00:48:40,450 --> 00:48:43,442
+¿Qué tiene de importante todo eso?
+
+499
+00:48:43,520 --> 00:48:45,078
+Sé que era de tu mamá, pero...
+
+500
+00:48:45,155 --> 00:48:48,181
+Es que... Es importante.
+
+501
+00:48:50,961 --> 00:48:54,021
+Escucha. Mi turno está por terminar.
+
+502
+00:48:54,097 --> 00:48:56,429
+Ve a casa. Yo te cubro.
+
+503
+00:48:57,134 --> 00:48:58,601
+Gracias, Push.
+
+504
+00:49:00,270 --> 00:49:02,830
+- Tim...
+- Hola.
+
+505
+00:49:03,774 --> 00:49:05,935
+- ¿Qué tal va la odisea?
+- Va bien.
+
+506
+00:49:06,009 --> 00:49:08,000
+- ¿Sí?
+- Sí. Estoy esperando las olas.
+
+507
+00:49:08,078 --> 00:49:10,273
+Sí, las sigo de cerca.
+
+508
+00:49:10,380 --> 00:49:12,575
+Aún tienes unos días
+hasta que venga la marejada.
+
+509
+00:49:13,383 --> 00:49:14,748
+- Gracias.
+- De nada.
+
+510
+00:49:16,153 --> 00:49:17,347
+¿Qué?
+
+511
+00:49:18,188 --> 00:49:19,655
+¿Qué?
+
+512
+00:49:20,223 --> 00:49:22,248
+¿Me parece a mí o hueles a elefante?
+
+513
+00:49:22,326 --> 00:49:24,692
+¡Oye! Los elefantes no huelen.
+
+514
+00:49:25,495 --> 00:49:28,157
+Lo que se siente
+es puro sudor masculino.
+
+515
+00:49:30,167 --> 00:49:32,362
+Me huele a que tuviste un largo día
+en la reserva.
+
+516
+00:49:32,836 --> 00:49:34,360
+Largo pero bueno.
+
+517
+00:49:34,438 --> 00:49:36,133
+¿Quieres ver algunas fotos
+mientras me aseo?
+
+518
+00:49:36,206 --> 00:49:37,298
+- Claro.
+- ¿Sí?
+
+519
+00:49:45,248 --> 00:49:47,273
+¿Ves cómo se cuidan entre sí?
+
+520
+00:49:47,351 --> 00:49:49,876
+Cuidan a los mayores,
+los enfermos y los más jóvenes.
+
+521
+00:49:50,220 --> 00:49:52,848
+Escuché que hasta lloran
+cuando uno de ellos muere.
+
+522
+00:49:53,190 --> 00:49:56,250
+Sí. Lo vi. Por desgracia.
+
+523
+00:49:56,793 --> 00:49:58,556
+¿Perdieron uno?
+
+524
+00:49:58,628 --> 00:50:02,189
+No es común, pero hay
+algunos cazadores furtivos por aquí.
+
+525
+00:50:03,333 --> 00:50:04,391
+Qué mal.
+
+526
+00:50:04,468 --> 00:50:05,628
+Los respeto mucho.
+
+527
+00:50:05,936 --> 00:50:09,463
+Después de llorar, se unen a los demás
+en la causa...
+
+528
+00:50:09,906 --> 00:50:12,204
+...la familia se vuelve a ordenar
+y siguen adelante.
+
+529
+00:50:13,844 --> 00:50:16,608
+- ¿Por eso te atraen tanto?
+- ¿A qué te refieres?
+
+530
+00:50:16,913 --> 00:50:19,677
+A lo de la familia.
+
+531
+00:50:19,950 --> 00:50:23,386
+Te gusta lo que creaste aquí.
+
+532
+00:50:28,191 --> 00:50:30,523
+Qué lista eres.
+
+533
+00:50:32,029 --> 00:50:34,088
+No tanto.
+
+534
+00:50:35,098 --> 00:50:37,999
+Quizá sea la última persona
+a la que deberías hacer caso.
+
+535
+00:50:39,669 --> 00:50:42,001
+¿Adónde vas?
+
+536
+00:50:42,339 --> 00:50:44,102
+No eres el único que necesita una ducha.
+
+537
+00:50:44,174 --> 00:50:46,074
+Tengo una cita candente esta noche.
+
+538
+00:50:46,143 --> 00:50:49,078
+Saldré a bailar con Pushy.
+
+539
+00:50:51,181 --> 00:50:53,342
+Avísame lo de la marejada.
+
+540
+00:51:04,528 --> 00:51:09,431
+- ¿Es su primera vez en Durban, señor?
+- La primera en 20 años.
+
+541
+00:51:31,888 --> 00:51:34,322
+- Hermana.
+- Hola.
+
+542
+00:51:34,658 --> 00:51:37,286
+Llegamos. Aquí es donde crecí.
+
+543
+00:51:37,360 --> 00:51:40,420
+Es el mejor lugar
+para escuchar y bailar música kwaito.
+
+544
+00:52:08,125 --> 00:52:09,353
+Cuidado, hermana.
+
+545
+00:52:09,659 --> 00:52:12,253
+Vamos. ¿Nunca habías visto
+bailar a una blanca?
+
+546
+00:52:12,896 --> 00:52:16,127
+Yo te estoy enseñando mis movimientos,
+tú enséñame los tuyos.
+
+547
+00:52:19,035 --> 00:52:21,765
+Bueno. Mira cómo se hace.
+
+548
+00:52:25,408 --> 00:52:26,932
+¡Adelante, hermana!
+
+549
+00:52:49,332 --> 00:52:52,597
+Hola a todos.
+Quedémonos aquí toda la noche. ¿Listos?
+
+550
+00:53:36,813 --> 00:53:39,805
+¿Por qué estás aquí?
+¿Qué diablos quieres en mi negocio?
+
+551
+00:53:43,687 --> 00:53:47,453
+No dejas de meterte en problemas.
+Ya te enseñaré. ¿Me escuchas?
+
+552
+00:53:50,594 --> 00:53:52,585
+¡Dana! ¡Maldición, era él!
+
+553
+00:53:53,863 --> 00:53:55,194
+Hay que llamar a la policía.
+
+554
+00:53:55,398 --> 00:53:59,357
+¡La policía no entra al <i>kasie!</i> ¡Dana!
+
+555
+00:54:00,103 --> 00:54:01,297
+Esto es una locura.
+
+556
+00:54:05,175 --> 00:54:08,576
+Dana. No vale la pena, sea lo que sea.
+
+557
+00:54:09,012 --> 00:54:12,812
+Quiero ver adónde va,
+así podemos volver a buscar refuerzos.
+
+558
+00:54:12,882 --> 00:54:14,372
+Vamos.
+
+559
+00:54:24,661 --> 00:54:25,958
+- Dana.
+- ¿Qué?
+
+560
+00:54:26,029 --> 00:54:27,724
+No sabes en lo que te estás metiendo.
+
+561
+00:54:27,797 --> 00:54:29,890
+Tenemos que salir de aquí.
+
+562
+00:54:38,308 --> 00:54:40,970
+Pushy. Es el camión de Grant.
+
+563
+00:54:41,044 --> 00:54:43,444
+Grant nunca estuvo ni cerca
+de esta zona.
+
+564
+00:54:43,713 --> 00:54:47,672
+- Vamos. Por favor.
+- Pushy, mira.
+
+565
+00:54:53,657 --> 00:54:55,318
+Vamos.
+
+566
+00:55:12,842 --> 00:55:14,503
+Siempre hay que estar preparado,
+¿verdad?
+
+567
+00:55:18,315 --> 00:55:20,545
+Vamos.
+
+568
+00:55:32,562 --> 00:55:34,689
+Dios mío. Pushy.
+
+569
+00:55:34,764 --> 00:55:36,459
+Mira. Ahí viene.
+
+570
+00:55:36,533 --> 00:55:38,558
+Vamos. ¡Corramos!
+
+571
+00:55:38,868 --> 00:55:40,631
+¡Oigan! ¡A ellas!
+
+572
+00:55:40,704 --> 00:55:41,830
+¡Atrápenlas!
+
+573
+00:55:41,905 --> 00:55:44,203
+Vamos.
+
+574
+00:55:44,274 --> 00:55:46,674
+Vamos.
+
+575
+00:55:50,714 --> 00:55:52,841
+Si nos zafamos de ésta, te mato.
+
+576
+00:55:52,916 --> 00:55:54,508
+¡Déjennos en paz!
+
+577
+00:56:02,359 --> 00:56:03,917
+¡Cuidado!
+
+578
+00:56:06,229 --> 00:56:07,958
+¡Vamos!
+
+579
+00:56:13,002 --> 00:56:14,435
+¡Salta!
+
+580
+00:56:21,544 --> 00:56:25,571
+- ¿Satisfecha?
+- ¿A qué te refieres?
+
+581
+00:56:25,849 --> 00:56:27,874
+¡Yo tengo que vivir por aquí!
+
+582
+00:56:27,951 --> 00:56:30,385
+¡No se te ocurrió
+pensar en eso alguna vez!
+
+583
+00:56:30,453 --> 00:56:33,286
+Esto se está descontrolando, Dana.
+
+584
+00:56:50,206 --> 00:56:52,504
+Vengan por ellas. Está picadísimo.
+
+585
+00:56:53,443 --> 00:56:56,537
+- ¿Dónde estuviste anoche?
+- ¿Qué?
+
+586
+00:56:57,647 --> 00:56:59,239
+Salí con unos amigos a tomar algo.
+
+587
+00:57:00,183 --> 00:57:01,207
+¿Quién eres? ¿Mi esposa?
+
+588
+00:57:02,285 --> 00:57:05,652
+Qué curioso, porque vi tu camión
+en el distrito Umlazi.
+
+589
+00:57:06,389 --> 00:57:09,187
+¿En Umlazi? ¿Por qué iba a ir ahí?
+
+590
+00:57:09,526 --> 00:57:11,926
+Era tu matrícula, Grant.
+
+591
+00:57:11,995 --> 00:57:14,395
+También vimos lo que tenías adentro.
+
+592
+00:57:15,098 --> 00:57:17,225
+Avisé a la policía.
+
+593
+00:57:25,875 --> 00:57:28,844
+Había una manera de describir
+a los locos...
+
+594
+00:57:29,612 --> 00:57:31,244
+...que se metían
+en situaciones difíciles...
+
+595
+00:57:31,245 --> 00:57:32,877
+...en un día importante en Supers:
+
+596
+00:57:34,951 --> 00:57:36,213
+"Carnada de tiburón."
+
+597
+00:57:41,324 --> 00:57:42,416
+Ésta es mía.
+
+598
+00:57:45,061 --> 00:57:46,153
+Sí, ve nomás.
+
+599
+00:57:55,004 --> 00:57:57,234
+No llamaste a la policía.
+
+600
+00:57:57,307 --> 00:57:59,901
+- Mentí.
+- Pero él no se retrajo.
+
+601
+00:58:00,376 --> 00:58:02,640
+Esto no termina aquí.
+
+602
+00:58:15,391 --> 00:58:18,451
+Tiene 18 años. Es mi hija.
+Tengo que encontrarla.
+
+603
+00:58:18,895 --> 00:58:20,419
+Señor, es adulta.
+
+604
+00:58:20,497 --> 00:58:24,058
+Podemos poner su foto en la base de
+datos y dar una alerta de extravío...
+
+605
+00:58:24,133 --> 00:58:26,567
+...pero me temo
+que no puedo hacer mucho más.
+
+606
+00:58:26,870 --> 00:58:29,737
+- Siguiente.
+- ¿Cómo accedo a la base de datos?
+
+607
+00:58:31,708 --> 00:58:33,266
+Siguiente.
+
+608
+00:58:36,513 --> 00:58:41,280
+¿Cómo pude dejar que ese cretino
+me engañara como para enamorarme?
+
+609
+00:58:41,351 --> 00:58:43,911
+¡Un tipo tan distinto
+a todas mis creencias!
+
+610
+00:58:46,923 --> 00:58:48,151
+¿Qué te da tanta gracia?
+
+611
+00:58:49,092 --> 00:58:51,117
+No eres tan distinta de Grant.
+
+612
+00:58:51,427 --> 00:58:53,952
+¿Qué? ¿Qué significa eso?
+
+613
+00:58:56,199 --> 00:58:59,430
+Él tiene un papá rico. Tú también.
+
+614
+00:59:00,203 --> 00:59:04,503
+Admítelo. Son niños malcriados
+jugando a ser vagos surfistas un tiempo.
+
+615
+00:59:05,041 --> 00:59:06,975
+Y metiéndonos en problemas a los demás.
+
+616
+00:59:07,043 --> 00:59:08,908
+¿De dónde salió todo esto?
+
+617
+00:59:09,279 --> 00:59:12,976
+¿Crees que porque mi papá es rico,
+a mí no me importa nada?
+
+618
+00:59:13,049 --> 00:59:15,017
+¿Que no siento dolor?
+
+619
+00:59:15,084 --> 00:59:16,881
+Te importa lo que es importante para ti.
+
+620
+00:59:17,220 --> 00:59:18,847
+- ¿Qué?
+- Eres peligrosa.
+
+621
+00:59:19,155 --> 00:59:20,986
+Y arrastras a todos los que te rodean.
+
+622
+00:59:21,057 --> 00:59:23,218
+Oye, tú te ofreciste
+a acompañarme, ¿recuerdas?
+
+623
+00:59:23,626 --> 00:59:26,151
+Sí, quizá esté mejor si sigo sola.
+
+624
+00:59:26,596 --> 00:59:29,531
+Estoy cansada de vivir
+el sueño de otra persona.
+
+625
+00:59:29,832 --> 00:59:31,322
+¡Éste también es tu sueño!
+
+626
+00:59:31,634 --> 00:59:35,229
+Claro. Y ambas sabemos
+que Tara no permitirá que se cumpla.
+
+627
+00:59:38,541 --> 00:59:39,769
+¿Te das por vencida?
+
+628
+00:59:41,978 --> 00:59:43,070
+¿Te das por vencida?
+
+629
+00:59:43,580 --> 00:59:45,605
+Déjame en paz, Dana.
+
+630
+00:59:51,421 --> 00:59:54,447
+¿Sabes qué?
+¡Quizá Tara tenía razón sobre ti!
+
+631
+00:59:55,325 --> 00:59:57,486
+¡No tienes compromiso ni agallas!
+
+632
+00:59:57,760 --> 01:00:01,196
+- ¿Sí? Gracias.
+- No hay problema.
+
+633
+01:00:52,849 --> 01:00:54,316
+¡Grant!
+
+634
+01:01:26,949 --> 01:01:28,280
+- Hola, Dana.
+- Hola.
+
+635
+01:01:30,186 --> 01:01:33,246
+Supongo que necesito dónde quedarme.
+Por una noche nada más.
+
+636
+01:01:33,423 --> 01:01:35,050
+Mañana parto rumbo a J’s Bay.
+
+637
+01:01:41,397 --> 01:01:43,991
+- Puedes quedarte en nuestro cuarto.
+- Sí, cuantas más, mejor.
+
+638
+01:01:45,535 --> 01:01:47,093
+Creo que es tu día de suerte.
+
+639
+01:01:47,270 --> 01:01:50,171
+Este vaquero iba a dormir
+con Flash y Pete en el bus de Tim.
+
+640
+01:01:50,807 --> 01:01:54,140
+Es una buena oportunidad para
+que tú pienses un poco en mi cuarto.
+
+641
+01:01:55,211 --> 01:01:58,009
+- Gracias, Cowboy.
+- Vamos. Te ayudaré a prepararte.
+
+642
+01:01:59,082 --> 01:02:00,106
+Gracias, chicas.
+
+643
+01:02:00,216 --> 01:02:01,505
+Buenas noches. Duerme bien.
+
+644
+01:02:01,884 --> 01:02:03,010
+Lo siento, chicos.
+
+645
+01:02:03,086 --> 01:02:05,213
+Si cambias de parecer, tengo condones.
+
+646
+01:02:05,321 --> 01:02:08,779
+- Tim dice que se viene la marejada.
+- Sí, supongo.
+
+647
+01:02:08,858 --> 01:02:11,520
+Maldición.
+Justo para las pruebas de Roxy.
+
+648
+01:02:11,594 --> 01:02:13,858
+Me pregunto si Tara irá en serio.
+
+649
+01:02:13,930 --> 01:02:17,161
+Sí, dijeron que partió
+hoy temprano con Grant...
+
+650
+01:02:17,233 --> 01:02:19,394
+...así que supongo que va a estar allá.
+
+651
+01:02:19,469 --> 01:02:22,097
+¿Se fue con Grant? ¿Después de todo eso?
+
+652
+01:02:22,939 --> 01:02:24,964
+No creo que lo sepa.
+
+653
+01:02:26,109 --> 01:02:28,168
+¿Alguno de nosotros sabe
+realmente lo que pasó?
+
+654
+01:02:31,814 --> 01:02:35,250
+- Gracias por prestarme tu lugar.
+- De nada.
+
+655
+01:02:42,625 --> 01:02:45,219
+<i>¡Dana!</i>
+
+656
+01:02:50,166 --> 01:02:54,330
+<i>No me queda tiempo y me temo
+que nunca podré volver a mi país.</i>
+
+657
+01:02:54,904 --> 01:02:58,237
+<i>¿Dana? ¿Dónde estás?</i>
+
+658
+01:02:58,238 --> 01:03:01,571
+<i>¿Dana? ¿Dónde estás?</i>
+
+659
+01:03:22,665 --> 01:03:25,600
+Pushy. Todo el mundo, ¡arriba!
+
+660
+01:03:31,240 --> 01:03:32,400
+¡Despierten!
+
+661
+01:03:34,377 --> 01:03:35,810
+Todo el mundo, ¡arriba!
+
+662
+01:03:39,682 --> 01:03:40,740
+¡Pushy!
+
+663
+01:03:44,287 --> 01:03:46,755
+¡Salga todo el mundo de la casa ahora!
+
+664
+01:03:51,994 --> 01:03:53,825
+<i>- Atención.</i>
+- ¡Pushy!
+
+665
+01:03:53,896 --> 01:03:57,297
+<i>La municipalidad de e Thekwini,
+por orden del tribunal...</i>
+
+666
+01:03:57,366 --> 01:04:01,234
+<i>...pasará a demoler
+esta edificación ruinosa.</i>
+
+667
+01:04:01,304 --> 01:04:05,400
+<i>Los ocupantes deben desocupar
+la propiedad de inmediato.</i>
+
+668
+01:04:10,413 --> 01:04:11,437
+¡Pushy!
+
+669
+01:04:18,754 --> 01:04:20,779
+¡Pushy! Maldita sea.
+
+670
+01:04:27,430 --> 01:04:28,624
+¡Pushy!
+
+671
+01:04:32,835 --> 01:04:35,030
+Maldición. ¡Pushy!
+
+672
+01:04:35,104 --> 01:04:37,800
+Todo el mundo, a la playa abierta
+para contarlos. ¡Vamos!
+
+673
+01:04:39,275 --> 01:04:40,970
+Vamos. Andando.
+
+674
+01:04:42,645 --> 01:04:44,738
+- ¡Pushy!
+- Dana, estoy aquí.
+
+675
+01:04:45,381 --> 01:04:46,541
+Te estaba buscando.
+
+676
+01:04:54,557 --> 01:04:55,717
+¡Vamos! ¡Corre!
+
+677
+01:04:55,791 --> 01:04:58,760
+¡Pushy! ¡Dana! ¡Vamos!
+
+678
+01:05:07,737 --> 01:05:10,672
+¡Demonios! Ahí se va nuestra casa.
+
+679
+01:05:15,311 --> 01:05:18,747
+Un momento. Tim. ¿Dónde está Tim?
+
+680
+01:05:18,948 --> 01:05:20,882
+- ¡Tim!
+- ¡Tim!
+
+681
+01:05:20,950 --> 01:05:22,611
+- ¡Tim!
+- ¡Tim!
+
+682
+01:05:26,422 --> 01:05:29,323
+Imposible. ¡El bus funciona!
+
+683
+01:05:36,232 --> 01:05:40,066
+<i>Atención. No están permitidos
+los vehículos no oficiales en la playa.</i>
+
+684
+01:06:09,632 --> 01:06:12,066
+Todos a bordo. ¿Quién sube?
+
+685
+01:06:14,737 --> 01:06:17,399
+- ¡El bus sale en 5 minutos!
+- ¿Qué destino?
+
+686
+01:06:17,707 --> 01:06:22,076
+Jeffrey’s Bay. Confirmado:
+Se viene la marejada de la década.
+
+687
+01:06:27,416 --> 01:06:28,940
+Vamos a Jeffrey’s Bay.
+
+688
+01:06:35,791 --> 01:06:37,452
+Gracias por venir a buscarme.
+
+689
+01:06:38,461 --> 01:06:40,190
+¿Vas a ir?
+
+690
+01:06:40,429 --> 01:06:42,989
+- ¿Tú?
+- Sólo si tú vas.
+
+691
+01:06:45,101 --> 01:06:47,535
+- Nunca te rindes, ¿verdad?
+- No.
+
+692
+01:06:49,305 --> 01:06:50,738
+Entonces sí, voy.
+
+693
+01:06:51,741 --> 01:06:53,675
+Es hora de que termines esa odisea.
+
+694
+01:06:53,843 --> 01:06:58,109
+Tú y yo tenemos una cita
+con el destino en Jeffrey’s Bay.
+
+695
+01:06:58,180 --> 01:06:59,272
+Sí, ¡claro!
+
+696
+01:07:14,363 --> 01:07:15,853
+Cuídense, ¿sí?
+
+697
+01:07:23,172 --> 01:07:24,503
+¡Sube al bus, viejo!
+
+698
+01:07:40,656 --> 01:07:41,850
+Imposible.
+
+699
+01:07:42,958 --> 01:07:45,688
+- ¿Lo guardaste todo?
+- Claro que sí.
+
+700
+01:07:47,863 --> 01:07:50,457
+- ¡Tim!
+- Oye.
+
+701
+01:07:52,535 --> 01:07:54,162
+Estoy conduciendo. Vamos.
+
+702
+01:07:59,975 --> 01:08:01,602
+Gracias.
+
+703
+01:08:54,330 --> 01:08:56,389
+- ¡Vamos! Dana, Pushy, ¡corran!
+- ¡Suban al bus!
+
+704
+01:08:56,899 --> 01:08:58,298
+- ¡Vamos!
+- ¡Muévanse!
+
+705
+01:10:20,316 --> 01:10:23,251
+Hola. Busco a mi hija.
+
+706
+01:10:23,652 --> 01:10:24,983
+- Se llama...
+- Es el papá de Dana.
+
+707
+01:10:26,288 --> 01:10:28,347
+Sí. ¿Está ella aquí?
+
+708
+01:10:28,824 --> 01:10:31,055
+No. Toda la familia se fue
+en una odisea.
+
+709
+01:10:31,056 --> 01:10:32,487
+Van tras la marejada.
+
+710
+01:10:32,561 --> 01:10:33,789
+Excepto nosotros.
+
+711
+01:10:34,863 --> 01:10:36,455
+¿Familia? ¿Odisea?
+
+712
+01:10:37,266 --> 01:10:39,734
+Van rumbo a Jeffrey’s Bay.
+
+713
+01:10:39,802 --> 01:10:41,235
+Pero se fueron hace tres días.
+
+714
+01:10:41,637 --> 01:10:43,605
+Y sólo Dios sabe
+dónde irán después de eso.
+
+715
+01:10:45,074 --> 01:10:47,668
+- ¿Cuál es el modo más rápido de llegar?
+- Avión.
+
+716
+01:11:25,214 --> 01:11:26,806
+Hola.
+
+717
+01:11:28,050 --> 01:11:29,517
+Hola.
+
+718
+01:11:29,918 --> 01:11:31,180
+¿Estás bien?
+
+719
+01:11:34,990 --> 01:11:36,548
+Sí.
+
+720
+01:11:38,127 --> 01:11:39,754
+Estoy bien.
+
+721
+01:11:41,463 --> 01:11:44,398
+Técnicamente, no tenemos hogar.
+
+722
+01:11:44,466 --> 01:11:46,058
+Todavía nos queda el bus.
+
+723
+01:11:46,135 --> 01:11:49,263
+Sí, y una gran familia apestosa
+para llenarlo.
+
+724
+01:11:52,441 --> 01:11:54,466
+Sí.
+
+725
+01:11:54,910 --> 01:11:57,879
+Me alegra haber hecho las paces
+con Pushy.
+
+726
+01:12:00,649 --> 01:12:02,844
+Espero que clasifique para el equipo.
+
+727
+01:12:03,419 --> 01:12:06,081
+Las pruebas son este sábado,
+en dos días.
+
+728
+01:12:06,755 --> 01:12:07,881
+Sí.
+
+729
+01:12:10,392 --> 01:12:13,259
+Fuiste un gran apoyo para ella.
+
+730
+01:12:15,597 --> 01:12:18,225
+Eres una persona muy especial, Dana.
+
+731
+01:12:20,469 --> 01:12:23,370
+¿Sí? ¿Quieres escribirme una canción?
+
+732
+01:12:25,307 --> 01:12:27,502
+- Ya lo hice.
+- ¡Dios mío! ¿En serio?
+
+733
+01:12:27,576 --> 01:12:29,339
+- Sí.
+- ¿Cómo es?
+
+734
+01:12:31,180 --> 01:12:33,944
+- Es complicado.
+- No me digas.
+
+735
+01:12:35,250 --> 01:12:37,241
+Vamos, quiero oírla.
+
+736
+01:13:46,555 --> 01:13:48,386
+Lo es.
+
+737
+01:13:49,558 --> 01:13:51,287
+Sí.
+
+738
+01:14:09,111 --> 01:14:11,807
+¡Vamos, Tim!
+
+739
+01:14:13,649 --> 01:14:15,116
+Gracias.
+
+740
+01:14:34,436 --> 01:14:38,634
+Abróchense los cinturones.
+Sujétense a sus pollos.
+
+741
+01:14:38,707 --> 01:14:40,197
+Estamos por despegar.
+
+742
+01:16:06,562 --> 01:16:10,089
+- ¡Jeffrey’s Bay!
+- ¡Sí!
+
+743
+01:16:18,840 --> 01:16:20,330
+Vaya.
+
+744
+01:17:08,357 --> 01:17:11,349
+- Llegamos.
+- Así es.
+
+745
+01:17:31,046 --> 01:17:35,574
+Vaya. Ya veo
+por qué tu mamá quería surfear aquí.
+
+746
+01:17:35,651 --> 01:17:38,711
+- Es el deseo de todo el mundo.
+- Claro.
+
+747
+01:17:38,787 --> 01:17:41,779
+Pero tal vez sea un grupo
+sólo de varones por algún motivo.
+
+748
+01:17:41,857 --> 01:17:44,587
+Esas olas te desintegran los huesos.
+
+749
+01:17:45,861 --> 01:17:47,829
+¿Qué sucede?
+
+750
+01:17:49,364 --> 01:17:50,695
+No sé.
+
+751
+01:17:50,766 --> 01:17:53,633
+No tengo miedo.
+Voy a surfear por mi mamá...
+
+752
+01:17:53,702 --> 01:17:57,035
+...pero no puedo evitar sentir
+que me pierdo algo.
+
+753
+01:17:57,105 --> 01:17:58,436
+¿Sí?
+
+754
+01:18:01,109 --> 01:18:02,940
+¿Qué crees que sea
+lo que estoy buscando?
+
+755
+01:18:03,011 --> 01:18:05,172
+¿Qué crees que sea todo esto?
+
+756
+01:18:08,583 --> 01:18:10,983
+Tendrías que dar la vuelta.
+
+757
+01:18:11,386 --> 01:18:13,854
+¿Qué? ¿Te refieres a volver?
+
+758
+01:18:14,389 --> 01:18:17,449
+No, me refiero a voltear.
+
+759
+01:18:22,097 --> 01:18:23,325
+¿Papá?
+
+760
+01:18:24,166 --> 01:18:25,633
+Hola, Dana.
+
+761
+01:18:30,906 --> 01:18:34,000
+Bueno, yo me voy.
+
+762
+01:18:34,076 --> 01:18:36,306
+Los dejo un momento.
+
+763
+01:18:45,787 --> 01:18:48,051
+Tim.
+
+764
+01:18:48,390 --> 01:18:49,857
+Vino el papá de Dana.
+
+765
+01:18:50,258 --> 01:18:52,419
+Vaya.
+
+766
+01:18:54,062 --> 01:18:55,529
+¡Ni lo sueñes!
+
+767
+01:18:55,597 --> 01:18:57,428
+No volveré a casa.
+
+768
+01:18:57,499 --> 01:19:01,196
+- Dana, recorrí medio mundo...
+- ¡Yo no te lo pedí!
+
+769
+01:19:01,269 --> 01:19:03,328
+- ¡Soy tu padre!
+- ¿Sí? ¿Desde cuándo?
+
+770
+01:19:08,143 --> 01:19:11,408
+Sé que estás atravesando
+una etapa especial...
+
+771
+01:19:12,080 --> 01:19:13,980
+...pero tienes que pensar en tu futuro.
+
+772
+01:19:14,116 --> 01:19:16,243
+- La universidad empieza en el otoño...
+- No.
+
+773
+01:19:16,318 --> 01:19:20,152
+Ése es tu futuro. Es tu universidad.
+No es lo mío.
+
+774
+01:19:20,522 --> 01:19:22,080
+Entonces ¿qué?
+
+775
+01:19:23,091 --> 01:19:26,788
+¿Te vas a quedar aquí, surfeando?
+
+776
+01:19:26,862 --> 01:19:29,353
+Cielos, Dana, ¿qué estás haciendo aquí?
+
+777
+01:19:29,431 --> 01:19:32,093
+Ayúdame, porque estoy
+tratando de entender.
+
+778
+01:19:32,167 --> 01:19:34,101
+¿Quieres ser como tu madre? ¿Es eso?
+
+779
+01:19:34,202 --> 01:19:35,635
+¿Seguirle los pasos?
+
+780
+01:19:35,704 --> 01:19:37,638
+Olvídalo, Dana. ¡Está muerta!
+
+781
+01:19:46,715 --> 01:19:49,013
+Vaya.
+
+782
+01:19:49,084 --> 01:19:51,450
+Sí que eres bueno
+para decir las cosas, papá.
+
+783
+01:19:51,520 --> 01:19:52,578
+Dana...
+
+784
+01:19:58,360 --> 01:20:00,828
+Vete a casa.
+
+785
+01:20:00,896 --> 01:20:04,457
+¡Vete a casa y déjame en paz!
+
+786
+01:20:08,737 --> 01:20:09,931
+Dana...
+
+787
+01:20:16,111 --> 01:20:20,411
+Cree que por venir aquí
+demuestra que le importo.
+
+788
+01:20:21,449 --> 01:20:24,475
+Es así.
+
+789
+01:20:24,553 --> 01:20:26,145
+Sólo digo.
+
+790
+01:20:29,724 --> 01:20:32,318
+¿Qué, tú también?
+
+791
+01:20:32,394 --> 01:20:36,490
+Lo que estás viviendo es cosa seria.
+
+792
+01:20:38,333 --> 01:20:40,858
+Te des cuenta o no.
+
+793
+01:20:42,103 --> 01:20:44,435
+Perdiste a tu mamá.
+
+794
+01:20:44,506 --> 01:20:46,303
+Todos lo lamentamos.
+
+795
+01:20:47,742 --> 01:20:49,733
+¿Estás preparada
+para perder a tu papá también?
+
+796
+01:20:50,345 --> 01:20:54,076
+- ¿Qué? No. Eso no es...
+- Quizá sí lo sea.
+
+797
+01:20:55,450 --> 01:20:57,645
+Quizá ésa sea la pieza que falta
+en el rompecabezas.
+
+798
+01:20:59,221 --> 01:21:01,815
+Quizá por eso estés aquí realmente...
+
+799
+01:21:02,691 --> 01:21:05,319
+...para descifrar el resto
+del rompecabezas...
+
+800
+01:21:07,229 --> 01:21:09,754
+...antes de que pierdas eso también.
+
+801
+01:21:11,666 --> 01:21:13,759
+Vaya.
+
+802
+01:21:13,835 --> 01:21:15,632
+Qué listo eres.
+
+803
+01:21:17,639 --> 01:21:18,936
+No tanto.
+
+804
+01:21:24,312 --> 01:21:26,872
+Escuchen.
+
+805
+01:21:27,916 --> 01:21:30,476
+Indudablemente, ése es
+el sonido de una fiesta.
+
+806
+01:21:30,552 --> 01:21:34,079
+Vamos a ver si entramos.
+Un poco de distracción no viene mal.
+
+807
+01:21:35,790 --> 01:21:37,587
+Parece haber mucha gente de Roxy.
+
+808
+01:21:38,159 --> 01:21:39,786
+Aprovechemos para causar
+buena impresión.
+
+809
+01:21:39,861 --> 01:21:41,419
+No lo sé.
+
+810
+01:21:47,836 --> 01:21:51,397
+- Felicidades, lo lograron.
+- Sí. Me debes 100.
+
+811
+01:21:51,473 --> 01:21:54,101
+Todavía no.
+Aún le queda surfear Supertubes.
+
+812
+01:21:54,242 --> 01:21:55,300
+Lo haré.
+
+813
+01:21:55,377 --> 01:21:57,106
+¿Cambiaste de idea sobre participar?
+
+814
+01:21:57,479 --> 01:21:59,640
+No. Y Push tampoco.
+
+815
+01:22:02,450 --> 01:22:04,611
+- Estará allí.
+- ¿En serio?
+
+816
+01:22:06,454 --> 01:22:08,422
+Ansío el momento de verte.
+
+817
+01:22:11,760 --> 01:22:13,751
+¿En serio? ¿Qué...?
+
+818
+01:22:14,562 --> 01:22:16,154
+- ¿Qué tal?
+- ¿Qué tal?
+
+819
+01:22:21,569 --> 01:22:22,695
+Demonios. Vamos.
+
+820
+01:22:26,908 --> 01:22:28,273
+Hola, Grant.
+
+821
+01:22:30,378 --> 01:22:31,606
+Tenemos que hablar.
+
+822
+01:22:31,680 --> 01:22:34,513
+- No te conviene hacer esto.
+- La gente me contó cosas.
+
+823
+01:22:35,050 --> 01:22:36,950
+No quiero creerle.
+
+824
+01:22:37,018 --> 01:22:38,918
+Quiero escuchar la verdad de mi amigo.
+
+825
+01:22:39,988 --> 01:22:43,219
+- ¿Qué cosas? ¿De qué hablas?
+- Dime que no es verdad.
+
+826
+01:22:43,425 --> 01:22:45,893
+Dime que no es verdad
+lo de los colmillos.
+
+827
+01:22:47,429 --> 01:22:48,794
+- Me largo.
+- ¡Responde!
+
+828
+01:22:48,930 --> 01:22:50,625
+¿Es cierto?
+
+829
+01:22:53,535 --> 01:22:55,230
+¡Basta!
+
+830
+01:22:55,303 --> 01:22:58,101
+No te metas. Esto es entre ellos dos.
+
+831
+01:23:17,726 --> 01:23:19,853
+Vamos, chicos. Suficiente.
+
+832
+01:23:20,528 --> 01:23:21,552
+¡Suficiente!
+
+833
+01:23:43,318 --> 01:23:44,376
+¿Por qué?
+
+834
+01:23:48,757 --> 01:23:50,748
+Necesitaba el dinero, hermano.
+
+835
+01:23:52,827 --> 01:23:54,954
+Estoy quebrado.
+
+836
+01:23:56,798 --> 01:23:59,062
+Yo sólo fui el mediador.
+
+837
+01:23:59,134 --> 01:24:01,432
+¡Fue una estupidez!
+
+838
+01:24:13,448 --> 01:24:14,915
+¿Qué, entonces tú...?
+
+839
+01:24:15,183 --> 01:24:16,707
+¿Tú también me dejas?
+
+840
+01:24:19,988 --> 01:24:21,853
+Dame una razón para no hacerlo.
+
+841
+01:24:31,366 --> 01:24:32,993
+<i>Sabemos lo que significa
+y sabemos lo que se necesita...</i>
+
+842
+01:24:33,234 --> 01:24:34,929
+<i>...así que para nosotros
+todas son vencedoras.</i>
+
+843
+01:24:48,516 --> 01:24:50,177
+Te digo algo...
+
+844
+01:24:50,251 --> 01:24:52,981
+...me van a reconocer de anoche.
+
+845
+01:24:53,054 --> 01:24:55,614
+"Ahí va la alborotadora."
+
+846
+01:24:55,690 --> 01:24:57,453
+Pushy, en serio.
+
+847
+01:24:58,059 --> 01:24:59,890
+Seguramente ni siquiera nos vieron.
+
+848
+01:25:12,407 --> 01:25:13,704
+Un gusto volver a verlas.
+
+849
+01:25:14,075 --> 01:25:16,134
+Gracias por arruinar la fiesta anoche.
+
+850
+01:25:16,211 --> 01:25:18,111
+Está todo bien. La conozco.
+
+851
+01:25:21,916 --> 01:25:23,611
+En serio. Está todo bien.
+
+852
+01:25:27,722 --> 01:25:29,815
+De acuerdo.
+
+853
+01:25:29,891 --> 01:25:32,359
+Ponte esto sobre el traje de neopreno
+y espera el llamado.
+
+854
+01:25:34,195 --> 01:25:35,526
+Gracias.
+
+855
+01:25:41,703 --> 01:25:43,034
+Lo siento.
+
+856
+01:25:47,809 --> 01:25:49,003
+Perdón.
+
+857
+01:25:51,446 --> 01:25:53,778
+<i>Bienvenidas, señoritas,
+a las pruebas del equipo Roxy...</i>
+
+858
+01:25:53,848 --> 01:25:56,874
+<i>...aquí en Phantom Reef,
+la ciudad de surf de Jeffrey’s Bay.</i>
+
+859
+01:25:57,018 --> 01:25:59,509
+<i>Cada una compite una vez,
+van dos por competencia.</i>
+
+860
+01:25:59,687 --> 01:26:02,622
+<i>Van cabeza a cabeza
+y sólo tienen diez minutos.</i>
+
+861
+01:26:02,690 --> 01:26:03,952
+<i>Den lo mejor de sí.</i>
+
+862
+01:26:04,025 --> 01:26:06,493
+<i>Y si eso no es suficiente presión...</i>
+
+863
+01:26:06,561 --> 01:26:09,860
+<i>...en los comentarios de hoy,
+directo de su gira mundial...</i>
+
+864
+01:26:09,931 --> 01:26:13,731
+<i>...Sally Fitzgibbons y Laura Enever
+del propio equipo Roxy.</i>
+
+865
+01:26:15,470 --> 01:26:19,531
+<i>Hola, chicas, quiero decir que sé lo
+que les costó llegar hasta aquí hoy...</i>
+
+866
+01:26:19,607 --> 01:26:21,472
+<i>...porque hace cuatro años,
+nos tocó a nosotras.</i>
+
+867
+01:26:21,743 --> 01:26:24,268
+<i>No cometan errores,
+la competencia es dura.</i>
+
+868
+01:26:24,345 --> 01:26:27,746
+<i>Sobre todo, porque sólo buscamos
+a una surfista para integrar el equipo.</i>
+
+869
+01:26:28,049 --> 01:26:31,849
+<i>Al final del día de hoy,
+una de ustedes será una de las nuestras.</i>
+
+870
+01:26:35,823 --> 01:26:37,256
+<i>¡Que empiece el juego!</i>
+
+871
+01:26:37,325 --> 01:26:39,691
+<i>Competidoras número uno,
+Savage y Nahoma.</i>
+
+872
+01:26:42,096 --> 01:26:44,997
+<i>Competidoras número dos,
+Jackson y Dottie.</i>
+
+873
+01:26:46,167 --> 01:26:49,000
+<i>Competidoras número tres,
+Hoffmeyer y Saville.</i>
+
+874
+01:26:51,306 --> 01:26:53,206
+<i>Bien. Siguiente competencia.</i>
+
+875
+01:26:54,342 --> 01:26:56,810
+<i>Competidoras número cuatro,
+Cochran y Knotts.</i>
+
+876
+01:27:00,014 --> 01:27:02,744
+Tiene una espalda débil.
+Le vas a dar una paliza.
+
+877
+01:27:09,524 --> 01:27:12,357
+<i>Bien. Ésta es la última pareja.</i>
+
+878
+01:27:12,460 --> 01:27:14,690
+<i>- Kamalo y Bahn, son las siguientes.</i>
+- De acuerdo.
+
+879
+01:27:16,397 --> 01:27:17,864
+Sólo necesitas una buena actuación.
+
+880
+01:27:18,399 --> 01:27:20,833
+Una sola, y te quedas en el equipo.
+
+881
+01:27:21,836 --> 01:27:23,064
+- ¿De acuerdo?
+- Hagámoslo.
+
+882
+01:27:23,137 --> 01:27:24,263
+- Bien.
+- Bien.
+
+883
+01:27:24,339 --> 01:27:26,603
+<i>Kamalo y Bahn, ¡vamos!</i>
+
+884
+01:27:32,146 --> 01:27:33,579
+Hazme sentir orgullosa.
+
+885
+01:27:36,751 --> 01:27:38,946
+- ¡Bien, Pushy!
+- ¡Vamos, Pushy!
+
+886
+01:27:40,888 --> 01:27:43,550
+- ¡Vamos, Pushy!
+- ¡Vamos!
+
+887
+01:27:44,559 --> 01:27:45,787
+¡Sí, Pushy!
+
+888
+01:28:10,118 --> 01:28:13,747
+<i>Estas chicas han trabajado duro
+y sacrificado mucho.</i>
+
+889
+01:28:13,821 --> 01:28:15,880
+<i>Se necesita mucho coraje
+para estar allí.</i>
+
+890
+01:28:24,999 --> 01:28:26,899
+<i>¡Eso tiene que doler!</i>
+
+891
+01:28:35,343 --> 01:28:38,779
+<i>Parece que la del traje morado tiene
+que sacudirse y volver.</i>
+
+892
+01:28:44,719 --> 01:28:47,654
+<i>Linda actuación para el amarillo.
+Habrá obtenido buen puntaje.</i>
+
+893
+01:28:48,323 --> 01:28:50,052
+<i>Observen, van por afuera.</i>
+
+894
+01:28:50,124 --> 01:28:51,148
+Vamos.
+
+895
+01:28:57,865 --> 01:28:59,264
+¿Qué es eso?
+
+896
+01:29:01,736 --> 01:29:05,001
+<i>- Recuerdo a esta chica del año pasado.
+- Sí, yo también.</i>
+
+897
+01:29:05,206 --> 01:29:08,869
+<i>Sólo muy pocas surfistas negras
+han competido aquí...</i>
+
+898
+01:29:09,043 --> 01:29:11,978
+<i>...así que presenciamos
+un momento histórico.</i>
+
+899
+01:29:14,682 --> 01:29:15,979
+¿Cómo encontraste esto?
+
+900
+01:29:17,485 --> 01:29:19,332
+Resulta que cuando Grant se enteró...
+
+901
+01:29:19,333 --> 01:29:21,979
+...de que eran tus cosas
+las que el tipo había robado...
+
+902
+01:29:22,056 --> 01:29:23,580
+¿Lo sabía?
+
+903
+01:29:23,658 --> 01:29:25,819
+Después de que encontraste su camión
+y le gritaste.
+
+904
+01:29:26,294 --> 01:29:30,060
+Pero se tomó su tiempo
+para devolvértelo.
+
+905
+01:29:30,131 --> 01:29:31,792
+Quizá por tu acercamiento a Tim.
+
+906
+01:29:32,867 --> 01:29:35,893
+Rivalidad masculina y todo eso.
+
+907
+01:29:39,407 --> 01:29:40,965
+<i>Les queda un minuto.</i>
+
+908
+01:29:41,175 --> 01:29:42,767
+<i>Le queda un minuto a esta competencia.</i>
+
+909
+01:29:43,077 --> 01:29:44,237
+Es el momento.
+
+910
+01:29:44,312 --> 01:29:46,177
+<i>Un minuto restante en las pruebas
+de este año.</i>
+
+911
+01:29:46,247 --> 01:29:47,737
+¡Vamos, Pushy!
+
+912
+01:29:49,550 --> 01:29:52,451
+Es tu momento, Pushy. Representa.
+
+913
+01:29:54,589 --> 01:29:55,647
+Más le vale que haga algo.
+
+914
+01:29:55,923 --> 01:29:59,620
+<i>Va a tener que moverse
+para pasar esta sección.</i>
+
+915
+01:29:59,994 --> 01:30:01,086
+Vamos.
+
+916
+01:30:12,607 --> 01:30:13,972
+¡Vamos, Pushy!
+
+917
+01:30:14,041 --> 01:30:16,839
+<i>Surfista en posición. Está remando duro.</i>
+
+918
+01:30:30,324 --> 01:30:31,848
+<i>Se levantó y la está montando.</i>
+
+919
+01:30:31,926 --> 01:30:33,257
+<i>¿Qué va a hacer?</i>
+
+920
+01:30:33,594 --> 01:30:34,618
+Vamos, Pushy.
+
+921
+01:30:52,747 --> 01:30:55,341
+<i>- ¡Dios mío!
+- Qué bien.</i>
+
+922
+01:31:15,403 --> 01:31:17,200
+¡Dios mío! ¡Lo hizo!
+
+923
+01:31:25,346 --> 01:31:29,043
+¡Lo logró! ¡Lo hizo! ¡Sí!
+
+924
+01:31:29,951 --> 01:31:33,250
+<i>Vaya. El mejor surf
+que vimos en todo el día.</i>
+
+925
+01:31:33,321 --> 01:31:34,845
+<i>Tardó bastante en llegar.</i>
+
+926
+01:31:34,922 --> 01:31:36,856
+<i>Sí. Fue un comienzo lento
+para la de morado...</i>
+
+927
+01:31:36,857 --> 01:31:38,790
+<i>...pero ese giro aéreo valió la pena.</i>
+
+928
+01:31:38,960 --> 01:31:40,518
+<i>Tenemos que ver qué opinan los jueces.</i>
+
+929
+01:31:40,795 --> 01:31:42,092
+<i>No quisiera estar en sus lugares.</i>
+
+930
+01:31:42,163 --> 01:31:43,289
+<i>Acérquense, todos.</i>
+
+931
+01:31:43,364 --> 01:31:45,855
+<i>En dos minutos vamos a hacer un anuncio.</i>
+
+932
+01:31:48,202 --> 01:31:49,226
+Lo lograste, ¿sabes?
+
+933
+01:31:51,772 --> 01:31:53,399
+Qué actuación alucinante.
+
+934
+01:31:53,708 --> 01:31:55,539
+Tienes que trabajar en tu constancia.
+
+935
+01:31:56,010 --> 01:31:58,410
+Y tienes que leer las olas.
+
+936
+01:32:01,048 --> 01:32:04,279
+Así que tenemos
+una gran decisión que tomar.
+
+937
+01:32:04,685 --> 01:32:06,346
+Está bien, lo lograste.
+
+938
+01:32:06,454 --> 01:32:08,251
+Estuviste increíble.
+
+939
+01:32:10,157 --> 01:32:13,786
+- ¿Qué te parece?
+- Pensamos que sólo hay...
+
+940
+01:32:13,895 --> 01:32:17,092
+<i>Señoritas, ha sido una competencia dura.</i>
+
+941
+01:32:17,565 --> 01:32:19,465
+<i>Esperamos que todas
+se sientan vencedoras.</i>
+
+942
+01:32:19,534 --> 01:32:22,697
+<i>Por desgracia, sólo hay
+un lugar disponible en el equipo Roxy.</i>
+
+943
+01:32:22,970 --> 01:32:25,530
+<i>Y nuestra ganadora total de hoy...</i>
+
+944
+01:32:26,340 --> 01:32:27,739
+<i>...es Pushy Kamalo.</i>
+
+945
+01:32:40,121 --> 01:32:42,385
+¡Pushy! ¡Pushy! ¡Pushy! ¡Pushy!
+
+946
+01:33:04,545 --> 01:33:07,946
+Bienvenida al equipo.
+
+947
+01:33:12,920 --> 01:33:14,945
+¿Por qué tardaste tanto?
+
+948
+01:33:15,957 --> 01:33:17,754
+Gracias.
+
+949
+01:33:26,567 --> 01:33:31,368
+Quiero agradecer a mis amigos
+por alimentar el fuego.
+
+950
+01:33:31,439 --> 01:33:32,531
+Gracias.
+
+951
+01:33:32,974 --> 01:33:36,137
+Y quiero agradecerte a ti
+por alentarme en todo momento.
+
+952
+01:33:37,845 --> 01:33:39,312
+Gracias.
+
+953
+01:33:56,063 --> 01:33:57,394
+¿Me dan un momento?
+
+954
+01:33:59,467 --> 01:34:01,560
+Tómate todo el tiempo que necesites.
+
+955
+01:34:09,477 --> 01:34:11,843
+Me siento muy orgulloso de ti.
+
+956
+01:34:14,649 --> 01:34:17,777
+¿Vienes aquí con frecuencia?
+
+957
+01:34:18,552 --> 01:34:20,486
+Una vez cada 20 años.
+
+958
+01:34:24,759 --> 01:34:26,727
+¿Puedo mostrarte algo?
+
+959
+01:34:45,813 --> 01:34:48,611
+Lo siento. No quise alterarte.
+
+960
+01:34:49,583 --> 01:34:51,642
+No, es que...
+
+961
+01:34:52,987 --> 01:34:54,511
+...ver esto...
+
+962
+01:34:56,424 --> 01:34:58,483
+...me trae recuerdos.
+
+963
+01:34:59,960 --> 01:35:02,360
+Tu madre y yo...
+
+964
+01:35:02,730 --> 01:35:06,063
+Hicimos el mismo viaje
+el verano en que nos conocimos.
+
+965
+01:35:06,701 --> 01:35:09,829
+Lo sé. Por eso quería mostrártelo.
+
+966
+01:35:17,812 --> 01:35:20,975
+También quería pedirte disculpas.
+
+967
+01:35:21,882 --> 01:35:24,442
+No quise decir lo que dije anoche.
+
+968
+01:35:26,220 --> 01:35:28,654
+Es raro...
+
+969
+01:35:28,723 --> 01:35:30,623
+...pero en estas dos últimas semanas...
+
+970
+01:35:31,525 --> 01:35:35,086
+...aprendí lo que significa
+ser parte de una familia.
+
+971
+01:35:35,896 --> 01:35:38,091
+Lo entiendo.
+
+972
+01:35:39,667 --> 01:35:42,363
+Después de la muerte de tu madre...
+
+973
+01:35:44,105 --> 01:35:46,573
+...la verdad es que no pude manejarlo.
+
+974
+01:35:47,842 --> 01:35:50,538
+Me encerré en mí mismo.
+
+975
+01:35:51,812 --> 01:35:53,803
+Me encerré cuando más me necesitabas.
+
+976
+01:35:56,117 --> 01:35:58,312
+No estuviste mal, papá.
+
+977
+01:35:59,320 --> 01:36:02,448
+Siempre encontraste el modo de cuidarme.
+
+978
+01:36:03,991 --> 01:36:06,050
+A veces demasiado.
+
+979
+01:36:06,594 --> 01:36:08,255
+Lo sé.
+
+980
+01:36:08,329 --> 01:36:09,956
+Y también me equivoqué en eso.
+
+981
+01:36:11,532 --> 01:36:14,228
+Traté de controlarte.
+
+982
+01:36:14,301 --> 01:36:17,099
+Tenía mucho miedo de perderte.
+
+983
+01:36:18,739 --> 01:36:20,604
+Como la perdí a ella.
+
+984
+01:36:23,377 --> 01:36:25,208
+Y ahora las perdí a las dos.
+
+985
+01:36:27,414 --> 01:36:28,972
+No me perdiste a mí, papá.
+
+986
+01:36:58,212 --> 01:37:00,009
+Creo que es el momento.
+
+987
+01:37:26,841 --> 01:37:29,173
+Estás en casa, mamá.
+
+988
+01:37:44,925 --> 01:37:47,519
+Queda una sola cosa más.
+
+989
+01:39:27,328 --> 01:39:30,320
+- ¿Cómo está el mar?
+- Picado.
+
+990
+01:39:31,231 --> 01:39:32,289
+¿Crees que me dejarán?
+
+991
+01:39:34,168 --> 01:39:36,432
+Sí, seguro,
+si muestras un poco de respeto.
+
+992
+01:39:38,238 --> 01:39:41,036
+Está bastante picado.
+¿Segura estás en el lugar indicado?
+
+993
+01:39:44,111 --> 01:39:45,578
+Sí, estoy segura.
+
+994
+01:39:45,646 --> 01:39:47,807
+Buena suerte, entonces.
+
+995
+01:39:48,148 --> 01:39:49,376
+Gracias.
+
+996
+01:40:41,435 --> 01:40:42,766
+Oye, sólo para locales.
+
+997
+01:40:44,238 --> 01:40:46,536
+Aquí no hay guardavidas, cariño.
+
+998
+01:40:47,174 --> 01:40:49,369
+Demasiado difícil para niñitas.
+En serio, vete.
+
+999
+01:40:50,144 --> 01:40:51,702
+Vete antes de matarte.
+
+1000
+01:40:53,147 --> 01:40:55,308
+Muchachos, tranquilos, ¿sí?
+
+1001
+01:40:55,382 --> 01:40:57,942
+Déjenla pasar. Está todo bien.
+
+1002
+01:41:01,355 --> 01:41:02,413
+Buena suerte.
+
+1003
+01:41:03,657 --> 01:41:04,783
+Me largo.
+
+1004
+01:41:06,493 --> 01:41:08,154
+¿Te crees muy recio?
+
+1005
+01:41:13,400 --> 01:41:15,425
+Oye, la playa para niños está allá.
+
+1006
+01:41:15,502 --> 01:41:17,697
+Vete, éste no es tu lugar. Lárgate.
+
+1007
+01:41:17,771 --> 01:41:19,238
+Vete a casa.
+
+1008
+01:41:24,344 --> 01:41:26,141
+Las olas parecen enormes.
+
+1009
+01:41:26,613 --> 01:41:28,080
+Sí.
+
+1010
+01:41:29,817 --> 01:41:31,011
+Es el momento.
+
+1011
+01:41:34,555 --> 01:41:35,988
+¿Dónde está?
+
+1012
+01:41:39,893 --> 01:41:42,020
+Demonios.
+
+1013
+01:41:44,198 --> 01:41:46,598
+Quiero decir, va a estar bien.
+
+1014
+01:41:49,336 --> 01:41:51,065
+Creo.
+
+1015
+01:41:56,210 --> 01:41:58,678
+Vamos arriba, que hay mejor vista.
+
+1016
+01:43:24,364 --> 01:43:25,729
+¿Estás bien?
+
+1017
+01:43:25,799 --> 01:43:28,734
+- Cuidado con las olas.
+- Eres más dura de lo que pareces.
+
+1018
+01:43:31,505 --> 01:43:34,303
+- Si vas a ir, ve. No dudes.
+- Adelante.
+
+1019
+01:43:54,027 --> 01:43:55,824
+Vamos. Puedes lograrlo.
+
+1020
+01:43:57,598 --> 01:44:00,396
+Ve, adelante, tú puedes.
+
+1021
+01:44:16,550 --> 01:44:18,643
+Qué bien. Lo dominó.
+
+1022
+01:46:30,117 --> 01:46:31,141
+¡Sí!
+
+1023
+01:46:33,687 --> 01:46:36,383
+A mí me pareció
+algo de espíritu bastante libre.
+
+1024
+01:46:38,825 --> 01:46:40,315
+¿Conseguiste lo que querías?
+
+1025
+01:46:51,171 --> 01:46:52,468
+Sí.
+
+1026
+01:46:55,008 --> 01:46:56,032
+Estoy muy orgulloso de ti.
+
+1027
+01:46:56,610 --> 01:46:59,340
+- Gracias, papá.
+- Tu mamá también lo habría estado.
+
+1028
+01:47:15,241 --> 01:47:21,141
+Subtítulo por aRGENTeaM
+www.argenteam.net
+
+1029
+01:50:39,265 --> 01:50:40,664
+Cántanos, Cowboy.
+
+1030
+01:50:47,474 --> 01:50:49,408
+Espera, cuéntanos qué estaba haciendo.
+
+1031
+01:52:17,464 --> 01:52:18,726
+- ¡Cállate!
+- ¡Cállate!
+

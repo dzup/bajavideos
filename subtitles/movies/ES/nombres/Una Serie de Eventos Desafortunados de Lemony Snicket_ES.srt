@@ -1,0 +1,6101 @@
+1
+00:01:08,068 --> 00:01:11,504
+<i>Canta pajarillo, con ligero aleteo...</i>
+
+2
+00:01:11,704 --> 00:01:15,037
+<i>Canta pajarillo, ave azul,
+canta una canción.</i>
+
+3
+00:01:15,241 --> 00:01:18,574
+<i>Los narcisos despiertan y
+se muestran pomposos...</i>
+
+4
+00:01:18,778 --> 00:01:21,679
+<i>...floreciendo sin cesar.
+Todas las flores asumen...</i>
+
+5
+00:01:21,881 --> 00:01:25,942
+<i>...que es una adorable,
+adorable primavera.</i>
+
+6
+00:01:33,126 --> 00:01:36,687
+<i>Cotorras, ardillas
+cantan al mismo son...</i>
+
+7
+00:01:36,930 --> 00:01:40,024
+<i>...tarareando su
+canción primaveral.</i>
+
+8
+00:01:40,233 --> 00:01:43,031
+<i>La primavera es la estación
+precisa para una canción.</i>
+
+9
+00:01:43,236 --> 00:01:46,535
+<i>Es una adorable,
+adorable primavera.</i>
+
+10
+00:01:46,773 --> 00:01:50,903
+<i>En el bosque jugamos,
+con los conejos todos el día...</i>
+
+11
+00:01:51,177 --> 00:01:55,170
+<i>Lamento decir que esta
+no es la película que verán.</i>
+
+12
+00:01:55,615 --> 00:02:00,052
+<i>La película que van a ver
+es extremadamente desagradable.</i>
+
+13
+00:02:00,286 --> 00:02:02,811
+<i>Si quieren ver una película sobre
+un pequeño duende feliz...</i>
+
+14
+00:02:03,056 --> 00:02:06,321
+<i>...estoy seguro que aún hay mucho
+espacio en la sala número dos.</i>
+
+15
+00:02:06,526 --> 00:02:09,712
+<i>Sin embargo, si les gustan
+las historias sobre inteligentes...</i>
+
+16
+00:02:09,747 --> 00:02:11,590
+<i>...y razonablemente
+atractivos huérfanos...</i>
+
+17
+00:02:11,865 --> 00:02:15,323
+<i>...incendios sospechosos,
+sanguijuelas carnívoras...</i>
+
+18
+00:02:15,535 --> 00:02:18,527
+<i>...comida italiana
+y organizaciones secretas...</i>
+
+19
+00:02:18,771 --> 00:02:20,261
+<i>...entonces quédense...</i>
+
+20
+00:02:20,540 --> 00:02:22,667
+<i>...mientras yo recreo
+todos y cada uno...</i>
+
+21
+00:02:22,876 --> 00:02:25,845
+<i>...de los lamentables pasos
+de los pequeños Baudelaire.</i>
+
+22
+00:02:26,779 --> 00:02:29,509
+<i>Mi nombre es Lemony Snicket...</i>
+
+23
+00:02:29,716 --> 00:02:32,913
+<i>...y es mi triste deber, el de
+documentar este relato.</i>
+
+24
+00:02:34,387 --> 00:02:36,184
+<i>Violet Baudelaire, la mayor...</i>
+
+25
+00:02:36,389 --> 00:02:40,416
+<i>...era una de las mejores
+inventoras de 14 años en el mundo.</i>
+
+26
+00:02:40,727 --> 00:02:44,186
+<i>Cualquiera que conociera bien a Violet
+podría notar que iba a inventar algo...</i>
+
+27
+00:02:44,221 --> 00:02:46,866
+<i>...cuando tenía el cabello
+recogido con un moño.</i>
+
+28
+00:02:47,734 --> 00:02:51,534
+<i>En un mundo de artículos abandonados,
+y materiales desechados...</i>
+
+29
+00:02:51,771 --> 00:02:54,763
+<i>...Violet sabía
+que siempre había algo.</i>
+
+30
+00:02:55,175 --> 00:02:57,802
+<i>Algo que ella podría transformar
+en casi cualquier aparato...</i>
+
+31
+00:02:57,837 --> 00:02:59,910
+<i>...para casi cualquier ocasión.</i>
+
+32
+00:03:00,580 --> 00:03:03,913
+<i>Y no había nadie mejor
+para probar sus inventos...</i>
+
+33
+00:03:04,717 --> 00:03:05,877
+<i>...que su hermano.</i>
+
+34
+00:03:07,420 --> 00:03:12,119
+<i>Klaus Baudelaire, el hijo
+del medio, amaba los libros...</i>
+
+35
+00:03:12,358 --> 00:03:15,020
+<i>...o, mejor dicho, las cosas
+que aprendía de los libros.</i>
+
+36
+00:03:15,328 --> 00:03:18,786
+<i>Los padres Baudelaire tenían
+una enorme biblioteca en su mansión.</i>
+
+37
+00:03:19,098 --> 00:03:23,467
+<i>Una sala llena de miles de
+libros sobre casi cualquier tema.</i>
+
+38
+00:03:23,770 --> 00:03:25,499
+<i>Y nada le agradaba más a Klaus...</i>
+
+39
+00:03:25,772 --> 00:03:30,471
+<i>...que pasar la tarde alimentando
+su cabeza con su contenido.</i>
+
+40
+00:03:30,777 --> 00:03:33,371
+<i>Y todo lo que leía, lo recordaba.</i>
+
+41
+00:03:40,787 --> 00:03:45,053
+<i>Sunny, la menor,
+tenía otros gustos.</i>
+
+42
+00:03:45,258 --> 00:03:49,251
+<i>Le gustaba morder cosas
+y tenía 4 afilados dientes.</i>
+
+43
+00:03:50,330 --> 00:03:53,561
+<i>Había muy pocas cosas que
+Sunny no disfrutara mordiendo.</i>
+
+44
+00:04:04,244 --> 00:04:06,075
+<i>Sunny estaba en una edad
+en donde uno se comunica...</i>
+
+45
+00:04:06,279 --> 00:04:09,227
+<i>...con una serie de
+balbuceos ininteligibles.</i>
+
+46
+00:04:09,262 --> 00:04:10,523
+<i>Por ejemplo:</i>
+
+47
+00:04:11,084 --> 00:04:12,381
+<i>Lo que probablemente significaba:</i>
+
+48
+00:04:13,019 --> 00:04:16,318
+<i>"Miren esa misteriosa silueta
+emergiendo de la niebla".</i>
+
+49
+00:04:16,923 --> 00:04:18,652
+<i>O tal vez...</i>
+
+50
+00:04:18,858 --> 00:04:20,985
+<i>"¿Qué hace un banquero
+como el Sr. Poe...</i>
+
+51
+00:04:21,261 --> 00:04:25,163
+<i>...vagando por la arena hasta
+encontrarnos en Briny Beach?"</i>
+
+52
+00:04:29,035 --> 00:04:30,434
+Niños.
+
+53
+00:04:30,637 --> 00:04:35,506
+Temo que debo informales de un
+evento extremadamente desafortunado.
+
+54
+00:04:36,576 --> 00:04:40,137
+Lamento muchísimo decirles esto, pero
+sus padres murieron en un incendio...
+
+55
+00:04:40,346 --> 00:04:42,337
+...que destruyó toda su casa.
+
+56
+00:04:43,316 --> 00:04:46,012
+<i>Si alguna vez perdieron
+a alguien muy importante...</i>
+
+57
+00:04:46,319 --> 00:04:48,514
+<i>...entonces ya saben lo que se siente.</i>
+
+58
+00:04:48,721 --> 00:04:50,052
+<i>Y si no fue así...</i>
+
+59
+00:04:50,390 --> 00:04:52,688
+<i>...no pueden siquiera imaginarlo.</i>
+
+60
+00:05:02,168 --> 00:05:05,569
+<i>Nadie conoce la causa precisa
+del incendio de los Baudelaire.</i>
+
+61
+00:05:05,838 --> 00:05:08,863
+<i>Mis colegas y yo investigamos
+lo mejor que pudimos...</i>
+
+62
+00:05:08,898 --> 00:05:10,925
+<i>...pero todo lo que descubrimos
+es que las llamas...</i>
+
+63
+00:05:10,960 --> 00:05:12,702
+<i>...se iniciaron desde
+una gran distancia...</i>
+
+64
+00:05:13,012 --> 00:05:15,879
+<i>...causada por la refracción
+y convergencia de luz...</i>
+
+65
+00:05:16,182 --> 00:05:20,312
+<i>...y en un santiamén, la mansión
+entera estaba en llamas.</i>
+
+66
+00:05:48,681 --> 00:05:51,411
+<i>Y tan misteriosos como
+el origen de las llamas...</i>
+
+67
+00:05:51,617 --> 00:05:55,485
+<i>...otros misterios fueron desvelándose
+ante la mirada de los niños.</i>
+
+68
+00:05:56,055 --> 00:06:00,151
+<i>Cada familia tiene sus secretos,
+puertas sin abrir.</i>
+
+69
+00:06:00,560 --> 00:06:02,357
+<i>Pero como Klaus
+acababa de descubrir...</i>
+
+70
+00:06:02,562 --> 00:06:06,589
+<i>...el más pequeño hallazgo
+atestaría su cabeza de preguntas...</i>
+
+71
+00:06:07,200 --> 00:06:10,135
+<i>¿Qué era ese catalejo escondido
+en el escritorio de su padre?</i>
+
+72
+00:06:10,370 --> 00:06:14,329
+<i>¿Habrían otros secretos por ser
+revelados, sobre la vida de sus padres?</i>
+
+73
+00:06:14,640 --> 00:06:17,438
+<i>Preguntas que ahora temía,
+que nunca encontrarían respuesta.</i>
+
+74
+00:06:18,644 --> 00:06:20,271
+<i>Y así nada más...</i>
+
+75
+00:06:20,646 --> 00:06:24,605
+<i>...los hijos de los Baudelaire pasaron
+a ser los huérfanos Baudelaire.</i>
+
+76
+00:06:26,252 --> 00:06:28,152
+<i>Traté de advertirles...</i>
+
+77
+00:06:37,864 --> 00:06:40,628
+<i>...esta es una excelente oportunidad
+para salir de la sala del cine...</i>
+
+78
+00:06:40,833 --> 00:06:44,200
+<i>...de la sala de estar, o del avión en
+donde se proyecta esta película.</i>
+
+79
+00:06:45,538 --> 00:06:48,905
+<i>No es demasiado tarde para ver
+una película sobre un duendecillo feliz.</i>
+
+80
+00:06:49,909 --> 00:06:52,969
+Sí. Vengan conmigo.
+
+81
+00:06:55,014 --> 00:06:58,313
+Ahora, como jefe de
+Administración Mulcutuary...
+
+82
+00:06:58,518 --> 00:07:00,780
+...y ejecutor de las
+propiedades de sus padres...
+
+83
+00:07:00,815 --> 00:07:03,978
+...es mi obligación legal el cuidar de
+su dinero hasta su mayoría de edad...
+
+84
+00:07:04,190 --> 00:07:07,159
+...y ponerlos bajo el cuidado
+de su pariente más cercano.
+
+85
+00:07:07,393 --> 00:07:10,157
+Así que los llevaré a vivir
+con su querido Conde Olaf...
+
+86
+00:07:10,396 --> 00:07:13,729
+...que vive justo aquí,
+en la ciudad, a sólo 37 cuadras.
+
+87
+00:07:14,033 --> 00:07:16,501
+No creo que ese sea el
+significado de "más cercano".
+
+88
+00:07:16,702 --> 00:07:18,363
+No conocemos a ningún
+Conde Olaf.
+
+89
+00:07:18,571 --> 00:07:19,868
+Sí, sí, por supuesto que sí.
+
+90
+00:07:20,072 --> 00:07:22,212
+Es el tío cuarto
+de su primo tercero...
+
+91
+00:07:22,247 --> 00:07:23,846
+...o el tío tercero
+de su primo cuarto.
+
+92
+00:07:23,847 --> 00:07:25,238
+- A alguien le han removido el cerebro.
+- ¡Sunny!
+
+93
+00:07:25,711 --> 00:07:28,839
+Y es un actor de oficio.
+¿No es emocionante, niños?
+
+94
+00:07:31,117 --> 00:07:33,244
+Deberían considerarse
+afortunados, niños.
+
+95
+00:07:33,553 --> 00:07:36,784
+Este tipo de generosidad es rara
+en una persona de su profesión.
+
+96
+00:07:42,128 --> 00:07:44,062
+Aquí estamos,
+su nuevo hogar.
+
+97
+00:07:44,997 --> 00:07:47,022
+¿No es adorable, niños?
+
+98
+00:07:49,068 --> 00:07:50,365
+¡Hola!
+
+99
+00:07:51,137 --> 00:07:52,764
+Ustedes deben ser los Baudelaire.
+
+100
+00:07:52,972 --> 00:07:54,200
+Hola.
+
+101
+00:07:54,407 --> 00:07:56,534
+Lamenté haber oído
+del accidente...
+
+102
+00:07:56,742 --> 00:07:59,040
+...pero estuve contenta de oír
+que vendrían aquí.
+
+103
+00:07:59,278 --> 00:08:01,542
+Bienvenidos. Soy Justice Strauss
+de la suprema corte de la ciudad.
+
+104
+00:08:01,747 --> 00:08:05,376
+Yo soy Violet. Y este es mi hermano,
+Klaus, y mi hermana, Sunny.
+
+105
+00:08:05,618 --> 00:08:08,278
+Poe, Administración Mulcutuary.
+¿Cómo le va?
+
+106
+00:08:08,313 --> 00:08:09,623
+Muy bien.
+
+107
+00:08:09,658 --> 00:08:11,222
+Qué bella es su casa.
+
+108
+00:08:11,457 --> 00:08:12,549
+Gracias.
+
+109
+00:08:12,758 --> 00:08:15,818
+Por favor con confianza.
+Vengan a visitarme cuando deseen.
+
+110
+00:08:17,597 --> 00:08:18,962
+- ¿Visitarla?
+- ¿Quiere decir...
+
+111
+00:08:19,165 --> 00:08:20,462
+...que no vive con el Conde Olaf?
+
+112
+00:08:21,000 --> 00:08:23,468
+¿Vivir con...?
+¿Con el conde Olaf? No.
+
+113
+00:08:23,769 --> 00:08:27,466
+No, no, no. Él es...
+Él es mi vecino.
+
+114
+00:08:43,254 --> 00:08:45,993
+Quedémonos afuera.
+
+115
+00:09:16,989 --> 00:09:19,014
+<i>Adelante.</i>
+
+116
+00:09:28,334 --> 00:09:30,393
+No tengo todo el día.
+Adelante.
+
+117
+00:09:34,340 --> 00:09:39,505
+Bien, hola, hola, hola.
+
+118
+00:09:39,712 --> 00:09:43,978
+Soy su querido Conde Olaf.
+
+119
+00:09:45,284 --> 00:09:49,653
+Y sean bienvenidos
+a mi adorable hogar.
+
+120
+00:09:49,922 --> 00:09:54,586
+Espero encuentren consuelo
+en el paternal calor de este...
+
+121
+00:09:56,195 --> 00:09:57,890
+...pan de Dios.
+
+122
+00:09:58,531 --> 00:10:02,695
+O como los griegos en
+tiempos antiguos dirían:
+
+123
+00:10:03,102 --> 00:10:04,592
+<i>"Orphanis"...</i>
+
+124
+00:10:04,904 --> 00:10:06,929
+<i>..."encribo"...</i>
+
+125
+00:10:07,373 --> 00:10:08,772
+...algo, algo, algo.
+
+126
+00:10:09,041 --> 00:10:14,604
+<i>La música se eleva en un final
+sostenido sobre el pie derecho...</i>
+
+127
+00:10:14,814 --> 00:10:16,679
+...y luego ¡la pose final!
+
+128
+00:10:18,784 --> 00:10:23,050
+No era exactamente lo que
+pretendía, pero captaron la idea.
+
+129
+00:10:32,565 --> 00:10:35,193
+Mi querida...
+
+130
+00:10:37,970 --> 00:10:39,403
+...Violet.
+
+131
+00:10:39,805 --> 00:10:41,636
+<i>Encantado.</i>
+
+132
+00:10:45,177 --> 00:10:46,769
+¿Cómo está?
+
+133
+00:10:47,313 --> 00:10:49,941
+Y tú debes ser...
+
+134
+00:10:50,149 --> 00:10:53,209
+...el joven Klaus.
+
+135
+00:10:54,654 --> 00:10:56,622
+Tu lado izquierdo
+es tu mejor perfil.
+
+136
+00:10:58,591 --> 00:11:00,388
+Y...
+
+137
+00:11:01,761 --> 00:11:03,626
+...¿qué es esto?
+
+138
+00:11:04,506 --> 00:11:06,063
+Soy Sunny.
+
+139
+00:11:06,298 --> 00:11:09,597
+Lo siento, no hablo
+lenguaje mono.
+
+140
+00:11:10,169 --> 00:11:11,227
+Banana.
+
+141
+00:11:11,228 --> 00:11:13,258
+¡No soy un mono!
+
+142
+00:11:13,472 --> 00:11:14,996
+Sunny es nuestra hermana.
+
+143
+00:11:15,775 --> 00:11:20,109
+Debo decir, que los veo
+muy melancólicos. ¿Por qué?
+
+144
+00:11:21,313 --> 00:11:23,144
+Nuestros padres acaban de morir.
+
+145
+00:11:23,382 --> 00:11:27,148
+Sí, por supuesto,
+qué terrible.
+
+146
+00:11:27,553 --> 00:11:29,851
+Esperen, déjenme hacerlo
+una vez más.
+
+147
+00:11:30,122 --> 00:11:33,148
+Dame la línea de nuevo. Rápido,
+mientras está fresco en mi mente.
+
+148
+00:11:33,559 --> 00:11:35,754
+Nuestros padres acaban...
+
+149
+00:11:36,195 --> 00:11:37,640
+...¿de morir?
+
+150
+00:11:39,532 --> 00:11:40,863
+¡Sí!
+
+151
+00:11:41,509 --> 00:11:43,883
+¡Que idiota!
+
+152
+00:11:44,136 --> 00:11:45,865
+Sr. Poe...
+
+153
+00:11:47,740 --> 00:11:50,265
+...criaré a estos huérfanos...
+
+154
+00:11:50,509 --> 00:11:53,967
+...como si realmente fueran queridos.
+
+155
+00:11:54,714 --> 00:11:57,774
+Y aún cuando lo pueda llamar
+una carga, un sacrificio...
+
+156
+00:11:57,983 --> 00:11:59,951
+...está equivocado, señor.
+
+157
+00:12:00,219 --> 00:12:02,119
+Y debería estar
+avergonzado de sí mismo.
+
+158
+00:12:02,321 --> 00:12:03,788
+La idea.
+
+159
+00:12:07,893 --> 00:12:11,021
+De todos modos, ¿dónde debo
+firmar para la fortu...? es decir...
+
+160
+00:12:11,564 --> 00:12:12,826
+...los niños.
+
+161
+00:12:13,065 --> 00:12:18,367
+No tendrá la custodia oficialmente
+hasta la audiencia del jueves.
+
+162
+00:12:18,637 --> 00:12:21,470
+¿Y qué haré con ellos
+hasta entonces?
+
+163
+00:12:21,841 --> 00:12:23,238
+¿Perdón?
+
+164
+00:12:23,709 --> 00:12:24,801
+Quiero decir...
+
+165
+00:12:25,010 --> 00:12:28,468
+¿Hace ejercicio? Se ve bien.
+Saludable, es decir.
+
+166
+00:12:29,615 --> 00:12:32,083
+Bueno, será mejor
+que vuelva al banco.
+
+167
+00:12:32,284 --> 00:12:35,481
+¿No se puede quedar
+a tomar algo?
+
+168
+00:12:35,688 --> 00:12:38,156
+¿Una copa de oporto?
+¿Café descafeinado?
+
+169
+00:12:38,357 --> 00:12:40,257
+- Bueno, supongo que podría...
+- En otro momento, entonces.
+
+170
+00:12:40,526 --> 00:12:42,221
+Niños, si necesitan algo,
+siéntanse en libertad...
+
+171
+00:12:42,428 --> 00:12:43,986
+No, estamos bien.
+Estamos todos bien.
+
+172
+00:12:44,196 --> 00:12:45,663
+Para cualquier consulta...
+
+173
+00:12:50,369 --> 00:12:52,837
+Soy consciente que
+mi humilde morada...
+
+174
+00:12:53,038 --> 00:12:56,371
+...no es tan lujosa como
+la mansión Baudelaire...
+
+175
+00:12:56,709 --> 00:12:59,837
+...pero pronto seré dueño
+de una gran fortuna...
+
+176
+00:13:00,079 --> 00:13:01,944
+...y creo que quedará...
+
+177
+00:13:02,581 --> 00:13:05,049
+...bastante acogedora
+cuando esté terminada.
+
+178
+00:13:07,887 --> 00:13:09,946
+¿Echamos un vistazo?
+
+179
+00:13:11,557 --> 00:13:14,025
+Esta es la sala de estar.
+
+180
+00:13:14,727 --> 00:13:17,389
+La cocina.
+Sé lo que están pensando...
+
+181
+00:13:17,730 --> 00:13:20,028
+..."A este lugar no le vendría mal
+algo de dedicación y cariño".
+
+182
+00:13:20,266 --> 00:13:21,946
+Confío en que ya fueron vacunados...
+
+183
+00:13:21,947 --> 00:13:24,833
+...contra el tétano, polio,
+viruela, tifoidea, malaria.
+
+184
+00:13:24,904 --> 00:13:27,099
+Esta es la sala de entretenimiento,
+o sala de barullo.
+
+185
+00:13:27,406 --> 00:13:30,315
+Tengo entendido que el techo puede
+modificarse de raíz así nada más.
+
+186
+00:13:30,350 --> 00:13:32,068
+No le temen a las alturas.
+¿O sí?
+
+187
+00:13:32,611 --> 00:13:35,739
+Imaginen eso.
+Un mono que le teme a las alturas.
+
+188
+00:13:36,315 --> 00:13:38,806
+Mi escenario.
+
+189
+00:13:39,018 --> 00:13:40,713
+Por aquí.
+
+190
+00:13:42,855 --> 00:13:44,482
+¿Qué hay ahí arriba?
+
+191
+00:13:49,595 --> 00:13:51,062
+La torre...
+
+192
+00:13:53,032 --> 00:13:55,330
+...a la cual nunca deben entrar...
+
+193
+00:13:57,636 --> 00:14:00,503
+...bajo ninguna circunstancia.
+
+194
+00:14:08,380 --> 00:14:11,076
+Y aquí es donde dormirán, si el
+clima los deja. Lindas noches.
+
+195
+00:14:11,283 --> 00:14:13,979
+- Pero el sol aún brilla.
+- "Pero el sol aún brilla".
+
+196
+00:14:14,386 --> 00:14:16,115
+<i>No sé si alguna vez
+lo han notado...</i>
+
+197
+00:14:16,355 --> 00:14:19,916
+<i>...pero las primeras impresiones a
+menudo son totalmente erróneas.</i>
+
+198
+00:14:20,626 --> 00:14:25,120
+<i>Por ejemplo, Klaus, cuando nació
+Sunny, no le simpatizaba.</i>
+
+199
+00:14:25,731 --> 00:14:29,599
+<i>Pero para cuando ella tenía seis
+semanas, eran como uña y carne.</i>
+
+200
+00:14:29,869 --> 00:14:35,171
+<i>Lo que en este caso significa,
+"lanzar y recoger por horas. "</i>
+
+201
+00:14:35,541 --> 00:14:37,168
+<i>En el caso del Conde Olaf,
+sin embargo...</i>
+
+202
+00:14:37,476 --> 00:14:40,104
+¡Huérfanos!
+
+203
+00:14:40,546 --> 00:14:42,104
+<i>...estaban en lo correcto.</i>
+
+204
+00:14:43,015 --> 00:14:45,813
+<i>Cada mañana, el Conde Olaf,
+les ordenaba a los Baudelaire...</i>
+
+205
+00:14:46,018 --> 00:14:48,816
+<i>...realizar un gran número de
+terribles quehaceres.</i>
+
+206
+00:14:49,021 --> 00:14:52,980
+<i>Para luego escurrirse hacia su
+misteriosa habitación en la torre.</i>
+
+207
+00:15:00,866 --> 00:15:04,097
+<i>Y así tan infortunada
+como parecía la situación...</i>
+
+208
+00:15:04,803 --> 00:15:06,168
+<i>...estaba a punto
+de ponerse aún peor.</i>
+
+209
+00:15:06,372 --> 00:15:07,999
+<i>...todo cubierto de hielo...</i>
+
+210
+00:15:08,207 --> 00:15:10,869
+<i>...y me di cuenta que esas chicas
+listas me habían robado el riñón.</i>
+
+211
+00:15:11,076 --> 00:15:12,509
+- ¡No!
+- ¡No!
+
+212
+00:15:12,711 --> 00:15:15,612
+Imaginen mi sorpresa.
+
+213
+00:15:16,882 --> 00:15:19,851
+Huérfanos, este es mi grupo teatral.
+
+214
+00:15:20,085 --> 00:15:22,110
+Grupo teatral, huérfanos.
+
+215
+00:15:22,388 --> 00:15:23,719
+No parecen ser ricos.
+
+216
+00:15:25,391 --> 00:15:27,552
+Pequeños horrendos.
+
+217
+00:15:32,298 --> 00:15:35,199
+¿Por qué no están en la cocina
+preparando nuestra cena?
+
+218
+00:15:35,801 --> 00:15:36,859
+¿Cena?
+
+219
+00:15:37,102 --> 00:15:39,593
+Es una palabra francesa que
+significa "comida de la noche".
+
+220
+00:15:43,575 --> 00:15:46,066
+En el reverso. Voltéala.
+
+221
+00:15:48,948 --> 00:15:50,882
+Cenaremos en el
+comedor a las 8:00.
+
+222
+00:15:51,083 --> 00:15:53,551
+Y esperamos absoluto silencio
+mientras ensayamos nuestro acto.
+
+223
+00:15:53,786 --> 00:15:56,778
+- Pero nunca antes hemos cocinado.
+- Ya son las 7:30.
+
+224
+00:15:56,989 --> 00:15:58,297
+¡Ocho en punto!
+
+225
+00:16:16,842 --> 00:16:18,605
+Pasta, será.
+
+226
+00:16:18,811 --> 00:16:22,577
+De acuerdo.
+Empecemos con la audición.
+
+227
+00:16:24,817 --> 00:16:26,114
+Entonces...
+
+228
+00:16:27,119 --> 00:16:28,950
+¿Quién debería interpretar...
+
+229
+00:16:29,288 --> 00:16:32,780
+...al más apuesto conde
+en todo el mundo?
+
+230
+00:16:38,030 --> 00:16:39,964
+¿Usted lo haría, señor?
+
+231
+00:16:40,966 --> 00:16:42,160
+Está bien.
+
+232
+00:16:42,468 --> 00:16:45,995
+"Pasta puttanesca. " En Italiano
+significa "poquísimos ingredientes".
+
+233
+00:16:46,305 --> 00:16:47,499
+Genial.
+
+234
+00:16:48,807 --> 00:16:50,035
+Sunny. Dame una mano.
+
+235
+00:16:50,036 --> 00:16:52,015
+Estoy en eso.
+
+236
+00:16:52,050 --> 00:16:54,209
+- De acuerdo, necesitaremos una olla.
+- No hay ollas.
+
+237
+00:16:54,413 --> 00:16:56,973
+- Y un colador.
+- No hay colador.
+
+238
+00:16:58,417 --> 00:17:00,825
+- Gracias.
+- De nada.
+
+239
+00:17:01,687 --> 00:17:02,847
+Y una cacerola.
+
+240
+00:17:03,088 --> 00:17:07,047
+Este es un pequeño fragmento al que
+me gusta llamar, "la silla eléctrica"
+
+241
+00:17:12,498 --> 00:17:15,558
+Creo que a lo mejor
+deberían encenderla.
+
+242
+00:17:16,502 --> 00:17:18,163
+¡¿Hay alguien ahí?!
+
+243
+00:17:21,507 --> 00:17:23,634
+Un colador. ¡Espléndido!
+
+244
+00:17:23,842 --> 00:17:25,139
+Sunny, ¿cómo vas con la olla?
+
+245
+00:17:25,915 --> 00:17:27,216
+Aquí está.
+
+246
+00:17:28,781 --> 00:17:33,650
+Sunny, eso no es una olla.
+Es una escupidera.
+
+247
+00:17:33,919 --> 00:17:36,410
+¿Escupidera?
+¿Quieres decir, que...?
+
+248
+00:17:38,190 --> 00:17:39,316
+Bueno, lávalo dos veces.
+
+249
+00:17:42,628 --> 00:17:43,720
+¿Qué tal?
+
+250
+00:17:44,029 --> 00:17:45,894
+Está bueno. Muy bueno.
+
+251
+00:17:46,131 --> 00:17:47,548
+Ya es hora.
+
+252
+00:17:47,699 --> 00:17:50,395
+Volvamos a los tiempos prehistóricos...
+
+253
+00:17:50,702 --> 00:17:53,933
+...cuando los dinosaurios
+dominaban el planeta.
+
+254
+00:18:07,719 --> 00:18:10,244
+Huérfanos Baudelaire,
+a la recepción.
+
+255
+00:18:10,456 --> 00:18:12,424
+Huérfanos Baudelaire,
+a la recepción.
+
+256
+00:18:24,970 --> 00:18:25,994
+¿Qué quieren?
+
+257
+00:18:26,672 --> 00:18:28,537
+La cena está servida.
+
+258
+00:18:31,977 --> 00:18:33,069
+Puttanesca.
+
+259
+00:18:33,445 --> 00:18:34,776
+¿Cómo me llamaron?
+
+260
+00:18:35,280 --> 00:18:38,408
+Es pasta. Pasta puttanesca.
+
+261
+00:18:38,650 --> 00:18:40,379
+¿Dónde está la carne asada?
+
+262
+00:18:41,120 --> 00:18:42,644
+¿Carne asada?
+
+263
+00:18:43,088 --> 00:18:44,783
+Carne. Sí. Carne asada.
+
+264
+00:18:45,624 --> 00:18:48,923
+En sueco quiere decir
+"carne que está asada".
+
+265
+00:18:50,462 --> 00:18:53,158
+Pero no nos dijo que
+quería carne asada.
+
+266
+00:18:57,603 --> 00:19:02,472
+Miren, hay un gran mundo allá afuera
+lleno de huérfanos desesperados...
+
+267
+00:19:02,674 --> 00:19:05,234
+...que gustosamente nadarían
+a través de un mar de tachuelas...
+
+268
+00:19:05,444 --> 00:19:10,643
+...sólo para ser eclipsados bajo la gran
+sombra que generan mis virtudes.
+
+269
+00:19:11,116 --> 00:19:13,084
+Pero no me preocupo por ellos.
+
+270
+00:19:13,685 --> 00:19:16,415
+Elegí abrir mi corazón...
+
+271
+00:19:16,855 --> 00:19:20,154
+...a ustedes dos,
+encantadores niños...
+
+272
+00:19:20,526 --> 00:19:22,585
+...y a su horrendo primate.
+
+273
+00:19:22,794 --> 00:19:26,252
+A cambio sólo pido que hagan cada
+una de las cosas que se me ocurran...
+
+274
+00:19:26,465 --> 00:19:30,595
+...mientras disfruto de la enorme
+fortuna que sus padres dejaron.
+
+275
+00:19:31,069 --> 00:19:33,469
+- No.
+- ¿Por qué, pedazo...?
+
+276
+00:19:34,758 --> 00:19:36,307
+¡Retráctate, cara de cotorra!
+
+277
+00:19:37,285 --> 00:19:38,321
+¡Morderé más alto!
+
+278
+00:19:39,632 --> 00:19:40,862
+¡No te burles de mí!
+
+279
+00:19:47,061 --> 00:19:48,945
+Realmente estás loco.
+
+280
+00:19:48,980 --> 00:19:53,017
+Es hora que aprendan
+algo de respeto.
+
+281
+00:19:53,258 --> 00:19:54,350
+¡Bájala!
+
+282
+00:19:57,095 --> 00:19:58,722
+¡Monstruo!
+
+283
+00:20:02,067 --> 00:20:04,297
+Ustedes lo vieron.
+El muchacho se resbaló.
+
+284
+00:20:04,503 --> 00:20:06,994
+No tendrás un sólo centavo
+hasta que Violet cumpla los 18.
+
+285
+00:20:07,673 --> 00:20:09,470
+¿En serio?
+
+286
+00:20:10,008 --> 00:20:11,289
+¿Según quién?
+
+287
+00:20:11,290 --> 00:20:12,700
+Según la ley. Léela.
+
+288
+00:20:12,911 --> 00:20:15,311
+Le informaremos al Sr. Poe sobre esto.
+
+289
+00:20:23,422 --> 00:20:24,719
+¿Ah sí?
+
+290
+00:20:27,526 --> 00:20:30,154
+Estoy muy decepcionado
+con ustedes, niños.
+
+291
+00:20:33,298 --> 00:20:35,266
+¿En qué íbamos?
+
+292
+00:20:35,968 --> 00:20:37,333
+¿Estás bien?
+
+293
+00:20:37,536 --> 00:20:39,003
+No.
+
+294
+00:20:42,708 --> 00:20:44,005
+Klaus, ¿qué haces?
+
+295
+00:20:44,276 --> 00:20:46,267
+- Me voy.
+- ¿Adónde?
+
+296
+00:20:46,478 --> 00:20:47,740
+A casa.
+
+297
+00:20:48,280 --> 00:20:50,339
+Este es nuestro hogar ahora.
+
+298
+00:20:52,718 --> 00:20:54,447
+Esto no es nuestro hogar.
+
+299
+00:20:54,886 --> 00:20:57,548
+Un hogar, es donde tus padres
+te arropan por las noches.
+
+300
+00:20:57,789 --> 00:20:59,256
+Donde te enseñan a montar bicicleta...
+
+301
+00:20:59,558 --> 00:21:02,686
+...o donde se desesperan
+en tu primer día de escuela.
+
+302
+00:21:02,894 --> 00:21:05,260
+Este no es nuestro hogar.
+
+303
+00:21:09,001 --> 00:21:10,866
+¿Cómo pudieron hacernos esto?
+
+304
+00:21:11,069 --> 00:21:12,195
+Sólo son gente mala.
+
+305
+00:21:12,771 --> 00:21:14,830
+No ellos. Mamá y papá.
+
+306
+00:21:15,040 --> 00:21:16,632
+- ¡Klaus!
+- ¿Qué?
+
+307
+00:21:16,842 --> 00:21:19,868
+Violet, tú también lo piensas.
+¿Cómo pudieron?
+
+308
+00:21:20,145 --> 00:21:21,772
+¿No tenían algún
+plan para nosotros?
+
+309
+00:21:22,014 --> 00:21:24,141
+Bueno, tal vez sí lo tenían.
+
+310
+00:21:24,916 --> 00:21:26,907
+Sí, claro, puedo notarlo.
+
+311
+00:21:34,760 --> 00:21:37,820
+¿Recuerdas cuando mamá
+y papá se fueron a Europa...
+
+312
+00:21:38,830 --> 00:21:41,993
+...y pensamos que nos habían abandonado
+porque ni siquiera nos escribieron?
+
+313
+00:21:42,200 --> 00:21:44,319
+Luego descubrimos que habían
+escrito una larga carta...
+
+314
+00:21:44,354 --> 00:21:45,788
+...y se había perdido
+en el servicio postal.
+
+315
+00:21:45,823 --> 00:21:49,129
+¿Recuerdas lo culpables que nos
+sentimos por pensar mal de ellos?
+
+316
+00:21:50,676 --> 00:21:51,836
+Es igual ahora.
+
+317
+00:21:53,011 --> 00:21:54,410
+No, no lo es.
+
+318
+00:21:55,347 --> 00:21:56,575
+¿Por qué?
+
+319
+00:21:58,850 --> 00:22:02,809
+Porque ellos no están en Europa.
+Nunca volverán.
+
+320
+00:22:09,995 --> 00:22:14,159
+¿Crees que volvamos a
+sentir algo como un hogar?
+
+321
+00:22:27,713 --> 00:22:29,203
+<i>"Santuario"</i>
+
+322
+00:22:29,514 --> 00:22:32,695
+<i>...una palabra que aquí significa,
+"un pequeño y seguro lugar...</i>
+
+323
+00:22:32,696 --> 00:22:34,816
+...en un mundo lleno de problemas".
+
+324
+00:22:36,021 --> 00:22:41,049
+<i>Como un oasis en un vasto desierto
+o una isla en un mar tormentoso.</i>
+
+325
+00:22:41,293 --> 00:22:44,057
+<i>Los Baudelaire disfrutaron su noche en
+el santuario que construyeron juntos.</i>
+
+326
+00:22:44,262 --> 00:22:45,460
+Puedo verlo.
+
+327
+00:22:45,495 --> 00:22:49,799
+<i>Pero por dentro sabían que el
+mundo de problemas yacía afuera.</i>
+
+328
+00:22:50,035 --> 00:22:53,869
+<i>Un mundo que, con pesar lo digo,
+se resume en dos tristes palabras.</i>
+
+329
+00:22:54,172 --> 00:22:56,003
+Custodia concedida.
+
+330
+00:22:58,877 --> 00:23:02,506
+Gracias, honorable.
+Fue bueno hacer negocios con usted.
+
+331
+00:23:09,554 --> 00:23:14,014
+Niños, estuve considerando
+nuestra situación...
+
+332
+00:23:14,226 --> 00:23:19,425
+...y me di cuenta que he sido
+un poco, digamos, inflexible.
+
+333
+00:23:19,698 --> 00:23:22,030
+Lo que en este caso, es una
+palabra rebuscada que significa...
+
+334
+00:23:22,234 --> 00:23:23,565
+Totalmente malévolo.
+
+335
+00:23:23,802 --> 00:23:26,327
+...severo, pero justo.
+
+336
+00:23:26,872 --> 00:23:29,568
+Pero ahora que somos familia,
+puedo compensarlo...
+
+337
+00:23:29,775 --> 00:23:32,938
+...puedo ser un súper papá.
+
+338
+00:23:33,278 --> 00:23:35,610
+Ya sé. Detengámonos
+a comprar golosinas.
+
+339
+00:23:40,318 --> 00:23:41,910
+Bebida. Bebida. Banana.
+
+340
+00:23:42,776 --> 00:23:44,200
+Vete a la...
+
+341
+00:23:44,322 --> 00:23:45,516
+Entendido.
+
+342
+00:24:05,210 --> 00:24:09,203
+Violet, ¿adónde se
+fueron los pestillos?
+
+343
+00:24:14,516 --> 00:24:17,292
+"LA LEY DE HERENCIAS Y USTED."
+ESTATUTOS MUNICIPALES.
+
+344
+00:24:17,327 --> 00:24:20,486
+Hola. Estoy en un paseo
+totalmente inocente en el campo...
+
+345
+00:24:20,692 --> 00:24:22,990
+...con mis niños, a quienes amo.
+
+346
+00:24:23,261 --> 00:24:24,888
+¿Ese reloj está en hora?
+
+347
+00:24:31,036 --> 00:24:32,628
+¿Qué es eso?
+
+348
+00:24:33,605 --> 00:24:35,732
+Creo que es un itinerario.
+
+349
+00:24:56,228 --> 00:25:00,858
+Delicia de kiwi y sandía.
+Mi favorita.
+
+350
+00:25:11,977 --> 00:25:13,103
+¡Vamos!
+
+351
+00:25:18,817 --> 00:25:21,445
+- Se llevó las llaves.
+- Intenta con todo.
+
+352
+00:25:29,828 --> 00:25:33,286
+<i>Cotorras ardillas cantando...</i>
+
+353
+00:25:36,368 --> 00:25:37,801
+<i>¿Conde Olaf? Hola Poe.</i>
+
+354
+00:25:38,036 --> 00:25:40,971
+Le devuelvo la llamada por el tema
+que tocó acerca de la herencia.
+
+355
+00:25:41,206 --> 00:25:42,969
+- Sr. Poe, gracias a Dios.
+- ¿Quién habla?
+
+356
+00:25:43,208 --> 00:25:45,142
+Soy Violet Baudelaire.
+Estamos en el auto del Conde Olaf.
+
+357
+00:25:45,343 --> 00:25:47,140
+Hola, Violet.
+Bueno, ¿dónde está el Conde Olaf?
+
+358
+00:25:47,379 --> 00:25:48,471
+No está aquí ahora, pero...
+
+359
+00:25:48,713 --> 00:25:50,647
+¿Estás manejando el auto sola?
+
+360
+00:25:50,882 --> 00:25:53,646
+No... El auto está en las vías del tren,
+y el tren está por llegar.
+
+361
+00:25:53,852 --> 00:25:58,312
+Lo siento, Violet, no oigo nada.
+¡Tengo un tren al lado!
+
+362
+00:25:58,557 --> 00:26:00,821
+¡Nos va a arrollar un tren!
+
+363
+00:26:01,026 --> 00:26:04,484
+Así es. ¡No puedo oír
+a causa del tren!
+
+364
+00:26:04,729 --> 00:26:07,994
+<i>¡Los llamaré de vuelta cuando
+llegue al banco! ¡Adiós!</i>
+
+365
+00:26:13,705 --> 00:26:18,335
+Klaus, tú has leído libros sobre trenes.
+¿Qué hacemos?
+
+366
+00:26:21,796 --> 00:26:22,972
+LOS GRANDES TRENES.
+LAS LOCOMOTORAS.
+
+367
+00:26:22,973 --> 00:26:23,973
+HISTORIA DEL CABALLO DE ACERO.
+
+368
+00:26:23,974 --> 00:26:24,974
+VTRENES, VÍAS Y CONMUTADORES.
+
+369
+00:26:25,083 --> 00:26:26,380
+El conmutador de vías.
+
+370
+00:26:26,651 --> 00:26:27,845
+¡Ahí!
+
+371
+00:26:31,556 --> 00:26:32,682
+Está muy lejos.
+
+372
+00:26:32,891 --> 00:26:35,792
+No. Debe haber algo que podamos
+usar para tirar de él.
+
+373
+00:26:35,994 --> 00:26:38,963
+- No hay nada aquí.
+- Siempre hay algo.
+
+374
+00:26:40,899 --> 00:26:42,799
+Sunny, sácale la cabeza a
+mordiscos a ese duende.
+
+375
+00:26:42,800 --> 00:26:44,385
+¡Encantada!
+
+376
+00:27:18,003 --> 00:27:19,129
+Rápido, jálalo de nuevo.
+
+377
+00:27:25,744 --> 00:27:27,644
+- Violet.
+- Lo tengo.
+
+378
+00:27:27,946 --> 00:27:29,573
+No quiero apresurarte.
+
+379
+00:27:35,787 --> 00:27:37,482
+- Buen tiro.
+- Gracias. ¡Tira!
+
+380
+00:28:38,783 --> 00:28:43,652
+Sr. Poe. ¿No podemos discutirlo
+como gente razonable?
+
+381
+00:28:43,855 --> 00:28:45,254
+Lo siento, Conde Olaf.
+
+382
+00:28:45,457 --> 00:28:47,448
+Permitirle conducir un auto a
+una niña de la edad de Sunny...
+
+383
+00:28:47,659 --> 00:28:49,432
+...simplemente no es
+una buena paternidad.
+
+384
+00:28:49,433 --> 00:28:50,433
+Trató de matarnos.
+
+385
+00:28:50,434 --> 00:28:53,494
+No exageremos, Klaus. El auto
+ni siquiera estaba en marcha.
+
+386
+00:28:54,299 --> 00:28:58,998
+¿Puedo tener un momento
+a solas con los niños?
+
+387
+00:29:03,742 --> 00:29:05,107
+Adiós, niños.
+
+388
+00:29:05,744 --> 00:29:07,268
+Fue divertido.
+
+389
+00:29:07,545 --> 00:29:09,308
+Voy a agarrarlos.
+No importa adónde vayan...
+
+390
+00:29:09,514 --> 00:29:12,540
+...no importa lo que hagan,
+los encontraré.
+
+391
+00:29:12,951 --> 00:29:15,579
+Dense por cadáveres.
+
+392
+00:29:20,998 --> 00:29:22,396
+Lléveselos, Sr. Poe...
+
+393
+00:29:23,969 --> 00:29:25,951
+...antes que me quebrante,
+por completo.
+
+394
+00:29:27,499 --> 00:29:29,502
+<i>Engañar a un villano sin talento...</i>
+
+395
+00:29:29,537 --> 00:29:32,563
+<i>...podría parecer mucho para
+tres ingeniosos huérfanos.</i>
+
+396
+00:29:32,971 --> 00:29:35,759
+<i>Pero los Baudelaire
+saborearon su victoria...</i>
+
+397
+00:29:35,794 --> 00:29:38,068
+<i>...mientras corrían
+hacia su nuevo hogar.</i>
+
+398
+00:29:38,309 --> 00:29:40,539
+<i>Lo que les esperaba era incierto...</i>
+
+399
+00:29:40,779 --> 00:29:43,396
+<i>...pero esperaron
+cautelosamente optimistas...</i>
+
+400
+00:29:43,431 --> 00:29:46,207
+<i>...que su próximo tutor
+fuera mejor que el último.</i>
+
+401
+00:29:46,451 --> 00:29:50,148
+<i>O por lo menos no intentara
+aplastarlos con un tren.</i>
+
+402
+00:29:56,594 --> 00:29:59,722
+¿Sabe qué tipo de científico es?
+
+403
+00:29:59,931 --> 00:30:03,169
+No, no lo sé. Estuve muy ocupado
+haciendo arreglos para ustedes tres.
+
+404
+00:30:03,170 --> 00:30:04,393
+No tuve tiempo para una charla.
+
+405
+00:30:04,428 --> 00:30:05,428
+¡Hola!
+
+406
+00:30:06,104 --> 00:30:09,972
+Mi Dios.
+
+407
+00:30:10,208 --> 00:30:13,075
+Mírate. Tú debes ser Violet.
+
+408
+00:30:13,278 --> 00:30:15,473
+¿Me recuerdas?
+No lo creo.
+
+409
+00:30:15,680 --> 00:30:17,739
+Eras una pequeña bebé
+en ese momento.
+
+410
+00:30:18,016 --> 00:30:21,247
+Y, Klaus, nunca nos conocimos.
+¿Cómo estás...?
+
+411
+00:30:21,886 --> 00:30:25,083
+Que apretón firme.
+Como una pitón birmana.
+
+412
+00:30:25,356 --> 00:30:30,658
+Y Sunny. Pequeña Sunny.
+Te pareces tanto a tu madre.
+
+413
+00:30:31,129 --> 00:30:34,621
+Muchas gracias, Sr. Poe.
+Me haré cargo desde aquí.
+
+414
+00:30:35,300 --> 00:30:37,097
+Quizás deba entrar.
+
+415
+00:30:37,302 --> 00:30:38,792
+Por su puesto.
+
+416
+00:30:39,637 --> 00:30:41,904
+Puede ayudarnos a quitar
+los gusanos triquina...
+
+417
+00:30:41,939 --> 00:30:43,437
+...del intestino de la Boa Viscosa.
+
+418
+00:30:44,075 --> 00:30:47,101
+Niños, recuerden,
+si me necesitan...
+
+419
+00:30:47,312 --> 00:30:50,770
+...pueden llamarme por
+teléfono o mandarme un fax.
+
+420
+00:30:51,015 --> 00:30:52,175
+Adiós.
+
+421
+00:30:56,154 --> 00:30:58,145
+Bueno, nos deshicimos de él, ¿no?
+
+422
+00:30:58,389 --> 00:31:01,654
+Entren. Entren. No tenemos mucho
+tiempo, y tenemos que empacar.
+
+423
+00:31:02,827 --> 00:31:04,021
+¿Empacar?
+
+424
+00:31:06,464 --> 00:31:07,522
+¿Dijo empacar?
+
+425
+00:31:07,732 --> 00:31:10,997
+Sí. Tenemos que empacar
+todo el equipamiento.
+
+426
+00:31:11,402 --> 00:31:13,836
+Luego lo esencial,
+como la ropa y demás.
+
+427
+00:31:14,038 --> 00:31:16,506
+Y tenemos que etiquetar todas las
+víboras que vendrán con nosotros.
+
+428
+00:31:16,708 --> 00:31:17,834
+¿Vendrán a dónde?
+
+429
+00:31:18,042 --> 00:31:20,169
+¿No mencioné que
+nos vamos a Perú?
+
+430
+00:31:20,378 --> 00:31:22,710
+- No.
+- Sí, nos vamos a Perú.
+
+431
+00:31:22,914 --> 00:31:26,179
+Mañana por la mañana.
+¿No es divertido?
+
+432
+00:31:26,384 --> 00:31:27,851
+Vamos al dormitorio de los reptiles.
+
+433
+00:31:30,555 --> 00:31:33,524
+Bienvenidos a mi humilde morada.
+
+434
+00:31:33,925 --> 00:31:36,519
+¿Saben algo de víboras?
+
+435
+00:31:37,228 --> 00:31:38,855
+Solo lo que leí en libros.
+
+436
+00:31:39,264 --> 00:31:41,027
+No, no mucho.
+
+437
+00:31:41,733 --> 00:31:45,794
+Bueno, aquí tenemos una o dos cosas
+que no están en los libros.
+
+438
+00:31:46,938 --> 00:31:51,534
+Voy a meter a mi gran amiga en su cama
+y les presentaré algunos de mis amigos.
+
+439
+00:31:52,410 --> 00:31:53,877
+Por aquí...
+
+440
+00:31:54,078 --> 00:31:55,375
+Esa es la Cobra de dos cabezas.
+
+441
+00:31:55,580 --> 00:31:57,548
+Muy bien reconocida.
+
+442
+00:31:57,749 --> 00:31:59,216
+¿Es macho o hembra?
+
+443
+00:31:59,584 --> 00:32:02,052
+No tengo idea. No creí que
+fuera correcto preguntar.
+
+444
+00:32:02,587 --> 00:32:06,216
+Y por aquí, el sapo
+tibetano de tres ojos.
+
+445
+00:32:06,424 --> 00:32:09,791
+No podemos parar su cantar.
+
+446
+00:32:10,194 --> 00:32:14,062
+Y ahora niños, tienen que ver
+mi último descubrimiento.
+
+447
+00:32:14,265 --> 00:32:19,066
+La encontramos en Tanzania. Única.
+La Serpiente Increíblemente Mortal.
+
+448
+00:32:19,704 --> 00:32:24,334
+Mi asistente Gustav y yo, debemos
+ser los únicos en haberla visto.
+
+449
+00:32:51,002 --> 00:32:54,494
+<i>Lo siento. Mi cinta se atoró.</i>
+
+450
+00:32:54,739 --> 00:32:56,707
+<i>Déjenme ajustarla.</i>
+
+451
+00:32:58,476 --> 00:32:59,476
+<i>Bien.</i>
+
+452
+00:32:59,644 --> 00:33:00,668
+<i>Ahí está.</i>
+
+453
+00:33:00,979 --> 00:33:02,105
+<i>Bien...</i>
+
+454
+00:33:02,814 --> 00:33:03,974
+<i>...¿dónde estaba?</i>
+
+455
+00:33:04,248 --> 00:33:06,944
+<i>Sí. El ataque de la
+Serpiente Increíblemente Mortal.</i>
+
+456
+00:33:08,186 --> 00:33:11,314
+No se preocupen, pequeños.
+Están todos bien.
+
+457
+00:33:11,522 --> 00:33:14,184
+No tiene posibilidades de
+dañarlos. Aquí vamos.
+
+458
+00:33:14,559 --> 00:33:17,687
+¿La Serpiente Increíblemente Mortal
+no puede dañarla?
+
+459
+00:33:17,929 --> 00:33:19,658
+No. No, no, no, no.
+
+460
+00:33:21,699 --> 00:33:23,223
+Es una gran debilucha.
+
+461
+00:33:23,534 --> 00:33:26,025
+Una de las menos dañinas y
+más amigables criaturas...
+
+462
+00:33:26,237 --> 00:33:27,499
+...en el reino animal.
+
+463
+00:33:27,705 --> 00:33:28,865
+Está mal apodada.
+
+464
+00:33:29,073 --> 00:33:32,406
+Sólo la he llamado así, para gastarles
+una broma a esos estirados...
+
+465
+00:33:32,610 --> 00:33:34,635
+...de la Sociedad Herpetológica.
+
+466
+00:33:34,879 --> 00:33:37,643
+Tío Monty, ¿por qué
+vamos a Perú?
+
+467
+00:33:38,082 --> 00:33:39,879
+Justo esta mañana estaba
+preguntándome...
+
+468
+00:33:40,084 --> 00:33:42,348
+..."¿Cómo saldremos
+del pueblo juntos?"
+
+469
+00:33:42,553 --> 00:33:46,011
+Y pensé, "Perú. "
+Hay víboras en Perú, ¿no?
+
+470
+00:33:46,224 --> 00:33:48,749
+¿Pero por qué nos
+vamos del pueblo?
+
+471
+00:33:50,361 --> 00:33:54,320
+Violet, ¿sabes que las víboras
+te temen más que tú a ellas?
+
+472
+00:33:55,700 --> 00:33:57,190
+Poca gente lo sabe.
+
+473
+00:33:58,036 --> 00:34:00,561
+Cuando es amenazada, la
+víbora se retira a un lugar...
+
+474
+00:34:00,772 --> 00:34:04,003
+...más tranquilo, a salvo, lejano.
+
+475
+00:34:05,109 --> 00:34:10,172
+Un santuario. Donde
+puede sentirse fuera de peligro.
+
+476
+00:34:12,083 --> 00:34:13,744
+Ese es el por qué de Perú.
+
+477
+00:34:18,089 --> 00:34:20,523
+Espera, ese catalejo. Vi uno
+como esos en el escritorio de papá...
+
+478
+00:34:20,725 --> 00:34:22,522
+Todo el tiempo del mundo
+para charlar luego.
+
+479
+00:34:22,760 --> 00:34:25,524
+Pero ahora, lo que
+necesito es un inventor...
+
+480
+00:34:25,730 --> 00:34:27,061
+...un lector...
+
+481
+00:34:27,265 --> 00:34:28,892
+...y un mordedor.
+
+482
+00:34:29,310 --> 00:34:30,663
+¿Conocen alguno?
+
+483
+00:34:31,054 --> 00:34:34,170
+<i>Mis dientes están
+a su servicio, Sr...</i>
+
+484
+00:34:37,775 --> 00:34:42,269
+<i>Alto en las montañas
+Y bajo sobre el río Tay.</i>
+
+485
+00:34:43,581 --> 00:34:48,780
+<i>Bonnie George Campbell
+cabalgó durante el día.</i>
+
+486
+00:34:49,754 --> 00:34:54,782
+<i>Ensillado y estribado
+para que el caballero lo monte.</i>
+
+487
+00:34:55,593 --> 00:35:00,587
+<i>Su buen caballo retornó a casa
+pero él nunca lo hizo.</i>
+
+488
+00:35:02,967 --> 00:35:06,596
+Petunia, ¿qué te he
+dicho sobre esto?
+
+489
+00:35:06,804 --> 00:35:09,102
+Cree que soy un árbol.
+
+490
+00:35:09,941 --> 00:35:14,742
+Creo que conozco esa canción. Creo
+que nuestros padres nos la cantaban.
+
+491
+00:35:14,946 --> 00:35:18,074
+Claro que lo hacían.
+Así como yo a los míos.
+
+492
+00:35:18,282 --> 00:35:20,773
+- ¿Tuviste hijos?
+- Sí.
+
+493
+00:35:21,452 --> 00:35:23,784
+Y una esposa y un hogar.
+
+494
+00:35:25,490 --> 00:35:26,616
+Hasta el incendio.
+
+495
+00:35:28,025 --> 00:35:29,322
+¿Un incendio?
+
+496
+00:35:30,795 --> 00:35:33,821
+Debería saber mejor que nadie
+por lo que están pasando.
+
+497
+00:35:35,333 --> 00:35:36,925
+Pero todo va a estar bien.
+
+498
+00:35:37,468 --> 00:35:41,962
+Estaremos junto a gente que nos
+entiende. Gente como nosotros.
+
+499
+00:35:42,473 --> 00:35:44,634
+Gente que aprecia
+a niños únicos...
+
+500
+00:35:44,842 --> 00:35:50,144
+...que pueden leer, inventar
+y morder cosas.
+
+501
+00:35:52,517 --> 00:35:55,645
+Tío Monty, ¿por qué haces
+todo esto por nosotros?
+
+502
+00:35:57,321 --> 00:35:59,482
+¿No es lo que la familia hace?
+
+503
+00:36:00,358 --> 00:36:03,816
+<i>"Y entonces los niños
+Baudelaire fueron a Perú...</i>
+
+504
+00:36:04,028 --> 00:36:05,757
+<i>...y tuvieron aventuras increíbles...</i>
+
+505
+00:36:05,963 --> 00:36:09,330
+<i>...con su nuevo amado e
+increíble tutor.</i>
+
+506
+00:36:10,001 --> 00:36:11,992
+<i>Fin. "</i>
+
+507
+00:36:13,838 --> 00:36:16,500
+<i>Estas son las palabras que desearía
+desesperadamente poder escribir.</i>
+
+508
+00:36:16,841 --> 00:36:21,141
+<i>Daría lo que fuera por decir
+que la historia culmina aquí.</i>
+
+509
+00:36:21,345 --> 00:36:24,007
+<i>Pero que pena, mi misión no
+es construir finales felices...</i>
+
+510
+00:36:24,215 --> 00:36:27,514
+<i>...donde no ocurren sino para
+reportar eventos verdaderos...</i>
+
+511
+00:36:27,718 --> 00:36:30,881
+<i>...en las vidas de los
+desafortunados niños Baudelaire.</i>
+
+512
+00:36:31,856 --> 00:36:33,687
+<i>Y por más que me duela...</i>
+
+513
+00:36:33,891 --> 00:36:37,691
+<i>...debo confesar que sus problemas
+acaban de comenzar.</i>
+
+514
+00:36:37,929 --> 00:36:40,989
+<i>Y lo hicieron con dos campanadas.</i>
+
+515
+00:36:56,280 --> 00:36:57,542
+Hola.
+
+516
+00:36:57,748 --> 00:37:02,412
+Estoy buscando al
+Dr. Montgomery Montgomery.
+
+517
+00:37:04,222 --> 00:37:07,714
+Soy Stephano. Soy italiano...
+
+518
+00:37:08,059 --> 00:37:13,361
+...y estoy aquí para asistirlo en su
+investigación lo mejor que pueda.
+
+519
+00:37:13,564 --> 00:37:17,694
+Así como facilitar y
+permanecer observando.
+
+520
+00:37:17,902 --> 00:37:19,392
+Ud. es el Conde Olaf.
+
+521
+00:37:24,642 --> 00:37:28,043
+¿Por qué dices algo semejante?
+
+522
+00:37:28,579 --> 00:37:32,276
+Nunca conocí una persona
+como el Conde Olaf...
+
+523
+00:37:32,583 --> 00:37:34,915
+...pero si así lo hiciera...
+
+524
+00:37:35,119 --> 00:37:39,715
+...estoy seguro que luciría y sonaría
+completamente diferente.
+
+525
+00:37:40,091 --> 00:37:42,252
+Ud. es Olaf,
+y no lo dejaremos entrar.
+
+526
+00:37:48,299 --> 00:37:52,929
+Bueno, quizás deberían
+reconsiderar su hipótesis.
+
+527
+00:37:53,604 --> 00:37:57,597
+Por esto es que no deben
+correr con ellos, niños.
+
+528
+00:37:57,842 --> 00:38:00,470
+Sabias palabras,
+Sr. Stephano.
+
+529
+00:38:00,678 --> 00:38:03,272
+Me encontró aconsejándolos.
+
+530
+00:38:03,514 --> 00:38:06,483
+Y gracias por venir tan pronto.
+
+531
+00:38:06,717 --> 00:38:08,309
+No es nada, no es nada.
+
+532
+00:38:08,552 --> 00:38:12,420
+Mi asistente principal, Gustav,
+enfermó y llamó no hace una hora.
+
+533
+00:38:12,623 --> 00:38:15,091
+Él daría cualquier cosa
+por estar aquí.
+
+534
+00:38:18,696 --> 00:38:21,116
+Gracias a Dios que usted
+estaba disponible.
+
+535
+00:38:21,151 --> 00:38:25,768
+Bueno, soy un admirador,
+si me lo permite.
+
+536
+00:38:26,037 --> 00:38:29,268
+Su trabajo ha influido profundamente
+en mi investigación...
+
+537
+00:38:29,473 --> 00:38:33,106
+...en el acuario de
+la Bahía Monterrey...
+
+538
+00:38:34,312 --> 00:38:35,609
+...sobre la serpiente marina.
+
+539
+00:38:36,213 --> 00:38:38,773
+Es un animal muy volátil.
+
+540
+00:38:39,050 --> 00:38:44,352
+- Quizás deberíamos...
+- Fui mordido 43... 700 veces.
+
+541
+00:38:44,889 --> 00:38:46,356
+La mayoría en la cara.
+
+542
+00:38:46,557 --> 00:38:49,526
+Mucho de esto fue reconstruido.
+
+543
+00:38:49,827 --> 00:38:51,944
+Pero creo que hicieron
+un excelente trabajo...
+
+544
+00:38:51,979 --> 00:38:55,310
+...aunque mi bigote está
+un poco torcido.
+
+545
+00:38:55,762 --> 00:38:57,983
+No puedes creer esto.
+
+546
+00:38:58,002 --> 00:39:01,460
+Me pregunto si los niños podrían
+ayudarme con el equipaje.
+
+547
+00:39:01,739 --> 00:39:04,799
+Mi lado izquierdo está
+neurológicamente afectado.
+
+548
+00:39:05,076 --> 00:39:06,703
+- Pero por supuesto. Niños...
+- Tío Monty...
+
+549
+00:39:07,011 --> 00:39:11,141
+Por favor. No seamos rudos
+con nuestro invitado.
+
+550
+00:39:11,415 --> 00:39:12,643
+Ahora vayan.
+
+551
+00:39:13,918 --> 00:39:15,317
+¿Qué planea?
+
+552
+00:39:15,519 --> 00:39:16,947
+No lo sé.
+
+553
+00:39:16,982 --> 00:39:21,157
+<i>No hay buen momento, para
+que un famoso villano arribe.</i>
+
+554
+00:39:21,359 --> 00:39:23,327
+<i>Pero el momento de la
+reaparición de Olaf...</i>
+
+555
+00:39:23,527 --> 00:39:25,250
+<i>...justo cuando el secreto
+del Dr. Montgomery...</i>
+
+556
+00:39:25,251 --> 00:39:26,800
+<i>...podía ser revelado a los niños...</i>
+
+557
+00:39:27,231 --> 00:39:29,893
+<i>...era casi más de lo que
+Klaus podía soportar.</i>
+
+558
+00:39:30,134 --> 00:39:31,431
+Violet, escúchame.
+
+559
+00:39:31,869 --> 00:39:35,168
+El catalejo de Monty. Vi uno
+igual en el escritorio de papá.
+
+560
+00:39:35,973 --> 00:39:38,908
+- Klaus, es sólo una coincidencia.
+- No, Violet.
+
+561
+00:39:39,110 --> 00:39:41,010
+Todo ocurre por alguna razón.
+
+562
+00:39:41,212 --> 00:39:44,511
+Los niños nos ayudarán arduamente
+con la investigación en Perú.
+
+563
+00:39:44,715 --> 00:39:46,182
+¿Tiene experiencia con niños?
+
+564
+00:39:46,384 --> 00:39:49,683
+Los niños son extraños
+y desconocidos para mí.
+
+565
+00:39:50,621 --> 00:39:52,020
+Nunca fui uno.
+
+566
+00:39:52,223 --> 00:39:55,590
+Sé que son una pieza
+importante del ecosistema.
+
+567
+00:39:55,893 --> 00:39:57,793
+Nunca nos dejará a solas con Monty.
+
+568
+00:39:57,995 --> 00:39:59,428
+Debemos dejarle un mensaje.
+
+569
+00:40:00,131 --> 00:40:01,530
+Déjamelo a mí.
+
+570
+00:40:02,800 --> 00:40:05,030
+Estaba alimentando a la anguila...
+
+571
+00:40:05,469 --> 00:40:09,200
+...y por supuesto, me puse engreído.
+
+572
+00:40:09,407 --> 00:40:13,275
+Y es todo lo que hace falta.
+Todo lo que hace falta es una sola vez.
+
+573
+00:40:16,080 --> 00:40:17,206
+Sólo una.
+
+574
+00:40:17,481 --> 00:40:20,211
+Tenía el arenque en mi boca,
+y se lo ofrecí.
+
+575
+00:40:20,484 --> 00:40:23,976
+Y había un equipo de
+National Geographic.
+
+576
+00:40:24,188 --> 00:40:25,553
+Estaban filmando todo.
+
+577
+00:40:25,756 --> 00:40:29,283
+Y bien, mucha gente no
+sabe esto sobre la anguila...
+
+578
+00:40:29,493 --> 00:40:32,766
+...pero ya sabe, uno piensa "éste no
+puede ser un animal tan fuerte. "
+
+579
+00:40:32,801 --> 00:40:34,728
+Quiero decir, seguro que tiene
+una cierta cantidad de fuerza...
+
+580
+00:40:34,932 --> 00:40:38,265
+...pero ¿cómo hace para llevar el rostro
+de un hombre hacia una cueva?
+
+581
+00:40:38,769 --> 00:40:40,930
+De todas formas,
+es una larga historia...
+
+582
+00:40:41,172 --> 00:40:43,470
+...las vendas,
+cirugía reconstructiva...
+
+583
+00:40:43,674 --> 00:40:48,805
+Pero sí, a mi entender,
+Perú es un lugar maravilloso.
+
+584
+00:40:49,113 --> 00:40:50,978
+Las playas. La gente.
+
+585
+00:40:50,979 --> 00:40:51,979
+"IMPOSTOR"
+
+586
+00:40:51,980 --> 00:40:53,429
+Las leyes relajadas
+sobre guardianes legales.
+
+587
+00:40:53,851 --> 00:40:55,751
+¿Leyes relajadas
+sobre guardianes legales?
+
+588
+00:40:57,488 --> 00:40:58,955
+¿Dije eso?
+
+589
+00:41:00,558 --> 00:41:01,923
+Malditas neurotoxinas.
+
+590
+00:41:02,293 --> 00:41:06,662
+Stephano, tienes un don maravilloso
+para contar historias.
+
+591
+00:41:06,964 --> 00:41:09,660
+- ¿No es así, niños?
+- Sí.
+
+592
+00:41:09,867 --> 00:41:12,927
+Me preguntaba si podrían
+ordeñar a Petunia por mí.
+
+593
+00:41:13,137 --> 00:41:18,439
+Petunia. Bien, ordeñar...
+Mira, lo que yo...
+
+594
+00:41:18,642 --> 00:41:19,836
+¿Podría sólo...?
+
+595
+00:41:20,044 --> 00:41:22,945
+Sí, por supuesto. Lo intentaré.
+
+596
+00:41:23,380 --> 00:41:27,009
+Solían llamarme viejo MacDonald
+en el otro laboratorio...
+
+597
+00:41:27,218 --> 00:41:29,152
+...porque ordeñaba estas cosas
+todo el día.
+
+598
+00:41:29,420 --> 00:41:33,151
+Pero las pequeñas ubres
+son difíciles de localizar.
+
+599
+00:41:34,692 --> 00:41:37,684
+De todas formas,
+¿por qué no lo toma...
+
+600
+00:41:37,928 --> 00:41:40,692
+...y comienza sin mí?,
+y luego...
+
+601
+00:41:40,998 --> 00:41:45,992
+...no estoy seguro de haber traído mis
+herramientas de ordeñe. Iré a mirar.
+
+602
+00:41:57,515 --> 00:41:58,812
+¿Todavía está mirando?
+
+603
+00:42:00,184 --> 00:42:01,310
+Sí.
+
+604
+00:42:01,785 --> 00:42:03,776
+No mires hacia mí.
+Finge estar hablando con Klaus.
+
+605
+00:42:03,988 --> 00:42:05,819
+De acuerdo.
+
+606
+00:42:06,023 --> 00:42:09,322
+Vi tu mensaje.
+No te preocupes. Estoy al tanto.
+
+607
+00:42:09,527 --> 00:42:11,495
+- ¿Lo sabes?
+- Sí.
+
+608
+00:42:11,695 --> 00:42:14,664
+Una anguila nunca comería arenque.
+Son muy salados.
+
+609
+00:42:15,032 --> 00:42:17,364
+¿Notaron cómo miraba fijamente
+dentro de mi maletín...
+
+610
+00:42:17,568 --> 00:42:19,695
+...donde guardo el veneno
+de serpientes exóticas?
+
+611
+00:42:20,037 --> 00:42:23,939
+Tenían razón, niños.
+Stephano es un impostor.
+
+612
+00:42:24,141 --> 00:42:25,141
+Sí.
+
+613
+00:42:25,309 --> 00:42:27,038
+Es un espía de la
+Sociedad Herpetológica.
+
+614
+00:42:27,244 --> 00:42:29,439
+Está aquí para robar la
+Serpiente Increíblemente Mortal.
+
+615
+00:42:29,680 --> 00:42:31,289
+- No.
+- No. Tío Monty...
+
+616
+00:42:33,117 --> 00:42:38,419
+Diablos. Ya terminé.
+¡Tenía tantas ganas de ordeñar!
+
+617
+00:42:39,290 --> 00:42:41,656
+¿No es hora que los niños
+se vayan a la cama?
+
+618
+00:42:41,859 --> 00:42:45,818
+Absolutamente.
+Mañana comenzamos temprano, niños.
+
+619
+00:42:46,030 --> 00:42:47,258
+Vamos.
+
+620
+00:42:48,198 --> 00:42:49,358
+Buenas noches.
+
+621
+00:42:54,805 --> 00:42:58,434
+Si llegaran a desvelarse en la noche...
+
+622
+00:42:58,709 --> 00:43:02,440
+...estaré en el vestíbulo,
+y tengo el sueño liviano.
+
+623
+00:43:02,713 --> 00:43:07,116
+De hecho, apenas sí duermo.
+
+624
+00:43:19,163 --> 00:43:21,290
+¿Tienes permiso para ir al vestíbulo?
+
+625
+00:43:24,902 --> 00:43:26,802
+No lo creo.
+
+626
+00:43:27,605 --> 00:43:31,473
+Petunia, te voy a echar de menos.
+
+627
+00:43:32,743 --> 00:43:35,803
+Eres una buena chica, ¿no?
+
+628
+00:43:36,747 --> 00:43:38,374
+Una chica bonita.
+
+629
+00:43:38,916 --> 00:43:42,215
+Lo eres. Sí, lo eres.
+
+630
+00:43:44,254 --> 00:43:46,882
+Sí, lo eres.
+
+631
+00:43:48,258 --> 00:43:51,159
+<i>Es algo curioso, la muerte
+de un ser querido.</i>
+
+632
+00:43:53,430 --> 00:43:54,988
+¿Tío Monty?
+
+633
+00:43:55,199 --> 00:43:58,168
+<i>Es como subir las escaleras
+a oscuras hacia tu dormitorio...</i>
+
+634
+00:43:58,369 --> 00:44:01,702
+<i>...y pensar que hay un
+escalón más del que hay.</i>
+
+635
+00:44:02,373 --> 00:44:04,534
+<i>Tu pie trata de apoyarse en el aire...</i>
+
+636
+00:44:04,742 --> 00:44:07,905
+<i>...y hay un momento
+siniestro de sorpresa.</i>
+
+637
+00:44:10,080 --> 00:44:11,080
+¿Tío Monty?
+
+638
+00:44:16,787 --> 00:44:19,347
+<i>El dolor de los niños no fue
+sólo por su tío...</i>
+
+639
+00:44:19,590 --> 00:44:23,117
+<i>...sino por esa tierna esperanza de
+haber reencontrado un hogar.</i>
+
+640
+00:44:23,394 --> 00:44:26,448
+<i>Una esperanza que,
+gracias a un villano actor...</i>
+
+641
+00:44:26,449 --> 00:44:30,236
+<i>...estaba ahora,
+lentamente desplomándose.</i>
+
+642
+00:44:32,803 --> 00:44:35,601
+De alguna manera me siento
+responsable por esta tragedia.
+
+643
+00:44:35,806 --> 00:44:39,037
+Debí advertirle...
+
+644
+00:44:39,276 --> 00:44:40,800
+...que la Serpiente
+Increíblemente Mortal...
+
+645
+00:44:41,011 --> 00:44:44,037
+...es la serpiente más mortal
+en el ecosistema entero.
+
+646
+00:44:44,248 --> 00:44:47,217
+Debería saberlo. Yo la descubrí.
+
+647
+00:44:47,418 --> 00:44:48,783
+¿Usted qué?
+
+648
+00:44:49,019 --> 00:44:50,281
+¿Detective?
+
+649
+00:44:51,155 --> 00:44:55,114
+Pequeña, la puerta de la jaula
+está abierta. Un hombre muerto.
+
+650
+00:44:55,325 --> 00:44:56,553
+¿Sabes lo que pienso?
+
+651
+00:44:56,760 --> 00:44:59,593
+Pienso, "¿Quién me despertó a las
+nueve de la mañana por esto?"
+
+652
+00:45:00,297 --> 00:45:03,095
+Definitivamente es una mordida de
+serpiente. No hay dudas.
+
+653
+00:45:03,300 --> 00:45:05,097
+Mordida de serpiente, no hay dudas.
+Gracias, doc.
+
+654
+00:45:05,369 --> 00:45:08,236
+No entiende, la Serpiente Increíblemente
+Mortal no pudo haberlo matado...
+
+655
+00:45:08,439 --> 00:45:10,930
+...porque es una de las criaturas
+menos peligrosas y más amigables...
+
+656
+00:45:11,141 --> 00:45:12,335
+...en el reino animal.
+
+657
+00:45:12,609 --> 00:45:14,304
+¿Le importa si me salto
+el papeleo de esto?
+
+658
+00:45:14,645 --> 00:45:18,945
+Creo que será lo mejor. Estos niños
+han pasado por un momento difícil.
+
+659
+00:45:19,516 --> 00:45:22,974
+Me pregunto si será buena idea,
+cambiar sus planes ahora.
+
+660
+00:45:23,287 --> 00:45:25,949
+Nos dirigíamos hacia Perú mañana...
+
+661
+00:45:26,156 --> 00:45:28,522
+- ...y los pasajes no son reintegrables.
+- No.
+
+662
+00:45:28,726 --> 00:45:29,985
+Doc, ¿qué opina?
+
+663
+00:45:30,020 --> 00:45:32,485
+Podría ser la única oportunidad
+para que le den un cierre a esto.
+
+664
+00:45:32,486 --> 00:45:33,486
+Yo me encargo de esto.
+
+665
+00:45:33,487 --> 00:45:35,229
+Darle un cierre a esto.
+Gracias, doc.
+
+666
+00:45:35,432 --> 00:45:37,491
+<i>De las entrevistas con los testigos
+que estuvieron ese día...</i>
+
+667
+00:45:37,701 --> 00:45:41,364
+<i>...aprendí lo siguiente del plan
+de la más joven Baudelaire...</i>
+
+668
+00:45:41,638 --> 00:45:43,367
+<i>...la Valiente Sunny comenzó aquí...</i>
+
+669
+00:45:43,640 --> 00:45:45,335
+<i>...y se acercó a la
+Serpiente Increíblemente Mortal...</i>
+
+670
+00:45:45,542 --> 00:45:47,601
+<i>...con una sola idea en su mente.</i>
+
+671
+00:45:47,911 --> 00:45:51,108
+No, es el Conde Olaf,
+y ese doctor es su cómplice.
+
+672
+00:45:51,348 --> 00:45:52,713
+Trató de matarnos con un tren.
+
+673
+00:45:52,916 --> 00:45:55,976
+- ¿De dónde este hombre sacaría un tren?
+- ¿De dónde sacaría un tren?
+
+674
+00:45:56,253 --> 00:45:57,880
+Niños, son demasiadas estupideces.
+
+675
+00:45:58,155 --> 00:46:00,953
+El Sr. Stephano no guarda
+relación con el Conde Olaf.
+
+676
+00:46:01,158 --> 00:46:04,787
+¿Quién es este apuesto Conde Olaf
+del que están hablando?
+
+677
+00:46:04,995 --> 00:46:08,761
+El Conde Olaf es su anterior tutor,
+quien se equivocó en un juicio.
+
+678
+00:46:09,500 --> 00:46:13,459
+¿Qué hay del tatuaje?. El Conde Olaf
+tenía tatuado un ojo en su tobillo.
+
+679
+00:46:14,171 --> 00:46:16,139
+Todo por los niños.
+
+680
+00:46:17,875 --> 00:46:20,639
+<i>¡Voilá!</i>
+Impecablemente limpio.
+
+681
+00:46:20,944 --> 00:46:22,969
+Es un actor.
+Lo cubrió con maquillaje.
+
+682
+00:46:25,048 --> 00:46:28,329
+Doctor, me preguntaba si
+me ayudaría a escoltar...
+
+683
+00:46:28,364 --> 00:46:30,319
+...a estos niños al vehículo.
+
+684
+00:46:30,521 --> 00:46:32,250
+- ¡No, Sr. Poe!
+- Le enviaré una postal.
+
+685
+00:46:32,456 --> 00:46:34,617
+<i>Sobre una cosa, en que
+todos los testigos concuerdan.</i>
+
+686
+00:46:34,858 --> 00:46:39,625
+<i>El sonido que escucharon luego
+fue tan escandaloso, tan sorpresivo...</i>
+
+687
+00:46:39,863 --> 00:46:42,195
+<i>...que aún los atormenta
+en estos días.</i>
+
+688
+00:46:52,075 --> 00:46:56,341
+Demonios. Este era tan buen personaje.
+
+689
+00:47:18,531 --> 00:47:21,500
+<i>Canta pajarillo, ave azul,
+canta una canción.</i>
+
+690
+00:47:21,701 --> 00:47:23,573
+Descansen tranquilos, niños...
+
+691
+00:47:23,574 --> 00:47:26,386
+...las autoridades
+están detrás del Sr. Stephano.
+
+692
+00:47:26,421 --> 00:47:29,764
+Desde su frente sin cejas hasta
+su tobillo sin tatuar.
+
+693
+00:47:30,176 --> 00:47:31,871
+El Demonio Italiano.
+
+694
+00:47:32,078 --> 00:47:35,272
+<i>Aún en las garras de un
+banquero despistado...</i>
+
+695
+00:47:35,307 --> 00:47:38,411
+<i>...los Baudelaire celebraron su
+desenmascaramiento del Conde Olaf...</i>
+
+696
+00:47:38,446 --> 00:47:41,977
+<i>...mientras volvían a través de la
+superficie helada del Lago Lacrimoso.</i>
+
+697
+00:47:42,012 --> 00:47:45,522
+<i>Pero Klaus no era del tipo que
+piensan en la superficie de nada.</i>
+
+698
+00:47:45,725 --> 00:47:48,426
+<i>Sabía que había algo
+detrás de su viaje...</i>
+
+699
+00:47:48,461 --> 00:47:51,154
+<i>...aunque lo único que tenía
+para seguir era un catalejo...</i>
+
+700
+00:47:51,189 --> 00:47:53,348
+<i>...el conocimiento
+de otro terrible incendio...</i>
+
+701
+00:47:53,349 --> 00:47:55,742
+<i>...y dos palabras
+en un pedazo de papel.</i>
+
+702
+00:47:55,777 --> 00:47:57,503
+¿Tía Josephine?
+
+703
+00:47:58,137 --> 00:47:59,832
+Nunca escuché de ella.
+
+704
+00:48:01,826 --> 00:48:03,377
+¿No te parece extraño...
+
+705
+00:48:03,378 --> 00:48:05,348
+...que ninguno de nuestros familiares
+esté relacionado con nosotros?
+
+706
+00:48:21,961 --> 00:48:23,519
+¿Tía Josephine?
+
+707
+00:48:25,398 --> 00:48:28,196
+¿Baudelaire? ¿Son ustedes?
+
+708
+00:48:28,434 --> 00:48:29,594
+Sí.
+
+709
+00:48:31,104 --> 00:48:32,401
+Dios.
+
+710
+00:48:32,705 --> 00:48:34,436
+Pasen. Pasen. Pasen.
+
+711
+00:48:34,471 --> 00:48:37,068
+El huracán Herman llegará
+en cualquier momento.
+
+712
+00:48:38,912 --> 00:48:43,196
+Violet. ¡Mírate!
+
+713
+00:48:43,231 --> 00:48:44,231
+Hola.
+
+714
+00:48:44,232 --> 00:48:45,885
+Entra, rápido. Rápido niños.
+
+715
+00:48:46,119 --> 00:48:48,057
+- ¿Qué? ¿Qué?
+- ¿Qué ocurre?
+
+716
+00:48:48,092 --> 00:48:51,747
+No tan rápido. Pueden pasar sobre
+la alfombra de bienvenida...
+
+717
+00:48:51,991 --> 00:48:53,288
+...y decapitarse.
+
+718
+00:48:54,627 --> 00:48:59,257
+Entonces, rápido, pero
+no demasiado, ¿correcto?
+
+719
+00:49:13,513 --> 00:49:16,573
+Siento que esté tan
+helado aquí dentro.
+
+720
+00:49:16,983 --> 00:49:20,749
+A veces se pone tan frío
+que apenas puedo soportarlo.
+
+721
+00:49:20,987 --> 00:49:23,649
+¿Quieres que encienda el radiador
+para ti, tía Josephine?
+
+722
+00:49:23,957 --> 00:49:28,121
+No. Nunca lo enciendo.
+Tengo miedo que pueda explotar.
+
+723
+00:49:29,329 --> 00:49:33,493
+Niños, debo pedirles que no usen
+ninguno de los pestillos de las puertas.
+
+724
+00:49:34,200 --> 00:49:38,933
+Sólo empujen en la
+madera, y se abrirá.
+
+725
+00:49:40,112 --> 00:49:41,275
+¿Por qué?
+
+726
+00:49:41,310 --> 00:49:43,622
+Bueno, siempre temí
+que el pestillo...
+
+727
+00:49:43,657 --> 00:49:45,458
+...se hiciera mil pedazos...
+
+728
+00:49:45,493 --> 00:49:47,253
+...y uno de ellos me
+diera en el ojo.
+
+729
+00:49:48,756 --> 00:49:50,626
+Alguien ha visitado locolandia.
+
+730
+00:49:51,484 --> 00:49:53,782
+"Delmo" no es una palabra.
+
+731
+00:49:54,354 --> 00:49:57,949
+Veo que deberé enseñarle
+inglés correcto.
+
+732
+00:50:03,496 --> 00:50:07,489
+La gramática es lo más divertido
+en la vida, ¿no crees?
+
+733
+00:50:07,734 --> 00:50:09,808
+- Definitivamente.
+- Amo la gramática.
+
+734
+00:50:09,809 --> 00:50:12,486
+Ella es la alcaldesa de Locolandia.
+
+735
+00:50:18,177 --> 00:50:19,804
+Perfecto. Una buena sopa caliente.
+
+736
+00:50:20,513 --> 00:50:23,812
+En realidad, es sopa
+helada de pepino.
+
+737
+00:50:24,050 --> 00:50:25,483
+Nunca cocino nada caliente.
+
+738
+00:50:25,718 --> 00:50:28,551
+Temo que la estufa estalle en llamas.
+
+739
+00:50:28,921 --> 00:50:30,709
+¿Dónde está tu hermano?
+
+740
+00:50:30,744 --> 00:50:32,223
+En la cocina.
+
+741
+00:50:33,078 --> 00:50:34,251
+¿Klaus?
+
+742
+00:50:34,527 --> 00:50:35,721
+¿Qué estás haciendo?
+
+743
+00:50:36,826 --> 00:50:38,053
+Servilletas.
+
+744
+00:50:38,231 --> 00:50:42,497
+Están aquí. Aléjate del refrigerador,
+si se cae, te aplastará.
+
+745
+00:50:44,203 --> 00:50:45,500
+Está bien.
+
+746
+00:50:46,039 --> 00:50:48,940
+¿Quieren ver algunas fotografías?
+
+747
+00:50:53,492 --> 00:50:55,422
+Con cuidado. No te
+cortes con el papel.
+
+748
+00:50:58,568 --> 00:50:59,730
+¿Este es Ike?
+
+749
+00:51:01,721 --> 00:51:03,018
+¿No era buen mozo?
+
+750
+00:51:07,693 --> 00:51:10,025
+Todas las cosas que
+hiciste, tía Josephine.
+
+751
+00:51:10,696 --> 00:51:12,027
+¿Domaste leones?
+
+752
+00:51:12,765 --> 00:51:17,998
+Era muy aventurera cuando
+Ike estaba vivo.
+
+753
+00:51:32,551 --> 00:51:35,213
+¿Tío Monty? ¿Conociste al tío Monty?
+
+754
+00:51:35,421 --> 00:51:38,083
+No. Esa no es una
+buena foto para mí.
+
+755
+00:51:38,290 --> 00:51:40,850
+¿Espera, son...? ¿Son nuestros padres?
+
+756
+00:51:41,060 --> 00:51:42,857
+¿Era algo así como un Club?
+
+757
+00:51:43,262 --> 00:51:45,526
+¿Por qué todos llevan
+esos catalejos?
+
+758
+00:51:45,731 --> 00:51:50,532
+No me gusta como me
+veo en esa fotografía.
+
+759
+00:51:54,640 --> 00:51:56,767
+¿Ike murió en un incendio?
+
+760
+00:51:57,109 --> 00:52:00,272
+No, no, no. Niño tonto, no.
+
+761
+00:52:01,113 --> 00:52:03,206
+Fue devorado por sanguijuelas.
+
+762
+00:52:06,585 --> 00:52:07,916
+Vengan, les mostraré.
+
+763
+00:52:13,292 --> 00:52:17,786
+Cuidado con el candil, niños.
+Si se cae los empalará.
+
+764
+00:52:38,117 --> 00:52:43,419
+Ike y yo exploramos cada
+rincón del lago Lacrimoso...
+
+765
+00:52:43,622 --> 00:52:46,090
+...desde el puerto de Horrid...
+
+766
+00:52:46,325 --> 00:52:51,160
+...hasta la Cueva Helada, por allí.
+
+767
+00:52:51,664 --> 00:52:54,792
+Y cerca de esa roca es que
+las sanguijuelas lo atacaron.
+
+768
+00:52:58,504 --> 00:53:00,472
+Las sanguijuelas de Lacrimoso
+tienen seis filas...
+
+769
+00:53:00,673 --> 00:53:03,335
+...de afilados dientes,
+y una afilada nariz.
+
+770
+00:53:03,642 --> 00:53:08,478
+Son ciegas, pero pueden oler comida
+en un humano a millas de distancia.
+
+771
+00:53:08,513 --> 00:53:12,276
+Y si huelen comida, se amontonarán.
+
+772
+00:53:15,521 --> 00:53:20,823
+Le dije, "Ike, debes esperar una
+hora antes de entrar al agua. "
+
+773
+00:53:21,360 --> 00:53:22,486
+Pero...
+
+774
+00:53:23,496 --> 00:53:27,796
+...sólo esperó 45 minutos...
+
+775
+00:53:28,000 --> 00:53:29,194
+...y...
+
+776
+00:53:38,010 --> 00:53:40,877
+Lo siento niños.
+
+777
+00:53:41,680 --> 00:53:42,977
+¡Klaus!
+
+778
+00:53:43,516 --> 00:53:46,713
+Ese área es privada.
+Era la habitación de Ike.
+
+779
+00:53:50,689 --> 00:53:53,681
+Dios, odio este lugar.
+
+780
+00:53:55,528 --> 00:53:59,680
+Bueno, tía Josephine,
+¿alguna vez pensaste...
+
+781
+00:53:59,715 --> 00:54:01,158
+...en quizás mudarte a otro lugar?
+
+782
+00:54:01,193 --> 00:54:04,305
+Tal vez si te alejas del lago
+Lacrimoso te sientas mejor.
+
+783
+00:54:05,604 --> 00:54:07,663
+No podría nunca...
+
+784
+00:54:07,940 --> 00:54:12,172
+...nunca, nunca, nunca
+vender esta casa.
+
+785
+00:54:13,546 --> 00:54:15,844
+Tengo terror a los
+agentes inmobiliarios.
+
+786
+00:54:16,215 --> 00:54:18,581
+<i>Hay dos tipos de miedo...</i>
+
+787
+00:54:18,884 --> 00:54:21,751
+<i>...racional e irracional.</i>
+
+788
+00:54:22,388 --> 00:54:25,687
+<i>Temerle a los agentes inmobiliarios
+es un miedo irracional.</i>
+
+789
+00:54:25,891 --> 00:54:27,358
+¿Es un mal momento?
+
+790
+00:54:32,898 --> 00:54:34,729
+Debemos sacarla de la casa.
+
+791
+00:54:42,441 --> 00:54:46,605
+Cuidado con esos aguacates. La semilla
+puede quedarse alojada en la garganta.
+
+792
+00:54:46,912 --> 00:54:51,440
+Y cuidado con ese carro. Pueden
+soltarse los frenos y arrollarnos.
+
+793
+00:54:52,585 --> 00:54:54,883
+Todo está bien, tía Josephine.
+
+794
+00:54:55,354 --> 00:54:58,152
+Señor todopoderoso
+saltó encima de Jehova.
+
+795
+00:54:58,357 --> 00:55:00,018
+¡La plaga negra!
+¿Es la plaga negra?
+
+796
+00:55:00,226 --> 00:55:01,818
+No, eso fue todo mi culpa.
+
+797
+00:55:02,094 --> 00:55:04,289
+Te diré que no puedo explicar
+cuan arrepentido estoy...
+
+798
+00:55:04,496 --> 00:55:07,090
+...por encontrarme a tu
+hermana de esa forma.
+
+799
+00:55:07,299 --> 00:55:08,357
+Tía Josephine, esto...
+
+800
+00:55:08,567 --> 00:55:10,398
+Uds. son un par de bellezas.
+
+801
+00:55:10,669 --> 00:55:11,795
+Especialmente tú.
+
+802
+00:55:12,037 --> 00:55:13,561
+Tía Josephine...
+
+803
+00:55:13,839 --> 00:55:15,329
+Pero déjenme presentarme.
+
+804
+00:55:15,574 --> 00:55:17,474
+No, deja que Klaus y
+yo lo presentemos.
+
+805
+00:55:17,743 --> 00:55:19,711
+- Este...
+- "Klaus y yo. "
+
+806
+00:55:19,912 --> 00:55:21,209
+No importa. Este es...
+
+807
+00:55:21,413 --> 00:55:22,641
+¿No importa?
+
+808
+00:55:24,250 --> 00:55:25,717
+¿Estás tomándome el pelo, niña?
+
+809
+00:55:26,018 --> 00:55:30,478
+Vaya, tal vez son sólo las
+incoherencias de un pescador experto...
+
+810
+00:55:30,689 --> 00:55:32,589
+...pero la gramática es la
+cosa más importante...
+
+811
+00:55:32,791 --> 00:55:34,816
+...para mí en este mundo.
+
+812
+00:55:35,194 --> 00:55:36,218
+¿Lo es?
+
+813
+00:55:36,219 --> 00:55:37,849
+¿Está desesperada?
+
+814
+00:55:37,884 --> 00:55:40,496
+Es toda la bola de cera.
+El kit completo y el rollo.
+
+815
+00:55:40,766 --> 00:55:42,393
+Porque, sin su buena gramática...
+
+816
+00:55:42,601 --> 00:55:46,002
+...todo el maldito torneo de disparos
+puede irse al diablo sobre el caldero.
+
+817
+00:55:46,605 --> 00:55:50,063
+Bueno, ciertamente puedes
+cambiar una frase.
+
+818
+00:55:50,442 --> 00:55:53,172
+Puedo hacerla dar vueltas
+y retorcerla también.
+
+819
+00:55:53,445 --> 00:55:58,246
+Por supuesto, dependería sólo de ti.
+
+820
+00:55:59,451 --> 00:56:01,180
+Capitán Sham...
+
+821
+00:56:01,987 --> 00:56:03,420
+...a su servicio.
+
+822
+00:56:03,722 --> 00:56:06,589
+Está mintiendo. Es el Conde Olaf.
+
+823
+00:56:07,626 --> 00:56:10,959
+¿Ese horrible hombre del que
+me advertiste? ¿Dónde? ¿Quién?
+
+824
+00:56:11,163 --> 00:56:12,790
+- Enfrente tuyo.
+- ¿Dónde está?
+
+825
+00:56:12,998 --> 00:56:14,431
+- ¿Detrás del Capitán Sham?
+- No.
+
+826
+00:56:14,633 --> 00:56:16,480
+Le mostraré algunas cosas.
+
+827
+00:56:16,481 --> 00:56:18,484
+Le daré el viejo
+"encerar, lustrar", hijo mío.
+
+828
+00:56:18,737 --> 00:56:20,432
+El Capitán Sham es el Conde Olaf.
+
+829
+00:56:21,407 --> 00:56:23,602
+No pasaré por esto de nuevo.
+
+830
+00:56:23,809 --> 00:56:25,800
+¡Niños del maíz!
+
+831
+00:56:27,479 --> 00:56:28,776
+¡Klaus!
+
+832
+00:56:28,981 --> 00:56:33,111
+¿Porqué hiciste esto a
+este pobre hombre?
+
+833
+00:56:33,319 --> 00:56:36,152
+Lo siento. Perdón.
+
+834
+00:56:37,089 --> 00:56:39,614
+Eso dolerá en la mañana.
+
+835
+00:56:40,092 --> 00:56:42,720
+Yo no le prestaría
+mucha atención a eso.
+
+836
+00:56:42,995 --> 00:56:46,624
+Es sólo un niño recién salido
+de OshKosh B'Gosh.
+
+837
+00:56:46,832 --> 00:56:48,822
+Debo lidiar con ese
+tipo de cosas...
+
+838
+00:56:48,857 --> 00:56:51,864
+...desde que mi pierna fue devorada
+por las sanguijuelas del Lacrimoso.
+
+839
+00:56:52,104 --> 00:56:54,560
+¿Por qué no esperé una
+hora antes de nadar?
+
+840
+00:56:54,561 --> 00:56:57,077
+¿Por qué? ¿Por qué? ¿Por qué?
+
+841
+00:56:58,544 --> 00:57:00,307
+Las sanguijuelas se llevaron
+a mi marido también.
+
+842
+00:57:00,512 --> 00:57:01,570
+Váyase del pueblo.
+
+843
+00:57:01,780 --> 00:57:03,975
+No, realmente.
+
+844
+00:57:04,183 --> 00:57:06,685
+Por Jesús, esas malditas
+sanguijuelas me condenaron...
+
+845
+00:57:06,686 --> 00:57:08,211
+...a una vida de esperanza,
+eso hicieron.
+
+846
+00:57:09,188 --> 00:57:11,748
+Seguro, tendré buen
+lugar para aparcar, pero...
+
+847
+00:57:12,024 --> 00:57:13,932
+...¿quién puede amar a un
+hombre con una pierna...
+
+848
+00:57:13,933 --> 00:57:15,640
+...y la cara como el trasero
+de una gallina?
+
+849
+00:57:16,228 --> 00:57:19,527
+Estoy solo como una gaviota
+en una roca, niña.
+
+850
+00:57:19,832 --> 00:57:22,426
+Capitán Sham.
+
+851
+00:57:23,168 --> 00:57:26,763
+¿Vendría a mi casa
+a cenar esta noche?
+
+852
+00:57:27,005 --> 00:57:28,029
+- ¡No!
+- ¡No!
+
+853
+00:57:28,307 --> 00:57:29,968
+No, no lo sé.
+
+854
+00:57:30,175 --> 00:57:33,702
+Tengo miedo de rayar los pisos
+con esta vieja pata.
+
+855
+00:57:33,912 --> 00:57:36,380
+Bueno, pondremos periódicos.
+
+856
+00:57:36,382 --> 00:57:40,341
+Por favor, los niños harán una
+adorable cena de puttanesca.
+
+857
+00:57:40,619 --> 00:57:44,578
+¡Es justo lo que comí antes
+de que tomaran mi pierna!
+
+858
+00:57:45,024 --> 00:57:49,085
+Dios mío. Bien, niños, llevaré
+al Capitán Sham a su casa.
+
+859
+00:57:49,395 --> 00:57:54,395
+Y Uds. quédense y compren una cena
+completa que no sea a la puttanesca.
+
+860
+00:57:54,800 --> 00:57:57,769
+- Pero...
+- "Pero" no es una oración, Klaus.
+
+861
+00:57:59,638 --> 00:58:00,832
+Tía Josephine.
+
+862
+00:58:01,040 --> 00:58:03,668
+Oye, no pagaste por eso.
+
+863
+00:58:10,249 --> 00:58:12,410
+Los niños de hoy en día.
+
+864
+00:58:20,080 --> 00:58:23,151
+¿ALGUIEN SABE QUE VAS
+EN ESTA DIRECCIÓN?
+
+865
+00:58:35,808 --> 00:58:37,537
+¿Tía Josephine?
+
+866
+00:58:43,349 --> 00:58:45,044
+¿Tía Josephine?
+
+867
+00:58:47,920 --> 00:58:49,319
+¿Estás aquí?
+
+868
+00:58:49,788 --> 00:58:51,153
+¿Tía Jo?
+
+869
+00:58:52,258 --> 00:58:53,657
+¿Estás aquí?
+
+870
+00:58:54,426 --> 00:58:56,121
+¿Tía Josephine?
+
+871
+00:59:01,967 --> 00:59:03,400
+No.
+
+872
+00:59:03,602 --> 00:59:05,297
+No.
+
+873
+00:59:11,443 --> 00:59:12,842
+Llegamos demasiado tarde.
+
+874
+00:59:15,447 --> 00:59:17,244
+Llegamos demasiado tarde.
+
+875
+00:59:23,455 --> 00:59:24,854
+¿Qué es lo que dice?
+
+876
+00:59:25,224 --> 00:59:26,919
+Es una nota suicida.
+
+877
+00:59:29,061 --> 00:59:33,020
+"Violet, Klaus y Sunny, para cuando lean
+esto mi vida habrá llegado a su fin...
+
+878
+00:59:33,232 --> 00:59:36,690
+Mi corazón está tan frío como el "sielo"
+y encuentro la vida "onsoportable".
+
+879
+00:59:37,002 --> 00:59:38,196
+¿"Onsoportable"?
+
+880
+00:59:38,437 --> 00:59:39,699
+Continúa.
+
+881
+00:59:40,239 --> 00:59:43,572
+"Sé que no deben entender la
+triste vida de una "mmujer"... "
+
+882
+00:59:44,009 --> 00:59:45,831
+"Mujer" se escribe con una M.
+
+883
+00:59:45,866 --> 00:59:47,375
+No importa. Sigue leyendo.
+
+884
+00:59:48,614 --> 00:59:52,226
+"... o lo que habrá llevado a este
+"vrusco" acto desesperado. "
+
+885
+00:59:52,848 --> 00:59:54,261
+"Brusco" se escribe con B.
+
+886
+00:59:54,296 --> 00:59:56,857
+Es una nota suicida.
+¿Por qué te fijas en la ortografía?
+
+887
+00:59:56,892 --> 00:59:58,856
+Ella decía que la gramática era
+la más grande alegría de la vida.
+
+888
+00:59:58,891 --> 01:00:00,506
+¿Por qué comete todos estos errores?
+
+889
+01:00:01,026 --> 01:00:02,957
+Si estuvieras a punto de
+saltar desde una ventana...
+
+890
+01:00:02,992 --> 01:00:04,696
+...puede que también cometas
+algunos errores de ortografía.
+
+891
+01:00:05,064 --> 01:00:07,502
+"Sepan por favor que soy
+mucho más feliz de esta forma.
+
+892
+01:00:07,537 --> 01:00:10,613
+Cómo última voluntad, los dejo a Uds.
+tres al cuidado del Capitán Sham...
+
+893
+01:00:10,648 --> 01:00:12,448
+...un hombre amable y honorable. "
+
+894
+01:00:13,906 --> 01:00:17,415
+Este era su plan. Él hizo
+que escribiera esta nota...
+
+895
+01:00:17,450 --> 01:00:18,801
+...y luego la empujó
+por la ventana.
+
+896
+01:00:20,466 --> 01:00:21,466
+LA CRIPTOGRAFÍA Y USTED.
+
+897
+01:00:21,467 --> 01:00:22,512
+SIGNOS Y CIFRAS.
+
+898
+01:00:22,513 --> 01:00:24,160
+DESCIFRADORES DE CÓDIGOS
+DE LA GRAN GUERRA.
+
+899
+01:00:24,383 --> 01:00:27,784
+No, no es una nota suicida.
+Es un mensaje.
+
+900
+01:00:28,254 --> 01:00:31,189
+No se supone que sea "sielo",
+se supone que es hielo, "S".
+
+901
+01:00:32,891 --> 01:00:34,688
+Y tenemos "onsoportable", con O.
+
+902
+01:00:46,350 --> 01:00:47,979
+SOMBRIA
+
+903
+01:00:50,631 --> 01:00:52,849
+CUEVA
+SOMBRIA
+
+904
+01:00:53,312 --> 01:00:55,872
+Todo el camino hacia la Cueva
+Sombría, por allá.
+
+905
+01:00:56,081 --> 01:00:58,515
+No está muerta.
+Está ocultándose.
+
+906
+01:00:59,051 --> 01:01:00,416
+¿La Cueva Sombría?
+
+907
+01:01:04,390 --> 01:01:05,721
+¡Sunny!
+
+908
+01:01:15,967 --> 01:01:17,869
+¡INCENDIO!
+
+909
+01:01:27,012 --> 01:01:28,809
+Estaba investigando incendios.
+
+910
+01:01:40,359 --> 01:01:42,486
+Klaus, tenemos que irnos.
+
+911
+01:01:57,443 --> 01:01:58,569
+El refrigerador está
+desprendiéndose.
+
+912
+01:01:59,011 --> 01:02:00,137
+¿Qué?
+
+913
+01:02:00,612 --> 01:02:03,137
+Si cae, podría aplastarte.
+
+914
+01:02:44,356 --> 01:02:45,886
+No puede ser.
+
+915
+01:02:56,368 --> 01:02:57,835
+¿Se ha terminado?
+
+916
+01:03:04,610 --> 01:03:07,579
+Violet, será mejor que
+te recojas el cabello.
+
+917
+01:03:28,033 --> 01:03:30,661
+¿Alguna idea, Violet?
+
+918
+01:03:50,422 --> 01:03:51,889
+Tráeme ese extinguidor.
+
+919
+01:03:52,591 --> 01:03:53,591
+¿Por qué?
+
+920
+01:03:53,925 --> 01:03:56,257
+Porque tenemos que mover
+este ancla hacia allá.
+
+921
+01:03:56,528 --> 01:03:59,156
+- ¿Qué?
+- Tan sólo ayúdame.
+
+922
+01:04:14,079 --> 01:04:15,901
+Romperemos la viga a
+la cuenta de tres.
+
+923
+01:04:15,914 --> 01:04:17,211
+- ¿Romperla?
+- Sí.
+
+924
+01:04:17,415 --> 01:04:20,009
+- Es lo único que nos mantiene en pie.
+- Exacto.
+
+925
+01:04:20,252 --> 01:04:21,947
+¿Estás segura de haber recogido
+tu pelo lo suficientemente fuerte?
+
+926
+01:04:22,220 --> 01:04:23,619
+A la cuenta de tres.
+
+927
+01:04:25,123 --> 01:04:26,351
+Uno.
+
+928
+01:04:27,092 --> 01:04:28,354
+Dos.
+
+929
+01:04:29,294 --> 01:04:30,352
+Tres.
+
+930
+01:04:40,438 --> 01:04:41,462
+Espera.
+
+931
+01:04:41,773 --> 01:04:42,967
+Espera.
+
+932
+01:04:43,441 --> 01:04:45,568
+Espera. Sostente, Sunny.
+
+933
+01:04:45,777 --> 01:04:46,937
+¡Ahora
+
+934
+01:05:02,594 --> 01:05:03,959
+¿Y ahora qué hacemos?
+
+935
+01:05:04,162 --> 01:05:06,722
+Ella está viva. Tenemos
+que ir con las autoridades.
+
+936
+01:05:07,098 --> 01:05:08,463
+- No.
+- ¿Qué?
+
+937
+01:05:08,767 --> 01:05:11,065
+- No querrán escuchar, nunca lo hacen.
+- ¡Violet!
+
+938
+01:05:11,269 --> 01:05:14,727
+Es Olaf, nunca se detendrá.
+Debemos encontrarla nosotros.
+
+939
+01:05:16,975 --> 01:05:18,465
+Oigan, niños.
+
+940
+01:05:18,777 --> 01:05:22,144
+<i>Es el Capitán Sham,
+su nuevo tutor.</i>
+
+941
+01:05:22,447 --> 01:05:26,144
+Sólo quédense dónde están,
+e iremos hacia allá.
+
+942
+01:05:26,451 --> 01:05:28,578
+¿Alguna vez leíste algún
+libro sobre navegación?
+
+943
+01:05:31,289 --> 01:05:36,591
+<i>Klaus leyó exactamente 15 libros sobre
+navegación y dos de meteorología.</i>
+
+944
+01:05:37,162 --> 01:05:39,926
+<i>Pero una cosa es hacer
+algo en teoría...</i>
+
+945
+01:05:40,131 --> 01:05:42,361
+<i>...y otra es hacerlo
+en la práctica.</i>
+
+946
+01:05:42,634 --> 01:05:46,161
+<i>Poco podría haberlos preparado
+para cruzar hacia la Cueva Sombría...</i>
+
+947
+01:05:46,371 --> 01:05:50,273
+<i>...en las manos de un lago
+iracundo y con muy mal humor.</i>
+
+948
+01:05:50,475 --> 01:05:53,933
+<i>Pero cuando la tormenta pasó,
+y las aguas se calmaron...</i>
+
+949
+01:05:54,145 --> 01:05:58,138
+<i>...los Baudelaire no pudieron evitar
+tener una pequeña sensación de triunfo.</i>
+
+950
+01:05:58,350 --> 01:06:02,895
+<i>Un extraño momento de alegría en
+sus, otrora, vidas llenas de tristeza.</i>
+
+951
+01:06:03,421 --> 01:06:04,888
+<i>Lo han conseguido.</i>
+
+952
+01:06:05,090 --> 01:06:07,524
+<i>Y si su tutor no
+pudiera rescatarlos...</i>
+
+953
+01:06:07,726 --> 01:06:11,287
+<i>...entonces ellos
+rescatarían a su tutor.</i>
+
+954
+01:06:21,940 --> 01:06:23,532
+¿Tía Josephine?
+
+955
+01:06:39,024 --> 01:06:40,491
+¿Tía Josephine?
+
+956
+01:06:56,875 --> 01:06:58,502
+¿Tía Josephine?
+
+957
+01:07:01,613 --> 01:07:03,171
+¿Estás aquí?
+
+958
+01:07:14,893 --> 01:07:16,360
+¡Tía Josephine!
+
+959
+01:07:19,264 --> 01:07:20,697
+Niños.
+
+960
+01:07:20,899 --> 01:07:25,802
+¡Lo lograron! Descifraron
+las pistas en mi nota.
+
+961
+01:07:26,004 --> 01:07:27,403
+Nos alegra mucho que estés bien.
+
+962
+01:07:27,605 --> 01:07:28,731
+Fue tan horrible.
+
+963
+01:07:28,940 --> 01:07:31,374
+El Conde Olaf me forzó
+a escribir aquel testamento...
+
+964
+01:07:31,576 --> 01:07:34,807
+...y luego, casi me produjo la
+muerte el agregar todos esos errores.
+
+965
+01:07:36,781 --> 01:07:38,476
+¿Trajeron comestibles?
+
+966
+01:07:38,683 --> 01:07:41,550
+¿Comestibles? Acabamos
+de cruzar una tormenta.
+
+967
+01:07:41,753 --> 01:07:44,654
+¿Y bien? ¿Cómo esperan que
+vivamos en esta cueva...
+
+968
+01:07:44,856 --> 01:07:46,721
+...si no trajeron nada de comida?
+
+969
+01:07:46,925 --> 01:07:48,119
+¿Vivir en la cueva?
+
+970
+01:07:48,326 --> 01:07:50,453
+No, no, no, Tía Josephine,
+debes regresar con nosotros.
+
+971
+01:07:50,662 --> 01:07:53,597
+Nos dejaste al cuidado del Capitán Sham.
+Eres la única prueba de que es mentira.
+
+972
+01:07:53,798 --> 01:07:56,562
+No, no, no, no. No, no, es muy
+peligroso, niños. Lo siento mucho.
+
+973
+01:07:56,768 --> 01:08:00,067
+¿Muy peligroso? Eres nuestra tutora.
+Se supone que nos cuides.
+
+974
+01:08:00,271 --> 01:08:02,068
+No hablaré más sobre ello.
+
+975
+01:08:03,875 --> 01:08:07,402
+¿Sabes, tía Josephine? La
+Cueva Sombría está a la venta.
+
+976
+01:08:07,612 --> 01:08:08,738
+¿Y?
+
+977
+01:08:09,214 --> 01:08:14,117
+Y que dentro de poco vendrán
+personas a echarle un vistazo.
+
+978
+01:08:14,486 --> 01:08:18,149
+Y algunos de ellos serán
+agentes inmobiliarios.
+
+979
+01:08:43,314 --> 01:08:44,872
+Tía Josephine.
+
+980
+01:08:45,917 --> 01:08:47,509
+¿Qué significa esto?
+
+981
+01:08:48,520 --> 01:08:49,885
+¿Dónde encontraste eso?
+
+982
+01:08:50,088 --> 01:08:51,612
+En el cuarto de Ike.
+
+983
+01:08:52,057 --> 01:08:53,615
+Los incendios.
+
+984
+01:08:53,992 --> 01:08:55,983
+¿Por qué estaba
+investigando incendios?
+
+985
+01:08:56,194 --> 01:09:01,154
+Todos lo hacíamos.
+El tío Monty, Ike y...
+
+986
+01:09:02,667 --> 01:09:04,032
+Nuestros padres.
+
+987
+01:09:05,103 --> 01:09:07,401
+Ellos eran nuestros líderes.
+
+988
+01:09:08,606 --> 01:09:09,800
+Niños...
+
+989
+01:09:10,508 --> 01:09:15,070
+...en el mundo hay gente
+buena y gente mala.
+
+990
+01:09:15,280 --> 01:09:18,977
+Aquellos que inician incendios
+y aquellos que los apagan.
+
+991
+01:09:19,184 --> 01:09:20,378
+¿Quién está haciendo esto?
+
+992
+01:09:20,585 --> 01:09:21,643
+¿Es Olaf?
+
+993
+01:09:22,520 --> 01:09:25,216
+Ya dije demasiado. Sus padres
+conocían esas respuestas...
+
+994
+01:09:25,423 --> 01:09:26,651
+...y ya ven lo que les ocurrió.
+
+995
+01:09:27,358 --> 01:09:30,816
+¿Nuestros padres?
+¿Qué dijeron?
+
+996
+01:09:32,363 --> 01:09:34,354
+Nunca deberíamos haber
+dejado la cueva.
+
+997
+01:09:34,566 --> 01:09:36,158
+No es demasiado tarde para
+que demos la vuelta...
+
+998
+01:09:36,367 --> 01:09:38,164
+...y me arriesgaré con
+los agentes inmobiliarios.
+
+999
+01:09:38,369 --> 01:09:39,770
+Tía Josephine...
+
+1000
+01:09:39,805 --> 01:09:42,264
+...¿qué dijeron nuestros padres?
+
+1001
+01:09:43,541 --> 01:09:45,168
+Vamos a morir.
+
+1002
+01:09:46,744 --> 01:09:50,180
+- ¿Qué?
+- ¿Son las sanguijuelas!
+
+1003
+01:09:56,821 --> 01:10:00,120
+Entonces supongo que es bueno que
+no hayamos comido durante un tiempo.
+
+1004
+01:10:01,696 --> 01:10:03,457
+<i>Supongan otra vez</i>
+
+1005
+01:10:09,734 --> 01:10:11,099
+¡Tía Josephine!
+
+1006
+01:10:28,920 --> 01:10:31,218
+¡Hay un agujero en el bote!
+
+1007
+01:10:33,358 --> 01:10:37,124
+¿Qué hacemos, Klaus?
+¡Están comiéndose el bote!
+
+1008
+01:10:37,762 --> 01:10:39,889
+Nos hundimos, hundimos, hundimos.
+
+1009
+01:10:40,098 --> 01:10:43,226
+- Klaus, rema, por favor.
+- Condenados, condenados.
+
+1010
+01:10:43,434 --> 01:10:46,062
+Tía Josephine, eso no ayuda.
+
+1011
+01:10:51,943 --> 01:10:55,401
+Allí hay un bote.
+¡Por aquí! ¡Por aquí!
+
+1012
+01:10:55,613 --> 01:10:58,844
+<i>Pero aunque las sanguijuelas
+sean muy desagradables...</i>
+
+1013
+01:10:59,050 --> 01:11:03,248
+<i>...algo aún más desagradable
+surgía de entre la niebla.</i>
+
+1014
+01:11:03,454 --> 01:11:07,356
+Hola, hola, hola.
+
+1015
+01:11:08,493 --> 01:11:11,758
+Los extrañé, muchachos.
+
+1016
+01:11:11,963 --> 01:11:15,797
+Parece que necesitan
+un poco de ayuda.
+
+1017
+01:11:16,000 --> 01:11:18,298
+Tú vas a necesitar ayuda
+cuando regresemos al pueblo.
+
+1018
+01:11:18,503 --> 01:11:20,698
+La tía Josephine les dirá a
+todos lo que ha ocurrido.
+
+1019
+01:11:20,905 --> 01:11:22,975
+Luego me arrestarán y me
+enviarán a la cárcel...
+
+1020
+01:11:23,010 --> 01:11:25,379
+...y Uds. vivirán por siempre
+felices con un tutor amigable...
+
+1021
+01:11:25,414 --> 01:11:27,436
+...ocupando su tiempo para leer
+libros y para inventar cosas,...
+
+1022
+01:11:27,471 --> 01:11:28,779
+...y afilando los dientes
+de su pequeño mono.
+
+1023
+01:11:28,980 --> 01:11:31,005
+Y al final prevalecerán
+la valentía y la nobleza.
+
+1024
+01:11:31,216 --> 01:11:33,683
+Y este perverso mundo se convertirá
+de un modo lento pero seguro...
+
+1025
+01:11:33,718 --> 01:11:35,146
+...en un lugar de armoniosa alegría.
+
+1026
+01:11:35,181 --> 01:11:36,844
+Y todos estarán cantando,
+bailando y riéndose...
+
+1027
+01:11:37,055 --> 01:11:38,352
+...como los pequeños duendes.
+
+1028
+01:11:38,556 --> 01:11:42,048
+Un final feliz. ¿Es eso
+lo que tenían en mente?
+
+1029
+01:11:42,094 --> 01:11:46,140
+Porque dudo mucho que alguien
+le vaya a creer a una mujer muerta.
+
+1030
+01:11:46,515 --> 01:11:47,850
+No vas a tocar a
+Tía Josefina.
+
+1031
+01:11:48,058 --> 01:11:49,351
+Ella le contará a todos lo que paso.
+
+1032
+01:11:49,560 --> 01:11:52,020
+No, no, no, no, no le diré a nadie
+nada. Lo prometo.
+
+1033
+01:11:52,229 --> 01:11:53,897
+Por favor no me lances
+a las sanguijuelas.
+
+1034
+01:11:54,148 --> 01:11:56,525
+Puedes quedarte con la fortuna.
+Puedes quedarte con los niños.
+
+1035
+01:11:56,733 --> 01:11:58,235
+¡Tía Josefina!
+
+1036
+01:11:58,443 --> 01:11:59,570
+Por favor.
+
+1037
+01:11:59,778 --> 01:12:02,573
+Bienvenida a bordo. Papa caliente.
+
+1038
+01:12:04,491 --> 01:12:08,153
+Me iré. Me teñiré el pelo.
+Me cambiaré el nombre.
+
+1039
+01:12:08,188 --> 01:12:09,344
+¿Pero y qué hay de nosotros?
+
+1040
+01:12:09,345 --> 01:12:11,512
+Tranquilo, niño.
+Los adultos están hablando.
+
+1041
+01:12:13,584 --> 01:12:16,545
+- Supongo que no tengo que matarte.
+- No.
+
+1042
+01:12:17,553 --> 01:12:19,923
+Por otro lado, después de ese truco
+tuyo en la ventana...
+
+1043
+01:12:19,958 --> 01:12:22,884
+...no hayas sido
+una persona muy confiable.
+
+1044
+01:12:23,468 --> 01:12:24,761
+Pero...
+
+1045
+01:12:26,555 --> 01:12:28,640
+...podría mostrar
+un poco de misericordia.
+
+1046
+01:12:30,976 --> 01:12:32,895
+"Has sido. "
+
+1047
+01:12:36,940 --> 01:12:38,066
+¿Que?
+
+1048
+01:12:38,901 --> 01:12:42,529
+Dijiste "hayas sido. " Es una mala
+pronunciación. Debiste haber dicho...
+
+1049
+01:12:42,738 --> 01:12:45,532
+"No has sido
+una persona muy confiable. "
+
+1050
+01:12:49,244 --> 01:12:52,706
+Gracias por corregirme.
+
+1051
+01:12:53,290 --> 01:12:54,541
+De nada.
+
+1052
+01:12:55,792 --> 01:12:58,545
+No. No, no, no, no, no.
+Tía Josefina. ¡Tía Josefina!
+
+1053
+01:12:58,754 --> 01:12:59,963
+- Tía Josefina.
+- No puedes...
+
+1054
+01:13:00,172 --> 01:13:02,341
+- Tía Josefina. Tía...
+- Tía Josefina. ¡Salta!
+
+1055
+01:13:03,467 --> 01:13:05,594
+<i>Bueno, creo que me entienden.</i>
+
+1056
+01:13:09,973 --> 01:13:11,558
+Tía Josefina.
+
+1057
+01:13:12,267 --> 01:13:16,522
+Bueno, hicimos todo lo que pudimos.
+
+1058
+01:13:18,941 --> 01:13:20,275
+Todo el mundo tranquilo.
+
+1059
+01:13:20,734 --> 01:13:23,111
+¿Niños? ¿Son ustedes?
+
+1060
+01:13:23,320 --> 01:13:25,234
+¡Sr. Poe! Estamos...
+
+1061
+01:13:25,269 --> 01:13:26,735
+Ahogándonos.
+
+1062
+01:13:28,951 --> 01:13:32,371
+¡Lo salvé! Salvé al chico
+de las sanguijuelas!
+
+1063
+01:13:32,579 --> 01:13:35,082
+Regresen a las profundidades,
+dedillos diabólicos.
+
+1064
+01:13:35,290 --> 01:13:38,377
+Hoy no devorarán
+la cabeza de este chico.
+
+1065
+01:13:43,181 --> 01:13:45,851
+¿Conde Olaf?
+¿Que está haciendo aquí?
+
+1066
+01:13:46,059 --> 01:13:50,564
+Sr. Poe, por favor. Conde Olaf,
+¿qué está usted haciendo aquí, hombre?
+
+1067
+01:13:50,897 --> 01:13:53,442
+Lo sé, lo sé. No debí haber venido.
+
+1068
+01:13:53,650 --> 01:13:57,112
+Pero cuando escuche que los niños
+estaban en peligro, tuve que hacerlo.
+
+1069
+01:13:57,487 --> 01:13:59,573
+Aun cuando yo no soy...
+
+1070
+01:13:59,948 --> 01:14:01,950
+...adecuado para ser su tutor.
+
+1071
+01:14:03,910 --> 01:14:06,079
+Parece que estaba equivocado
+en cuanto a usted, Conde Olaf.
+
+1072
+01:14:06,288 --> 01:14:08,373
+- ¡No!
+- No.
+
+1073
+01:14:08,582 --> 01:14:12,127
+Ha probado ser un tutor
+excepcionalmente capaz.
+
+1074
+01:14:12,544 --> 01:14:14,129
+Y sería negligente
+en mi responsabilidad...
+
+1075
+01:14:14,337 --> 01:14:17,048
+...si no pongo a los niños
+con usted inmediatamente.
+
+1076
+01:14:17,716 --> 01:14:19,926
+- Porque, si no fuera por usted, las...
+- ¡No lo diga!
+
+1077
+01:14:20,135 --> 01:14:23,305
+No puedo soportar la idea
+de perder a mis pequeños tesoros.
+
+1078
+01:14:23,513 --> 01:14:25,724
+Aún el pensar
+en la abultada herencia...
+
+1079
+01:14:25,932 --> 01:14:28,810
+...sería un recuerdo constante
+de mi angustia.
+
+1080
+01:14:28,977 --> 01:14:31,021
+Bueno, bueno, no hay necesidad
+de agobiarnos por eso.
+
+1081
+01:14:31,229 --> 01:14:33,026
+La ley claramente establece...
+
+1082
+01:14:33,027 --> 01:14:35,268
+...que usted no heredaría
+la fortuna de los Baudelaire...
+
+1083
+01:14:35,303 --> 01:14:36,630
+...si algo le pasara a los niños.
+
+1084
+01:14:36,651 --> 01:14:37,652
+¿Cómo dijo?
+
+1085
+01:14:37,819 --> 01:14:42,407
+No, no. Con la excepción, por supuesto,
+de parientes cercanos y parejas casadas.
+
+1086
+01:14:43,116 --> 01:14:44,242
+¿En serio?
+
+1087
+01:14:53,543 --> 01:14:55,003
+Sr. Poe...
+
+1088
+01:14:55,629 --> 01:14:59,257
+...¿le he contado acerca de
+nuestra obra de teatro?
+
+1089
+01:15:01,129 --> 01:15:03,340
+"CONDE OLAF.
+EL MARAVILLOSO MATRIMONIO"
+
+1090
+01:15:10,018 --> 01:15:11,520
+Crítico.
+
+1091
+01:15:12,187 --> 01:15:13,688
+¡Crítico!
+
+1092
+01:15:15,315 --> 01:15:16,316
+Capa, señor.
+
+1093
+01:15:16,525 --> 01:15:18,318
+No trates de ponerte en mi lado bueno.
+
+1094
+01:15:21,780 --> 01:15:24,199
+¿Qué está el tramando?
+¿Por qué estamos en la obra?
+
+1095
+01:15:24,366 --> 01:15:28,245
+Esta usando esto como apoyo. Dice
+que si dos personas están casadas...
+
+1096
+01:15:28,453 --> 01:15:31,498
+...tienen derecho a cualquier
+riqueza que el otro posea.
+
+1097
+01:15:31,706 --> 01:15:33,155
+No, esto es sólo una obra teatral.
+
+1098
+01:15:33,156 --> 01:15:35,141
+No puede obtener la fortuna
+casándose conmigo en la obra.
+
+1099
+01:15:36,545 --> 01:15:37,921
+¿No puedo?
+
+1100
+01:15:38,130 --> 01:15:42,217
+Conspiradores. "Muerte al César.
+Muerte al César. Muerte al César. "
+
+1101
+01:15:42,425 --> 01:15:44,127
+Para que el matrimonio sea valido...
+
+1102
+01:15:44,162 --> 01:15:46,639
+...debe ser impartido
+por un juez de paz real.
+
+1103
+01:15:46,805 --> 01:15:47,973
+Lo dice aquí.
+
+1104
+01:15:48,181 --> 01:15:52,394
+¿Juez Strauss, esta listo para su debut?
+
+1105
+01:15:54,229 --> 01:15:58,984
+Mírate.
+Violet, te ves tan bella.
+
+1106
+01:15:59,359 --> 01:16:02,571
+Tú eres la novia, yo soy el juez.
+¿Quién es el novio?
+
+1107
+01:16:02,779 --> 01:16:05,407
+No, Juez Strauss, usted no
+entiende. La obra es real.
+
+1108
+01:16:05,615 --> 01:16:07,576
+¡Sí! Sí.
+
+1109
+01:16:07,742 --> 01:16:11,329
+Debe ser real. Por eso
+es que la he escogido.
+
+1110
+01:16:11,538 --> 01:16:14,416
+Todos los otros actores que vi.
+no tenían el adecuado...
+
+1111
+01:16:14,583 --> 01:16:16,042
+...¿cuál es la palabra que busco?
+
+1112
+01:16:16,251 --> 01:16:18,003
+- ¿Pelo?
+- ¿Manos?
+
+1113
+01:16:18,253 --> 01:16:20,172
+Verosimilitud.
+
+1114
+01:16:20,881 --> 01:16:22,572
+Ahora, recuerde, Juez Strauss...
+
+1115
+01:16:22,607 --> 01:16:25,135
+...debe decir las exactas palabras
+que diría en una boda real.
+
+1116
+01:16:25,343 --> 01:16:28,138
+Hágalo absolutamente bien. Hay
+buscadores de talento en el publico...
+
+1117
+01:16:28,346 --> 01:16:31,683
+...buscando a alguien de su edad.
+Todo depende de esta.
+
+1118
+01:16:32,434 --> 01:16:35,520
+¿Por qué me tuvo que decir eso?
+Dios mío.
+
+1119
+01:16:35,729 --> 01:16:36,938
+Llévenla a maquillar.
+
+1120
+01:16:37,147 --> 01:16:40,358
+¡Disfruten! Abracen las mariposas.
+
+1121
+01:16:40,567 --> 01:16:42,082
+¡Esto es ridículo!
+
+1122
+01:16:42,083 --> 01:16:44,896
+Violet sólo tiene 14 años.
+No puede estar legalmente casada.
+
+1123
+01:16:44,931 --> 01:16:46,656
+Sí puede si tiene el permiso
+de su tutor.
+
+1124
+01:16:46,865 --> 01:16:49,701
+¿Y quién es ese?
+Sí. ¡Yo!
+
+1125
+01:16:52,412 --> 01:16:53,955
+Búscalo, gusano de biblioteca.
+
+1126
+01:16:54,164 --> 01:16:56,917
+Sí. Una vez digas "acepto"
+y firmes el certificado de matrimonio...
+
+1127
+01:16:57,125 --> 01:16:59,628
+...realmente serás mi amada esposa.
+
+1128
+01:16:59,836 --> 01:17:03,006
+Limpiarás, cocinarás
+y masajearás mis juanetes.
+
+1129
+01:17:03,215 --> 01:17:05,717
+Y cortaras mis gruesas
+y amarillas uñas de los pies.
+
+1130
+01:17:05,926 --> 01:17:10,347
+El matrimonio no es un día de campo.
+Debes trabajarlo.
+
+1131
+01:17:10,597 --> 01:17:12,974
+Nunca diré "acepto". Nunca.
+
+1132
+01:17:14,434 --> 01:17:16,103
+Creo que si...
+
+1133
+01:17:17,062 --> 01:17:19,356
+...cuando mires allá arriba.
+
+1134
+01:17:27,864 --> 01:17:28,949
+¡Déjala ir!
+
+1135
+01:17:29,491 --> 01:17:31,118
+Con gusto. Déjenla ir.
+
+1136
+01:17:32,035 --> 01:17:33,787
+- ¡No!
+- Esperen un minuto.
+
+1137
+01:17:35,288 --> 01:17:37,249
+Si no dices "acepto"...
+
+1138
+01:17:37,457 --> 01:17:40,460
+...o sucede cualquier cosa
+que interrumpa esta actuación...
+
+1139
+01:17:41,294 --> 01:17:42,838
+Digo una palabra por aquí...
+
+1140
+01:17:43,046 --> 01:17:47,425
+...y abajo vendrán la bebé,
+la cuna y todo.
+
+1141
+01:17:50,303 --> 01:17:52,472
+¿Como podrías? Es una bebé.
+
+1142
+01:17:52,681 --> 01:17:55,976
+Violet. Violet, Violet, Violet.
+
+1143
+01:17:56,852 --> 01:17:59,354
+Violet.
+
+1144
+01:17:59,521 --> 01:18:01,231
+Tienes 14 años.
+
+1145
+01:18:01,440 --> 01:18:05,152
+Ya deberías saber que no puedes
+obtener todo lo que deseas.
+
+1146
+01:18:05,485 --> 01:18:08,989
+¿Quieres una vida de felicidad?
+¿Un techo sobre tu cabeza?
+
+1147
+01:18:09,197 --> 01:18:12,200
+¿Un lugar que llamar tuyo
+y todo lo demás?
+
+1148
+01:18:15,078 --> 01:18:17,205
+¿Y qué de lo que yo quiero?
+
+1149
+01:18:17,956 --> 01:18:21,001
+Yo quiero una enorme fortuna...
+
+1150
+01:18:21,209 --> 01:18:25,172
+...y que todas las investigaciones
+en mi contra cesen.
+
+1151
+01:18:26,047 --> 01:18:30,343
+Vas a ayudarme a obtener
+lo que deseo...
+
+1152
+01:18:31,261 --> 01:18:32,762
+...esta noche.
+
+1153
+01:18:41,897 --> 01:18:43,774
+Mi público espera.
+
+1154
+01:18:51,782 --> 01:18:54,785
+<i>Damas y caballeros, podrían
+poner sus apéndices juntas...</i>
+
+1155
+01:18:54,993 --> 01:18:57,579
+<i>...por el Maravilloso Matrimonio.</i>
+
+1156
+01:18:57,788 --> 01:19:00,248
+No. No vas a continuar con esto.
+
+1157
+01:19:03,585 --> 01:19:05,086
+Debo hacerlo.
+
+1158
+01:19:05,462 --> 01:19:08,590
+No, vamos.
+Siempre hay algo.
+
+1159
+01:19:08,799 --> 01:19:10,550
+Siempre hay algo.
+
+1160
+01:19:12,135 --> 01:19:13,845
+No, no esta vez.
+
+1161
+01:19:15,347 --> 01:19:16,671
+Pero...
+
+1162
+01:19:16,706 --> 01:19:18,183
+Es tu turno camello.
+
+1163
+01:19:20,602 --> 01:19:22,604
+- Ve, Klaus.
+- Violet.
+
+1164
+01:19:22,813 --> 01:19:23,855
+¡Ve!
+
+1165
+01:19:24,981 --> 01:19:27,150
+Mueve tu joroba, camello. Es tu turno.
+
+1166
+01:19:35,784 --> 01:19:38,286
+<i>Nada en el mundo alejará
+al Conde de su amada novia.</i>
+
+1167
+01:19:38,495 --> 01:19:41,081
+<i>Nada en el mundo alejará
+al Conde de su amada novia.</i>
+
+1168
+01:19:41,289 --> 01:19:43,375
+<i>Nada en el mundo,
+nada en el mundo.</i>
+
+1169
+01:19:43,583 --> 01:19:45,836
+<i>Nada.
+Nada.</i>
+
+1170
+01:19:50,549 --> 01:19:54,469
+<i>Que maravilloso día
+para un matrimonio.</i>
+
+1171
+01:19:54,636 --> 01:19:59,975
+<i>Si tan sólo el buen mozo Conde
+estuviera aquí para reclamar a su novia.</i>
+
+1172
+01:20:00,142 --> 01:20:04,104
+<i>Con su cabeza llena de cabello
+y su gran valentía...</i>
+
+1173
+01:20:04,312 --> 01:20:07,315
+<i>...el Conde no tiene igual.</i>
+
+1174
+01:20:09,401 --> 01:20:10,819
+¿Que haría Violet?
+
+1175
+01:20:10,986 --> 01:20:14,739
+<i>La audaz batalla
+lo ha emboscado.</i>
+
+1176
+01:20:14,948 --> 01:20:18,660
+Siempre hay algo.
+Siempre hay algo.
+
+1177
+01:20:18,869 --> 01:20:21,621
+<i>Y un tranquilo y calvo pretendiente...</i>
+
+1178
+01:20:21,830 --> 01:20:24,458
+<i>...ha robado los afectos de la novia.</i>
+
+1179
+01:20:25,459 --> 01:20:28,545
+<i>No obstante.
+El novio es un sinvergüenza.</i>
+
+1180
+01:20:28,753 --> 01:20:32,174
+<i>Y ni remotamente tan buen mozo
+como el conde.</i>
+
+1181
+01:20:32,466 --> 01:20:35,343
+<i>Si tan solo un milagro.</i>
+
+1182
+01:20:35,552 --> 01:20:39,848
+<i>De alguna manera que el buen mozo
+Conde viniera y salvara...</i>
+
+1183
+01:20:44,144 --> 01:20:47,522
+<i>Que matrimonio tan poco
+maravilloso, será este.</i>
+
+1184
+01:20:47,689 --> 01:20:49,232
+<i>Pero esperen.</i>
+
+1185
+01:20:49,858 --> 01:20:52,527
+<i>¿Que es eso?</i>
+
+1186
+01:20:57,324 --> 01:21:01,703
+<i>Es el conde, en su helicóptero.</i>
+
+1187
+01:21:01,912 --> 01:21:03,997
+Nunca pensé que tenía
+esa clase de presupuesto.
+
+1188
+01:21:14,800 --> 01:21:19,971
+Sí, soy yo, viene a
+casarme con mi novia.
+
+1189
+01:21:20,472 --> 01:21:25,185
+Y usted, señor, ha sido
+tomado por sorpresa.
+
+1190
+01:21:25,727 --> 01:21:29,022
+Cuidado. Esta próxima escena
+podría ponerse muy grafica.
+
+1191
+01:21:29,231 --> 01:21:30,607
+¡Huye, bribón!
+
+1192
+01:21:34,569 --> 01:21:35,862
+¡Calvo, libertino!
+
+1193
+01:21:36,404 --> 01:21:38,698
+Toma eso. Y esto.
+
+1194
+01:21:40,408 --> 01:21:42,077
+¿Pueden aflojarme un poco?
+
+1195
+01:21:44,412 --> 01:21:46,540
+Que comience la boda.
+
+1196
+01:22:14,109 --> 01:22:15,402
+No mires hacia abajo.
+
+1197
+01:22:16,327 --> 01:22:17,726
+No mires hacia abajo.
+
+1198
+01:22:30,775 --> 01:22:33,573
+¿Conde Olaf...
+
+1199
+01:22:33,778 --> 01:22:37,976
+...toma la toma para que sea
+su legítima esposa...
+
+1200
+01:22:38,182 --> 01:22:42,346
+...en la salud como en la enfermedad,
+hasta que la muerte los separe?
+
+1201
+01:22:42,954 --> 01:22:44,319
+Hasta que la muerte...
+
+1202
+01:22:45,456 --> 01:22:47,583
+Sin ninguna duda, que sí.
+
+1203
+01:22:51,028 --> 01:22:53,155
+¿Violet Baudelaire...
+
+1204
+01:22:53,364 --> 01:22:57,061
+...toma al Conde Olaf...
+
+1205
+01:22:57,268 --> 01:23:00,396
+...para que sea su legítimo esposo...
+
+1206
+01:23:00,605 --> 01:23:04,666
+...en la salud como en la enfermedad,
+hasta que la muerte los separe?
+
+1207
+01:23:04,875 --> 01:23:06,502
+Jueza Strauss, yo...
+
+1208
+01:23:12,883 --> 01:23:14,077
+Sí.
+
+1209
+01:23:14,719 --> 01:23:16,619
+- Ella no lo merece.
+- No.
+
+1210
+01:23:16,821 --> 01:23:19,517
+- ¿Piensas eso?
+- No, no lo merece.
+
+1211
+01:23:19,957 --> 01:23:21,857
+- Ahora, todo lo que resta...
+- ¿Sunny?
+
+1212
+01:23:22,059 --> 01:23:25,290
+...a esta feliz pareja es firmar
+la partida de casamiento...
+
+1213
+01:23:25,496 --> 01:23:27,225
+...y esta unión será...
+
+1214
+01:23:27,431 --> 01:23:28,864
+...oficial...
+
+1215
+01:23:29,567 --> 01:23:30,693
+...y legal.
+
+1216
+01:23:54,825 --> 01:23:58,056
+¿Sunny, dónde está la llave?
+La llave del candado.
+
+1217
+01:23:58,753 --> 01:23:59,753
+¡El ojo!
+
+1218
+01:24:23,454 --> 01:24:25,752
+Mano derecha, por favor.
+
+1219
+01:25:30,054 --> 01:25:32,488
+<i>Niños, me temo que debo informarles...</i>
+
+1220
+01:25:32,690 --> 01:25:36,353
+<i>...de un acontecimiento
+extremadamente desafortunado.</i>
+
+1221
+01:25:37,595 --> 01:25:40,587
+<i>Me apena mucho decirles esto, pero
+sus padres han muerto en un incendio...</i>
+
+1222
+01:25:40,798 --> 01:25:42,663
+<i>...que destruyó completamente su casa.</i>
+
+1223
+01:25:43,601 --> 01:25:45,694
+Esas cosas no pasan así por que sí.
+
+1224
+01:25:49,473 --> 01:25:51,065
+¡Vamos, vamos,
+vamos, vamos!
+
+1225
+01:25:51,845 --> 01:25:52,845
+¡Detrás tuyo!
+
+1226
+01:25:55,446 --> 01:25:57,937
+Mira lo que le hice
+a tu linda casita.
+
+1227
+01:25:59,617 --> 01:26:00,777
+Terminemos aquí.
+
+1228
+01:26:09,693 --> 01:26:10,751
+Jefe.
+
+1229
+01:26:11,061 --> 01:26:13,154
+¿Qué es esto? Estoy un poco
+ocupado en este momento.
+
+1230
+01:26:13,364 --> 01:26:14,490
+Tenemos un problema.
+
+1231
+01:26:14,698 --> 01:26:15,858
+¿Dónde estás?
+
+1232
+01:26:16,066 --> 01:26:17,863
+Mire hacia arriba.
+
+1233
+01:26:22,173 --> 01:26:23,577
+¡Hola!
+
+1234
+01:26:27,311 --> 01:26:28,972
+¡Y así concluye nuestra obra!
+
+1235
+01:26:29,179 --> 01:26:30,806
+¡No, esperen, esto no era una obra!
+
+1236
+01:26:31,014 --> 01:26:33,778
+¡El Conde Olaf iba a matar a Sunny
+si yo no cumplía con la boda!
+
+1237
+01:26:33,984 --> 01:26:35,334
+¡Ridículo!
+
+1238
+01:26:35,886 --> 01:26:37,319
+¡No, tienen que escucharme!
+
+1239
+01:26:37,521 --> 01:26:40,490
+¡Él sólo se casó conmigo
+para acceder a la fortuna Baudelaire!
+
+1240
+01:26:40,691 --> 01:26:42,318
+¡No, de hecho, esa parte es verdad!
+
+1241
+01:26:42,526 --> 01:26:43,897
+¿Qué?
+
+1242
+01:26:43,940 --> 01:26:47,095
+Violet y yo somos en verdad,
+una pareja felizmente casada...
+
+1243
+01:26:47,331 --> 01:26:48,491
+...por que, verás...
+
+1244
+01:26:49,633 --> 01:26:52,101
+...nos casamos en una
+ceremonia oficial...
+
+1245
+01:26:52,302 --> 01:26:54,270
+...con votos legales y oficiales...
+
+1246
+01:26:54,471 --> 01:26:58,669
+...frente a un verdadero
+Juez de Paz.
+
+1247
+01:26:59,042 --> 01:27:00,839
+¡Dios mío, que he hecho!
+
+1248
+01:27:01,211 --> 01:27:03,145
+¡Lo siento!
+¡No lo sabía!
+
+1249
+01:27:03,347 --> 01:27:05,042
+Primera orden del día...
+
+1250
+01:27:05,249 --> 01:27:08,616
+...ofrecer en adopción a los otros
+dos mocosos, en forma separada...
+
+1251
+01:27:08,819 --> 01:27:10,980
+...uno en cada extremo de la tierra.
+
+1252
+01:27:11,188 --> 01:27:14,487
+Esos niños son muy entrometidos
+cuando están juntos.
+
+1253
+01:27:14,691 --> 01:27:20,493
+- ¡Señor Poe!
+- ¡Sinvergüenza! ¡Arréstenlo!
+
+1254
+01:27:21,532 --> 01:27:22,624
+¿Por qué motivo?
+
+1255
+01:27:22,900 --> 01:27:24,299
+¡Por ser un monstruo ambicioso!
+
+1256
+01:27:24,501 --> 01:27:25,525
+Vamos.
+
+1257
+01:27:26,837 --> 01:27:30,637
+¿Yo soy el monstruo?
+¿Yo soy el monstruo?
+
+1258
+01:27:31,675 --> 01:27:34,041
+Usted es el monstruo.
+
+1259
+01:27:34,444 --> 01:27:36,742
+Vamos. Vamos.
+
+1260
+01:27:36,947 --> 01:27:40,576
+Esos niños intentaron decírselo,
+pero usted no quiso escucharlos.
+
+1261
+01:27:40,784 --> 01:27:43,514
+Nadie nunca escucha a los niños.
+
+1262
+01:27:44,188 --> 01:27:46,554
+- Vamos.
+- ¿Crees que eres inocente?
+
+1263
+01:27:46,757 --> 01:27:48,315
+Ustedes son cómplices.
+
+1264
+01:27:48,859 --> 01:27:52,659
+Este certificado dice que
+ahora la fortuna me pertenece.
+
+1265
+01:27:53,063 --> 01:27:54,155
+¡Vamos!
+
+1266
+01:27:54,364 --> 01:27:56,924
+¡Y no hay nada que puedan
+hacer acerca de ello!
+
+1267
+01:28:02,739 --> 01:28:06,072
+¿Qué piensas? ¿Muy diabólico?
+Dame un poco de apoyo.
+
+1268
+01:28:21,491 --> 01:28:24,358
+Oye, el matrimonio no es un picnic.
+
+1269
+01:28:24,561 --> 01:28:27,792
+Y por cierto,
+eres un pésimo actor.
+
+1270
+01:28:28,332 --> 01:28:29,458
+Ahora, ahora...
+
+1271
+01:28:30,500 --> 01:28:32,331
+...mantengamos la calma.
+
+1272
+01:28:32,636 --> 01:28:36,265
+Si me hacen algo,
+caerán a mi nivel.
+
+1273
+01:28:36,540 --> 01:28:40,533
+Sin mencionar el terrible
+ejemplo para los niños.
+
+1274
+01:28:41,778 --> 01:28:42,802
+¡Culpable!
+
+1275
+01:28:43,013 --> 01:28:46,574
+<i>Me emociona decir que
+el Conde Olaf fue apresado...</i>
+
+1276
+01:28:46,783 --> 01:28:49,479
+<i>...por los numerosos
+crímenes cometidos.</i>
+
+1277
+01:28:49,686 --> 01:28:53,247
+<i>Y antes de cumplir su condena
+a cadena perpetua, el juez decretó...</i>
+
+1278
+01:28:53,457 --> 01:28:55,982
+<i>...que Olaf deberá soportar
+cada sufrimiento...</i>
+
+1279
+01:28:56,193 --> 01:28:58,127
+<i>- ...que hiciera padecer a los niños.
+- ¡Sí!</i>
+
+1280
+01:29:01,164 --> 01:29:03,462
+¡Salgan!
+¡Salgan!
+
+1281
+01:29:07,704 --> 01:29:09,171
+No.
+
+1282
+01:29:18,315 --> 01:29:20,783
+<i>Los Baudelaire han triunfado.</i>
+
+1283
+01:29:20,984 --> 01:29:25,182
+<i>Una frase que significa, "desenmascarar
+a un cruel incendiario sin talento...</i>
+
+1284
+01:29:25,389 --> 01:29:28,381
+<i>...y resolver el misterio
+del incendio de la mansión Baudelaire".</i>
+
+1285
+01:29:31,194 --> 01:29:33,458
+<i>Si sólo la justicia fuera tan amable.</i>
+
+1286
+01:29:33,664 --> 01:29:35,092
+<i>El Conde Olaf desapareció...</i>
+
+1287
+01:29:35,093 --> 01:29:38,390
+<i>...luego que un jurado de
+sus amigos revirtiera su sentencia.</i>
+
+1288
+01:29:39,536 --> 01:29:43,233
+<i>En lo que respecta a los Baudelaire,
+lo que quedaba por delante no era claro.</i>
+
+1289
+01:29:43,440 --> 01:29:45,628
+<i>Pero sabían una cosa,
+mientras subían...</i>
+
+1290
+01:29:45,663 --> 01:29:48,168
+<i>...una vez más a la parte trasera
+del coche del señor Poe:</i>
+
+1291
+01:29:48,879 --> 01:29:50,346
+<i>Seguirían adelante.</i>
+
+1292
+01:29:52,949 --> 01:29:54,712
+Ahora, no se preocupen, niños...
+
+1293
+01:29:55,185 --> 01:29:58,313
+...estoy seguro que las autoridades
+atraparán al Conde Olaf muy pronto.
+
+1294
+01:29:59,523 --> 01:30:03,220
+No, no, no volveremos a tratar
+con esa terrible persona.
+
+1295
+01:30:07,030 --> 01:30:08,520
+Antes de irnos...
+
+1296
+01:30:09,966 --> 01:30:13,993
+...quizás haya tiempo para
+una última parada.
+
+1297
+01:32:00,043 --> 01:32:03,137
+"Violet, Klaus y Sunny".
+Está dirigido a nosotros.
+
+1298
+01:32:03,346 --> 01:32:05,109
+Mira todos esos sellos postales.
+
+1299
+01:32:05,482 --> 01:32:10,442
+Ha estado en Inglaterra, en Roma,
+en Kenia y en Islandia.
+
+1300
+01:32:10,687 --> 01:32:12,518
+Esos no tengo ni idea de dónde son.
+
+1301
+01:32:12,722 --> 01:32:14,019
+¿Quién lo manda?
+
+1302
+01:32:20,597 --> 01:32:21,996
+Mamá y papá.
+
+1303
+01:32:37,113 --> 01:32:38,512
+Esta es la carta.
+
+1304
+01:32:39,483 --> 01:32:41,348
+La carta que nunca llegó.
+
+1305
+01:32:45,322 --> 01:32:48,628
+Queridos niños,
+desde que tuvimos que partir...
+
+1306
+01:32:48,663 --> 01:32:50,090
+...los hemos extrañado muchísimo.
+
+1307
+01:32:51,161 --> 01:32:54,460
+Ciertos eventos nos han obligado
+a extender nuestro viaje.
+
+1308
+01:32:55,265 --> 01:32:56,892
+Un día, cuando sean grandes...
+
+1309
+01:32:57,400 --> 01:32:59,868
+...sabrán todo acerca de la gente
+a la que hemos ayudado...
+
+1310
+01:33:00,070 --> 01:33:01,867
+...y de los peligros que
+hemos enfrentado.
+
+1311
+01:33:02,572 --> 01:33:05,700
+A veces, el mundo puede parecer
+un lugar hostil y siniestro.
+
+1312
+01:33:05,909 --> 01:33:09,606
+Pero créannos cuando decimos que
+en él hay más bondad que maldad.
+
+1313
+01:33:09,813 --> 01:33:12,043
+Todo lo que tienen que hacer
+es buscar lo suficiente.
+
+1314
+01:33:12,749 --> 01:33:15,577
+Y lo que quizás parece ser una serie de
+desafortunados acontecimientos...
+
+1315
+01:33:15,585 --> 01:33:18,213
+...sean en efecto los primeros pasos
+de una travesía.
+
+1316
+01:33:19,189 --> 01:33:21,987
+Esperamos tenerlos pronto otra vez
+en nuestros brazos, queridos.
+
+1317
+01:33:22,192 --> 01:33:26,322
+Pero en caso que esta carta arribe antes
+que regresemos, sepan que los amamos.
+
+1318
+01:33:27,631 --> 01:33:30,498
+Nos llena de orgullo saber que
+no importa lo que pase en esta vida...
+
+1319
+01:33:30,700 --> 01:33:32,258
+...ustedes tres se
+cuidarán mutuamente...
+
+1320
+01:33:32,469 --> 01:33:34,767
+...con dulzura, valentía
+y desinterés...
+
+1321
+01:33:34,971 --> 01:33:36,734
+...como siempre lo han hecho.
+
+1322
+01:33:37,274 --> 01:33:40,437
+Y recuerden una cosa, mis queridos,
+y nunca lo olviden:
+
+1323
+01:33:41,144 --> 01:33:44,944
+No importa dónde estemos nosotros, sepan
+que mientras se tengan el uno al otro...
+
+1324
+01:33:45,148 --> 01:33:47,776
+...serán una familia,
+y estarán en casa.
+
+1325
+01:33:48,718 --> 01:33:50,413
+Sus queridos padres.
+
+1326
+01:34:09,205 --> 01:34:11,166
+<i>El traspaso de responsabilidades
+es una tradición...</i>
+
+1327
+01:34:11,175 --> 01:34:13,275
+<i>...que puede presentarse
+de diferentes maneras.</i>
+
+1328
+01:34:13,476 --> 01:34:17,207
+<i>Pero quizás la menos conocida
+y más sorprendente...</i>
+
+1329
+01:34:17,714 --> 01:34:19,944
+<i>...sea a través de un catalejo.</i>
+
+1330
+01:34:38,635 --> 01:34:41,764
+<i>Querido lector,
+hay gente en el mundo...</i>
+
+1331
+01:34:41,799 --> 01:34:44,846
+<i>...que no conoce desdicha ni tristeza.
+Y se deleitan...</i>
+
+1332
+01:34:44,881 --> 01:34:48,871
+<i>...con alegres películas sobre
+ruidosos pájaros y ridículos duendes.</i>
+
+1333
+01:34:49,145 --> 01:34:52,478
+<i>Hay gente que sabe que siempre
+hay un misterio para ser develado.</i>
+
+1334
+01:34:52,682 --> 01:34:54,315
+<i>Y ellos se reconfortan investigando...</i>
+
+1335
+01:34:54,417 --> 01:34:57,616
+<i>...y dejando asentado
+cualquier evidencia importante.</i>
+
+1336
+01:34:59,656 --> 01:35:02,648
+<i>Pero esta historia no
+es acerca de ellos.</i>
+
+1337
+01:35:02,892 --> 01:35:06,020
+<i>Esta historia es
+acerca de los Baudelaire.</i>
+
+1338
+01:35:06,329 --> 01:35:10,561
+<i>Ellos son la clase de gente que saben
+que siempre hay algo.</i>
+
+1339
+01:35:11,401 --> 01:35:14,632
+<i>Algo que inventar,
+algo que leer...</i>
+
+1340
+01:35:14,838 --> 01:35:17,466
+<i>...algo que morder y algo que hacer...</i>
+
+1341
+01:35:17,674 --> 01:35:21,007
+<i>...para hacer un santuario,
+no importa que tan pequeño.</i>
+
+1342
+01:35:31,788 --> 01:35:34,985
+<i>Y por esta razón,
+soy feliz al decir...</i>
+
+1343
+01:35:35,191 --> 01:35:40,151
+<i>...que los Baudelaire fueron en verdad
+muy afortunados.</i>

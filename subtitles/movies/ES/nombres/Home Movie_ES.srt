@@ -1,0 +1,4319 @@
+1
+00:01:01,828 --> 00:01:03,261
+GRABAR
+
+2
+00:01:03,329 --> 00:01:04,728
+CONFIGURAR CAMARA, EXPOSICION,
+BALANCE DE BLANCOS
+
+3
+00:01:04,798 --> 00:01:05,890
+CONFIGURAR RELOJ,
+TITULOS, EFECTO VISUAL
+
+4
+00:01:05,965 --> 00:01:10,334
+PELICULA CASERA
+Para "Película casera", presione uno.
+
+5
+00:01:10,403 --> 00:01:12,735
+Para "Felices Pascuas", presione dos.
+
+6
+00:01:12,806 --> 00:01:14,171
+¿Qué estás haciendo?
+
+7
+00:01:14,240 --> 00:01:17,368
+Para un terrible "Día de Acción
+de Gracias", presione tres.
+
+8
+00:01:17,444 --> 00:01:18,968
+Estás confundiendo a nuestros hijos.
+
+9
+00:01:19,045 --> 00:01:21,343
+Para "Feliz Kwanzaa", presione cinco.
+
+10
+00:01:21,414 --> 00:01:23,473
+Me parece que no.
+
+11
+00:01:24,684 --> 00:01:29,087
+Feliz Halloween.
+
+12
+00:01:30,290 --> 00:01:34,249
+Fuego.
+
+13
+00:01:34,327 --> 00:01:37,125
+Fuego.
+
+14
+00:01:40,233 --> 00:01:43,896
+Mis niños se convirtieron
+en dragones que escupen fuego.
+
+15
+00:01:45,872 --> 00:01:48,534
+Es su mamá y está de muy mal humor.
+
+16
+00:01:48,608 --> 00:01:50,769
+Un pastel de cumpleaños para ustedes.
+
+17
+00:01:50,844 --> 00:01:53,335
+Qué miedo que das.
+
+18
+00:01:53,413 --> 00:01:58,749
+# Feliz cumpleaños / Halloween,
+Jack y Emily #
+
+19
+00:01:58,818 --> 00:02:03,482
+# Feliz cumpleaños / Halloween... #
+
+20
+00:02:05,725 --> 00:02:07,124
+Sí, pidan un deseo.
+
+21
+00:02:07,193 --> 00:02:09,593
+- Pidan un deseo.
+- ¿Están listos?
+
+22
+00:02:09,662 --> 00:02:11,289
+¿Listos? Apaguen las velitas.
+
+23
+00:02:16,236 --> 00:02:18,466
+No se apagan.
+
+24
+00:02:19,873 --> 00:02:22,706
+Ella lo logró.
+No, aún están encendidas.
+
+25
+00:02:24,210 --> 00:02:27,077
+- Oye, oye.
+- Jack.
+
+26
+00:02:27,147 --> 00:02:31,174
+Fuego...
+
+27
+00:02:33,253 --> 00:02:35,949
+Cinco, cuatro, tres, dos, uno.
+
+28
+00:02:36,022 --> 00:02:37,887
+Estén listos o no, aquí vamos.
+
+29
+00:02:37,957 --> 00:02:40,016
+Yo tampoco me pondré el mío.
+Me pondré el tuyo.
+
+30
+00:02:40,093 --> 00:02:42,391
+Yo me pondré el tuyo.
+
+31
+00:02:43,930 --> 00:02:46,490
+- ¿Cómo va?
+- De cualquier modo.
+
+32
+00:02:46,566 --> 00:02:49,729
+No, no me lo pondré.
+
+33
+00:02:49,802 --> 00:02:52,168
+- Bien, yo tampoco me pondré el tuyo.
+- Dame.
+
+34
+00:02:52,238 --> 00:02:54,365
+- Oye, ven aquí.
+- ¿Qué estás haciendo?
+
+35
+00:02:54,440 --> 00:02:56,237
+No.
+
+36
+00:02:56,309 --> 00:02:57,970
+Buenas noches...
+
+37
+00:02:58,044 --> 00:03:01,138
+...y bienvenidos a la casa embrujada
+donde verán imágenes de...
+
+38
+00:03:01,214 --> 00:03:03,045
+...fantasmas.
+
+39
+00:03:12,859 --> 00:03:14,486
+Están aquí abajo.
+
+40
+00:03:32,979 --> 00:03:34,844
+Cariño, creo que sé dónde están.
+
+41
+00:03:34,914 --> 00:03:36,575
+- ¿Dónde?
+- Sostén la cámara.
+
+42
+00:03:38,518 --> 00:03:40,418
+- Ten cuidado.
+- Cariño...
+
+43
+00:03:40,486 --> 00:03:43,614
+...si no regreso,
+quiero que sepas cuánto te...
+
+44
+00:03:45,191 --> 00:03:46,715
+Estoy bien.
+
+45
+00:03:46,793 --> 00:03:48,522
+¿Estás bien?
+
+46
+00:03:48,595 --> 00:03:50,620
+¿Qué es?
+
+47
+00:03:50,697 --> 00:03:53,461
+Tan sólo un dragón que escupe fuego.
+
+48
+00:03:55,635 --> 00:03:58,160
+Genial.
+
+49
+00:03:58,238 --> 00:04:01,139
+Bien, vamos, chicos.
+
+50
+00:04:01,207 --> 00:04:04,176
+- Fin del juego. Mamá está cansada.
+- ¿Dónde están?
+
+51
+00:04:05,678 --> 00:04:07,236
+Los encontramos.
+
+52
+00:04:07,313 --> 00:04:09,543
+Bien, chicos, vamos.
+Apaguen las linternas.
+
+53
+00:04:09,616 --> 00:04:11,447
+Jack y Emily Poe.
+
+54
+00:04:11,517 --> 00:04:13,917
+Apaguen las linternas.
+
+55
+00:04:13,987 --> 00:04:16,421
+- Le hace mal a la cámara.
+- Háganle caso a mamá, chicos.
+
+56
+00:04:16,489 --> 00:04:18,923
+- Vamos.
+- Qué niños obedientes.
+
+57
+00:04:18,992 --> 00:04:22,359
+Apaguen las linternas
+o apagaré la cámara.
+
+58
+00:04:22,428 --> 00:04:24,794
+Así está mejor.
+
+59
+00:04:26,132 --> 00:04:28,225
+Aquí vamos.
+
+60
+00:04:28,301 --> 00:04:30,326
+Ven aquí.
+
+61
+00:04:30,403 --> 00:04:33,270
+¿Me acabas de morder?
+
+62
+00:04:37,377 --> 00:04:38,708
+Será un lanzamiento muy potente.
+
+63
+00:04:41,114 --> 00:04:43,378
+Qué bien.
+
+64
+00:04:43,449 --> 00:04:46,077
+Qué amague.
+
+65
+00:04:46,152 --> 00:04:47,881
+Ahora bateo...
+
+66
+00:04:47,954 --> 00:04:49,319
+...número 31...
+
+67
+00:04:49,389 --> 00:04:51,118
+Jack... Poe...
+
+68
+00:04:51,190 --> 00:04:52,885
+...jardinero central...
+
+69
+00:04:52,959 --> 00:04:55,086
+Connecticut Cormorant.
+
+70
+00:04:57,630 --> 00:04:59,325
+De acuerdo.
+
+71
+00:05:02,001 --> 00:05:03,764
+Vamos, puedes hacerlo.
+
+72
+00:05:07,373 --> 00:05:08,738
+Genial.
+
+73
+00:05:08,808 --> 00:05:11,208
+Vamos, Jack.
+
+74
+00:05:13,479 --> 00:05:15,242
+Al medio del bosque.
+
+75
+00:05:15,315 --> 00:05:17,909
+- Santo cielo.
+- Cielos.
+
+76
+00:05:17,984 --> 00:05:19,713
+- Buen tiro, hijo.
+- Estuvo muy bien.
+
+77
+00:05:19,786 --> 00:05:21,811
+Buen trabajo, cariño.
+
+78
+00:05:24,424 --> 00:05:27,222
+¿Me das una manito, cariño?
+
+79
+00:05:28,261 --> 00:05:30,024
+- ¿Qué?
+- Que me des una manito.
+
+80
+00:05:30,096 --> 00:05:31,723
+- ¿A qué te refieres?
+- Una manito.
+
+81
+00:05:31,798 --> 00:05:33,698
+- ¿Quieres que yo la vaya a buscar?
+- Una manito.
+
+82
+00:05:33,766 --> 00:05:35,461
+- Ve tú a buscarla.
+- Una manito.
+
+83
+00:05:35,535 --> 00:05:37,162
+- Dios mío.
+- Una manito.
+
+84
+00:05:37,236 --> 00:05:39,204
+¿Acaso yo tengo que hacer todo
+en esta casa?
+
+85
+00:05:39,272 --> 00:05:41,035
+Yo soy el lanzador.
+Mi brazo, mi pierna...
+
+86
+00:05:41,107 --> 00:05:43,575
+- ...deben relajarse y descansar.
+- ¿Tu brazo? Mi brazo.
+
+87
+00:05:43,643 --> 00:05:45,838
+- Vamos, cariño.
+- De acuerdo... bien.
+
+88
+00:05:45,912 --> 00:05:48,278
+Bien...
+
+89
+00:05:48,348 --> 00:05:51,545
+Viva. Cuántas ramas que hay por aquí.
+
+90
+00:05:51,617 --> 00:05:53,084
+Apúrate, cariño.
+
+91
+00:05:53,152 --> 00:05:55,279
+Creo que encontré hiedra venenosa.
+
+92
+00:05:55,355 --> 00:05:58,017
+Suena lógico.
+
+93
+00:05:58,091 --> 00:06:02,221
+Y acabo de ver un chacal... qué bien.
+
+94
+00:06:02,295 --> 00:06:04,388
+Hiedra venenosa, más serpientes...
+
+95
+00:06:04,464 --> 00:06:06,591
+...y un chacal.
+
+96
+00:06:06,666 --> 00:06:10,568
+Estoy tan contenta de que nos hayamos
+mudado al medio de la nada.
+
+97
+00:06:13,473 --> 00:06:15,805
+Hola, Em.
+
+98
+00:06:15,875 --> 00:06:17,672
+¿Viste la pelota de tu papá?
+
+99
+00:06:19,612 --> 00:06:21,443
+De acuerdo, bien...
+
+100
+00:06:21,514 --> 00:06:23,914
+...voy a buscar por aquí.
+
+101
+00:06:32,358 --> 00:06:34,952
+Dijiste que no la habías visto.
+CASA CLUB DE JACK Y EMILY
+
+102
+00:06:35,027 --> 00:06:38,394
+PROHIBIDA LA ENTRADA
+A LOS PADRES
+
+103
+00:06:38,464 --> 00:06:42,867
+Oye, ¿qué tal si filmo
+la casa club de ustedes?
+
+104
+00:06:42,935 --> 00:06:46,371
+Será maravilloso para que lo vean
+cuando sean más grandes, ¿no?
+
+105
+00:06:48,541 --> 00:06:52,136
+"Prohibida la entrada a los padres".
+
+106
+00:06:52,211 --> 00:06:56,580
+¿Todos los padres o sólo papá y yo?
+
+107
+00:06:58,584 --> 00:07:00,950
+De acuerdo.
+
+108
+00:07:01,020 --> 00:07:03,147
+Bien...
+
+109
+00:07:03,222 --> 00:07:05,349
+...voy a ver el partido.
+
+110
+00:07:05,425 --> 00:07:07,723
+¿Quieres venir?
+
+111
+00:07:07,794 --> 00:07:09,455
+Puedes ir en el carrito.
+
+112
+00:07:12,999 --> 00:07:15,024
+¿Te estás haciendo la muerta?
+
+113
+00:07:15,101 --> 00:07:17,035
+Una vez más, aquí.
+
+114
+00:07:17,103 --> 00:07:19,264
+Va a caer allí.
+
+115
+00:07:19,338 --> 00:07:21,863
+Me encanta este zoom.
+
+116
+00:07:21,941 --> 00:07:23,374
+Zoom.
+
+117
+00:07:25,611 --> 00:07:27,476
+Gran batazo, pero falla.
+
+118
+00:07:27,547 --> 00:07:30,141
+El muchachote...
+¿viste mi postura?
+
+119
+00:07:30,216 --> 00:07:31,911
+- Genial.
+- ¿La ves?
+
+120
+00:07:31,984 --> 00:07:33,679
+Pon una sonrisa.
+
+121
+00:07:33,753 --> 00:07:35,277
+Bien hecho.
+
+122
+00:07:39,625 --> 00:07:42,093
+Yo voy. Yo voy.
+
+123
+00:07:43,996 --> 00:07:46,362
+Choque los cinco. Bien, gracias.
+
+124
+00:07:46,432 --> 00:07:49,333
+Vamos, Em.
+Choca los cinco con tu papá.
+
+125
+00:07:49,402 --> 00:07:51,734
+- Sí.
+- Jonrón.
+
+126
+00:07:52,972 --> 00:07:54,462
+Bien, cariño, bien.
+
+127
+00:07:54,540 --> 00:07:56,007
+Observen a este sujeto.
+
+128
+00:07:57,410 --> 00:07:59,002
+Una más, una más, una más.
+
+129
+00:08:05,418 --> 00:08:07,909
+¿Qué fue eso, una piedra?
+
+130
+00:08:07,987 --> 00:08:09,955
+¿Qué?
+
+131
+00:08:13,759 --> 00:08:16,193
+¿Qué? ¿Qué ocurre?
+
+132
+00:08:16,262 --> 00:08:17,786
+- Se acabó.
+- ¿Qué pasó?
+
+133
+00:08:17,864 --> 00:08:19,764
+- Me está arrojando piedras.
+- ¿Qué?
+
+134
+00:08:32,011 --> 00:08:36,573
+Hoy aprenderemos
+sobre el antiguo arte del rastrillaje.
+
+135
+00:08:36,649 --> 00:08:39,618
+El rastrillaje fue descubierto...
+
+136
+00:08:39,685 --> 00:08:43,485
+...por un destacamento de montaña
+chino en 1802.
+
+137
+00:08:45,358 --> 00:08:47,656
+Mi adorable asistente Jack Poe...
+
+138
+00:08:47,727 --> 00:08:50,855
+...está rastrillando hoy
+porque lo castigaron por arrojarle...
+
+139
+00:08:50,930 --> 00:08:52,830
+...una piedra en la cabeza a su papá.
+
+140
+00:08:56,435 --> 00:08:58,460
+¿Qué tienes, Jack?
+
+141
+00:09:01,307 --> 00:09:02,865
+Un bicho muerto.
+
+142
+00:09:02,942 --> 00:09:06,275
+Aquí es donde empleamos la célebre
+técnica de la bolsa de basura.
+
+143
+00:09:06,345 --> 00:09:09,405
+Y eso es todo, niños.
+Esa es nuestra lección de hoy:
+
+144
+00:09:09,482 --> 00:09:13,111
+Las cosas muertas
+van en bolsas de basura.
+
+145
+00:09:14,287 --> 00:09:15,385
+FELIZ ANIVERSARIO
+
+146
+00:09:17,623 --> 00:09:18,885
+El amor nos rodea, ¿lo sientes?
+
+147
+00:09:19,926 --> 00:09:21,120
+¿Sí?
+
+148
+00:09:21,193 --> 00:09:23,787
+No te quitaré el sueño. Bien.
+
+149
+00:09:23,863 --> 00:09:26,263
+Es viernes, 9 de noviembre, 10:30 PM.
+
+150
+00:09:26,332 --> 00:09:29,927
+Hoy Clare y yo cumplimos
+10 años de casados...
+
+151
+00:09:30,002 --> 00:09:34,098
+...y voy a intentar una maniobra
+extremadamente peligrosa.
+
+152
+00:09:34,173 --> 00:09:37,233
+Pero antes de hacerlo,
+por si no regreso...
+
+153
+00:09:37,310 --> 00:09:40,507
+...Jack, quiero que sepas
+cuánto te quiero.
+
+154
+00:09:40,580 --> 00:09:44,243
+Y, Emily, a ti también
+te quiero muchísimo.
+
+155
+00:09:44,317 --> 00:09:47,650
+Así que, bien...
+
+156
+00:09:47,720 --> 00:09:49,688
+...esta maniobra es peligrosísima.
+
+157
+00:09:49,755 --> 00:09:51,655
+No recomiendo que lo intenten...
+
+158
+00:09:51,724 --> 00:09:54,056
+...si son aficionados o pusilánimes.
+
+159
+00:09:54,126 --> 00:09:57,095
+Voy a intentar hacer
+que mi esposa me entregue...
+
+160
+00:09:57,163 --> 00:10:00,860
+...los 206 huesos de su cuerpo.
+
+161
+00:10:03,102 --> 00:10:05,263
+Bien, adiós. Deséenme suerte.
+
+162
+00:10:12,745 --> 00:10:14,645
+Maldición.
+
+163
+00:10:53,919 --> 00:10:56,581
+Genial. Dámela.
+
+164
+00:10:56,656 --> 00:10:59,124
+Feliz aniversario.
+
+165
+00:10:59,191 --> 00:11:01,056
+Más te vale que no hayas traído
+la cámara.
+
+166
+00:11:01,127 --> 00:11:03,618
+No tengo la cámara.
+¿Qué crees que soy, un pervertido?
+
+167
+00:11:03,696 --> 00:11:05,323
+Sí.
+
+168
+00:11:08,167 --> 00:11:11,534
+"La máscara de la cordura",
+de Hervey M. Cleckley".
+
+169
+00:11:11,604 --> 00:11:14,801
+Alguna gente tiene alcohol.
+Mi esposa tiene libros.
+
+170
+00:11:16,909 --> 00:11:17,976
+- Ven aquí.
+- No.
+
+171
+00:11:18,043 --> 00:11:20,639
+- ¿Variedad de quesos?
+- ¿Eso es una variedad de quesos?
+
+172
+00:11:20,713 --> 00:11:23,045
+Sí, y eso es un cartón de vino.
+
+173
+00:11:23,115 --> 00:11:24,707
+No beberé vino de un cartón.
+
+174
+00:11:24,784 --> 00:11:26,445
+Bésame, elitista.
+
+175
+00:11:26,519 --> 00:11:28,783
+No soy elitista.
+
+176
+00:11:28,854 --> 00:11:32,381
+Vamos, mudé a nuestra familia
+al medio del bosque hace seis meses.
+
+177
+00:11:32,458 --> 00:11:34,323
+- No soy elitista.
+- Eres elitista.
+
+178
+00:11:34,393 --> 00:11:35,917
+Bésame, elitista.
+
+179
+00:11:35,995 --> 00:11:38,520
+Este queso no está nada mal.
+
+180
+00:11:38,597 --> 00:11:41,498
+- ¿Me estás seduciendo?
+- Yo nunca haría algo así.
+
+181
+00:11:43,602 --> 00:11:46,070
+Bien, qué mal por ti.
+
+182
+00:11:46,138 --> 00:11:50,097
+No puedo tener sexo ahora
+porque tengo mucho trabajo.
+
+183
+00:11:50,176 --> 00:11:53,873
+- Siempre tienes trabajo.
+- Sí, así tenemos dinero para gastar.
+
+184
+00:11:53,946 --> 00:11:56,244
+- Claro.
+- # Dinero para gastar. #
+
+185
+00:11:58,984 --> 00:12:01,475
+¿Acaso no es así como empezó
+el video de Paris Hilton?
+
+186
+00:12:01,554 --> 00:12:03,681
+No, creo que fue...
+
+187
+00:12:03,756 --> 00:12:06,657
+Tú... maldito.
+
+188
+00:12:08,394 --> 00:12:09,884
+¿Dónde está mi toalla?
+
+189
+00:12:12,098 --> 00:12:13,929
+Eres hombre muerto.
+
+190
+00:12:13,999 --> 00:12:15,762
+- Eres muy malo.
+- Malo...
+
+191
+00:12:15,835 --> 00:12:18,531
+¿Te refieres a "malo bueno"
+o "malo malo"?
+
+192
+00:12:18,604 --> 00:12:20,401
+Me refiero a malo,
+repugnante, malvado.
+
+193
+00:12:20,473 --> 00:12:22,532
+Se supone que eres pastor.
+
+194
+00:12:22,608 --> 00:12:24,405
+Sí, soy luterano, no católico.
+
+195
+00:12:24,477 --> 00:12:26,502
+Bien, yo soy médica, no ramera.
+
+196
+00:12:27,546 --> 00:12:29,571
+Di feliz aniversario a la cámara, ¿sí?
+
+197
+00:12:29,648 --> 00:12:31,115
+No.
+
+198
+00:12:31,183 --> 00:12:33,344
+Así tenemos algo para recordar
+cuando seamos viejos...
+
+199
+00:12:33,419 --> 00:12:35,819
+...decrépitos,
+echándonos gases uno sobre el otro.
+
+200
+00:12:35,888 --> 00:12:39,016
+No vamos a echarnos gases
+uno sobre el otro. Qué desagradable.
+
+201
+00:12:39,091 --> 00:12:40,718
+Vamos a echarnos gases
+uno sobre el otro.
+
+202
+00:12:40,793 --> 00:12:42,488
+Moriremos
+en una conflagración de gases.
+
+203
+00:12:42,561 --> 00:12:44,688
+- Sí, tus gases.
+- Alguien encenderá una cerilla...
+
+204
+00:12:44,764 --> 00:12:47,164
+- ...y vamos a...
+- Mis gases no.
+
+205
+00:12:47,233 --> 00:12:50,361
+Vamos, di feliz aniversario
+frente a la cámara para la posteridad.
+
+206
+00:12:50,436 --> 00:12:53,132
+Feliz aniversario. Y ahora
+puedes sacar esa cámara de aquí...
+
+207
+00:12:53,205 --> 00:12:54,866
+...porque se supone
+que es para mi trabajo...
+
+208
+00:12:54,940 --> 00:12:56,498
+...porque gasté mucho dinero en ella.
+
+209
+00:12:56,575 --> 00:12:59,942
+Pensé que era
+para hacer pornografía blanda.
+
+210
+00:13:00,012 --> 00:13:01,843
+¿No?
+
+211
+00:13:04,850 --> 00:13:07,410
+- No puedo creer...
+- No puedo creer lo sensual que eres.
+
+212
+00:13:09,588 --> 00:13:11,647
+Quítate la ropa.
+
+213
+00:13:11,724 --> 00:13:13,692
+Pensé que nunca me lo pedirías.
+
+214
+00:13:15,327 --> 00:13:17,192
+Entra aquí.
+
+215
+00:13:19,198 --> 00:13:20,324
+¿Es el perro?
+
+216
+00:13:22,201 --> 00:13:25,637
+- ¿Por qué siempre hace lo mismo?
+- Hegel, fermez la bouche.
+
+217
+00:13:27,206 --> 00:13:29,071
+David, por favor, con la cámara.
+
+218
+00:13:29,141 --> 00:13:31,439
+Me siento como si estuviera
+en "The Real World".
+
+219
+00:13:31,510 --> 00:13:33,569
+¿"The Real World"?
+
+220
+00:13:37,449 --> 00:13:38,916
+¿Dónde está Emily?
+
+221
+00:13:43,222 --> 00:13:46,555
+¿Acaso no es la imagen más tierna?
+
+222
+00:13:46,625 --> 00:13:50,220
+No es tierna. Es extraña.
+
+223
+00:13:50,296 --> 00:13:52,821
+No es extraña...
+¿los dos juntos en la cama?
+
+224
+00:13:52,898 --> 00:13:54,490
+Ya están grandes para esto.
+
+225
+00:13:54,567 --> 00:13:56,432
+Es lo más tierno que vi en mi vida.
+
+226
+00:14:09,515 --> 00:14:12,541
+"La historia del dragón
+y la bolsa de papel"...
+
+227
+00:14:12,618 --> 00:14:15,052
+...de Micky Powell.
+
+228
+00:14:15,120 --> 00:14:19,614
+"Erase una vez,
+en una tierra muy, muy lejana...
+
+229
+00:14:19,692 --> 00:14:24,152
+...el dragón de dos cabezas
+más horroroso...
+
+230
+00:14:24,230 --> 00:14:27,199
+...de toda la historia.
+
+231
+00:14:27,266 --> 00:14:30,326
+Y este dragón tenía el sueño
+de comerse...
+
+232
+00:14:30,402 --> 00:14:33,132
+...a todos los niños y niñas del pueblo.
+
+233
+00:14:33,205 --> 00:14:36,333
+De hecho, era más que un sueño...
+
+234
+00:14:36,408 --> 00:14:38,638
+...era un plan.
+
+235
+00:14:38,711 --> 00:14:42,010
+A la siguiente Noche de Brujas,
+cuando todos los niños y niñas...
+
+236
+00:14:42,081 --> 00:14:45,380
+...se ponen sus máscaras de bolsas
+de papel para ir a la escuela...
+
+237
+00:14:45,451 --> 00:14:49,478
+...el dragón decidió que se pondría
+su propia máscara de bolsa de papel.
+
+238
+00:14:49,555 --> 00:14:51,386
+Y, así disfrazado...
+
+239
+00:14:51,457 --> 00:14:54,551
+...él partió hacia el patio
+de la escuela.
+
+240
+00:14:54,627 --> 00:14:58,154
+En el patio,
+los niños se sorprendieron...
+
+241
+00:14:58,230 --> 00:15:00,528
+...al ver al alumno nuevo.
+
+242
+00:15:00,599 --> 00:15:02,794
+"Eres demasiado alto", dijeron.
+
+243
+00:15:02,868 --> 00:15:06,031
+"Tienes dos cabezas", dijo otro niño.
+
+244
+00:15:06,105 --> 00:15:10,565
+"No puedes ser uno de nosotros.
+Debes ser el dragón".
+
+245
+00:15:10,643 --> 00:15:13,339
+"Créanme", respondió el dragón...
+
+246
+00:15:13,412 --> 00:15:16,040
+"Soy uno de ustedes".
+
+247
+00:15:16,115 --> 00:15:18,879
+"¿Sí? Demuéstralo", dijeron.
+
+248
+00:15:18,951 --> 00:15:21,146
+"Quítate la máscara".
+
+249
+00:15:21,220 --> 00:15:24,621
+El dragón sabía que eso era algo
+que no podía hacer.
+
+250
+00:15:24,690 --> 00:15:28,126
+"Lo que puedo hacer",
+dijo, "es hablar como ustedes.
+
+251
+00:15:28,193 --> 00:15:31,287
+Puedo caminar como ustedes.
+
+252
+00:15:31,363 --> 00:15:35,629
+Cielos, aun puedo bailar
+como ustedes".
+
+253
+00:15:35,701 --> 00:15:39,000
+"Hazlo", dijeron los niños.
+
+254
+00:15:39,071 --> 00:15:42,234
+Y, verdaderamente,
+el dragón caminaba...
+
+255
+00:15:42,308 --> 00:15:46,267
+...hablaba y bailaba
+como si fuera uno de ellos.
+
+256
+00:15:46,345 --> 00:15:49,212
+Y los niños estaban tan convencidos...
+
+257
+00:15:49,281 --> 00:15:52,478
+...que lo invitaron a cantar
+sus canciones con ellos.
+
+258
+00:15:52,551 --> 00:15:55,019
+Lo invitaron a participar de sus juegos.
+
+259
+00:15:55,087 --> 00:15:56,952
+Y cuando sonó la campana
+del almuerzo...
+
+260
+00:15:57,022 --> 00:16:00,014
+...lo invitaron a que fuera
+a comer con ellos.
+
+261
+00:16:00,092 --> 00:16:02,560
+"Gracias", dijo el dragón...
+
+262
+00:16:02,628 --> 00:16:05,392
+"pero prefiero comer afuera".
+
+263
+00:16:05,464 --> 00:16:08,365
+"¿Afuera?" preguntaron los niños.
+
+264
+00:16:08,434 --> 00:16:11,665
+"Pero, ¿qué vas a comer?"
+
+265
+00:16:11,737 --> 00:16:15,730
+El dragón respondió: "A ustedes".
+
+266
+00:16:15,808 --> 00:16:17,673
+Y tras decir eso...
+
+267
+00:16:17,743 --> 00:16:20,871
+...el dragón se quitó la máscara
+de bolsa de papel...
+
+268
+00:16:20,946 --> 00:16:24,438
+...y reveló las dos cabezas horrorosas.
+
+269
+00:16:24,516 --> 00:16:26,950
+Los niños empezaron a gritar...
+
+270
+00:16:27,019 --> 00:16:31,956
+...pero sus gritos pronto quedaron
+atrapados en el estómago del dragón".
+
+271
+00:16:38,130 --> 00:16:39,859
+Creo que ése fue...
+
+272
+00:16:39,932 --> 00:16:42,924
+...el cuento de hadas
+más inapropiado que escuché.
+
+273
+00:16:43,002 --> 00:16:47,336
+Cariño, es una alegoría...
+
+274
+00:16:47,406 --> 00:16:52,105
+...de, ya sabes,
+"No confíes en los extraños".
+
+275
+00:16:54,713 --> 00:16:57,011
+Buenas noches, Steven.
+
+276
+00:16:57,082 --> 00:16:59,846
+Buenas noches, Lou.
+
+277
+00:16:59,918 --> 00:17:03,183
+Casa de Nikolai
+Buenas noches, Nikolai...
+
+278
+00:17:03,255 --> 00:17:05,815
+...maldito rojo.
+
+279
+00:17:28,247 --> 00:17:30,977
+Hola, soy la Dra. Clare Poe.
+
+280
+00:17:31,050 --> 00:17:34,213
+Es el 10 de noviembre de 2006.
+
+281
+00:17:34,286 --> 00:17:37,016
+Este es el diario en video número uno.
+
+282
+00:17:37,089 --> 00:17:40,991
+Nombre del paciente:
+Billy Tomlinson, 11 años...
+
+283
+00:17:41,060 --> 00:17:43,585
+...diagnosticado septicemia temprana
+en la fase prodromal...
+
+284
+00:17:43,662 --> 00:17:45,357
+...en el Hospital
+de Niños de Filadelfia...
+
+285
+00:17:45,431 --> 00:17:48,832
+...donde soy jefa de médicos residentes
+de la unidad de psiquiatría infantil.
+
+286
+00:17:48,901 --> 00:17:51,495
+El paciente presenta
+todos los criterios diagnósticos...
+
+287
+00:17:51,570 --> 00:17:53,629
+...incluyendo lenguaje desorganizado...
+
+288
+00:17:53,705 --> 00:17:57,072
+...alogia, conductas catatónicas
+y delirios continuos...
+
+289
+00:17:57,142 --> 00:17:59,093
+...con no menos de tres episodios...
+
+290
+00:17:59,094 --> 00:18:01,044
+...de alucinaciones en los últimos
+tres meses...
+
+291
+00:18:01,113 --> 00:18:03,377
+...en los que Billy sostenía
+que había, cito...
+
+292
+00:18:03,449 --> 00:18:06,213
+"un hombre hecho de uñas"
+viviendo bajo su cama.
+
+293
+00:18:07,486 --> 00:18:09,113
+10 mg de Abilify...
+
+294
+00:18:09,188 --> 00:18:10,780
+10 mg de Loxapine.
+
+295
+00:18:10,856 --> 00:18:14,758
+En menos de una semana,
+este tratamiento binario...
+
+296
+00:18:14,827 --> 00:18:17,421
+...eliminó los delirios de Billy...
+
+297
+00:18:17,496 --> 00:18:19,896
+...enviando a este
+"hombre hecho de uñas"
+
+298
+00:18:19,965 --> 00:18:23,298
+...de regreso a aquella falla
+de sinapsis de la que había provenido.
+
+299
+00:18:23,368 --> 00:18:26,531
+Tiene cita,
+incluyendo análisis de sangre...
+
+300
+00:18:26,605 --> 00:18:28,368
+...para el martes próximo, el 14.
+
+301
+00:18:28,640 --> 00:18:31,507
+Hola. Es 18 de noviembre.
+
+302
+00:18:31,577 --> 00:18:35,513
+Yo soy el conductor David Poe,
+y esto es "Los videos caseros...
+
+303
+00:18:35,581 --> 00:18:38,141
+...más graciosos y vergonzosos
+de Estados Unidos".
+
+304
+00:18:38,217 --> 00:18:42,278
+Hoy los niños tienen la fiesta de
+Día de Acción de Gracias en la escuela.
+
+305
+00:18:42,354 --> 00:18:45,414
+Mamá los disfrazó de algo.
+Vamos a averiguar de qué.
+
+306
+00:18:45,491 --> 00:18:48,756
+Se ven tan tiernos, voy a vomitar.
+
+307
+00:18:51,730 --> 00:18:56,133
+Las locuras de la juventud
+se olvidan rápido, descuiden.
+
+308
+00:18:56,201 --> 00:18:59,227
+A menos, claro,
+que papá las esté filmando.
+
+309
+00:18:59,304 --> 00:19:01,329
+Escúchate.
+
+310
+00:19:01,406 --> 00:19:03,397
+Cariño, ¿te preparaste
+tu propio almuerzo?
+
+311
+00:19:03,475 --> 00:19:06,103
+- Lo siento, se ven geniales.
+- Se ven geniales.
+
+312
+00:19:06,178 --> 00:19:08,203
+Fantásticos, por supuesto.
+
+313
+00:19:08,280 --> 00:19:11,443
+¿Qué hiciste?
+Eso... vamos, por favor.
+
+314
+00:19:11,517 --> 00:19:14,281
+Déjalos en paz.
+¿Hiciste salchicha ahumada?
+
+315
+00:19:14,353 --> 00:19:17,754
+¿No? ¿Emparedado
+de mantequilla de maní y jalea?
+
+316
+00:19:17,823 --> 00:19:21,224
+¿No? Bien...
+
+317
+00:19:21,293 --> 00:19:23,591
+...¿qué tal si vemos qué llevará
+nuestro hombrecito...
+
+318
+00:19:23,662 --> 00:19:26,495
+...al banquete de Acción de Gracias
+de cuarto grado?
+
+319
+00:19:28,333 --> 00:19:31,530
+Si él puede hacer un emparedado,
+tú también puedes de tanto en tanto.
+
+320
+00:19:31,603 --> 00:19:34,037
+- No, no puedo.
+- Lo siento.
+
+321
+00:19:39,111 --> 00:19:41,579
+¿Qué hiciste, Jack?
+
+322
+00:19:47,553 --> 00:19:49,578
+ACCION DE GRACIAS
+
+323
+00:19:57,262 --> 00:19:59,127
+Oye, amigo.
+
+324
+00:20:03,368 --> 00:20:07,327
+En este episodio de "Clare Poe:
+Especialista en proctología de pavos"...
+
+325
+00:20:07,406 --> 00:20:10,864
+...nosotros..."¿Recto?
+Casi acabas con ellos".
+
+326
+00:20:13,378 --> 00:20:15,573
+Jack. Emily.
+
+327
+00:20:15,647 --> 00:20:17,706
+Yo voy a buscarlos.
+
+328
+00:20:23,722 --> 00:20:25,952
+Vamos, chicos, es hora de comer.
+
+329
+00:20:26,024 --> 00:20:28,515
+Mamá estuvo preparando este pavo
+todo el día.
+
+330
+00:20:34,733 --> 00:20:36,667
+¿Manzanas?
+
+331
+00:20:36,735 --> 00:20:38,703
+Se ve delicioso, ¿no?
+
+332
+00:20:44,776 --> 00:20:46,471
+Querido Señor...
+
+333
+00:20:48,914 --> 00:20:51,815
+...gracias.
+
+334
+00:20:51,883 --> 00:20:55,080
+Gracias por proporcionarnos
+este abundante banquete.
+
+335
+00:20:55,153 --> 00:20:58,247
+Lo que es más importante,
+gracias por darnos el uno al otro...
+
+336
+00:20:58,323 --> 00:21:02,760
+...por darnos amor,
+por este Día de Acción de Gracias...
+
+337
+00:21:02,828 --> 00:21:04,557
+...que te debemos a Ti...
+
+338
+00:21:04,630 --> 00:21:09,431
+...nuestro Dios más leal y sagrado.
+
+339
+00:21:09,501 --> 00:21:14,063
+Gracias por mi esposa,
+mi hermosa esposa...
+
+340
+00:21:14,139 --> 00:21:17,006
+...gracias por mis hijos...
+
+341
+00:21:17,075 --> 00:21:20,704
+...y gracias por esta vida,
+que es verdaderamente dichosa.
+
+342
+00:21:20,779 --> 00:21:23,441
+Vamos a rezar.
+
+343
+00:21:26,151 --> 00:21:29,382
+Bendito Señor, te agradecemos
+por las ofrendas que...
+
+344
+00:21:31,623 --> 00:21:34,057
+¿Qué fue eso?
+
+345
+00:21:34,126 --> 00:21:38,153
+Fueron tus hijos faltando el respeto.
+
+346
+00:21:41,199 --> 00:21:43,963
+Bien, no comeremos este pavo
+hasta que no recen.
+
+347
+00:21:47,539 --> 00:21:50,201
+- Bien.
+- De acuerdo.
+
+348
+00:21:52,010 --> 00:21:53,671
+Bendito Señor,
+gracias por las ofrendas...
+
+349
+00:21:53,745 --> 00:21:55,372
+...que nos brindaste...
+
+350
+00:21:59,418 --> 00:22:01,613
+¿Qué están haciendo?
+
+351
+00:22:04,089 --> 00:22:06,387
+- Comamos, ¿bien?
+- Hablo en serio.
+
+352
+00:22:06,458 --> 00:22:11,191
+No comeremos hasta que recen.
+
+353
+00:22:11,263 --> 00:22:13,561
+David, vamos.
+
+354
+00:22:20,739 --> 00:22:24,402
+Bendito Señor,
+por favor concédenos Tu...
+
+355
+00:22:42,294 --> 00:22:44,592
+...que nos brindaste...
+
+356
+00:22:46,765 --> 00:22:48,494
+¿Qué están haciendo?
+
+357
+00:22:53,372 --> 00:22:57,172
+Hola, soy el líder
+de Niños Exploradores, David Poe...
+
+358
+00:22:57,242 --> 00:22:59,301
+...y hoy van a aprender
+sobre un arte antiguo...
+
+359
+00:22:59,378 --> 00:23:01,437
+...llamado manipulación de cerraduras.
+
+360
+00:23:01,513 --> 00:23:05,005
+No lo encontrarán en el manual,
+pero aquí sí lo encontrarán. Vamos.
+
+361
+00:23:05,083 --> 00:23:08,382
+¿De acuerdo? ¿Horquilla?
+
+362
+00:23:13,258 --> 00:23:17,592
+La tengo. Bien, Jack, lo primero
+que debes hacer: Abrir la horquilla...
+
+363
+00:23:17,662 --> 00:23:19,960
+...quitarle la goma que la recubre...
+
+364
+00:23:21,867 --> 00:23:23,494
+...introducirla en la cerradura así.
+
+365
+00:23:24,870 --> 00:23:28,237
+Bien, haces tres círculos en sentido
+contrario a las agujas del reloj...
+
+366
+00:23:28,306 --> 00:23:30,297
+...hasta que sientas... que hace así.
+
+367
+00:23:32,644 --> 00:23:34,305
+Eso es.
+
+368
+00:23:37,783 --> 00:23:40,149
+Y abrimos la cerradura.
+
+369
+00:23:40,218 --> 00:23:42,083
+Lo deslizas hacia la izquierda.
+
+370
+00:23:45,290 --> 00:23:47,451
+Bien, éste es el nudo de bolina
+con una sola mano.
+
+371
+00:23:47,526 --> 00:23:50,120
+Es un nudo muy importante,
+quizás el nudo más esencial.
+
+372
+00:23:50,195 --> 00:23:51,753
+No puedes zafarte ni desatarlo...
+
+373
+00:23:51,830 --> 00:23:54,560
+...a menos, claro, que quieras desatarlo
+y tengas dos manos.
+
+374
+00:23:54,633 --> 00:23:57,067
+Te mostraré cómo hacerlo
+con una mano. ¿Listo?
+
+375
+00:23:57,135 --> 00:24:00,536
+Haces así... alrededor del árbol.
+
+376
+00:24:06,178 --> 00:24:09,614
+Y esto es un nudo de bolina,
+¿de acuerdo?
+
+377
+00:24:09,681 --> 00:24:12,411
+Quiero que hagas uno.
+Aguarda un segundo.
+
+378
+00:24:13,752 --> 00:24:17,051
+Emily, ¿estás mirando?
+
+379
+00:24:17,122 --> 00:24:20,057
+Mira eso. Allí está él.
+
+380
+00:24:20,125 --> 00:24:21,717
+Allí está el viejo Nikolai.
+
+381
+00:24:35,841 --> 00:24:38,605
+Perfecto.
+
+382
+00:24:38,677 --> 00:24:40,542
+El de papá...
+
+383
+00:24:40,612 --> 00:24:43,103
+...el de Jack.
+
+384
+00:24:43,181 --> 00:24:45,581
+Perfecto.
+
+385
+00:24:45,650 --> 00:24:47,618
+¿Viste eso?
+
+386
+00:24:47,686 --> 00:24:50,211
+Emily, te toca a ti. ¿Estás lista?
+
+387
+00:25:03,134 --> 00:25:06,399
+Traigo helado para todos.
+Vamos todos a tomar hela...
+
+388
+00:25:06,471 --> 00:25:08,701
+Una manito.
+
+389
+00:25:08,773 --> 00:25:11,571
+Pensé que irías a correr.
+
+390
+00:25:11,643 --> 00:25:14,510
+Lo hice. Unos cinco kilómetros.
+
+391
+00:25:14,579 --> 00:25:17,912
+Estaba en medio del bosque...
+
+392
+00:25:17,983 --> 00:25:19,917
+...y giré donde suelo...
+
+393
+00:25:19,985 --> 00:25:22,180
+...hay una ensenada allí...
+
+394
+00:25:22,254 --> 00:25:25,951
+...y a lo lejos oí música.
+
+395
+00:25:26,024 --> 00:25:28,788
+Y era extraña,
+pero me resultaba conocida...
+
+396
+00:25:28,860 --> 00:25:32,956
+...entonces me acerqué un poco más
+y vi un camión...
+
+397
+00:25:33,031 --> 00:25:36,296
+...un camión de helados.
+Y le hice señas para llamarlo.
+
+398
+00:25:36,368 --> 00:25:39,633
+Estaba viniendo hacia mí y dije:
+"Oye, amigo, tienes la música...
+
+399
+00:25:39,704 --> 00:25:41,831
+...un poco fuerte...
+
+400
+00:25:41,907 --> 00:25:43,670
+...para las 7:00 de la mañana.
+
+401
+00:25:43,742 --> 00:25:46,575
+¿Te molestaría bajarla un poco?"
+El dijo: "No hay problema".
+
+402
+00:25:46,645 --> 00:25:49,546
+Un sujeto agradable,
+y me dio dos conos de helado.
+
+403
+00:25:49,614 --> 00:25:51,138
+¿Qué tal?
+
+404
+00:25:51,216 --> 00:25:53,980
+Sé que no suelen comer helado
+antes de ir a la escuela...
+
+405
+00:25:54,052 --> 00:25:55,713
+...pero hoy es la excepción.
+
+406
+00:25:55,787 --> 00:25:58,153
+Nuestros hijos no se merecen
+helado ahora.
+
+407
+00:25:58,223 --> 00:26:00,657
+Se merecen un sermón de su papá...
+
+408
+00:26:00,725 --> 00:26:02,625
+...porque lo que hicieron estuvo mal.
+
+409
+00:26:02,694 --> 00:26:05,424
+Tienes razón.
+Estuve pensando en eso.
+
+410
+00:26:05,497 --> 00:26:08,057
+Esto es lo que pensé.
+
+411
+00:26:08,133 --> 00:26:10,624
+¿Por qué no hacemos una película?
+
+412
+00:26:10,702 --> 00:26:13,569
+¿Pasamos más tiempo en familia?
+
+413
+00:26:13,705 --> 00:26:16,071
+FELICES FIESTAS
+
+414
+00:26:19,277 --> 00:26:22,212
+John, Paul...
+
+415
+00:26:22,280 --> 00:26:24,680
+...y George.
+
+416
+00:26:24,749 --> 00:26:27,274
+Lo siento, Ringo. Vamos, chicos.
+
+417
+00:26:27,352 --> 00:26:31,584
+Hay bonitos arbolitos de Navidad
+aguardando que les clavemos un hacha.
+
+418
+00:26:31,656 --> 00:26:34,557
+Eso es.
+# Hace frío #
+
+419
+00:26:34,626 --> 00:26:37,026
+# Ponte la bufanda... #
+Por favor.
+
+420
+00:26:37,095 --> 00:26:39,086
+¿Quién te ama?
+
+421
+00:26:39,164 --> 00:26:41,928
+¿Me amas? ¿Sí?
+
+422
+00:26:44,436 --> 00:26:49,203
+# Duerme en paz celestial... #
+
+423
+00:27:04,155 --> 00:27:07,318
+- ¿Qué están diciendo?
+- Hacen lo mismo de siempre.
+
+424
+00:27:07,392 --> 00:27:10,452
+No me gusta eso.
+Es como su propio idioma.
+
+425
+00:27:13,031 --> 00:27:14,896
+Ya basta, ¿de acuerdo?
+
+426
+00:27:14,966 --> 00:27:17,264
+¿Me pueden mostrar sus dibujos?
+
+427
+00:27:18,603 --> 00:27:20,594
+Chicos, no son buenos los secretos.
+
+428
+00:27:20,672 --> 00:27:22,606
+Cariño, los secretos son esenciales.
+
+429
+00:27:22,674 --> 00:27:25,837
+Nuestros hijos trabajan para
+el operativo de la CIA en Honduras.
+
+430
+00:27:27,612 --> 00:27:28,670
+¿Dónde doblo?
+
+431
+00:27:28,747 --> 00:27:31,079
+No lo sé, dobla en una de ésas.
+
+432
+00:27:31,149 --> 00:27:33,117
+- ¿No debería haber una señal?
+- No lo sé.
+
+433
+00:27:33,184 --> 00:27:34,549
+Vivimos en el medio del bosque...
+
+434
+00:27:34,619 --> 00:27:36,985
+...no necesitamos una señal que
+nos indique dónde están los árboles.
+
+435
+00:27:37,055 --> 00:27:38,317
+Bien, me acabo de echarme uno.
+
+436
+00:27:38,390 --> 00:27:39,755
+ARBOLES
+
+437
+00:27:39,824 --> 00:27:41,951
+Oigan, oigan, no corran con la sierra.
+
+438
+00:27:42,027 --> 00:27:44,291
+Granja de árboles de Navidad.
+
+439
+00:27:44,362 --> 00:27:48,594
+- ¿Cómo le das una sierra a Jack?
+- Arboles de todos los tamaños.
+
+440
+00:27:48,667 --> 00:27:51,659
+Yo tuve una sierra. Mi papá
+me dejó cuando tenía 10 años.
+
+441
+00:27:51,736 --> 00:27:54,569
+- Es como un signo de madurez.
+- Es peligroso.
+
+442
+00:27:54,639 --> 00:27:56,800
+Oye, ¿qué tal éste?
+
+443
+00:27:58,243 --> 00:28:01,235
+Ese árbol es como anoréxico.
+
+444
+00:28:01,312 --> 00:28:03,906
+- Eres pastor.
+- "American Idol", cuidado.
+
+445
+00:28:05,417 --> 00:28:09,683
+# La primera Navidad #
+
+446
+00:28:09,754 --> 00:28:12,882
+# Un coro se oyó... #
+
+447
+00:28:12,957 --> 00:28:14,982
+Eso es atemorizador.
+
+448
+00:28:18,196 --> 00:28:23,031
+# Tú eres mi todo. #
+
+449
+00:28:32,077 --> 00:28:34,102
+"Y dijo Caín...
+
+450
+00:28:34,179 --> 00:28:37,979
+Y dijo Caín a su hermano Abel:
+"Salgamos al campo".
+
+451
+00:28:38,049 --> 00:28:41,541
+Y aconteció que estando ellos
+en el campo, Caín se levantó...
+
+452
+00:28:41,619 --> 00:28:44,918
+...contra su hermano Abel y lo mató.
+
+453
+00:28:44,989 --> 00:28:48,652
+Y el Señor dijo a Caín:
+
+454
+00:28:48,727 --> 00:28:51,696
+"¿Dónde está Abel tu hermano?"
+
+455
+00:28:51,763 --> 00:28:54,732
+Y él respondió: "No sé.
+¿Soy yo acaso guarda de mi hermano?"
+
+456
+00:28:54,799 --> 00:28:57,029
+Y el Señor le dijo: "¿Qué has hecho?"
+
+457
+00:28:58,470 --> 00:29:00,563
+"Así que...
+
+458
+00:29:00,638 --> 00:29:04,267
+...así que... así que...
+así que esta Navidad...
+
+459
+00:29:07,846 --> 00:29:10,371
+...no nos limitemos a abrir regalos.
+
+460
+00:29:10,448 --> 00:29:12,382
+Porque somos...
+
+461
+00:29:12,450 --> 00:29:14,782
+...todos somos...
+guardas de nuestro hermano.
+
+462
+00:29:18,590 --> 00:29:21,184
+Sigamos los pasos de Jesús.
+
+463
+00:29:21,259 --> 00:29:23,557
+Luchemos...
+
+464
+00:29:23,628 --> 00:29:27,064
+Luchemos contra el mal
+día tras día porque entonces...
+
+465
+00:29:27,132 --> 00:29:29,657
+...y sólo entonces...
+
+466
+00:29:29,734 --> 00:29:31,759
+...podremos llamarnos cristianos...
+
+467
+00:29:31,836 --> 00:29:35,704
+...dignos a los ojos del Señor".
+
+468
+00:29:37,509 --> 00:29:40,342
+Nadie quiere escuchar
+esta porquería en Nochebuena.
+
+469
+00:29:40,411 --> 00:29:43,244
+Eres pésimo.
+
+470
+00:29:47,285 --> 00:29:49,845
+Eres realmente...
+
+471
+00:29:49,921 --> 00:29:52,685
+...muy muy malo.
+
+472
+00:29:57,395 --> 00:29:58,919
+Eres pésimo.
+
+473
+00:30:01,466 --> 00:30:05,425
+Vaya. Hermoso. Lo lograste.
+
+474
+00:30:05,503 --> 00:30:08,165
+- ¿Tenemos conexión?
+- Tenemos conexión.
+
+475
+00:30:08,239 --> 00:30:11,003
+- Dime, Santa.
+- Lo que sea, niñita.
+
+476
+00:30:11,075 --> 00:30:13,839
+¿Cuál es el secreto
+para mantener así tus glúteos?
+
+477
+00:30:13,912 --> 00:30:16,073
+Santa usa el Stairmaster, cariño.
+
+478
+00:30:16,147 --> 00:30:17,910
+Qué bien, me gusta.
+
+479
+00:30:19,184 --> 00:30:22,312
+No hay regalos para ti.
+
+480
+00:30:26,157 --> 00:30:28,955
+Vamos, niños. Levántense.
+
+481
+00:30:29,027 --> 00:30:31,825
+Es una Navidad gastrointestinal.
+
+482
+00:30:31,896 --> 00:30:34,990
+Están todos invitados a participar.
+
+483
+00:30:35,066 --> 00:30:37,728
+¿Trajiste tu cojín flatulento?
+
+484
+00:30:37,802 --> 00:30:40,202
+Bien, chicos,
+¿quién está listo para Navidad?
+
+485
+00:30:40,271 --> 00:30:43,468
+- Bien, es la hora de la Navidad.
+- Sí.
+
+486
+00:30:43,541 --> 00:30:45,441
+¿Qué tenemos por aquí?
+
+487
+00:30:45,510 --> 00:30:47,137
+- ¿Qué es esto?
+- Regalos.
+
+488
+00:30:47,212 --> 00:30:50,238
+Ábranlos. Vamos a ver qué tenemos.
+
+489
+00:30:52,750 --> 00:30:54,149
+Dios mío.
+
+490
+00:30:57,555 --> 00:30:59,955
+# No puedo detenerlo,
+no puedo detenerlo #
+
+491
+00:31:00,024 --> 00:31:02,322
+# No puedo detenerlo, no puedo #
+
+492
+00:31:02,393 --> 00:31:04,054
+# Detenerlo #
+
+493
+00:31:04,128 --> 00:31:05,857
+# Tengo regalos #
+
+494
+00:31:05,930 --> 00:31:08,023
+# Tantos regalos #
+
+495
+00:31:13,605 --> 00:31:15,368
+La pistola de agua.
+
+496
+00:31:16,641 --> 00:31:20,168
+¿Qué tal estuvo eso?
+
+497
+00:31:20,245 --> 00:31:23,078
+- No es justo.
+- ¿Qué?
+
+498
+00:31:23,147 --> 00:31:27,049
+Jack Mathias Poe,
+baja esa pistola de agua ya mismo.
+
+499
+00:31:27,118 --> 00:31:29,382
+Ya mismo, en este preciso instante.
+
+500
+00:31:29,454 --> 00:31:31,115
+Oye, oye, oye... dentro de la casa no.
+
+501
+00:31:31,189 --> 00:31:33,851
+Dentro de la casa no.
+
+502
+00:31:33,925 --> 00:31:36,257
+Comenzó el juego.
+
+503
+00:31:36,327 --> 00:31:38,591
+Vamos, vamos, vamos.
+
+504
+00:31:38,663 --> 00:31:41,860
+- Comenzó el juego.
+- Bien, oye... no traigas la cámara.
+
+505
+00:31:48,006 --> 00:31:49,837
+Aquí no.
+
+506
+00:32:08,259 --> 00:32:12,286
+Ayer por la mañana,
+el 25 de diciembre...
+
+507
+00:32:13,698 --> 00:32:15,529
+Navidad...
+
+508
+00:32:17,168 --> 00:32:19,398
+Jack y Emily crucificaron
+al gato de la familia.
+
+509
+00:32:25,610 --> 00:32:28,078
+Mis hijos necesitan atención médica.
+
+510
+00:32:28,146 --> 00:32:32,207
+Como médica, como su madre, es...
+
+511
+00:32:38,790 --> 00:32:41,088
+Mis hijos necesitan atención médica.
+
+512
+00:32:41,159 --> 00:32:44,390
+CUARTO DE JACK Y EMILY
+Sujetos: Jack y Emily Poe, 10 años.
+
+513
+00:32:44,462 --> 00:32:47,124
+Fecha de nacimiento:
+31 de octubre de 1997.
+
+514
+00:32:47,198 --> 00:32:48,927
+Ningún trauma prenatal...
+
+515
+00:32:49,000 --> 00:32:52,492
+...ni epilepsia del lóbulo temporal,
+ni daño amigdalino.
+
+516
+00:32:52,570 --> 00:32:55,596
+El síndrome de Asperger
+es posible, pero improbable.
+
+517
+00:32:55,673 --> 00:33:00,440
+La intención maliciosa está dentro de
+la categoría de trastorno de conducta...
+
+518
+00:33:00,511 --> 00:33:05,380
+...un precursor del TPA en adultos,
+o trastorno de personalidad antisocial.
+
+519
+00:33:05,450 --> 00:33:08,817
+Se deberá realizar la prueba MMPI
+o la escala PCL-R
+
+520
+00:33:08,886 --> 00:33:12,686
+...para evaluar el ámbito y la extensión
+de la psicopatología de Jack y Emily...
+
+521
+00:33:12,757 --> 00:33:15,282
+...el ámbito y la extensión de...
+
+522
+00:33:15,360 --> 00:33:17,260
+...su maldad.
+
+523
+00:33:17,328 --> 00:33:19,853
+VISPERA DE FIN DE AÑO
+
+524
+00:33:23,568 --> 00:33:26,230
+Bienvenidos a otra noche
+de Fin de Año...
+
+525
+00:33:26,304 --> 00:33:28,363
+...la primera aquí en la casa Poe.
+
+526
+00:33:28,439 --> 00:33:31,101
+Vamos a recibir un año de prosperidad...
+
+527
+00:33:31,175 --> 00:33:34,167
+...amor y un saludable trago...
+
+528
+00:33:34,245 --> 00:33:37,408
+...que tengo en la mano
+desde las 5:00 de la tarde.
+
+529
+00:33:45,523 --> 00:33:47,354
+Indios.
+
+530
+00:34:06,110 --> 00:34:07,907
+Dios mío.
+
+531
+00:34:07,979 --> 00:34:10,311
+David, me estoy sonando la nariz.
+
+532
+00:34:10,381 --> 00:34:12,406
+- Cielos.
+- Hola, cariño.
+
+533
+00:34:12,483 --> 00:34:15,111
+- ¿Lista?
+- ¿Te importa?
+
+534
+00:34:15,186 --> 00:34:17,518
+- Para nada.
+- Santo Dios.
+
+535
+00:34:19,490 --> 00:34:22,118
+Hola. ¿Puedes dejar la cámara ya?
+
+536
+00:34:22,193 --> 00:34:24,161
+- Salud.
+- Salud.
+
+537
+00:34:24,228 --> 00:34:26,594
+Feliz año nuevo.
+
+538
+00:34:27,732 --> 00:34:29,529
+¿Estás lista?
+
+539
+00:34:34,505 --> 00:34:37,770
+- Cielos.
+- No. Yo sólo...
+
+540
+00:34:37,842 --> 00:34:40,208
+Estoy pensando que...
+
+541
+00:34:40,278 --> 00:34:44,408
+...quizás no deberíamos salir
+esta noche.
+
+542
+00:34:44,482 --> 00:34:46,211
+¿Sabes?
+
+543
+00:34:46,284 --> 00:34:48,218
+Los niños... Cielos, detente.
+
+544
+00:34:48,286 --> 00:34:50,811
+Los niños están bien.
+Están bien. Además, Madre...
+
+545
+00:34:50,888 --> 00:34:53,482
+...te mereces salir una noche.
+
+546
+00:34:53,558 --> 00:34:56,618
+Sí, pero nosotros... nunca salimos.
+
+547
+00:34:56,694 --> 00:34:59,424
+Ese es el punto.
+Exactamente por eso deberíamos salir.
+
+548
+00:34:59,497 --> 00:35:02,057
+Vamos.
+
+549
+00:35:02,133 --> 00:35:05,500
+Vamos a salir. Iremos a los lugares
+que solíamos frecuentar.
+
+550
+00:35:05,570 --> 00:35:07,367
+Iremos a la ciudad,
+la haremos pedazos...
+
+551
+00:35:07,438 --> 00:35:10,271
+...nos divertiremos,
+nos encontraremos con viejos amigos.
+
+552
+00:35:10,341 --> 00:35:12,434
+Sólo por una noche.
+
+553
+00:35:12,510 --> 00:35:14,501
+Bien.
+
+554
+00:35:14,579 --> 00:35:17,548
+¿Ya llegó la niñera?
+
+555
+00:35:19,317 --> 00:35:21,285
+Bien, quizás deberíamos llamarla,
+¿de acuerdo?
+
+556
+00:35:21,352 --> 00:35:22,751
+Bien.
+
+557
+00:35:23,788 --> 00:35:26,279
+Lo siento.
+
+558
+00:35:26,357 --> 00:35:28,257
+¿Cuánto bebiste?
+
+559
+00:35:29,627 --> 00:35:31,595
+Nada.
+
+560
+00:35:31,662 --> 00:35:34,187
+Casi nada de nada.
+Prácticamente nada.
+
+561
+00:35:36,968 --> 00:35:39,766
+- Ya sabes lo que pasa.
+- Sí, lo sé...
+
+562
+00:35:39,837 --> 00:35:42,067
+...y no quiero eso.
+
+563
+00:35:42,140 --> 00:35:44,267
+Esa será mi resolución de Año Nuevo.
+
+564
+00:35:44,342 --> 00:35:47,243
+¿Qué?
+
+565
+00:35:49,814 --> 00:35:52,476
+Bien, ¿cuál será la tuya?
+¿Cuál es tu resolución?
+
+566
+00:35:52,550 --> 00:35:55,075
+Secreto.
+
+567
+00:35:56,888 --> 00:35:59,914
+Los secretos son geniales.
+Eso es lo que tenemos aquí, ¿no?
+
+568
+00:35:59,991 --> 00:36:02,255
+Sí, bien.
+
+569
+00:36:07,031 --> 00:36:09,693
+Por eso no quieres ir a la ciudad,
+¿verdad?
+
+570
+00:36:09,767 --> 00:36:12,327
+Porque no quieres ver a la gente
+a la que conocíamos.
+
+571
+00:36:12,403 --> 00:36:15,839
+Porque pueden hacer
+esa pregunta inevitable:
+
+572
+00:36:15,907 --> 00:36:19,900
+"David, Clare, ¿cómo están los niños?"
+
+573
+00:36:26,751 --> 00:36:28,651
+¿Puedes apagar la cámara, por favor?
+
+574
+00:36:28,719 --> 00:36:30,983
+Claro, ¿por qué no la apagas tú?
+
+575
+00:36:34,292 --> 00:36:37,728
+Di tu resolución de Año Nuevo
+frente a la cámara...
+
+576
+00:36:37,795 --> 00:36:39,990
+...y luego puedes apagarla.
+
+577
+00:36:41,265 --> 00:36:43,130
+Vamos, yo dije la mía.
+
+578
+00:36:43,201 --> 00:36:45,135
+Prometo que no la miraré.
+
+579
+00:36:45,203 --> 00:36:48,297
+Deberías apagar la cámara.
+Se va a quedar sin batería.
+
+580
+00:37:03,154 --> 00:37:05,714
+No hablaré frente a la cámara.
+
+581
+00:37:18,202 --> 00:37:20,466
+Hola.
+
+582
+00:37:23,841 --> 00:37:26,503
+Para ti.
+
+583
+00:37:26,577 --> 00:37:28,010
+Talán, talán.
+
+584
+00:37:40,091 --> 00:37:42,321
+Sí, voy a fumar.
+
+585
+00:37:46,397 --> 00:37:48,558
+Resolución de Año Nuevo.
+
+586
+00:37:48,633 --> 00:37:50,658
+Aquí vamos.
+
+587
+00:37:50,735 --> 00:37:53,761
+Resuelvo...
+
+588
+00:37:56,307 --> 00:37:58,741
+Resuelvo...
+
+589
+00:38:00,811 --> 00:38:02,802
+...no dejar de fumar.
+
+590
+00:38:12,690 --> 00:38:15,420
+Quiero...
+
+591
+00:38:17,328 --> 00:38:20,820
+Quiero que esta familia sea...
+
+592
+00:38:20,898 --> 00:38:24,561
+...la familia que...
+
+593
+00:38:24,635 --> 00:38:27,433
+...pensé que sería...
+
+594
+00:38:27,505 --> 00:38:31,202
+...cuando pensé en formar una familia...
+
+595
+00:38:31,275 --> 00:38:34,938
+...porque... ésta no lo es.
+
+596
+00:38:39,583 --> 00:38:41,050
+Es...
+
+597
+00:38:42,353 --> 00:38:44,821
+Siento que no conozco
+a estas personas.
+
+598
+00:38:51,462 --> 00:38:53,896
+Hay extraños en mi casa.
+
+599
+00:38:56,600 --> 00:39:00,127
+Mamá, ayúdame.
+
+600
+00:39:03,374 --> 00:39:04,898
+¿Qué están haciendo?
+
+601
+00:39:06,477 --> 00:39:10,004
+Dios mío. ¿Qué es esto?
+
+602
+00:39:10,081 --> 00:39:12,515
+- Yo no fui.
+- Bien, es...
+
+603
+00:39:12,583 --> 00:39:15,347
+¿Se estuvieron lastimando con papi?
+
+604
+00:39:15,419 --> 00:39:17,353
+- ¿Quién los lastimó? ¿Papi los...?
+- Bien...
+
+605
+00:39:17,421 --> 00:39:18,718
+Cállate, David.
+
+606
+00:39:18,789 --> 00:39:21,121
+¿Quién los lastimó?
+¿Papi los mordió?
+
+607
+00:39:21,192 --> 00:39:23,888
+- ¿Quién los mordió?
+- El hombre.
+
+608
+00:39:23,961 --> 00:39:26,259
+- ¿Qué hombre?
+- El hombre del armario.
+
+609
+00:39:38,209 --> 00:39:42,236
+1ro. De enero de 2007
+
+610
+00:39:42,313 --> 00:39:45,282
+4:06 AM.
+
+611
+00:39:48,119 --> 00:39:51,179
+Múltiples marcas
+de mordeduras halladas...
+
+612
+00:39:51,255 --> 00:39:55,555
+...en el torso y los brazos
+de Jack y Emily.
+
+613
+00:39:57,695 --> 00:39:59,509
+Las mordeduras son tan profundas
+que dejaron...
+
+614
+00:39:59,510 --> 00:40:01,324
+...por llamarlo de algún modo...
+
+615
+00:40:01,399 --> 00:40:03,959
+...cráteres en su piel.
+
+616
+00:40:07,671 --> 00:40:10,970
+Vale la pena hablar,
+a fin de revelar toda la información...
+
+617
+00:40:11,041 --> 00:40:13,669
+...un poco del pasado
+cuando se trata de mi esposo.
+
+618
+00:40:13,744 --> 00:40:16,713
+De niño, abusaron de David.
+
+619
+00:40:16,781 --> 00:40:19,443
+Los niños que sufrieron abusos,
+como lo demostró Piaget...
+
+620
+00:40:19,517 --> 00:40:22,782
+...de adultos tienen predisposición
+a abusar de sus propios hijos.
+
+621
+00:40:22,853 --> 00:40:27,119
+Sólo sé que hay...
+
+622
+00:40:27,191 --> 00:40:29,785
+...mucho que no sé sobre mi esposo.
+
+623
+00:40:29,860 --> 00:40:32,829
+Sé que bebe más de lo que debería,
+y cuando él...
+
+624
+00:40:38,869 --> 00:40:42,270
+Esto es engañoso.
+
+625
+00:40:42,339 --> 00:40:45,103
+Los niños tienen
+imaginación hiperactiva.
+
+626
+00:40:45,176 --> 00:40:47,610
+El hombre del armario no es real...
+
+627
+00:40:47,678 --> 00:40:50,579
+...pero las marcas de mordeduras sí.
+
+628
+00:40:52,817 --> 00:40:55,149
+¿Quién estuvo mordiendo a mis hijos?
+
+629
+00:40:57,188 --> 00:40:59,019
+FELIZ DIA DE SAN VALENTIN
+
+630
+00:41:05,463 --> 00:41:07,795
+Estás hermosa.
+
+631
+00:41:07,865 --> 00:41:10,231
+Te ves alterada.
+
+632
+00:41:12,536 --> 00:41:15,596
+Sorpresa.
+Feliz día de San Valentín, cariño.
+
+633
+00:41:15,673 --> 00:41:18,164
+- ¿Qué tal Filadelfia?
+- Llevaré a los niños a lo de mi mamá.
+
+634
+00:41:18,242 --> 00:41:19,834
+- ¿Que harás qué?
+- Si quieres tener...
+
+635
+00:41:19,910 --> 00:41:22,743
+...una conversación normal
+como dos personas adultas normales...
+
+636
+00:41:22,813 --> 00:41:24,611
+...con gusto lo haría,
+pero no haré esto.
+
+637
+00:41:24,612 --> 00:41:26,010
+Nuestros hijos no son normales.
+
+638
+00:41:26,083 --> 00:41:27,778
+No podemos mudarnos
+al medio de la nada...
+
+639
+00:41:27,852 --> 00:41:30,548
+...criarlos en este mundo
+de Norman Rockwell, esperar que todo...
+
+640
+00:41:30,621 --> 00:41:33,886
+- ...no cambió nada. No funcionó.
+- ¿Qué quieres decir?
+
+641
+00:41:33,958 --> 00:41:37,052
+Quiero decir que hay algo malo
+en esta casa y no soy yo.
+
+642
+00:41:37,127 --> 00:41:40,585
+Nuestros hijos se portan mal
+porque a ellos mismos los trataron mal.
+
+643
+00:41:40,664 --> 00:41:43,292
+Es causa y efecto,
+sintomático de un problema mayor.
+
+644
+00:41:43,367 --> 00:41:45,801
+No puedo creer que seas psicóloga.
+No lo puedo creer.
+
+645
+00:41:45,870 --> 00:41:47,633
+Ni siquiera sabes que tus propios hijos
+son psicóticos.
+
+646
+00:41:47,705 --> 00:41:49,138
+Nuestros hijos no son psicóticos.
+
+647
+00:41:49,206 --> 00:41:52,607
+Crucificaron al maldito gato. ¿Bien?
+Pusieron peces en un emparedado.
+
+648
+00:41:52,676 --> 00:41:55,975
+Pusieron a la rana en un alicate
+de presión. Los vi comer carne cruda.
+
+649
+00:41:56,046 --> 00:41:58,742
+La rebeldía lógica de dos niños
+víctimas de abusos.
+
+650
+00:41:58,816 --> 00:42:02,115
+Dilo frente a la cámara.
+Di que abusé de nuestros hijos.
+
+651
+00:42:02,186 --> 00:42:05,178
+- Dímelo en la cara.
+- No es...
+
+652
+00:42:05,256 --> 00:42:08,657
+- Adelante.
+- No lo diré frente a la cámara.
+
+653
+00:42:08,726 --> 00:42:10,785
+De acuerdo, dímelo a mí.
+
+654
+00:42:10,861 --> 00:42:13,659
+Adelante, di que abusé
+de nuestros hijos.
+
+655
+00:42:13,731 --> 00:42:16,256
+No eres tú. Es la maldita cámara.
+
+656
+00:42:16,333 --> 00:42:18,893
+Llevaré a los niños a lo de mi mamá.
+
+657
+00:42:18,969 --> 00:42:20,664
+No, no lo harás, Clare.
+
+658
+00:42:20,738 --> 00:42:23,138
+Tenían el cuerpo lleno
+de marcas de mordeduras.
+
+659
+00:42:23,207 --> 00:42:26,301
+- Yo no fui.
+- ¿Quién fue, el hombre del armario?
+
+660
+00:42:33,751 --> 00:42:36,185
+14 de febrero, 1:45 PM.
+
+661
+00:42:38,722 --> 00:42:42,385
+Mientras que el alumnado
+de St. Walter's asistía...
+
+662
+00:42:42,459 --> 00:42:46,395
+...a una reunión de San Valentín
+en la cafetería...
+
+663
+00:42:48,465 --> 00:42:50,899
+...Jack y Emily acorralaron a un niño...
+
+664
+00:42:50,968 --> 00:42:54,734
+...Christian McNamara, nueve años...
+
+665
+00:42:54,805 --> 00:42:59,572
+...un grado inferior al de ellos,
+y lo metieron en el baño de varones.
+
+666
+00:42:59,643 --> 00:43:03,272
+Una vez que entraron,
+ellos trabaron la puerta...
+
+667
+00:43:03,347 --> 00:43:07,408
+...y comenzaron a morderlo
+repetidamente.
+
+668
+00:43:09,587 --> 00:43:11,817
+Y nada los detenía.
+
+669
+00:43:13,390 --> 00:43:16,518
+El niño está bien,
+desde el punto de vista médico...
+
+670
+00:43:18,228 --> 00:43:20,822
+...pero a Jack y a Emily los expulsaron.
+
+671
+00:43:20,898 --> 00:43:22,832
+Ahora me queda claro que nadie...
+
+672
+00:43:22,900 --> 00:43:25,733
+...mordió a Jack y a Emily.
+
+673
+00:43:27,037 --> 00:43:29,870
+Jack y Emily se mordieron
+el uno al otro.
+
+674
+00:43:34,411 --> 00:43:36,379
+Esto debe terminar.
+
+675
+00:43:43,454 --> 00:43:45,115
+¿Emily?
+
+676
+00:43:48,092 --> 00:43:49,650
+¿Emmy?
+
+677
+00:43:54,064 --> 00:43:56,294
+¿Emily?
+
+678
+00:43:57,368 --> 00:43:59,393
+Hola, cariño.
+
+679
+00:43:59,470 --> 00:44:01,836
+La persiana está cerrada.
+
+680
+00:44:17,388 --> 00:44:20,255
+¿Estás lista para hablarme
+de lo que pasó?
+
+681
+00:44:21,458 --> 00:44:23,517
+Porque yo estoy listo para escuchar.
+
+682
+00:44:41,712 --> 00:44:44,476
+¿Por qué lastimaste
+a Christian McNamara?
+
+683
+00:44:46,684 --> 00:44:49,414
+Porque realmente lo lastimaste, sabes.
+
+684
+00:44:52,056 --> 00:44:54,991
+Dijeron que después de que
+lo mordiste, él estaba sangrando.
+
+685
+00:44:55,059 --> 00:44:57,459
+Le rompiste la piel, pero seguiste...
+
+686
+00:45:05,102 --> 00:45:07,127
+¿Por qué lo seguiste mordiendo?
+
+687
+00:45:22,986 --> 00:45:26,547
+Esta imagen, este dibujo
+que hicieron Jack y tú...
+
+688
+00:45:29,193 --> 00:45:32,560
+...parece que lo tenían todo planeado.
+
+689
+00:45:32,629 --> 00:45:36,190
+Iban a llevarlo al baño
+y trabarían la puerta, ¿no?
+
+690
+00:45:38,569 --> 00:45:41,697
+Bien, cariño, en los tribunales,
+eso se llama premeditado.
+
+691
+00:45:47,511 --> 00:45:49,945
+¿Por qué lo lastimaste?
+
+692
+00:45:58,388 --> 00:46:00,515
+Cariño, ¿viste cómo...
+
+693
+00:46:00,591 --> 00:46:02,855
+...viste cómo en la iglesia...
+
+694
+00:46:02,926 --> 00:46:06,157
+...digo que por cada buena acción
+de Dios...
+
+695
+00:46:06,230 --> 00:46:09,791
+...hay una maldad de Satanás?
+
+696
+00:46:09,867 --> 00:46:13,564
+Bien, así como hay ángeles
+en la Tierra...
+
+697
+00:46:13,637 --> 00:46:16,697
+...también hay demonios
+y pueden ir a cualquier lado.
+
+698
+00:46:20,611 --> 00:46:23,239
+¿Crees que hay criaturas malvadas
+en esta casa?
+
+699
+00:46:34,792 --> 00:46:36,851
+¿Quién es el hombre del armario?
+
+700
+00:46:40,697 --> 00:46:43,996
+¿Emily? Necesito hablar con tu papá...
+
+701
+00:46:44,067 --> 00:46:47,127
+...¿puedes bajar? Y, por favor,
+no entres al cuarto de Jack.
+
+702
+00:46:47,204 --> 00:46:49,138
+Ya mismo.
+
+703
+00:46:49,206 --> 00:46:51,367
+Gracias.
+
+704
+00:46:53,610 --> 00:46:55,908
+Me llevo la cámara.
+
+705
+00:46:55,979 --> 00:46:58,243
+Así tú puedes filmar a los niños,
+pero yo no...
+
+706
+00:46:58,315 --> 00:47:00,613
+...¿eso quieres? Es una cámara
+de la familia, sabes.
+
+707
+00:47:00,684 --> 00:47:02,709
+No es tuya.
+
+708
+00:47:04,822 --> 00:47:07,120
+La uso para mi trabajo.
+Jack es mi trabajo.
+
+709
+00:47:07,191 --> 00:47:09,182
+Jack es tu hijo.
+
+710
+00:47:10,794 --> 00:47:12,591
+De acuerdo, Jack...
+
+711
+00:47:12,663 --> 00:47:16,463
+...ahora haremos lo que se llama
+el test de Rorschach, ¿bien?
+
+712
+00:47:17,935 --> 00:47:20,403
+Sólo tienes que mirar las imágenes.
+
+713
+00:47:25,242 --> 00:47:27,642
+Dime lo que ves.
+
+714
+00:47:31,648 --> 00:47:35,209
+Tranquilo, Jack, mami
+no se va a enojar, ¿de acuerdo?
+
+715
+00:47:37,221 --> 00:47:39,815
+Sólo tienes que mirar las imágenes.
+
+716
+00:47:39,890 --> 00:47:43,189
+Sólo dime lo que ves.
+
+717
+00:47:49,466 --> 00:47:52,902
+Bien, ahora devuélveme
+las imágenes, Jack.
+
+718
+00:47:52,970 --> 00:47:54,995
+Dame las imágenes.
+
+719
+00:48:16,693 --> 00:48:19,025
+Comenzaré...
+
+720
+00:48:21,064 --> 00:48:24,192
+...un curso de psicofarmacología.
+
+721
+00:48:26,103 --> 00:48:28,071
+10 mg de Clonidine.
+
+722
+00:48:40,083 --> 00:48:43,712
+El exorcismo no existe
+para los luteranos.
+
+723
+00:48:45,756 --> 00:48:49,214
+En realidad, tampoco existe
+en la práctica para los católicos...
+
+724
+00:48:49,293 --> 00:48:52,091
+...o para ningún cristiano en realidad.
+
+725
+00:48:52,162 --> 00:48:53,823
+Amarillo por la mañana...
+
+726
+00:48:53,897 --> 00:48:57,264
+...blanco por la tarde,
+rosa por la noche.
+
+727
+00:48:57,334 --> 00:48:59,495
+Es una práctica que se considera...
+
+728
+00:48:59,569 --> 00:49:00,831
+...arcaica.
+
+729
+00:49:01,071 --> 00:49:04,302
+Nunca tomen
+más de una píldora por vez.
+
+730
+00:49:04,374 --> 00:49:06,103
+¿Entienden?
+
+731
+00:49:06,176 --> 00:49:09,612
+Si lo hacen, su cuerpo entrará
+en lo que llamamos un "coma consciente".
+
+732
+00:49:09,680 --> 00:49:13,013
+De algún modo,
+hoy consideramos más agradable...
+
+733
+00:49:13,083 --> 00:49:16,143
+...reducir los 33 asesinatos
+de John Wayne Gacy...
+
+734
+00:49:16,219 --> 00:49:19,780
+...al hecho de que fue abusado de niño.
+
+735
+00:49:19,856 --> 00:49:22,552
+10 mg de Haldol...
+
+736
+00:49:25,796 --> 00:49:27,889
+10 mg de Vesprin.
+
+737
+00:49:27,965 --> 00:49:30,433
+Tengo noticias para ti...
+
+738
+00:49:34,705 --> 00:49:37,640
+...hay maldad en esta casa.
+
+739
+00:49:43,847 --> 00:49:46,372
+Deja esta casa en manos de Jesucristo.
+
+740
+00:49:53,890 --> 00:49:56,654
+Deja esta casa en manos de Jesucristo.
+
+741
+00:50:02,232 --> 00:50:04,666
+Deja esta casa en manos de Jesucristo.
+
+742
+00:50:04,735 --> 00:50:07,260
+Deja esta casa en manos de Jesucristo.
+
+743
+00:50:19,016 --> 00:50:22,577
+Esta es mi casa. Estos son mis hijos.
+
+744
+00:50:22,652 --> 00:50:26,782
+Deja a mis malditos hijos en paz.
+Vete de mi casa, maldición.
+
+745
+00:50:32,262 --> 00:50:34,355
+Deja esta casa en manos de Jesucristo.
+
+746
+00:50:45,976 --> 00:50:48,240
+Deja esta casa en manos de Jesucristo.
+
+747
+00:50:52,049 --> 00:50:53,482
+No se levanten, no se levanten.
+
+748
+00:51:01,425 --> 00:51:03,052
+"Los hijos del reino...
+
+749
+00:51:03,126 --> 00:51:05,686
+...serán arrojados
+a las tinieblas de afuera...
+
+750
+00:51:05,762 --> 00:51:09,630
+...allí habrá llanto
+y crujir de dientes".
+
+751
+00:51:09,699 --> 00:51:12,031
+Deja esta casa en manos de Jesucristo.
+
+752
+00:51:12,102 --> 00:51:14,434
+- ¿David? ¿David?
+- Deja esta casa en...
+
+753
+00:51:14,504 --> 00:51:17,337
+Vete, vete, vete, vete.
+
+754
+00:51:17,407 --> 00:51:20,035
+Vete, vete.
+
+755
+00:51:20,110 --> 00:51:22,772
+Vete, vete.
+
+756
+00:51:22,846 --> 00:51:26,282
+Vete, vete...
+
+757
+00:51:28,318 --> 00:51:31,014
+Todo está bien, el mal se fue.
+
+758
+00:51:34,224 --> 00:51:37,091
+FELICES PASCUAS
+
+759
+00:51:37,160 --> 00:51:40,220
+8 de abril de 2007.
+
+760
+00:51:40,297 --> 00:51:41,924
+Domingo de Pascua.
+
+761
+00:51:41,998 --> 00:51:44,330
+Pasaron dos meses.
+
+762
+00:51:44,401 --> 00:51:47,131
+Tengo el agrado de informar
+que desde mi último informe...
+
+763
+00:51:47,204 --> 00:51:51,106
+...la conducta antisocial
+de Jack y Emily cesó.
+
+764
+00:51:51,174 --> 00:51:55,201
+El Haldol y el Vesprin no presentan
+efectos colaterales negativos...
+
+765
+00:51:55,278 --> 00:51:58,338
+...lo cual les permite reincorporarse
+a la escuela.
+
+766
+00:51:58,415 --> 00:52:02,112
+Para nuestra sorpresa, se hicieron
+amigos de Christian McNamara...
+
+767
+00:52:02,185 --> 00:52:04,653
+...y lo invitaron a buscar
+huevos de Pascua...
+
+768
+00:52:04,721 --> 00:52:07,986
+...demostrando una vez más
+que no hay niños buenos...
+
+769
+00:52:08,058 --> 00:52:10,219
+...ni hay niños malos...
+
+770
+00:52:10,293 --> 00:52:12,056
+...sólo hay diagnóstico.
+
+771
+00:52:12,129 --> 00:52:15,098
+Y con el diagnóstico, el tratamiento.
+
+772
+00:52:15,165 --> 00:52:18,362
+- Estás demente.
+- Traté a mis hijos.
+
+773
+00:52:25,175 --> 00:52:27,006
+Oigan, chicos, ¿qué están haciendo?
+
+774
+00:52:27,077 --> 00:52:28,738
+- Hola, papá.
+- Hola, papi.
+
+775
+00:52:28,812 --> 00:52:31,007
+- Hola, Sr. Poe.
+- Hola, cariño. Hola, Christian.
+
+776
+00:52:31,081 --> 00:52:33,447
+- ¿Mis hijos son buenos contigo?
+- Sí.
+
+777
+00:52:33,517 --> 00:52:35,849
+- Extraordinario.
+- Hola, papá.
+
+778
+00:52:35,919 --> 00:52:39,480
+Oye, ¿qué pasa? Hola, cariño.
+
+779
+00:52:39,556 --> 00:52:41,251
+- ¿Cómo estás?
+- Bien.
+
+780
+00:52:41,324 --> 00:52:42,814
+¿Qué están haciendo?
+¿Se están divirtiendo?
+
+781
+00:52:42,893 --> 00:52:46,693
+- Ajá.
+- Genial. ¿Qué tal esto?
+
+782
+00:52:49,266 --> 00:52:51,530
+¿Esto te avergüenza?
+
+783
+00:52:52,569 --> 00:52:54,503
+Sí.
+
+784
+00:52:54,571 --> 00:52:57,199
+- Bien, ¿qué están construyendo?
+- Un fuerte.
+
+785
+00:52:57,274 --> 00:52:59,970
+¿Sí? ¿Tienen suficientes mantas
+para construir un fuerte?
+
+786
+00:53:00,043 --> 00:53:02,477
+- Ajá.
+- De acuerdo, que sea sólido...
+
+787
+00:53:02,546 --> 00:53:05,538
+...porque vendrá
+William Tecumseh Sherman.
+
+788
+00:53:07,851 --> 00:53:10,513
+¿Demasiado pequeños para las bromas
+del Fuerte Sumter?
+
+789
+00:53:10,587 --> 00:53:12,748
+- No, lo entendí.
+- ¿No es gracioso?
+
+790
+00:53:12,822 --> 00:53:15,052
+- Un poco.
+- Bien.
+
+791
+00:53:16,660 --> 00:53:19,220
+Nos vamos a preparar para la búsqueda
+de huevos de Pascua.
+
+792
+00:53:19,296 --> 00:53:20,422
+- Bien.
+- En media hora.
+
+793
+00:53:20,497 --> 00:53:22,897
+¿Puede levantar la mano el que quiere
+ir a buscar huevos de Pascua?
+
+794
+00:53:22,966 --> 00:53:25,833
+Extraordinario. Bien, vamos
+a comenzar en media hora, ¿bien?
+
+795
+00:53:25,902 --> 00:53:27,836
+- Ajá.
+- Sincronicen los relojes.
+
+796
+00:53:27,904 --> 00:53:29,804
+- De acuerdo.
+- No usaremos relojes.
+
+797
+00:53:29,873 --> 00:53:31,238
+- Adiós, papi.
+- Adiós, Sr. Poe.
+
+798
+00:53:31,308 --> 00:53:33,538
+- Oigan, los quiero.
+- Yo también te quiero, papi.
+
+799
+00:53:33,610 --> 00:53:35,840
+- Te quiero, cariño.
+- Yo también.
+
+800
+00:53:35,912 --> 00:53:37,277
+- Nos vemos en la cocina.
+- Bien.
+
+801
+00:53:37,347 --> 00:53:39,406
+¿De acuerdo?
+
+802
+00:53:39,482 --> 00:53:42,349
+Los niños más tiernos del mundo.
+
+803
+00:53:42,419 --> 00:53:45,252
+Voy a hacer un breve resumen
+para los chicos.
+
+804
+00:53:45,322 --> 00:53:47,347
+¿Hace 10 años, Pascua, tú y yo?
+
+805
+00:53:47,424 --> 00:53:50,951
+Sr. Romance.
+
+806
+00:53:51,027 --> 00:53:52,961
+Sí, niños...
+
+807
+00:53:53,029 --> 00:53:55,463
+...su padre salía de una iglesia...
+
+808
+00:53:55,532 --> 00:53:58,365
+...miró al otro lado del patio interior.
+Vio a su mamá...
+
+809
+00:53:58,435 --> 00:54:01,302
+...el encanto patentado de David Poe
+entró en acción y...
+
+810
+00:54:03,073 --> 00:54:05,405
+Casi se podía oír. Empezamos a hablar.
+
+811
+00:54:05,475 --> 00:54:07,943
+Sí, tú empezaste a hablar.
+Yo me quedé mirándote...
+
+812
+00:54:08,011 --> 00:54:10,775
+...preguntándome qué hacías
+con la Biblia en la mano.
+
+813
+00:54:10,847 --> 00:54:13,372
+Ajá, y ella dijo
+con todo el sarcasmo necesario:
+
+814
+00:54:13,450 --> 00:54:16,476
+"¿Los Testigos de Jehová...
+
+815
+00:54:16,553 --> 00:54:18,953
+...y otras sectas religiosas...
+
+816
+00:54:19,022 --> 00:54:22,116
+...pueden coquetear con las alumnas
+de universidades mixtas?"
+
+817
+00:54:22,192 --> 00:54:24,956
+Yo dije: "No, a los Testigos de Jehová
+no les exige la ley...
+
+818
+00:54:25,028 --> 00:54:28,293
+...que coqueteen con las alumnas,
+sin embargo... a los luteranos sí".
+
+819
+00:54:29,399 --> 00:54:31,765
+Y expliqué...
+
+820
+00:54:31,835 --> 00:54:34,702
+Sí, con mucha condescendencia,
+diría yo.
+
+821
+00:54:34,771 --> 00:54:36,466
+...con mucha condescendencia...
+
+822
+00:54:36,539 --> 00:54:39,201
+...que si ella tenía alguna duda
+sobre esta cuestión...
+
+823
+00:54:39,276 --> 00:54:42,677
+...que quizá querría presentarse en
+la juerga de la academia de teología...
+
+824
+00:54:42,746 --> 00:54:45,874
+...el viernes a la medianoche
+porque el departamento de teología...
+
+825
+00:54:45,949 --> 00:54:49,316
+...de Harvard es, sin excepción,
+el centro de las fiestas en el campus.
+
+826
+00:54:49,386 --> 00:54:51,820
+- Esa fue nuestra primera cita.
+- Fue nuestra primera cita.
+
+827
+00:54:51,888 --> 00:54:55,688
+Y te pareció que la cerveza
+no era suficientemente buena para mí...
+
+828
+00:54:55,759 --> 00:54:58,523
+- ...entonces trajiste...
+- Ven.
+
+829
+00:54:58,595 --> 00:55:02,156
+- Me trajiste...
+- Un cartón de vino.
+
+830
+00:55:02,232 --> 00:55:05,759
+- Un cartón de vino.
+- Vino que sale de un cartón.
+
+831
+00:55:05,835 --> 00:55:08,599
+- Sr. Romance.
+- Johnny Romance.
+
+832
+00:55:10,507 --> 00:55:12,475
+Y yo te pregunté...
+
+833
+00:55:12,542 --> 00:55:15,636
+...qué podían tener en común...
+
+834
+00:55:15,712 --> 00:55:18,306
+- ...una psiquiatra y un pastor y...
+- Yo dije: "La fe".
+
+835
+00:55:18,381 --> 00:55:20,144
+...y tú dijiste la fe.
+- La fe.
+
+836
+00:55:20,216 --> 00:55:24,710
+Que ambos, más que cualquier otra
+persona, podíamos ayudar a la gente.
+
+837
+00:55:24,788 --> 00:55:27,916
+Así es. Y yo te amo...
+
+838
+00:55:27,991 --> 00:55:30,516
+...pero no creo en Freud.
+
+839
+00:55:30,593 --> 00:55:32,959
+Está bien. Yo no creo en Dios.
+
+840
+00:55:33,029 --> 00:55:36,192
+Está bien. El cree en ti.
+El cree en esta familia.
+
+841
+00:55:36,266 --> 00:55:39,133
+Somos tres.
+
+842
+00:55:46,176 --> 00:55:49,043
+¿Tienes una zanahoria en el bolsillo
+o estás feliz de verme?
+
+843
+00:55:49,112 --> 00:55:51,637
+De hecho...
+
+844
+00:55:51,715 --> 00:55:52,977
+Dios mío.
+
+845
+00:55:53,049 --> 00:55:55,517
+...es una zanahoria.
+
+846
+00:55:55,585 --> 00:55:57,951
+Que provino del lugar más extraño.
+
+847
+00:56:00,056 --> 00:56:03,184
+- ¿Quieres un trozo de mi zanahoria?
+- Sabes que me gustaría.
+
+848
+00:56:04,861 --> 00:56:07,796
+- ¿Ves?
+- Debería...
+
+849
+00:56:10,066 --> 00:56:12,091
+El conejito cineasta aficionado.
+
+850
+00:56:12,168 --> 00:56:15,035
+Sr. Conejo, Sr. Cineasta.
+
+851
+00:56:15,105 --> 00:56:19,041
+Jack, Emily. Bajen, es hora
+de ir a buscar los huevos de Pascua.
+
+852
+00:56:19,109 --> 00:56:23,205
+Es el televisor.
+Está muy alto, maldición.
+
+853
+00:56:23,279 --> 00:56:25,406
+¿"Maldición"?
+
+854
+00:56:25,482 --> 00:56:28,508
+Sí, dije maldición, lo siento.
+
+855
+00:56:28,585 --> 00:56:30,519
+Jack, Emily.
+
+856
+00:56:38,661 --> 00:56:41,528
+Oigan, el televisor.
+
+857
+00:56:41,598 --> 00:56:43,691
+Está muy alto...
+
+858
+00:56:55,745 --> 00:56:57,542
+- Oye, ¿qué pasa?
+- No están aquí.
+
+859
+00:56:57,614 --> 00:57:00,139
+- ¿No están aquí? ¿A qué te refieres?
+- No lo sé.
+
+860
+00:57:00,216 --> 00:57:01,979
+¿Jack?
+
+861
+00:57:03,720 --> 00:57:05,847
+¿Emily?
+
+862
+00:58:07,183 --> 00:58:08,673
+CASA CLUB DE JACK Y EMILY
+
+863
+00:58:08,751 --> 00:58:10,150
+PROHIBIDA LA ENTRADA
+A LOS PADRES
+
+864
+00:58:15,658 --> 00:58:17,819
+¿Qué es ese olor apestoso?
+
+865
+00:58:18,895 --> 00:58:20,556
+Jack.
+
+866
+00:58:21,998 --> 00:58:23,329
+No.
+
+867
+00:58:24,734 --> 00:58:26,395
+No.
+
+868
+00:58:27,537 --> 00:58:30,370
+Cielos.
+
+869
+00:58:51,327 --> 00:58:55,627
+Dado que es Domingo de Pascua
+y nuestros hijos son menores...
+
+870
+00:58:57,934 --> 00:59:01,734
+...el Depto. De Servicios para Niños
+y Familias, contra nuestra voluntad...
+
+871
+00:59:01,804 --> 00:59:04,796
+...nos dio la custodia
+de nuestros hijos...
+
+872
+00:59:04,874 --> 00:59:08,366
+...hasta la comparecencia
+ante el juez mañana.
+
+873
+00:59:14,584 --> 00:59:17,712
+Esta noche será su última noche
+en esta casa.
+
+874
+00:59:22,692 --> 00:59:26,128
+Mañana serán acusados
+como menores...
+
+875
+00:59:27,697 --> 00:59:30,495
+...con un cargo de...
+
+876
+00:59:30,567 --> 00:59:35,368
+...restricción ilegal,
+un cargo de intento de asesinato...
+
+877
+00:59:35,438 --> 00:59:39,568
+...con una cláusula de la
+disposición III de detención juvenil...
+
+878
+00:59:39,642 --> 00:59:42,270
+...hasta los 18 años.
+
+879
+00:59:46,816 --> 00:59:50,013
+Mañana por la mañana, Jack y Emily...
+
+880
+00:59:52,488 --> 00:59:54,854
+...se irán de aquí.
+
+881
+01:00:00,463 --> 01:00:03,193
+Así como Abraham...
+
+882
+01:00:03,266 --> 01:00:06,360
+...sacrificó a Isaac...
+
+883
+01:00:06,436 --> 01:00:10,372
+...nosotros debemos sacrificar
+a nuestros hijos.
+
+884
+01:00:25,288 --> 01:00:27,552
+Pero a pesar de todo...
+
+885
+01:00:31,060 --> 01:00:33,426
+...amo a mis hijos.
+
+886
+01:00:38,001 --> 01:00:40,799
+¿Cómo puedo no querer a mi hijo...
+
+887
+01:00:40,870 --> 01:00:43,668
+...y a mi hijita?
+
+888
+01:00:45,842 --> 01:00:47,571
+Vamos. Vamos.
+
+889
+01:00:47,644 --> 01:00:49,441
+Cariño.
+
+890
+01:00:50,647 --> 01:00:54,344
+- ¿Qué?
+- Podemos detenerlo.
+
+891
+01:00:56,519 --> 01:00:59,784
+No.
+
+892
+01:00:59,856 --> 01:01:02,689
+- Vamos, terminemos.
+- No, no, no.
+
+893
+01:01:02,759 --> 01:01:06,024
+No le mostraremos esto...
+
+894
+01:01:06,095 --> 01:01:08,893
+...a nadie...
+
+895
+01:01:08,965 --> 01:01:11,627
+...así que no le hablamos a nadie.
+
+896
+01:01:11,701 --> 01:01:13,692
+Nos hablamos a nosotros mismos.
+
+897
+01:01:13,770 --> 01:01:16,295
+¿Lo entiendes?
+Nos hablamos a nosotros mismos.
+
+898
+01:01:19,208 --> 01:01:20,573
+Lo siento.
+
+899
+01:01:32,488 --> 01:01:34,922
+- Lo siento.
+- Está bien.
+
+900
+01:01:41,497 --> 01:01:43,158
+Lo siento.
+
+901
+01:01:45,101 --> 01:01:46,398
+Lo siento.
+
+902
+01:01:49,238 --> 01:01:52,639
+El Depto. De Servicios para Niños
+y Familias, contra nuestra voluntad...
+
+903
+01:01:52,709 --> 01:01:55,678
+...nos dio la custodia
+de nuestros hijos...
+
+904
+01:01:55,745 --> 01:01:59,146
+...hasta la comparecencia
+ante el juez mañana.
+
+905
+01:02:00,850 --> 01:02:03,717
+Hola, y bienvenidos
+al "Show de Jack y Emily".
+
+906
+01:02:03,786 --> 01:02:05,981
+Yo soy Jack.
+
+907
+01:02:06,055 --> 01:02:08,285
+Yo soy Emily.
+
+908
+01:02:09,792 --> 01:02:12,158
+Vamos a divertirnos.
+
+909
+01:02:14,831 --> 01:02:18,426
+Estás en silencio.
+Ni siquiera te puedo oír...
+
+910
+01:02:18,501 --> 01:02:21,368
+...pero sé que estás allí.
+
+911
+01:02:23,339 --> 01:02:26,240
+Hagamos una competencia a ver
+quién aguanta más sin pestañear.
+
+912
+01:02:26,309 --> 01:02:29,073
+Te reto a que mires fijo
+hasta que termine nuestra película.
+
+913
+01:02:30,279 --> 01:02:32,804
+Te apuesto que no puedes.
+
+914
+01:02:43,960 --> 01:02:46,087
+PELIGRO - NO TOCAR
+
+915
+01:04:18,754 --> 01:04:20,745
+- Jack.
+- Por favor, detente.
+
+916
+01:04:20,823 --> 01:04:22,723
+Detente. Dios mío.
+
+917
+01:04:22,792 --> 01:04:26,819
+Detente. Cielos, por favor.
+
+918
+01:04:26,896 --> 01:04:30,491
+Jack, detente.
+Jack, ¿qué estás haciendo?
+
+919
+01:04:30,566 --> 01:04:33,399
+Detente. Detente.
+
+920
+01:04:33,469 --> 01:04:35,300
+Por favor.
+
+921
+01:05:37,733 --> 01:05:39,598
+Y acción.
+
+922
+01:06:02,258 --> 01:06:04,920
+Desátame, desátame.
+
+923
+01:06:04,994 --> 01:06:07,462
+- Voy a llamar a la policía.
+- Desátame.
+
+924
+01:06:07,530 --> 01:06:10,328
+Desátame.
+
+925
+01:06:14,637 --> 01:06:17,800
+Cortaron...
+cortaron las líneas de teléfono.
+
+926
+01:06:17,873 --> 01:06:20,398
+Toma el bate de béisbol.
+
+927
+01:06:20,476 --> 01:06:23,138
+- Toma el maldito bate.
+- ¿Qué?
+
+928
+01:06:23,212 --> 01:06:25,373
+- Toma el bate, Clare.
+- ¿Dónde?
+
+929
+01:06:25,448 --> 01:06:27,973
+Está arriba en el cuarto de Jack.
+
+930
+01:06:28,050 --> 01:06:30,109
+No puedo subir allí.
+Está oscuro allí arriba.
+
+931
+01:06:30,186 --> 01:06:33,087
+Toma la cámara. La cámara tiene luz.
+
+932
+01:06:33,155 --> 01:06:35,316
+Hay un interruptor al costado.
+
+933
+01:06:37,626 --> 01:06:39,856
+Trae el maldito bate.
+
+934
+01:06:39,929 --> 01:06:42,124
+¿Dónde está... dónde está la luz?
+
+935
+01:06:42,198 --> 01:06:46,032
+- Está al costado. Junto al asa.
+- ¿Cómo se enciende la luz?
+
+936
+01:06:54,210 --> 01:06:56,474
+Clare.
+
+937
+01:07:01,550 --> 01:07:03,177
+Clare.
+
+938
+01:07:06,022 --> 01:07:09,048
+Clare. Clare.
+
+939
+01:07:19,168 --> 01:07:21,636
+Corre. Corre.
+
+940
+01:07:21,704 --> 01:07:24,502
+Jack. Emily.
+
+941
+01:07:24,573 --> 01:07:28,031
+Detengan esta mierda ya mismo.
+
+942
+01:07:28,110 --> 01:07:31,170
+Escuchen a su padre.
+
+943
+01:07:31,247 --> 01:07:33,943
+Desátenme.
+
+944
+01:07:35,484 --> 01:07:37,418
+Desátenme, maldición.
+
+945
+01:07:37,486 --> 01:07:40,421
+Jack. Emily.
+
+946
+01:08:04,680 --> 01:08:06,113
+Jack.
+
+947
+01:08:19,128 --> 01:08:22,564
+Bien, chicos, los veo,
+así que no se muevan ¿bien?
+
+948
+01:08:22,631 --> 01:08:26,965
+Si se mueven, les fracturaré cada hueso
+de su maldito cuerpo, ¿está claro?
+
+949
+01:08:29,538 --> 01:08:30,869
+¿David?
+
+950
+01:08:32,708 --> 01:08:34,767
+David.
+
+951
+01:08:34,844 --> 01:08:37,608
+- Sí.
+- ¿Tienes todo?
+
+952
+01:08:37,680 --> 01:08:40,945
+- Una bolsa más.
+- Bien.
+
+953
+01:08:43,552 --> 01:08:45,816
+- ¿Estás bien?
+- Estoy bien.
+
+954
+01:08:45,888 --> 01:08:47,981
+¿Seguro?
+
+955
+01:08:49,558 --> 01:08:52,186
+- Cariño, ¿seguro que estás bien?
+- Sólo me duele la cabeza.
+
+956
+01:08:52,261 --> 01:08:54,286
+- Esa luz es muy fuerte.
+- Lo siento, lo siento.
+
+957
+01:08:57,700 --> 01:09:00,760
+Bien, chicos. Se acabó.
+
+958
+01:09:00,836 --> 01:09:04,465
+Se irán de esta casa.
+
+959
+01:09:04,540 --> 01:09:06,565
+No son nuestros hijos.
+
+960
+01:09:09,512 --> 01:09:12,743
+No sé qué son.
+
+961
+01:09:12,815 --> 01:09:15,682
+No se muevan de allí. ¿David?
+
+962
+01:09:18,454 --> 01:09:19,944
+¿David?
+
+963
+01:09:22,224 --> 01:09:24,692
+Dios mío. ¿David?
+
+964
+01:09:24,760 --> 01:09:26,990
+¿Cariño? ¿Cariño?
+
+965
+01:09:28,564 --> 01:09:30,828
+Dios mío. ¿David?
+
+966
+01:09:30,900 --> 01:09:34,666
+Dios mío. Dios mío.
+
+967
+01:09:34,737 --> 01:09:38,104
+Dios mío. Dios mío.
+
+968
+01:09:41,810 --> 01:09:44,074
+¿Qué hicieron?
+
+969
+01:09:49,585 --> 01:09:51,177
+Dios mío.
+
+970
+01:09:52,388 --> 01:09:54,982
+Dios mío, ¿nos drogaron?
+
+971
+01:09:56,358 --> 01:09:59,350
+Dios mío. Nos drogaron, maldición.
+
+972
+01:11:07,663 --> 01:11:09,392
+No.
+
+973
+01:11:11,900 --> 01:11:14,801
+Atrás. Retrocedan, maldición...
+
+974
+01:11:23,846 --> 01:11:25,541
+Atrás.
+
+975
+01:12:01,450 --> 01:12:03,577
+Auxilio.
+
+976
+01:12:14,530 --> 01:12:17,658
+Auxilio. Auxilio.
+
+977
+01:13:35,659 --> 01:13:41,559
+Subtítulo por aRGENTeaM
+www.argenteam.net
+
+978
+01:16:29,718 --> 01:16:35,315
+PELICULA CASERA
+

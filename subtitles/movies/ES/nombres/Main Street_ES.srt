@@ -1,0 +1,4803 @@
+1
+00:01:54,447 --> 00:01:56,527
+<i>Usted tiene un mensaje nuevo.</i>
+
+2
+00:01:57,287 --> 00:01:58,807
+<i>Hola, Mary, soy Harris.</i>
+
+3
+00:01:59,567 --> 00:02:01,268
+<i>Es sólo para recordarte
+que tengo una clase esta noche.</i>
+
+4
+00:02:01,468 --> 00:02:03,567
+<i>Salgo a las ocho.
+Te llamo luego.</i>
+
+5
+00:02:12,927 --> 00:02:14,327
+¿A qué hora es tu clase?
+
+6
+00:02:15,207 --> 00:02:16,267
+A las siete.
+
+7
+00:02:17,207 --> 00:02:18,607
+¿Vienes a casa después?
+
+8
+00:02:18,807 --> 00:02:20,487
+No sé. Puede ser que vea a Mary.
+
+9
+00:02:21,647 --> 00:02:23,127
+No las has visto esta semana.
+
+10
+00:02:26,546 --> 00:02:27,646
+No.
+
+11
+00:02:29,417 --> 00:02:31,727
+Ella ha estado ocupada.
+Yo he estado ocupado.
+
+12
+00:02:34,167 --> 00:02:36,447
+Su mamá dice que
+se está viendo con alguien más.
+
+13
+00:02:38,007 --> 00:02:39,287
+Él vive en Raleigh.
+
+14
+00:02:39,687 --> 00:02:40,927
+A ellos no les gusta.
+
+15
+00:02:42,247 --> 00:02:44,247
+- ¿Lo conocen?
+- No.
+
+16
+00:02:47,367 --> 00:02:48,847
+¿Cómo saben que no les gusta
+si no lo conocen?
+
+17
+00:02:49,207 --> 00:02:50,327
+Tú les gustas.
+
+18
+00:02:51,287 --> 00:02:53,207
+Les gusta que tenga algo serio contigo.
+
+19
+00:02:55,567 --> 00:02:58,847
+Ustedes tenían algo serio.
+En la escuela secundaria.
+
+20
+00:03:00,807 --> 00:03:02,527
+Bueno, ya no estamos
+en la escuela secundaria.
+
+21
+00:03:06,167 --> 00:03:07,998
+¿No crees que ir a la facultad
+de derecho por la noche...
+
+22
+00:03:08,048 --> 00:03:09,147
+...es demasiado para ti?
+
+23
+00:03:09,487 --> 00:03:10,647
+No lo creo, mamá.
+
+24
+00:03:11,567 --> 00:03:13,727
+No quiero ser un policía
+por el resto de mi vida.
+
+25
+00:03:13,847 --> 00:03:16,847
+Un título de abogado no será bueno
+si tu salud está arruinada.
+
+26
+00:03:17,687 --> 00:03:18,767
+Tengo que irme, mamá.
+
+27
+00:03:37,894 --> 00:03:42,301
+Me dijeron en la oficina que usted
+está pensando en vender la casa.
+
+28
+00:03:42,414 --> 00:03:46,374
+Bueno, es lo conveniente,
+pero todavía lo sigo pensando.
+
+29
+00:03:46,534 --> 00:03:50,621
+Es caro mantenerla,
+los impuestos son altos...
+
+30
+00:03:50,734 --> 00:03:53,294
+...y es muy grande
+para una sola persona.
+
+31
+00:03:54,854 --> 00:03:56,734
+Pero he vivido aquí toda mi vida.
+
+32
+00:03:57,894 --> 00:03:59,654
+Y cuando pienso en cómo sería irme...
+
+33
+00:04:01,854 --> 00:04:03,054
+...no puedo venderla.
+
+34
+00:04:05,134 --> 00:04:06,541
+Todavía tiene el galpón.
+
+35
+00:04:06,654 --> 00:04:08,734
+Me dijeron que sigue en
+buenas condiciones.
+
+36
+00:04:09,174 --> 00:04:11,574
+Sí, eso se mantiene muy bien.
+
+37
+00:04:12,494 --> 00:04:17,494
+Lo estuve alquilando. No me hace rica,
+pero alcanza para pagar los impuestos.
+
+38
+00:04:17,734 --> 00:04:20,461
+Si decide vender la casa o el galpón,
+¿me lo hará saber?
+
+39
+00:04:20,574 --> 00:04:22,134
+Sí, lo haré.
+Seguro que lo haré.
+
+40
+00:04:43,774 --> 00:04:45,814
+<i>- Concejal Early.
+- Sí, señor alcalde.</i>
+
+41
+00:04:46,094 --> 00:04:48,814
+¿Algo para agregar sobre
+nuestro proyecto del centro?
+
+42
+00:04:54,854 --> 00:04:58,381
+¿Y esos hombre que compraron todos
+los galpones <i>Liggett & Meyers</i>?
+
+43
+00:04:58,494 --> 00:05:01,061
+Siempre están diciendo que
+los van a demoler...
+
+44
+00:05:01,174 --> 00:05:05,214
+...o a convertir en departamentos,
+o algo así. Y siguen pasando los años.
+
+45
+00:05:05,454 --> 00:05:07,301
+Seguimos en contacto con ellos...
+
+46
+00:05:07,414 --> 00:05:11,334
+Los visito de vez en cuando,
+pregunto si hay algún avance.
+
+47
+00:05:11,894 --> 00:05:13,374
+¿Y qué dicen?
+
+48
+00:05:13,534 --> 00:05:16,421
+Que no se puede apurar
+un proyecto tan grande como ese.
+
+49
+00:05:16,534 --> 00:05:19,974
+¿Pero diez años?
+Ya casi han pasado diez años, ¿no?
+
+50
+00:05:20,854 --> 00:05:23,374
+Más que eso.
+¿Y ahora con esta economía?
+
+51
+00:05:23,534 --> 00:05:26,574
+Como conseguir que la gente se mude
+de vuelta a la ciudad, es el problema.
+
+52
+00:05:26,694 --> 00:05:28,094
+Ya no hay negocios.
+
+53
+00:05:28,294 --> 00:05:30,861
+Así que todos se están marchando para
+estar cerca de los centros comerciales.
+
+54
+00:05:30,974 --> 00:05:32,054
+Es una lástima.
+
+55
+00:05:32,694 --> 00:05:35,694
+¿Y el desfile del Día
+de Acción de Gracias en el centro?
+
+56
+00:05:35,814 --> 00:05:37,294
+¿Vamos a repetirlo este año?
+
+57
+00:05:38,054 --> 00:05:41,294
+¿O tendremos un desfile en diciembre
+para Navidad en su lugar?
+
+58
+00:05:41,934 --> 00:05:43,014
+El tiempo se nos está acabando...
+
+59
+00:05:43,115 --> 00:05:44,814
+...si pensamos hacer
+un desfile de Acción de Gracias.
+
+60
+00:05:47,694 --> 00:05:48,861
+Bueno, para ser completamente honesto...
+
+61
+00:05:48,974 --> 00:05:51,861
+...no sé si algún tipo de desfile,
+pueda llevarnos a algún lado.
+
+62
+00:05:51,974 --> 00:05:53,774
+Acción de Gracias, Navidad, Año Nuevo.
+
+63
+00:05:54,494 --> 00:05:56,774
+El año pasado,
+la asistencia fue lastimosa.
+
+64
+00:05:56,894 --> 00:05:59,174
+Ni siquiera pude conseguir
+que mis chicos fueran.
+
+65
+00:06:00,134 --> 00:06:02,134
+¿Tenemos que tomar una
+decisión esta noche?
+
+66
+00:06:03,294 --> 00:06:05,534
+¿No podemos posponerlo
+hasta nuestra próxima reunión?
+
+67
+00:06:06,814 --> 00:06:09,174
+Personalmente quisiera un poco de tiempo
+para pensarlo detenidamente.
+
+68
+00:06:09,854 --> 00:06:11,094
+Está bien por mí.
+
+69
+00:06:11,934 --> 00:06:15,941
+¿Escucho entonces la moción para
+posponerlo hasta la semana próxima?
+
+70
+00:06:16,054 --> 00:06:17,294
+Estoy de acuerdo.
+
+71
+00:06:17,854 --> 00:06:20,214
+- ¿Todos a favor?
+- Sí.
+
+72
+00:07:01,744 --> 00:07:03,271
+- Hola, Harris.
+<i>- Mary.</i>
+
+73
+00:07:03,384 --> 00:07:04,551
+Estaba por llamarte.
+
+74
+00:07:04,664 --> 00:07:07,144
+<i>Hice reservas para hoy a la noche.
+Dijiste que estarías libre.</i>
+
+75
+00:07:08,264 --> 00:07:10,704
+Lo sé. Lo siento.
+Ya hice una cita para esta noche.
+
+76
+00:07:11,344 --> 00:07:13,304
+<i>Lo siento. Un amigo del trabajo.</i>
+
+77
+00:07:13,984 --> 00:07:15,224
+<i>Extraño verte, Mary.</i>
+
+78
+00:07:16,184 --> 00:07:18,384
+- Yo también extraño verte.
+<i>- Que tengas una buena noche.</i>
+
+79
+00:07:30,544 --> 00:07:31,544
+Te ves linda.
+
+80
+00:07:34,064 --> 00:07:35,344
+¿No se ve linda, Frank?
+
+81
+00:07:36,384 --> 00:07:37,424
+Siempre lo está.
+
+82
+00:07:38,784 --> 00:07:39,784
+Gracias.
+
+83
+00:07:40,904 --> 00:07:42,184
+¿A qué hora te pasará a buscar él?
+
+84
+00:07:42,464 --> 00:07:45,104
+Su nombre es Howard, Frank.
+No me pasará a buscar.
+
+85
+00:07:45,527 --> 00:07:46,527
+Nos encontraremos en un restaurante
+a mitad de camino...
+
+86
+00:07:46,640 --> 00:07:48,144
+...desde aquí a Raleigh.
+
+87
+00:07:54,624 --> 00:07:55,984
+Esto me vuelve loca.
+
+88
+00:07:59,704 --> 00:08:02,264
+Ella deja que él la trate
+de cualquier manera.
+
+89
+00:08:04,704 --> 00:08:06,224
+Apuesto que terminará casándose con él.
+
+90
+00:08:06,664 --> 00:08:07,744
+¿Por qué dices eso?
+
+91
+00:08:09,904 --> 00:08:11,024
+No lo sabes.
+
+92
+00:08:11,944 --> 00:08:12,944
+Lo sé.
+
+93
+00:08:17,784 --> 00:08:20,344
+A veces creo que enloqueceré
+por preocuparme.
+
+94
+00:08:44,744 --> 00:08:45,804
+¿Puedo ayudarte?
+
+95
+00:08:45,905 --> 00:08:47,904
+Hola. Reserva a nombre de Howard Mercer.
+
+96
+00:08:48,544 --> 00:08:51,184
+No ha llegado aún.
+¿Puedo llevarte a su mesa?
+
+97
+00:09:12,165 --> 00:09:14,205
+<i>Hola, soy Mary. Deja un mensaje.</i>
+
+98
+00:09:16,085 --> 00:09:18,725
+Hola, Mary. Soy Harris otra vez.
+
+99
+00:09:19,885 --> 00:09:21,325
+¿Estás libre mañana en la noche?
+
+100
+00:09:34,125 --> 00:09:36,245
+Por favor, discúlpame por llegar tarde.
+
+101
+00:09:36,885 --> 00:09:39,365
+Surgió algo a último momento.
+
+102
+00:09:40,278 --> 00:09:41,278
+¿Nada bueno?
+
+103
+00:09:42,718 --> 00:09:45,158
+Parece. Sólo pediré una ensalada.
+
+104
+00:09:45,718 --> 00:09:46,718
+¿Quieres una copa?
+
+105
+00:09:48,518 --> 00:09:50,438
+No, gracias. Ordené una Coca.
+
+106
+00:09:53,638 --> 00:09:55,798
+¿Has pensando en mudarte a Raleigh?
+
+107
+00:09:56,558 --> 00:09:57,678
+Honestamente, no.
+
+108
+00:09:58,118 --> 00:09:59,838
+¿Me prometes que lo pensarás?
+
+109
+00:10:02,758 --> 00:10:03,798
+Sí, lo haré.
+
+110
+00:10:11,678 --> 00:10:14,278
+Me pareció que te escuché llegar.
+¿Llamaste a Mary?
+
+111
+00:10:15,238 --> 00:10:16,238
+Sí.
+
+112
+00:10:20,318 --> 00:10:22,005
+¿Cuánto más vas a estudiar, Harris?
+
+113
+00:10:22,118 --> 00:10:25,158
+No mucho más, mamá.
+Vuelve a la cama.
+
+114
+00:10:27,358 --> 00:10:30,645
+La Srta. Taylor me dijo ayer
+que la ley es muy competitiva...
+
+115
+00:10:30,758 --> 00:10:33,925
+...y que es importante ir a ciertas
+universidades para obtener el título.
+
+116
+00:10:34,038 --> 00:10:35,725
+Iré a la única universidad que
+puedo pagar, mamá.
+
+117
+00:10:35,838 --> 00:10:38,198
+Ella dijo que los abogados
+aquí son baratísimos...
+
+118
+00:10:38,878 --> 00:10:41,278
+...y están teniendo una
+época difícil como todos.
+
+119
+00:10:41,398 --> 00:10:44,518
+Mamá, vuelve a la cama.
+Quiero terminar de estudiar.
+
+120
+00:10:45,745 --> 00:10:47,625
+Me preocupo mucho por ti.
+
+121
+00:10:49,105 --> 00:10:51,705
+Sé que lo haces.
+Quisiera que no lo hicieras.
+
+122
+00:10:52,305 --> 00:10:53,545
+Voy a estar bien.
+
+123
+00:10:55,425 --> 00:10:57,225
+Eres todo lo que tengo, Harris.
+
+124
+00:11:04,505 --> 00:11:05,705
+No es cierto, mamá.
+
+125
+00:11:07,065 --> 00:11:08,065
+Tienes a Pete.
+
+126
+00:11:09,145 --> 00:11:10,305
+¿Pero dónde está Pete?
+
+127
+00:11:11,905 --> 00:11:13,425
+¿Vagando por el mundo?
+
+128
+00:11:15,705 --> 00:11:17,785
+¿Cuándo fue la última vez que lo vi?
+
+129
+00:11:22,065 --> 00:11:24,145
+Por favor, ve a la cama, Harris.
+Es tarde.
+
+130
+00:11:25,265 --> 00:11:27,385
+Me preocupa que te quedes
+estudiando hasta tan tarde.
+
+131
+00:11:27,745 --> 00:11:30,265
+Sí, mamá.
+Iré en un momento.
+
+132
+00:11:31,145 --> 00:11:32,145
+Prométemelo.
+
+133
+00:11:33,185 --> 00:11:34,185
+Te lo prometo.
+
+134
+00:12:18,905 --> 00:12:20,345
+<i>- ¿Tía?</i>
+- ¿Willa?
+
+135
+00:12:22,225 --> 00:12:23,505
+¿Estás acostada?
+
+136
+00:12:24,785 --> 00:12:25,985
+<i>¿Pasa algo malo?</i>
+
+137
+00:12:26,105 --> 00:12:29,545
+- No, no, estoy bien.
+<i>- Gracias a Dios.</i>
+
+138
+00:12:29,865 --> 00:12:35,032
+Bueno, a decir verdad,
+me siento un poco intranquila.
+
+139
+00:12:35,145 --> 00:12:40,185
+- ¿Hay alguna razón?
+- No, aparentemente no. Es sólo que--
+
+140
+00:12:40,665 --> 00:12:41,832
+<i>¿Quieres que vaya?</i>
+
+141
+00:12:41,945 --> 00:12:43,825
+Odio pedírtelo pero...
+
+142
+00:12:45,505 --> 00:12:47,072
+...me encantaría.
+
+143
+00:12:47,185 --> 00:12:48,985
+<i>Voy enseguida.</i>
+
+144
+00:12:49,505 --> 00:12:50,785
+Gracias, preciosa.
+
+145
+00:13:02,025 --> 00:13:04,025
+¡Maldito idiota!
+¿Quieres incendiar el galpón?
+
+146
+00:13:04,700 --> 00:13:05,700
+Te dije que...
+
+147
+00:13:07,905 --> 00:13:09,345
+Si quieres fumar, vas afuera.
+
+148
+00:13:13,425 --> 00:13:15,665
+Discúlpenme.
+Estoy un poco nervioso esta noche.
+
+149
+00:13:20,545 --> 00:13:22,905
+A la compañía le gustaría
+establecerse aquí.
+
+150
+00:13:23,745 --> 00:13:25,185
+Si los ayudamos a hacerlo...
+
+151
+00:13:26,745 --> 00:13:28,585
+...nos mirarán de forma favorable.
+
+152
+00:13:29,385 --> 00:13:31,265
+¿Cómo encontraste este galpón?
+
+153
+00:13:31,625 --> 00:13:32,625
+Suerte.
+
+154
+00:13:34,905 --> 00:13:36,232
+La Compañía me envió a buscar pueblos...
+
+155
+00:13:36,345 --> 00:13:39,305
+...o ciudades que pudieran
+beneficiarse de nuestros servicios.
+
+156
+00:13:40,225 --> 00:13:41,745
+Durham estaba en mi lista.
+
+157
+00:13:43,465 --> 00:13:46,545
+Y cuando vine, encontré
+todos estos galpones vacíos.
+
+158
+00:13:47,985 --> 00:13:50,392
+Les tomé fotos,
+y se las mandé a los jefes.
+
+159
+00:13:50,505 --> 00:13:53,625
+Se pusieron en contacto y me dijeron
+que tratara de alquilar este galpón.
+
+160
+00:13:54,225 --> 00:13:55,864
+La dueña estaba ansiosa
+por alquilarlo...
+
+161
+00:13:55,999 --> 00:13:59,014
+...siempre que entendiéramos
+que no está permitido fumar aquí.
+
+162
+00:14:00,745 --> 00:14:04,225
+Ella nos dijo que vio varios galpones
+incendiarse por fumadores descuidados.
+
+163
+00:14:06,305 --> 00:14:08,592
+No quiero que ninguno de los dos
+hable nada que no sea español...
+
+164
+00:14:08,705 --> 00:14:09,785
+...mientras estemos en Durham.
+
+165
+00:14:10,345 --> 00:14:12,265
+Si alguien les pregunta
+algo en inglés...
+
+166
+00:14:13,625 --> 00:14:14,985
+...hacen como si no entendieran.
+
+167
+00:14:16,465 --> 00:14:18,545
+¿Y si nos hacen preguntas en español?
+
+168
+00:14:19,865 --> 00:14:20,865
+Me vienen a buscar.
+
+169
+00:14:22,185 --> 00:14:23,185
+Yo responderé.
+
+170
+00:14:24,985 --> 00:14:26,705
+La compañía quiere que sea yo
+el que de las explicaciones.
+
+171
+00:14:45,585 --> 00:14:46,585
+¿Dónde está mamá?
+
+172
+00:14:47,745 --> 00:14:50,505
+Se fue a la cama con dolor de cabeza
+preocupándose por ti.
+
+173
+00:14:52,025 --> 00:14:54,752
+Teme que te vuelvas loca por él,
+como le pasó a ella...
+
+174
+00:14:54,865 --> 00:14:56,305
+...y te cases con la persona equivocada.
+
+175
+00:14:56,985 --> 00:14:58,665
+¿Quién habló de casarse?
+
+176
+00:14:59,745 --> 00:15:01,545
+¿Dónde conociste a...
+¿Cómo se llama?
+
+177
+00:15:02,065 --> 00:15:03,785
+- Howard.
+- ¿Dónde lo conociste?
+
+178
+00:15:05,105 --> 00:15:08,225
+Es abogado. En la empresa.
+
+179
+00:15:09,665 --> 00:15:11,945
+¿Por qué no lo invitas a la casa
+alguna vez así lo podemos conocer?
+
+180
+00:15:12,065 --> 00:15:14,105
+Tu madre piensa que estás
+avergonzada de nosotros.
+
+181
+00:15:14,585 --> 00:15:15,832
+No me avergüenzo de ustedes.
+
+182
+00:15:15,945 --> 00:15:17,305
+Bueno, tu madre cree que sí.
+
+183
+00:15:19,945 --> 00:15:20,945
+Bueno, no lo estoy.
+
+184
+00:15:21,745 --> 00:15:23,145
+A tu madre le gusta Harris.
+
+185
+00:15:24,905 --> 00:15:25,905
+A mí me gusta Harris.
+
+186
+00:15:27,785 --> 00:15:30,625
+Su madre dice que va a la escuela
+de leyes sólo para complacerte a ti.
+
+187
+00:15:55,080 --> 00:15:56,080
+¿Tía?
+
+188
+00:16:02,960 --> 00:16:03,960
+Tía.
+
+189
+00:16:05,360 --> 00:16:08,520
+¿No es lo más loco que has oído?
+
+190
+00:16:09,000 --> 00:16:11,280
+Una mujer tan vieja como...
+
+191
+00:16:11,760 --> 00:16:14,000
+...aquí sola,
+la mayor parte de mi vida...
+
+192
+00:16:14,360 --> 00:16:16,040
+...y repentinamente entro en pánico.
+
+193
+00:16:17,760 --> 00:16:19,680
+¡Estoy tan avergonzada!
+
+194
+00:16:22,040 --> 00:16:23,840
+No hay nada de qué avergonzarse.
+
+195
+00:16:24,960 --> 00:16:26,760
+Ya estoy aquí,
+y estás perfectamente a salvo.
+
+196
+00:16:28,160 --> 00:16:29,240
+Bueno, que Dios te bendiga.
+
+197
+00:16:40,520 --> 00:16:43,440
+- ¿Tía?
+- Sí, señora.
+
+198
+00:16:45,280 --> 00:16:47,120
+¿A quién le alquilaste el galpón?
+
+199
+00:16:48,160 --> 00:16:51,447
+No recuerdo su nombre.
+Parecía muy amable.
+
+200
+00:16:51,560 --> 00:16:53,440
+- ¿Por qué?
+- ¿Era mexicano?
+
+201
+00:16:54,720 --> 00:16:56,520
+No lo creo.
+¿Por qué?
+
+202
+00:16:57,520 --> 00:16:59,880
+Porque cuando pasé
+por el galpón, hace un momento...
+
+203
+00:17:00,480 --> 00:17:04,127
+...había dos mexicanos en la puerta,
+sentados en unas sillas...
+
+204
+00:17:04,240 --> 00:17:05,887
+...fumando y bebiendo cerveza.
+
+205
+00:17:06,000 --> 00:17:09,687
+¡Por Dios!
+¡Hice especial referencia en...
+
+206
+00:17:09,800 --> 00:17:14,120
+...que fumar dentro o cerca del galpón,
+está absolutamente prohibido!
+
+207
+00:17:15,640 --> 00:17:18,967
+Creo que voy a llamarlo ahora mismo
+y asegurarme de que lo entienda.
+
+208
+00:17:19,080 --> 00:17:21,560
+- Son las 12 de la noche, tía.
+- Bueno, lo voy a despertar.
+
+209
+00:17:21,760 --> 00:17:23,840
+Esto es muy importante.
+
+210
+00:17:33,600 --> 00:17:34,800
+<i>Por favor deje un mensaje.</i>
+
+211
+00:17:35,440 --> 00:17:37,360
+Habla Georgiana Carr.
+
+212
+00:17:38,360 --> 00:17:42,640
+Necesito que el Sr. Leroy me llame
+ni bien reciba este mensaje.
+
+213
+00:17:42,840 --> 00:17:45,000
+Es acerca de mi galpón.
+
+214
+00:17:47,200 --> 00:17:49,967
+Me respondió su servicio de contestador.
+
+215
+00:17:50,080 --> 00:17:53,760
+Su nombre es Leroy.
+Ya discutiré con él en la mañana.
+
+216
+00:17:56,720 --> 00:17:58,120
+¿Te pagó con un cheque?
+
+217
+00:17:59,640 --> 00:18:02,520
+- No, en efectivo.
+- ¿En efectivo?
+
+218
+00:18:02,640 --> 00:18:04,960
+Sí, esa fue la forma que el quería.
+
+219
+00:18:05,800 --> 00:18:09,160
+Estoy agotada.
+¿Estás cansada?
+
+220
+00:18:10,760 --> 00:18:11,840
+Sí, señora.
+
+221
+00:18:36,140 --> 00:18:38,340
+<i>Usted tiene un mensaje nuevo.</i>
+
+222
+00:18:39,060 --> 00:18:41,820
+<i>Hola, Mary. Soy Harris de nuevo.</i>
+
+223
+00:18:43,060 --> 00:18:44,640
+<i>¿Estás libre mañana a la noche?</i>
+
+224
+00:19:18,860 --> 00:19:20,747
+Siéntate.
+Tu desayuno estará listo en un minuto.
+
+225
+00:19:20,860 --> 00:19:22,100
+No puedo, estoy atrasado.
+
+226
+00:19:23,060 --> 00:19:24,060
+Me quedé dormido.
+
+227
+00:19:47,780 --> 00:19:49,947
+Buenos días.
+¿Quién está a cargo aquí?
+
+228
+00:19:51,460 --> 00:19:54,460
+¿Está el Señor Leroy en el galpón?
+
+229
+00:20:12,620 --> 00:20:14,147
+¿Cuál es el nombre del señor Leroy?
+
+230
+00:20:14,260 --> 00:20:16,547
+No lo sé.
+Sólo dijo: "habla Leroy".
+
+231
+00:20:16,660 --> 00:20:18,587
+No sé si es su nombre o su apellido.
+
+232
+00:20:18,700 --> 00:20:20,947
+- Es de Texas.
+- ¿Cómo sabes eso?
+
+233
+00:20:21,060 --> 00:20:24,387
+Él me lo dijo.
+Cerca de Brownsville, eso creo que dijo.
+
+234
+00:20:24,500 --> 00:20:26,187
+El lugar se llama Vernon.
+
+235
+00:20:26,300 --> 00:20:28,660
+Vamos a la ciudad,
+y volvemos con la policía.
+
+236
+00:20:34,460 --> 00:20:36,180
+Gus Leroy.
+Gracias por recibirme.
+
+237
+00:20:38,140 --> 00:20:39,620
+- Tome asiento.
+- Gracias.
+
+238
+00:20:40,900 --> 00:20:42,867
+Trabajo para una
+corporación de servicios ambientales.
+
+239
+00:20:42,980 --> 00:20:44,747
+En Vernon, Texas.
+Tenemos un negocio muy próspero allí.
+
+240
+00:20:44,860 --> 00:20:46,460
+Y en Gilyas, Louisiana.
+
+241
+00:20:46,940 --> 00:20:48,060
+¿Y a qué se dedican?
+
+242
+00:20:48,220 --> 00:20:49,787
+Estoy en el área de
+eliminación de residuos.
+
+243
+00:20:49,900 --> 00:20:51,065
+Vamos por todo el condado...
+
+244
+00:20:51,147 --> 00:20:52,147
+...en busca de empresas
+que necesiten nuestro servicio.
+
+245
+00:20:52,197 --> 00:20:53,620
+- ¿Sabe cuántas libras--
+- ¿Qué quiere de mí?
+
+246
+00:20:53,940 --> 00:20:56,827
+Tengo muy poca autoridad.
+De hecho, casi lo contrario.
+
+247
+00:20:56,940 --> 00:20:59,290
+No le estoy pidiendo nada.
+
+248
+00:20:59,384 --> 00:21:00,384
+¿Conoce a la señora Georgiana Carr?
+
+249
+00:21:00,460 --> 00:21:01,747
+- Sí.
+- ¿Conoce su galpón?
+
+250
+00:21:01,860 --> 00:21:04,180
+- Sí.
+- Lo acabo de rentar por seis meses.
+
+251
+00:21:04,460 --> 00:21:05,467
+¿Su compañía?
+
+252
+00:21:05,580 --> 00:21:07,380
+Sí, señor, yo lo hice.
+Para mi compañía.
+
+253
+00:21:08,820 --> 00:21:10,187
+¿Qué piensa hacer con él?
+
+254
+00:21:10,300 --> 00:21:12,227
+Justo anoche depositamos
+cincuenta contenedores...
+
+255
+00:21:12,340 --> 00:21:13,700
+...de desechos peligrosos allí.
+
+256
+00:21:14,180 --> 00:21:16,016
+Dios mío.
+
+257
+00:21:16,116 --> 00:21:17,526
+¿Sabe la señora Georgiana
+acerca de esto?
+
+258
+00:21:17,576 --> 00:21:19,147
+Bueno, tratamos de decírselo
+cuando nos alquiló el espacio...
+
+259
+00:21:19,260 --> 00:21:20,987
+...pero nunca estuvo
+interesada ni preocupada...
+
+260
+00:21:21,100 --> 00:21:22,787
+...por lo que los inquilinos
+tengan en su galpón, dijo.
+
+261
+00:21:22,900 --> 00:21:25,747
+- ¿Es legal lo que están haciendo?
+- Sí, señor. Lo revisamos muy a fondo...
+
+262
+00:21:25,860 --> 00:21:27,947
+...y no hay leyes ambientales
+en la ciudad de Durham...
+
+263
+00:21:28,060 --> 00:21:30,220
+...o en el estado de Carolina del Norte
+que se estén violando.
+
+264
+00:21:30,340 --> 00:21:31,460
+Por favor no se alarme.
+
+265
+00:21:31,700 --> 00:21:33,867
+Los residuos son transportados
+en el tipo de contenedores aprobados...
+
+266
+00:21:33,980 --> 00:21:35,540
+...por todas las agencias federales.
+
+267
+00:21:36,020 --> 00:21:37,940
+- ¿Cuando llegaron?
+- Anoche.
+
+268
+00:21:38,100 --> 00:21:40,540
+Lo hago de noche generalmente.
+Menos tráfico.
+
+269
+00:21:41,260 --> 00:21:43,500
+Como sea, ya no le sacaré
+más de su tiempo.
+
+270
+00:21:45,060 --> 00:21:47,547
+Un día, me gustaría hablar con usted,
+sobre un plan...
+
+271
+00:21:47,660 --> 00:21:49,100
+...que a mi compañía le gustaría
+que usted considerara.
+
+272
+00:21:49,740 --> 00:21:52,740
+- ¿Es sobre desechos peligrosos?
+- En cierto sentido.
+
+273
+00:21:54,380 --> 00:21:55,540
+No lo sé, señor.
+
+274
+00:21:56,180 --> 00:21:57,780
+Somos muy conservadores aquí.
+
+275
+00:21:58,300 --> 00:22:00,387
+No creo que estemos preparados
+para algo así.
+
+276
+00:22:00,500 --> 00:22:03,300
+Entiendo.
+Pero recuerde esto.
+
+277
+00:22:03,540 --> 00:22:04,987
+Alguien tiene que
+hacer frente al problema...
+
+278
+00:22:05,100 --> 00:22:07,180
+...si todos los tipos de residuos
+siguen creciendo.
+
+279
+00:22:07,620 --> 00:22:09,664
+Alguien tiene que asumir
+la responsabilidad...
+
+280
+00:22:09,864 --> 00:22:11,093
+...de encontrar una solución
+a este problema.
+
+281
+00:22:11,866 --> 00:22:12,866
+Nuestra planta en Vernon, Texas...
+
+282
+00:22:12,916 --> 00:22:14,420
+...ha rejuvenecido
+a una ciudad moribunda.
+
+283
+00:22:14,580 --> 00:22:15,787
+Y por lo que pude observar aquí...
+
+284
+00:22:15,900 --> 00:22:17,820
+...estoy seguro de que
+podría suceder lo mismo con Durham.
+
+285
+00:22:18,060 --> 00:22:20,180
+No tenemos desempleo en Vernon ahora.
+
+286
+00:22:20,340 --> 00:22:22,580
+Y se está reduciendo cada día
+en nuestra planta en Louisiana.
+
+287
+00:22:23,020 --> 00:22:24,740
+- ¿No hay desempleo?
+- No.
+
+288
+00:22:26,940 --> 00:22:28,307
+Señor Alcalde,
+lamento tener que interrumpirlo...
+
+289
+00:22:28,420 --> 00:22:30,340
+- ...pero su próxima cita está aquí.
+- Gracias.
+
+290
+00:22:31,380 --> 00:22:33,254
+Ya hablaremos
+de esto más tarde, señor--
+
+291
+00:22:33,354 --> 00:22:35,781
+Gus.
+Gus Leroy.
+
+292
+00:22:35,940 --> 00:22:38,547
+Creo que debe saber que Durham es una
+entre varias ciudades del sur...
+
+293
+00:22:38,660 --> 00:22:41,060
+...donde mi compañía está considerando
+la apertura de una sucursal.
+
+294
+00:22:41,700 --> 00:22:45,060
+Gracias por decírmelo.
+Estaré en contacto con usted muy pronto.
+
+295
+00:22:59,198 --> 00:23:00,478
+- Buenos días.
+- Buenos días.
+
+296
+00:23:00,998 --> 00:23:03,245
+- Quiero presentar una queja.
+- Sí, señora.
+
+297
+00:23:03,358 --> 00:23:05,925
+Mi tía tiene un galpón...
+
+298
+00:23:06,038 --> 00:23:07,445
+...cerca de su casa que alquila
+para usar como depósito.
+
+299
+00:23:07,558 --> 00:23:12,878
+Y lo acaba de alquilar a un tal
+señor Leroy, de Brownsville, Texas.
+
+300
+00:23:13,038 --> 00:23:15,718
+Él le pagó seis meses en efectivo.
+
+301
+00:23:15,878 --> 00:23:17,278
+Discúlpame, Willa.
+
+302
+00:23:17,518 --> 00:23:22,005
+Creo que el señor Leroy
+no es de Brownsville, Texas.
+
+303
+00:23:22,118 --> 00:23:25,838
+Es de Vernon,
+que está cerca de Brownsville.
+
+304
+00:23:26,457 --> 00:23:27,458
+Bueno.
+
+305
+00:23:27,508 --> 00:23:30,965
+De donde quiera que sea,
+le pagó en efectivo por seis meses.
+
+306
+00:23:31,078 --> 00:23:33,878
+Y tiene dos mexicanos
+custodiando la propiedad.
+
+307
+00:23:34,118 --> 00:23:36,685
+Que no hablan inglés,
+o fingen que no lo hacen.
+
+308
+00:23:36,798 --> 00:23:38,325
+Y cuando fuimos allí esta mañana--
+
+309
+00:23:38,438 --> 00:23:40,765
+- ¿Cómo se llamaba?
+- ¿Quién?
+
+310
+00:23:40,878 --> 00:23:42,725
+El hombre al que su tía
+está rentándole la propiedad.
+
+311
+00:23:42,838 --> 00:23:43,925
+Se lo dije. Leroy.
+
+312
+00:23:44,038 --> 00:23:45,918
+¿Ese es su nombre o su apellido?
+
+313
+00:23:48,118 --> 00:23:50,558
+No lo sé.
+Y mi tía tampoco lo sabe.
+
+314
+00:23:52,675 --> 00:23:53,675
+Entonces.
+
+315
+00:23:53,918 --> 00:23:55,278
+¿Qué es lo que
+le gustaría que yo hiciera?
+
+316
+00:23:55,958 --> 00:23:58,438
+Pídale a alguien
+que vaya a la propiedad...
+
+317
+00:23:59,038 --> 00:24:01,518
+...y que le diga al señor Leroy
+y a sus hombres...
+
+318
+00:24:02,038 --> 00:24:04,598
+...que la señora Carr tiene derecho...
+
+319
+00:24:05,398 --> 00:24:08,758
+...a inspeccionar su galpón
+en cualquier momento que desee.
+
+320
+00:24:08,958 --> 00:24:14,278
+Y que no se puede fumar en el galpón.
+Nunca.
+
+321
+00:24:14,558 --> 00:24:16,478
+Y soy muy firme al respecto.
+
+322
+00:24:17,158 --> 00:24:18,218
+De acuerdo.
+
+323
+00:24:20,398 --> 00:24:25,478
+Iré a su galpón tan pronto como
+termine aquí, y veré qué está pasando.
+
+324
+00:24:30,758 --> 00:24:31,798
+Gracias.
+
+325
+00:24:47,478 --> 00:24:52,038
+- ¿Cómo está Durham?
+- Mas o menos igual.
+
+326
+00:24:57,694 --> 00:24:58,694
+Ten cuidado, cariño.
+
+327
+00:25:00,614 --> 00:25:01,674
+¿Qué quieres decir?
+
+328
+00:25:02,534 --> 00:25:04,054
+Que tengas cuidado, es todo.
+
+329
+00:25:05,934 --> 00:25:07,014
+¿Qué quieres decir con tener cuidado?
+
+330
+00:25:13,574 --> 00:25:16,694
+¿Qué te parece salir a cenar nuevamente
+esta noche? Prometo no llegar tarde.
+
+331
+00:25:18,174 --> 00:25:21,294
+- No puedo. Tengo un compromiso.
+- Rómpelo.
+
+332
+00:25:21,654 --> 00:25:22,734
+No puedo.
+
+333
+00:25:23,854 --> 00:25:25,854
+Rómpelo.
+Por mí.
+
+334
+00:25:28,414 --> 00:25:30,414
+Lo siento. No puedo.
+
+335
+00:25:42,254 --> 00:25:44,414
+Él está detrás
+de cada chica nueva que trabaja aquí.
+
+336
+00:25:45,654 --> 00:25:47,854
+Y cuando se cansa de ellas,
+las despide.
+
+337
+00:25:51,014 --> 00:25:52,181
+Tiene esposa y dos hijos...
+
+338
+00:25:52,294 --> 00:25:55,134
+...pero es un secreto
+bien guardado por aquí.
+
+339
+00:26:11,654 --> 00:26:12,654
+¿Eres casado?
+
+340
+00:26:14,894 --> 00:26:15,974
+Sí.
+
+341
+00:26:18,014 --> 00:26:19,734
+También tengo dos hijos.
+
+342
+00:26:20,774 --> 00:26:23,461
+Y por el bien de los niños,
+vivimos todos juntos.
+
+343
+00:26:23,574 --> 00:26:26,254
+No. Ninguno de nosotros es feliz.
+
+344
+00:26:27,894 --> 00:26:30,614
+Cuando los chicos crezcan,
+el matrimonio será disuelto.
+
+345
+00:26:31,534 --> 00:26:32,774
+¿Alguna otra pregunta?
+
+346
+00:26:34,574 --> 00:26:35,634
+No.
+
+347
+00:26:36,574 --> 00:26:38,214
+No seas tan dura conmigo, Mary.
+
+348
+00:26:39,974 --> 00:26:42,694
+Hago lo mejor que puedo
+en una situación muy difícil.
+
+349
+00:26:51,134 --> 00:26:53,614
+- Señor Leroy.
+- Hola, señora Georgiana Carr.
+
+350
+00:26:53,774 --> 00:26:56,421
+Recibí su mensaje.
+Estaba por llamarla.
+
+351
+00:26:56,534 --> 00:26:59,461
+Cuando terminara aquí esta mañana,
+iba a ir a su casa, si podía...
+
+352
+00:26:59,574 --> 00:27:01,254
+...para hablar sobre la prórroga
+de nuestro contrato de alquiler.
+
+353
+00:27:01,894 --> 00:27:03,094
+Ha estado usted bien, espero.
+
+354
+00:27:03,494 --> 00:27:04,814
+Sí, gracias.
+
+355
+00:27:05,014 --> 00:27:08,574
+Ella es mi sobrina, Willa Jenkins.
+
+356
+00:27:11,934 --> 00:27:12,994
+¿Qué tal?
+
+357
+00:27:13,454 --> 00:27:16,094
+- Hola.
+- Y usted ha estado bien, espero.
+
+358
+00:27:16,734 --> 00:27:19,094
+Lo suficientemente bien, teniendo
+en cuenta los negocios en los que estoy.
+
+359
+00:27:19,574 --> 00:27:22,574
+¿En qué negocios está, señor Leroy?
+
+360
+00:27:22,734 --> 00:27:24,614
+Eliminación de desechos peligrosos.
+
+361
+00:27:24,774 --> 00:27:27,981
+Pasé la mitad de la noche acomodando
+los contenedores en su hermoso galpón.
+
+362
+00:27:28,094 --> 00:27:29,394
+¿Me está queriendo decir...
+
+363
+00:27:29,495 --> 00:27:33,894
+...que tiene un depósito de desechos
+peligrosos en el galpón de mi tía?
+
+364
+00:27:34,054 --> 00:27:35,981
+Sí.
+Pero no se preocupe.
+
+365
+00:27:36,094 --> 00:27:37,581
+Están guardados en contenedores
+especialmente diseñados...
+
+366
+00:27:37,694 --> 00:27:39,454
+...de acuerdo con
+las normas gubernamentales.
+
+367
+00:27:40,934 --> 00:27:41,934
+¿Quiere verlos?
+
+368
+00:27:42,974 --> 00:27:44,534
+No, gracias.
+
+369
+00:27:46,134 --> 00:27:47,134
+¿Señorita Willa?
+
+370
+00:27:47,854 --> 00:27:50,654
+- Sí, quisiera.
+- Venga.
+
+371
+00:28:00,694 --> 00:28:01,741
+Aquí están los contenedores...
+
+372
+00:28:01,854 --> 00:28:04,214
+...todos adecuadamente etiquetados
+de acuerdo a su contenido.
+
+373
+00:28:06,694 --> 00:28:09,014
+- ¿De dónde vinieron?
+- Louisiana
+
+374
+00:28:09,854 --> 00:28:11,581
+Esperamos en una semana
+encontrar un espacio para éstos...
+
+375
+00:28:11,694 --> 00:28:12,781
+...en nuestra planta de
+tratamiento en Texas...
+
+376
+00:28:12,894 --> 00:28:15,134
+...donde serán asegurados
+para almacenamiento permanente.
+
+377
+00:28:15,254 --> 00:28:17,814
+- ¿Dónde será eso?
+- En algún lugar en Texas.
+
+378
+00:28:18,534 --> 00:28:21,454
+Encontrar un lugar de reposo final,
+se hace cada vez más difícil.
+
+379
+00:28:34,174 --> 00:28:37,061
+¿A qué se parecen éstas cosas de cerca?
+
+380
+00:28:37,174 --> 00:28:38,741
+A nada, realmente.
+
+381
+00:28:38,854 --> 00:28:41,181
+Es decir, no puedes ver dentro
+de los contenedores, por supuesto.
+
+382
+00:28:41,294 --> 00:28:44,901
+Tienen etiquetas que dicen
+desechos peligrosos...
+
+383
+00:28:45,014 --> 00:28:46,221
+...lo cual me pone los pelos de punta.
+
+384
+00:28:46,334 --> 00:28:49,781
+De todos modos, me sentiré mejor
+cuando estén fuera y se hayan ido...
+
+385
+00:28:49,894 --> 00:28:51,461
+...y espero que no lo dejes regresar...
+
+386
+00:28:51,574 --> 00:28:53,494
+...a guardar más de esos en tu depósito.
+
+387
+00:28:53,774 --> 00:28:56,301
+¿A qué se refiere con
+residuos peligrosos?
+
+388
+00:28:56,414 --> 00:28:59,821
+- ¿Qué crees que significa?
+- Es peligroso.
+
+389
+00:28:59,934 --> 00:29:02,054
+Más que peligroso. Más que--
+
+390
+00:29:04,294 --> 00:29:05,461
+Estas dos señoritas...
+
+391
+00:29:05,562 --> 00:29:07,461
+...tienen permitido entrar y salir
+del galpón en cualquier momento.
+
+392
+00:29:07,574 --> 00:29:10,014
+Pueden hablarles en inglés
+si les hacen alguna pregunta.
+
+393
+00:29:10,134 --> 00:29:11,254
+Nos vemos después, señoritas.
+
+394
+00:29:14,304 --> 00:29:19,664
+Las trajeron de Louisiana.
+Las enviarán a Texas en una semana.
+
+395
+00:29:19,824 --> 00:29:22,804
+Sólo para ser enterrados...
+
+396
+00:29:23,005 --> 00:29:26,304
+...eso es lo que dicen,
+si en Texas hay espacio.
+
+397
+00:29:28,544 --> 00:29:31,024
+¿A qué ha llegado el mundo?
+
+398
+00:29:37,384 --> 00:29:38,384
+¿Qué hay ahí dentro?
+
+399
+00:29:39,504 --> 00:29:40,564
+Muerte.
+
+400
+00:29:42,704 --> 00:29:43,704
+¿Señora?
+
+401
+00:29:43,904 --> 00:29:44,944
+¡Muerte!
+
+402
+00:29:53,624 --> 00:29:54,944
+¿Qué hay en estos contenedores?
+
+403
+00:29:55,744 --> 00:29:56,944
+Están todos etiquetados.
+
+404
+00:30:00,104 --> 00:30:03,224
+- "Residuos peligrosos".
+- Son inofensivos en los contenedores.
+
+405
+00:30:03,784 --> 00:30:06,031
+Las señoritas que estuvieron aquí
+presentaron una queja...
+
+406
+00:30:06,144 --> 00:30:08,664
+...porque no las habían dejar entrar
+a inspeccionar el galpón.
+
+407
+00:30:08,784 --> 00:30:12,784
+Y porque no se puede fumar
+cerca, ni dentro del galpón.
+
+408
+00:30:14,424 --> 00:30:17,984
+Entiendo, oficial.
+Está todo bajo control.
+
+409
+00:30:29,824 --> 00:30:31,264
+¿En qué estás pensando?
+
+410
+00:30:31,944 --> 00:30:33,704
+En el señor Leroy y mi ex esposo.
+
+411
+00:30:34,544 --> 00:30:37,864
+- ¿Qué? ¿Crees que se parecen?
+- No, para nada.
+
+412
+00:30:38,704 --> 00:30:41,391
+Es la forma en que asumió
+que estarías complacida...
+
+413
+00:30:41,504 --> 00:30:44,464
+...por cualquier cosa que quisiera hacer
+sin importar que sea una barbaridad.
+
+414
+00:30:49,504 --> 00:30:52,791
+Desde ya, espero que no tengas intención
+de extenderle el contrato de alquiler.
+
+415
+00:30:52,904 --> 00:30:54,831
+- Bueno--
+- No quiero decirte qué hacer o no...
+
+416
+00:30:54,944 --> 00:30:58,711
+...pero en mi opinión cuanto antes
+lo saques de tu depósito, mejor.
+
+417
+00:30:58,824 --> 00:31:00,304
+Bueno, ¿cómo podría hacer eso?
+
+418
+00:31:00,544 --> 00:31:03,831
+Diciéndole que se lo alquilaste
+bajo pretensiones falsas.
+
+419
+00:31:03,944 --> 00:31:05,831
+Nunca te dijo
+qué iba a guardar ahí dentro.
+
+420
+00:31:05,944 --> 00:31:09,624
+Bueno, lo intentó,
+pero le dije que no estaba interesada.
+
+421
+00:31:10,864 --> 00:31:15,391
+Bueno, si hubieras sabido lo que sabes
+ahora, ¿se lo hubieses alquilado?
+
+422
+00:31:15,504 --> 00:31:17,464
+- Bueno, supongo que no.
+- ¿Entonces?
+
+423
+00:31:21,424 --> 00:31:23,144
+¿Has sabido algo de tu esposo?
+
+424
+00:31:24,424 --> 00:31:26,624
+¿Por qué diablos lo traes a colación?
+
+425
+00:31:28,064 --> 00:31:31,744
+Bueno, yo no lo traje a colación.
+Tú lo mencionaste primero, cariño.
+
+426
+00:31:33,564 --> 00:31:34,584
+No.
+
+427
+00:31:35,864 --> 00:31:38,584
+Nunca escuché de él,
+y espero nunca escuchar.
+
+428
+00:31:40,991 --> 00:31:42,334
+Entonces...
+
+429
+00:31:42,384 --> 00:31:43,671
+...si estás de acuerdo conmigo...
+
+430
+00:31:43,784 --> 00:31:47,984
+...en que sería lo mejor y lo más lógico
+romper el contrato de alquiler...
+
+431
+00:31:48,144 --> 00:31:50,951
+...creo que deberíamos ir a un abogado
+y explicarle las circunstancias.
+
+432
+00:31:51,064 --> 00:31:54,664
+Estoy segura de que te dirá que
+no tendrás problemas en pedirle...
+
+433
+00:31:55,064 --> 00:31:57,391
+...que se vaya mientras le devuelvas
+el dinero que te pagó.
+
+434
+00:31:57,504 --> 00:31:58,784
+Todo en efectivo, ¿verdad?
+
+435
+00:32:01,504 --> 00:32:03,224
+Sí, así es.
+
+436
+00:32:05,531 --> 00:32:06,532
+Entonces...
+
+437
+00:32:06,582 --> 00:32:08,664
+¿por qué no vamos a ver a
+un abogado ahora mismo?
+
+438
+00:32:11,464 --> 00:32:14,471
+¿Te molesta si no voy esta tarde?
+
+439
+00:32:14,584 --> 00:32:18,944
+Estoy cansada y fue una mañana
+extenuante para mí.
+
+440
+00:32:19,344 --> 00:32:22,544
+Seguro. ¿No te importa que yo vaya?
+
+441
+00:32:24,904 --> 00:32:26,904
+No, por supuesto que no.
+
+442
+00:32:56,780 --> 00:32:58,660
+- Hola, Kate.
+- ¿Qué puedo hacer por ti?
+
+443
+00:32:59,460 --> 00:33:00,707
+Necesito usar tu computadora.
+
+444
+00:33:00,820 --> 00:33:02,540
+Estoy buscando algo sobre
+desechos peligrosos.
+
+445
+00:33:02,940 --> 00:33:04,820
+De acuerdo. Úsala.
+
+446
+00:33:05,700 --> 00:33:06,700
+Gracias.
+
+447
+00:33:41,248 --> 00:33:42,248
+Vas a tener que actuar rápido.
+
+448
+00:33:42,448 --> 00:33:44,768
+Acaban de llamarme de Vernon.
+Tienen un lugar para los contenedores.
+
+449
+00:33:44,928 --> 00:33:47,568
+Los quieren allí en dos días.
+Estoy esperando otros cien para mañana.
+
+450
+00:33:50,088 --> 00:33:52,648
+- ¿Si?
+- ¿Gus Leroy? Le habla el intendente.
+
+451
+00:33:52,928 --> 00:33:57,095
+Me estaba preguntando si podría
+llamar a una reunión con el concejo...
+
+452
+00:33:57,208 --> 00:33:58,975
+...y algunas personas
+de la comunidad...
+
+453
+00:33:59,088 --> 00:34:02,535
+...que han expresado interés en lo que
+pueda decirnos de su planta de Vernon.
+
+454
+00:34:02,648 --> 00:34:05,288
+Sí, señor. ¿Qué le parece
+mañana a la noche? A las siete.
+
+455
+00:34:05,528 --> 00:34:07,328
+- Gracias.
+- Estaré allí.
+
+456
+00:34:19,263 --> 00:34:23,463
+Tuve una agradable charla con
+el abogado, Bruce Jackson.
+
+457
+00:34:37,463 --> 00:34:39,063
+¿Estás bien, tía?
+
+458
+00:34:41,457 --> 00:34:44,017
+¿Estás preocupada por tu galpón?
+No lo estés.
+
+459
+00:34:44,537 --> 00:34:47,337
+Estaremos libres del Sr. Leroy,
+estoy segura de eso.
+
+460
+00:34:48,017 --> 00:34:50,217
+El abogado dijo que
+no tendrás problemas...
+
+461
+00:34:50,337 --> 00:34:52,064
+...en salir del trato con él.
+
+462
+00:34:52,177 --> 00:34:55,224
+Sólo dices que como para cuando se
+hizo el contrato, no estabas...
+
+463
+00:34:55,337 --> 00:34:57,064
+...al tanto de cómo iba
+a usar el galpón...
+
+464
+00:34:57,177 --> 00:34:59,137
+...quieres anular el trato.
+
+465
+00:34:59,777 --> 00:35:03,697
+Y le devuelves el dinero que te dio.
+¿No son buenas noticias?
+
+466
+00:35:05,337 --> 00:35:07,577
+- Willa.
+- Sí, señora.
+
+467
+00:35:10,377 --> 00:35:13,697
+- Tienes que saber algo.
+- ¿Qué es, tía?
+
+468
+00:35:14,017 --> 00:35:16,057
+- Me da vergüenza decírtelo.
+- ¿Por qué?
+
+469
+00:35:17,017 --> 00:35:18,097
+Porque estoy avergonzada.
+
+470
+00:35:23,497 --> 00:35:25,497
+Tengo muy poco dinero, Willa.
+
+471
+00:35:26,097 --> 00:35:29,064
+Lo sé.
+Yo también tengo poco dinero.
+
+472
+00:35:29,177 --> 00:35:32,366
+Pero tú tienes tu fideicomiso.
+Lo sé, es modesto, pero--
+
+473
+00:35:32,466 --> 00:35:34,618
+- Willa.
+- Sí.
+
+474
+00:35:36,857 --> 00:35:42,617
+Me lo dijeron la semana pasada.
+No hay dinero en mi fideicomiso.
+
+475
+00:35:43,937 --> 00:35:45,257
+Cuando escuché eso...
+
+476
+00:35:46,897 --> 00:35:50,857
+...llamé a Crosby Gaige
+para vender la casa.
+
+477
+00:35:51,537 --> 00:35:52,537
+No lo sé.
+
+478
+00:35:53,017 --> 00:35:57,544
+Pero esa mañana, el Sr. Leroy
+vino a alquilar el galpón.
+
+479
+00:35:57,657 --> 00:36:01,257
+Y me dio efectivo.
+Entonces pospuse la venta de la casa.
+
+480
+00:36:04,057 --> 00:36:06,777
+Gasté la mayor parte del
+dinero que me dio.
+
+481
+00:36:07,457 --> 00:36:11,097
+Pagué mis cuentas y ese
+trabajo dental que me hice.
+
+482
+00:36:11,737 --> 00:36:15,497
+Y necesitaba... como sea.
+
+483
+00:36:18,937 --> 00:36:22,497
+No tengo prácticamente nada
+para devolverle.
+
+484
+00:36:27,337 --> 00:36:30,217
+Debería haber vendido esta casa
+mucho tiempo atrás.
+
+485
+00:36:41,603 --> 00:36:42,604
+¿Podré entrar?
+
+486
+00:36:42,654 --> 00:36:44,456
+En la escuela me enseñaron que si
+dices "¿podré entrar?"...
+
+487
+00:36:44,569 --> 00:36:46,536
+...estas preguntando si eres
+capaz de entrar.
+
+488
+00:36:46,649 --> 00:36:48,296
+Y dices "¿puedo entrar?"
+cuando quieres pedir permiso.
+
+489
+00:36:48,409 --> 00:36:50,009
+¿No aprendiste eso
+en la escuela, mamá?
+
+490
+00:36:50,569 --> 00:36:55,529
+No, querida. Apenas hice
+quinto grado, ¿recuerdas?
+
+491
+00:36:56,969 --> 00:36:59,529
+No aprendí demasiado,
+salvo lo que me enseñó la vida.
+
+492
+00:37:00,089 --> 00:37:02,096
+Me casé con tu padre
+cuando tenía quince.
+
+493
+00:37:02,209 --> 00:37:04,296
+Te tuve a los diecisiete.
+Me divorcié--
+
+494
+00:37:04,409 --> 00:37:05,889
+Perdón.
+
+495
+00:37:06,729 --> 00:37:08,009
+Estás perdonada.
+
+496
+00:37:13,689 --> 00:37:16,409
+- Me despidieron, mamá.
+- ¿Qué?
+
+497
+00:37:16,969 --> 00:37:20,889
+Me dieron el despido y mi
+salario de dos semanas.
+
+498
+00:37:21,809 --> 00:37:23,449
+- ¿Por qué?
+- ¿Por qué?
+
+499
+00:37:25,809 --> 00:37:27,289
+No se por qué...
+
+500
+00:37:31,169 --> 00:37:32,449
+...salvo por Howard.
+
+501
+00:37:33,609 --> 00:37:35,696
+Me preguntó si saldría
+de nuevo con él...
+
+502
+00:37:35,809 --> 00:37:37,256
+...me rehusé y me preguntó por qué.
+
+503
+00:37:37,369 --> 00:37:39,889
+Le dije que porque me contaron
+que tiene una esposa y...
+
+504
+00:37:41,289 --> 00:37:44,849
+...dos hijos.
+
+505
+00:37:46,169 --> 00:37:47,169
+¿Era casado?
+
+506
+00:37:48,409 --> 00:37:49,409
+Sí.
+
+507
+00:37:50,289 --> 00:37:51,889
+¿Y tiene dos niños?
+
+508
+00:37:56,489 --> 00:37:57,489
+Sí.
+
+509
+00:37:59,209 --> 00:38:00,209
+Mercy.
+
+510
+00:38:05,969 --> 00:38:06,969
+Mamá.
+
+511
+00:38:08,769 --> 00:38:09,769
+¿Si?
+
+512
+00:38:12,009 --> 00:38:14,009
+No me quiero quedar en Durham.
+
+513
+00:38:18,169 --> 00:38:19,409
+Me quiero ir de acá.
+
+514
+00:38:24,369 --> 00:38:27,449
+Tengo 24 años.
+Nunca fui mas allá de Raleigh.
+
+515
+00:38:29,529 --> 00:38:31,619
+Las mellizas Wiggins están en Atlanta.
+
+516
+00:38:31,732 --> 00:38:32,732
+Dicen que puedo ir y quedarme
+con ellas hasta...
+
+517
+00:38:32,845 --> 00:38:36,249
+...que encuentre un trabajo y un lugar.
+
+518
+00:38:40,129 --> 00:38:41,409
+¿Cuándo te quieres ir?
+
+519
+00:38:42,529 --> 00:38:43,529
+Mañana.
+
+520
+00:38:47,449 --> 00:38:48,449
+¿Mañana?
+
+521
+00:38:55,729 --> 00:38:56,729
+Sí, mamá.
+
+522
+00:39:13,701 --> 00:39:16,581
+- Hola, Sr. Leroy. Pase, por favor.
+- Gracias.
+
+523
+00:39:20,221 --> 00:39:24,941
+- Hola, Sra. Georgiana.
+- Hola, Sr. Leroy. Siéntese.
+
+524
+00:39:25,221 --> 00:39:26,221
+Gracias.
+
+525
+00:39:38,181 --> 00:39:41,148
+No demoraré mucho.
+Tuve noticias de Vernon.
+
+526
+00:39:41,261 --> 00:39:43,068
+Quisieran los contenedores allí
+en dos días...
+
+527
+00:39:43,181 --> 00:39:44,981
+...y tendremos nuevos aquí
+desde Louisiana.
+
+528
+00:39:50,661 --> 00:39:53,581
+- Ha sido un hermoso día ¿verdad?
+- Sí.
+
+529
+00:39:54,621 --> 00:39:57,261
+Estaquio me dijo que estuvieron
+viendo el galpón.
+
+530
+00:39:58,861 --> 00:40:01,348
+No sé cuanto tiempo pasó
+desde la última vez que había ido.
+
+531
+00:40:01,461 --> 00:40:04,068
+Estoy muy conforme con su galpón
+Sra. Georgiana...
+
+532
+00:40:04,181 --> 00:40:07,541
+...y me gustaría extender mi contrato
+por otros seis meses...
+
+533
+00:40:08,381 --> 00:40:10,061
+...y después, por cinco años más.
+
+534
+00:40:10,221 --> 00:40:11,468
+Tengo la autoridad de mi compañía...
+
+535
+00:40:11,581 --> 00:40:13,468
+...para rehacer el acuerdo financiero...
+
+536
+00:40:13,581 --> 00:40:16,428
+...y creo que lo encontrará mucho más
+favorable para usted de lo que es ahora.
+
+537
+00:40:16,541 --> 00:40:19,461
+¿Cuánto le están pagando ahora?
+¿Como 500 dólares por mes? ¿Sí?
+
+538
+00:40:19,781 --> 00:40:23,421
+Bueno, creo que debería conseguirse
+un abogado para negociar el contrato...
+
+539
+00:40:23,741 --> 00:40:27,261
+...porque mi compañía va a necesitar
+para tener una idea del potencial...
+
+540
+00:40:27,781 --> 00:40:30,548
+...una idea si la ciudad será amigable
+a una operación como la nuestra.
+
+541
+00:40:30,661 --> 00:40:32,748
+- Sr. Leroy--
+- Todo esto toma tiempo y dinero.
+
+542
+00:40:32,861 --> 00:40:35,701
+Pero usted tendrá en mí
+un amigo en la corte.
+
+543
+00:40:37,621 --> 00:40:39,468
+Porque creo que las oportunidades aquí
+son enormes.
+
+544
+00:40:39,581 --> 00:40:41,628
+Sólo necesitan la imaginación
+para verlo.
+
+545
+00:40:41,741 --> 00:40:43,181
+Tengo la sensación de que lo harán.
+
+546
+00:40:45,301 --> 00:40:47,181
+Así que para llegar
+a asuntos más prácticos...
+
+547
+00:40:49,501 --> 00:40:55,461
+...sugiero que los próximos seis meses
+de alquiler empiecen ahora.
+
+548
+00:40:57,301 --> 00:41:00,868
+Y en lugar de 600 por mes,
+como creo que se pide...
+
+549
+00:41:00,981 --> 00:41:02,301
+...vamos a elevarlo a 1000.
+
+550
+00:41:04,061 --> 00:41:07,588
+Entonces, ¿empezamos nuestra
+nueva asociación juntos...
+
+551
+00:41:07,701 --> 00:41:09,821
+...redactando un acuerdo por
+los próximos seis meses?
+
+552
+00:41:10,821 --> 00:41:12,708
+Y mañana, se lo prometo...
+
+553
+00:41:12,821 --> 00:41:16,741
+...le haré una oferta por el uso del
+depósito por los próximos cinco años.
+
+554
+00:41:17,901 --> 00:41:20,781
+Bueno, gracias por su muy amable oferta.
+
+555
+00:41:21,381 --> 00:41:27,141
+Pero realmente no quiero
+extender su contrato, Sr. Leroy.
+
+556
+00:41:30,941 --> 00:41:32,748
+Cuando le alquilé el depósito...
+
+557
+00:41:32,861 --> 00:41:35,068
+...no tenía idea de
+lo que pondrían allí--
+
+558
+00:41:35,181 --> 00:41:38,588
+Traté de decirle lo que esperaba traer,
+pero dijo que no le interesaba saber.
+
+559
+00:41:38,701 --> 00:41:43,301
+Aún así, no tenía idea, ni la más
+remota idea, de que traería esos...
+
+560
+00:41:44,061 --> 00:41:46,268
+- ¿Cómo le llaman?
+- Contenedores.
+
+561
+00:41:46,381 --> 00:41:48,428
+No, eso ya lo sé.
+Me refiero a lo que le ponen dentro.
+
+562
+00:41:48,541 --> 00:41:50,861
+- Desechos peligrosos.
+- Sí.
+
+563
+00:41:51,461 --> 00:41:55,468
+Verá, quisiera que
+los saquen ahora mismo.
+
+564
+00:41:55,581 --> 00:41:58,948
+Pero si ha hecho acuerdos
+para que estén aquí por una semana--
+
+565
+00:41:59,061 --> 00:42:01,748
+Bueno, de hecho estaba contándolo
+para los próximos seis meses.
+
+566
+00:42:01,861 --> 00:42:04,548
+- Eso es lo que dice mi contrato.
+- Lo sé y lo siento.
+
+567
+00:42:04,661 --> 00:42:06,588
+Hay obligaciones contractuales...
+
+568
+00:42:06,701 --> 00:42:07,981
+...si terminamos el acuerdo
+sobre la base de nuestro contrato.
+
+569
+00:42:15,341 --> 00:42:17,061
+¿Realmente insiste en hacer esto?
+
+570
+00:42:26,541 --> 00:42:29,526
+No tengo otra opción que...
+
+571
+00:42:30,300 --> 00:42:32,141
+...conseguirme un abogado
+y llevarla a tribunales.
+
+572
+00:42:33,101 --> 00:42:35,708
+¡Encontraré una forma
+de devolverle su dinero!
+
+573
+00:42:35,821 --> 00:42:37,388
+No me importa el dinero.
+
+574
+00:42:37,501 --> 00:42:41,141
+Me preocupo por todo el trabajo
+y el planeamiento que se ha ido en esto.
+
+575
+00:42:43,341 --> 00:42:45,428
+Sra. Willa, ¿no cree que su tía
+no está siendo razonable?
+
+576
+00:42:45,541 --> 00:42:48,908
+No, no lo creo.
+Creo que está siendo muy sensata.
+
+577
+00:42:49,021 --> 00:42:52,101
+¿Cómo se atreve a amenazarla con la ley?
+¿Cómo se atreve?
+
+578
+00:42:55,341 --> 00:42:57,181
+¿Alguna vez ha oído hablar
+acerca de Vernon, Texas?
+
+579
+00:42:57,501 --> 00:42:58,501
+No.
+
+580
+00:43:00,061 --> 00:43:02,301
+Bueno, es un pueblo
+de unas 800 personas.
+
+581
+00:43:03,541 --> 00:43:05,141
+Y se estaban quedando en el camino.
+
+582
+00:43:05,941 --> 00:43:07,901
+Los jóvenes se iban en masa.
+
+583
+00:43:08,101 --> 00:43:10,068
+Mi compañía fue a hablar
+con las autoridades del pueblo...
+
+584
+00:43:10,181 --> 00:43:12,508
+...y les ofreció construirles
+un parque y una piscina...
+
+585
+00:43:12,621 --> 00:43:15,821
+...si nos dejaban entrar y establecer
+una instalación de residuos tóxicos.
+
+586
+00:43:16,627 --> 00:43:17,627
+Estuvieron de acuerdo.
+
+587
+00:43:18,507 --> 00:43:21,747
+Y tuvimos cuidado en la planificación
+y locación de nuestro sistema.
+
+588
+00:43:23,267 --> 00:43:25,434
+Utilizamos a la población local
+siempre que fue posible.
+
+589
+00:43:25,547 --> 00:43:28,827
+Y el pueblo está prosperando
+y la gente tiene trabajos.
+
+590
+00:43:30,827 --> 00:43:33,183
+Me parece muy importante
+la responsabilidad que asumió...
+
+591
+00:43:33,246 --> 00:43:34,947
+...cuando se involucró en todo esto.
+
+592
+00:43:36,347 --> 00:43:39,634
+Si dejamos que se afiance la gente que
+sólo está interesada en beneficios...
+
+593
+00:43:39,747 --> 00:43:43,107
+...nadie estará a salvo con el tiempo.
+Ni usted, ni su tía.
+
+594
+00:43:43,827 --> 00:43:45,927
+Ni yo. Nadie.
+
+595
+00:43:47,447 --> 00:43:49,834
+Ahora, no estoy diciendo que nuestro
+historial en Vernon es perfecto, pero...
+
+596
+00:43:49,947 --> 00:43:52,587
+...los errores se corrigen
+tan pronto se descubren.
+
+597
+00:43:54,507 --> 00:43:57,827
+Bueno, mire el centro de Durham.
+Está muriendo. Literalmente.
+
+598
+00:43:58,787 --> 00:44:02,274
+Le dije a mi compañía que creía
+que hay una oportunidad aquí...
+
+599
+00:44:02,387 --> 00:44:05,427
+...en un lugar que necesita ayuda,
+y creo que están muy interesados.
+
+600
+00:44:05,827 --> 00:44:08,267
+Sólo están a la espera de ver
+cómo se resuelve esta primera fase.
+
+601
+00:44:11,547 --> 00:44:15,947
+No soy su enemigo, Sra. Willa,
+y no quiero serlo.
+
+602
+00:44:21,467 --> 00:44:23,427
+Permanezcamos lejos
+de abogados y tribunales.
+
+603
+00:44:27,467 --> 00:44:28,467
+Déme un mes.
+
+604
+00:44:28,947 --> 00:44:31,234
+Déjeme enviar este montón
+de contenedores a Vernon...
+
+605
+00:44:31,347 --> 00:44:33,227
+...y traer los próximos de Louisiana.
+
+606
+00:44:33,627 --> 00:44:35,907
+Déjeme hablarle a la ciudad
+acerca de los planes que tengo.
+
+607
+00:44:37,150 --> 00:44:38,150
+Y al final del mes...
+
+608
+00:44:38,263 --> 00:44:43,107
+...si todavía cree que sólo soy...
+un mercenario y oportunista...
+
+609
+00:44:43,267 --> 00:44:44,347
+...entonces me iré.
+
+610
+00:44:45,107 --> 00:44:47,914
+La dejaré a usted, a su tía
+y a su depósito.
+
+611
+00:44:48,027 --> 00:44:49,827
+Y nunca más oirán sobre mí.
+
+612
+00:44:53,107 --> 00:44:56,347
+Voy a ir a la habitación de al lado
+para que hablen del asunto.
+
+613
+00:44:57,307 --> 00:45:00,667
+Y cuando lleguen a la decisión
+sobre qué quieren hacer, me llaman.
+
+614
+00:45:08,907 --> 00:45:10,354
+Dime qué hacer, Willa.
+
+615
+00:45:10,467 --> 00:45:12,907
+No, no haré eso.
+Es tu depósito.
+
+616
+00:45:15,387 --> 00:45:17,667
+Un mes no es mucho tiempo.
+
+617
+00:45:18,307 --> 00:45:20,234
+¿Estarías enojada conmigo...
+
+618
+00:45:20,347 --> 00:45:23,274
+...si aceptara que él se quede?
+
+619
+00:45:23,387 --> 00:45:24,387
+No.
+
+620
+00:45:26,427 --> 00:45:28,307
+¿Pensarías que fui débil?
+
+621
+00:45:28,427 --> 00:45:30,067
+No, tampoco eso.
+
+622
+00:45:30,507 --> 00:45:32,547
+La ciudad se está muriendo.
+
+623
+00:45:33,467 --> 00:45:35,514
+¿Recuerdas cómo era...
+
+624
+00:45:35,627 --> 00:45:38,027
+...lo espléndido que era
+cuando eras una niña?
+
+625
+00:45:39,627 --> 00:45:40,627
+Sí.
+
+626
+00:45:43,347 --> 00:45:47,994
+Pensé que fue muy impresionante
+cuando habló de Vernon, Texas, ¿no?
+
+627
+00:45:48,107 --> 00:45:50,427
+Sí, estaba impresionada.
+
+628
+00:45:54,107 --> 00:45:57,947
+Entonces estoy de acuerdo
+en que se quede por un mes.
+
+629
+00:45:58,547 --> 00:46:00,667
+- ¿Estás de acuerdo?
+- Estoy de acuerdo.
+
+630
+00:46:07,827 --> 00:46:09,147
+¿Sr. Leroy?
+
+631
+00:46:11,747 --> 00:46:15,987
+Hemos decidido que queremos
+que tenga su mes.
+
+632
+00:46:17,907 --> 00:46:21,467
+Gracias. No se arrepentirán.
+Se los prometo.
+
+633
+00:46:25,082 --> 00:46:26,082
+Sí.
+
+634
+00:46:26,922 --> 00:46:28,002
+Harris está aquí.
+
+635
+00:46:28,442 --> 00:46:30,282
+Dijo que le pediste que viniera.
+
+636
+00:46:30,722 --> 00:46:32,242
+Sí, así es.
+
+637
+00:46:34,082 --> 00:46:35,242
+Está en el living.
+
+638
+00:46:36,522 --> 00:46:37,522
+De acuerdo.
+
+639
+00:46:44,202 --> 00:46:46,842
+¿Estabas en el último año cuando
+tomaron esta foto en la escuela, no?
+
+640
+00:46:47,882 --> 00:46:48,882
+Sí.
+
+641
+00:46:49,522 --> 00:46:51,282
+No has cambiado mucho
+desde la escuela.
+
+642
+00:46:52,445 --> 00:46:53,445
+Sí, lo he hecho.
+
+643
+00:46:53,558 --> 00:46:55,202
+Bueno, no puedes decirlo
+mirando esa foto.
+
+644
+00:46:57,402 --> 00:46:59,642
+- ¿Tu no has cambiado?
+- Supongo.
+
+645
+00:47:03,642 --> 00:47:05,922
+- ¿Cómo te va en universidad?
+- Con mucho trabajo.
+
+646
+00:47:06,882 --> 00:47:08,882
+¿Todavía piensas en ejercer aquí?
+
+647
+00:47:09,362 --> 00:47:11,162
+Sí, lo pienso.
+
+648
+00:47:16,522 --> 00:47:18,362
+- Harris...
+- ¿Si?
+
+649
+00:47:18,922 --> 00:47:20,082
+Me voy de Durham.
+
+650
+00:47:21,282 --> 00:47:23,962
+- Me mudo a Atlanta.
+- ¿Por qué?
+
+651
+00:47:24,642 --> 00:47:27,522
+Tengo mis razones.
+Te las contaré algún día.
+
+652
+00:47:28,402 --> 00:47:30,602
+Me gustaría que me hicieras un favor.
+
+653
+00:47:30,802 --> 00:47:33,009
+Quiero que me lleves al aeropuerto
+mañana a la noche.
+
+654
+00:47:33,122 --> 00:47:37,682
+- De acuerdo. ¿A qué hora te vas?
+- A las nueve.
+
+655
+00:47:40,082 --> 00:47:41,482
+¿Por qué no te llevan tus padres?
+
+656
+00:47:43,202 --> 00:47:47,122
+Me gustaría, pero están
+los dos muy tristes.
+
+657
+00:47:47,722 --> 00:47:50,082
+Y creo que será más fácil,
+si nos despedimos aquí.
+
+658
+00:47:51,042 --> 00:47:52,202
+¿No es esto un poco apresurado?
+
+659
+00:47:53,282 --> 00:47:54,722
+Sí, supongo que sí.
+
+660
+00:47:55,402 --> 00:47:57,082
+¿Cuándo decidiste que te querías ir?
+
+661
+00:47:57,242 --> 00:47:58,442
+- Hoy.
+- ¿Hoy?
+
+662
+00:47:59,702 --> 00:48:01,002
+¿Por qué Atlanta?
+
+663
+00:48:01,482 --> 00:48:04,162
+Recordé que las mellizas Wiggins
+están allá y las llamé.
+
+664
+00:48:04,962 --> 00:48:07,362
+Dijeron que no tendré problemas
+en conseguir trabajo...
+
+665
+00:48:07,522 --> 00:48:09,682
+...y que me podía quedar con ellas
+hasta que lo consiguiera.
+
+666
+00:48:11,002 --> 00:48:12,362
+¿Qué pasará si no te gusta Atlanta?
+
+667
+00:48:13,882 --> 00:48:15,202
+Entonces no me quedaré.
+
+668
+00:48:16,882 --> 00:48:20,242
+Intentaré en Houston o New Orleans.
+
+669
+00:48:20,442 --> 00:48:22,442
+¿Conoces a alguien en Houston o
+New Orleans?
+
+670
+00:48:23,162 --> 00:48:24,162
+No.
+
+671
+00:48:24,194 --> 00:48:26,242
+¿Qué pasará si no te gusta
+Houston o New Orleans?
+
+672
+00:48:29,242 --> 00:48:31,802
+Entonces tendré que volver a aquí
+y conseguir un trabajo.
+
+673
+00:48:35,202 --> 00:48:37,169
+No me mires así, Harris.
+
+674
+00:48:37,282 --> 00:48:38,922
+Eres peor que mi mamá y Frank.
+
+675
+00:48:41,282 --> 00:48:45,642
+¿Nunca te quisiste ir?
+¿Estás tan contento?
+
+676
+00:48:47,602 --> 00:48:49,042
+Apuesto a que si no tuvieras--
+
+677
+00:48:53,362 --> 00:48:54,362
+No importa.
+
+678
+00:48:54,562 --> 00:48:57,562
+- ¿Qué ibas a decir?
+- No, nada, nada.
+
+679
+00:49:02,282 --> 00:49:03,962
+Quiero saber lo que ibas a decir.
+
+680
+00:49:04,802 --> 00:49:06,769
+Apuesto a que si no tuvieras a tu
+madre dependiendo de ti...
+
+681
+00:49:06,882 --> 00:49:08,642
+...también pensarías en irte.
+
+682
+00:49:10,962 --> 00:49:13,402
+¿Qué clase de futuro tienes aquí?
+
+683
+00:49:13,722 --> 00:49:16,962
+Policía. Treinta mil al año.
+
+684
+00:49:17,442 --> 00:49:19,729
+- Los perdedores se conforman con eso.
+- ¿Me estás llamando perdedor?
+
+685
+00:49:19,842 --> 00:49:22,449
+Te llamaré así si te quedas,
+porque eso es lo que serás.
+
+686
+00:49:22,562 --> 00:49:25,042
+Un policía perdedor.
+Un abogado perdedor.
+
+687
+00:49:28,042 --> 00:49:29,282
+Muchas gracias, Mary.
+
+688
+00:49:33,042 --> 00:49:34,042
+Harris.
+
+689
+00:49:37,282 --> 00:49:38,282
+¡Harris!
+
+690
+00:49:39,522 --> 00:49:40,522
+¡Harris!
+
+691
+00:49:43,362 --> 00:49:44,882
+No quise que sonara así.
+
+692
+00:49:54,402 --> 00:49:55,682
+Tendré que llamarte luego.
+
+693
+00:49:59,082 --> 00:50:01,602
+- ¿Ocupado con trabajo?
+- Sí. Los estamos enviando.
+
+694
+00:50:02,522 --> 00:50:04,402
+Esperamos el próximo cargamento
+mañana a la noche.
+
+695
+00:50:05,082 --> 00:50:08,682
+- ¿Estará ocupado aquí esta noche?
+- No.
+
+696
+00:50:09,442 --> 00:50:11,649
+¿Estará libre para cenar en la casa
+de la tía Georgiana?
+
+697
+00:50:11,762 --> 00:50:15,042
+Está decidida a vender su casa.
+Piensa que se venderá rápido...
+
+698
+00:50:15,802 --> 00:50:17,649
+...y esta es la última oportunidad
+que tiene para cocinar en su cocina.
+
+699
+00:50:17,762 --> 00:50:21,202
+Estará muy contenta
+si nos pudiera acompañar.
+
+700
+00:50:21,362 --> 00:50:24,362
+- ¿A qué hora?
+- ¿A qué hora está bien para usted?
+
+701
+00:50:25,722 --> 00:50:26,722
+A las seis.
+
+702
+00:50:36,042 --> 00:50:38,809
+Mañana a la noche, tengo una cita
+con el intendente y el concejo.
+
+703
+00:50:38,922 --> 00:50:39,929
+Me gustaría que estuviera allí...
+
+704
+00:50:40,042 --> 00:50:41,642
+...y me diga cómo me fue
+en la reunión.
+
+705
+00:50:41,922 --> 00:50:43,482
+- ¿A qué hora será?
+- A las siete.
+
+706
+00:50:44,962 --> 00:50:45,962
+Estaré allí.
+
+707
+00:50:54,072 --> 00:50:55,479
+- ¿Hola?
+<i>- ¿Sra. Willa?</i>
+
+708
+00:50:55,592 --> 00:50:57,559
+- Sí.
+<i>- Soy Crosby de la oficina inmobiliaria.</i>
+
+709
+00:50:57,672 --> 00:50:58,679
+¿Cómo está, Crosby?
+
+710
+00:50:58,792 --> 00:51:01,439
+<i>Estoy muy bien, gracias.
+Disculpe que la moleste.</i>
+
+711
+00:51:01,552 --> 00:51:04,519
+<i>¿Podría hablar con su tía?
+Sólo será un segundo.</i>
+
+712
+00:51:04,632 --> 00:51:05,632
+La llamaré.
+
+713
+00:51:06,712 --> 00:51:07,992
+Es para ti, tía.
+
+714
+00:51:15,352 --> 00:51:17,272
+- ¿Si?.
+<i>- ¿Sra. Georgiana?</i>
+
+715
+00:51:18,072 --> 00:51:19,072
+¿Si?
+
+716
+00:51:19,075 --> 00:51:21,399
+<i>La Sra. Lucy Calhoun está interesada
+en ver la casa, mañana a la noche.</i>
+
+717
+00:51:21,512 --> 00:51:23,399
+- Por Dios.
+<i>- Es muy rica, y conoce la casa.</i>
+
+718
+00:51:23,512 --> 00:51:27,479
+¿Por qué quiere venir mañana a la noche?
+¿Por qué no viene durante el día?
+
+719
+00:51:27,592 --> 00:51:29,112
+<i>Así es como ella lo quiere.</i>
+
+720
+00:51:30,872 --> 00:51:32,912
+De acuerdo. Gracias.
+
+721
+00:51:33,712 --> 00:51:37,679
+Bueno, tiene a una señora muy rica,
+que pasa siempre por la casa.
+
+722
+00:51:37,792 --> 00:51:39,319
+Ella tiene mucho dinero...
+
+723
+00:51:39,432 --> 00:51:42,239
+...y quiere venir mañana a la noche
+a ver la casa.
+
+724
+00:51:42,352 --> 00:51:45,592
+- ¿A qué hora será eso?
+- A las siete.
+
+725
+00:51:46,232 --> 00:51:49,479
+Me gustaría si puedes
+estar aquí conmigo.
+
+726
+00:51:49,592 --> 00:51:52,239
+Bueno, me gustaría estar aquí,
+tía, pero le prometí al Sr. Leroy...
+
+727
+00:51:52,352 --> 00:51:56,119
+...que iría a la reunión con el
+intendente y el consejo mañana a las 7.
+
+728
+00:51:56,232 --> 00:51:58,599
+Cariño, no me dejes aquí sola mañana.
+
+729
+00:51:58,712 --> 00:52:02,119
+Te estaré siempre en deuda,
+si puedes hacer esto por mi.
+
+730
+00:52:02,232 --> 00:52:04,272
+De acuerdo, de acuerdo.
+No te preocupes, estaré.
+
+731
+00:52:14,952 --> 00:52:16,079
+Es puntual.
+
+732
+00:52:16,192 --> 00:52:20,672
+No podré estar mañana a la noche
+en su reunión Sr. Leroy.
+
+733
+00:52:20,872 --> 00:52:24,032
+Mi tía tiene a una señora rica,
+interesada en la casa...
+
+734
+00:52:24,472 --> 00:52:26,072
+...y puede venir a verla sólo
+mañana a la noche.
+
+735
+00:52:26,632 --> 00:52:27,632
+Mi tía entró en pánico...
+
+736
+00:52:27,634 --> 00:52:29,199
+...cuando supo que iba a estar sola
+con ella y el agente inmobiliario...
+
+737
+00:52:29,312 --> 00:52:31,792
+- ...y le prometí que estaría allí.
+- Lo entiendo.
+
+738
+00:52:32,552 --> 00:52:37,232
+Bueno, vendré cuando termine la reunión,
+si le parece, a comentarle cómo me fue.
+
+739
+00:52:37,912 --> 00:52:38,912
+Me gustaría.
+
+740
+00:52:39,546 --> 00:52:43,586
+Sr. Leroy. Estoy tan contenta
+que pueda estar con nosotras.
+
+741
+00:52:43,866 --> 00:52:47,826
+Esta puede ser la última comida
+que cocine en esta casa.
+
+742
+00:52:48,066 --> 00:52:50,786
+Entren. Tengo sopa para ustedes.
+
+743
+00:52:56,506 --> 00:53:02,186
+Señor Leroy, usted puede sentarse en
+la cabecera y nosotras a cada lado suyo.
+
+744
+00:53:13,746 --> 00:53:14,786
+Gracias.
+
+745
+00:53:35,826 --> 00:53:37,466
+Está delicioso, señora Georgiana.
+
+746
+00:53:38,266 --> 00:53:39,426
+Gracias, señor.
+
+747
+00:53:50,266 --> 00:53:51,466
+¿Va a vender su casa?
+
+748
+00:53:54,786 --> 00:53:55,786
+Sí.
+
+749
+00:54:00,786 --> 00:54:04,226
+Lo siento.
+Discúlpeme. Discúlpeme.
+
+750
+00:54:06,266 --> 00:54:07,833
+Me siento tan tonto.
+Quizás sea mejor que me vaya.
+
+751
+00:54:07,946 --> 00:54:10,553
+No, por favor no.
+Iré a verla.
+
+752
+00:54:10,666 --> 00:54:13,353
+Mi tía está muy sensible
+por la venta de la casa.
+
+753
+00:54:13,466 --> 00:54:17,946
+Ella nació en esta casa.
+Nunca vivió en ningún otro lado.
+
+754
+00:54:35,146 --> 00:54:39,586
+Ese era su padre.
+Mi abuelo, James Wilfred Carr.
+
+755
+00:54:40,546 --> 00:54:43,946
+- ¿Usted también nació en esta casa?
+- No. No.
+
+756
+00:54:44,466 --> 00:54:46,306
+- ¿Nació en Durham?
+- Sí.
+
+757
+00:54:47,866 --> 00:54:50,193
+Mi madre y tía Georgiana eran hermanas.
+
+758
+00:54:50,306 --> 00:54:52,466
+Me fui de aquí a los 22 años
+cuando me casé.
+
+759
+00:54:52,746 --> 00:54:54,066
+Fui a vivir a Texas.
+
+760
+00:54:54,266 --> 00:54:57,753
+- ¿Texas?
+- Sí. ¿Usted nació en Texas?
+
+761
+00:54:57,866 --> 00:55:00,793
+- Sí.
+- ¿Su familia está allí?
+
+762
+00:55:00,906 --> 00:55:03,306
+No. No, mi madre y mi padre han muerto.
+
+763
+00:55:04,546 --> 00:55:08,106
+No tengo hermanos o hermanas.
+También estoy divorciado.
+
+764
+00:55:10,226 --> 00:55:11,946
+Mi trabajo, supongo, es mi familia.
+
+765
+00:55:15,546 --> 00:55:16,566
+Señor Leroy--
+
+766
+00:55:16,667 --> 00:55:21,266
+Por favor no me llame señor Leroy
+o señor Gus. Llámeme Gus.
+
+767
+00:55:22,066 --> 00:55:25,346
+- Gus entonces.
+- Gracias, Willa.
+
+768
+00:55:26,426 --> 00:55:27,866
+De nada, Gus.
+
+769
+00:55:31,506 --> 00:55:33,226
+- Gus...
+- ¿Sí?
+
+770
+00:55:36,826 --> 00:55:38,626
+No importa. Te preguntaré más tarde.
+
+771
+00:55:39,346 --> 00:55:41,146
+¿Sigues preocupada por los contenedores?
+
+772
+00:55:43,146 --> 00:55:45,673
+Sí. ¿Qué tan seguros son?
+
+773
+00:55:45,786 --> 00:55:47,273
+Si logro el interés
+del ayuntamiento mañana...
+
+774
+00:55:47,386 --> 00:55:48,993
+...y a mi empresa le gusta
+lo que ellos dicen...
+
+775
+00:55:49,106 --> 00:55:50,546
+...las cosas pueden ir muy rápido.
+
+776
+00:55:50,946 --> 00:55:53,066
+- Seguro.
+- Voy a necesitar un asistente.
+
+777
+00:55:54,946 --> 00:55:57,026
+¿Conoces a alguien
+que puedas recomendar?
+
+778
+00:55:57,866 --> 00:56:00,273
+Preferiría alguien que conozca Durham
+y a su gente.
+
+779
+00:56:00,386 --> 00:56:03,513
+- ¿De qué edad?
+- Alguien maduro y seguro.
+
+780
+00:56:03,626 --> 00:56:06,746
+Que esté interesado
+en lo que esperamos lograr aquí.
+
+781
+00:56:06,866 --> 00:56:09,546
+Bueno, déjame pensarlo.
+No se me ocurre nadie ahora.
+
+782
+00:56:13,466 --> 00:56:14,746
+¿Tú estarías interesada?
+
+783
+00:56:17,306 --> 00:56:22,586
+Por Dios. No lo sé.
+Nunca se me ocurrió.
+
+784
+00:56:25,266 --> 00:56:27,066
+Estaría interesado en trabajar contigo.
+
+785
+00:56:29,706 --> 00:56:31,946
+Dios. Me siento muy halagada.
+
+786
+00:56:32,666 --> 00:56:37,866
+No sé. Conozco muy poco de todo esto.
+
+787
+00:56:38,786 --> 00:56:41,473
+- ¿Lo pensarías?
+- Bueno, sí, supongo que sí.
+
+788
+00:56:41,586 --> 00:56:44,786
+- Me refiero a pensarlo seriamente.
+- Sí, lo haré. Claro que lo haré.
+
+789
+00:56:46,506 --> 00:56:47,946
+¿Cuándo necesitarías saberlo?
+
+790
+00:56:56,826 --> 00:56:58,866
+Prometo no hacer eso otra vez.
+
+791
+00:57:11,980 --> 00:57:14,740
+- De acuerdo. Nos vemos mañana.
+- Quizás.
+
+792
+00:57:15,500 --> 00:57:18,020
+- Se supone que lloverá mañana.
+- Así es.
+
+793
+00:57:22,860 --> 00:57:23,920
+¡Harris!
+
+794
+00:57:29,780 --> 00:57:32,700
+- No quise decir que eras--
+- Sé lo que quisiste decir.
+
+795
+00:57:40,260 --> 00:57:41,860
+Soy muy sensible.
+
+796
+00:57:43,540 --> 00:57:44,940
+Quiero decirte algo.
+
+797
+00:57:46,140 --> 00:57:48,380
+Creo que ambos somos sensibles.
+
+798
+00:58:54,300 --> 00:58:56,707
+- ¿Si?
+<i>- ¿Señora Georgiana? Habla Crosby.</i>
+
+799
+00:58:56,820 --> 00:59:02,060
+Hola Crosby.
+Qué lluvia que hay. Dios mío.
+
+800
+00:59:02,500 --> 00:59:05,220
+<i>Disculpe, pero nuestra señorita
+ha cancelado por el momento.</i>
+
+801
+00:59:06,060 --> 00:59:08,020
+<i>No puede salir con esta lluvia.</i>
+
+802
+00:59:08,500 --> 00:59:10,987
+- Entiendo.
+<i>- Disculpe.</i>
+
+803
+00:59:11,100 --> 00:59:13,907
+¿Pero cree que está interesada?
+
+804
+00:59:14,020 --> 00:59:15,900
+<i>¡Más que indudablemente!</i>
+
+805
+00:59:17,300 --> 00:59:20,060
+Bien, gracias por llamarme.
+
+806
+00:59:22,500 --> 00:59:23,900
+Era Crosby.
+
+807
+00:59:24,700 --> 00:59:27,827
+Parece que nuestra cliente ha cancelado.
+
+808
+00:59:27,940 --> 00:59:31,140
+Demasiada lluvia, dice,
+para atreverse a salir.
+
+809
+00:59:31,580 --> 00:59:34,900
+Pero él dijo que sigue estando
+muy interesada.
+
+810
+00:59:36,500 --> 00:59:38,480
+Estoy desilusionada.
+
+811
+00:59:41,799 --> 00:59:43,959
+¿Por qué arriesgarse a volar
+con esta lluvia?
+
+812
+00:59:44,399 --> 00:59:45,839
+¿No puede esperar hasta mañana?
+
+813
+00:59:47,439 --> 00:59:51,726
+- No, está decidida a irse.
+- ¿Y si su vuelo es cancelado?
+
+814
+00:59:51,839 --> 00:59:53,279
+Dice que tomará el autobús.
+
+815
+00:59:53,719 --> 00:59:54,959
+Dios, qué terca.
+
+816
+00:59:56,759 --> 00:59:59,966
+- Criaste una hija terca.
+- Tú también la criaste.
+
+817
+01:00:00,079 --> 01:00:01,686
+¿Por qué quiere que Harris
+la lleve al aeropuerto?
+
+818
+01:00:01,799 --> 01:00:02,926
+¿Por qué no podemos hacerlo nosotros?
+
+819
+01:00:03,039 --> 01:00:05,199
+Dice que quiere despedirse
+de nosotros aquí.
+
+820
+01:00:06,479 --> 01:00:08,566
+Frank, la voy a extrañar.
+
+821
+01:00:08,679 --> 01:00:10,039
+Miriam, vamos.
+
+822
+01:00:10,959 --> 01:00:12,999
+Por favor. Vamos.
+
+823
+01:00:13,679 --> 01:00:14,719
+Es Harris.
+
+824
+01:00:17,999 --> 01:00:19,039
+Vamos, entra.
+
+825
+01:00:21,039 --> 01:00:23,999
+- Hola gente.
+- ¡Mary! Harris está aquí.
+
+826
+01:00:25,839 --> 01:00:27,799
+Frank, ve a ayudarla con sus bolsos.
+
+827
+01:00:28,319 --> 01:00:29,359
+Sí.
+
+828
+01:00:36,719 --> 01:00:39,599
+¿Te sorprendió
+cuando escuchaste que se iba?
+
+829
+01:00:40,679 --> 01:00:43,119
+Sí, señora.
+Me sorprendió.
+
+830
+01:00:46,119 --> 01:00:47,806
+Prométeme que llamarás
+cuando llegues a Atlanta.
+
+831
+01:00:47,919 --> 01:00:49,839
+- No importa que hora sea.
+- Sí, mamá.
+
+832
+01:00:50,599 --> 01:00:51,599
+Los quiero a los dos.
+
+833
+01:01:09,639 --> 01:01:11,159
+Es una noche espantosa, ¿no?
+
+834
+01:01:12,719 --> 01:01:14,679
+Sí, lo es.
+
+835
+01:01:20,759 --> 01:01:21,799
+Se han ido.
+
+836
+01:01:25,919 --> 01:01:27,319
+Ya está en camino.
+
+837
+01:01:38,686 --> 01:01:39,831
+<i>Gus Leroy...</i>
+
+838
+01:01:40,366 --> 01:01:41,411
+Sí, señor Bob.
+
+839
+01:01:43,646 --> 01:01:45,453
+La gente de Louisiana
+empezó a trabajar a primera hora...
+
+840
+01:01:45,566 --> 01:01:48,126
+...por la lluvia. Alrededor de cinco.
+
+841
+01:01:50,006 --> 01:01:52,213
+No era de día aún
+cuando partieron de Louisiana...
+
+842
+01:01:52,326 --> 01:01:53,566
+...y no había empezado a llover.
+
+843
+01:01:56,286 --> 01:01:57,566
+Sí, señor, ahora está lloviendo.
+
+844
+01:02:00,846 --> 01:02:02,006
+Lo mantendré al tanto.
+
+845
+01:02:11,326 --> 01:02:14,093
+Gracias a todos por venir
+en una noche tan lluviosa...
+
+846
+01:02:14,206 --> 01:02:15,566
+...y con un aviso
+con tan poca anticipación.
+
+847
+01:02:16,366 --> 01:02:18,435
+Pero sentí que era importante para...
+
+848
+01:02:18,485 --> 01:02:21,006
+...el bienestar y la prosperidad
+de nuestra ciudad...
+
+849
+01:02:21,286 --> 01:02:23,646
+...que escuchemos lo que
+este caballero tiene para decirnos.
+
+850
+01:02:23,766 --> 01:02:26,806
+- ¿Dónde está?
+- Bueno, estará aquí en unos minutos...
+
+851
+01:02:27,126 --> 01:02:29,686
+...y quiero que él les explique...
+
+852
+01:02:29,886 --> 01:02:31,526
+...quién es,
+y por qué quiere venir aquí...
+
+853
+01:02:31,806 --> 01:02:34,086
+...y qué piensa que puede hacer
+por nuestra ciudad.
+
+854
+01:02:45,966 --> 01:02:47,846
+- Luces muy bonita.
+- Gracias.
+
+855
+01:02:48,126 --> 01:02:49,126
+¿Te bañaste?
+
+856
+01:02:50,086 --> 01:02:51,806
+Sí, me siento mucho mejor.
+
+857
+01:02:55,646 --> 01:02:58,086
+¿Cuánto crees que durará esa reunión?
+
+858
+01:02:58,526 --> 01:03:01,806
+No tengo idea.
+Supongo que no más de una hora.
+
+859
+01:03:02,046 --> 01:03:04,566
+¿Qué pasa si rechazan este proyecto...
+
+860
+01:03:04,966 --> 01:03:07,446
+...y dicen que no puede
+poner en marcha una planta aquí?
+
+861
+01:03:07,766 --> 01:03:11,973
+¿Crees que será capaz de alquilar
+mi depósito por cinco años?
+
+862
+01:03:12,086 --> 01:03:13,086
+No lo sé.
+
+863
+01:03:14,726 --> 01:03:16,606
+He empezado a preocuparme por eso.
+
+864
+01:03:21,686 --> 01:03:23,453
+Siento que no lo rechazarán.
+
+865
+01:03:23,566 --> 01:03:27,646
+Bueno, si la reunión sólo dura una hora,
+entonces debería volver pronto.
+
+866
+01:03:27,966 --> 01:03:29,646
+Si viene de inmediato.
+
+867
+01:03:30,206 --> 01:03:31,886
+Puede que tenga que quedarse
+y hablar con la gente.
+
+868
+01:03:33,726 --> 01:03:35,853
+¿Crees que encontraré
+un comprador para mi casa?
+
+869
+01:03:35,966 --> 01:03:36,966
+Creo que sí.
+
+870
+01:03:37,526 --> 01:03:40,806
+Crosby Gaige tiene plena confianza
+de que lo haré.
+
+871
+01:03:40,966 --> 01:03:41,966
+Debería saberlo.
+
+872
+01:03:42,206 --> 01:03:45,213
+Crosby dice que muchos de sus clientes
+compran casas, pagan cualquier precio...
+
+873
+01:03:45,326 --> 01:03:48,766
+...por ellas, y luego las tiran abajo
+y construyen una nueva.
+
+874
+01:03:50,286 --> 01:03:51,646
+¿Me estás escuchando?
+
+875
+01:03:52,966 --> 01:03:56,206
+Lo siento. Estaba pensando
+en Gus y su reunión.
+
+876
+01:03:56,446 --> 01:03:57,766
+Gus. ¿Quién es Gus?
+
+877
+01:04:00,046 --> 01:04:01,326
+¿El Sr. Leroy?
+
+878
+01:04:03,166 --> 01:04:04,166
+Sí.
+
+879
+01:04:04,406 --> 01:04:07,526
+Bueno, ¿desde cuándo
+empezaste a llamarlo Gus?
+
+880
+01:04:07,966 --> 01:04:08,966
+Él me lo pidió.
+
+881
+01:04:13,086 --> 01:04:15,966
+¿Estás interesada en él, Willa?
+
+882
+01:04:16,886 --> 01:04:18,686
+¿Qué quieres decir con interesada?
+
+883
+01:04:19,046 --> 01:04:21,006
+Quiero decir interesada.
+
+884
+01:04:22,126 --> 01:04:23,126
+No lo sé.
+
+885
+01:04:24,206 --> 01:04:27,606
+- ¿Cómo que no lo sabes, cariño?
+- Quiero decir que no lo sé.
+
+886
+01:04:34,686 --> 01:04:37,246
+Sí, lo sé. Lo estoy.
+
+887
+01:04:37,686 --> 01:04:39,846
+¿Está interesado en ti?
+
+888
+01:04:40,886 --> 01:04:41,886
+No lo sé.
+
+889
+01:04:47,646 --> 01:04:48,806
+Creo que sí.
+
+890
+01:04:50,766 --> 01:04:51,766
+Eso espero.
+
+891
+01:04:57,726 --> 01:05:01,053
+Frank piensa que es tonto
+volar con un clima como éste.
+
+892
+01:05:01,166 --> 01:05:04,206
+Pero pensaría que es una tontería
+que me vaya si el sol está brillando.
+
+893
+01:05:07,366 --> 01:05:10,486
+- Es mi padrastro, sabes.
+- Sí, lo sé.
+
+894
+01:05:11,246 --> 01:05:12,486
+Ya lo sabía, Mary.
+
+895
+01:05:15,566 --> 01:05:17,206
+Nunca conocí a mi verdadero padre.
+
+896
+01:05:20,566 --> 01:05:22,406
+Mamá dice que ahora está muerto.
+
+897
+01:05:29,366 --> 01:05:31,286
+Bueno, no podría haber tenido
+un padre mejor que Frank.
+
+898
+01:05:35,006 --> 01:05:37,086
+¿Cuántos años tenías
+cuando tu padre murió?
+
+899
+01:05:38,966 --> 01:05:39,966
+Cinco.
+
+900
+01:05:41,046 --> 01:05:42,086
+¿Lo recuerdas?
+
+901
+01:05:42,806 --> 01:05:44,886
+Creo que sí, pero nunca estoy seguro.
+
+902
+01:05:47,046 --> 01:05:48,526
+¿Te llamaron así en honor a tu padre?
+
+903
+01:05:50,366 --> 01:05:52,326
+No. Mi hermano Pete fue llamado por él.
+
+904
+01:05:54,046 --> 01:05:55,246
+¿Dónde está Pete?
+
+905
+01:05:56,566 --> 01:05:59,286
+No lo sé.
+Pete es un viajero.
+
+906
+01:06:00,526 --> 01:06:01,933
+Finalmente siempre sabemos de él.
+
+907
+01:06:02,046 --> 01:06:03,806
+Pueden ser seis meses o un año.
+
+908
+01:06:04,486 --> 01:06:05,613
+Y entonces recibimos una carta
+o una tarjeta...
+
+909
+01:06:05,726 --> 01:06:08,926
+...diciendo que nos extraña
+y que nos manda su amor.
+
+910
+01:06:21,042 --> 01:06:22,042
+¿Mary?
+
+911
+01:06:25,442 --> 01:06:26,442
+¿Sí, Harris?
+
+912
+01:06:30,182 --> 01:06:31,660
+Estoy enamorado de ti.
+
+913
+01:06:39,162 --> 01:06:40,242
+Siempre lo he estado.
+
+914
+01:06:43,682 --> 01:06:45,665
+Yo también estoy enamorada de ti.
+
+915
+01:06:49,282 --> 01:06:51,188
+Siempre lo he estado.
+
+916
+01:06:58,390 --> 01:07:00,797
+<i>Estoy aquí para hablar de lo que
+me gustaría hablar más que nada.</i>
+
+917
+01:07:00,910 --> 01:07:02,390
+<i>Administrar nuestros desechos.</i>
+
+918
+01:07:03,550 --> 01:07:07,357
+<i>Bueno, en primer lugar, me gustaría
+que sepan que soy un empleado pago...</i>
+
+919
+01:07:07,470 --> 01:07:10,310
+<i>...y orgulloso de pertenecer a
+la Corporación de Servicios Ambientales.</i>
+
+920
+01:07:10,470 --> 01:07:12,557
+<i>Tenemos oficinas en Houston,
+San Antonio...</i>
+
+921
+01:07:12,670 --> 01:07:14,197
+<i>...y una planta
+cerca de Vernon, Texas...</i>
+
+922
+01:07:14,310 --> 01:07:16,710
+<i>...un pequeño pueblo de Texas
+de alrededor de 800 personas...</i>
+
+923
+01:07:17,150 --> 01:07:18,950
+<i>...que me dieron la bienvenida
+a mí y a mi compañía.</i>
+
+924
+01:07:19,870 --> 01:07:21,150
+<i>Como alguno de ustedes puede saber...</i>
+
+925
+01:07:21,990 --> 01:07:25,390
+<i>...hemos alquilado el depósito
+de la Sra. Georgiana Carr...</i>
+
+926
+01:07:25,590 --> 01:07:28,830
+<i>...para almacenar algunos de nuestros
+contenedores con desechos peligrosos.</i>
+
+927
+01:07:30,070 --> 01:07:34,670
+Me he sentado aquí tantos días y noches
+escuchando la lluvia.
+
+928
+01:07:42,790 --> 01:07:46,990
+Me estoy acostumbrando a la idea
+de que mis días aquí casi terminan.
+
+929
+01:07:47,950 --> 01:07:49,517
+<i>Ahora vamos por todos
+los Estados Unidos...</i>
+
+930
+01:07:49,630 --> 01:07:52,510
+<i>...en busca de productos para traer
+de vuelta a nuestra planta de Vernon...</i>
+
+931
+01:07:52,830 --> 01:07:55,230
+<i>...que convierte los desechos tóxicos
+en una cosa...</i>
+
+932
+01:07:55,390 --> 01:07:58,390
+<i>...que puede ser enterrada o eliminada
+de forma segura.</i>
+
+933
+01:08:05,070 --> 01:08:09,830
+<i>Nos gustaría construir, con el tiempo,
+una planta hermana aquí en Durham.</i>
+
+934
+01:08:10,350 --> 01:08:12,350
+He visto bodas en esta habitación...
+
+935
+01:08:14,830 --> 01:08:16,670
+...y funerales desde aquí.
+
+936
+01:08:20,190 --> 01:08:23,590
+Tu mamá y papá se casaron
+en esta habitación.
+
+937
+01:08:24,110 --> 01:08:25,710
+Yo fui la dama de honor.
+
+938
+01:08:26,390 --> 01:08:29,510
+<i>Ahora sé que lo que se preguntan todos
+es cuán seguro es todo esto.</i>
+
+939
+01:08:30,950 --> 01:08:32,797
+<i>Bueno, déjenme comenzar esa discusión
+haciéndoles recordar...</i>
+
+940
+01:08:32,910 --> 01:08:36,550
+<i>...que ahora vivimos en una era nuclear
+y toda su complejidad.</i>
+
+941
+01:08:38,630 --> 01:08:41,910
+Ninguna casa pintada aquí
+todavía sigue en pie.
+
+942
+01:08:42,150 --> 01:08:44,837
+<i>La bomba atómica bajo llave
+no es peligrosa.</i>
+
+943
+01:08:44,950 --> 01:08:46,590
+<i>Sólo es peligrosa cuando es arrojada.</i>
+
+944
+01:08:47,590 --> 01:08:49,510
+<i>Por lo tanto,
+los residuos de cualquier tipo...</i>
+
+945
+01:08:49,670 --> 01:08:51,517
+<i>...peligrosos, tóxicos o nucleares...</i>
+
+946
+01:08:51,630 --> 01:08:54,430
+<i>...no pueden hacerles daño
+si son gestionados adecuadamente.</i>
+
+947
+01:08:56,630 --> 01:09:01,197
+<i>En agradecimiento a nuestros amigos
+en Vernon, por su cooperación...</i>
+
+948
+01:09:01,310 --> 01:09:06,150
+<i>...les hemos construido un hermoso
+parque nuevo y una pileta comunitaria.</i>
+
+949
+01:09:07,190 --> 01:09:08,510
+<i>Para mostrar nuestro agradecimiento.</i>
+
+950
+01:09:09,390 --> 01:09:11,750
+<i>Y ya casi no hay desempleo
+en ese pueblo.</i>
+
+951
+01:09:12,070 --> 01:09:15,230
+Y el mismísimo viejo Durham
+está medio demolido.
+
+952
+01:09:17,356 --> 01:09:19,472
+¿Adónde fueron las casas?
+
+953
+01:09:22,690 --> 01:09:24,490
+¿Adónde fue la ciudad?
+
+954
+01:09:24,810 --> 01:09:27,177
+<i>Quiero decirles a ustedes
+lo que les dije a mis amigos en Vernon.</i>
+
+955
+01:09:27,290 --> 01:09:30,806
+<i>Me rehúso a vivir en el pasado.
+Vivo para el futuro.</i>
+
+956
+01:09:32,570 --> 01:09:34,697
+<i>Emergencia 1183. Material peligroso.</i>
+
+957
+01:09:34,810 --> 01:09:36,635
+<i>Todas las unidades respondan.</i>
+
+958
+01:09:36,748 --> 01:09:40,370
+- ¿Qué diablos es eso?
+- Tengo que ir a ver. Lo siento.
+
+959
+01:09:40,570 --> 01:09:42,410
+Patrulla 104. 1017.
+
+960
+01:09:44,210 --> 01:09:47,610
+Me gustaría decir que estoy muy
+impresionada por lo que acabo de oír.
+
+961
+01:09:47,890 --> 01:09:50,457
+Y como miembro del consejo,
+me gustaría recomendar...
+
+962
+01:09:50,570 --> 01:09:52,130
+...que nos pongamos en contacto...
+
+963
+01:09:52,243 --> 01:09:54,601
+...con quienquiera que necesitemos
+en Vernon, Texas...
+
+964
+01:09:54,714 --> 01:09:57,730
+...y hacerles saber
+de nuestro serio interés en esto.
+
+965
+01:09:58,530 --> 01:10:00,363
+Los miembros del consejo
+que estén de acuerdo...
+
+966
+01:10:00,476 --> 01:10:02,844
+...con el pedido de Shirley,
+levanten las manos.
+
+967
+01:10:20,200 --> 01:10:21,682
+Quédate aquí, Mary.
+
+968
+01:10:22,201 --> 01:10:25,470
+No quiero quedarme aquí sola.
+Quiero ir contigo.
+
+969
+01:10:26,929 --> 01:10:30,137
+De acuerdo. Vamos.
+Pero quédate donde es seguro.
+
+970
+01:10:35,570 --> 01:10:37,130
+¿Estuvo en el lugar del accidente?
+
+971
+01:10:37,570 --> 01:10:40,781
+No, señor. Sólo sabemos los reportes
+que recibimos por radio.
+
+972
+01:10:41,170 --> 01:10:43,686
+- ¿Puede ir lo más rápido posible?
+- Sí, señor.
+
+973
+01:10:54,130 --> 01:10:55,770
+¿Se encuentra bien, señorita?
+
+974
+01:10:58,510 --> 01:11:01,928
+No murió nadie.
+Le agradezco a mi Creador por eso.
+
+975
+01:11:04,810 --> 01:11:07,240
+Esos camiones transportaban
+desechos peligrosos.
+
+976
+01:11:07,353 --> 01:11:08,937
+Traigan al equipo de materiales
+peligrosos de Raleigh.
+
+977
+01:11:09,050 --> 01:11:10,410
+Veré los contenedores.
+
+978
+01:11:10,530 --> 01:11:13,710
+Tenemos un par de personas
+que necesitan atención inmediata.
+
+979
+01:11:30,850 --> 01:11:32,138
+Dios. Dios.
+
+980
+01:11:40,770 --> 01:11:43,016
+- Sr. Leroy.
+- Sí.
+
+981
+01:11:43,690 --> 01:11:45,530
+¿Está interesado en sus contenedores?
+
+982
+01:11:46,490 --> 01:11:47,817
+El equipo de Raleigh...
+
+983
+01:11:47,930 --> 01:11:50,410
+...vino tan pronto como pudo,
+y los inspeccionaron.
+
+984
+01:11:51,370 --> 01:11:53,218
+Dicen que no les pasó nada.
+
+985
+01:11:54,090 --> 01:11:55,817
+Quieren que los llevemos
+a su depósito...
+
+986
+01:11:55,930 --> 01:11:58,145
+...lo antes posible.
+Entiendo que está vacío.
+
+987
+01:11:58,530 --> 01:12:02,457
+Lo está.
+¿Tienen hombres para llevarlos?
+
+988
+01:12:02,570 --> 01:12:04,497
+Tenemos. Nos pusimos
+en contacto con sus supervisores.
+
+989
+01:12:04,610 --> 01:12:05,977
+José y Estaquio...
+
+990
+01:12:06,090 --> 01:12:08,337
+contrataron a un equipo para mover
+los contenedores a los camiones...
+
+991
+01:12:08,450 --> 01:12:10,130
+...y descargarlos en el depósito.
+
+992
+01:12:13,290 --> 01:12:14,730
+¿Entonces no me necesitan?
+
+993
+01:12:14,878 --> 01:12:18,530
+No, señor. De verdad, no.
+
+994
+01:12:43,293 --> 01:12:44,473
+Aquí es, señor.
+
+995
+01:12:44,593 --> 01:12:48,053
+- Gracias. Cuídese.
+- Cuídese.
+
+996
+01:12:50,546 --> 01:12:51,829
+Gracias.
+
+997
+01:13:56,996 --> 01:13:57,996
+Hola.
+
+998
+01:14:00,916 --> 01:14:01,916
+Hola.
+
+999
+01:14:05,136 --> 01:14:07,156
+Lamento lo del accidente.
+
+1000
+01:14:08,696 --> 01:14:10,296
+Puede que me despidan.
+
+1001
+01:14:12,076 --> 01:14:13,323
+Si hubiera ocurrido alguna fatalidad...
+
+1002
+01:14:13,436 --> 01:14:14,883
+...o si alguno de los contenedores
+se hubieran dañado...
+
+1003
+01:14:14,996 --> 01:14:16,236
+...seguramente me despedirían.
+
+1004
+01:14:17,836 --> 01:14:21,122
+Ahora se me acusa de negligencia...
+
+1005
+01:14:23,056 --> 01:14:25,956
+...y la compañía decidirá más tarde
+si puedo quedarme.
+
+1006
+01:14:30,196 --> 01:14:31,196
+Lo siento.
+
+1007
+01:14:40,876 --> 01:14:42,796
+Cuando volví a casa una vez
+conocí a un anciano...
+
+1008
+01:14:42,956 --> 01:14:44,756
+...que sólo lo vi apenas una vez,
+desde lejos.
+
+1009
+01:14:45,956 --> 01:14:47,964
+Estaba en una habitación
+de un hotel.
+
+1010
+01:14:50,036 --> 01:14:53,236
+Yo repartía periódicos,
+y le llevaba el suyo a su habitación.
+
+1011
+01:14:54,716 --> 01:14:55,883
+Cuando le decía que era yo...
+
+1012
+01:14:55,996 --> 01:14:58,006
+...me abría la puerta apenas
+lo suficiente para pasar la mano...
+
+1013
+01:14:58,119 --> 01:14:59,639
+...y recibir el periódico.
+
+1014
+01:15:01,656 --> 01:15:03,228
+Nunca salía de su habitación.
+
+1015
+01:15:04,696 --> 01:15:06,800
+También le enviaban todas sus comidas.
+
+1016
+01:15:08,059 --> 01:15:09,935
+Cuando era joven,
+había tenido un accidente.
+
+1017
+01:15:11,216 --> 01:15:13,076
+Nadie podía recordar cómo fue.
+
+1018
+01:15:15,176 --> 01:15:17,883
+Pero lo aterraba tanto
+que nunca dejaba su habitación...
+
+1019
+01:15:17,996 --> 01:15:19,908
+...por miedo a otro accidente.
+
+1020
+01:15:23,036 --> 01:15:25,208
+Anoche me dio a mí
+miedo a los accidentes.
+
+1021
+01:15:27,996 --> 01:15:29,995
+Miedo mortal a los accidentes.
+
+1022
+01:15:31,676 --> 01:15:34,064
+Deberías ver lo que un accidente
+le hizo a esos camiones.
+
+1023
+01:15:36,076 --> 01:15:38,108
+Lo que le hubiera hecho
+a los contenedores.
+
+1024
+01:15:41,236 --> 01:15:43,356
+¿Cómo se aprueba una ley
+contra accidentes?
+
+1025
+01:15:47,076 --> 01:15:51,033
+Supone que todos los contenedores
+hubieran quedado a salvo, menos uno.
+
+1026
+01:15:54,596 --> 01:15:56,344
+Bueno, sabes lo que habría pasado.
+
+1027
+01:16:03,696 --> 01:16:05,484
+Así que voy a renunciar a la compañía.
+
+1028
+01:16:08,876 --> 01:16:10,881
+Estoy cansado de hablar con la gente,
+ser un organizador.
+
+1029
+01:16:13,676 --> 01:16:15,279
+Voy a decir la verdad.
+
+1030
+01:16:16,276 --> 01:16:19,236
+Y la verdad es que
+los accidentes suceden.
+
+1031
+01:16:20,036 --> 01:16:23,794
+En días lluviosos. En días soleados.
+Siempre inesperados.
+
+1032
+01:16:24,876 --> 01:16:26,916
+Tengo que decirle eso a tu tía.
+
+1033
+01:16:35,856 --> 01:16:40,476
+Sr. Leroy.
+Estoy segura de que Willa le contó...
+
+1034
+01:16:40,756 --> 01:16:43,236
+...lo angustiadas que estuvimos
+por lo sucedido.
+
+1035
+01:16:43,916 --> 01:16:45,014
+Sí.
+
+1036
+01:16:45,236 --> 01:16:47,556
+El cliente de Crosby
+va a comprar mi casa.
+
+1037
+01:16:47,996 --> 01:16:49,723
+Se llama Lucy Calhoun.
+
+1038
+01:16:49,836 --> 01:16:52,563
+Firmamos todos los papeles
+y recibí el anticipo.
+
+1039
+01:16:52,676 --> 01:16:55,603
+Y es encantadora, Lucy Calhoun.
+Encantadora.
+
+1040
+01:16:55,716 --> 01:16:57,965
+Siento como si la conociera
+de toda la vida.
+
+1041
+01:16:58,156 --> 01:17:01,356
+Y dijo algo muy dulce...
+
+1042
+01:17:01,876 --> 01:17:05,836
+...acerca de nuestra asociación,
+que fue de forma tan armoniosa...
+
+1043
+01:17:05,996 --> 01:17:10,036
+...que ella sentía que seguramente
+fue por una intervención divina.
+
+1044
+01:17:10,516 --> 01:17:13,542
+- No sólo un accidente.
+- Absolutamente.
+
+1045
+01:17:14,076 --> 01:17:19,716
+Honestamente, nunca lo hubiera pensado
+si la querida Lucy Calhoun no lo dijera.
+
+1046
+01:17:21,596 --> 01:17:25,276
+Miren. Miren. Salió el sol.
+
+1047
+01:17:28,116 --> 01:17:29,836
+¡Ya no llueve!
+
+1048
+01:17:35,196 --> 01:17:38,004
+Qué día hermoso será.
+
+1049
+01:17:48,485 --> 01:17:50,165
+<i>Esta ciudad,
+como muchas en Estados Unidos...</i>
+
+1050
+01:17:50,805 --> 01:17:53,001
+<i>...ha llegado a un momento duro
+en su historia.</i>
+
+1051
+01:17:53,565 --> 01:17:56,645
+<i>La ciudad, después de todo,
+es una colección de casas y edificios...</i>
+
+1052
+01:17:57,125 --> 01:18:00,132
+<i>...esperanzas y sueños que dependen
+de la fortuna, la determinación...</i>
+
+1053
+01:18:00,245 --> 01:18:01,845
+<i>...y la fe de los residentes.</i>
+
+1054
+01:18:03,265 --> 01:18:06,212
+<i>El futuro, incierto
+en el mejor de los casos...</i>
+
+1055
+01:18:06,325 --> 01:18:08,365
+<i>...puede ser espantoso
+o lleno de promesas.</i>
+
+1056
+01:18:10,165 --> 01:18:11,957
+<i>Así es como lo veo.</i>
+
+1057
+01:18:17,321 --> 01:18:23,321
+Subtítulos por aRGENTeaM
+www.argenteam.net
+

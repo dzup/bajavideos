@@ -1,0 +1,6807 @@
+1
+00:00:30,499 --> 00:00:35,629
+TODOS DICEN TE QUIERO
+
+2
+00:00:38,507 --> 00:00:40,920
+# Sólo tú #
+
+3
+00:00:41,927 --> 00:00:44,294
+# Sólo yo #
+
+4
+00:00:44,763 --> 00:00:47,867
+# Busquemos un rinconcito #
+
+5
+00:00:48,267 --> 00:00:51,387
+# Donde nadie nos pueda ver #
+
+6
+00:00:52,187 --> 00:00:55,145
+# Sólo nosotros #
+
+7
+00:00:55,858 --> 00:00:58,274
+# Sólo los dos #
+
+8
+00:00:59,027 --> 00:01:02,371
+# Cuánto tiempo hemos perdido #
+
+9
+00:01:02,781 --> 00:01:05,326
+# ¡Serás mi ilusión! #
+
+10
+00:01:06,760 --> 00:01:09,470
+# ¡Dios! #
+
+11
+00:01:09,788 --> 00:01:13,259
+# ¿Para qué está tu encanto? #
+
+12
+00:01:13,375 --> 00:01:16,599
+# ¿Para qué están mis brazos? #
+
+13
+00:01:16,712 --> 00:01:20,526
+# ¡Puedes imaginarlo! #
+
+14
+00:01:24,553 --> 00:01:27,062
+# A ti #
+
+15
+00:01:28,390 --> 00:01:30,502
+# Y a mí #
+
+16
+00:01:31,143 --> 00:01:34,126
+# Nos unirá el amor #
+
+17
+00:01:34,563 --> 00:01:37,021
+# Sólo di que me amas #
+
+18
+00:01:52,753 --> 00:01:55,058
+# Sólo él #
+
+19
+00:01:56,009 --> 00:01:58,176
+# Sólo ella #
+
+20
+00:01:59,004 --> 00:02:02,017
+# Perfecta situación: #
+
+21
+00:02:02,507 --> 00:02:04,744
+# Sólo di que me amas #
+
+22
+00:02:06,511 --> 00:02:07,976
+# ¡Qué bien! #
+
+23
+00:02:08,089 --> 00:02:09,306
+# ¡Por fin! #
+
+24
+00:02:09,514 --> 00:02:12,214
+# Llegó la primavera #
+
+25
+00:02:13,268 --> 00:02:15,830
+# Los pajaritos vuelan #
+
+26
+00:02:16,347 --> 00:02:20,262
+# Tiempo ideal para el amor #
+
+27
+00:02:20,375 --> 00:02:22,192
+# Sólo yo #
+
+28
+00:02:22,305 --> 00:02:23,661
+# Sólo usted #
+
+29
+00:02:23,774 --> 00:02:25,197
+# Sólo usted #
+
+30
+00:02:25,447 --> 00:02:26,531
+# Sólo yo #
+
+31
+00:02:26,698 --> 00:02:29,696
+# Un trozo de paraíso #
+
+32
+00:02:30,195 --> 00:02:32,628
+# Tendremos las dos #
+
+33
+00:02:33,997 --> 00:02:36,307
+# Sólo usted #
+
+34
+00:02:37,723 --> 00:02:39,627
+# Sólo yo #
+
+35
+00:02:40,462 --> 00:02:43,462
+# Busquemos un rinconcito #
+
+36
+00:02:43,965 --> 00:02:46,668
+# Donde nadie nos pueda ver #
+
+37
+00:02:47,719 --> 00:02:49,054
+# Los dos #
+
+38
+00:02:49,304 --> 00:02:51,098
+# Solos tú y yo #
+
+39
+00:02:51,348 --> 00:02:52,474
+# Tú y yo #
+
+40
+00:02:52,724 --> 00:02:54,648
+# Solamente dos #
+
+41
+00:02:54,761 --> 00:02:57,471
+# Cuánto tiempo hemos perdido #
+
+42
+00:02:57,896 --> 00:03:00,185
+# ¡Serás mi ilusión! #
+
+43
+00:03:17,082 --> 00:03:18,985
+# A ti #
+
+44
+00:03:20,919 --> 00:03:23,039
+# Y a mí #
+
+45
+00:03:24,264 --> 00:03:27,503
+# Nos unirá el amor #
+
+46
+00:03:28,426 --> 00:03:32,137
+# Sólo di que me amas #
+
+47
+00:03:34,766 --> 00:03:37,802
+<i>Ésta es mi hermana Skylar
+y su novio Holden.</i>
+
+48
+00:03:37,915 --> 00:03:39,273
+<i>Y ésta soy yo.</i>
+
+49
+00:03:39,386 --> 00:03:42,064
+<i>Yo soy Djuna: D-J-U-N-A.</i>
+
+50
+00:03:42,177 --> 00:03:44,067
+<i>Todos me llaman DJ.</i>
+
+51
+00:03:44,359 --> 00:03:46,260
+<i>Voy a serles franca.</i>
+
+52
+00:03:46,373 --> 00:03:49,906
+<i>No somos la familia típica
+de una comedia musical.</i>
+
+53
+00:03:50,115 --> 00:03:51,908
+<i>Para empezar, tenemos billetes.</i>
+
+54
+00:03:52,117 --> 00:03:56,366
+<i>Y vivimos aquí, en Park Avenue,
+en un gran ático de lujo.</i>
+
+55
+00:03:56,621 --> 00:04:01,265
+<i>Papi es abogado. Yo lo llamo "Papi"
+pero es mi "Papi-drastro".</i>
+
+56
+00:04:01,378 --> 00:04:03,420
+<i>Porque está "Papi-de-Verdad"...</i>
+
+57
+00:04:03,712 --> 00:04:05,463
+<i>...el ex-esposo de mi madre.</i>
+
+58
+00:04:05,714 --> 00:04:09,384
+<i>Y luego vino "Papi-drastro".
+Con 2 hijos anteriores...</i>
+
+59
+00:04:09,718 --> 00:04:12,762
+<i>Bueno, quizá los esté
+confundiendo un poco.</i>
+
+60
+00:04:12,971 --> 00:04:14,764
+<i>Verán, están Lane y Laura.</i>
+
+61
+00:04:14,973 --> 00:04:17,775
+<i>Mis hermanastras. Son geniales.</i>
+
+62
+00:04:17,888 --> 00:04:19,603
+<i>A veces un poco tontas, pero...</i>
+
+63
+00:04:19,811 --> 00:04:22,939
+<i>...nos queremos
+y la pasamos de maravillas juntas.</i>
+
+64
+00:04:23,231 --> 00:04:25,901
+<i>Y mi hermanastro Scott,
+muy inteligente...</i>
+
+65
+00:04:26,151 --> 00:04:30,485
+<i>...que ahora se lleva mal
+con la familia por ser republicano.</i>
+
+66
+00:04:30,598 --> 00:04:34,868
+<i>A mi padrastro le dio un infarto,
+pues todos somos demócratas.</i>
+
+67
+00:04:34,993 --> 00:04:39,456
+Las limosnas sólo sirven
+para anular la iniciativa.
+
+68
+00:04:39,664 --> 00:04:43,251
+¿Dices que quien no pueda trabajar
+debe ser abandonado?
+
+69
+00:04:43,501 --> 00:04:47,380
+La Asistencia no sirve. Es el problema
+del viejo mundo liberal...
+
+70
+00:04:47,672 --> 00:04:51,684
+...que niega el rezo en escuelas
+y mima a delincuentes.
+
+71
+00:04:51,797 --> 00:04:54,721
+No puedo creer que esté hablando
+con mi propio hijo.
+
+72
+00:04:54,930 --> 00:04:58,016
+O unas vainas republicanas
+han invadido tu cuerpo.
+
+73
+00:04:58,266 --> 00:04:59,976
+Vainas no, papá.
+
+74
+00:05:00,185 --> 00:05:03,522
+Ideas: ¡viriles y modernas!
+
+75
+00:05:03,798 --> 00:05:06,434
+Una América fuerte,
+el derecho a portar armas.
+
+76
+00:05:06,547 --> 00:05:07,866
+¿Armas? ¿Pistolas?
+
+77
+00:05:08,074 --> 00:05:12,499
+¿Estás loco? ¿Qué te ocurre?
+¡Yo ya no te entiendo!
+
+78
+00:05:12,704 --> 00:05:13,788
+Tranquilo.
+
+79
+00:05:14,539 --> 00:05:18,953
+Perdona. Steffi, trae mi testamento
+y una goma de borrar.
+
+80
+00:05:19,572 --> 00:05:24,352
+<i>Si papá en un poco demócrata,
+entonces mamá es algo más excesiva.</i>
+
+81
+00:05:24,465 --> 00:05:26,104
+<i>Es demócrata con remordimientos.</i>
+
+82
+00:05:26,354 --> 00:05:30,024
+<i>Él creció pobre y sabe lo que es
+trabajar como un burro.</i>
+
+83
+00:05:30,275 --> 00:05:32,736
+<i>Mamá venía del lujo
+y del dinero y...</i>
+
+84
+00:05:32,986 --> 00:05:36,614
+<i>...se pasa el día trabajando
+como voluntaria para todo.</i>
+
+85
+00:05:36,865 --> 00:05:41,327
+<i>Para la Unión de Libertades Civiles
+y para Salvar las Ballenas...</i>
+
+86
+00:05:41,536 --> 00:05:45,123
+<i>...y recauda dinero para museos
+y hospitales...</i>
+
+87
+00:05:45,373 --> 00:05:47,500
+<i>...y siempre está tramando algo...</i>
+
+88
+00:05:47,709 --> 00:05:51,755
+<i>...como organizar una soirée chic
+para la Filarmónica de Nueva York.</i>
+
+89
+00:06:57,278 --> 00:07:01,908
+<i>Lane y Laura van al Nigthingale,
+un colegio costoso de la calle 92.</i>
+
+90
+00:07:02,200 --> 00:07:04,244
+Las trufas blancas son mejores...
+
+91
+00:07:04,786 --> 00:07:06,329
+Mejores que las oscuras.
+
+92
+00:07:06,537 --> 00:07:09,332
+- ¡Dios mío!
+- ¡Dios mío, ahí está!
+
+93
+00:07:09,540 --> 00:07:11,584
+- Es impresionante.
+- ¿Quién es?
+
+94
+00:07:11,876 --> 00:07:15,088
+No lo sabemos.
+Lo vemos siempre por aquí.
+
+95
+00:07:15,630 --> 00:07:17,441
+Se ha enamorado sin conocerlo.
+
+96
+00:07:17,554 --> 00:07:19,384
+Ya haremos que se conozcan.
+
+97
+00:07:19,634 --> 00:07:22,303
+Nada de planes humillantes, por favor.
+
+98
+00:07:24,639 --> 00:07:26,891
+Mi madre está con una paciente.
+
+99
+00:07:27,141 --> 00:07:30,895
+<i>Claire es su mejor amiga.
+Su madre es psiquiatra.</i>
+
+100
+00:07:31,145 --> 00:07:33,731
+<i>Hace años, Claire hizo un agujero
+en la pared.</i>
+
+101
+00:07:33,982 --> 00:07:39,084
+<i>Y a veces nos lo pasamos genial
+sintonizando a su clientela.</i>
+
+102
+00:07:39,320 --> 00:07:43,074
+He tenido esos pensamientos sobre...
+
+103
+00:07:43,992 --> 00:07:45,702
+...otros hombres y...
+
+104
+00:07:46,911 --> 00:07:48,496
+...me hacen sentir...
+
+105
+00:07:48,830 --> 00:07:50,331
+...mal y...
+
+106
+00:07:50,999 --> 00:07:52,291
+...culpable.
+
+107
+00:07:53,835 --> 00:07:55,753
+He soñado con ese ascensor...
+
+108
+00:07:56,170 --> 00:07:57,296
+...otra vez...
+
+109
+00:07:57,588 --> 00:07:58,673
+...y...
+
+110
+00:07:59,173 --> 00:08:01,467
+...yo voy en el ascensor y...
+
+111
+00:08:02,093 --> 00:08:04,971
+...continúa subiendo y subiendo...
+
+112
+00:08:05,263 --> 00:08:06,514
+...y subiendo.
+
+113
+00:08:08,016 --> 00:08:09,642
+<i>Tienen que conocer al abuelo.</i>
+
+114
+00:08:10,101 --> 00:08:11,933
+<i>Tiene 88 años.</i>
+
+115
+00:08:13,021 --> 00:08:17,025
+Estaba en la G. Central Station
+y creía que era el Jardín Botánico.
+
+116
+00:08:17,275 --> 00:08:19,158
+<i>Hay que vigilarlo.</i>
+
+117
+00:08:19,292 --> 00:08:21,946
+<i>El año pasado salió de casa
+en toalla...</i>
+
+118
+00:08:22,196 --> 00:08:24,407
+<i>...y se puso a hacer cola
+en Times Square.</i>
+
+119
+00:08:24,615 --> 00:08:26,617
+<i>Enviamos a Frieda a buscarlo.</i>
+
+120
+00:08:26,868 --> 00:08:31,399
+<i>Es nuestra criada.
+Yo diría que fue criada de Hitler.</i>
+
+121
+00:08:31,512 --> 00:08:33,837
+<i>Pero es la única capaz
+de manejar al abuelo.</i>
+
+122
+00:08:35,293 --> 00:08:37,829
+He encontrado estas plantillas...
+
+123
+00:08:37,942 --> 00:08:40,931
+...en el estofado. ¿Qué hacían ahí?
+
+124
+00:08:43,217 --> 00:08:47,138
+<i>Y por último está papá.
+Vive en París, pero viene mucho.</i>
+
+125
+00:08:47,472 --> 00:08:49,807
+<i>Él y mi padrastro
+son grandes amigos.</i>
+
+126
+00:08:50,057 --> 00:08:55,075
+<i>Creo que sigue loco por mamá,
+aunque lleven años divorciados.</i>
+
+127
+00:08:55,188 --> 00:08:58,455
+<i>Los tres son amigos
+y se consultan los problemas.</i>
+
+128
+00:08:58,608 --> 00:09:01,444
+No puedo creerlo,
+Giselle me ha dejado.
+
+129
+00:09:01,652 --> 00:09:02,945
+Miren qué cara.
+
+130
+00:09:03,154 --> 00:09:05,448
+Se ha largado
+con mi mejor amigo.
+
+131
+00:09:05,656 --> 00:09:06,741
+¿Sin avisar?
+
+132
+00:09:06,908 --> 00:09:09,786
+Nada. Los dos se--
+¿Han visto algo tan...?
+
+133
+00:09:09,994 --> 00:09:12,705
+Estoy destruido, se los aseguro.
+
+134
+00:09:12,914 --> 00:09:14,040
+Será mi fin.
+
+135
+00:09:14,248 --> 00:09:17,960
+Iré a París y me tiraré
+de la Torre Eiffel, me mataré.
+
+136
+00:09:18,169 --> 00:09:22,315
+Yendo en el Concorde,
+puedo morir 3 horas antes.
+
+137
+00:09:22,428 --> 00:09:23,883
+No, un momento
+
+138
+00:09:24,175 --> 00:09:25,510
+Con el cambio de horario...
+
+139
+00:09:25,760 --> 00:09:29,347
+...viviría 6 horas en Nueva York,
+llevando muerto 3 en París.
+
+140
+00:09:29,597 --> 00:09:31,933
+Podría hacer cosas, estando muerto.
+
+141
+00:09:32,183 --> 00:09:35,895
+No habrás visto las señales.
+Ella te habrá hecho señales.
+
+142
+00:09:36,103 --> 00:09:37,647
+¿Me tomas por idiota?
+
+143
+00:09:37,855 --> 00:09:41,817
+¿Qué clase de señales?
+¿La foto de él en su ropa interior?
+
+144
+00:09:42,026 --> 00:09:44,320
+¿O llamarlo a él en el orgasmo?
+
+145
+00:09:44,529 --> 00:09:47,615
+- No hablo de eso.
+- Pues eso es lo que pasó.
+
+146
+00:09:47,907 --> 00:09:49,700
+Y yo no lo relacionaba.
+
+147
+00:09:49,992 --> 00:09:52,662
+Me alegro de que no se casaran.
+Te lo avisé.
+
+148
+00:09:52,954 --> 00:09:54,705
+Lo habría hecho encantado.
+
+149
+00:09:54,956 --> 00:09:58,376
+Me alegro mucho.
+¿Te apetece una copa?
+
+150
+00:09:58,793 --> 00:10:00,670
+Lo que sea.
+Necesito un trago.
+
+151
+00:10:00,878 --> 00:10:02,553
+¿Saben qué es lo más triste?
+
+152
+00:10:02,666 --> 00:10:05,925
+Yo creía que todo iba bien.
+Que las cosas iban--
+
+153
+00:10:06,217 --> 00:10:08,928
+Tú siempre eliges mal
+a las mujeres.
+
+154
+00:10:09,136 --> 00:10:11,472
+- Te elegí a ti.
+- Nos divorciamos.
+
+155
+00:10:11,764 --> 00:10:13,933
+Era imposible vivir contigo.
+
+156
+00:10:14,141 --> 00:10:16,227
+¿Era imposible? ¡Me encanta!
+
+157
+00:10:16,477 --> 00:10:20,439
+No sabías si querías ser
+psicoanalista o escritor.
+
+158
+00:10:20,690 --> 00:10:23,442
+Y me comprometí: me hice escritor
+y paciente.
+
+159
+00:10:23,734 --> 00:10:26,862
+Te encontraremos a alguien.
+Conocemos a mucha gente.
+
+160
+00:10:27,071 --> 00:10:30,866
+Desde que nos divorciamos,
+le busco una mujer adecuada.
+
+161
+00:10:31,117 --> 00:10:33,536
+Alguien de acuerdo
+a su personalidad.
+
+162
+00:10:33,828 --> 00:10:36,080
+¡Cariño, trae otra copa!
+
+163
+00:10:36,330 --> 00:10:40,171
+Ya dudo que la población femenina
+no sea limitada.
+
+164
+00:10:40,284 --> 00:10:41,384
+Gracias.
+
+165
+00:10:42,003 --> 00:10:44,297
+- Has tenido mala suerte.
+- No, no es eso.
+
+166
+00:10:44,505 --> 00:10:46,382
+Elige infaliblemente mal.
+
+167
+00:10:46,590 --> 00:10:50,594
+La cuestión es si quiere pasar
+su edad de oro con alguien o no.
+
+168
+00:10:50,845 --> 00:10:52,888
+¿Por qué mi edad de oro?
+
+169
+00:10:53,139 --> 00:10:54,932
+Hay que pensar en eso.
+
+170
+00:10:55,224 --> 00:10:59,145
+Los hombres no envejecen igual.
+Dentro de 2 años pareceré tu hijo.
+
+171
+00:10:59,395 --> 00:11:01,230
+¡Eso ha sido perverso!
+
+172
+00:11:01,856 --> 00:11:03,691
+No te rías.
+
+173
+00:11:03,941 --> 00:11:06,444
+- No tiene gracia.
+- Me lleva a un asilo.
+
+174
+00:11:06,694 --> 00:11:09,405
+¿Qué pasó con Madeline,
+después de mí?
+
+175
+00:11:10,364 --> 00:11:13,284
+Era arqueóloga. Era fabulosa.
+
+176
+00:11:13,534 --> 00:11:15,161
+Era ninfómana.
+
+177
+00:11:15,536 --> 00:11:18,261
+Sí, tenía problemas
+con la fidelidad.
+
+178
+00:11:18,374 --> 00:11:20,124
+Yo no lo veía.
+Pero era inteligente.
+
+179
+00:11:20,374 --> 00:11:23,586
+¿Y Carol? ¿Qué apellido tenía?
+
+180
+00:11:23,836 --> 00:11:26,557
+Carol era poetisa
+y Doctora Honoris Causa.
+
+181
+00:11:26,670 --> 00:11:28,189
+Era heroinómana.
+
+182
+00:11:28,302 --> 00:11:30,342
+¡Sí, pero yo creía
+que era insulina!
+
+183
+00:11:30,551 --> 00:11:32,636
+¿Sabes cuál es el problema?
+Escucha.
+
+184
+00:11:32,887 --> 00:11:34,472
+¡El problema es éste!
+
+185
+00:11:34,722 --> 00:11:37,683
+Sigue enamorado de ti.
+Yo siempre lo he dicho.
+
+186
+00:11:37,975 --> 00:11:40,352
+¿Qué culpa tiene? Claro que sí.
+
+187
+00:11:40,561 --> 00:11:43,189
+- Ése es el problema.
+- ¡Mis dos hombres!
+
+188
+00:11:43,481 --> 00:11:45,566
+Sigo colgado de Giselle.
+
+189
+00:11:45,816 --> 00:11:47,610
+Ya encontraremos a alguien.
+
+190
+00:11:47,818 --> 00:11:49,653
+No estoy seguro.
+
+191
+00:11:49,820 --> 00:11:52,364
+- Seguro. Lo sé.
+- Éste es el problema.
+
+192
+00:11:58,245 --> 00:12:00,623
+¡Cuánto secreto!
+¿Joyería Winston?
+
+193
+00:12:00,831 --> 00:12:04,877
+Quiero que me ayudes a elegir
+un anillo para Skylar.
+
+194
+00:12:05,169 --> 00:12:06,504
+Felicitaciones.
+
+195
+00:12:07,922 --> 00:12:10,090
+Quiere un anillo de compromiso.
+
+196
+00:12:10,341 --> 00:12:13,761
+Sí, vamos a casarnos.
+Bueno, yo, ella no.
+
+197
+00:12:14,011 --> 00:12:17,306
+Comprendo.
+¿En qué tamaño ha pensado?
+
+198
+00:12:17,515 --> 00:12:18,849
+¿En qué tamaño?
+
+199
+00:12:21,435 --> 00:12:23,604
+Bueno, ella no es enorme.
+
+200
+00:12:23,854 --> 00:12:25,564
+Tampoco flaca.
+
+201
+00:12:25,773 --> 00:12:28,609
+- ¿Algo sencillo pero elegante?
+- ¡Eso es!
+
+202
+00:12:28,859 --> 00:12:31,779
+Sencillo y elegante. Exacto.
+Te lo he dicho.
+
+203
+00:12:32,029 --> 00:12:33,280
+Como éste.
+
+204
+00:12:33,531 --> 00:12:35,115
+Dios mío, es precioso.
+
+205
+00:12:35,366 --> 00:12:36,421
+Es perfecto.
+
+206
+00:12:36,534 --> 00:12:40,371
+Es el anillo más bonito
+que he visto en mi vida.
+
+207
+00:12:40,621 --> 00:12:42,706
+¿Cuánto me costaría? Me gusta.
+
+208
+00:12:42,957 --> 00:12:44,166
+55.000 dólares.
+
+209
+00:12:44,375 --> 00:12:46,210
+¿55.000, dice usted?
+
+210
+00:12:47,628 --> 00:12:51,632
+Pues deje que me lo quite,
+porque no creo...
+
+211
+00:12:52,216 --> 00:12:54,468
+Mirándolo bien, no es...
+
+212
+00:12:54,718 --> 00:12:57,012
+...del estilo de Skylar.
+Es vulgar.
+
+213
+00:12:57,304 --> 00:12:59,390
+No es novia de un mafioso.
+Ayúdame.
+
+214
+00:12:59,640 --> 00:13:01,141
+Éste es una maravilla.
+
+215
+00:13:01,392 --> 00:13:03,246
+Éste es precioso.
+
+216
+00:13:05,896 --> 00:13:08,315
+¿Cuánto me costará?
+¿1.000? ¿2.000?
+
+217
+00:13:08,566 --> 00:13:10,651
+8.000 dólares.
+
+218
+00:13:10,818 --> 00:13:15,388
+Ya entra en el programa,
+se acerca a la zona.
+
+219
+00:13:15,501 --> 00:13:18,242
+- No es mi zona, pero--
+- Es una zona mejor.
+
+220
+00:13:19,159 --> 00:13:21,954
+Pero, ¡qué caray!
+Vamos a casarnos, ¿no?
+
+221
+00:13:22,162 --> 00:13:23,247
+¡Pues adelante!
+
+222
+00:13:23,664 --> 00:13:26,917
+Es un anillo
+sencillamente exquisito.
+
+223
+00:13:27,167 --> 00:13:29,466
+# Mi chica no quiere anillos #
+
+224
+00:13:29,587 --> 00:13:32,162
+# Ni piedras con mucho brillo #
+
+225
+00:13:32,506 --> 00:13:36,221
+# Mi chica me quiere a mí #
+
+226
+00:13:38,178 --> 00:13:40,389
+# A mi chica no le atraen #
+
+227
+00:13:40,597 --> 00:13:43,357
+# Los Roll-Royces de lujo #
+
+228
+00:13:44,018 --> 00:13:49,746
+# Y a veces yo dudo de sus gustos #
+
+229
+00:13:50,274 --> 00:13:53,010
+# Mi chica no sueña con #
+
+230
+00:13:53,277 --> 00:13:56,189
+# Un diamante de un millón #
+
+231
+00:13:56,530 --> 00:14:00,788
+# Ni piensa en un gran rubí #
+
+232
+00:14:02,703 --> 00:14:07,748
+# No importa lo que ellos digan #
+
+233
+00:14:08,792 --> 00:14:12,330
+# ¡Mi chica me quiere a mí! #
+
+234
+00:14:14,465 --> 00:14:17,134
+# Es feliz desde que entró #
+
+235
+00:14:17,384 --> 00:14:20,095
+# En su vida el gran amor #
+
+236
+00:14:20,304 --> 00:14:24,607
+# Y lo mejor
+es que alguien lo ha elegido #
+
+237
+00:14:26,393 --> 00:14:28,479
+# Nos cuesta comprender #
+
+238
+00:14:29,313 --> 00:14:31,899
+# Lo que ha podido ver en él #
+
+239
+00:14:32,649 --> 00:14:37,115
+# Pero así son
+las artes de Cupido #
+
+240
+00:14:39,573 --> 00:14:42,034
+# A su chica no le gusta el teatro #
+
+241
+00:14:42,743 --> 00:14:44,995
+# Ni quiere comprarse ropa #
+
+242
+00:14:45,746 --> 00:14:48,415
+# ¡Mi chica me quiere a mí! #
+
+243
+00:14:49,249 --> 00:14:51,627
+# ¡No piensa en nadie más! #
+
+244
+00:14:52,002 --> 00:14:57,698
+# Su chica no quiere
+pieles ni encajes #
+
+245
+00:14:58,175 --> 00:15:00,511
+# No le atraen las carreras #
+
+246
+00:15:00,844 --> 00:15:03,597
+# Ni los grandes viajes #
+
+247
+00:15:04,181 --> 00:15:07,267
+# - No le atrae el deporte...
+- ¡La saca de quicio! #
+
+248
+00:15:07,518 --> 00:15:10,020
+# Ni hacer ejercicio #
+
+249
+00:15:10,354 --> 00:15:14,100
+# Me alegra decir que ella #
+
+250
+00:15:14,274 --> 00:15:16,401
+# Le alegra decir que ella #
+
+251
+00:15:16,610 --> 00:15:22,033
+# Ha sabido elegir #
+
+252
+00:15:22,866 --> 00:15:26,283
+# ¡Mi chica me quiere a mí! #
+
+253
+00:16:12,332 --> 00:16:15,392
+# ¡Mi chica me quiere a mí! #
+
+254
+00:16:15,505 --> 00:16:17,911
+# Su chica lo quiere #
+
+255
+00:16:18,255 --> 00:16:21,696
+# ¡Mi chica me quiere a mí! #
+
+256
+00:16:27,180 --> 00:16:29,057
+Sra. de Holden Spence.
+
+257
+00:16:29,266 --> 00:16:31,018
+Skylar Spence. Me encanta.
+
+258
+00:16:31,268 --> 00:16:33,645
+Esta noche la lleva a Le Cirque.
+
+259
+00:16:33,854 --> 00:16:36,356
+- ¿En serio?
+- Le propondrá matrimonio.
+
+260
+00:16:36,607 --> 00:16:38,817
+Y fui yo quien los presentó.
+
+261
+00:16:39,026 --> 00:16:40,694
+Ya lo has contado, papi.
+
+262
+00:16:40,944 --> 00:16:43,614
+Fui yo. Él vino a trabajar
+a nuestro bufete.
+
+263
+00:16:43,864 --> 00:16:45,282
+El primer día me dije:
+
+264
+00:16:45,532 --> 00:16:49,328
+"Es genial. Toca de pies al suelo.
+Perfecto para ella."
+
+265
+00:16:49,536 --> 00:16:51,371
+Frieda, la pasta no tiene salsa.
+
+266
+00:16:51,622 --> 00:16:53,915
+La pasta bávara no necesita salsa.
+
+267
+00:16:54,124 --> 00:16:57,044
+La italiana sí.
+Los italianos eran débiles.
+
+268
+00:16:57,294 --> 00:16:59,004
+Bien, pues denme pimienta.
+
+269
+00:16:59,212 --> 00:17:04,092
+¿Tu solución a la violencia
+es dejar libres a los delincuentes?
+
+270
+00:17:04,301 --> 00:17:07,054
+No. Charles Ferry se merece
+la condicional.
+
+271
+00:17:07,304 --> 00:17:10,690
+¿Quieres a alguien así
+en la calle?
+
+272
+00:17:11,058 --> 00:17:14,603
+Robo a mano armada, asalto,
+intento de fuga.
+
+273
+00:17:14,811 --> 00:17:17,397
+- Fue un niño maltratado.
+- Sé compasivo.
+
+274
+00:17:17,647 --> 00:17:21,068
+Toda la vida en la cárcel
+por una horrible infancia.
+
+275
+00:17:21,318 --> 00:17:23,278
+Algo que tú desconoces.
+
+276
+00:17:23,487 --> 00:17:25,364
+- Muchos errores...
+- ¿Bromeas?
+
+277
+00:17:25,572 --> 00:17:27,157
+Mal juicio, jueces corruptos...
+
+278
+00:17:27,407 --> 00:17:29,201
+Cálmense los dos.
+
+279
+00:17:29,409 --> 00:17:32,871
+- No quiero discutirlo.
+- No puedo escucharlo.
+
+280
+00:17:33,163 --> 00:17:34,915
+- Necesito mi billetera.
+- ¿Adónde vas?
+
+281
+00:17:35,165 --> 00:17:37,959
+Al estadio Polo Grounds.
+Juegan Giants y Cardinals.
+
+282
+00:17:38,168 --> 00:17:42,255
+No puedes salir. Si vas de paseo,
+tienes que ir con Frieda.
+
+283
+00:17:42,506 --> 00:17:44,925
+Es que hoy juegan
+la Final de Otoño.
+
+284
+00:17:45,175 --> 00:17:46,384
+Es Junio, abuelo.
+
+285
+00:17:46,676 --> 00:17:49,429
+Ese estadio cerró hace años.
+
+286
+00:17:49,638 --> 00:17:52,182
+- ¿Por mal tiempo?
+- Llévelo de paseo.
+
+287
+00:17:52,432 --> 00:17:54,267
+No, no saldré con Frieda.
+
+288
+00:17:54,518 --> 00:17:58,146
+No, no, con ella no.
+No quiero un pastor alemán.
+
+289
+00:17:58,396 --> 00:17:59,773
+Que tengas un buen paseo.
+
+290
+00:18:00,023 --> 00:18:01,733
+¿Sabes qué dicen las niñas?
+
+291
+00:18:02,609 --> 00:18:05,904
+Que Holden va a darle una sorpresa
+a Skylar.
+
+292
+00:18:06,071 --> 00:18:09,241
+Si sigues chismorreando,
+no será una sorpresa.
+
+293
+00:18:09,449 --> 00:18:10,867
+Te dije que te callaras.
+
+294
+00:18:11,118 --> 00:18:15,205
+Voy a salir. Si llama Minnie,
+estoy en el Polo Grounds.
+
+295
+00:18:15,455 --> 00:18:17,541
+Minnie murió hace 20 años.
+
+296
+00:18:17,791 --> 00:18:21,378
+No te lo discuto, pero si llama,
+díganle que volveré.
+
+297
+00:18:22,129 --> 00:18:24,256
+21 años son pocos para casarse.
+
+298
+00:18:24,548 --> 00:18:27,467
+Si no se tratara de Holden,
+me opondría.
+
+299
+00:18:27,717 --> 00:18:30,220
+Yo no pienso casarme
+hasta los 35.
+
+300
+00:18:30,470 --> 00:18:32,722
+Y con experiencia.
+Quizá acabe con una mujer.
+
+301
+00:18:32,973 --> 00:18:34,307
+¿Qué bromas son esas?
+
+302
+00:18:34,641 --> 00:18:35,976
+Te gusta Holden, ¿no?
+
+303
+00:18:36,226 --> 00:18:40,063
+El problema es Skylar:
+es una tonta romántica.
+
+304
+00:18:40,397 --> 00:18:42,524
+Holden es poco romántico
+para ella.
+
+305
+00:18:42,732 --> 00:18:45,277
+¿Y qué? Se casará con él, ¿no?
+
+306
+00:18:45,485 --> 00:18:47,946
+Eso espero. Quiero su habitación.
+
+307
+00:18:48,196 --> 00:18:50,031
+Está loca por él.
+
+308
+00:18:50,282 --> 00:18:52,993
+Skylar tiene el síndrome
+del caballero andante.
+
+309
+00:18:53,243 --> 00:18:56,538
+Desde que le saltaron las hormonas
+espera que aparezca...
+
+310
+00:18:56,788 --> 00:18:58,999
+...alguien carismático y la rapte.
+
+311
+00:18:59,249 --> 00:19:02,586
+¿Así que Holden
+es ese joven Lancelot?
+
+312
+00:19:02,836 --> 00:19:04,045
+Es un joven ingenuo.
+
+313
+00:19:04,254 --> 00:19:07,173
+Es un ingenuo,
+pero un ingenuo adorable.
+
+314
+00:19:07,424 --> 00:19:11,251
+¡Vaya bienvenida!
+Nunca traeré un hombre a casa.
+
+315
+00:19:11,595 --> 00:19:14,055
+Para empezar, no es un ingenuo.
+
+316
+00:19:28,695 --> 00:19:32,716
+# Soy una soñadora #
+
+317
+00:19:32,949 --> 00:19:36,617
+# ¿No lo somos todos? #
+
+318
+00:19:37,579 --> 00:19:41,271
+# Una soñadora #
+
+319
+00:19:41,541 --> 00:19:45,526
+# Como todos #
+
+320
+00:19:45,670 --> 00:19:51,670
+# En mis sueños, siempre veo #
+
+321
+00:19:53,720 --> 00:19:59,720
+# A mi amor llegar #
+
+322
+00:20:03,897 --> 00:20:09,880
+# Fuerte y alto, es un encanto #
+
+323
+00:20:12,489 --> 00:20:18,489
+# Es alarmante
+que me guste tanto #
+
+324
+00:20:19,996 --> 00:20:23,720
+# Es ideal #
+
+325
+00:20:23,833 --> 00:20:29,833
+# Pero no es real
+y yo soy una tonta #
+
+326
+00:20:32,759 --> 00:20:37,548
+# Pero ¿no lo somos todos? #
+
+327
+00:20:46,523 --> 00:20:48,733
+¿Sabes cómo veo nuestro futuro?
+
+328
+00:20:48,900 --> 00:20:49,984
+¿Cómo?
+
+329
+00:20:50,110 --> 00:20:54,217
+Nos casamos y vivimos en Sharon,
+cerca de mis padres.
+
+330
+00:20:54,330 --> 00:20:56,074
+Yo no podría dejar Nueva York.
+
+331
+00:20:56,533 --> 00:21:00,016
+Pues dejamos a mis padres
+y vivimos en Nueva York.
+
+332
+00:21:00,129 --> 00:21:03,581
+Es que con cuatro hijos
+necesitaremos más espacio.
+
+333
+00:21:03,873 --> 00:21:05,333
+Yo quiero dos hijos.
+
+334
+00:21:06,626 --> 00:21:08,501
+Dos es perfecto.
+
+335
+00:21:08,614 --> 00:21:10,130
+Dos es perfecto para mí...
+
+336
+00:21:10,380 --> 00:21:11,881
+...porque cuatro son...
+
+337
+00:21:12,132 --> 00:21:13,424
+...son un montón y...
+
+338
+00:21:13,967 --> 00:21:15,677
+...tú podrás quedarte en casa--
+
+339
+00:21:15,969 --> 00:21:17,387
+No, yo trabajaré.
+
+340
+00:21:17,887 --> 00:21:22,100
+Cuando no trabajes todo el día.
+Tendrás tu carrera, el periodismo.
+
+341
+00:21:22,517 --> 00:21:23,852
+La arquitectura.
+
+342
+00:21:25,478 --> 00:21:27,188
+¿Arquitectura? ¿Desde cuándo?
+
+343
+00:21:27,438 --> 00:21:30,150
+No sé. Son cosas que he pensado.
+
+344
+00:21:30,400 --> 00:21:32,944
+Has estudiado periodismo,
+pero...
+
+345
+00:21:33,695 --> 00:21:35,822
+Lo importante es que...
+
+346
+00:21:36,156 --> 00:21:39,409
+...estamos de acuerdo en casi todo,
+según parece.
+
+347
+00:21:39,659 --> 00:21:41,703
+¿Traigo ya el postre, señor?
+
+348
+00:21:42,245 --> 00:21:45,415
+¿Ya es el momento del postre?
+Sí que lo es.
+
+349
+00:21:45,665 --> 00:21:48,585
+Disculpa un segundo.
+Tengo que hacer una cosa.
+
+350
+00:21:49,502 --> 00:21:51,796
+Está preparado como Ud. quería.
+
+351
+00:21:52,088 --> 00:21:53,256
+¿Funcionará?
+
+352
+00:21:54,838 --> 00:21:57,177
+- Es perfecto, Umberto.
+- Me alegro, señor.
+
+353
+00:21:57,343 --> 00:21:59,668
+Ahora viene mi parte del trato.
+
+354
+00:22:00,305 --> 00:22:01,681
+Es precioso, ¿no?
+
+355
+00:22:01,848 --> 00:22:04,434
+Me ha costado un riñón, en serio.
+
+356
+00:22:04,684 --> 00:22:07,979
+Seguro. Una gran idea.
+Muy romántico.
+
+357
+00:22:08,771 --> 00:22:10,315
+Es que yo soy así.
+
+358
+00:22:10,607 --> 00:22:11,691
+Eso ya se nota.
+
+359
+00:22:11,941 --> 00:22:14,736
+Vamos entonces.
+Voy a colocarlo aquí.
+
+360
+00:22:15,028 --> 00:22:16,984
+¿Se quedará de una pieza?
+
+361
+00:22:17,697 --> 00:22:20,325
+- ¿Vamos?
+- Adelante. Confío en usted.
+
+362
+00:22:20,533 --> 00:22:21,618
+Buena suerte.
+
+363
+00:22:24,203 --> 00:22:26,789
+- ¿Todo está bien?
+- Todo bien.
+
+364
+00:22:26,956 --> 00:22:29,500
+- ¿Pedimos el postre? ¿Ya está?
+- Ya está.
+
+365
+00:22:29,751 --> 00:22:32,962
+Te gustan los hombres de acción,
+y para eso estoy yo.
+
+366
+00:22:33,212 --> 00:22:34,839
+No pareces tú.
+
+367
+00:22:35,048 --> 00:22:38,927
+Para ti todo es poco.
+Umberto, ¿quiere hacer los honores?
+
+368
+00:22:39,802 --> 00:22:41,596
+¡Dios mío, qué rico!
+
+369
+00:22:41,888 --> 00:22:44,006
+Melocotón, mi sabor preferido.
+
+370
+00:22:45,308 --> 00:22:48,186
+- Está riquísimo.
+- ¿Qué haces? ¡Quieta!
+
+371
+00:22:48,478 --> 00:22:50,188
+- ¿Y el resto?
+- ¿Qué?
+
+372
+00:22:50,396 --> 00:22:52,231
+¡La nata y la cereza!
+
+373
+00:22:52,482 --> 00:22:54,254
+- Me la comí.
+- ¿El anillo?
+
+374
+00:22:54,367 --> 00:22:55,431
+¿Qué?
+
+375
+00:22:55,544 --> 00:22:57,528
+- Te compré un anillo con diamante.
+- ¿Sí?
+
+376
+00:22:57,820 --> 00:22:58,946
+En Harry Winston.
+
+377
+00:22:59,155 --> 00:23:00,239
+¿Dónde está?
+
+378
+00:23:00,406 --> 00:23:02,492
+- Lo puse en el postre.
+- ¿Por qué?
+
+379
+00:23:02,659 --> 00:23:06,883
+- ¡Me ha parecido romántico!
+- ¿Poner un anillo en el helado?
+
+380
+00:23:06,996 --> 00:23:09,666
+No ha sido idea mía,
+sino de DJ.
+
+381
+00:23:09,832 --> 00:23:12,752
+Ha dicho que le daría
+un toque espectacular.
+
+382
+00:23:13,086 --> 00:23:14,337
+¿Me he comido un anillo?
+
+383
+00:23:14,587 --> 00:23:18,174
+Me doy media vuelta
+y te tragas 8.000 dólares.
+
+384
+00:23:18,508 --> 00:23:20,176
+¡Dios mío!
+
+385
+00:23:20,426 --> 00:23:21,469
+Cálmate.
+
+386
+00:23:21,678 --> 00:23:22,887
+¿Era muy grande?
+
+387
+00:23:23,179 --> 00:23:24,389
+Era un buen pedrusco.
+
+388
+00:23:24,597 --> 00:23:27,600
+- ¿Me he tragado un quilate?
+- Más de un quilate.
+
+389
+00:23:27,850 --> 00:23:28,935
+¿Quiere chocolate?
+
+390
+00:23:29,102 --> 00:23:30,103
+¡Me muero!
+
+391
+00:23:30,269 --> 00:23:32,105
+- No.
+- ¿Pasa algo, señor?
+
+392
+00:23:32,271 --> 00:23:35,233
+Se ha tragado algo de joyería.
+No es nada.
+
+393
+00:23:35,441 --> 00:23:36,609
+- Sigan.
+- ¿Cómo has podido?
+
+394
+00:23:36,859 --> 00:23:41,322
+¿Cómo he podido?
+Uno mira la comida, no se lanza.
+
+395
+00:23:41,531 --> 00:23:43,074
+Déjame verte la boca.
+
+396
+00:23:44,951 --> 00:23:46,994
+No será un gran problema.
+
+397
+00:23:47,120 --> 00:23:49,664
+Está en un lugar accesible.
+
+398
+00:23:49,872 --> 00:23:52,250
+Es una preciosidad de anillo.
+
+399
+00:23:52,458 --> 00:23:54,335
+Una brillante elección.
+
+400
+00:23:54,627 --> 00:23:56,546
+¡Felicitaciones, chica!
+
+401
+00:23:56,879 --> 00:23:58,589
+Es precioso.
+
+402
+00:23:59,132 --> 00:24:00,967
+Mira, se ha prometido.
+
+403
+00:24:01,217 --> 00:24:03,219
+¿De cuánto es? ¿De 2 quilates?
+
+404
+00:24:03,469 --> 00:24:05,388
+- 1 y medio.
+- ¿Oro blanco?
+
+405
+00:24:05,555 --> 00:24:07,723
+- Platino macizo.
+- Estupendo.
+
+406
+00:24:07,890 --> 00:24:09,183
+- De Winston.
+- ¿Cuánto?
+
+407
+00:24:09,392 --> 00:24:10,560
+8.000.
+
+408
+00:24:10,893 --> 00:24:14,051
+Yo lo consigo por 6,
+a través de mi cuñado.
+
+409
+00:24:14,164 --> 00:24:15,463
+Pagan por el nombre.
+
+410
+00:24:15,576 --> 00:24:18,899
+Estoy muy contenta por ti.
+Es un hombre fantástico.
+
+411
+00:24:19,152 --> 00:24:20,611
+¿Me quedará cicatriz?
+
+412
+00:24:20,903 --> 00:24:24,449
+# Los médicos miran a los Rayos X
+sin sonreír #
+
+413
+00:24:25,241 --> 00:24:27,493
+# Si miro la vida desde fuera #
+
+414
+00:24:27,743 --> 00:24:29,287
+# No me hace sufrir #
+
+415
+00:24:29,579 --> 00:24:33,636
+# Quizás es por eso
+que me parece gracioso #
+
+416
+00:24:33,749 --> 00:24:37,682
+# Cuando cae un amigo
+y toma esposa #
+
+417
+00:24:38,337 --> 00:24:41,569
+# Las bodas te dejan triste
+y apenado #
+
+418
+00:24:42,508 --> 00:24:44,823
+# Mas si no eres el novio #
+
+419
+00:24:45,344 --> 00:24:47,697
+# Estás salvado #
+
+420
+00:24:49,932 --> 00:24:53,773
+# Otra bella novia, otro novio fiel #
+
+421
+00:24:53,936 --> 00:24:57,863
+# Otra soleada luna de miel #
+
+422
+00:24:58,024 --> 00:24:59,817
+# Otra estación #
+
+423
+00:25:00,109 --> 00:25:01,694
+# Otra razón #
+
+424
+00:25:02,028 --> 00:25:04,908
+# Para un revolcón #
+
+425
+00:25:06,199 --> 00:25:08,117
+# Mucho confeti #
+
+426
+00:25:08,451 --> 00:25:10,161
+# Y mucho arroz #
+
+427
+00:25:10,453 --> 00:25:11,996
+# El novio tiembla #
+
+428
+00:25:12,455 --> 00:25:14,248
+# Le falta voz #
+
+429
+00:25:14,540 --> 00:25:16,209
+# Es sorprendente #
+
+430
+00:25:16,375 --> 00:25:18,336
+# Que sólo piense #
+
+431
+00:25:18,449 --> 00:25:20,379
+# En el revolcón #
+
+432
+00:25:23,215 --> 00:25:26,628
+# Imagínense un nidito de amor #
+
+433
+00:25:27,219 --> 00:25:30,368
+# Entre rosas y pinos #
+
+434
+00:25:31,307 --> 00:25:35,198
+# Imagínense ese mismo nidito #
+
+435
+00:25:35,311 --> 00:25:38,988
+# Tras un año de mimos #
+
+436
+00:25:39,101 --> 00:25:40,650
+# Él lava platos #
+
+437
+00:25:40,900 --> 00:25:42,787
+# Y pañalitos #
+
+438
+00:25:42,900 --> 00:25:44,612
+# Es tan mañoso #
+
+439
+00:25:44,987 --> 00:25:46,906
+# Que cose un poquito #
+
+440
+00:25:47,239 --> 00:25:49,075
+# No seas necio #
+
+441
+00:25:49,408 --> 00:25:51,202
+# Que ése es el precio #
+
+442
+00:25:51,410 --> 00:25:52,912
+# De un revolcón #
+
+443
+00:25:53,079 --> 00:25:55,122
+# De un simple revolcón #
+
+444
+00:26:40,710 --> 00:26:42,503
+# Él lava platos #
+
+445
+00:26:42,712 --> 00:26:44,463
+# Y pañalitos #
+
+446
+00:26:44,880 --> 00:26:46,674
+# Es tan mañoso #
+
+447
+00:26:46,882 --> 00:26:48,676
+# Que cose un poquito #
+
+448
+00:26:48,884 --> 00:26:50,678
+# No seas necio #
+
+449
+00:26:52,722 --> 00:26:55,111
+# Que ése es el precio #
+
+450
+00:27:11,574 --> 00:27:15,453
+<i>En el verano, Lane y Laura
+trabajaban en el museo...</i>
+
+451
+00:27:15,995 --> 00:27:17,830
+<i>...e iban los fines de semana
+a la playa.</i>
+
+452
+00:27:18,581 --> 00:27:23,354
+<i>Mami organizó una petición
+de libertad para Ferry.</i>
+
+453
+00:27:23,467 --> 00:27:24,712
+<i>Su nueva misión.</i>
+
+454
+00:27:25,004 --> 00:27:28,674
+<i>Hasta visitó la cárcel y su estado
+le horrorizó.</i>
+
+455
+00:27:29,175 --> 00:27:31,719
+Necesitamos prisiones abiertas.
+
+456
+00:27:31,927 --> 00:27:36,500
+Espacio donde el alma humana dañada
+pueda curarse.
+
+457
+00:27:36,849 --> 00:27:41,762
+Dejemos que puedan decorar
+sus propias celdas...
+
+458
+00:27:41,875 --> 00:27:44,315
+...con sus propios decoradores.
+
+459
+00:27:45,191 --> 00:27:46,484
+Y mejor cocina.
+
+460
+00:27:46,775 --> 00:27:48,360
+Menús europeos.
+
+461
+00:27:48,777 --> 00:27:52,615
+<i>Yo ya estaba acostumbrada
+a dividir los veranos...</i>
+
+462
+00:27:52,948 --> 00:27:56,160
+<i>...Julio con mami en Nueva York
+y Agosto con papá en Europa.</i>
+
+463
+00:27:56,368 --> 00:27:59,705
+<i>Solía ser París, pero esta vez
+me llevó a Venecia.</i>
+
+464
+00:28:00,122 --> 00:28:03,792
+<i>Creo que quería superar
+el recuerdo de Giselle plantándolo.</i>
+
+465
+00:28:04,043 --> 00:28:07,713
+<i>Yo sólo sé que en cuanto
+a ciudades románticas...</i>
+
+466
+00:28:07,963 --> 00:28:10,633
+<i>...allí están los chicos
+más apuestos...</i>
+
+467
+00:28:10,883 --> 00:28:13,928
+<i>...que no saben tener
+las manos quietas. Genial.</i>
+
+468
+00:28:14,136 --> 00:28:18,182
+<i>La primera semana
+fue el paraíso. Bailes...</i>
+
+469
+00:28:18,474 --> 00:28:20,100
+<i>...y navegación en góndola.</i>
+
+470
+00:28:20,392 --> 00:28:23,062
+<i>Pero papá
+parecía no salir del hotel.</i>
+
+471
+00:28:23,812 --> 00:28:26,023
+<i>Giselle seguía atormentándolo.</i>
+
+472
+00:28:26,398 --> 00:28:29,018
+# Adiós, amor #
+
+473
+00:28:29,485 --> 00:28:32,395
+# Ya no me engañarás #
+
+474
+00:28:32,821 --> 00:28:36,379
+# He dicho "adieu" al amor #
+
+475
+00:28:36,492 --> 00:28:39,161
+# "No vuelvas nunca más" #
+
+476
+00:28:39,828 --> 00:28:45,242
+# Pues has de ser tú o nadie #
+
+477
+00:28:48,170 --> 00:28:53,383
+# Y por eso adiós, amor #
+
+478
+00:28:54,927 --> 00:28:57,984
+# He encerrado mi corazón #
+
+479
+00:28:58,097 --> 00:29:01,152
+# Dejaré mis sentimientos dentro #
+
+480
+00:29:01,767 --> 00:29:05,278
+# He guardado mi corazón #
+
+481
+00:29:05,604 --> 00:29:08,492
+# Conservándolo en el hielo #
+
+482
+00:29:09,191 --> 00:29:14,773
+# Y no me enamoraré de nadie #
+
+483
+00:29:17,533 --> 00:29:22,132
+# Así que adiós, amor #
+
+484
+00:29:23,872 --> 00:29:26,000
+Me siento culpable.
+
+485
+00:29:26,291 --> 00:29:28,210
+- Debes divertirte.
+- Ya lo hago.
+
+486
+00:29:28,460 --> 00:29:31,255
+Sigo sin saber
+qué ocurrió con Giselle.
+
+487
+00:29:31,547 --> 00:29:34,174
+Siempre pensé
+que era un poco inconsciente.
+
+488
+00:29:34,383 --> 00:29:36,927
+¿Una copa? Yo tomaré una cerveza.
+
+489
+00:29:37,136 --> 00:29:38,303
+Un Bellini.
+
+490
+00:29:39,805 --> 00:29:41,223
+Te daré un consejo.
+
+491
+00:29:41,473 --> 00:29:45,436
+Cuando se rompe una relación,
+y espero que no te ocurra...
+
+492
+00:29:46,478 --> 00:29:50,566
+Es mejor ser dejador que dejado.
+Porque el dejador deja.
+
+493
+00:29:51,150 --> 00:29:52,651
+Y al dejado lo dejan.
+
+494
+00:29:52,901 --> 00:29:53,902
+Es horrible.
+
+495
+00:29:54,069 --> 00:29:57,948
+Lo peor para el dejador
+es remordimiento de superviviente.
+
+496
+00:29:58,157 --> 00:30:01,827
+Ojalá ese remordimiento
+sea lo peor que te ocurra.
+
+497
+00:30:02,077 --> 00:30:04,204
+Mañana te dedicaré el día.
+
+498
+00:30:04,413 --> 00:30:06,540
+No hace falta, en serio.
+
+499
+00:30:06,749 --> 00:30:09,293
+No te des vuelta. ¡Esa pareja!
+
+500
+00:30:09,835 --> 00:30:11,795
+- No te des vuelta.
+- ¿Quién?
+
+501
+00:30:12,087 --> 00:30:14,882
+Te he hablado de ella.
+La vi llegar al hotel.
+
+502
+00:30:15,090 --> 00:30:18,010
+Es hermosa,
+pero creo que está casada.
+
+503
+00:30:18,260 --> 00:30:19,299
+¿Verdad?
+
+504
+00:30:19,412 --> 00:30:20,637
+¡Dios mío!
+
+505
+00:30:20,929 --> 00:30:22,014
+Preciosa, ¿verdad?
+
+506
+00:30:22,181 --> 00:30:23,557
+Yo sé quién es.
+
+507
+00:30:23,807 --> 00:30:24,850
+No te creo.
+
+508
+00:30:25,017 --> 00:30:28,604
+¿Cómo no se me ocurrió?
+Es perfecta para ti.
+
+509
+00:30:28,854 --> 00:30:30,981
+Pero ¿qué dices?
+¡Si está casada!
+
+510
+00:30:31,190 --> 00:30:33,901
+Pero no es feliz.
+Te encantaría.
+
+511
+00:30:34,109 --> 00:30:36,570
+¿Quién es? ¿De qué la conoces?
+
+512
+00:30:36,778 --> 00:30:40,650
+La madre de una amiga
+es su psiquiatra, lo sé todo.
+
+513
+00:30:40,763 --> 00:30:42,826
+- ¿Cómo se llama?
+- No lo sé.
+
+514
+00:30:43,035 --> 00:30:44,119
+¿Cómo que no?
+
+515
+00:30:44,369 --> 00:30:47,623
+Pero ¿qué te pasa? Cuéntame.
+No me tomes el pelo.
+
+516
+00:30:47,873 --> 00:30:51,627
+Es historiadora del arte,
+ha venido a ver los Tintorettos.
+
+517
+00:30:51,877 --> 00:30:53,795
+¿Sabes lo que creo?
+
+518
+00:30:54,046 --> 00:30:56,131
+Reconozco esa mirada típica.
+
+519
+00:30:56,632 --> 00:31:00,677
+Corre sola todas las mañanas.
+Puedes tropezarte con ella.
+
+520
+00:31:01,303 --> 00:31:03,555
+No, gracias. Está casada.
+
+521
+00:31:03,805 --> 00:31:06,975
+Te digo que no es feliz
+en su matrimonio.
+
+522
+00:31:07,392 --> 00:31:10,864
+Completamente distintos.
+Ese tipo es medio actor.
+
+523
+00:31:10,977 --> 00:31:15,762
+Mañana no estorbará, no madruga.
+No tendrás problema.
+
+524
+00:31:15,875 --> 00:31:19,988
+Puedes conocerla, estará sola.
+Lo sé perfectamente.
+
+525
+00:31:20,239 --> 00:31:22,532
+No estoy en forma.
+No puedo correr.
+
+526
+00:31:22,741 --> 00:31:25,911
+No uso la cinta hace semanas.
+
+527
+00:31:26,411 --> 00:31:28,956
+572 semanas, o sea 11 años.
+
+528
+00:31:29,164 --> 00:31:31,750
+No me mires así,
+no voy a hacerlo.
+
+529
+00:31:32,000 --> 00:31:35,003
+Te compraremos
+ropa de deporte. Mañana...
+
+530
+00:31:35,254 --> 00:31:36,797
+Una mujer increíble.
+
+531
+00:31:37,089 --> 00:31:38,548
+...tú correrás.
+
+532
+00:32:28,056 --> 00:32:29,891
+Perdón, ¿se encuentra bien?
+
+533
+00:32:30,142 --> 00:32:32,060
+Sí. ¿Usted está bien?
+
+534
+00:32:32,394 --> 00:32:35,022
+¿Sabe dónde está
+el Hotel Gritti?
+
+535
+00:32:36,148 --> 00:32:37,899
+Creo que es por ahí.
+
+536
+00:32:38,150 --> 00:32:42,654
+¿Por ahí? Porque yo--
+Correr en Venecia es tan...
+
+537
+00:32:42,904 --> 00:32:44,322
+...laberíntico.
+
+538
+00:32:45,073 --> 00:32:46,128
+¿Se encuentra bien?
+
+539
+00:32:46,241 --> 00:32:50,579
+Sí, estoy bien. Hay que mantenerse.
+Corro todos los días, ¿y usted?
+
+540
+00:32:50,829 --> 00:32:53,187
+- También.
+- ¿Es americana?
+
+541
+00:32:53,300 --> 00:32:54,386
+Sí.
+
+542
+00:32:54,499 --> 00:32:56,126
+Es un gran país.
+
+543
+00:32:56,668 --> 00:32:59,463
+Con montañas y praderas...
+
+544
+00:33:00,005 --> 00:33:03,550
+...y sus mares,
+de blanca espuma...
+
+545
+00:33:04,926 --> 00:33:06,219
+¿Se encuentra bien?
+
+546
+00:33:08,013 --> 00:33:09,598
+- Siéntese.
+- No, estoy bien.
+
+547
+00:33:12,434 --> 00:33:15,479
+Un dolor en el pecho,
+que baja por el brazo...
+
+548
+00:33:15,687 --> 00:33:16,938
+Es el corazón.
+
+549
+00:33:17,606 --> 00:33:20,275
+No, es el estrés.
+Día sí, día no.
+
+550
+00:33:20,859 --> 00:33:22,652
+¿Cómo se llama?
+
+551
+00:33:22,861 --> 00:33:24,196
+Estás aquí.
+
+552
+00:33:25,363 --> 00:33:27,824
+Le indicaba el camino.
+¿Está bien?
+
+553
+00:33:28,200 --> 00:33:30,410
+¿No querías hacer 6 km?
+
+554
+00:33:30,619 --> 00:33:31,703
+¿Está bien?
+
+555
+00:33:31,870 --> 00:33:34,080
+- Sí, estoy bien.
+- Respire. Respire.
+
+556
+00:33:37,626 --> 00:33:41,755
+Primero casi me caigo muerto.
+No respiraba. Y aparece el esposo.
+
+557
+00:33:42,214 --> 00:33:44,299
+¿El esposo? Qué raro.
+
+558
+00:33:44,549 --> 00:33:47,135
+También lo es una trombosis
+en la familia.
+
+559
+00:33:47,385 --> 00:33:49,095
+¿Has sabido el nombre?
+
+560
+00:33:49,387 --> 00:33:51,431
+Von, Vonnie.
+
+561
+00:33:52,140 --> 00:33:56,228
+Está chiflada por Tintoretto.
+Escribe un libro sobre él.
+
+562
+00:33:56,478 --> 00:33:59,564
+Seguro que visita
+la Scuola Grande di San Rocco.
+
+563
+00:33:59,898 --> 00:34:02,817
+¿A qué viene esto?
+¿Por qué tantos libros de arte?
+
+564
+00:34:03,068 --> 00:34:06,905
+Ella irá al museo, él no.
+No tienen nada en común.
+
+565
+00:34:07,155 --> 00:34:10,367
+Se encontrarán. Ya has puesto
+los cimientos. Dices:
+
+566
+00:34:10,575 --> 00:34:12,244
+"Nos conocimos corriendo."
+
+567
+00:34:12,494 --> 00:34:15,121
+"Soy aquel del infarto."
+Se acordará.
+
+568
+00:34:15,413 --> 00:34:18,625
+Y le sueltas tus conocimientos
+de su pintor favorito.
+
+569
+00:34:18,917 --> 00:34:20,001
+¿Bromeas?
+
+570
+00:34:20,418 --> 00:34:24,422
+De arte sólo conozco a Kirk Douglas
+haciendo de Vincent Van Gogh.
+
+571
+00:34:25,006 --> 00:34:26,633
+¿Qué sé yo de esto?
+
+572
+00:34:27,008 --> 00:34:31,646
+Créeme. Antes de dejar Venecia,
+sus labios se unirán.
+
+573
+00:34:31,759 --> 00:34:32,928
+Sí.
+
+574
+00:34:33,041 --> 00:34:35,976
+Desgraciadamente, me olvidé
+la crema de cacao en Nueva York.
+
+575
+00:34:38,103 --> 00:34:39,437
+¿Qué es esto?
+
+576
+00:34:39,938 --> 00:34:42,774
+"La rapidez de sus pinceladas..."
+
+577
+00:34:43,108 --> 00:34:44,526
+"Claroscuro."
+
+578
+00:34:44,859 --> 00:34:46,611
+"Estallidos de color."
+
+579
+00:34:46,945 --> 00:34:49,406
+<i>Le dije a papá
+lo que sabía de Von.</i>
+
+580
+00:34:49,698 --> 00:34:51,324
+<i>Se empapó de Tintoretto.</i>
+
+581
+00:34:51,533 --> 00:34:55,412
+<i>Le conté sus gustos y manías,
+sus intimidades.</i>
+
+582
+00:34:55,620 --> 00:34:59,124
+<i>Desde su pasión por Bora-Bora
+y la 4ª de Mahler...</i>
+
+583
+00:34:59,374 --> 00:35:01,918
+<i>...a su flor favorita,
+la gerbera.</i>
+
+584
+00:35:02,127 --> 00:35:03,586
+<i>En fin, todo.</i>
+
+585
+00:35:03,795 --> 00:35:06,339
+<i>Al llegar al museo,
+aquel día...</i>
+
+586
+00:35:06,631 --> 00:35:09,092
+<i>...podía dar un cursillo
+sobre el tema.</i>
+
+587
+00:35:10,218 --> 00:35:11,386
+Hola de nuevo.
+
+588
+00:35:13,054 --> 00:35:14,222
+¡Vaya!
+
+589
+00:35:14,472 --> 00:35:16,808
+Ha sobrevivido. Estaba preocupada.
+
+590
+00:35:17,058 --> 00:35:20,478
+No, no, no fue nada.
+Volví al hotel y...
+
+591
+00:35:21,730 --> 00:35:25,150
+...el conserje me lubricó
+el marcapasos y bueno...
+
+592
+00:35:25,483 --> 00:35:27,656
+A propósito, me llamo Joe Berlin.
+
+593
+00:35:27,769 --> 00:35:28,937
+Vonnie Sydell.
+
+594
+00:35:29,187 --> 00:35:32,782
+Qué coincidencia. Dos neoyorquinos,
+la encuentro aquí...
+
+595
+00:35:33,491 --> 00:35:36,202
+...corremos por Venecia
+y chocamos.
+
+596
+00:35:36,494 --> 00:35:37,954
+¿Sabe que soy de Nueva York?
+
+597
+00:35:38,163 --> 00:35:41,416
+No lo sabía.
+Pero lo he supuesto.
+
+598
+00:35:41,666 --> 00:35:45,128
+Pero es normal
+que haga la pregunta.
+
+599
+00:35:45,336 --> 00:35:48,590
+Una buena pregunta.
+No tiene por qué avergonzarse.
+
+600
+00:35:48,798 --> 00:35:51,509
+Yo vivo en la 84.
+¿Dónde vive Ud. en Nueva York?
+
+601
+00:35:51,760 --> 00:35:55,889
+París. Vivía en Nueva York,
+pero me instalé en París.
+
+602
+00:35:56,431 --> 00:35:59,559
+Pero vuelvo a Nueva York con frecuencia.
+Me encanta.
+
+603
+00:36:00,518 --> 00:36:01,853
+¿Qué le trae aquí?
+
+604
+00:36:02,771 --> 00:36:07,248
+No podría estar en Venecia
+sin visitar los Tintorettos.
+
+605
+00:36:07,361 --> 00:36:10,195
+Porque es mi pintor favorito
+en el mundo entero.
+
+606
+00:36:10,695 --> 00:36:13,114
+Su obra me encanta.
+Me vuelve loco.
+
+607
+00:36:13,364 --> 00:36:15,033
+Era un enorme genio.
+
+608
+00:36:15,283 --> 00:36:16,993
+El más enorme.
+
+609
+00:36:17,202 --> 00:36:20,330
+La rapidez de sus pinceladas...
+
+610
+00:36:20,538 --> 00:36:22,123
+El claroscuro...
+
+611
+00:36:22,415 --> 00:36:24,000
+Los estallidos de color...
+
+612
+00:36:24,250 --> 00:36:26,878
+Su magistral dominio del gesto...
+
+613
+00:36:27,462 --> 00:36:32,003
+Nacido en 1519,
+para volver a morir en 1594...
+
+614
+00:36:32,116 --> 00:36:35,637
+...pero eso es lo que nos pasa
+a la mayoría.
+
+615
+00:36:35,887 --> 00:36:38,515
+Veo que aprecia muchísimo su obra.
+
+616
+00:36:39,098 --> 00:36:43,311
+¿Cómo no iba a apreciar a un hombre
+corto de estatura...
+
+617
+00:36:43,561 --> 00:36:46,689
+...pero de carácter orgulloso...
+
+618
+00:36:46,940 --> 00:36:48,775
+...que pintó fuera del...
+
+619
+00:36:49,025 --> 00:36:53,337
+...del convencionalismo académico
+de la Venecia del Siglo XVl?
+
+620
+00:36:54,405 --> 00:36:56,086
+¿A qué se dedica?
+
+621
+00:36:56,199 --> 00:36:57,200
+Llámame Joe.
+
+622
+00:36:57,492 --> 00:37:00,537
+Soy escritor. Sobre todo novelista.
+
+623
+00:37:00,829 --> 00:37:01,913
+Joe Berlin...
+
+624
+00:37:02,163 --> 00:37:03,623
+Vi un libro suyo.
+
+625
+00:37:04,123 --> 00:37:07,252
+Recuerdo que tenía
+una portada muy sexy.
+
+626
+00:37:07,502 --> 00:37:11,130
+Estaba en los puestos
+de "Todo a 99 centavos".
+
+627
+00:37:11,339 --> 00:37:14,592
+Bueno, seguramente
+era el precio de lanzamiento.
+
+628
+00:37:14,801 --> 00:37:15,885
+Suelen hacerlo.
+
+629
+00:37:16,135 --> 00:37:19,013
+En los EE.UU.
+me consideran polémico...
+
+630
+00:37:19,264 --> 00:37:22,892
+...pero en París,
+donde entienden de literatura...
+
+631
+00:37:23,142 --> 00:37:25,812
+...enseguida reconocieron
+el genio...
+
+632
+00:37:26,020 --> 00:37:28,481
+...de Poe, de Faulkner,
+y el mío.
+
+633
+00:37:30,024 --> 00:37:33,111
+Soy, sobre todo,
+un hombre sencillo.
+
+634
+00:37:33,361 --> 00:37:36,322
+Mis planes son vivir en París
+y quizá...
+
+635
+00:37:36,614 --> 00:37:39,200
+...no sé, enamorarme y...
+
+636
+00:37:39,450 --> 00:37:41,703
+...y dar paseos...
+
+637
+00:37:41,953 --> 00:37:44,122
+...bajo la lluvia y...
+
+638
+00:37:44,455 --> 00:37:46,249
+...escuchar música...
+
+639
+00:37:46,457 --> 00:37:49,294
+...sobre todo la Cuarta de Malher.
+
+640
+00:37:51,462 --> 00:37:54,619
+Son mis gustos exactos.
+La Cuarta de Malher me fascina.
+
+641
+00:37:54,732 --> 00:37:56,801
+La Cuarta de Mahler, sin duda.
+
+642
+00:37:57,051 --> 00:37:59,012
+Mira, yo no soy...
+
+643
+00:37:59,554 --> 00:38:01,973
+...lo que se dice
+un hombre tecnológico.
+
+644
+00:38:02,265 --> 00:38:04,642
+- Lo odio.
+- Lo sé, sólo con mirarte.
+
+645
+00:38:04,892 --> 00:38:07,020
+Todavía escribo...
+
+646
+00:38:07,312 --> 00:38:11,065
+...en una de esas
+viejas máquinas portátiles...
+
+647
+00:38:11,316 --> 00:38:15,403
+¿Entonces, no has sucumbido
+a la era de la computadora?
+
+648
+00:38:15,987 --> 00:38:20,074
+Me gusta la vida sencilla.
+Escribir en mi casa de París...
+
+649
+00:38:20,742 --> 00:38:24,287
+...ir con frecuencia a Nueva York,
+y en verano...
+
+650
+00:38:24,579 --> 00:38:26,331
+...pasar una temporada...
+
+651
+00:38:26,748 --> 00:38:29,042
+...en algún sitio romántico,
+como...
+
+652
+00:38:29,334 --> 00:38:30,710
+...Bora-Bora.
+
+653
+00:38:31,836 --> 00:38:36,390
+Me encanta Bora-Bora. Desde que estuve,
+no se me va de la cabeza.
+
+654
+00:38:36,503 --> 00:38:39,049
+Es que es preciosa.
+
+655
+00:38:39,162 --> 00:38:43,407
+De noche, casi se puede leer
+con la luz de las estrellas.
+
+656
+00:38:43,520 --> 00:38:44,974
+De las estrellas, sí.
+
+657
+00:38:45,683 --> 00:38:46,893
+¿Te encuentras bien?
+
+658
+00:38:47,352 --> 00:38:49,062
+Tienes... Te he visto...
+
+659
+00:38:49,270 --> 00:38:51,687
+...aparecer una lágrima
+en el ojo.
+
+660
+00:38:52,023 --> 00:38:54,609
+Creí que ibas a llorar,
+te lo juro.
+
+661
+00:38:55,443 --> 00:38:57,361
+No, estoy bien.
+
+662
+00:38:57,612 --> 00:39:00,031
+¿Te ocurre algo malo?
+
+663
+00:39:01,157 --> 00:39:02,200
+¿Qué te pasa?
+
+664
+00:39:02,533 --> 00:39:05,536
+Nada malo,
+es algo increíblemente bueno.
+
+665
+00:39:06,871 --> 00:39:08,790
+Espérame aquí. Vuelvo enseguida.
+
+666
+00:39:16,964 --> 00:39:21,177
+# Toda mi vida #
+
+667
+00:39:23,596 --> 00:39:28,651
+# Te he estado esperando #
+
+668
+00:39:29,393 --> 00:39:33,242
+# Maravilloso mío #
+
+669
+00:39:33,355 --> 00:39:38,445
+# He empezado a vivir #
+
+670
+00:39:40,404 --> 00:39:44,596
+# Toda mi vida #
+
+671
+00:39:48,147 --> 00:39:51,826
+# Todo mi amor #
+
+672
+00:39:55,127 --> 00:39:59,855
+# Te ha estado esperando #
+
+673
+00:40:01,133 --> 00:40:05,228
+# Mi vida es sublime #
+
+674
+00:40:05,341 --> 00:40:10,694
+# Ahora que puedo darte #
+
+675
+00:40:12,436 --> 00:40:16,451
+# Todo mi amor #
+
+676
+00:40:17,441 --> 00:40:19,068
+Te traje un regalo.
+
+677
+00:40:19,777 --> 00:40:22,613
+Una gerbera. Mi flor favorita.
+
+678
+00:40:22,864 --> 00:40:25,283
+¿Qué vas a hacer esta noche?
+
+679
+00:40:26,117 --> 00:40:28,540
+Creo que Greg y yo
+tenemos planes.
+
+680
+00:40:30,454 --> 00:40:31,831
+¿Cómo te fue?
+
+681
+00:40:32,290 --> 00:40:35,585
+Ella es increíble.
+Y lo que me has dicho, perfecto.
+
+682
+00:40:35,793 --> 00:40:37,086
+Tengo remordimientos.
+
+683
+00:40:37,295 --> 00:40:38,379
+¿Por qué?
+
+684
+00:40:38,504 --> 00:40:43,074
+Porque la hice llorar.
+Se sentía compenetrada.
+
+685
+00:40:43,187 --> 00:40:46,971
+¿Y qué? Has establecido
+una cabeza de playa, vencerás.
+
+686
+00:40:47,263 --> 00:40:51,832
+Acuérdate de soplarle
+entre los omóplatos. La enloquece.
+
+687
+00:40:51,976 --> 00:40:56,618
+No pienso hacerlo. Lo que le cuenta
+a su psiquiatra es privado.
+
+688
+00:40:56,731 --> 00:41:00,090
+¿Piensas darme un mapa
+de sus zonas erógenas?
+
+689
+00:41:00,203 --> 00:41:01,736
+¿Vas a verla esta noche?
+
+690
+00:41:01,986 --> 00:41:03,654
+No. Está casada.
+
+691
+00:41:03,904 --> 00:41:07,867
+Oye, yo no distingo
+Bora-Bora de ñaca-ñaca.
+
+692
+00:41:08,117 --> 00:41:10,244
+¿Qué sé yo de Tintoretto?
+
+693
+00:41:10,453 --> 00:41:14,290
+Yo no distingo un claroscuro
+de un canelone.
+
+694
+00:41:14,498 --> 00:41:17,001
+Tú sóplale entre los omóplatos.
+
+695
+00:41:17,251 --> 00:41:21,797
+No pienso hacerlo.
+Además, uso computadora, no máquina.
+
+696
+00:41:22,340 --> 00:41:24,680
+Espero que tengas
+algo bueno para vestir.
+
+697
+00:41:24,793 --> 00:41:26,350
+Esta noche hay una fiesta.
+
+698
+00:41:26,927 --> 00:41:28,095
+¿Una fiesta?
+
+699
+00:41:28,512 --> 00:41:30,806
+Quiero presentarte a alguien.
+
+700
+00:41:34,018 --> 00:41:35,102
+Papá...
+
+701
+00:41:36,604 --> 00:41:38,230
+...te presento a Alberto.
+
+702
+00:41:38,939 --> 00:41:40,024
+Encantado.
+
+703
+00:41:40,524 --> 00:41:42,651
+Hola. ¿Quién es toda esta gente?
+
+704
+00:41:43,069 --> 00:41:45,988
+Venecianos. Amigos, huéspedes.
+
+705
+00:41:46,864 --> 00:41:48,991
+¿Le gusta su visitación a Venecia?
+
+706
+00:41:49,283 --> 00:41:51,494
+Muchísimo. Que lo diga ella.
+
+707
+00:41:51,786 --> 00:41:55,786
+Papá, tienes que ser
+el primero en saberlo.
+
+708
+00:41:55,899 --> 00:41:57,375
+Vamos a casarnos.
+
+709
+00:41:57,708 --> 00:42:00,836
+Maravilloso. ¿En qué siglo?
+Alquilaré un esmoquin.
+
+710
+00:42:01,128 --> 00:42:02,671
+El próximo enero.
+
+711
+00:42:02,963 --> 00:42:04,987
+- ¿Cómo?
+- El próximo enero.
+
+712
+00:42:05,100 --> 00:42:07,301
+¿Este enero?
+Bromeas.
+
+713
+00:42:07,885 --> 00:42:10,012
+Estoy enamorado de Djuna.
+
+714
+00:42:10,304 --> 00:42:14,141
+Todos queremos a esta niña
+porque es adorable, pero tú...
+
+715
+00:42:14,275 --> 00:42:15,518
+Esto es un chiste.
+
+716
+00:42:15,726 --> 00:42:18,729
+El 15 de enero, para ser exactos.
+
+717
+00:42:19,021 --> 00:42:20,397
+Es el cumpleaños de su madre.
+
+718
+00:42:20,606 --> 00:42:22,399
+Una broma, ¿verdad?
+
+719
+00:42:22,566 --> 00:42:23,651
+En absoluto.
+
+720
+00:42:25,152 --> 00:42:26,487
+Disculpe un segundo.
+
+721
+00:42:26,737 --> 00:42:29,949
+Ven, quiero hablar contigo
+un momento.
+
+722
+00:42:30,241 --> 00:42:33,494
+Ven aquí.
+Pero ¿qué estás diciendo?
+
+723
+00:42:33,744 --> 00:42:36,997
+Dime que es una broma,
+o habrá una carnicería.
+
+724
+00:42:37,248 --> 00:42:38,916
+Estamos enamoradísimos.
+
+725
+00:42:39,333 --> 00:42:43,295
+¿Cómo puedes estar enamo--
+Conoces a este tipo hace 5 días.
+
+726
+00:42:43,420 --> 00:42:44,588
+¿Y qué?
+
+727
+00:42:44,839 --> 00:42:46,132
+¿Te ha dado un ataque?
+
+728
+00:42:46,382 --> 00:42:48,008
+¿Por qué estoy enamorada?
+
+729
+00:42:48,217 --> 00:42:50,845
+¿Cómo que estás enamorada?
+¿A qué se dedica?
+
+730
+00:42:51,011 --> 00:42:52,721
+Es gondolero.
+
+731
+00:42:53,097 --> 00:42:55,808
+No, gracias.
+¿Con camiseta a rayas y sombrerito?
+
+732
+00:42:56,058 --> 00:42:57,226
+Sin sombrero.
+
+733
+00:42:57,518 --> 00:42:59,854
+- ¿Qué quieres decir?
+- Que no lleva.
+
+734
+00:43:00,104 --> 00:43:03,357
+¡Oye, esto es absurdo!
+Pero ¿qué piensas...?
+
+735
+00:43:03,607 --> 00:43:06,443
+Explícamelo.
+¿De veras piensas casarte?
+
+736
+00:43:06,694 --> 00:43:08,737
+- Sí. ¿Por qué?
+- ¡Qué locura!
+
+737
+00:43:08,946 --> 00:43:12,032
+Porque vas a la universidad
+de Columbia.
+
+738
+00:43:12,283 --> 00:43:16,078
+Te licenciarás en Periodismo
+o Derecho, no en Remo.
+
+739
+00:43:16,191 --> 00:43:19,081
+No sería la primera
+en dejar la universidad.
+
+740
+00:43:19,373 --> 00:43:22,751
+No vas a largarte con uno
+que acabas de conocer...
+
+741
+00:43:23,210 --> 00:43:26,547
+- ...y es gondolero.
+- Es poeta.
+
+742
+00:43:26,964 --> 00:43:28,048
+¿Poeta?
+
+743
+00:43:28,299 --> 00:43:31,468
+¿Sabes qué rima con gondolero?
+¡Niente dinero!
+
+744
+00:43:31,719 --> 00:43:32,928
+Así que olvídalo.
+
+745
+00:43:41,896 --> 00:43:44,899
+Hola de nuevo.
+¡Dios mío, qué casualidad!
+
+746
+00:43:45,149 --> 00:43:46,859
+Éste es Joe, Greg.
+
+747
+00:43:47,151 --> 00:43:48,235
+Encantado.
+
+748
+00:43:50,279 --> 00:43:53,073
+- ¿El del ataque corriendo?
+- El mismo.
+
+749
+00:43:53,407 --> 00:43:54,992
+¿Está Bernardo Bertolucci?
+
+750
+00:43:55,242 --> 00:43:57,703
+- No lo reconocería.
+- Tengo que conocerlo.
+
+751
+00:43:57,995 --> 00:43:59,705
+¿Te importa que entre?
+
+752
+00:43:59,997 --> 00:44:02,958
+- Eso es un manicomio.
+- Te pediré una copa.
+
+753
+00:44:03,417 --> 00:44:05,502
+- Increíble.
+- ¿De veras?
+
+754
+00:44:06,086 --> 00:44:08,213
+¿Has visto esta casa?
+
+755
+00:44:08,505 --> 00:44:10,090
+Es increíble.
+
+756
+00:44:10,424 --> 00:44:14,845
+Todo esto
+es como un palazzo antiguo.
+
+757
+00:44:15,095 --> 00:44:19,141
+Y es realmente precioso.
+Pero ahí dentro, es de locos.
+
+758
+00:44:19,683 --> 00:44:21,060
+Estás bellísima.
+
+759
+00:44:22,686 --> 00:44:24,104
+No digas eso.
+
+760
+00:44:24,355 --> 00:44:25,397
+¿Por qué?
+
+761
+00:44:25,731 --> 00:44:27,650
+No me gustan los cumplidos.
+
+762
+00:44:28,567 --> 00:44:30,903
+Estás impresionante.
+¿Por qué no? Perdona.
+
+763
+00:44:31,195 --> 00:44:32,571
+Es un problema mío.
+
+764
+00:44:33,364 --> 00:44:35,240
+¿Por qué?
+¿Te da remordimientos?
+
+765
+00:44:36,283 --> 00:44:39,495
+Quizá, no lo sé.
+Tienes respuesta para todo.
+
+766
+00:44:39,787 --> 00:44:42,122
+Creo que te da remordimientos.
+
+767
+00:44:42,373 --> 00:44:44,500
+Debes de tener fantasías...
+
+768
+00:44:44,750 --> 00:44:47,795
+...sobre alguien que llega y...
+
+769
+00:44:48,128 --> 00:44:51,673
+Seguro que sueñas con botes o...
+
+770
+00:44:51,965 --> 00:44:54,635
+...quizá barcos, o incluso...
+
+771
+00:44:54,802 --> 00:44:57,221
+...un ascensor que...
+
+772
+00:44:57,888 --> 00:45:01,308
+Vas en un ascensor que sube
+y sube hasta el último piso...
+
+773
+00:45:01,558 --> 00:45:04,686
+...y no se para al llegar
+y sigue...
+
+774
+00:45:04,978 --> 00:45:06,980
+...atraviesa el tejado y...
+
+775
+00:45:07,231 --> 00:45:09,817
+...te lleva volando
+sobre el mar...
+
+776
+00:45:11,735 --> 00:45:13,320
+Voy a desmayarme.
+
+777
+00:45:13,737 --> 00:45:14,863
+En serio.
+
+778
+00:45:15,906 --> 00:45:17,324
+¿Te encuentras bien?
+
+779
+00:45:19,493 --> 00:45:21,912
+Estoy un poco agobiada y...
+
+780
+00:45:22,496 --> 00:45:24,331
+...me alegro
+de que te vayas mañana.
+
+781
+00:45:47,838 --> 00:45:50,065
+<i>Al día siguiente
+dejamos Venecia.</i>
+
+782
+00:45:50,190 --> 00:45:53,193
+<i>Papá voló hacia París,
+yo me fui a Nueva York.</i>
+
+783
+00:45:53,527 --> 00:45:56,363
+<i>Quería anunciarle a mami
+mi boda con Alberto.</i>
+
+784
+00:45:56,697 --> 00:45:59,074
+<i>¡Era tan apuesto y tan sensible!</i>
+
+785
+00:45:59,449 --> 00:46:03,758
+<i>Planeaba cambiar la universidad
+por Italia, al final del semestre.</i>
+
+786
+00:46:05,706 --> 00:46:08,565
+- Perdona, es la mía.
+- No, es...
+
+787
+00:46:09,376 --> 00:46:10,460
+Perdón.
+
+788
+00:46:11,211 --> 00:46:12,796
+Lo siento. No es la mía.
+
+789
+00:46:13,046 --> 00:46:14,548
+Los dos compramos
+en "Hunting World".
+
+790
+00:46:14,798 --> 00:46:16,175
+Ahí la compré.
+
+791
+00:46:16,466 --> 00:46:17,843
+Ahora sé que es mía.
+
+792
+00:46:18,051 --> 00:46:19,720
+Te daré una mano.
+
+793
+00:46:20,637 --> 00:46:24,138
+Sostén. Ropa interior.
+
+794
+00:46:24,562 --> 00:46:27,144
+Sonetos de Petrarca.
+¿Qué es lo que haces?
+
+795
+00:46:27,257 --> 00:46:29,089
+Eso depende del chico.
+
+796
+00:46:29,202 --> 00:46:31,167
+No, bromeo.
+
+797
+00:46:31,481 --> 00:46:34,484
+Trabajo para el cártel colombiano
+de la droga.
+
+798
+00:46:34,735 --> 00:46:36,862
+Empaqueto cocaína para regalo.
+
+799
+00:46:37,154 --> 00:46:40,657
+¿Por qué estoy tan nerviosa?
+Estudio en Columbia.
+
+800
+00:46:40,908 --> 00:46:43,035
+¿De veras? Mi tío da clases allí.
+
+801
+00:46:43,827 --> 00:46:46,829
+Departamento de Matemáticas.
+Soy Ken Grisley.
+
+802
+00:46:46,942 --> 00:46:48,373
+Djuna Berlin.
+
+803
+00:46:49,666 --> 00:46:54,642
+<i>¿Deseaba pasarme la vida
+cocinando pasta y gondoleando?</i>
+
+804
+00:46:54,755 --> 00:46:58,212
+<i>La verdad es que esos canales
+están muy contaminados.</i>
+
+805
+00:46:58,325 --> 00:47:01,970
+<i>Alberto era apuesto,
+pero Ken estaba...</i>
+
+806
+00:47:02,262 --> 00:47:03,611
+<i>...buenísimo.</i>
+
+807
+00:47:04,932 --> 00:47:06,099
+<i>Acurrúcate...</i>
+
+808
+00:47:06,266 --> 00:47:08,727
+<i>Un poco más,</i>
+
+809
+00:47:09,269 --> 00:47:11,188
+<i>Corazón.</i>
+
+810
+00:47:14,191 --> 00:47:15,622
+# Acurrúcate #
+
+811
+00:47:15,735 --> 00:47:21,689
+# Sé mi enredadera,
+por compasión #
+
+812
+00:47:22,532 --> 00:47:27,050
+# Quiero sentir
+tus mejillas rosadas #
+
+813
+00:47:27,204 --> 00:47:31,726
+# Quiero sentirte
+a mí siempre pegada #
+
+814
+00:47:32,042 --> 00:47:36,147
+# De arriba a abajo
+eres una belleza #
+
+815
+00:47:36,630 --> 00:47:40,171
+# Corazón #
+
+816
+00:48:23,593 --> 00:48:26,601
+<i>Mientras yo estaba fuera,
+pasaron muchas cosas.</i>
+
+817
+00:48:26,930 --> 00:48:30,016
+<i>Mami le compró a Skylar
+un traje de novia increíble.</i>
+
+818
+00:48:30,267 --> 00:48:32,936
+<i>El padre de Holden
+intimó con mi padrastro.</i>
+
+819
+00:48:33,186 --> 00:48:35,939
+<i>Tenían un interés común:
+las carreras de caballos.</i>
+
+820
+00:48:36,189 --> 00:48:38,775
+<i>Se asociaron y compraron
+un pura sangre.</i>
+
+821
+00:48:39,025 --> 00:48:41,945
+<i>Y Lane y Laura pasaron
+un verano genial en la playa.</i>
+
+822
+00:48:42,195 --> 00:48:45,866
+<i>Pero un fin de semana caluroso,
+se quedaron...</i>
+
+823
+00:48:46,116 --> 00:48:48,368
+<i>...en un Nueva York desierto.</i>
+
+824
+00:49:08,221 --> 00:49:10,765
+<i>Debemos ser los únicos
+en la ciudad.</i>
+
+825
+00:49:11,057 --> 00:49:14,811
+<i>No nos hemos ido a Southampton,
+porque vamos a ir el teatro.</i>
+
+826
+00:49:15,228 --> 00:49:18,023
+<i>Me encanta la ciudad
+cuando está vacía.</i>
+
+827
+00:49:19,149 --> 00:49:20,192
+<i>A mí también.</i>
+
+828
+00:49:20,400 --> 00:49:21,484
+<i>A mí también.</i>
+
+829
+00:49:22,986 --> 00:49:26,323
+<i>En resumen,
+los tres se hacen íntimos.</i>
+
+830
+00:49:26,656 --> 00:49:30,160
+<i>Él, aunque no lo crean,
+se llama Jeffrey Vandermost.</i>
+
+831
+00:49:30,410 --> 00:49:32,579
+<i>Heredero
+de los millones Vandermost.</i>
+
+832
+00:49:32,829 --> 00:49:37,106
+<i>Las dos se han enamorado de él
+y a una se le partirá el corazón.</i>
+
+833
+00:49:39,454 --> 00:49:42,248
+<i>Aquel otoño
+fue especialmente bonito.</i>
+
+834
+00:49:42,540 --> 00:49:44,709
+<i>Prefiero el otoño a la primavera.</i>
+
+835
+00:49:44,876 --> 00:49:48,004
+<i>Y con octubre,
+llega el cumpleaños de mami.</i>
+
+836
+00:49:48,296 --> 00:49:51,758
+<i>Aquel año invitamos a la fiesta
+a los padres de Holden.</i>
+
+837
+00:49:52,050 --> 00:49:55,929
+<i>Pero justo antes de que vinieran,
+llegó una visita inesperada.</i>
+
+838
+00:49:57,472 --> 00:49:59,182
+¡Felicidades!
+
+839
+00:49:59,474 --> 00:50:02,227
+Esto es de mi padre biológico,
+desde París.
+
+840
+00:50:02,393 --> 00:50:05,271
+- ¡Miren todos!
+- ¿Saben qué es? ¡Caviar!
+
+841
+00:50:06,064 --> 00:50:08,316
+¿Quieres ponerlo en hielo, Frieda?
+
+842
+00:50:08,566 --> 00:50:10,902
+- ¿Esperan a un tal Sr. Ferry?
+- Yo sí.
+
+843
+00:50:11,152 --> 00:50:12,153
+¿Tú?
+
+844
+00:50:12,487 --> 00:50:15,198
+Ha salido de la cárcel.
+No tiene familia...
+
+845
+00:50:15,657 --> 00:50:17,450
+...y podemos ser sus amigos.
+
+846
+00:50:17,742 --> 00:50:19,987
+¿Metes a un delincuente en la casa?
+
+847
+00:50:20,100 --> 00:50:22,288
+Ha pagado su deuda a la sociedad.
+
+848
+00:50:22,580 --> 00:50:24,749
+- No la ha pagado...
+- No empieces.
+
+849
+00:50:24,999 --> 00:50:28,002
+La sociedad lo ha perdonado.
+Él no ha pagado.
+
+850
+00:50:28,253 --> 00:50:31,965
+¿Cómo tengo un hijo tan opuesto
+políticamente? He fallado.
+
+851
+00:50:32,590 --> 00:50:33,841
+No has fallado.
+
+852
+00:50:34,092 --> 00:50:36,636
+Yo que tú,
+escondería la plata.
+
+853
+00:50:36,844 --> 00:50:39,847
+No seas desagradable.
+Viene a tomar una copa.
+
+854
+00:50:40,098 --> 00:50:42,225
+A ustedes no les falta nada.
+
+855
+00:50:42,600 --> 00:50:46,062
+Sr. Ferry, hola.
+Bob Dandridge. Mi esposa, Steffi.
+
+856
+00:50:46,354 --> 00:50:49,524
+Hola, Sr. Ferry.
+Bienvenido a nuestro hogar.
+
+857
+00:50:50,108 --> 00:50:52,610
+Le presento a mi hija Skylar.
+
+858
+00:50:52,860 --> 00:50:55,446
+Estos son
+Skylar y su novio, Holden.
+
+859
+00:50:55,697 --> 00:50:58,449
+- Yo soy el novio.
+- ¿Una copa?
+
+860
+00:50:58,700 --> 00:51:00,118
+Quiero a todos delante.
+
+861
+00:51:00,618 --> 00:51:03,809
+Sí, claro.
+¿Puedo servirle una copa?
+
+862
+00:51:03,922 --> 00:51:05,014
+Vodka.
+
+863
+00:51:05,289 --> 00:51:07,959
+Bien, ¿quizá con hie...?
+¿O simplemente...?
+
+864
+00:51:10,128 --> 00:51:11,462
+Solo.
+
+865
+00:51:11,796 --> 00:51:16,217
+Cariño, el Sr. Per... Ferry, perdón,
+vivía entre asesinos viciosos...
+
+866
+00:51:16,884 --> 00:51:18,845
+- Sí, señor.
+- Por eso desconfía.
+
+867
+00:51:19,137 --> 00:51:21,889
+Muchas veces venían por detrás
+y, ¡ñac!.
+
+868
+00:51:22,140 --> 00:51:25,393
+O sacabas la navaja rápido,
+o estabas muerto.
+
+869
+00:51:25,643 --> 00:51:29,731
+Caramba, ¿y pinchó a muchos presos,
+Sr. Ferry?
+
+870
+00:51:30,231 --> 00:51:31,315
+Bastantes.
+
+871
+00:51:31,482 --> 00:51:32,483
+El timbre.
+
+872
+00:51:32,650 --> 00:51:35,445
+Disculpe, tengo que ponerme
+delante de usted.
+
+873
+00:51:35,653 --> 00:51:37,155
+¿Le apetece otra?
+
+874
+00:51:38,239 --> 00:51:40,158
+Hola. ¿Qué tal?
+¿Cómo están?
+
+875
+00:51:40,408 --> 00:51:42,201
+Felicidades, Steffi.
+
+876
+00:51:44,328 --> 00:51:46,789
+¡Gracias, Lynn! Gracias por venir.
+
+877
+00:51:46,998 --> 00:51:49,834
+Quiero presentarles a alguien:
+el Sr. Ferry.
+
+878
+00:51:50,168 --> 00:51:53,212
+Ésta es mi buena amiga Lynn.
+
+879
+00:51:53,504 --> 00:51:55,548
+Y Arnold. Éste es mi amigo.
+
+880
+00:51:55,840 --> 00:51:58,509
+El Sr. Ferry acaba de salir
+de la cárcel.
+
+881
+00:51:58,843 --> 00:52:01,804
+Tuve la condicional,
+pero habría salido igual.
+
+882
+00:52:02,013 --> 00:52:04,265
+- ¿En serio?
+- ¿Qué quiere decir?
+
+883
+00:52:04,432 --> 00:52:07,518
+Apiolando al guardián.
+Nada de fotos, nena.
+
+884
+00:52:07,685 --> 00:52:09,562
+¿Apiolando?
+¿Qué significa eso?
+
+885
+00:52:09,854 --> 00:52:12,023
+Rajándolo y saliendo
+por la ventilación.
+
+886
+00:52:12,440 --> 00:52:16,402
+Le rajas la carótida desde atrás
+con un cortaplumas.
+
+887
+00:52:16,611 --> 00:52:19,155
+¿Me dan una copa de vino blanco?
+
+888
+00:52:19,447 --> 00:52:20,990
+Tenemos vino dentro.
+
+889
+00:52:21,282 --> 00:52:23,159
+Pero hay que tener cuidado.
+
+890
+00:52:23,451 --> 00:52:26,579
+Uno de la galería 4 lo intentó
+sin cuidarse mucho.
+
+891
+00:52:26,871 --> 00:52:28,539
+Y se jugó el pescuezo.
+
+892
+00:52:28,789 --> 00:52:32,251
+- Llévenlo a la terraza.
+- Necesito sentarme.
+
+893
+00:52:32,543 --> 00:52:35,129
+Sí, la terraza.
+Grandes espacios abiertos.
+
+894
+00:52:35,379 --> 00:52:37,840
+¿Seguro que está regenerado?
+
+895
+00:52:38,132 --> 00:52:40,801
+Estaba en la cárcel,
+no en una escuela de baile.
+
+896
+00:52:41,135 --> 00:52:44,555
+Ya conocen mi opinión,
+pero, ¡muchas felicidades!
+
+897
+00:52:45,139 --> 00:52:47,517
+Una canción de cumpleaños
+para Steffi.
+
+898
+00:52:50,061 --> 00:52:54,921
+# Mirándote se desvanecen las penas #
+
+899
+00:52:55,034 --> 00:52:57,438
+# Y disfruto de la vista #
+
+900
+00:52:57,680 --> 00:52:59,403
+# Porque veo a mi nena #
+
+901
+00:52:59,737 --> 00:53:03,699
+# Y el dulce rocío del bienestar #
+
+902
+00:53:03,991 --> 00:53:07,999
+# Se posa en mí #
+
+903
+00:53:09,997 --> 00:53:13,918
+# ¿Qué luz brilla cuando entras #
+
+904
+00:53:14,335 --> 00:53:17,121
+# Como una estrella en la noche? #
+
+905
+00:53:17,234 --> 00:53:22,217
+# ¿Y cómo evitar
+que ciegue mi visión #
+
+906
+00:53:22,426 --> 00:53:28,251
+# Si tú la diriges hacia mí? #
+
+907
+00:53:29,934 --> 00:53:34,376
+# Mirándote, me llena la esencia #
+
+908
+00:53:34,489 --> 00:53:39,176
+# De la quintaesencia
+de la felicidad #
+
+909
+00:53:39,443 --> 00:53:44,545
+# Mirándote, oigo a los poetas
+hablar de #
+
+910
+00:53:44,658 --> 00:53:47,723
+# La hermosa Helena de Troya #
+
+911
+00:53:48,017 --> 00:53:52,594
+# Cariño, la vida era tan gris #
+
+912
+00:53:52,707 --> 00:53:54,625
+# Que quería acabar con ella #
+
+913
+00:53:55,042 --> 00:53:57,629
+# Hasta el maravilloso día #
+
+914
+00:53:57,878 --> 00:53:59,922
+# En que tú la arreglaste #
+
+915
+00:54:00,214 --> 00:54:03,104
+# Y si quieres quedarte #
+
+916
+00:54:03,217 --> 00:54:09,217
+# Mirándote, viviré #
+
+917
+00:54:14,145 --> 00:54:15,479
+¡Tesoro!
+
+918
+00:54:20,786 --> 00:54:22,923
+Voy a buscar bebidas.
+¿Quieren algo?
+
+919
+00:54:23,036 --> 00:54:27,440
+No, gracias. Pero ¿puedes traer
+el regalo de Steffi del auto?
+
+920
+00:54:27,908 --> 00:54:28,909
+Toma.
+
+921
+00:54:31,996 --> 00:54:33,831
+¿Le gusta la vista?
+
+922
+00:54:34,415 --> 00:54:37,710
+Cualquier vista, después estar
+años en esa ratonera.
+
+923
+00:54:38,002 --> 00:54:41,547
+Una opinión muy real, muy sincera.
+
+924
+00:54:42,089 --> 00:54:44,300
+¿Sabes lo que es confinamiento?
+
+925
+00:54:44,592 --> 00:54:46,969
+No, la verdad es que no.
+
+926
+00:54:47,178 --> 00:54:49,638
+En mi universidad
+había dormitorios dobles.
+
+927
+00:54:49,847 --> 00:54:52,349
+Hacía mucho que no olía perfume.
+
+928
+00:54:52,600 --> 00:54:54,560
+¿Me he puesto demasiado?
+
+929
+00:54:54,852 --> 00:54:57,521
+Hueles como creo
+que debe oler el cielo.
+
+930
+00:54:57,855 --> 00:55:00,775
+Pues gracias. Muy amable.
+
+931
+00:55:01,025 --> 00:55:03,110
+Cuando me diste la mano...
+
+932
+00:55:03,360 --> 00:55:05,154
+...casi se me para el corazón.
+
+933
+00:55:05,362 --> 00:55:07,239
+Qué bonito.
+
+934
+00:55:07,531 --> 00:55:10,785
+Pero lleva tiempo privado
+de compañía femenina.
+
+935
+00:55:11,035 --> 00:55:14,580
+En mi celda, soñaba con mujeres
+como tú.
+
+936
+00:55:16,791 --> 00:55:21,390
+Yo di un curso de Criminología
+bastante perceptivo--
+
+937
+00:55:21,503 --> 00:55:23,422
+Tienes unos labios muy sensuales.
+
+938
+00:55:23,714 --> 00:55:26,759
+Es una parte de mí
+en la que nunca pienso.
+
+939
+00:55:27,051 --> 00:55:28,052
+¿Puedo olerte el pelo?
+
+940
+00:55:28,219 --> 00:55:31,096
+¿Olerme el pelo? De acuerdo.
+
+941
+00:55:31,388 --> 00:55:35,267
+¿Sabe qué? Pronto ya no lo tendré.
+Pienso cortármelo.
+
+942
+00:55:35,559 --> 00:55:37,144
+A Holden le gustará.
+
+943
+00:55:37,394 --> 00:55:39,146
+Si fueras mi chica...
+
+944
+00:55:39,563 --> 00:55:42,066
+Aquí fuera hace fresco.
+
+945
+00:55:42,983 --> 00:55:46,904
+...te haría el amor en todas
+las habitaciones de la casa.
+
+946
+00:55:47,988 --> 00:55:49,615
+En todas las camas.
+
+947
+00:55:50,741 --> 00:55:52,284
+En todas las alfombras.
+
+948
+00:55:52,910 --> 00:55:54,870
+Encima de todas las mesas.
+
+949
+00:55:55,829 --> 00:55:59,708
+También tenemos
+unas arañas de cristal coloniales.
+
+950
+00:56:01,418 --> 00:56:03,254
+Demos una vuelta en auto.
+
+951
+00:56:06,257 --> 00:56:09,009
+No me parece tan buena idea.
+
+952
+00:56:09,343 --> 00:56:12,638
+Hace años que no veo el mar,
+ni Chinatown.
+
+953
+00:56:12,930 --> 00:56:15,307
+No. Eso es imposible.
+
+954
+00:56:15,599 --> 00:56:17,768
+Bueno, pero tenía que intentarlo.
+
+955
+00:56:18,018 --> 00:56:20,729
+No. Creo que debemos entrar
+antes de que--
+
+956
+00:56:20,938 --> 00:56:22,106
+¿Antes de qué?
+
+957
+00:56:22,940 --> 00:56:25,526
+De que pierda su libertad
+condicional.
+
+958
+00:56:26,360 --> 00:56:30,406
+¿Si te tomara en mis brazos
+y te besara, te soplarías?
+
+959
+00:56:31,532 --> 00:56:32,616
+¿Soplaría?
+
+960
+00:56:32,783 --> 00:56:33,951
+¿Me delatarías?
+
+961
+00:56:34,368 --> 00:56:36,287
+Mejor no averiguarlo.
+
+962
+00:56:49,049 --> 00:56:50,175
+¿Qué tal?
+
+963
+00:56:55,306 --> 00:56:56,974
+Muy interesante.
+
+964
+00:56:57,558 --> 00:57:00,686
+Nunca me había besado
+un sociópata.
+
+965
+00:57:02,062 --> 00:57:06,567
+Lo he hecho lo mejor posible,
+aunque en los últimos 10 años...
+
+966
+00:57:06,984 --> 00:57:09,695
+...sólo he practicado
+con Vincent "El Pulgar".
+
+967
+00:57:23,000 --> 00:57:26,003
+Pues Vincent "El Pulgar"
+no sabe lo que se pierde.
+
+968
+00:57:27,838 --> 00:57:29,339
+¿Puedo volver a verte?
+
+969
+00:57:33,844 --> 00:57:35,929
+Es que me caso, ¿sabes?
+
+970
+00:57:39,433 --> 00:57:43,179
+# Puedo enseñar a sonreír
+al mundo #
+
+971
+00:57:43,437 --> 00:57:45,747
+# Puedo estar contento #
+
+972
+00:57:46,106 --> 00:57:48,233
+# En un segundo #
+
+973
+00:57:50,027 --> 00:57:53,447
+# Puedo pintar de azul
+el cielo gris #
+
+974
+00:57:54,031 --> 00:57:56,416
+# Teniéndote a ti #
+
+975
+00:58:00,788 --> 00:58:04,433
+# Puedo olvidar
+tiempos pasados #
+
+976
+00:58:04,958 --> 00:58:10,119
+# Dejar a mis compinches
+plantados #
+
+977
+00:58:11,632 --> 00:58:15,223
+# Mi vida podría
+empezar aquí #
+
+978
+00:58:15,719 --> 00:58:18,143
+# Teniéndote a ti #
+
+979
+00:58:22,392 --> 00:58:26,725
+# Podría escalar
+las montañas nevadas #
+
+980
+00:58:27,731 --> 00:58:31,559
+# Surcar el mar agitado #
+
+981
+00:58:33,070 --> 00:58:37,648
+# Cruzar ardientes desiertos #
+
+982
+00:58:38,575 --> 00:58:40,536
+# Si te tuviera a mi lado #
+
+983
+00:58:43,831 --> 00:58:47,921
+# Sería un rey, sin corona #
+
+984
+00:58:48,085 --> 00:58:52,857
+# Pobre, rico o afamado #
+
+985
+00:58:54,758 --> 00:58:58,435
+# Todo es posible para mí #
+
+986
+00:58:58,938 --> 00:59:01,851
+# Teniéndote a ti #
+
+987
+00:59:14,778 --> 00:59:18,490
+Él está camino de Nueva York
+y es maravilloso.
+
+988
+00:59:18,782 --> 00:59:20,617
+Ha sido una suerte...
+
+989
+00:59:20,867 --> 00:59:24,496
+...encontrar una alma gemela
+después tantos años.
+
+990
+00:59:24,788 --> 00:59:28,417
+Presiente mis necesidades.
+Casi sabe lo que pienso.
+
+991
+00:59:28,625 --> 00:59:30,627
+Es su sueño hecho realidad.
+
+992
+00:59:30,877 --> 00:59:34,131
+Lo es.
+Y aún no puedo creerlo.
+
+993
+00:59:34,381 --> 00:59:37,009
+Verá, no es que sea alto...
+
+994
+00:59:37,467 --> 00:59:39,636
+...ni apuesto, pero es...
+
+995
+00:59:40,470 --> 00:59:41,680
+Es mágico.
+
+996
+00:59:42,055 --> 00:59:46,602
+Y me conoce como ningún hombre
+me ha conocido.
+
+997
+00:59:47,644 --> 00:59:50,480
+<i>Es romántico y sexy y...</i>
+
+998
+00:59:50,814 --> 00:59:52,524
+<i>Una vez soñé...</i>
+
+999
+00:59:52,816 --> 00:59:55,485
+...que estaba en la cama con él...
+
+1000
+00:59:55,652 --> 00:59:58,405
+...y me besaba las orejas y...
+
+1001
+00:59:58,655 --> 01:00:01,575
+...luego empezó a acariciarme
+los omóplatos.
+
+1002
+01:00:01,825 --> 01:00:03,744
+Y casi tuve un orgasmo.
+
+1003
+01:00:04,661 --> 01:00:07,080
+<i>Tenía un montón de material
+para papá.</i>
+
+1004
+01:00:07,331 --> 01:00:10,000
+<i>Había quedado como un rey
+delante de Von.</i>
+
+1005
+01:00:10,250 --> 01:00:12,878
+<i>Pero ahora tengo que parar
+un momento...</i>
+
+1006
+01:00:13,170 --> 01:00:16,715
+<i>...porque aunque los humanos
+creamos controlarlo todo...</i>
+
+1007
+01:00:17,007 --> 01:00:18,675
+<i>...las cosas no son así.</i>
+
+1008
+01:00:18,925 --> 01:00:21,011
+<i>De repente, sin avisar...</i>
+
+1009
+01:00:21,261 --> 01:00:22,679
+<i>...el abuelo se murió.</i>
+
+1010
+01:00:23,180 --> 01:00:26,433
+<i>Fue durmiendo, apaciblemente,
+sin sufrir...</i>
+
+1011
+01:00:26,683 --> 01:00:29,102
+<i>...pero nos convirtió
+en filósofos.</i>
+
+1012
+01:00:29,353 --> 01:00:32,230
+Cuando a uno le toca, le toca.
+
+1013
+01:00:32,522 --> 01:00:34,608
+Por eso es tan importante que...
+
+1014
+01:00:34,858 --> 01:00:38,737
+...que apreciemos
+todos los momentos de nuestra vida.
+
+1015
+01:00:39,696 --> 01:00:40,781
+Y no fumemos.
+
+1016
+01:00:41,031 --> 01:00:42,115
+¿Fumar?
+
+1017
+01:00:44,868 --> 01:00:47,287
+Papá fumó durante 70 años, ¿sabes?
+
+1018
+01:00:47,537 --> 01:00:51,917
+No hizo ejercicio. Comía de todo.
+Tomaba colesterol y comidas grasas.
+
+1019
+01:00:52,375 --> 01:00:55,045
+Y ha muerto con salud
+a una edad respetable.
+
+1020
+01:00:55,295 --> 01:00:57,798
+Hace mucho que no como carne
+y me encanta.
+
+1021
+01:00:58,048 --> 01:00:59,132
+¡Qué asco!
+
+1022
+01:00:59,382 --> 01:01:01,468
+Mataría por comer carne grasienta.
+
+1023
+01:01:02,469 --> 01:01:05,430
+Ahora dicen que 6 tazas de café
+al día...
+
+1024
+01:01:05,722 --> 01:01:08,266
+...previenen del cáncer de colon.
+
+1025
+01:01:08,475 --> 01:01:10,977
+Y la semana pasada era perjudicial.
+
+1026
+01:01:11,311 --> 01:01:13,814
+¿A qué viene todo esto?
+A ver, ¿qué...?
+
+1027
+01:01:14,481 --> 01:01:16,983
+¿Qué estamos haciendo?
+¡Correr!
+
+1028
+01:01:17,150 --> 01:01:18,193
+Es verdad.
+
+1029
+01:01:18,318 --> 01:01:20,153
+¿Adónde vamos?
+
+1030
+01:01:20,403 --> 01:01:21,738
+Al vacío.
+
+1031
+01:01:21,988 --> 01:01:23,281
+- Al vacío.
+- Así es.
+
+1032
+01:01:23,573 --> 01:01:25,742
+- Yo nunca creí en Dios.
+- ¡Vamos!
+
+1033
+01:01:25,992 --> 01:01:29,287
+No, nunca. Ni siquiera de niño.
+Yo pensaba:
+
+1034
+01:01:29,496 --> 01:01:33,291
+"Aunque exista, ha hecho tan mal
+las cosas, que me extraña...
+
+1035
+01:01:33,750 --> 01:01:37,462
+...que la gente no presente
+una demanda conjunta."
+
+1036
+01:01:37,838 --> 01:01:38,892
+No hables así.
+
+1037
+01:01:39,005 --> 01:01:41,883
+No nacemos gracias
+a la Física Contemporánea.
+
+1038
+01:01:42,092 --> 01:01:43,343
+En algo hay que creer.
+
+1039
+01:01:43,677 --> 01:01:45,512
+En la dignidad del hombre.
+
+1040
+01:01:45,762 --> 01:01:48,473
+El derecho a portar armas
+y al rezo en escuelas.
+
+1041
+01:01:48,682 --> 01:01:51,768
+Si ahí arriba no hay nadie,
+¿a quién van a rezar?
+
+1042
+01:01:54,354 --> 01:01:57,440
+No empiecen a discutir
+delante del abuelo.
+
+1043
+01:01:57,691 --> 01:01:58,692
+Eres increíble.
+
+1044
+01:01:58,942 --> 01:02:03,029
+Un momento. Él no era ateo,
+ni republicano, ni demócrata.
+
+1045
+01:02:03,446 --> 01:02:04,865
+¡Pues algo debió ser!
+
+1046
+01:02:05,115 --> 01:02:06,908
+Fetichista de los pies.
+
+1047
+01:02:07,117 --> 01:02:09,494
+El único grupo al que perteneció.
+
+1048
+01:02:09,703 --> 01:02:12,205
+- Es verdad.
+- Volvía loca a tu madre.
+
+1049
+01:02:13,623 --> 01:02:15,292
+Papá, ¿eres tú?
+
+1050
+01:02:15,625 --> 01:02:17,460
+Tengo un mensaje para ustedes.
+
+1051
+01:02:17,711 --> 01:02:20,380
+Trabajas y trabajas por años y años...
+
+1052
+01:02:20,630 --> 01:02:22,257
+...bregando sin parar.
+
+1053
+01:02:22,465 --> 01:02:24,301
+No paras ni un momento...
+
+1054
+01:02:24,551 --> 01:02:26,261
+...porque dejas de ganar.
+
+1055
+01:02:26,553 --> 01:02:28,942
+"Tiempo tendré de disfrutar...
+
+1056
+01:02:29,055 --> 01:02:30,889
+...si tengo un buen pastón."
+
+1057
+01:02:31,002 --> 01:02:33,197
+# Más poca juerga encontrarás #
+
+1058
+01:02:33,310 --> 01:02:35,312
+# De viejo, en tu sillón #
+
+1059
+01:02:42,485 --> 01:02:44,529
+# Pásalo bien #
+
+1060
+01:02:44,738 --> 01:02:46,615
+# O te arrepentirás #
+
+1061
+01:02:46,990 --> 01:02:48,992
+# Pásalo bien #
+
+1062
+01:02:49,159 --> 01:02:51,119
+# Que luego no podrás #
+
+1063
+01:02:51,411 --> 01:02:53,330
+# Disfruta hoy #
+
+1064
+01:02:53,580 --> 01:02:55,540
+# Que el tiempo volará #
+
+1065
+01:02:55,749 --> 01:02:57,834
+# Pásalo bien, pásalo bien #
+
+1066
+01:02:58,084 --> 01:03:00,128
+# Que luego no podrás #
+
+1067
+01:03:03,256 --> 01:03:07,177
+# Los años vas cumpliendo,
+con un ritmo puntual #
+
+1068
+01:03:07,594 --> 01:03:09,679
+# De pronto te das cuenta #
+
+1069
+01:03:09,929 --> 01:03:11,765
+# De que ya eres "otoñal" #
+
+1070
+01:03:12,015 --> 01:03:16,019
+# La vida se te escapa,
+y no tienes marcha atrás #
+
+1071
+01:03:16,436 --> 01:03:20,315
+# Más vale aprovecharla,
+¡que tenerla que llorar! #
+
+1072
+01:03:56,643 --> 01:03:58,436
+# Pásalo bien #
+
+1073
+01:03:58,645 --> 01:04:00,688
+# O te arrepentirás #
+
+1074
+01:04:00,980 --> 01:04:02,816
+# Pásalo bien #
+
+1075
+01:04:03,066 --> 01:04:05,110
+# Que luego no podrás #
+
+1076
+01:04:05,318 --> 01:04:07,070
+# Disfruta hoy #
+
+1077
+01:04:07,320 --> 01:04:09,114
+# Que el tiempo volará #
+
+1078
+01:04:09,322 --> 01:04:11,491
+# Pásalo bien, pásalo bien #
+
+1079
+01:04:11,741 --> 01:04:13,576
+# O te arrepentirás #
+
+1080
+01:04:22,919 --> 01:04:26,005
+Ha sido increíble.
+
+1081
+01:04:28,508 --> 01:04:30,343
+Todas...
+
+1082
+01:04:32,095 --> 01:04:34,222
+...y cada una...
+
+1083
+01:04:35,265 --> 01:04:36,474
+...de las...
+
+1084
+01:04:36,766 --> 01:04:38,518
+...cosas que has hecho.
+
+1085
+01:04:39,936 --> 01:04:41,896
+¡Todo ha sido perfecto!
+
+1086
+01:04:43,273 --> 01:04:45,024
+No, no ha sido perfecto.
+
+1087
+01:04:45,275 --> 01:04:48,361
+Hubo una caricia
+que debía haber sido chupetón...
+
+1088
+01:04:48,778 --> 01:04:51,281
+...pero, en fin, discúlpame.
+
+1089
+01:04:53,199 --> 01:04:54,576
+No tengo fuerzas.
+
+1090
+01:04:55,535 --> 01:04:58,705
+Oye, me encantaría
+que vinieras a París conmigo.
+
+1091
+01:04:59,289 --> 01:05:00,498
+Lo digo en serio.
+
+1092
+01:05:01,207 --> 01:05:02,417
+¿A París?
+
+1093
+01:05:02,876 --> 01:05:04,294
+¿Y luego a Bora-Bora?
+
+1094
+01:05:04,878 --> 01:05:08,089
+Pues sí, Bora-Bora,
+pero antes París y luego...
+
+1095
+01:05:08,381 --> 01:05:11,634
+...ya seguiríamos
+hacia una de esas Boras.
+
+1096
+01:05:11,885 --> 01:05:13,803
+Podemos vivir
+en tu buhardilla.
+
+1097
+01:05:14,971 --> 01:05:16,806
+Técnicamente,
+al decir buhardilla...
+
+1098
+01:05:17,140 --> 01:05:18,933
+...es una buhardilla, pero...
+
+1099
+01:05:19,142 --> 01:05:22,854
+Y beber vino y comer caracoles
+hasta el amanecer.
+
+1100
+01:05:23,062 --> 01:05:24,147
+¿Caracoles?
+
+1101
+01:05:24,397 --> 01:05:28,318
+¿Recuerdas? Dijiste que te gustaba
+despertarte a media noche...
+
+1102
+01:05:28,568 --> 01:05:30,528
+...y tomar caracoles con vino.
+
+1103
+01:05:30,737 --> 01:05:33,279
+Yo dije que era una coincidencia.
+
+1104
+01:05:33,740 --> 01:05:35,366
+Bueno, son moluscos.
+
+1105
+01:05:35,575 --> 01:05:37,869
+Me encanta un buen molusco.
+
+1106
+01:05:40,496 --> 01:05:42,498
+¿Cómo que ya no hay boda?
+
+1107
+01:05:42,749 --> 01:05:45,919
+- Exacto. Le devolví el anillo.
+- ¿Por qué?
+
+1108
+01:05:46,169 --> 01:05:48,713
+Porque no dejo de pensar
+en otra persona.
+
+1109
+01:05:49,005 --> 01:05:50,548
+Estás enamorada de Holden.
+
+1110
+01:05:50,840 --> 01:05:52,592
+No. Bueno, no estoy segura.
+
+1111
+01:05:52,842 --> 01:05:55,511
+Y no puedo engañarlo
+mientras me decido.
+
+1112
+01:05:55,762 --> 01:05:58,097
+¿Engañarlo?
+¡Va a ser tu esposo!
+
+1113
+01:05:58,348 --> 01:06:01,059
+En noviembre.
+Tengo la factura del banquete.
+
+1114
+01:06:01,267 --> 01:06:03,061
+Calma tu mecanismo
+de negación.
+
+1115
+01:06:03,353 --> 01:06:07,690
+Holden es maravilloso,
+pero hay otra persona en mi vida.
+
+1116
+01:06:07,940 --> 01:06:11,444
+Tengo que ver lo que pasa.
+Y también por Holden.
+
+1117
+01:06:11,694 --> 01:06:13,696
+Ya te hemos comprado el traje.
+
+1118
+01:06:13,946 --> 01:06:16,616
+Dime quién es
+ese nuevo Príncipe Azul.
+
+1119
+01:06:16,866 --> 01:06:19,661
+No lo conoces. Bueno, sí,
+pero no como yo.
+
+1120
+01:06:19,952 --> 01:06:20,953
+Me siento mal.
+
+1121
+01:06:21,120 --> 01:06:22,372
+Tengo espasmos de esófago.
+
+1122
+01:06:22,622 --> 01:06:24,374
+Bebe un vaso de agua.
+
+1123
+01:06:24,624 --> 01:06:27,210
+Mira qué le has hecho
+a tu padre.
+
+1124
+01:06:27,460 --> 01:06:30,129
+¿Quién se ha interpuesto
+entre tú y Holden?
+
+1125
+01:06:30,463 --> 01:06:32,548
+Es inteligente y encantador.
+
+1126
+01:06:32,799 --> 01:06:35,134
+Rudo por fuera,
+pero puede cambiar.
+
+1127
+01:06:35,385 --> 01:06:38,346
+¿Quién es? ¿Nos lo dices,
+o es un concurso?
+
+1128
+01:06:38,971 --> 01:06:41,432
+¿Se acuerdan de Charles Ferry?
+
+1129
+01:06:42,141 --> 01:06:43,351
+¿Cómo dices?
+
+1130
+01:06:44,227 --> 01:06:46,979
+He creído que decía
+Charles Ferry.
+
+1131
+01:06:47,230 --> 01:06:49,565
+Mi esófago empieza a moverse.
+
+1132
+01:06:50,483 --> 01:06:51,859
+¿El presidiario evadido?
+
+1133
+01:06:52,568 --> 01:06:55,822
+Ex-presidiario.
+Y tiene un título universitario.
+
+1134
+01:06:56,322 --> 01:06:58,574
+Tienes una etapa psicótica.
+
+1135
+01:06:58,825 --> 01:07:02,745
+Necesitas tratamiento de choque,
+o Prozac de potencia industrial.
+
+1136
+01:07:02,995 --> 01:07:04,414
+Mami, tú lo entiendes.
+
+1137
+01:07:04,664 --> 01:07:07,083
+Hay algo de animal en él.
+
+1138
+01:07:07,333 --> 01:07:09,335
+Pues lo devolveremos al zoológico.
+
+1139
+01:07:09,585 --> 01:07:11,129
+Pero es como un niño.
+
+1140
+01:07:11,421 --> 01:07:13,714
+Bien, pues al zoológico infantil.
+
+1141
+01:07:13,923 --> 01:07:15,425
+¡Es un delincuente!
+
+1142
+01:07:15,675 --> 01:07:19,262
+Me alucinas. Llevas meses
+cantando sus alabanzas.
+
+1143
+01:07:19,512 --> 01:07:23,808
+Como símbolo social,
+no como persona para mi hija...
+
+1144
+01:07:24,100 --> 01:07:26,811
+Pero, ¿cómo quieres salir
+con ese hombre?
+
+1145
+01:07:27,103 --> 01:07:30,022
+No podrás ponerte detrás de él,
+no te dejará.
+
+1146
+01:07:30,356 --> 01:07:32,483
+Si le rascas la espalda,
+te apuñala.
+
+1147
+01:07:32,775 --> 01:07:35,736
+Bajo esa rudeza hay un letrado
+muy sentimental.
+
+1148
+01:07:36,028 --> 01:07:39,073
+Esperaba que lo colocaras
+en tu empresa.
+
+1149
+01:07:39,282 --> 01:07:41,409
+Sí, de tesorero. Con Holden.
+
+1150
+01:07:41,701 --> 01:07:45,246
+Como mujer, creo que Holden
+también puede ser muy animal.
+
+1151
+01:07:45,621 --> 01:07:48,124
+Sí, mami, de la familia
+de los roedores.
+
+1152
+01:07:48,457 --> 01:07:52,564
+¡Como padre, te prohíbo
+que veas a ese Charles Ferry!
+
+1153
+01:07:52,677 --> 01:07:54,797
+¡Te casarás con Holden!
+
+1154
+01:07:55,047 --> 01:07:58,958
+¡Como cabeza de familia, lo ordeno!
+¡Lo decreto!
+
+1155
+01:07:59,135 --> 01:08:01,554
+¡Te desposarás con el previsto!
+
+1156
+01:08:02,388 --> 01:08:04,056
+Bien, tomemos una copa.
+
+1157
+01:08:04,307 --> 01:08:06,350
+Suenas a pesadamente bíblico.
+
+1158
+01:08:06,642 --> 01:08:10,062
+¿"Pesadamente bíblico"?
+¡Parece Noel Coward sobre hielo!
+
+1159
+01:08:10,396 --> 01:08:13,858
+- ¡No va a malgastar su vida así!
+- Ya es adulta.
+
+1160
+01:08:14,150 --> 01:08:15,258
+- ¡Tú...
+- ¿Qué?
+
+1161
+01:08:15,371 --> 01:08:17,322
+...lo sacaste de la cárcel!
+
+1162
+01:08:17,435 --> 01:08:18,946
+¿Ahora tengo yo la culpa?
+
+1163
+01:08:19,238 --> 01:08:21,115
+Cariño, ¿qué te pasa?
+
+1164
+01:08:21,741 --> 01:08:25,494
+Jeffrey Vandermost
+quiere salir con Lane, no conmigo.
+
+1165
+01:08:25,745 --> 01:08:29,582
+Dios mío, ¿qué les diré
+a Arnold y a Lynn Spence?
+
+1166
+01:08:29,999 --> 01:08:31,792
+¿Sólo piensas en eso?
+
+1167
+01:08:32,418 --> 01:08:35,963
+Compramos un caballo a medias.
+¡Querrá partirlo en dos!
+
+1168
+01:08:36,339 --> 01:08:38,299
+Nos gustaba a las dos y hoy...
+
+1169
+01:08:38,591 --> 01:08:41,636
+...me pidió hablar a solas
+y casi me muero.
+
+1170
+01:08:41,928 --> 01:08:45,389
+Luego me preguntó si creía
+que Lane querría ir...
+
+1171
+01:08:45,681 --> 01:08:47,475
+...a un baile con él.
+
+1172
+01:08:47,767 --> 01:08:49,560
+Dice que está loco por ella.
+
+1173
+01:08:49,852 --> 01:08:51,395
+Son cosas que pasan.
+
+1174
+01:08:51,771 --> 01:08:53,856
+El corazón es así, y a veces...
+
+1175
+01:08:54,106 --> 01:08:56,785
+# Adiós, amor #
+
+1176
+01:08:56,898 --> 01:08:58,694
+# Ya no me volveré a enamorar #
+
+1177
+01:08:58,945 --> 01:09:02,219
+¿Qué dices? ¡Tienes 14 años!
+Te enamorarás.
+
+1178
+01:09:02,332 --> 01:09:04,784
+Miren, lo siento mucho.
+
+1179
+01:09:05,117 --> 01:09:08,663
+Creí que se alegrarían por mí.
+Ya lo entenderán.
+
+1180
+01:09:08,955 --> 01:09:11,749
+# Adiós, amor
+Ya no me volveré a enamorar #
+
+1181
+01:09:12,124 --> 01:09:15,503
+Pero, ¿qué dices?
+¿No estarás enamorado de Holden?
+
+1182
+01:09:16,712 --> 01:09:20,103
+# Adiós, amor #
+
+1183
+01:09:20,216 --> 01:09:22,890
+# Ya no me volveré a enamorar #
+
+1184
+01:09:23,552 --> 01:09:27,360
+# He dicho "adieu" al amor #
+
+1185
+01:09:27,473 --> 01:09:30,304
+# "No vuelvas nunca más" #
+
+1186
+01:09:30,417 --> 01:09:33,020
+<i>A propósito, mientras Skylar
+rompía con Holden...</i>
+
+1187
+01:09:33,229 --> 01:09:36,273
+...yo rompía con Ken,
+el del aeropuerto.
+
+1188
+01:09:36,565 --> 01:09:38,275
+<i>Es que conocí a un rapero.</i>
+
+1189
+01:09:38,567 --> 01:09:42,655
+<i>Ese tipo era muy talentoso,
+y era muy sexy.</i>
+
+1190
+01:09:42,988 --> 01:09:45,075
+<i>En fin, es tope-tope.</i>
+
+1191
+01:09:45,188 --> 01:09:47,910
+# Se acabó el amor
+y también ustedes, cabrones #
+
+1192
+01:09:48,160 --> 01:09:50,204
+# ¿Te jode cantidad?
+¡Quema la ciudad! #
+
+1193
+01:09:50,413 --> 01:09:52,832
+# ¡Al asalto, muerde asfalto! #
+
+1194
+01:09:53,082 --> 01:09:56,226
+# ¡A quemarla! ¡Vamos!
+¡A arrasarla! #
+
+1195
+01:09:58,170 --> 01:10:00,589
+# El azul de tus ojos #
+
+1196
+01:10:00,840 --> 01:10:02,800
+# Y tus besos ansiosos #
+
+1197
+01:10:03,008 --> 01:10:07,000
+# Yo no sabía qué poder tendrían #
+
+1198
+01:10:07,179 --> 01:10:09,606
+# No puedo creer #
+
+1199
+01:10:09,719 --> 01:10:13,283
+# Que estés enamorada de mí #
+
+1200
+01:10:20,443 --> 01:10:23,195
+Me encanta el campo.
+El aire huele a fresco.
+
+1201
+01:10:27,366 --> 01:10:28,492
+Charles...
+
+1202
+01:10:28,784 --> 01:10:32,788
+...¿de dónde sacaste el dinero
+para pagarlo todo y el auto?
+
+1203
+01:10:34,707 --> 01:10:36,792
+Bueno, de préstamos.
+
+1204
+01:10:38,461 --> 01:10:42,089
+Qué gran idea venir a pasear aquí.
+Esto es precioso.
+
+1205
+01:10:42,631 --> 01:10:44,508
+Sí. ¿Qué hora es?
+
+1206
+01:10:45,968 --> 01:10:46,969
+Las cuatro.
+
+1207
+01:10:47,136 --> 01:10:48,179
+Bien.
+
+1208
+01:10:48,387 --> 01:10:53,058
+Es que pensé que te gustaría
+pasear y ver las hojas de otoño.
+
+1209
+01:10:54,477 --> 01:10:55,936
+Son fabulosas.
+
+1210
+01:10:56,228 --> 01:11:00,316
+¡Lo que te pierdes en prisión!
+Sin estaciones. Una nada gris.
+
+1211
+01:11:00,983 --> 01:11:04,945
+¿Qué planes tienes? No querrás
+seguir siempre en el restaurante.
+
+1212
+01:11:05,321 --> 01:11:09,867
+Tienes razón. ¡Tanto trabajar!
+¡Por 4 billetes! Tengo otros planes.
+
+1213
+01:11:10,159 --> 01:11:12,286
+¿Acabar la carrera de Derecho?
+
+1214
+01:11:12,494 --> 01:11:13,579
+¿Qué?
+
+1215
+01:11:13,746 --> 01:11:14,830
+¿Abogado?
+
+1216
+01:11:15,497 --> 01:11:17,166
+Sí, sí, claro.
+
+1217
+01:11:19,335 --> 01:11:20,544
+¿Oyes algo?
+
+1218
+01:11:20,836 --> 01:11:22,004
+¿Un pajarito?
+
+1219
+01:11:23,505 --> 01:11:24,798
+Llegan a la hora exacta.
+
+1220
+01:11:25,090 --> 01:11:26,550
+Corro todo lo que puedo.
+
+1221
+01:11:26,842 --> 01:11:27,843
+¡Date prisa!
+
+1222
+01:11:28,010 --> 01:11:29,386
+¡Hay que largarse!
+
+1223
+01:11:29,637 --> 01:11:31,180
+¡Ya voy!
+
+1224
+01:11:34,850 --> 01:11:36,185
+¡De nuevo al ataque!
+
+1225
+01:11:36,685 --> 01:11:38,979
+- ¡Muy bien!
+- ¿Tienes algún plan?
+
+1226
+01:11:39,271 --> 01:11:40,564
+¿Quién es ésta?
+
+1227
+01:11:40,856 --> 01:11:41,857
+Una amiga.
+
+1228
+01:11:47,321 --> 01:11:50,324
+¿Por qué disparaste?
+Estaba vaciando la caja.
+
+1229
+01:11:50,532 --> 01:11:52,701
+¡Tranquilo! Me he puesto nervioso.
+
+1230
+01:11:53,577 --> 01:11:56,538
+Déjenme en la esquina
+de Park Avenue con la 93.
+
+1231
+01:12:02,419 --> 01:12:05,005
+¡Déjenme bajar!
+¡Quiero bajar del auto!
+
+1232
+01:12:05,381 --> 01:12:06,548
+¡Cállate!
+
+1233
+01:12:09,259 --> 01:12:11,637
+¡Me callaré!
+¡Pero déjenme bajar!
+
+1234
+01:12:11,845 --> 01:12:13,847
+¿Le cierras el pico tú o yo?
+
+1235
+01:12:16,809 --> 01:12:18,102
+¡Fuera!
+
+1236
+01:12:30,489 --> 01:12:34,159
+<i>En octubre, Von tuvo valor
+para dejar a Greg.</i>
+
+1237
+01:12:34,410 --> 01:12:37,996
+<i>Tomó el primer vuelo de Air France
+hacia París.</i>
+
+1238
+01:12:38,330 --> 01:12:41,750
+<i>Papá había cambiado su piso
+en la Rive Gauche...</i>
+
+1239
+01:12:42,000 --> 01:12:46,532
+<i>...por otro igual al que aparecía
+que el sueño parisino de Von.</i>
+
+1240
+01:12:46,797 --> 01:12:48,132
+<i>Estudió guitarra...</i>
+
+1241
+01:12:48,424 --> 01:12:52,428
+<i>...y hasta cambió su computadora
+por una vieja máquina portátil.</i>
+
+1242
+01:12:57,433 --> 01:12:59,727
+Cómo me alegro de verte.
+
+1243
+01:13:00,102 --> 01:13:02,396
+¡Dios mío qué casa tienes!
+
+1244
+01:13:02,938 --> 01:13:06,900
+Parece de una película. O de un--
+¡Igual que en mi sueño!
+
+1245
+01:13:07,151 --> 01:13:10,988
+Es el apartamento de mi sueño.
+El paisaje de mi sueño.
+
+1246
+01:13:12,531 --> 01:13:14,825
+<i>En Nueva York, era Halloween.</i>
+
+1247
+01:13:15,117 --> 01:13:16,577
+<i>Es mi fiesta preferida.</i>
+
+1248
+01:13:16,785 --> 01:13:20,205
+<i>Todos los niños del edificio
+venían a buscar caramelos...</i>
+
+1249
+01:13:20,456 --> 01:13:22,124
+<i>...y estaban fantásticos.</i>
+
+1250
+01:13:23,208 --> 01:13:28,278
+# Hay que ver
+lo que la luna es capaz de hacer #
+
+1251
+01:13:30,883 --> 01:13:35,951
+# Hay que ver
+lo que la luna te puede hacer #
+
+1252
+01:13:39,725 --> 01:13:42,978
+# Chinatown, mi Chinatown #
+
+1253
+01:13:43,479 --> 01:13:46,064
+# Con su tenue luz #
+
+1254
+01:13:48,233 --> 01:13:51,299
+# En un oculto rendevouz #
+
+1255
+01:13:55,073 --> 01:13:58,285
+# Soy Chiquita Banana
+Y les vengo a decir #
+
+1256
+01:13:58,577 --> 01:14:01,747
+# Que las bananas maduran así #
+
+1257
+01:14:01,997 --> 01:14:05,209
+# Con manchitas marrones
+Y un brillo dorado #
+
+1258
+01:14:05,501 --> 01:14:08,754
+# Las bananas te dan
+Su sabor azucarado #
+
+1259
+01:14:09,755 --> 01:14:12,049
+# Ricas son en ensalada #
+
+1260
+01:14:13,175 --> 01:14:16,490
+# Y en pastel son deliciosas #
+
+1261
+01:14:16,845 --> 01:14:19,223
+# Como quieras tú comerla #
+
+1262
+01:14:19,681 --> 01:14:22,570
+# ¡La banana es una perla! #
+
+1263
+01:14:22,684 --> 01:14:24,561
+# La banana busca el clima #
+
+1264
+01:14:24,811 --> 01:14:28,194
+# Tropical de las palmeras #
+
+1265
+01:14:28,857 --> 01:14:31,652
+# Y por eso nunca guardes #
+
+1266
+01:14:32,277 --> 01:14:34,238
+# La banana en la nevera #
+
+1267
+01:14:34,738 --> 01:14:36,615
+# ¡No, no, no! #
+
+1268
+01:14:37,115 --> 01:14:40,035
+Ha sido genial. Fantástico.
+
+1269
+01:14:40,369 --> 01:14:42,579
+¿Quieren caramelos?
+
+1270
+01:14:43,038 --> 01:14:44,539
+¡Vaya banana!
+
+1271
+01:14:54,508 --> 01:14:57,052
+¡Cómo me alegro de verte!
+
+1272
+01:14:57,386 --> 01:14:59,304
+Tenía dudas. Estaba preocupado.
+
+1273
+01:14:59,554 --> 01:15:01,932
+Holden, lo siento.
+
+1274
+01:15:04,226 --> 01:15:06,395
+No importa, de veras.
+
+1275
+01:15:06,645 --> 01:15:09,731
+- Me porté muy mal.
+- También fue culpa mía.
+
+1276
+01:15:09,982 --> 01:15:12,234
+- No, fui yo.
+- Te extrañé.
+
+1277
+01:15:12,484 --> 01:15:13,568
+Yo también.
+
+1278
+01:15:13,777 --> 01:15:15,612
+Te traje palomitas.
+
+1279
+01:15:15,904 --> 01:15:18,115
+<i>Quería tanto a mi hermana...</i>
+
+1280
+01:15:18,323 --> 01:15:21,451
+<i>...que no le tuvo en cuenta
+su mala pasada.</i>
+
+1281
+01:15:21,660 --> 01:15:24,705
+<i>Y mis padres se alegraron
+de verlos juntos.</i>
+
+1282
+01:15:24,997 --> 01:15:28,834
+<i>Él volvió a darle el anillo,
+pero quiso hacerlo romántico.</i>
+
+1283
+01:15:29,001 --> 01:15:33,296
+<i>Así que lo puso con las palomitas
+y ella volvió a tragárselo.</i>
+
+1284
+01:15:34,673 --> 01:15:36,591
+<i>El resto del otoño fue normal...</i>
+
+1285
+01:15:36,758 --> 01:15:37,884
+<i>...para nosotros.</i>
+
+1286
+01:15:38,176 --> 01:15:40,639
+<i>Lo único raro
+fue el Día de Acción de Gracias.</i>
+
+1287
+01:15:40,752 --> 01:15:41,972
+<i>Después de comer...</i>
+
+1288
+01:15:42,264 --> 01:15:44,099
+<i>...Scott se desmayó.</i>
+
+1289
+01:15:44,349 --> 01:15:45,892
+<i>Todos se asustaron.</i>
+
+1290
+01:15:46,435 --> 01:15:48,520
+No hay por qué alarmarse.
+
+1291
+01:15:48,729 --> 01:15:52,482
+Tenía un coágulo en una arteria,
+pero ya se ha disuelto.
+
+1292
+01:15:52,691 --> 01:15:54,109
+¿No hay problema?
+
+1293
+01:15:54,359 --> 01:15:55,861
+Está bien al cien por cien.
+
+1294
+01:15:56,069 --> 01:16:00,449
+Según el escáner, el problema
+ocurrió quizá hace un año.
+
+1295
+01:16:00,866 --> 01:16:04,828
+Si se ha portado de un modo raro,
+o extraño...
+
+1296
+01:16:05,036 --> 01:16:08,373
+...es porque su cerebro
+no recibía bastante oxígeno.
+
+1297
+01:16:09,458 --> 01:16:13,253
+<i>Pero cuando su cerebro
+empezó a funcionar bien...</i>
+
+1298
+01:16:13,545 --> 01:16:16,339
+<i>...Scott dejó
+el Club Conservador Republicano...</i>
+
+1299
+01:16:16,631 --> 01:16:20,177
+<i>...y empezó a compartir
+la filosofía de izquierdas.</i>
+
+1300
+01:16:20,469 --> 01:16:23,764
+<i>Papi estaba encantado,
+de lo más orgulloso.</i>
+
+1301
+01:16:24,890 --> 01:16:28,518
+<i>¿Les he dicho que Nueva York
+era preciosa en otoño?</i>
+
+1302
+01:16:28,810 --> 01:16:30,145
+<i>Quería decir en invierno.</i>
+
+1303
+01:16:30,562 --> 01:16:34,109
+<i>Al menos, cuando nieva.
+Porque bajo la nieve...</i>
+
+1304
+01:16:34,359 --> 01:16:36,359
+<i>...Nueva York es bellísima...</i>
+
+1305
+01:16:36,818 --> 01:16:38,904
+<i>...y sorprendentemente pacífica.</i>
+
+1306
+01:16:39,154 --> 01:16:40,363
+<i>Pero al llegar la Navidad...</i>
+
+1307
+01:16:40,655 --> 01:16:44,613
+<i>...no somos de las familias
+que cantan villancicos...</i>
+
+1308
+01:16:44,726 --> 01:16:46,912
+<i>...ni comemos ganso, ni nada.</i>
+
+1309
+01:16:47,329 --> 01:16:51,874
+<i>Ponemos rumbo a París
+y pasamos las Navidades en el Ritz.</i>
+
+1310
+01:17:38,463 --> 01:17:40,293
+Aquí, pon el dedo aquí.
+
+1311
+01:17:42,133 --> 01:17:45,982
+Tiene fiebre... Es un resfriado.
+
+1312
+01:17:46,095 --> 01:17:49,307
+Debiste cambiarte de ropa
+después de caer en la fuente.
+
+1313
+01:17:49,557 --> 01:17:52,394
+Estoy bien. Ve tú sin mí.
+Me pondré bien.
+
+1314
+01:17:52,644 --> 01:17:56,564
+No queremos ir sin ti.
+Te encantan los Hermanos Marx.
+
+1315
+01:17:56,815 --> 01:17:59,317
+Sólo necesito dormir.
+Me pondré bien.
+
+1316
+01:17:59,567 --> 01:18:01,111
+Estoy nerviosísima.
+
+1317
+01:18:01,319 --> 01:18:05,782
+He conocido a un guía llamado Guy.
+
+1318
+01:18:06,074 --> 01:18:08,201
+Te traigo una infusión.
+
+1319
+01:18:08,493 --> 01:18:11,538
+No me quitará el sueño, ¿verdad?
+
+1320
+01:18:11,830 --> 01:18:14,916
+No, sólo son hierbas. Es menta.
+
+1321
+01:18:18,253 --> 01:18:22,340
+Te saludaría, pero estoy enfermo
+y tú lo pescas todo.
+
+1322
+01:18:22,590 --> 01:18:24,551
+- ¿Qué ha pasado?
+- ¿Qué pasa?
+
+1323
+01:18:25,427 --> 01:18:26,928
+Esta noche no iré.
+
+1324
+01:18:27,178 --> 01:18:28,305
+¡Lo sabía!
+
+1325
+01:18:28,596 --> 01:18:31,266
+- ¿Nadie va?
+- Von me ha dejado.
+
+1326
+01:18:31,891 --> 01:18:32,934
+¿Qué ha pasado?
+
+1327
+01:18:33,101 --> 01:18:36,896
+No tengo ni idea,
+pero va camino de Nueva York.
+
+1328
+01:18:37,147 --> 01:18:39,649
+Cuando apareció,
+todo era perfecto.
+
+1329
+01:18:39,941 --> 01:18:43,319
+Dijo que era como si su sueño
+se hiciera realidad.
+
+1330
+01:18:43,611 --> 01:18:44,904
+<i>Y luego, de pronto...</i>
+
+1331
+01:18:45,196 --> 01:18:46,548
+<i>...esta mañana...</i>
+
+1332
+01:18:48,783 --> 01:18:52,695
+Quiero volver a casa con Greg.
+
+1333
+01:18:54,789 --> 01:18:55,915
+¿En serio?
+
+1334
+01:18:56,416 --> 01:18:58,877
+No sé qué es lo que me pasa.
+
+1335
+01:18:59,210 --> 01:19:00,712
+¿Desde cuándo?
+
+1336
+01:19:01,087 --> 01:19:02,213
+No lo sé.
+
+1337
+01:19:04,883 --> 01:19:05,884
+¿Por qué?
+
+1338
+01:19:07,052 --> 01:19:09,554
+No sé cómo explicarlo exactamente.
+
+1339
+01:19:09,804 --> 01:19:12,223
+Dímelo. Es que, en fin, no sé...
+
+1340
+01:19:12,974 --> 01:19:15,977
+No es que no crea
+que eres genial.
+
+1341
+01:19:16,227 --> 01:19:17,979
+Creo que eres genial.
+
+1342
+01:19:19,939 --> 01:19:22,859
+Es que, en fin,
+llevo años casada con Greg.
+
+1343
+01:19:23,151 --> 01:19:27,071
+Y a veces resulta difícil
+y hemos tenido...
+
+1344
+01:19:27,572 --> 01:19:30,575
+...nuestros altibajos
+desde luego.
+
+1345
+01:19:30,784 --> 01:19:31,826
+¿Desde cuándo...?
+
+1346
+01:19:31,993 --> 01:19:34,412
+Pues no lo sé. Es que...
+
+1347
+01:19:34,662 --> 01:19:37,165
+Siempre he tenido ese sueño...
+
+1348
+01:19:40,418 --> 01:19:43,087
+...de que encontraría
+al hombre perfecto...
+
+1349
+01:19:43,421 --> 01:19:46,674
+...y colmaría mis sueños
+y yo tendría...
+
+1350
+01:19:47,175 --> 01:19:48,384
+...una vida perfecta.
+
+1351
+01:19:48,593 --> 01:19:50,804
+Y ese sueño...
+
+1352
+01:19:52,096 --> 01:19:54,820
+...creo que más o menos...
+
+1353
+01:19:54,933 --> 01:19:58,812
+...formaba parte
+de mi insatisfacción con Greg...
+
+1354
+01:19:59,103 --> 01:20:00,188
+...y con mi vida.
+
+1355
+01:20:00,563 --> 01:20:02,398
+Y entonces llegaste tú...
+
+1356
+01:20:02,690 --> 01:20:07,308
+...y parecías conocer mis secretos
+más íntimos.
+
+1357
+01:20:09,405 --> 01:20:10,990
+Dicho de otro modo:
+
+1358
+01:20:12,200 --> 01:20:14,911
+He visto mi sueño
+hecho realidad...
+
+1359
+01:20:15,161 --> 01:20:16,996
+...y ese sueño...
+
+1360
+01:20:17,247 --> 01:20:18,998
+...ya no me tortura.
+
+1361
+01:20:19,290 --> 01:20:21,376
+Puedo hacerle frente.
+
+1362
+01:20:23,294 --> 01:20:25,421
+Pero eso es de neurótica.
+
+1363
+01:20:26,214 --> 01:20:27,507
+Ya lo sé.
+
+1364
+01:20:27,715 --> 01:20:29,259
+Estoy loca.
+
+1365
+01:20:30,552 --> 01:20:33,096
+Pero supón que te digo...
+
+1366
+01:20:33,555 --> 01:20:36,808
+...que nada de esto era cierto,
+que todo es...
+
+1367
+01:20:37,058 --> 01:20:39,477
+...una fachada que me he montado.
+
+1368
+01:20:39,727 --> 01:20:41,980
+Que yo tenía acceso...
+
+1369
+01:20:42,730 --> 01:20:47,110
+...a tus sentimientos íntimos,
+necesidades y secretos...
+
+1370
+01:20:47,402 --> 01:20:51,030
+...y que he interpretado el papel
+sólo para...
+
+1371
+01:20:51,322 --> 01:20:54,826
+...conquistarte, gustarte,
+hacerte feliz.
+
+1372
+01:20:55,577 --> 01:20:57,579
+Si me dijeras eso...
+
+1373
+01:20:58,663 --> 01:21:01,374
+...te diría que el loco eres tú.
+
+1374
+01:21:03,167 --> 01:21:06,462
+Y exactamente por eso
+no voy a ir esta noche.
+
+1375
+01:21:06,754 --> 01:21:11,134
+Pienso ir a la tumba de Napoleón.
+Me tumbaré a su lado.
+
+1376
+01:21:11,426 --> 01:21:13,720
+- Así será mi Nochebuena.
+- ¡Qué pena!
+
+1377
+01:21:14,012 --> 01:21:15,179
+¡Qué mujeres eliges!
+
+1378
+01:21:15,430 --> 01:21:18,349
+No, tú vas a salir.
+Hay que acompañar a mami.
+
+1379
+01:21:18,933 --> 01:21:20,310
+¿Estás muy enfermo?
+
+1380
+01:21:20,601 --> 01:21:23,521
+- Lo veo muy mal.
+- Estoy bien, sin mover los ojos.
+
+1381
+01:21:23,771 --> 01:21:27,483
+Está a 38 y medio. Tú no sales.
+
+1382
+01:21:27,692 --> 01:21:29,235
+No me siento Groucho.
+
+1383
+01:21:29,527 --> 01:21:34,157
+Es Nochebuena en París.
+El Baile de la Cinémathèque.
+
+1384
+01:21:34,407 --> 01:21:36,200
+Lo has organizado tú.
+
+1385
+01:21:36,701 --> 01:21:37,994
+Iré un par de horas.
+
+1386
+01:21:38,286 --> 01:21:39,495
+Pásalo bien.
+
+1387
+01:21:39,787 --> 01:21:42,498
+Yo tengo que quedarme,
+pero tú puedes ir.
+
+1388
+01:21:42,749 --> 01:21:44,584
+O te arrepentirás.
+
+1389
+01:23:45,580 --> 01:23:48,291
+¿Recuerdas nuestra primera
+Nochebuena en París...
+
+1390
+01:23:48,583 --> 01:23:50,459
+...un mes antes de casarnos?
+
+1391
+01:23:51,335 --> 01:23:52,795
+Sí, porque entonces...
+
+1392
+01:23:53,170 --> 01:23:56,841
+...comprendí que algún día
+tendría que vivir aquí.
+
+1393
+01:23:57,091 --> 01:23:59,760
+Lo recuerdo como si fuera ayer.
+
+1394
+01:24:01,095 --> 01:24:05,141
+No quisiera asustarte,
+pero fue hace décadas. Décadas.
+
+1395
+01:24:05,433 --> 01:24:07,602
+Ya sé,
+ya sé que fue hace décadas.
+
+1396
+01:24:07,852 --> 01:24:10,146
+¿Recuerdas aquel café
+al que íbamos?
+
+1397
+01:24:10,438 --> 01:24:14,525
+Café Terèse, o lo que fuera,
+con los gatos. ¿Recuerdas?
+
+1398
+01:24:14,775 --> 01:24:16,569
+Ahora te diré la verdad.
+
+1399
+01:24:16,777 --> 01:24:18,154
+Yo odiaba a ese gato.
+
+1400
+01:24:20,364 --> 01:24:23,826
+Quizá por eso pasabas la noche
+rascándote.
+
+1401
+01:24:24,118 --> 01:24:25,578
+¿Que yo me rascaba?
+
+1402
+01:24:25,870 --> 01:24:28,873
+- ¿En eso te fijaste?
+- Desde luego que sí.
+
+1403
+01:24:29,040 --> 01:24:30,333
+Yo odiaba a ese gato.
+
+1404
+01:24:30,624 --> 01:24:31,792
+No lo aguantaba...
+
+1405
+01:24:32,043 --> 01:24:35,338
+...pero ahora ese café
+está junto a mi casa.
+
+1406
+01:24:35,629 --> 01:24:36,672
+¡Bromeas!
+
+1407
+01:24:37,048 --> 01:24:39,425
+¿Iba a bromear con una cosa así?
+
+1408
+01:24:39,633 --> 01:24:41,594
+¿Quieres tomar una copa allí?
+
+1409
+01:24:42,094 --> 01:24:44,055
+- ¡Vamos!
+- Ya bebemos aquí.
+
+1410
+01:24:44,305 --> 01:24:45,890
+¿Para qué iba a querer ir?
+
+1411
+01:24:46,140 --> 01:24:47,683
+Quitémonos el bigote.
+
+1412
+01:24:47,892 --> 01:24:49,852
+¿Sientes nostalgia?
+
+1413
+01:24:50,144 --> 01:24:53,981
+Sí, ¿qué hay de malo?
+La idea me divierte.
+
+1414
+01:24:54,191 --> 01:24:55,191
+No podemos...
+
+1415
+01:24:55,483 --> 01:24:58,569
+¡Vamos! Nos quitamos el bigote.
+No hay problema.
+
+1416
+01:24:58,778 --> 01:25:00,863
+- Eso me encantaría.
+- A mí también.
+
+1417
+01:25:01,072 --> 01:25:04,283
+Nunca pensé oírte decir:
+"Me quito el bigote."
+
+1418
+01:25:04,492 --> 01:25:07,411
+¡Por favor!
+Vamos.
+
+1419
+01:25:07,620 --> 01:25:11,582
+Me siento de fábula.
+Llevo 3 copas de champán.
+
+1420
+01:25:12,083 --> 01:25:14,377
+Vamos a ver ese sitio.
+
+1421
+01:25:14,752 --> 01:25:16,087
+¿Quieres escaparte?
+
+1422
+01:25:16,337 --> 01:25:19,840
+Claro. Ya nos escapamos una vez,
+¿Recuerdas...
+
+1423
+01:25:20,091 --> 01:25:24,095
+...aquella fiesta tan aburrida
+con los Wainwright?
+
+1424
+01:25:24,428 --> 01:25:26,764
+Sí, me acuerdo, porque...
+
+1425
+01:25:26,972 --> 01:25:29,809
+...nos escapamos por la ventana
+del lavabo.
+
+1426
+01:25:30,684 --> 01:25:32,812
+Un tenor cantaba,
+"Sube a la cumbre".
+
+1427
+01:25:33,020 --> 01:25:36,148
+Y tú tropezaste con el bol
+del ponche, me acuerdo.
+
+1428
+01:25:36,524 --> 01:25:40,611
+Y tú soltaste un chillido agudo
+que nos descubrió.
+
+1429
+01:25:40,861 --> 01:25:43,864
+¿Recuerdas cómo hicimos el amor?
+¿Recuerdas?
+
+1430
+01:25:44,115 --> 01:25:45,491
+- Se te cayó el cigarro.
+- Ya lo sé.
+
+1431
+01:25:45,699 --> 01:25:48,369
+Se me ha caído el cigarro y...
+
+1432
+01:25:48,619 --> 01:25:50,454
+Estás borracha.
+
+1433
+01:25:51,705 --> 01:25:54,083
+Recuerdo cómo hacíamos el amor.
+
+1434
+01:25:54,375 --> 01:25:56,001
+¿Te acuerdas de las velas?
+
+1435
+01:25:56,210 --> 01:25:59,088
+Recuerdo las velas, el hotel,
+pero no a ti.
+
+1436
+01:25:59,380 --> 01:26:01,757
+A no ser que fueras
+la de debajo.
+
+1437
+01:26:01,966 --> 01:26:04,051
+- ¡Estás en el papel!
+- No sé dónde estoy.
+
+1438
+01:26:04,426 --> 01:26:06,720
+- Me he perdido.
+- ¡Andando, vámonos!
+
+1439
+01:26:06,887 --> 01:26:09,849
+- Los abrigos están en el auto.
+- Olvídate.
+
+1440
+01:26:10,057 --> 01:26:13,435
+Es una noche cálida. Vamos.
+Hazte el joven.
+
+1441
+01:26:13,853 --> 01:26:15,771
+Por ti lo haría.
+
+1442
+01:26:18,732 --> 01:26:20,651
+Estarás mejor sin ella.
+
+1443
+01:26:20,901 --> 01:26:24,363
+Pero, ¿cómo lo sabes,
+si tú no la has conocido?
+
+1444
+01:26:24,572 --> 01:26:25,865
+Te conozco a ti.
+
+1445
+01:26:26,323 --> 01:26:27,616
+¿Qué tiene que ver?
+
+1446
+01:26:27,867 --> 01:26:29,451
+Si un buen psiquiatra...
+
+1447
+01:26:29,660 --> 01:26:31,287
+...te oyera hablar...
+
+1448
+01:26:31,537 --> 01:26:35,207
+...pensaría que sientes celos
+cuando estoy con una mujer.
+
+1449
+01:26:35,749 --> 01:26:36,959
+¿De qué te ríes?
+
+1450
+01:26:37,167 --> 01:26:40,004
+Ojalá encontraras a una
+que te hiciera feliz.
+
+1451
+01:26:40,254 --> 01:26:41,463
+¿Como quién?
+
+1452
+01:26:41,672 --> 01:26:42,882
+Yo te hice feliz.
+
+1453
+01:26:43,090 --> 01:26:46,385
+- No digo que no.
+- Te hice muy feliz.
+
+1454
+01:26:46,635 --> 01:26:48,971
+Cuando no nos liábamos a tortas.
+
+1455
+01:26:49,179 --> 01:26:52,224
+¿Esto no te suena?
+Por eso te he traído aquí.
+
+1456
+01:26:52,683 --> 01:26:54,059
+¿Te dice algo?
+
+1457
+01:26:54,268 --> 01:26:55,895
+¿No es aquí donde...?
+
+1458
+01:26:56,103 --> 01:26:59,440
+Sí, aquí es.
+Por eso te he traído hasta aquí.
+
+1459
+01:27:00,107 --> 01:27:01,191
+¡Dios mío!
+
+1460
+01:27:01,442 --> 01:27:04,111
+- ¿Recuerdas esto?
+- Aquí pasamos toda una noche.
+
+1461
+01:27:04,403 --> 01:27:07,781
+Sí. Te tuve en mis brazos
+hasta que amaneció.
+
+1462
+01:27:08,032 --> 01:27:09,617
+¿Recuerdas la canción?
+
+1463
+01:27:09,867 --> 01:27:11,910
+- Sí.
+- Yo aún la canto.
+
+1464
+01:27:12,119 --> 01:27:16,123
+La aprendí de ti. ¿Te acuerdas?
+No la había oído nunca.
+
+1465
+01:27:16,707 --> 01:27:18,876
+# Adiós, amor #
+
+1466
+01:27:19,627 --> 01:27:22,045
+# Ya no me volveré a enamorar #
+
+1467
+01:27:22,671 --> 01:27:25,300
+# He dicho "adieu" al amor #
+
+1468
+01:27:25,758 --> 01:27:28,384
+# "No vuelvas nunca más" #
+
+1469
+01:27:28,802 --> 01:27:31,941
+# Pues has de ser tú #
+
+1470
+01:27:32,097 --> 01:27:33,849
+# O nadie #
+
+1471
+01:27:35,559 --> 01:27:39,419
+# Y por eso adiós, amor #
+
+1472
+01:27:41,565 --> 01:27:43,942
+# He cerrado mi corazón #
+
+1473
+01:27:44,318 --> 01:27:47,208
+# Dejaré mis sentimientos dentro #
+
+1474
+01:27:47,404 --> 01:27:49,782
+# He guardado mi corazón #
+
+1475
+01:27:50,157 --> 01:27:52,409
+# Conservándolo en el hielo #
+
+1476
+01:27:53,160 --> 01:27:58,259
+# Y no me enamoraré de nadie #
+
+1477
+01:28:00,584 --> 01:28:04,202
+# Por eso adiós, amor #
+
+1478
+01:28:06,465 --> 01:28:08,300
+# ¿Por qué me has hecho pensar #
+
+1479
+01:28:08,550 --> 01:28:11,053
+# Que me querías? #
+
+1480
+01:28:11,929 --> 01:28:13,764
+# No me necesitabas #
+
+1481
+01:28:14,014 --> 01:28:16,683
+# Ya tenías compañía #
+
+1482
+01:28:17,267 --> 01:28:19,228
+# De amigos que te asediaban #
+
+1483
+01:28:19,603 --> 01:28:22,106
+# Y te juraban noche y día #
+
+1484
+01:28:22,356 --> 01:28:24,900
+# Con gran emoción #
+
+1485
+01:28:25,734 --> 01:28:29,236
+# Su devoción por ti #
+
+1486
+01:28:30,030 --> 01:28:32,533
+# Adiós, primavera #
+
+1487
+01:28:33,033 --> 01:28:35,964
+# ¡Cuánto fuiste para mí! #
+
+1488
+01:28:36,077 --> 01:28:38,705
+# Ojalá volviera #
+
+1489
+01:28:39,289 --> 01:28:42,252
+# La ilusión que sentí #
+
+1490
+01:28:42,626 --> 01:28:46,100
+# Porque has de ser tú #
+
+1491
+01:28:46,213 --> 01:28:48,937
+# O nadie #
+
+1492
+01:28:51,051 --> 01:28:57,051
+# Así que adiós, amor #
+
+1493
+01:30:51,922 --> 01:30:56,396
+Durante años me he preguntado
+cómo nos habría ido juntos.
+
+1494
+01:30:58,929 --> 01:31:01,515
+Eso es algo que nunca sabremos.
+
+1495
+01:31:02,683 --> 01:31:04,393
+Fuimos capaces de fabricar...
+
+1496
+01:31:04,935 --> 01:31:06,353
+...una hija fabulosa.
+
+1497
+01:31:06,603 --> 01:31:09,106
+Es una chica increíble.
+
+1498
+01:31:09,356 --> 01:31:12,943
+Tiene tus rasgos, por suerte...
+
+1499
+01:31:13,193 --> 01:31:15,362
+...con mi personalidad mágica.
+
+1500
+01:31:15,695 --> 01:31:17,406
+Es maravillosa.
+
+1501
+01:31:17,614 --> 01:31:21,201
+Y tú has sido muy feliz con Bob,
+fue un acierto.
+
+1502
+01:31:21,451 --> 01:31:22,577
+Es fantástico.
+
+1503
+01:31:22,786 --> 01:31:24,704
+- No podías elegir mejor.
+- No.
+
+1504
+01:31:27,290 --> 01:31:29,960
+Pero reconoce que alguna vez...
+
+1505
+01:31:30,127 --> 01:31:34,631
+...me llamaste con urgencia
+y tuve que acudir en tu ayuda.
+
+1506
+01:31:35,048 --> 01:31:36,591
+Ya lo sé.
+
+1507
+01:31:36,967 --> 01:31:39,761
+Recuerdo dos peleas duras
+con Bob y...
+
+1508
+01:31:39,970 --> 01:31:44,307
+...y un horrible bulto
+que resultó benigno...
+
+1509
+01:31:44,558 --> 01:31:45,809
+...aunque te asustaste.
+
+1510
+01:31:46,059 --> 01:31:47,602
+Tú estuviste a mi lado.
+
+1511
+01:31:47,811 --> 01:31:49,438
+Y tú al mío.
+
+1512
+01:31:49,646 --> 01:31:50,814
+Eso es lo importante.
+
+1513
+01:31:51,064 --> 01:31:54,568
+Creo que hemos sido
+mejores amigos...
+
+1514
+01:31:54,818 --> 01:31:56,278
+...que esposo y mujer.
+
+1515
+01:31:56,486 --> 01:31:58,530
+Sí, seguramente sí.
+
+1516
+01:31:58,989 --> 01:32:02,117
+Pero nadie me ha hecho reír
+como tú.
+
+1517
+01:32:02,325 --> 01:32:04,786
+Quiero a Bob con toda mi alma,
+eso es aparte.
+
+1518
+01:32:04,995 --> 01:32:08,915
+Pero tú siempre sabrías
+tocar ese registro en mí.
+
+1519
+01:32:09,583 --> 01:32:11,960
+Y, ¿por qué es tan importante?
+
+1520
+01:32:12,335 --> 01:32:13,837
+No lo sé.
+
+1521
+01:32:14,087 --> 01:32:15,589
+Quizá estemos locos.
+
+1522
+01:32:19,926 --> 01:32:23,847
+¿Y la que hoy te ha plantado,
+te hacía reír?
+
+1523
+01:32:24,097 --> 01:32:25,307
+No lo sé.
+
+1524
+01:32:25,599 --> 01:32:27,684
+Tengo que olvidarme...
+
+1525
+01:32:27,934 --> 01:32:29,186
+...de eso.
+
+1526
+01:32:33,857 --> 01:32:35,233
+Qué cosas tiene la vida.
+
+1527
+01:32:35,442 --> 01:32:37,402
+Es increíble. Increíble.
+
+1528
+01:33:05,138 --> 01:33:06,973
+Vámonos, es tarde.
+
+1529
+01:33:07,223 --> 01:33:09,351
+Desde luego que es tarde.
+
+1530
+01:33:09,614 --> 01:33:11,645
+Nochebuena y tarde.
+
+1531
+01:33:11,895 --> 01:33:12,979
+Vámonos.
+
+1532
+01:33:15,231 --> 01:33:17,776
+# Todos dicen "Te amo" #
+
+1533
+01:33:17,901 --> 01:33:21,071
+# El policía de la esquina
+y el ladrón también #
+
+1534
+01:33:21,321 --> 01:33:23,527
+<i>Nochebuena en París.</i>
+
+1535
+01:33:23,907 --> 01:33:25,241
+<i>¡Vaya año!</i>
+
+1536
+01:33:25,659 --> 01:33:28,787
+<i>Y así llegamos al final
+de nuestra historia.</i>
+
+1537
+01:33:29,079 --> 01:33:31,790
+<i>Le dije a Skylar
+que sería una buena película.</i>
+
+1538
+01:33:32,082 --> 01:33:36,169
+<i>Ella dijo: "Si no es un musical,
+nadie lo creerá."</i>
+
+1539
+01:33:36,419 --> 01:33:37,420
+<i>A propósito...</i>
+
+1540
+01:33:37,587 --> 01:33:40,757
+<i>...aquella noche conocí
+a un hombre increíble.</i>
+
+1541
+01:33:41,007 --> 01:33:43,468
+<i>En fin, ¡aquél sí que era sexy!</i>
+
+1542
+01:33:53,064 --> 01:33:59,064
+Subtítulos por aRGENTeaM
+www.argenteam.net
+

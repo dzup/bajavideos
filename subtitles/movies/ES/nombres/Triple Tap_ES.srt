@@ -1,0 +1,6226 @@
+1
+00:01:41,968 --> 00:01:44,402
+153449F, 153450F,
+
+2
+00:01:45,371 --> 00:01:46,030
+Correcto.
+
+3
+00:02:16,503 --> 00:02:17,765
+¡La zona está caliente!
+
+4
+00:02:22,542 --> 00:02:23,372
+Tirador a la línea.
+
+5
+00:02:28,047 --> 00:02:30,515
+De acuerdo.
+Tirador, ¿entiendes las reglas?
+
+6
+00:02:30,884 --> 00:02:32,112
+Cargue y prepárese.
+
+7
+00:02:39,526 --> 00:02:40,652
+¿Esta listo?
+
+8
+00:03:34,414 --> 00:03:35,938
+Descargue y muestre la recamara.
+
+9
+00:03:43,690 --> 00:03:45,248
+¡Increíble! ¡Double Tap!
+
+10
+00:03:48,394 --> 00:03:49,258
+¡La zona está despejada!
+
+11
+00:03:53,533 --> 00:03:54,431
+¡Blanco en los 5 objetivos!
+
+12
+00:03:59,339 --> 00:04:00,670
+Zona 3, 2 Alpha.
+
+13
+00:04:02,609 --> 00:04:03,837
+Zona 2, 2 Alpha.
+
+14
+00:04:04,277 --> 00:04:05,744
+2 Alpha 2 Alpha.
+
+15
+00:04:06,779 --> 00:04:08,076
+Zona 4, Blanco 1, 2 Alpha.
+
+16
+00:04:09,315 --> 00:04:10,339
+Blanco 2, 2 Alpha.
+
+17
+00:04:15,054 --> 00:04:17,215
+Competidor 133, Jerry Chong.
+
+18
+00:04:17,423 --> 00:04:19,288
+El tiempo es de 32,61 segundos.
+
+19
+00:04:19,659 --> 00:04:21,991
+Puntos de objetivos 175.
+
+20
+00:04:22,262 --> 00:04:24,526
+Factor de acierto de 5.366.
+
+21
+00:04:24,731 --> 00:04:25,823
+¡A superado el record del club!
+
+22
+00:04:27,000 --> 00:04:31,403
+¡Es impresionante!
+
+23
+00:04:32,138 --> 00:04:35,835
+- Te lo dije, ¡podías hacerlo!
+- Pues sí, ¡lo hice!
+
+24
+00:04:36,075 --> 00:04:37,372
+¡Silencio por favor!
+
+25
+00:04:45,018 --> 00:04:46,781
+Tirador, ¿está listo?
+
+26
+00:05:18,718 --> 00:05:19,844
+¿Qué... perdió el cargador?
+
+27
+00:05:47,480 --> 00:05:48,913
+¡Descargue y muestre la recamara!
+
+28
+00:05:54,754 --> 00:05:55,948
+Bien.
+
+29
+00:05:56,356 --> 00:05:57,550
+¡La zona está despejada!
+
+30
+00:06:05,498 --> 00:06:06,089
+¿Tiempo?
+
+31
+00:06:06,299 --> 00:06:07,061
+32,30 segundos.
+
+32
+00:06:07,734 --> 00:06:08,257
+¿Puntos?
+
+33
+00:06:08,468 --> 00:06:09,935
+175... espera...
+
+34
+00:06:12,105 --> 00:06:13,094
+¿Algún problema?¿Confirmado?
+
+35
+00:06:13,306 --> 00:06:14,000
+Confirmado.
+
+36
+00:06:14,574 --> 00:06:15,131
+Confirmado.
+
+37
+00:06:16,576 --> 00:06:18,737
+Competidor nº 137, Ken Kwan.
+
+38
+00:06:18,945 --> 00:06:21,038
+El tiempo es de 32,30 segundos.
+
+39
+00:06:21,414 --> 00:06:23,382
+Puntos de objetivos 175.
+
+40
+00:06:23,783 --> 00:06:26,308
+Factor de acierto 5.147.
+
+41
+00:06:26,586 --> 00:06:28,110
+¡Ha superado el record!
+
+42
+00:06:29,188 --> 00:06:31,053
+¡Ha sido más rápido aun, increíble!
+
+43
+00:06:36,996 --> 00:06:37,826
+Triple Tap.
+
+44
+00:06:38,164 --> 00:06:42,760
+- ¡Bien!
+- ¡Increíble!
+
+45
+00:06:47,673 --> 00:06:48,799
+- ¡Gracias¡!
+- ¡Enhorabuena!
+
+46
+00:06:49,409 --> 00:06:51,309
+Llevo solo un año compitiendo en este deporte.
+
+47
+00:06:51,511 --> 00:06:52,170
+¡Eres muy bueno!
+
+48
+00:06:53,179 --> 00:06:55,204
+Pareces que llevas compitiendo desde hace tiempo.
+
+49
+00:06:55,882 --> 00:06:57,076
+¡Los rivales también podemos ser amigos!
+
+50
+00:06:57,583 --> 00:06:58,277
+¡Por supuesto!
+
+51
+00:06:58,985 --> 00:06:59,815
+¡Nos vemos en las finales!
+
+52
+00:07:04,690 --> 00:07:06,681
+Sr. Fong, ¿qué ruta es la que tomaremos hoy?
+
+53
+00:07:10,263 --> 00:07:14,097
+¿Por el túnel de Ching Yee South Bay y
+atravesando el puente hacia el aeropuerto?
+
+54
+00:07:14,400 --> 00:07:16,027
+¡Maldición!
+¡Daremos la vuelta entera a la ciudad!
+
+55
+00:07:16,235 --> 00:07:17,998
+¡Tengo que ir a buscar a mi crio al colegio!
+
+56
+00:07:18,905 --> 00:07:19,564
+Señor Kwan.
+
+57
+00:07:20,773 --> 00:07:21,398
+¿Qué pasa?
+
+58
+00:07:21,707 --> 00:07:24,642
+Algunos miembros no siguen las reglas,
+y no separan las armas de la munición.
+
+59
+00:07:24,977 --> 00:07:26,001
+Así que el gerente me dijo que lo comprobase.
+
+60
+00:07:27,280 --> 00:07:29,680
+¡Eso es muchísimo trabajo!
+Solo pon un cartel de advertencia.
+
+61
+00:07:29,882 --> 00:07:30,746
+Eso es lo que le dije.
+
+62
+00:07:31,684 --> 00:07:32,309
+Las balas están aquí.
+
+63
+00:07:34,320 --> 00:07:34,979
+De acuerdo.
+
+64
+00:07:35,688 --> 00:07:36,416
+¿A dónde va con el arma?
+
+65
+00:07:37,457 --> 00:07:38,253
+Al Club de Tiro Kowloon.
+
+66
+00:07:40,626 --> 00:07:43,151
+Se me olvido felicitarte por el campeonato,
+¿donde será la celebración?
+
+67
+00:07:44,697 --> 00:07:46,995
+Después de guardar el arma,
+hare horas extras en la oficina.
+
+68
+00:07:47,433 --> 00:07:48,363
+La crisis financiera aun no se ha acabado.
+
+69
+00:07:49,836 --> 00:07:50,530
+Gracias.
+
+70
+00:08:23,669 --> 00:08:26,331
+Doug, parece que nos está siguiendo un coche.
+
+71
+00:08:33,346 --> 00:08:35,576
+- ¡Se ha ido!
+- ¡Eres un paranoico!
+
+72
+00:08:35,948 --> 00:08:37,313
+¡Qué crees que la carretera 
+es solo para ti!
+
+73
+00:08:56,269 --> 00:08:58,669
+Accidente grave, localización, autopista 8,
+Sección Tsing Yi.
+
+74
+00:08:58,938 --> 00:09:00,769
+A todas las unidades en Kowloon West,
+acudan a la escena inmediatamente.
+
+75
+00:09:01,040 --> 00:09:01,802
+¡Repita! ¡Repita!
+
+76
+00:09:02,041 --> 00:09:04,339
+Accidente grave, localización, autopista 8,
+Sección Tsing Yi.
+
+77
+00:09:04,544 --> 00:09:06,409
+A todas las unidades en Kowloon West,
+acudan a la escena inmediatamente.
+
+78
+00:09:21,127 --> 00:09:22,353
+Billy, escolta a la ambulancia al Hospital Margaret.
+
+79
+00:09:22,461 --> 00:09:23,257
+- ¡Rápido!
+- ¡Sí, señor!
+
+80
+00:09:50,523 --> 00:09:51,148
+¡Moveos!
+
+81
+00:10:00,132 --> 00:10:00,689
+¡Abre la puerta!
+
+82
+00:10:01,834 --> 00:10:02,459
+¡Abre la puerta!
+
+83
+00:10:17,683 --> 00:10:18,775
+¡Hey, no te muevas!
+
+84
+00:10:20,019 --> 00:10:20,576
+¡Agárrale!
+
+85
+00:10:21,654 --> 00:10:22,484
+¡Eres un traidor!
+
+86
+00:10:22,822 --> 00:10:23,447
+¡Estás loco!
+
+87
+00:10:25,891 --> 00:10:26,755
+¡Suéltame!
+
+88
+00:10:27,860 --> 00:10:28,622
+¿Hola?
+
+89
+00:10:29,528 --> 00:10:30,495
+Emergencias.
+
+90
+00:10:32,898 --> 00:10:33,489
+¿Hola?
+
+91
+00:10:34,300 --> 00:10:34,959
+¿Hola?
+
+92
+00:10:35,635 --> 00:10:36,897
+¡Tiene que calmarse!
+Hable despacio.
+
+93
+00:10:37,169 --> 00:10:38,636
+Un camión blindado está siendo atracado.
+
+94
+00:10:39,372 --> 00:10:41,067
+Capitán, un camión blindado está siendo atracado.
+
+95
+00:10:41,273 --> 00:10:42,069
+Buscando su localización.
+
+96
+00:10:58,891 --> 00:10:59,721
+¡Me escucháis!
+
+97
+00:11:00,292 --> 00:11:01,190
+He llamado a la policía.
+
+98
+00:11:01,627 --> 00:11:02,423
+¡La policía está en camino!
+
+99
+00:11:15,975 --> 00:11:18,136
+La señal del móvil ha sido localizada
+en la autopista 8 cerca del túnel de South Bay.
+
+100
+00:11:18,377 --> 00:11:19,401
+Muéstreme en pantalla el túnel de South Bay.
+
+101
+00:11:19,812 --> 00:11:21,803
+El sistema de vigilancia de esa zona
+esta siendo reparado en el día de hoy.
+
+102
+00:11:23,082 --> 00:11:25,050
+Esto es el centro de mando,
+llamando a todas las unidades en Kowloon West.
+
+103
+00:11:25,251 --> 00:11:26,718
+Hay un atraco a un camión blindado
+en la autopista 8,
+
+104
+00:11:26,919 --> 00:11:27,851
+¿hay alguna patrulla cerca?
+
+105
+00:11:28,320 --> 00:11:30,049
+Capitán, creo que tengo a todas las unidades aquí.
+
+106
+00:11:30,456 --> 00:11:32,788
+¿Hay alguien cerca de la autopista 8?
+
+107
+00:11:33,025 --> 00:11:33,957
+¿Alguna patrulla cerca?
+
+108
+00:11:35,261 --> 00:11:36,023
+Centro, Centro...
+
+109
+00:11:36,228 --> 00:11:38,162
+¡Oficial 20011 acudiendo a la escena del crimen!
+
+110
+00:11:43,335 --> 00:11:45,633
+¡Saca eso! ¡Rápido!
+
+111
+00:11:46,272 --> 00:11:47,671
+- ¡La puerta de atrás!
+- ¡Moveos!
+
+112
+00:11:47,873 --> 00:11:49,636
+¡No disparen... estoy con vosotros!
+
+113
+00:11:49,842 --> 00:11:51,275
+- ¡No se muevan!
+- ¡Estoy con vosotros... no disparen!
+
+114
+00:11:52,578 --> 00:11:53,169
+¡Cálmate!
+
+115
+00:11:54,580 --> 00:11:55,239
+¿Donde está la mercancía?
+
+116
+00:11:55,648 --> 00:11:56,376
+¡En el maletín!
+
+117
+00:11:56,849 --> 00:11:57,440
+¡Vete a por él!
+
+118
+00:12:10,830 --> 00:12:11,626
+-¡Vete!
+- Espera...
+
+119
+00:12:11,931 --> 00:12:12,920
+¿Qué pasa conmigo?
+
+120
+00:12:13,232 --> 00:12:13,960
+Qué, ¿qué es lo que pasa?
+
+121
+00:12:14,233 --> 00:12:16,326
+¡Ellos saben que estoy metido en el ajo,
+estoy acabado!
+
+122
+00:12:18,237 --> 00:12:20,899
+¿Quién coñó gritaría "Estoy con vosotros" 
+a los ladrones?
+
+123
+00:12:21,107 --> 00:12:23,234
+¡Si ellos me delatan, tu no podrás huir tampoco!
+
+124
+00:12:29,849 --> 00:12:31,009
+¡Hey! ¡No corras!
+
+125
+00:12:31,851 --> 00:12:32,476
+¡Déjame!
+
+126
+00:12:40,659 --> 00:12:41,785
+¡No te muevas! ¡Regresa!
+
+127
+00:12:45,464 --> 00:12:46,328
+- ¿Qué estás haciendo?
+- ¡No disparen!
+
+128
+00:12:47,299 --> 00:12:47,993
+¡No lo hagan!
+
+129
+00:12:52,004 --> 00:12:54,234
+Váyanse, yo me encargo de todo aquí.
+
+130
+00:12:54,440 --> 00:12:54,997
+¡Vamos!
+
+131
+00:12:55,407 --> 00:12:56,135
+¿Lo harás?
+
+132
+00:12:56,509 --> 00:12:57,942
+¡Yo me encargare de ti!
+
+133
+00:12:58,410 --> 00:12:59,434
+¡Esto no es así!
+
+134
+00:12:59,645 --> 00:13:00,373
+¡No puedes matarle!
+
+135
+00:13:01,580 --> 00:13:02,342
+Él te conoce,
+
+136
+00:13:02,882 --> 00:13:04,406
+¡y si la poli le encuentra a él,
+ellos te encontraran a ti!
+
+137
+00:13:04,617 --> 00:13:05,914
+¡Y si ellos te encuentran a ti,
+ellos podrán encontrarnos a nosotros!
+
+138
+00:13:06,152 --> 00:13:07,084
+¡No!
+
+139
+00:13:07,353 --> 00:13:08,115
+¡No puedes hacer esto!
+
+140
+00:13:09,221 --> 00:13:09,983
+Él es mi amigo.
+
+141
+00:13:10,523 --> 00:13:11,421
+¡Tenemos que matarlo!
+
+142
+00:13:11,757 --> 00:13:12,951
+¡No dejes que me maten!
+
+143
+00:13:13,159 --> 00:13:14,319
+¡No dejes que me maten!
+
+144
+00:13:18,664 --> 00:13:20,359
+¡Alto! ¡Escúchame... vámonos!
+
+145
+00:13:20,566 --> 00:13:21,260
+¡Quietos!
+
+146
+00:13:21,600 --> 00:13:22,328
+¡Tiren las armas!
+
+147
+00:13:45,291 --> 00:13:46,019
+¡Quietos!
+
+148
+00:13:46,959 --> 00:13:47,448
+Agente, no tengo nada que ver con esto...
+
+149
+00:13:47,660 --> 00:13:48,558
+¡A todo el mundo!
+¡No se muevan!
+
+150
+00:14:04,310 --> 00:14:04,935
+¡Munición!
+
+151
+00:14:06,545 --> 00:14:07,136
+¡Espera!
+
+152
+00:14:11,917 --> 00:14:12,713
+¿Tienes más?
+
+153
+00:14:13,185 --> 00:14:13,844
+¡No!
+
+154
+00:14:14,153 --> 00:14:15,415
+- ¡Cúbreme!
+- ¡Vamos!
+
+155
+00:14:30,069 --> 00:14:30,728
+¡Harry!
+
+156
+00:15:24,957 --> 00:15:25,616
+Emergencias.
+
+157
+00:15:26,158 --> 00:15:26,817
+Mi nombre es Kwan.
+
+158
+00:15:27,192 --> 00:15:28,659
+Acabo de ver cómo estaban atracando
+un camión blindado...
+
+159
+00:15:28,928 --> 00:15:32,056
+es en... la salida del túnel de South Bay.
+
+160
+00:15:32,831 --> 00:15:34,025
+El camión blindado fue atracado por 3 tíos...
+
+161
+00:15:34,366 --> 00:15:36,596
+ellos dispararon a los guardias de seguridad,
+y a otro hombre...
+
+162
+00:15:36,902 --> 00:15:38,267
+después llego un agente de trafico...
+
+163
+00:15:38,537 --> 00:15:39,504
+y también le dispararon.
+
+164
+00:15:40,205 --> 00:15:42,264
+Yo acababa de terminar en un competición de tiro,
+por lo que tengo un arma.
+
+165
+00:15:42,508 --> 00:15:45,443
+Y con el fin del salvar al agente,
+dispare a los tres atracadores.
+
+166
+00:15:45,778 --> 00:15:46,745
+Otro hombre escapo...
+
+167
+00:15:46,946 --> 00:15:47,708
+¡Pidan una ambulancia, rápido!
+
+168
+00:15:49,114 --> 00:15:49,808
+¡Acabo de llamar a la policía!
+
+169
+00:15:50,182 --> 00:15:51,774
+¡Al suelo!
+¡Dese la vuelta y tirase al suelo!
+
+170
+00:15:53,852 --> 00:15:54,546
+¡No se mueva!
+
+171
+00:16:01,293 --> 00:16:02,225
+El policía no está muerto...
+
+172
+00:16:03,362 --> 00:16:04,386
+¡El policía no está muerto todavía!
+
+173
+00:16:06,398 --> 00:16:07,160
+¿Qué estás haciendo, deje de...
+
+174
+00:16:07,366 --> 00:16:09,891
+¡Billy, aguanta!
+
+175
+00:16:10,102 --> 00:16:13,401
+Retrocedan, despejen la zona,
+dejen el camino libre.
+
+176
+00:16:13,739 --> 00:16:14,296
+¿Y su familia?
+
+177
+00:16:14,506 --> 00:16:15,438
+Ya fueron avisados,
+deberían estar a punto de llegar.
+
+178
+00:16:21,947 --> 00:16:23,972
+Ting, vi a tu novio en la sala de Urgencias.
+
+179
+00:16:50,709 --> 00:16:51,505
+Señor, es él.
+
+180
+00:16:52,945 --> 00:16:53,434
+¿Puedo ayudarles?
+
+181
+00:16:53,645 --> 00:16:54,441
+Rutina policial, no me llevara mucho tiempo.
+
+182
+00:16:54,646 --> 00:16:55,340
+¿Porque estás aquí?
+
+183
+00:16:56,382 --> 00:16:57,076
+Vi el atraco.
+
+184
+00:17:00,219 --> 00:17:01,584
+Soy inspector de policía.
+
+185
+00:17:02,187 --> 00:17:03,211
+Estoy a cargo del caso.
+
+186
+00:17:05,491 --> 00:17:06,788
+¿Cómo es que disparaste?
+
+187
+00:17:09,061 --> 00:17:10,460
+Los atracadores mataron
+a los guardias de seguridad...
+
+188
+00:17:11,363 --> 00:17:12,762
+y estaban a punto de matar al agente de tráfico.
+
+189
+00:17:14,500 --> 00:17:15,330
+¿Alguna herida?
+
+190
+00:17:19,438 --> 00:17:20,405
+- Quítale las esposas.
+- ¿Qué?
+
+191
+00:17:22,007 --> 00:17:23,474
+Yo estaba con él en la competición.
+
+192
+00:17:26,645 --> 00:17:27,543
+Vamos a seguir con esto en la Comisaría.
+
+193
+00:17:28,313 --> 00:17:29,041
+El doctor está aquí...
+
+194
+00:17:31,116 --> 00:17:32,242
+El agente de tráfico es Billy Tsui.
+
+195
+00:17:33,118 --> 00:17:33,812
+¿Billy El Gemelo?
+
+196
+00:17:34,119 --> 00:17:34,915
+¿Lo conoces?
+
+197
+00:17:35,154 --> 00:17:37,088
+Conozco a su hermano,
+es un tirador del equipo SDU.
+
+198
+00:17:37,423 --> 00:17:38,720
+Toda su familia está en la policía.
+
+199
+00:17:39,191 --> 00:17:40,317
+Su situación es crítica.
+
+200
+00:17:40,559 --> 00:17:43,255
+La bala atravesó su casco y
+se alojo en la parte izquierda de su cerebro.
+
+201
+00:17:43,595 --> 00:17:44,789
+Tengo que operarlo ahora mismo.
+
+202
+00:17:45,431 --> 00:17:46,591
+Tenga cuidado... tía...
+
+203
+00:17:46,799 --> 00:17:49,097
+- Mamá, siéntate primero.
+-  Señora no se preocupe.
+
+204
+00:17:49,334 --> 00:17:50,562
+Mamá, no te preocupes, todo irá bien.
+
+205
+00:17:51,970 --> 00:17:52,629
+Warren.
+
+206
+00:17:56,075 --> 00:17:57,269
+Warren, él es el que le disparo a los atracadores.
+
+207
+00:17:58,677 --> 00:17:59,439
+¡Esperar un segundo!
+
+208
+00:18:04,550 --> 00:18:06,381
+¿Eres tú el que disparo y mató a los atracadores?
+
+209
+00:18:07,486 --> 00:18:09,215
+Soy su hermano, Warren.
+
+210
+00:18:13,192 --> 00:18:14,716
+- Gracias.
+- Lo siento.
+
+211
+00:18:16,695 --> 00:18:17,821
+Debería hacer actuado antes.
+
+212
+00:18:23,769 --> 00:18:25,202
+Permítanme resumirles el caso.
+
+213
+00:18:26,238 --> 00:18:26,829
+Los Hermanos Bergman...
+
+214
+00:18:27,039 --> 00:18:28,904
+es una banca de inversión privada.
+
+215
+00:18:29,374 --> 00:18:30,966
+Tiene su propio camión blindado...
+
+216
+00:18:31,343 --> 00:18:34,107
+que transportaba unos bonos al portador que
+se dirigían hacia Berlín.
+
+217
+00:18:34,546 --> 00:18:35,808
+Hay 7 víctimas mortales,
+
+218
+00:18:36,448 --> 00:18:38,382
+incluyendo a 3 guardias de seguridad,
+un gerente...
+
+219
+00:18:38,584 --> 00:18:40,484
+y 3 sospechosos sin identificar.
+
+220
+00:18:41,253 --> 00:18:44,654
+Al agente Billy Tsui le dispararon
+y ahora se encuentra en coma.
+
+221
+00:18:45,023 --> 00:18:47,787
+Nuestro único testigo Ken Kwan,
+esta haciendo una declaración ahora mismo.
+
+222
+00:18:48,393 --> 00:18:49,917
+Nos dijo que unos de los sospechosos
+habría huido.
+
+223
+00:18:50,229 --> 00:18:50,991
+Ahora que tenemos un boceto
+de la situación.
+
+224
+00:18:51,597 --> 00:18:53,656
+Alan, coge a los equipos A y B,
+
+225
+00:18:53,932 --> 00:18:55,229
+y comprueba los antecedentes de todos.
+
+226
+00:18:55,567 --> 00:18:56,363
+¡Sí, señor!
+
+227
+00:18:57,102 --> 00:18:58,763
+Logan, con los equipos C y D...
+
+228
+00:18:59,037 --> 00:19:00,129
+sigan todas las pruebas.
+
+229
+00:19:00,339 --> 00:19:00,998
+¡Sí, señor!
+
+230
+00:19:01,306 --> 00:19:02,898
+He preparado unas listas para cada uno.
+
+231
+00:19:03,475 --> 00:19:04,237
+No necesitan más detalles.
+
+232
+00:19:04,977 --> 00:19:06,069
+Señor...
+
+233
+00:19:07,980 --> 00:19:08,947
+No más preguntas por ahora.
+
+234
+00:19:09,848 --> 00:19:12,214
+Esto es solo otro caso de robo.
+
+235
+00:19:12,584 --> 00:19:15,109
+No se dejen intimidar por el numero de cuerpos
+y sigan las pistas.
+
+236
+00:19:15,454 --> 00:19:16,079
+Sean pacientes.
+
+237
+00:19:16,522 --> 00:19:17,318
+Obtengan las pruebas suficientes.
+
+238
+00:19:17,523 --> 00:19:18,285
+Construyan un caso solido.
+
+239
+00:19:18,690 --> 00:19:19,748
+Reunión a las 8 a.m. de mañana.
+
+240
+00:19:20,025 --> 00:19:20,889
+¡Sí, señor!
+
+241
+00:19:55,060 --> 00:19:55,754
+¿Así?
+
+242
+00:19:56,295 --> 00:19:56,886
+Sí.
+
+243
+00:20:01,567 --> 00:20:02,192
+De acuerdo.
+
+244
+00:20:03,702 --> 00:20:06,193
+Del departamento de tráfico,
+cómalo mientras esté caliente.
+
+245
+00:20:19,318 --> 00:20:20,751
+Nacido en Hong Kong en 1975.
+
+246
+00:20:21,253 --> 00:20:22,618
+Su padre falleció muy pronto.
+
+247
+00:20:23,655 --> 00:20:25,384
+Estudio en colegios públicos.
+
+248
+00:20:25,824 --> 00:20:28,315
+Fue un estudiante con honores en el 92.
+
+249
+00:20:28,727 --> 00:20:31,696
+Termino psicología en la universidad de Hong Kong,
+y después estudio económicas en USA.
+
+250
+00:20:32,864 --> 00:20:33,922
+¿Qué es más fácil para conseguir trabajo?
+
+251
+00:20:34,833 --> 00:20:36,960
+Reclutado por un cazatalentos en el 2003.
+
+252
+00:20:37,369 --> 00:20:39,462
+Regreso a Hong Kong y
+se unió a una compañía de inversión.
+
+253
+00:20:40,505 --> 00:20:42,132
+Se convirtió en jefe de sección en solo 3 años.
+
+254
+00:20:43,308 --> 00:20:45,435
+En el último año solo los bonus
+fueron de 3 millones.
+
+255
+00:20:46,078 --> 00:20:47,705
+Tiene dos propiedades en Hong Kong.
+
+256
+00:20:47,980 --> 00:20:50,972
+Y le compro a su madre y a su hermana
+una casa en Vancouver.
+
+257
+00:20:51,483 --> 00:20:52,950
+Tampoco conduce nada mal.
+
+258
+00:20:53,852 --> 00:20:55,683
+Ni una sola multa en todos estos años.
+
+259
+00:20:56,555 --> 00:20:58,045
+¡Es un hombre precavido!
+
+260
+00:20:59,691 --> 00:21:00,623
+Por cierto,
+
+261
+00:21:00,859 --> 00:21:01,985
+necesito tu consejo.
+
+262
+00:21:02,828 --> 00:21:04,022
+Hay una chica,
+
+263
+00:21:04,363 --> 00:21:06,854
+que vio a un chico en el funeral de su padre.
+
+264
+00:21:07,366 --> 00:21:08,526
+Fue amor a primera vista.
+
+265
+00:21:09,301 --> 00:21:12,395
+Un mes más tarde,
+la hermana de la chica fue asesinada.
+
+266
+00:21:12,938 --> 00:21:13,700
+El asesino,
+
+267
+00:21:14,106 --> 00:21:15,573
+resulto haber sido contratado por la chica.
+
+268
+00:21:15,974 --> 00:21:17,236
+¿Por qué quería ella matar a su hermana?
+
+269
+00:21:18,910 --> 00:21:20,207
+Ella quería celebrar otro funeral,
+
+270
+00:21:20,612 --> 00:21:22,045
+para poder volver a ver al chico otra vez.
+
+271
+00:21:22,314 --> 00:21:23,645
+Es por eso que ella mando asesinar a su hermana.
+
+272
+00:21:24,850 --> 00:21:27,318
+Por el bien de esa persona,
+¿es eso correcto?
+
+273
+00:21:29,821 --> 00:21:31,948
+Ella tiene una personalidad
+introvertida y obsesiva.
+
+274
+00:21:32,291 --> 00:21:34,282
+Ella solo actuó de acuerdo a su instinto.
+
+275
+00:21:35,160 --> 00:21:36,024
+Ella no tuvo elección.
+
+276
+00:21:36,495 --> 00:21:37,587
+Yo nunca estudie psicología,
+
+277
+00:21:38,230 --> 00:21:39,390
+pero me pareció interesante.
+
+278
+00:21:39,798 --> 00:21:41,026
+He leído muchísimo sobre este tema.
+
+279
+00:21:42,034 --> 00:21:43,228
+Si soy sospechoso,
+
+280
+00:21:43,969 --> 00:21:45,436
+¿no debería haber un abogado presente...
+
+281
+00:21:45,637 --> 00:21:46,865
+antes de contestar ninguna pregunta?
+
+282
+00:21:47,606 --> 00:21:48,971
+Eres nuestro único testigo.
+
+283
+00:21:49,508 --> 00:21:51,203
+Tengo que tenerte aquí para
+que respondas a mas preguntas.
+
+284
+00:21:54,980 --> 00:21:58,143
+¡Adelante, come!
+La comida de aquí es una mierda.
+
+285
+00:21:58,917 --> 00:22:01,181
+Mientras nosotros seamos la policía,
+no habrá más opciones aquí.
+
+286
+00:22:03,855 --> 00:22:06,983
+Todo es veneno en la actualidad,
+no hay muchas elecciones.
+
+287
+00:22:07,826 --> 00:22:09,691
+Con opciones o sin ellas,
+no tiene nada que ver con el mundo.
+
+288
+00:22:10,095 --> 00:22:11,357
+Es todo acerca de nosotros mismos.
+
+289
+00:22:12,264 --> 00:22:13,697
+Parece que tienes el libro.
+
+290
+00:22:14,499 --> 00:22:17,593
+"Los criminales y sus motivaciones"
+de Martin Goodman.
+
+291
+00:22:19,171 --> 00:22:20,638
+Según sus investigaciones,
+
+292
+00:22:20,872 --> 00:22:23,340
+a más del 80% de los criminales
+no les quedaban más opciones.
+
+293
+00:22:24,309 --> 00:22:25,742
+Tendré que estudiar mas...
+
+294
+00:22:25,944 --> 00:22:27,241
+la próxima vez que nos veamos.
+
+295
+00:22:34,586 --> 00:22:38,579
+"Los criminales y sus motivaciones".
+
+296
+00:22:55,841 --> 00:22:57,968
+"Ordenanza sobre Armas de Fuego".
+
+297
+00:23:08,620 --> 00:23:10,815
+"Un heroico genio financiero rescata
+a un agente de policía"
+
+298
+00:23:11,022 --> 00:23:12,455
+¡Todo el mundo, reunión!
+
+299
+00:23:14,993 --> 00:23:16,984
+Bajen las persianas por favor.
+
+300
+00:23:23,602 --> 00:23:24,330
+Vamos a empezar.
+
+301
+00:23:24,603 --> 00:23:27,037
+No hay ninguna identificación
+sobre los sospechosos.
+
+302
+00:23:27,339 --> 00:23:28,237
+Probablemente no sean de la zona.
+
+303
+00:23:28,473 --> 00:23:31,101
+Pasen las huellas y las fotos a
+todos los departamentos y a la Interpol.
+
+304
+00:23:31,576 --> 00:23:34,670
+Los guardias de seguridad 
+Doug Wong, Jim Lee y Joe Shing,
+
+305
+00:23:34,880 --> 00:23:36,643
+tenían limpios sus antecedentes.
+
+306
+00:23:36,882 --> 00:23:38,247
+Sin embargo, Fong, el gerente,
+
+307
+00:23:38,450 --> 00:23:40,008
+acababa de perder 6 millones
+en el mercado de valores.
+
+308
+00:23:40,218 --> 00:23:41,150
+Estamos en eso.
+
+309
+00:23:41,853 --> 00:23:43,252
+El número de serie de todas las armas
+ha sido borrado.
+
+310
+00:23:43,455 --> 00:23:44,752
+La munición también está limpia.
+
+311
+00:23:45,023 --> 00:23:46,251
+No se pudo recuperar nada.
+
+312
+00:23:46,792 --> 00:23:48,589
+Las armas fueron hechas...
+
+313
+00:23:48,794 --> 00:23:50,284
+con partes que son fáciles de comprar.
+
+314
+00:23:50,629 --> 00:23:51,391
+Son también inrastreables.
+
+315
+00:23:52,264 --> 00:23:54,528
+¿Que las partes son fáciles de comprar?
+¿Qué significa eso?
+
+316
+00:23:54,733 --> 00:23:56,792
+Los amantes de las replicas las hacen
+lo más reales posibles,
+
+317
+00:23:57,035 --> 00:23:59,128
+y muchas de sus partes se usan en armas reales.
+
+318
+00:23:59,337 --> 00:24:02,033
+Puedes comprarlas en cualquier 
+juguetería de la ciudad.
+
+319
+00:24:02,240 --> 00:24:03,070
+¿Es eso legal?
+
+320
+00:24:03,708 --> 00:24:06,233
+Muelles, tornillos, disparadores,
+¿Cómo pueden ser ilegal comprar eso?
+
+321
+00:24:06,445 --> 00:24:07,810
+Si no puedes comprarlo, puede hacerlo tú mismo.
+
+322
+00:24:08,146 --> 00:24:10,376
+Encontramos el móvil de uno de los sospechosos.
+
+323
+00:24:10,582 --> 00:24:12,140
+Tarjeta de prepago comprada en la calle.
+
+324
+00:24:12,417 --> 00:24:15,079
+Comprobamos el registro de llamadas,
+y solo había una llamada.
+
+325
+00:24:15,287 --> 00:24:17,721
+Después del atraco,
+el numero no volvió a ser utilizado.
+
+326
+00:24:18,156 --> 00:24:20,420
+El mapa de ruta fue sellado en este sobre.
+
+327
+00:24:20,625 --> 00:24:22,388
+Se le dio al gerente antes del viaje.
+
+328
+00:24:22,594 --> 00:24:24,585
+Él lo abrió cuando estaba dentro del camión blindado.
+
+329
+00:24:24,796 --> 00:24:26,889
+Es decir, nadie debía de conocer
+la ruta de antemano.
+
+330
+00:24:29,668 --> 00:24:30,999
+El camión no siguió la ruta.
+
+331
+00:24:31,670 --> 00:24:32,864
+Fue un trabajo desde dentro.
+
+332
+00:24:35,273 --> 00:24:36,171
+Recuerden,
+
+333
+00:24:36,975 --> 00:24:38,499
+los fallecidos son solos secuaces.
+
+334
+00:24:40,946 --> 00:24:43,210
+Lo importante ahora, es encontrar al cerebro.
+
+335
+00:24:48,854 --> 00:24:51,721
+Esto es un ejemplo de uno de los bonos al portador
+que han desaparecido.
+
+336
+00:24:51,923 --> 00:24:52,890
+Valorados en 400 millones de dólares americanos.
+
+337
+00:24:53,191 --> 00:24:54,852
+Joder, 400 millones...
+
+338
+00:24:55,060 --> 00:24:56,084
+Dejen de soñar.
+
+339
+00:24:57,596 --> 00:25:00,190
+Si el sospechoso X tiene los bonos,
+intentara cambiarlos por efectivo.
+
+340
+00:25:00,432 --> 00:25:02,900
+Hei, contacte con la Unidad de Crímenes Comerciales,
+
+341
+00:25:03,134 --> 00:25:03,828
+y comprueben quien podría estar interesado.
+
+342
+00:25:04,035 --> 00:25:04,729
+¡S¡, señor!
+
+343
+00:25:10,041 --> 00:25:10,735
+¿Qué pasa con él?
+
+344
+00:25:11,109 --> 00:25:11,700
+Esta limpio.
+
+345
+00:25:12,511 --> 00:25:13,603
+¿Lo soltamos, señor?
+
+346
+00:25:18,583 --> 00:25:20,949
+Acusarlo de asesinato y
+posesión de armas de fuego.
+
+347
+00:25:21,186 --> 00:25:21,845
+¿Acusarlo?
+
+348
+00:25:22,754 --> 00:25:23,550
+¿Pasa algo?
+
+349
+00:25:24,556 --> 00:25:27,047
+¡Señor, el salvo a uno de los nuestros!
+
+350
+00:25:27,292 --> 00:25:30,090
+Entonces van a decirme,
+¿qué ley dice que él puede asesinar a alguien?
+
+351
+00:25:30,495 --> 00:25:31,621
+La 101 "Arresto Ciudadano".
+
+352
+00:25:32,063 --> 00:25:33,394
+"Cualquier persona puede arrestar 
+a cualquier persona...
+
+353
+00:25:33,598 --> 00:25:36,123
+que pueda ser razonablemente sospechoso de ser
+culpable de un delito".
+
+354
+00:25:36,368 --> 00:25:37,300
+Y también la 101A.
+
+355
+00:25:37,502 --> 00:25:38,867
+"Una persona podrá usar la fuerza cuando...
+
+356
+00:25:39,070 --> 00:25:41,265
+las circunstancias sea razonable...
+
+357
+00:25:41,473 --> 00:25:42,269
+con el fin de prevenir un crimen".
+
+358
+00:25:44,142 --> 00:25:45,370
+Sera mejor que entiendan que...
+
+359
+00:25:45,777 --> 00:25:48,405
+lo correcto es arrestar, no disparar.
+
+360
+00:25:49,047 --> 00:25:49,843
+Pero, señor...
+
+361
+00:25:50,215 --> 00:25:52,012
+¿cómo piensa que va a reaccionar la opinión pública?
+
+362
+00:25:52,217 --> 00:25:54,014
+¡Los medios de comunicación lo ven como a un héroe!
+
+363
+00:25:55,453 --> 00:25:58,251
+Si lo detenemos seremos los malos,
+toda la opinión pública se volverá contra nosotros.
+
+364
+00:25:58,557 --> 00:26:00,957
+El jefe ya lo decidió,
+ahora la pelota está en los juzgados.
+
+365
+00:26:01,159 --> 00:26:02,524
+Dejemos que el jurado decida.
+
+366
+00:26:02,961 --> 00:26:03,655
+Señor.
+
+367
+00:26:04,029 --> 00:26:06,497
+¿Qué le vamos a decir al departamento de Trafico?
+
+368
+00:26:07,899 --> 00:26:09,696
+Cualquier queja, que se la remitan a la fiscalía.
+
+369
+00:26:15,774 --> 00:26:17,799
+Bien, mañana mejor no coger el coche.
+
+370
+00:26:18,143 --> 00:26:19,872
+Los chicos de tráfico seguro
+que nos van a abrasar a multas.
+
+371
+00:26:20,078 --> 00:26:23,104
+No puedo creérmelo...
+
+372
+00:26:33,959 --> 00:26:35,187
+Volví a leer el libro anoche.
+
+373
+00:26:37,562 --> 00:26:40,030
+Incluso Martin Goodman no pudo encontrar
+motivo a tu delito.
+
+374
+00:26:41,766 --> 00:26:43,859
+Yo creo que no estás envuelto en esto,
+
+375
+00:26:44,469 --> 00:26:46,300
+pero quebrantaste la ley de armas de fuego,
+
+376
+00:26:46,504 --> 00:26:47,334
+y mataste a alguien.
+
+377
+00:26:48,740 --> 00:26:49,638
+Estaba salvando a alguien.
+
+378
+00:26:51,943 --> 00:26:54,844
+Salvando o matando,
+eso no es decisión mía.
+
+379
+00:26:59,517 --> 00:27:00,541
+¿Estoy en un gran lio?
+
+380
+00:27:01,920 --> 00:27:02,909
+¡Muy grande!
+
+381
+00:27:03,555 --> 00:27:06,353
+Sera mejor que lleves a un buen abogado
+mañana al juzgado.
+
+382
+00:27:14,432 --> 00:27:15,228
+¿Cómo va la cosa?
+
+383
+00:27:15,667 --> 00:27:17,100
+Nos reunimos con el juez mañana,
+
+384
+00:27:17,302 --> 00:27:18,462
+para pedirle la libertad bajo fianza.
+
+385
+00:27:19,270 --> 00:27:19,793
+¿Cuánto?
+
+386
+00:27:20,005 --> 00:27:20,630
+100 millones.
+
+387
+00:27:21,940 --> 00:27:23,703
+De acuerdo, envía la solicitud ya.
+
+388
+00:27:24,009 --> 00:27:26,375
+El dinero no será suficiente,
+incluye sus posesiones y sus honorarios.
+
+389
+00:27:26,645 --> 00:27:27,270
+Eso ya está preparado.
+
+390
+00:27:27,479 --> 00:27:29,572
+Por cierto, necesitaremos a un par
+de avalistas de alto perfil.
+
+391
+00:27:29,814 --> 00:27:30,439
+Me encargare de eso.
+
+392
+00:27:30,649 --> 00:27:31,741
+Muy bien, nos mantendremos en contacto.
+
+393
+00:27:32,550 --> 00:27:33,107
+¡Adiós!
+
+394
+00:27:33,351 --> 00:27:35,444
+Señorita Shaw, este caso no es sencillo.
+
+395
+00:27:35,820 --> 00:27:36,980
+El no va a ser puesto en libertad tan fácilmente.
+
+396
+00:27:37,455 --> 00:27:38,444
+¿Qué pasa con sus cuentas?
+
+397
+00:27:40,492 --> 00:27:41,288
+¿Quieres cogerlas también?
+
+398
+00:27:42,193 --> 00:27:43,160
+Eso no es lo que quería decir.
+
+399
+00:27:43,361 --> 00:27:44,988
+Nosotros tenemos un sistema
+totalmente automatizado.
+
+400
+00:27:45,196 --> 00:27:47,323
+Los cambios solo se efectúan si el precio
+es el marcado de antemano.
+
+401
+00:27:47,732 --> 00:27:48,494
+Entonces, ¿cuál es el problema?
+
+402
+00:27:48,933 --> 00:27:50,833
+Solo estoy diciendo,
+en el caso que sus clientes llamen...
+
+403
+00:27:51,036 --> 00:27:52,435
+Si sus clientes llaman,
+
+404
+00:27:52,937 --> 00:27:54,199
+solo diles que yo estoy al mando.
+
+405
+00:27:55,607 --> 00:27:56,539
+¿Lo entendiste?
+
+406
+00:27:56,741 --> 00:27:57,400
+Sí.
+
+407
+00:27:57,976 --> 00:27:58,840
+Entonces, ¿por qué sigues aun aquí?
+
+408
+00:28:08,953 --> 00:28:11,979
+Ken Kwan el cual fue acusado de asesinato y
+uso ilegal de arma de fuego...
+
+409
+00:28:12,190 --> 00:28:12,952
+estuvo hoy en la corte judicial.
+
+410
+00:28:13,158 --> 00:28:15,388
+Su abogado deposito una fianza record
+de 100 millones de dólares,
+
+411
+00:28:15,593 --> 00:28:18,289
+gracias al apoyo de 7 grandes avalistas,
+
+412
+00:28:18,496 --> 00:28:19,588
+por lo cual fue puesto en libertad.
+
+413
+00:28:19,931 --> 00:28:22,900
+Entre ellos se encuentran Kevin Leung,
+Vicepresidente del Banco Bolton.
+
+414
+00:28:23,101 --> 00:28:25,569
+y Anna Shaw,
+presidenta del Grupo Universal de Inversión...
+
+415
+00:28:26,671 --> 00:28:27,467
+¿Estás bien?
+
+416
+00:28:28,139 --> 00:28:28,730
+Gracias.
+
+417
+00:28:29,774 --> 00:28:30,832
+Cierre la cortina.
+
+418
+00:28:32,844 --> 00:28:34,072
+¿Acabas de darme las gracias?
+
+419
+00:28:36,314 --> 00:28:38,407
+Debes estar hambriento,
+¿qué te gustaría?
+
+420
+00:28:39,551 --> 00:28:40,449
+Sólo quiero dormir.
+
+421
+00:28:41,619 --> 00:28:42,950
+No podemos volver todavía.
+
+422
+00:28:43,988 --> 00:28:46,320
+Ming, conduce por los alrededores de Repulse Bay,
+
+423
+00:28:46,524 --> 00:28:47,582
+antes de ir a casa.
+
+424
+00:28:55,433 --> 00:28:58,732
+Pasa por estas espadas,
+te quitaran tu mala suerte.
+
+425
+00:29:00,638 --> 00:29:01,662
+¿Desde cuándo te has vuelto supersticiosa?
+
+426
+00:29:04,075 --> 00:29:05,269
+Me estaré haciendo vieja, supongo.
+
+427
+00:29:06,511 --> 00:29:08,809
+Cuando te das cuenta que con las probabilidades
+no siempre ganas,
+
+428
+00:29:09,414 --> 00:29:10,312
+te conviertes en supersticiosa.
+
+429
+00:29:13,051 --> 00:29:13,847
+¿Has perdido mucho?
+
+430
+00:29:17,355 --> 00:29:18,515
+Debido a lo que está pasando,
+
+431
+00:29:19,491 --> 00:29:21,288
+no he tenido tiempo para controlar al equipo.
+
+432
+00:29:22,127 --> 00:29:24,925
+Ellos compraron en Euros y
+hemos perdido mucho tiempo.
+
+433
+00:29:27,098 --> 00:29:27,996
+A primera hora de la mañana,
+
+434
+00:29:28,833 --> 00:29:30,824
+tengo que dar explicaciones en Londres.
+
+435
+00:29:31,803 --> 00:29:34,101
+Dile a Susan que te reserve un billete cuando pueda.
+
+436
+00:29:34,773 --> 00:29:36,400
+Mi agenda es hasta el...
+
+437
+00:29:36,708 --> 00:29:37,606
+miércoles.
+
+438
+00:29:38,176 --> 00:29:39,803
+Luego solo estaremos tú y yo.
+
+439
+00:29:41,379 --> 00:29:42,368
+No puedo salir de la ciudad.
+
+440
+00:29:48,086 --> 00:29:49,849
+¿Entonces te quedarás conmigo esta noche?
+
+441
+00:29:54,659 --> 00:29:55,785
+Te perdí.
+
+442
+00:29:58,997 --> 00:30:00,055
+¿No tienes nada que preguntarme?
+
+443
+00:30:01,666 --> 00:30:02,655
+¿Es necesario?
+
+444
+00:30:07,672 --> 00:30:08,696
+Iré a darme una ducha.
+
+445
+00:30:09,240 --> 00:30:12,209
+Y tira todas estas ropas viejas.
+
+446
+00:30:49,380 --> 00:30:50,039
+Señor Kwan.
+
+447
+00:32:55,273 --> 00:32:56,331
+No le molestes.
+
+448
+00:32:58,843 --> 00:33:00,401
+El médico dijo que él está estable.
+
+449
+00:33:00,878 --> 00:33:03,870
+Una vez un paciente se despertó después
+de estar dos años en coma.
+
+450
+00:33:04,849 --> 00:33:06,043
+Así que no te preocupes.
+
+451
+00:33:07,652 --> 00:33:09,142
+Si hay algún cambio,
+
+452
+00:33:10,688 --> 00:33:11,677
+dímelo.
+
+453
+00:33:31,409 --> 00:33:34,207
+Señor Kwan,
+¿Cuánto tiempo lleva disparando?
+
+454
+00:33:34,612 --> 00:33:35,271
+Cinco años.
+
+455
+00:33:35,880 --> 00:33:37,211
+¿Por qué esta tan interesado en ese deporte?
+
+456
+00:33:37,682 --> 00:33:39,172
+Tiene unas características similares a mi trabajo.
+
+457
+00:33:39,417 --> 00:33:41,851
+Requiere completa concentración y precisión.
+
+458
+00:33:42,286 --> 00:33:43,412
+¿Entonces porque no eligió el golf?
+
+459
+00:33:43,654 --> 00:33:44,814
+El golf es lo mismo.
+
+460
+00:33:46,257 --> 00:33:49,420
+Al igual que el fútbol o la natación,
+es una preferencia personal.
+
+461
+00:33:50,194 --> 00:33:51,456
+¿Tiene usted tendencia a la violencia?
+
+462
+00:33:52,163 --> 00:33:52,822
+No, que va.
+
+463
+00:33:53,031 --> 00:33:53,725
+¿No?
+
+464
+00:33:53,965 --> 00:33:55,830
+Entonces, ¿por qué trato a los sospechosos
+como blancos,
+
+465
+00:33:56,034 --> 00:33:57,558
+y les disparo varias veces a cada uno de ellos?
+
+466
+00:33:57,802 --> 00:33:58,632
+Su señoría,
+
+467
+00:33:59,737 --> 00:34:03,901
+Hong Kong tiene 2286 personas
+con licencias de armas.
+
+468
+00:34:04,108 --> 00:34:07,509
+El fiscal va a asumir que todo ellos
+tienen tendencia a la violencia.
+
+469
+00:34:07,812 --> 00:34:08,642
+Puedo responder a eso.
+
+470
+00:34:09,881 --> 00:34:10,575
+Es un acto reflejo,
+
+471
+00:34:11,315 --> 00:34:13,681
+en el Tiro Táctico se hace múltiples disparos.
+
+472
+00:34:14,085 --> 00:34:16,178
+El objetivo es garantizar el blanco.
+
+473
+00:34:16,654 --> 00:34:18,952
+Entonces cuando dispara a un hombre,
+¿usted está pensando que está en una competición?
+
+474
+00:34:19,157 --> 00:34:19,851
+No.
+
+475
+00:34:20,925 --> 00:34:23,325
+No lo sé porque no he estado en el ejército.
+
+476
+00:34:23,828 --> 00:34:25,796
+Pero el entrenamiento debe ser bastante similar.
+
+477
+00:34:26,364 --> 00:34:29,765
+Los múltiples disparos merman las habilidades
+del oponente para devolverte los disparos.
+
+478
+00:34:30,401 --> 00:34:31,595
+Las Fuerzas Especiales son entrenadas
+de esta manera.
+
+479
+00:34:34,639 --> 00:34:35,731
+¿Podría decirme...
+
+480
+00:34:35,940 --> 00:34:39,000
+si cuando dispara a un hombre o un blanco...
+
+481
+00:34:39,210 --> 00:34:40,108
+se siente lo mismo?
+
+482
+00:34:40,478 --> 00:34:41,308
+Su señoría...
+
+483
+00:34:42,213 --> 00:34:43,043
+Señor Chan,
+
+484
+00:34:43,614 --> 00:34:45,013
+no veo a donde quiere ir a llegar
+con esa pregunta.
+
+485
+00:34:45,316 --> 00:34:46,874
+Hare otro pregunta, su señoría.
+
+486
+00:34:49,754 --> 00:34:51,881
+¿Se da cuenta que las armas pueden matar?
+
+487
+00:34:52,590 --> 00:34:55,388
+Sí, me doy cuenta.
+
+488
+00:34:56,227 --> 00:34:57,717
+¿Alguna vez ha fantaseado con matar a alguien?
+
+489
+00:35:02,600 --> 00:35:03,328
+Sí.
+
+490
+00:35:03,601 --> 00:35:04,533
+¿Alguna vez fantaseó,
+
+491
+00:35:04,735 --> 00:35:06,259
+con disparar al cuerpo de una persona?
+
+492
+00:35:08,005 --> 00:35:08,664
+Sí.
+
+493
+00:35:09,474 --> 00:35:11,772
+¿Puede describirnos sus fantasías?
+
+494
+00:35:13,644 --> 00:35:15,111
+Creo que la mayoría de los jóvenes,
+
+495
+00:35:15,580 --> 00:35:17,514
+crece viendo imágenes de asesinatos,
+
+496
+00:35:18,916 --> 00:35:21,111
+de las películas, las noticias...
+
+497
+00:35:21,819 --> 00:35:24,845
+He imaginado como seria dispararle a alguien.
+
+498
+00:35:25,857 --> 00:35:27,825
+Pero después de experimentar el Tiro Táctico,
+
+499
+00:35:29,127 --> 00:35:30,651
+después de tener un arma entre las manos,
+
+500
+00:35:31,028 --> 00:35:33,553
+y comprobar lo poderosa y peligrosa que es,
+
+501
+00:35:34,365 --> 00:35:37,027
+esos pensamientos nunca volvieron a aparecer.
+
+502
+00:35:46,177 --> 00:35:47,542
+Los intereses de una persona,
+
+503
+00:35:47,778 --> 00:35:49,405
+pueden reflejar su carácter y su personalidad,
+
+504
+00:35:49,614 --> 00:35:50,478
+¿está de acuerdo?
+
+505
+00:35:51,182 --> 00:35:52,945
+Yo se que usted estudio psicología,
+
+506
+00:35:53,151 --> 00:35:54,641
+y estoy seguro que puede responder a esta pregunta.
+
+507
+00:35:55,486 --> 00:35:56,214
+Sí, estoy de acuerdo.
+
+508
+00:35:59,690 --> 00:36:00,588
+Entonces se da cuenta...
+
+509
+00:36:00,791 --> 00:36:04,420
+¿que cuando una persona le dispara a un blanco con
+forma humana durante mucho tiempo...
+
+510
+00:36:04,662 --> 00:36:07,358
+eso incrementa inconscientemente
+su tendencia a matar?
+
+511
+00:36:07,632 --> 00:36:08,326
+Lo sé.
+
+512
+00:36:09,000 --> 00:36:12,367
+Por lo cual para reducir esto,
+
+513
+00:36:12,603 --> 00:36:14,901
+y poder acceder a las Olimpiadas,
+
+514
+00:36:15,239 --> 00:36:18,265
+hace tiempo que no se usan blancos
+con forma humana.
+
+515
+00:36:27,385 --> 00:36:30,047
+Señor Chan,
+¿podría ser más directo con sus preguntas?
+
+516
+00:36:30,588 --> 00:36:31,816
+Sí, su señoría.
+
+517
+00:36:34,158 --> 00:36:37,355
+¿Está familiarizado con la ordenanza sobre
+las Armas de Fuego?
+
+518
+00:36:37,562 --> 00:36:38,290
+Por supuesto.
+
+519
+00:36:38,596 --> 00:36:42,054
+Sabe usted, ¿que a no ser en un club de tiro o
+en una competición,
+
+520
+00:36:42,266 --> 00:36:44,325
+usted no tiene ningún derecho a usar armas de fuego?
+
+521
+00:36:44,535 --> 00:36:45,502
+Lo sé, pero en aquel momento...
+
+522
+00:36:45,703 --> 00:36:47,102
+¡Es una respuesta sencilla!
+
+523
+00:36:47,305 --> 00:36:49,899
+Su señoría, el acusado tiene derecho a dar detalles.
+
+524
+00:36:50,841 --> 00:36:51,865
+Usted puede continuar.
+
+525
+00:36:58,316 --> 00:36:59,681
+Mientras estaba bajo custodia,
+
+526
+00:37:01,185 --> 00:37:02,209
+yo no podía dormir.
+
+527
+00:37:05,089 --> 00:37:06,579
+Seguía preguntadme a mí mismo...
+
+528
+00:37:06,791 --> 00:37:07,849
+si había hecho lo correcto.
+
+529
+00:37:09,961 --> 00:37:11,121
+Y no dejaba de pensar,
+
+530
+00:37:12,163 --> 00:37:14,631
+¿por qué no había dado la vuelta al coche
+y me había ido?
+
+531
+00:37:15,900 --> 00:37:17,527
+Yo sabía que si disparaba tendría muchos problemas,
+
+532
+00:37:18,469 --> 00:37:19,663
+¿entonces porque elegí esa opción?
+
+533
+00:37:21,973 --> 00:37:22,769
+Al final,
+
+534
+00:37:23,474 --> 00:37:24,771
+deje de culparme a mí mismo.
+
+535
+00:37:26,978 --> 00:37:28,343
+Porque sé que si no hubiese disparado...
+
+536
+00:37:29,380 --> 00:37:31,280
+el policía estaría muerto.
+
+537
+00:37:32,783 --> 00:37:34,114
+Mi intención fue salvar una vida,
+
+538
+00:37:36,087 --> 00:37:37,554
+y que no había vuelta atrás.
+
+539
+00:37:39,890 --> 00:37:41,482
+Si volviese a suceder lo mismo,
+
+540
+00:37:42,226 --> 00:37:43,693
+creo,
+
+541
+00:37:44,028 --> 00:37:45,290
+que volvería a hacer lo mismo.
+
+542
+00:37:50,468 --> 00:37:52,868
+Su señoría, claramente,
+
+543
+00:37:53,337 --> 00:37:54,804
+el fiscal trata de establecer que el acusado...
+
+544
+00:37:55,006 --> 00:37:57,406
+lleva siendo un tirador desde hace mucho tiempo,
+
+545
+00:37:57,708 --> 00:38:00,336
+un loco asesino que dispara a la gente solo
+para su propia diversión.
+
+546
+00:38:00,745 --> 00:38:02,736
+No creo que el fiscal necesite...
+
+547
+00:38:03,214 --> 00:38:06,843
+usar terminología tan severa para difamar a mi cliente.
+
+548
+00:38:07,218 --> 00:38:10,984
+Porque sin ningún género de dudas mi cliente
+quebranto la ley sobre armas de fuego.
+
+549
+00:38:11,289 --> 00:38:13,223
+Sin embargo, quizás deba recordarles,
+
+550
+00:38:13,491 --> 00:38:16,187
+que hemos hecho las leyes con unos
+principios e intenciones claras.
+
+551
+00:38:16,460 --> 00:38:19,395
+Como la de proteger la vida de las personas
+y sus propiedades.
+
+552
+00:38:20,064 --> 00:38:24,364
+La ley no son solos palabras,
+si nosotros anteponemos la ley a la gente,
+
+553
+00:38:24,735 --> 00:38:28,432
+entonces la ley perdería su significado fundamental.
+
+554
+00:38:31,108 --> 00:38:32,598
+Pensemos en esto.
+
+555
+00:38:33,811 --> 00:38:36,439
+Si nosotros viésemos a un agente de policía...
+
+556
+00:38:36,647 --> 00:38:38,342
+a punto de ser asesinado por unos delincuentes.
+
+557
+00:38:39,617 --> 00:38:41,244
+¿No queríamos salvarlo?
+
+558
+00:38:41,819 --> 00:38:44,117
+Creo que la mayoría lo quería.
+
+559
+00:38:44,655 --> 00:38:48,489
+Pero, ¿tendríamos el coraje para hacerlo?
+
+560
+00:38:48,759 --> 00:38:51,819
+Honestamente puedo decir que
+la mayoría de nosotros no lo tendríamos.
+
+561
+00:38:52,897 --> 00:38:54,364
+El ha cometido un crimen.
+
+562
+00:38:54,732 --> 00:38:56,222
+Pero nadie puede negar el hecho,
+
+563
+00:38:56,701 --> 00:38:58,635
+que con un coraje extraordinario,
+
+564
+00:38:58,936 --> 00:39:02,599
+el solo hizo lo que cualquier persona con un
+mínimo de decencia hubiese hecho.
+
+565
+00:39:03,174 --> 00:39:04,004
+Por desgracia,
+
+566
+00:39:04,675 --> 00:39:06,768
+su acusación no es por la falta de moralidad,
+
+567
+00:39:06,977 --> 00:39:09,844
+sino por la ley sobre Armas de Fuego.
+
+568
+00:39:11,115 --> 00:39:12,047
+Me gustaría que ustedes supiesen,
+
+569
+00:39:12,583 --> 00:39:16,679
+que casos similares en muchos otros países
+son legales.
+
+570
+00:39:16,887 --> 00:39:19,151
+Incluso no son ni motivo de enjuiciamiento.
+
+571
+00:39:19,623 --> 00:39:21,921
+Si ese día el hubiese usado sus puños,
+
+572
+00:39:22,426 --> 00:39:25,691
+o un palo para salvar la vida al agente de policía,
+
+573
+00:39:25,930 --> 00:39:29,388
+él no estaría en este momento en esta situación.
+
+574
+00:39:29,867 --> 00:39:31,664
+Si por causa de una ley,
+
+575
+00:39:31,869 --> 00:39:33,860
+se nos impide salvar la vida de un agente de policía,
+
+576
+00:39:34,205 --> 00:39:36,070
+¿no sería eso ridículo?
+
+577
+00:39:37,341 --> 00:39:40,504
+Su señoría, un caso como este no tiene precedentes.
+
+578
+00:39:41,112 --> 00:39:42,136
+El resultado de este juicio...
+
+579
+00:39:42,346 --> 00:39:45,474
+creara un precedente para futuros juicios.
+
+580
+00:39:47,385 --> 00:39:50,286
+Por lo cual, apelo a los miembros del jurado,
+
+581
+00:39:51,389 --> 00:39:53,584
+para que encuentre "no culpable" a mi cliente.
+
+582
+00:39:54,258 --> 00:39:57,557
+Este caso está causando mucha controversia.
+
+583
+00:39:57,762 --> 00:39:59,127
+Tenemos con nosotros al profesor Lau...
+
+584
+00:39:59,330 --> 00:40:00,991
+el cual nos ayudara a analizar este caso.
+
+585
+00:40:01,298 --> 00:40:03,732
+Profesor Lau,
+el jurado lleva deliberando más de 6 horas.
+
+586
+00:40:03,934 --> 00:40:04,662
+¿Cuál es su opinión al respecto?
+
+587
+00:40:05,202 --> 00:40:07,466
+Debe ser muy difícil para el jurado,
+
+588
+00:40:07,671 --> 00:40:09,263
+no dejarse influir por los medios de comunicación.
+
+589
+00:40:09,607 --> 00:40:13,099
+Estoy seguro de que esto es un tira y afloja
+entre la lógica y la emoción.
+
+590
+00:40:13,711 --> 00:40:16,839
+Yo creo que si el juez les recordara,
+
+591
+00:40:17,047 --> 00:40:18,275
+que tienen que hacer cumplir la ley.
+
+592
+00:40:23,154 --> 00:40:23,882
+¡Levántense!
+
+593
+00:40:27,925 --> 00:40:29,517
+¿Ya tiene el jurado un veredicto?
+
+594
+00:40:32,963 --> 00:40:34,089
+Hemos acordado por unanimidad que,
+
+595
+00:40:34,432 --> 00:40:37,595
+por la acusación de uso ilegal de arma de fuego
+y los tres cargos de asesinato,
+
+596
+00:40:37,868 --> 00:40:38,562
+el acusado es "no culpable"
+
+597
+00:40:39,370 --> 00:40:42,430
+Este tribunal considera al acusado "no culpable"
+por lo cual deberá ser puesto en libertad.
+
+598
+00:40:43,140 --> 00:40:46,439
+Este tribunal quieres agradecer a los miembros
+del jurado el tiempo que han dedicado a este caso.
+
+599
+00:40:46,710 --> 00:40:47,404
+¡Cuidado!
+
+600
+00:40:48,312 --> 00:40:49,370
+Felicidades señor Kwan.
+
+601
+00:40:53,150 --> 00:40:53,912
+Nos vemos en el campo de tiro.
+
+602
+00:40:57,087 --> 00:40:58,486
+Señor Kwan rápido, hay un montón de periodistas.
+
+603
+00:41:03,027 --> 00:41:04,324
+¿Puede hablar con nosotros?
+
+604
+00:41:04,528 --> 00:41:05,722
+¿Puede decirnos como se siente ahora mismo?
+
+605
+00:41:05,930 --> 00:41:08,763
+Señor Kwan,
+puede hacernos algún comentario por favor...
+
+606
+00:41:08,966 --> 00:41:10,729
+¿Cuál es su opinión sobre el veredicto profesor Lau?
+
+607
+00:41:10,935 --> 00:41:12,835
+Este veredicto es totalmente inaceptable,
+
+608
+00:41:13,037 --> 00:41:15,403
+el juez no le dio al jurado una orientación adecuada.
+
+609
+00:41:15,840 --> 00:41:17,535
+Yo creo que el Gobierno se reunirá con el fiscal,
+
+610
+00:41:17,741 --> 00:41:18,264
+y propondrá una apelación.
+
+611
+00:41:18,476 --> 00:41:20,103
+Si hay una apelación,
+¿cómo cree que deberán enfocar el asunto?
+
+612
+00:41:20,311 --> 00:41:22,609
+Lo siento, no vamos hacer comentarios sobre eso...
+
+613
+00:41:38,596 --> 00:41:39,426
+¿Qué es esto?
+
+614
+00:41:40,831 --> 00:41:42,230
+Jugando a pescar.
+
+615
+00:41:42,867 --> 00:41:44,198
+Oye, estoy de vacaciones.
+
+616
+00:41:44,401 --> 00:41:46,164
+¿De vacaciones?
+¿Por qué no estás en tu fiesta?
+
+617
+00:41:46,704 --> 00:41:49,434
+Si quisiese una fiesta,
+no me hubiesen transferido aquí.
+
+618
+00:41:51,275 --> 00:41:52,207
+¿Algo de pesca?
+
+619
+00:41:52,610 --> 00:41:53,440
+¡Un montón!
+
+620
+00:41:54,078 --> 00:41:55,773
+¡Truchas! ¡Lubinas!
+
+621
+00:41:56,247 --> 00:41:57,509
+Incluso calamares.
+
+622
+00:41:59,083 --> 00:41:59,742
+¡Oye!
+
+623
+00:42:00,284 --> 00:42:01,444
+¡Se te ve fantástico!
+
+624
+00:42:01,986 --> 00:42:02,645
+No puedo dormir.
+
+625
+00:42:04,855 --> 00:42:06,322
+¿Un caso realmente difícil?
+
+626
+00:42:07,324 --> 00:42:08,348
+No más que otros.
+
+627
+00:42:08,926 --> 00:42:10,291
+¿Y por eso vienes a verme ahora?
+
+628
+00:42:11,262 --> 00:42:12,889
+Vamos, tomate un descanso.
+
+629
+00:42:13,564 --> 00:42:16,431
+Vine a visitarte y a tomar algo de aire fresco,
+eso es todo.
+
+630
+00:42:17,902 --> 00:42:18,732
+¡Nueva edición!
+
+631
+00:42:18,936 --> 00:42:21,905
+¿Psicología?
+Hacía años que no leías sobre eso.
+
+632
+00:42:22,139 --> 00:42:22,901
+¿De verdad?
+
+633
+00:42:25,509 --> 00:42:27,602
+Oí que superaste mi record.
+
+634
+00:42:28,779 --> 00:42:29,575
+Los mismos puntos,
+
+635
+00:42:30,147 --> 00:42:31,341
+pero 00.6 segundos mejor.
+
+636
+00:42:31,949 --> 00:42:33,473
+Pero lo superaron por 0,31 segundos.
+
+637
+00:42:34,919 --> 00:42:36,250
+¿Eso significa que perdí casi un segundo?
+
+638
+00:42:39,757 --> 00:42:40,815
+Bueno, qué importa.
+
+639
+00:42:41,926 --> 00:42:43,416
+He tenido ese record durante muchos años.
+
+640
+00:42:44,295 --> 00:42:45,262
+Ya era hora.
+
+641
+00:42:46,730 --> 00:42:47,788
+El tuvo suerte.
+
+642
+00:42:48,399 --> 00:42:50,162
+El hizo un Triple Tap al final.
+
+643
+00:42:51,135 --> 00:42:52,124
+¿Qué te crees que estás jugando al golf?
+
+644
+00:42:52,770 --> 00:42:54,328
+¡Un "hoyo en uno" es suerte!
+
+645
+00:42:55,339 --> 00:42:56,738
+Un Triple Tap,
+
+646
+00:42:57,074 --> 00:42:58,268
+no tiene nada que ver con las manos.
+
+647
+00:43:00,411 --> 00:43:01,241
+Es sobre el instinto.
+
+648
+00:43:02,513 --> 00:43:04,845
+Como en las películas,
+¿"hombre" y "arma" se convierten en uno?
+
+649
+00:43:05,950 --> 00:43:08,316
+La habilidad requiere interminables prácticas.
+
+650
+00:43:08,953 --> 00:43:10,477
+Después de que obtienes una absoluta confianza,
+
+651
+00:43:11,155 --> 00:43:12,622
+el instinto te hará escoger los movimientos...
+
+652
+00:43:13,424 --> 00:43:14,982
+sin ninguna vacilación.
+
+653
+00:43:15,392 --> 00:43:16,359
+¡Wow, eso es Zen!
+
+654
+00:43:17,261 --> 00:43:18,751
+Lo entenderás cuando alcances ese nivel.
+
+655
+00:43:20,531 --> 00:43:21,429
+¿Es eso verdad?
+
+656
+00:43:22,232 --> 00:43:23,028
+¿Hiciste eso?
+
+657
+00:43:26,270 --> 00:43:27,294
+¿De verdad quieres ganarle?
+
+658
+00:43:27,638 --> 00:43:28,332
+¿Como si no lo supieses?
+
+659
+00:43:28,639 --> 00:43:29,867
+No parezcas tan desesperado.
+
+660
+00:43:30,574 --> 00:43:31,404
+¿Por qué?
+
+661
+00:43:33,611 --> 00:43:35,169
+Si hay un duelo,
+
+662
+00:43:35,746 --> 00:43:37,805
+medio segundo no significa nada.
+
+663
+00:43:39,216 --> 00:43:40,740
+Ambos recibirán el disparo y
+será el final de todas formas.
+
+664
+00:43:44,922 --> 00:43:46,116
+¿Seguro que está limpio?
+
+665
+00:43:46,724 --> 00:43:47,418
+¿Quién?
+
+666
+00:43:47,992 --> 00:43:49,516
+¡El tío qué nos gano!
+
+667
+00:43:49,793 --> 00:43:50,725
+¡No hay nada!
+
+668
+00:43:50,995 --> 00:43:52,394
+Nada sospechoso y no obtuve motivos.
+
+669
+00:43:52,963 --> 00:43:53,987
+¡Y el esta forrado!
+
+670
+00:43:54,298 --> 00:43:55,890
+¡Los billonarios también están forrados!
+
+671
+00:43:56,867 --> 00:43:57,993
+¿No estarás pensado abandonar?
+
+672
+00:44:01,305 --> 00:44:02,397
+¡No puedo!
+
+673
+00:44:42,413 --> 00:44:43,107
+¿Entonces?
+
+674
+00:44:43,847 --> 00:44:44,973
+¿Cuál es su mentalidad criminal?
+
+675
+00:44:47,685 --> 00:44:49,482
+Yo solo estaba tomando un poco el fresco.
+
+676
+00:44:52,189 --> 00:44:53,019
+Señor, le he cortado un poco para que lo pruebe.
+
+677
+00:44:53,724 --> 00:44:54,918
+¡Hoy está realmente fresco!
+
+678
+00:44:57,461 --> 00:44:59,190
+Cortare otro trozo,
+y se lo traeré para él.
+
+679
+00:44:59,830 --> 00:45:01,388
+Hey, aquí somos dos,
+consigue otros palillos.
+
+680
+00:45:01,598 --> 00:45:02,292
+De acuerdo.
+
+681
+00:45:05,969 --> 00:45:06,663
+Dime...
+
+682
+00:45:07,738 --> 00:45:09,365
+Si supongo que aquí no hay peces,
+
+683
+00:45:10,874 --> 00:45:12,933
+¿cómo puedo estar comiendo... sashimi?
+
+684
+00:45:17,681 --> 00:45:18,443
+¡Delicioso!
+
+685
+00:45:23,554 --> 00:45:24,213
+Señoras y señores,
+
+686
+00:45:24,855 --> 00:45:26,152
+La Asociación de Inversores Asiáticos...
+
+687
+00:45:26,356 --> 00:45:27,846
+tiene el gusto de entregarle nuestro galardón anual...
+
+688
+00:45:28,192 --> 00:45:31,218
+a uno de nuestros asociados,
+por su buen juicio, su creatividad...
+
+689
+00:45:31,428 --> 00:45:33,123
+y por todas sus decisiones.
+
+690
+00:45:33,664 --> 00:45:35,427
+Esta noche, el galardonado es alguien muy especial.
+
+691
+00:45:35,699 --> 00:45:37,758
+No solo se trata de su segundo premio,
+
+692
+00:45:37,968 --> 00:45:41,233
+sino que es cuatro veces campeón
+de la competición HKSC.
+
+693
+00:45:41,605 --> 00:45:42,970
+Demos una calurosa bienvenida,
+
+694
+00:45:43,173 --> 00:45:46,074
+a nuestro "Mejor Gestor de Finanzas
+de Asuntos Exteriores",
+
+695
+00:45:46,343 --> 00:45:48,971
+a nuestro campeón de Tiro Táctico,
+¡El Señor Ken Kwan!
+
+696
+00:45:53,684 --> 00:45:56,380
+Asimismo, le pedimos a nuestro presidente que venga
+y entregue este premio.
+
+697
+00:46:10,000 --> 00:46:12,491
+Actualmente en la vida no hay muchos momentos...
+
+698
+00:46:13,003 --> 00:46:15,164
+que nos permitan pensar y ser analíticos.
+
+699
+00:46:17,574 --> 00:46:19,098
+Ya sea para invertir o para salvar una vida,
+
+700
+00:46:19,309 --> 00:46:20,435
+cuando el tiempo es el correcto,
+
+701
+00:46:21,078 --> 00:46:22,807
+uno tiene que actuar sin vacilar.
+
+702
+00:46:23,113 --> 00:46:25,877
+Me gustaría dar la gracias al jurado,
+a todos mi compañeros de oficina,
+
+703
+00:46:26,083 --> 00:46:27,107
+y a mi jefa,
+
+704
+00:46:27,384 --> 00:46:28,316
+la señorita Anna Shaw.
+
+705
+00:46:28,652 --> 00:46:29,448
+Gracias.
+
+706
+00:46:33,724 --> 00:46:34,713
+- ¡Enhorabuena!
+- Gracias.
+
+707
+00:46:35,559 --> 00:46:36,924
+¡Enhorabuena!
+
+708
+00:46:37,227 --> 00:46:38,854
+- ¡Enhorabuena, Anna!
+- Gracias.
+
+709
+00:46:40,898 --> 00:46:41,694
+¡Enhorabuena!
+
+710
+00:46:44,635 --> 00:46:45,567
+Todo el mundo sabe...
+
+711
+00:46:46,136 --> 00:46:47,535
+que tu eres quien está detrás de todo esto.
+
+712
+00:46:48,105 --> 00:46:49,766
+Deberían darte las gracias a ti
+por recibir este premio.
+
+713
+00:46:50,307 --> 00:46:51,001
+¿Podemos irnos ya?
+
+714
+00:46:52,176 --> 00:46:53,438
+No seas infantil.
+
+715
+00:46:53,911 --> 00:46:55,936
+Toda la gente que está aquí,
+puede ayudarte de muchas formas.
+
+716
+00:46:56,180 --> 00:46:57,374
+Señorita Shaw, llevaba tiempo si verla.
+
+717
+00:46:57,581 --> 00:46:58,741
+- ¡Hola! ¿Como estas?
+- ¡Muy bien!
+
+718
+00:46:58,949 --> 00:46:59,916
+Señor Kwan, felicidades.
+
+719
+00:47:01,552 --> 00:47:04,248
+Después de la crisis financiera,
+todavía hay mucho dinero por ahí afuera.
+
+720
+00:47:04,621 --> 00:47:07,590
+Los rusos no quieren tener su dinero
+bloqueado en Europa.
+
+721
+00:47:07,791 --> 00:47:08,780
+¡Ellos están cambiando mucho dinero aquí!
+
+722
+00:47:09,660 --> 00:47:10,718
+¡Tenga cuidado con el dinero sucio!
+
+723
+00:47:10,961 --> 00:47:11,552
+Señor Ko.
+
+724
+00:47:11,995 --> 00:47:14,293
+¿Entonces que hay mucho dinero para blanquear?
+
+725
+00:47:15,232 --> 00:47:15,857
+Por supuesto.
+
+726
+00:47:16,567 --> 00:47:18,967
+En los viejos tiempos,
+si había un billete de lotería premiado,
+
+727
+00:47:19,169 --> 00:47:21,467
+los inspectores de policía ofrecían mucho dinero
+para poder comprarlo.
+
+728
+00:47:21,738 --> 00:47:24,104
+Reclamaban el premio,
+y sus bolsillos estaban limpios como una patena.
+
+729
+00:47:24,575 --> 00:47:26,008
+Después estaban los casinos flotantes,
+
+730
+00:47:26,210 --> 00:47:27,040
+que eran aun más convenientes.
+
+731
+00:47:27,311 --> 00:47:29,176
+Montabas en el barco,
+y con un par de jugadas de ruleta...
+
+732
+00:47:30,314 --> 00:47:31,542
+¿Quién estaba ahí para averiguarlo?
+
+733
+00:47:31,982 --> 00:47:33,244
+¿Qué clase de gente eran?
+
+734
+00:47:33,450 --> 00:47:34,883
+Evasores de impuestos y corruptos de todo tipo.
+
+735
+00:47:35,419 --> 00:47:38,320
+Por aquel entonces,
+el 30% estaba metido en asuntos turbios.
+
+736
+00:47:39,022 --> 00:47:40,717
+Cuando la ley se volvió más dura.
+
+737
+00:47:40,924 --> 00:47:42,448
+el coste para limpiar el dinero subió.
+
+738
+00:47:43,293 --> 00:47:44,954
+Para hacer una "ruleta" en estos tiempos,
+
+739
+00:47:45,762 --> 00:47:47,855
+oí que solo te quedas con el 30% después
+de blanquearlo.
+
+740
+00:47:48,065 --> 00:47:49,396
+¡Solo eso!
+
+741
+00:47:49,833 --> 00:47:51,425
+¿Se quedan el 70%?
+Yo lo haría.
+
+742
+00:47:51,635 --> 00:47:52,533
+¡No bromees con eso!
+
+743
+00:47:53,036 --> 00:47:55,095
+La Autoridad Monetaria te está escuchando,
+deberías tener más cuidado.
+
+744
+00:47:56,273 --> 00:47:57,001
+Anna.
+
+745
+00:47:57,708 --> 00:47:59,005
+Dame un precio ahora mismo.
+
+746
+00:47:59,209 --> 00:48:00,437
+Yo debo tener a este tío.
+
+747
+00:48:01,812 --> 00:48:03,905
+Te daré 3 años de tu sueldo por adelantado,
+
+748
+00:48:04,147 --> 00:48:05,478
+si comienzas mañana mismo.
+
+749
+00:48:05,883 --> 00:48:09,284
+Joyce, en toda tu vida podrás tener a mi chico.
+
+750
+00:48:09,486 --> 00:48:12,614
+En esta ciudad, todo el mundo tiene un precio.
+
+751
+00:48:14,091 --> 00:48:16,685
+Tú dirás, ¿cuánto quieres?
+
+752
+00:48:17,527 --> 00:48:19,256
+¿Quién es esta? ¿Tú amiga?
+
+753
+00:48:20,430 --> 00:48:21,294
+En...
+
+754
+00:48:22,099 --> 00:48:22,861
+en realidad no.
+
+755
+00:48:24,368 --> 00:48:25,027
+Discúlpenme.
+
+756
+00:48:27,504 --> 00:48:29,734
+A quién le importa, cuando tienes todas
+las probabilidades en contra, ¿cierto?
+
+757
+00:48:29,940 --> 00:48:31,771
+Por supuesto se puede decir que,
+ya has ganado lo suficiente.
+
+758
+00:48:31,975 --> 00:48:32,634
+Es verdad.
+
+759
+00:48:33,176 --> 00:48:33,767
+Señor Kwan.
+
+760
+00:48:34,645 --> 00:48:35,270
+¡Felicidades!
+
+761
+00:48:36,013 --> 00:48:36,843
+¡Felicidades!
+
+762
+00:48:37,180 --> 00:48:39,011
+Buen trabajo, continúe así el año que viene.
+
+763
+00:48:41,385 --> 00:48:42,283
+Por cierto...
+
+764
+00:48:43,086 --> 00:48:45,054
+CY volverá pronto, el te llamara.
+
+765
+00:49:04,975 --> 00:49:05,964
+¿Quieres subir?
+
+766
+00:49:08,445 --> 00:49:09,343
+Necesito estar solo.
+
+767
+00:49:12,983 --> 00:49:14,416
+¿Ya la has dejado?
+
+768
+00:49:20,357 --> 00:49:21,119
+No.
+
+769
+00:49:25,429 --> 00:49:26,987
+Estas cosas son dolorosas,
+
+770
+00:49:28,498 --> 00:49:29,726
+si no se manejan con cuidado.
+
+771
+00:49:34,338 --> 00:49:35,737
+Tú ya sabes lo que siento por ti.
+
+772
+00:49:36,974 --> 00:49:37,941
+Yo sólo quiero que me ames.
+
+773
+00:49:38,475 --> 00:49:40,909
+No importa cómo de serias se pongan las cosas,
+yo siempre te ayudare.
+
+774
+00:49:41,345 --> 00:49:42,676
+Yo sé lo que puedo hacer.
+
+775
+00:49:45,449 --> 00:49:46,609
+Sabes a lo que me refiero, ¿verdad?
+
+776
+00:50:45,609 --> 00:50:46,371
+Ken.
+
+777
+00:50:50,113 --> 00:50:51,444
+Estoy pensando cuando renunciar.
+
+778
+00:50:58,088 --> 00:50:59,749
+He dejado mi teléfono en el coche,
+iré a por él.
+
+779
+00:51:05,162 --> 00:51:06,151
+No la voy a llamar.
+
+780
+00:51:48,472 --> 00:51:49,166
+¿Qué pasa?
+
+781
+00:51:51,141 --> 00:51:51,937
+¿Qué ha pasado?
+
+782
+00:51:52,909 --> 00:51:54,035
+¡Quieto, deja de correr!
+
+783
+00:51:54,411 --> 00:51:55,708
+!Es peligroso, olvídalo¡
+
+784
+00:51:56,079 --> 00:51:57,273
+¡Alto! ¡No corras!
+
+785
+00:51:57,681 --> 00:51:58,375
+¡Alto!
+
+786
+00:52:02,486 --> 00:52:03,817
+Todo está bien, somos policías.
+
+787
+00:52:10,994 --> 00:52:12,325
+Supongo que él es el hombre que se escapó.
+
+788
+00:52:13,964 --> 00:52:15,261
+Tú mataste a sus compañeros,
+
+789
+00:52:15,932 --> 00:52:16,830
+estará buscando venganza.
+
+790
+00:52:18,301 --> 00:52:19,359
+En los periódicos se menciona tu nombre,
+
+791
+00:52:20,137 --> 00:52:21,604
+y donde trabajas.
+
+792
+00:52:22,172 --> 00:52:23,139
+No es tan difícil averiguar dónde vives.
+
+793
+00:52:26,376 --> 00:52:27,274
+¿Cuanto hace que me están siguiendo?
+
+794
+00:52:27,944 --> 00:52:30,344
+Supongo que empezaría justo después
+de que salieses.
+
+795
+00:52:30,847 --> 00:52:32,007
+Lo decía por tus hombres.
+
+796
+00:52:33,717 --> 00:52:34,843
+Eres un contribuyente.
+
+797
+00:52:35,185 --> 00:52:37,050
+Nosotros tenemos que ofrecerte algunos servicios.
+
+798
+00:52:38,922 --> 00:52:39,854
+¿Me has usado como cebo?
+
+799
+00:52:41,791 --> 00:52:43,452
+Yo solo quiero volver a mi vida normal.
+
+800
+00:52:46,530 --> 00:52:47,519
+¿No puedes decir a tus chicos que me dejen solo?
+
+801
+00:52:49,799 --> 00:52:50,697
+Permíteme decirte lo siguiente.
+
+802
+00:52:51,368 --> 00:52:52,562
+Ellos pueden desaparecer en un segundo.
+
+803
+00:52:53,069 --> 00:52:53,967
+No es muy difícil.
+
+804
+00:52:55,038 --> 00:52:56,767
+Pero el sospechoso no lo dejará tan fácilmente.
+
+805
+00:52:57,007 --> 00:52:58,474
+El se encuentra bajo mucha presión.
+
+806
+00:52:58,975 --> 00:53:00,374
+Solo dejen de seguirle más.
+
+807
+00:53:00,810 --> 00:53:02,004
+Veras, el salvó a uno de nuestros hombres.
+
+808
+00:53:02,879 --> 00:53:04,244
+No queremos que nada malo le suceda.
+
+809
+00:53:06,349 --> 00:53:09,375
+¿No te he visto en el juicio?
+
+810
+00:53:10,153 --> 00:53:11,142
+¿Y en el hospital?
+
+811
+00:53:13,256 --> 00:53:15,281
+Sólo por la seguridad de su novia entonces.
+
+812
+00:53:16,026 --> 00:53:17,391
+Mis muchachos simplemente te seguirán.
+
+813
+00:53:17,661 --> 00:53:18,821
+No te molestarán.
+
+814
+00:53:28,305 --> 00:53:29,795
+Llámame si me necesitas,
+cuando tú quieras.
+
+815
+00:55:38,168 --> 00:55:38,998
+Oye, ¿dónde está?
+
+816
+00:55:42,972 --> 00:55:43,836
+Revisemos allá.
+
+817
+00:56:09,199 --> 00:56:10,598
+¿Es necesario enfrente de toda esta gente?
+
+818
+00:56:11,167 --> 00:56:12,566
+- ¿Qué es esto?
+- Señor Ko.
+
+819
+00:56:12,802 --> 00:56:13,700
+Vamos a hablar en comisaría.
+
+820
+00:56:14,037 --> 00:56:14,765
+No es necesario que me empuje.
+
+821
+00:56:18,541 --> 00:56:19,769
+Inversión Universal, ¿hola?
+
+822
+00:57:06,890 --> 00:57:07,584
+Señor Kwan.
+
+823
+00:57:08,491 --> 00:57:09,219
+¿Me estaba esperando?
+
+824
+00:57:09,759 --> 00:57:11,954
+Necesito tu consejo.
+
+825
+00:57:12,295 --> 00:57:13,023
+¿Tienes un momento?
+
+826
+00:57:13,530 --> 00:57:14,224
+Por supuesto.
+
+827
+00:57:14,898 --> 00:57:17,389
+¿Conoces los bonos al portador que desaparecieron?
+
+828
+00:57:17,667 --> 00:57:19,294
+Me gustaría saber cómo funcionan.
+
+829
+00:57:20,069 --> 00:57:20,967
+Yo no lo sé.
+
+830
+00:57:21,404 --> 00:57:22,029
+¿No lo sabe?
+
+831
+00:57:22,238 --> 00:57:24,399
+En nuestro negocio, tenemos acciones, bonos...
+
+832
+00:57:24,607 --> 00:57:25,904
+materias primas y divisas.
+
+833
+00:57:26,109 --> 00:57:27,076
+Son todas diferentes.
+
+834
+00:57:27,577 --> 00:57:30,171
+Oh...
+¿Te refieres como a los cirujanos y a los especialistas?
+
+835
+00:57:30,480 --> 00:57:31,208
+Entonces, ¿qué haces?
+
+836
+00:57:32,315 --> 00:57:33,475
+Es difícil de explicar.
+
+837
+00:57:34,184 --> 00:57:34,912
+Inténtelo.
+
+838
+00:57:36,786 --> 00:57:38,276
+Que sea simple, que yo pueda entenderlo.
+
+839
+00:57:39,322 --> 00:57:41,586
+Los clientes depositan su dinero con nosotros.
+
+840
+00:57:41,791 --> 00:57:43,554
+Tomamos sus fondos y realizamos inversiones.
+
+841
+00:57:44,093 --> 00:57:44,991
+Yo estoy en Divisas.
+
+842
+00:57:46,062 --> 00:57:47,427
+¿Tomáis una comisión de la ganancia?
+
+843
+00:57:48,164 --> 00:57:49,222
+Cobramos una cuota al principio.
+
+844
+00:57:49,833 --> 00:57:51,630
+Joder, esto es mejor que un casino.
+
+845
+00:57:52,402 --> 00:57:54,267
+¿Sus chicos son como jugadores profesionales?
+
+846
+00:57:54,737 --> 00:57:55,669
+No es eso,
+
+847
+00:57:56,172 --> 00:57:58,037
+nuestra empresa cuenta con muchos
+especialistas financieros,
+
+848
+00:57:58,308 --> 00:58:00,936
+que utilizan el software más sofisticado
+para analizar el mercado.
+
+849
+00:58:01,211 --> 00:58:02,075
+Es más profesional.
+
+850
+00:58:02,378 --> 00:58:03,106
+¿Beneficio garantizado?
+
+851
+00:58:03,847 --> 00:58:05,280
+No está estipulado en el contrato.
+
+852
+00:58:05,882 --> 00:58:08,612
+Pero yo no he perdido una inversión...
+desde el 2002.
+
+853
+00:58:09,085 --> 00:58:10,575
+¡Deberías hacer algunas inversiones para mí!
+
+854
+00:58:12,956 --> 00:58:14,548
+Mínimo 1 millón dólares americanos...
+
+855
+00:58:15,758 --> 00:58:16,486
+¿Y aquí?
+
+856
+00:58:16,993 --> 00:58:17,982
+En mi lado 30 millones.
+
+857
+00:58:18,328 --> 00:58:19,693
+Arriba los Vip... 100 millones.
+
+858
+00:58:22,065 --> 00:58:22,997
+¡Mierda!
+
+859
+00:58:25,635 --> 00:58:27,694
+La información sobre los bonos al portador.
+
+860
+00:58:28,271 --> 00:58:29,898
+Pero, la podrías haber conseguido en la red
+sin problemas.
+
+861
+00:58:42,619 --> 00:58:44,314
+¿Demasiado cafés? O...
+
+862
+00:58:48,525 --> 00:58:49,549
+Debido a que he matado a alguien.
+
+863
+00:58:50,660 --> 00:58:51,627
+He ido al psiquiatra.
+
+864
+00:58:52,395 --> 00:58:53,692
+Tomó pastillas, aun no puedo dormir.
+
+865
+00:58:56,699 --> 00:58:57,825
+Yo estaba tratando de sobrevivir.
+
+866
+00:58:58,935 --> 00:59:00,027
+Debido al instinto de supervivencia,
+
+867
+00:59:01,838 --> 00:59:03,499
+a veces tú debes dañar a alguien...
+
+868
+00:59:03,806 --> 00:59:05,296
+sin querer.
+
+869
+00:59:07,977 --> 00:59:08,739
+Por cierto,
+
+870
+00:59:10,146 --> 00:59:12,011
+cuando se unió a la compañía,
+
+871
+00:59:12,348 --> 00:59:13,280
+este tío estaba trabajando aquí.
+
+872
+00:59:13,483 --> 00:59:14,245
+¿Lo recuerdas?
+
+873
+00:59:20,623 --> 00:59:21,385
+¡Oye...!
+
+874
+00:59:22,692 --> 00:59:23,420
+¿Pasa algo?
+
+875
+00:59:24,027 --> 00:59:26,689
+Señorita Shaw,
+he leído su entrevista en las páginas económicas.
+
+876
+00:59:27,931 --> 00:59:29,193
+Me preguntó si yo conocía a este hombre.
+
+877
+00:59:32,168 --> 00:59:34,830
+Nuestra empresa tiene más de 700 empleados
+que trabajan en 3 plantas.
+
+878
+00:59:35,138 --> 00:59:37,629
+24 horas al día, y con una gran rotación de personal.
+
+879
+00:59:37,974 --> 00:59:39,999
+Algunos empleados nunca llegan
+ha conocer a todos sus compañeros.
+
+880
+00:59:40,977 --> 00:59:42,239
+¿Has venido por la investigación?
+
+881
+00:59:42,478 --> 00:59:45,675
+En realidad no,
+ya he acabado con el señor Kwan.
+
+882
+00:59:46,449 --> 00:59:47,746
+¡Salvo por la competición del próximo año!
+
+883
+00:59:49,586 --> 00:59:51,076
+No le permitiré tocar una pistola de nuevo.
+
+884
+00:59:54,958 --> 00:59:56,585
+¿Entonces no te has apuntado?
+
+885
+00:59:57,226 --> 00:59:58,352
+No tendrás pensando dejarlo, ¿no?
+
+886
+00:59:58,928 --> 01:00:00,793
+¡Es el Campeonato del Mundo en Sudáfrica!
+
+887
+01:00:01,197 --> 01:00:03,131
+Espero que lo reconsideres...
+yo ya me he apuntado.
+
+888
+01:00:03,433 --> 01:00:05,196
+El no volverá a competir nunca más.
+
+889
+01:00:06,803 --> 01:00:07,997
+¿Has entendido lo que he dicho?
+
+890
+01:00:12,609 --> 01:00:13,405
+Gracias.
+
+891
+01:00:20,383 --> 01:00:21,873
+Estoy seguro de que este tipo
+tiene algún propósito.
+
+892
+01:00:22,285 --> 01:00:23,115
+Ten cuidado.
+
+893
+01:00:25,021 --> 01:00:25,851
+¿Un propósito para qué?
+
+894
+01:00:26,789 --> 01:00:27,813
+Sólo es intuición.
+
+895
+01:00:31,794 --> 01:00:32,556
+¿Y tú?
+
+896
+01:00:32,996 --> 01:00:33,758
+¿Cual es tu propósito?
+
+897
+01:00:35,131 --> 01:00:35,893
+¿Yo?
+
+898
+01:00:36,265 --> 01:00:37,960
+¿Por qué siempre quieres que la gente sepa...
+
+899
+01:00:38,201 --> 01:00:39,259
+que te pertenezco?
+
+900
+01:00:40,903 --> 01:00:42,894
+¿Qué pasa si todo el mundo sabe que me perteneces?
+
+901
+01:00:43,106 --> 01:00:43,868
+¿Y qué?
+
+902
+01:00:44,974 --> 01:00:46,168
+¿Por qué estás tan preocupado por eso?
+
+903
+01:01:05,028 --> 01:01:06,893
+Hey, hacía tiempo que no nos
+veíamos señor Kwan.
+
+904
+01:01:07,196 --> 01:01:08,595
+¡Uy, es verdad!
+
+905
+01:01:08,865 --> 01:01:10,662
+Olvide que estas metido en esta cloaca.
+
+906
+01:01:10,867 --> 01:01:11,697
+¿Dónde está el jefe?
+
+907
+01:01:12,135 --> 01:01:12,863
+¡Aquí no!
+
+908
+01:01:13,369 --> 01:01:14,336
+¿Mencionó cuando iba a volver?
+
+909
+01:01:15,304 --> 01:01:18,705
+El llamo,
+pero dijo que no volvería en un tiempo.
+
+910
+01:01:19,509 --> 01:01:21,204
+Entre tú y yo,
+
+911
+01:01:21,444 --> 01:01:23,503
+el estaba actuando de manera extraña.
+
+912
+01:01:23,713 --> 01:01:25,704
+Murmurando todo el tiempo.
+
+913
+01:01:26,015 --> 01:01:26,640
+Decía algo como...
+
+914
+01:01:26,849 --> 01:01:27,941
+¿Quieres mi vida?
+
+915
+01:01:28,151 --> 01:01:30,779
+Yo tendré mi venganza.
+
+916
+01:01:31,220 --> 01:01:32,915
+Creo que se ha vuelto loco.
+
+917
+01:01:35,425 --> 01:01:38,417
+Oye... si lo ves, dile que vuelva pronto.
+
+918
+01:01:38,795 --> 01:01:40,922
+¡El propietario nos va a echar
+si no pagamos el alquiler!
+
+919
+01:01:54,477 --> 01:01:55,205
+Aparca por detrás.
+
+920
+01:02:05,254 --> 01:02:06,084
+Qué suerte.
+
+921
+01:02:06,556 --> 01:02:08,251
+Pensé que te habían quitado la licencia.
+
+922
+01:02:15,932 --> 01:02:19,163
+Hay un ex-campeón llamado Jim Mew, un policía.
+
+923
+01:02:19,469 --> 01:02:21,903
+El mato a un delincuente,
+
+924
+01:02:22,105 --> 01:02:23,663
+pero se sobrepuso a sus miedos internos.
+
+925
+01:02:24,807 --> 01:02:26,672
+Pero después disparó y mató a otro cabrón,
+
+926
+01:02:26,876 --> 01:02:28,400
+y no pudo volver a coger su arma de nuevo.
+
+927
+01:02:28,845 --> 01:02:29,641
+Date una oportunidad.
+
+928
+01:02:30,813 --> 01:02:32,781
+Si no puedes, no te fuerces.
+
+929
+01:02:58,574 --> 01:02:59,302
+¿No puedes disparar?
+
+930
+01:03:03,012 --> 01:03:04,001
+Ya mataste antes,
+
+931
+01:03:05,548 --> 01:03:06,879
+¿por qué molestarse por un blanco de papel?
+
+932
+01:03:09,519 --> 01:03:10,383
+Dispárame en su lugar.
+
+933
+01:03:13,189 --> 01:03:14,247
+¡Aprieta el gatillo!
+
+934
+01:03:15,391 --> 01:03:17,382
+¡Cabrón! ¡¿Querías matarme?!
+
+935
+01:03:17,894 --> 01:03:18,918
+¿No intentaste matarme anoche?
+
+936
+01:03:19,729 --> 01:03:21,128
+Yo quería hacerlo...
+
+937
+01:03:22,331 --> 01:03:23,821
+Quería matar a tus putas también.
+
+938
+01:03:26,335 --> 01:03:27,165
+Dilo de nuevo...
+
+939
+01:03:27,537 --> 01:03:28,231
+¡Dilo otra vez!
+
+940
+01:03:35,678 --> 01:03:36,110
+Toa...
+
+941
+01:03:36,312 --> 01:03:37,040
+¡De acuerdo!
+
+942
+01:03:37,814 --> 01:03:38,610
+¡Sálvalas!
+
+943
+01:03:39,982 --> 01:03:40,880
+¡Estoy aquí por mi dinero!
+
+944
+01:03:41,484 --> 01:03:42,542
+Cuando tenga mi dinero, me iré.
+
+945
+01:03:42,752 --> 01:03:43,844
+¡No me volverás a ver nunca más!
+
+946
+01:03:44,287 --> 01:03:45,481
+¡El banquero que se suponía que me
+ayudaría fue arrestado!
+
+947
+01:03:45,688 --> 01:03:47,588
+¡Pues entonces, busca otro banquero!
+
+948
+01:03:47,790 --> 01:03:49,348
+Nadie está dispuesto a coger estos bonos.
+
+949
+01:03:49,559 --> 01:03:50,583
+Estoy tratando de arreglar las cosas.
+
+950
+01:03:50,793 --> 01:03:52,920
+¡Dijiste que estos bonos eran
+como dinero en efectivo!
+
+951
+01:03:53,162 --> 01:03:54,652
+Así que si eso es así,
+¿cómo es que nadie los quiere?
+
+952
+01:03:54,864 --> 01:03:55,762
+¿Crees que es simple?
+
+953
+01:03:55,965 --> 01:03:57,489
+Si lo supiese,
+¿para qué demonios te necesitaría?
+
+954
+01:03:58,100 --> 01:04:00,466
+Dijiste que conseguiríamos millones,
+así que por eso me apunte.
+
+955
+01:04:00,670 --> 01:04:02,900
+Pero ahora solo quieres jugar a ser un héroe,
+¿y qué pasa conmigo?
+
+956
+01:04:03,339 --> 01:04:04,567
+¡Tengo que esconderme de todo el mundo!
+
+957
+01:04:04,941 --> 01:04:06,067
+¿Por qué estás tan nervioso?
+
+958
+01:04:06,275 --> 01:04:07,071
+¡Nadie te reconoció!
+
+959
+01:04:07,376 --> 01:04:09,640
+Si necesitas dinero, yo te lo daré,
+¿por qué tus prisas?
+
+960
+01:04:10,513 --> 01:04:12,174
+¡Dame algo más de tiempo!
+¡Y me encargare de todo!
+
+961
+01:04:13,683 --> 01:04:15,378
+Pero hay una cosa que no puede esperar.
+
+962
+01:04:16,052 --> 01:04:17,781
+Ese policía podría despertar.
+
+963
+01:04:18,120 --> 01:04:20,020
+Si lo hace, lo contara todo.
+
+964
+01:04:20,223 --> 01:04:21,053
+¡Tienes que encargarte de él!
+
+965
+01:04:23,059 --> 01:04:24,026
+¿Por qué no lo haces tú?
+
+966
+01:04:24,527 --> 01:04:25,289
+¡Bueno, gracias a ti!
+
+967
+01:04:25,494 --> 01:04:27,155
+La poli esta todo el día detrás de mí.
+
+968
+01:04:30,299 --> 01:04:30,993
+Está bien.
+
+969
+01:04:32,134 --> 01:04:33,101
+Pero yo quiero la mitad del botín.
+
+970
+01:04:33,836 --> 01:04:34,700
+Si lo consigues,
+
+971
+01:04:35,271 --> 01:04:36,238
+podrás quedarte con todo.
+
+972
+01:04:39,442 --> 01:04:40,170
+Policías.
+
+973
+01:05:40,169 --> 01:05:41,227
+¿Harás una ofrenda por él?
+
+974
+01:05:41,637 --> 01:05:42,569
+Sólo tengo esa foto,
+
+975
+01:05:43,506 --> 01:05:44,530
+no tengo nada mas...
+
+976
+01:05:45,574 --> 01:05:46,632
+además puede que acabe haciéndole compañía.
+
+977
+01:07:27,743 --> 01:07:28,573
+Oye, ¿quién eres tú?
+
+978
+01:07:28,878 --> 01:07:29,742
+Oye, ¿qué está haciendo?
+
+979
+01:07:33,315 --> 01:07:34,009
+¡Ven aquí!
+
+980
+01:07:42,158 --> 01:07:42,886
+Señor...
+
+981
+01:07:43,259 --> 01:07:45,022
+Inspector, ¿podemos hablar...
+
+982
+01:07:45,227 --> 01:07:46,023
+Ningún comentario.
+
+983
+01:08:16,058 --> 01:08:16,990
+¿Seguro que está limpio?
+
+984
+01:08:17,259 --> 01:08:17,748
+¿Quién?
+
+985
+01:08:17,960 --> 01:08:19,052
+El tío que supero nuestros records.
+
+986
+01:08:28,070 --> 01:08:28,695
+Señor.
+
+987
+01:08:28,904 --> 01:08:29,871
+¿Dónde estaba a las 11 pm?
+
+988
+01:08:30,106 --> 01:08:30,731
+En casa.
+
+989
+01:08:30,940 --> 01:08:31,531
+¿Las actividades de hoy?
+
+990
+01:08:31,974 --> 01:08:33,168
+Fue a la oficina a las 8 am,
+
+991
+01:08:33,375 --> 01:08:34,603
+almorzó a la 1 pm,
+
+992
+01:08:34,810 --> 01:08:36,072
+luego fue a una tienda de armas en Mongkok,
+
+993
+01:08:36,312 --> 01:08:38,371
+y luego a las 4 pm se dirigió al Club de Tiro,
+y entonces...
+
+994
+01:08:39,448 --> 01:08:40,073
+¡Dilo!
+
+995
+01:08:40,416 --> 01:08:42,714
+Le perdí, no le vi salir del Club de Tiro.
+
+996
+01:08:42,918 --> 01:08:44,146
+El se apresuró en regresar aquí
+después de que el club cerrase.
+
+997
+01:08:44,386 --> 01:08:45,717
+Él llegó a casa sobre las 10 pm.
+
+998
+01:08:53,162 --> 01:08:53,787
+¿Qué es lo que sucede?
+
+999
+01:08:54,430 --> 01:08:56,261
+Alguien trató de matar al policía
+en el hospital hace un momento.
+
+1000
+01:08:56,732 --> 01:08:57,892
+¿En serio?
+
+1001
+01:09:00,069 --> 01:09:00,797
+Vamos.
+
+1002
+01:09:02,872 --> 01:09:03,736
+- Revisen los alrededores.
+- ¡Vamos!
+
+1003
+01:09:05,007 --> 01:09:08,465
+El paciente recibió un disparo en el pecho.
+La bala salió por la axila izquierda.
+
+1004
+01:09:08,777 --> 01:09:10,540
+Afortunadamente,
+no hay daños de órganos vitales.
+
+1005
+01:09:10,846 --> 01:09:12,939
+Tras la operación de emergencia,
+el estado del paciente se mantiene estable.
+
+1006
+01:09:13,149 --> 01:09:14,013
+Es un hombre duro.
+
+1007
+01:09:15,885 --> 01:09:16,647
+¿Cómo está su familia?
+
+1008
+01:09:18,354 --> 01:09:19,321
+No te preocupes por su familia.
+
+1009
+01:09:19,989 --> 01:09:21,081
+Preocúpate por ti mismo.
+
+1010
+01:09:28,597 --> 01:09:29,461
+Alguien lo quiere muerto.
+
+1011
+01:09:32,535 --> 01:09:33,695
+¿Quieres decir el que se escapó?
+
+1012
+01:09:36,639 --> 01:09:38,004
+Necesito tu consejo de nuevo.
+
+1013
+01:09:38,807 --> 01:09:41,503
+En tu declaración,
+el sospechoso que escapó llevaba un disfraz.
+
+1014
+01:09:41,710 --> 01:09:42,870
+El agente de tráfico no puede identificarle.
+
+1015
+01:09:43,612 --> 01:09:44,840
+Tu tampoco.
+
+1016
+01:09:45,414 --> 01:09:46,813
+Nadie sabe quién es.
+
+1017
+01:09:47,149 --> 01:09:48,514
+Así que, ¿por qué correr el riesgo y volver?
+
+1018
+01:09:55,424 --> 01:09:57,187
+No sé nada sobre los perfiles del caso.
+
+1019
+01:09:59,461 --> 01:10:00,257
+Te diré que...
+
+1020
+01:10:01,197 --> 01:10:02,721
+te ayudare haciendo algunas investigaciones,
+
+1021
+01:10:02,932 --> 01:10:04,194
+y encontrare algo sobre su estado mental.
+
+1022
+01:10:07,069 --> 01:10:07,831
+De acuerdo.
+
+1023
+01:10:08,604 --> 01:10:09,263
+Gracias.
+
+1024
+01:10:10,139 --> 01:10:10,901
+Es mejor que me vaya.
+
+1025
+01:10:11,540 --> 01:10:13,701
+¿Quieres comer algo?
+He hecho algunos aperitivos.
+
+1026
+01:10:14,310 --> 01:10:15,937
+¿Sabes cocinar?
+Es difícil de creer.
+
+1027
+01:10:16,579 --> 01:10:17,273
+Solo lo justo.
+
+1028
+01:10:18,647 --> 01:10:20,274
+Sabes de todo.
+
+1029
+01:10:20,649 --> 01:10:21,741
+No, eso no es así.
+
+1030
+01:10:22,151 --> 01:10:24,642
+Sólo un poco de esfuerzo y paciencia,
+eso es todo.
+
+1031
+01:10:27,590 --> 01:10:28,352
+Lo intentare alguna vez.
+
+1032
+01:10:35,531 --> 01:10:36,828
+No importa, me voy.
+
+1033
+01:10:42,605 --> 01:10:43,299
+Ah...
+
+1034
+01:10:44,440 --> 01:10:45,407
+recuerda, ten cuidado.
+
+1035
+01:10:46,375 --> 01:10:47,034
+Lo tendré.
+
+1036
+01:11:08,464 --> 01:11:09,226
+Arriba, por favor.
+
+1037
+01:11:10,099 --> 01:11:10,724
+Sr. Kong.
+
+1038
+01:11:11,467 --> 01:11:12,764
+Soy un amigo de KC.
+
+1039
+01:11:14,203 --> 01:11:16,603
+¿Has hablado con él acerca de esto por teléfono?
+
+1040
+01:11:16,805 --> 01:11:17,567
+No.
+
+1041
+01:11:17,906 --> 01:11:18,736
+Ese imbécil,
+
+1042
+01:11:19,275 --> 01:11:21,209
+ni siquiera sabía que su teléfono
+estaba intervenido.
+
+1043
+01:11:22,144 --> 01:11:22,940
+¿Qué es lo que tienes?
+
+1044
+01:11:23,512 --> 01:11:26,606
+Un cliente mío necesita dinero en efectivo
+de unos bonos al portador.
+
+1045
+01:11:26,982 --> 01:11:27,846
+¿Los del atraco?
+
+1046
+01:11:28,117 --> 01:11:29,744
+KC dijo que no harías preguntas.
+
+1047
+01:11:29,952 --> 01:11:31,146
+Es demasiado arriesgado.
+
+1048
+01:11:31,453 --> 01:11:33,751
+Tienes que quedarte con ellos durante años,
+antes de que puedas venderlos.
+
+1049
+01:11:34,156 --> 01:11:35,521
+Demasiado arriesgado y demasiado caro.
+
+1050
+01:11:35,958 --> 01:11:39,155
+¿Cuál es la diferencia,
+entre tener los bonos y una sentencia de muerte?
+
+1051
+01:11:39,695 --> 01:11:40,662
+40%.
+
+1052
+01:11:42,298 --> 01:11:43,026
+30%.
+
+1053
+01:11:43,932 --> 01:11:44,728
+20%.
+
+1054
+01:11:45,801 --> 01:11:48,269
+Por debajo de 17,5%,
+los quemare sino los quieres.
+
+1055
+01:11:56,445 --> 01:11:57,241
+Ése es el trato.
+
+1056
+01:12:11,093 --> 01:12:11,684
+Largo.
+
+1057
+01:12:12,561 --> 01:12:13,186
+¡Oye!
+
+1058
+01:12:32,381 --> 01:12:34,872
+¿Qué sucede?
+Vas despacio con esta furgoneta.
+
+1059
+01:12:35,250 --> 01:12:35,909
+Vamos.
+
+1060
+01:12:36,919 --> 01:12:38,352
+Vamos a quemar algunas ofrendas 
+por nuestros amigos.
+
+1061
+01:12:38,554 --> 01:12:40,852
+Son tus amigos, no lo míos.
+
+1062
+01:12:41,056 --> 01:12:41,818
+¿Qué pasa con Fong?
+
+1063
+01:12:42,624 --> 01:12:44,615
+¡Todos éramos amigos, cabrón de mierda!
+
+1064
+01:12:44,827 --> 01:12:46,021
+¡Deja de ser un animal!
+
+1065
+01:12:47,196 --> 01:12:48,458
+¡Recupera algo de sentido común!
+
+1066
+01:12:52,267 --> 01:12:53,359
+¡Vamos coge tu "dinero"!
+
+1067
+01:12:56,338 --> 01:12:57,896
+¡Vamos coge tu "dinero"!
+
+1068
+01:13:06,849 --> 01:13:08,111
+No soy tan malo, la verdad.
+
+1069
+01:13:10,052 --> 01:13:12,111
+Coge un billete de avión y viaja.
+
+1070
+01:13:12,321 --> 01:13:13,447
+Súbete al avión un par de veces.
+
+1071
+01:13:14,156 --> 01:13:16,317
+Volverás absolutamente limpio.
+
+1072
+01:13:17,793 --> 01:13:18,885
+El policía no está muerto.
+
+1073
+01:13:20,963 --> 01:13:22,123
+¿Estás seguro de eso?
+
+1074
+01:13:22,698 --> 01:13:24,097
+Ahora eres un hombre muy rico,
+
+1075
+01:13:24,633 --> 01:13:25,895
+¿dejaras a la enfermera?
+
+1076
+01:13:27,169 --> 01:13:28,796
+¿Realmente crees que
+tu puedes estimular su pasión?
+
+1077
+01:13:29,671 --> 01:13:30,899
+Estúpido idiota...
+
+1078
+01:13:32,174 --> 01:13:33,801
+¡Sabes que el poli aun no está muerto!
+
+1079
+01:13:35,611 --> 01:13:36,669
+No, él no está muerto.
+
+1080
+01:13:37,212 --> 01:13:38,304
+¡El no ha muerto todavía!
+
+1081
+01:13:39,481 --> 01:13:40,641
+¡Tal vez está agonizando ahora!
+
+1082
+01:13:41,283 --> 01:13:42,375
+¡Retrasado!
+
+1083
+01:13:53,429 --> 01:13:55,795
+Toma este efectivo y lárgate,
+no quiero volver a verte!
+
+1084
+01:13:56,064 --> 01:13:57,122
+¿Y tú crees que yo quiero volver a verte?
+
+1085
+01:14:31,733 --> 01:14:32,631
+¿Son secuenciales?
+
+1086
+01:14:44,012 --> 01:14:45,240
+Ellos no podían utilizarlo.
+
+1087
+01:14:46,248 --> 01:14:49,342
+¡Pero entonces encontraron
+a un idiota para cambiarlo!
+
+1088
+01:15:00,629 --> 01:15:01,789
+Eres un idiota ...
+
+1089
+01:15:02,264 --> 01:15:03,128
+Soy tan estúpido.
+
+1090
+01:15:04,099 --> 01:15:06,397
+¡Por lo menos es más fácil de ocultar
+que los bonos!
+
+1091
+01:15:07,269 --> 01:15:09,032
+Ahora todas estas bolsas...
+
+1092
+01:15:09,238 --> 01:15:10,034
+¿Dónde las vamos a dejar?
+
+1093
+01:15:10,239 --> 01:15:11,331
+¡Debajo de la cama!
+
+1094
+01:15:11,540 --> 01:15:13,098
+- ¿Qué?
+- ¡Debajo de la cama!
+
+1095
+01:15:13,575 --> 01:15:15,304
+Luego iremos al mercado...
+¡a pasar un poco de tiempo!
+
+1096
+01:15:16,111 --> 01:15:17,578
+¡Tengo miedo que la mujer de la limpieza
+lo encuentre!
+
+1097
+01:15:17,946 --> 01:15:19,208
+¡Oye, ¿me pregunto lo que hará si ve el dinero?!
+
+1098
+01:15:19,715 --> 01:15:21,182
+Ella dirá: señor...
+
+1099
+01:15:21,450 --> 01:15:23,941
+que hacen tanto dólares americanos
+debajo de su cama,
+
+1100
+01:15:25,254 --> 01:15:27,722
+¿puedo coger alguno?
+
+1101
+01:15:39,535 --> 01:15:40,502
+¿Y ahora qué?
+
+1102
+01:15:41,703 --> 01:15:42,533
+Quémalo.
+
+1103
+01:15:44,640 --> 01:15:45,572
+¡Si no los quieres, hazlo!
+
+1104
+01:15:46,408 --> 01:15:47,102
+¿Qué podemos hacer?
+
+1105
+01:15:48,443 --> 01:15:49,273
+Piden la identificación al cambiarlos.
+
+1106
+01:15:49,478 --> 01:15:50,968
+¿Y se la vas a enseñar?
+
+1107
+01:15:51,346 --> 01:15:52,404
+¿Gastarlo en Estados Unidos?
+
+1108
+01:15:52,714 --> 01:15:55,148
+En los supermercados usan tarjetas de crédito,
+incluso para unos pocos dólares.
+
+1109
+01:15:56,018 --> 01:15:57,485
+Si vas con mucho dinero encima,
+
+1110
+01:15:57,819 --> 01:15:59,616
+¡la policía creerá que eres un traficante de droga!
+
+1111
+01:16:02,457 --> 01:16:03,389
+Necesito unos cuantos de miles.
+
+1112
+01:16:04,426 --> 01:16:05,256
+Te lo daré mañana.
+
+1113
+01:16:05,494 --> 01:16:07,621
+¿Unos cuantos de miles?
+¿Me estás dando una limosna?
+
+1114
+01:16:09,431 --> 01:16:10,329
+Estamos en el bosque.
+
+1115
+01:16:10,632 --> 01:16:12,532
+¡¿Cómo vas a llevar todo este dinero?!
+
+1116
+01:16:13,035 --> 01:16:13,831
+¿Te has vuelto loco?
+
+1117
+01:16:17,272 --> 01:16:18,204
+¡No me empujes!
+
+1118
+01:16:19,007 --> 01:16:19,939
+Si te delato a la poli,
+
+1119
+01:16:20,676 --> 01:16:22,371
+vamos a ver quién obtiene más tiempo.
+
+1120
+01:16:26,682 --> 01:16:27,512
+Si estoy acabado,
+
+1121
+01:16:28,584 --> 01:16:30,518
+me llevare a tus dos putas a la tumba conmigo.
+
+1122
+01:16:33,455 --> 01:16:34,217
+¿Qué estás mirando?
+
+1123
+01:16:35,724 --> 01:16:36,554
+¡Aléjate!
+
+1124
+01:16:37,559 --> 01:16:38,253
+¡Ahora!
+
+1125
+01:17:11,426 --> 01:17:12,484
+¿Por qué me haces esto?
+
+1126
+01:17:13,729 --> 01:17:14,957
+¿Por qué me haces esto!
+
+1127
+01:18:21,563 --> 01:18:22,291
+Señor Kwan.
+
+1128
+01:18:22,798 --> 01:18:24,732
+La señorita Shaw le llamó para una reunión.
+
+1129
+01:19:12,314 --> 01:19:14,077
+¡Un cadáver! ¡Salgamos de aquí!
+
+1130
+01:19:18,220 --> 01:19:18,845
+Señor.
+
+1131
+01:19:19,387 --> 01:19:20,217
+Se ha encontrado un cuerpo,
+
+1132
+01:19:20,455 --> 01:19:22,389
+con un disparo en la cabeza,
+había un móvil en el cuerpo.
+
+1133
+01:19:22,591 --> 01:19:23,580
+En la lista de contactos había un numero,
+
+1134
+01:19:23,792 --> 01:19:25,089
+que pertenece al móvil de la escena del crimen.
+
+1135
+01:19:25,761 --> 01:19:26,386
+Es nuestro sospechoso X.
+
+1136
+01:19:27,829 --> 01:19:30,354
+El fallecido es Pang Tao,
+cumplió 8 años por robo en el '95.
+
+1137
+01:19:30,565 --> 01:19:32,192
+Alguien le financio esta tienda.
+
+1138
+01:19:32,400 --> 01:19:33,458
+Se especializan en la conversión 
+de pistolas de aire.
+
+1139
+01:19:33,668 --> 01:19:35,295
+Hay un vehículo quemado...
+
+1140
+01:19:35,504 --> 01:19:36,664
+a 800 metros del cuerpo.
+
+1141
+01:19:36,905 --> 01:19:38,463
+Tiene lo que parece la ceniza de billetes
+quemados en el.
+
+1142
+01:19:38,740 --> 01:19:39,365
+Lo tienen ahora mismo en el laboratorio.
+
+1143
+01:19:40,609 --> 01:19:41,268
+Señor.
+
+1144
+01:20:08,036 --> 01:20:09,333
+Cuando la fiscal le preguntó:
+
+1145
+01:20:09,971 --> 01:20:12,439
+por qué disparó dos tiros a cada víctima,
+
+1146
+01:20:13,408 --> 01:20:14,238
+¿cual fue su respuesta?
+
+1147
+01:20:14,676 --> 01:20:16,166
+Dijo que fue un acto reflejo.
+
+1148
+01:20:18,713 --> 01:20:19,407
+Lo intentaré.
+
+1149
+01:20:21,550 --> 01:20:22,107
+Empieza.
+
+1150
+01:20:28,390 --> 01:20:29,288
+Dispara a las dianas cuando te lo diga.
+
+1151
+01:20:29,724 --> 01:20:30,315
+Pies.
+
+1152
+01:20:32,060 --> 01:20:32,719
+Mano.
+
+1153
+01:20:35,664 --> 01:20:36,756
+Cada 2 segundos,
+
+1154
+01:20:37,032 --> 01:20:38,966
+haces 2 disparos en diferentes partes del cuerpo.
+
+1155
+01:20:39,968 --> 01:20:40,935
+Con sus habilidades,
+
+1156
+01:20:41,703 --> 01:20:43,534
+podría haber desarmado a las víctimas.
+
+1157
+01:20:43,738 --> 01:20:46,434
+Cada disparo que hizo fue fatal,
+obviamente con intención de matar.
+
+1158
+01:20:47,442 --> 01:20:48,773
+¿Cómo te déjate engañar?
+
+1159
+01:20:49,044 --> 01:20:50,568
+¿Por qué sospechaste de él,
+
+1160
+01:20:51,012 --> 01:20:53,105
+y luego lo descartaste 
+como sospechoso tan rápidamente?
+
+1161
+01:20:54,549 --> 01:20:55,675
+¿Por qué disparar el arma?
+
+1162
+01:20:56,284 --> 01:20:58,309
+Los ladrones mataron a los guardias de seguridad.
+
+1163
+01:20:58,753 --> 01:21:00,186
+Y estaban a punto de matar al policía.
+
+1164
+01:21:00,522 --> 01:21:01,546
+Estaba salvando una vida.
+
+1165
+01:21:01,790 --> 01:21:03,052
+Si sucediese otra vez,
+
+1166
+01:21:03,358 --> 01:21:04,382
+volvería hacer lo mismo.
+
+1167
+01:21:05,360 --> 01:21:07,590
+¿Sera porque él te venció...
+
+1168
+01:21:08,496 --> 01:21:10,487
+y no quieres que los demás piensen
+que es por una venganza personal?
+
+1169
+01:21:11,066 --> 01:21:12,624
+¿Quizá tu realmente querías vencerlo,
+
+1170
+01:21:13,335 --> 01:21:15,326
+así que subconscientemente no pudiste detenerlo?
+
+1171
+01:21:18,273 --> 01:21:20,104
+Creo que estabas más preocupado
+por la competición,
+
+1172
+01:21:20,809 --> 01:21:22,242
+que por este caso.
+
+1173
+01:21:26,681 --> 01:21:27,375
+Mew.
+
+1174
+01:21:29,150 --> 01:21:30,640
+Necesito saber sus motivos.
+
+1175
+01:21:33,288 --> 01:21:34,255
+¿Me ayudas?
+
+1176
+01:21:51,306 --> 01:21:53,433
+Tirador, ¿estás listo?
+
+1177
+01:21:53,708 --> 01:21:54,231
+¡Dispare!
+
+1178
+01:21:56,444 --> 01:21:57,069
+¡Mano!
+
+1179
+01:21:59,681 --> 01:22:00,375
+¡Cabeza!
+
+1180
+01:22:04,219 --> 01:22:06,210
+- ¿Estás bien?
+- Si.
+
+1181
+01:22:20,568 --> 01:22:21,728
+¿Por qué los matates?
+
+1182
+01:22:27,309 --> 01:22:28,435
+Tuve que matarlos a todos.
+
+1183
+01:22:29,010 --> 01:22:30,272
+El policía tiene que morir también.
+
+1184
+01:22:31,313 --> 01:22:32,302
+¿Entonces por qué lo hiciste?
+
+1185
+01:22:33,148 --> 01:22:34,137
+¿El policía te reconoció?
+
+1186
+01:22:35,116 --> 01:22:36,378
+¿El policía sabía quién eras?
+
+1187
+01:22:37,118 --> 01:22:38,210
+¿Por qué lo mataste?
+
+1188
+01:22:38,520 --> 01:22:40,385
+Tengo que matar a los testigos,
+debo matar a los testigos.
+
+1189
+01:22:40,588 --> 01:22:41,748
+¿Por qué hiciste eso?
+
+1190
+01:22:50,398 --> 01:22:51,490
+Necesito matarlo.
+
+1191
+01:22:52,734 --> 01:22:54,099
+!Porque él me reconoció!
+
+1192
+01:22:57,372 --> 01:22:58,737
+Tiene que haber algo más.
+
+1193
+01:23:00,642 --> 01:23:01,540
+¡No me mientas!
+
+1194
+01:23:02,110 --> 01:23:03,099
+¿Por qué querías matarlo?
+
+1195
+01:23:04,245 --> 01:23:05,007
+¡Dilo!
+
+1196
+01:23:09,784 --> 01:23:11,684
+¡Porque él vio algo que no debió!
+
+1197
+01:23:13,888 --> 01:23:14,855
+- ¡No te acerques demasiado!
+- ¡Atrás!!
+
+1198
+01:23:15,423 --> 01:23:16,082
+¡Atrás!
+
+1199
+01:23:16,558 --> 01:23:17,786
+¡Atrás! ¡Atrás!
+
+1200
+01:23:19,060 --> 01:23:21,460
+- No me empujes... ¡no me empujes!
+- Señor, soy yo...
+
+1201
+01:23:24,366 --> 01:23:26,527
+Señor, ¡soy yo!
+
+1202
+01:23:37,679 --> 01:23:38,976
+Este es el único camino...
+
+1203
+01:23:41,049 --> 01:23:41,913
+al que le forzaste.
+
+1204
+01:23:44,686 --> 01:23:46,244
+El único camino que te obligue.
+
+1205
+01:23:49,124 --> 01:23:50,148
+Señor Kwan, la policía le está buscando.
+
+1206
+01:23:51,059 --> 01:23:52,356
+Es usted sospecho del atraco al camión blindado.
+
+1207
+01:23:54,295 --> 01:23:55,319
+Puede permanecer en silencio.
+
+1208
+01:23:55,530 --> 01:23:57,657
+Cualquier cosa que diga podrá
+ser usada en su contra en los tribunales.
+
+1209
+01:24:00,468 --> 01:24:01,628
+- ¡Sacarlo!
+-¡Vamos!
+
+1210
+01:24:11,679 --> 01:24:13,806
+Este ordenador está directamente conectado
+con el servidor de nuestra oficina central.
+
+1211
+01:24:14,015 --> 01:24:15,915
+Contiene datos confidenciales de nuestros clientes.
+
+1212
+01:24:16,384 --> 01:24:17,646
+Solicito la presencia de un abogado.
+
+1213
+01:24:18,420 --> 01:24:20,684
+Estos dos hombres eran amigos
+suyos desde la infancia.
+
+1214
+01:24:21,322 --> 01:24:22,584
+Están involucrados en el robo.
+
+1215
+01:24:23,625 --> 01:24:24,819
+La única razón para el robo,
+
+1216
+01:24:25,026 --> 01:24:26,084
+fue porque perdió mucho dinero.
+
+1217
+01:24:26,294 --> 01:24:27,352
+Tenga cuidado con sus acusaciones.
+
+1218
+01:24:27,796 --> 01:24:30,060
+Si su acusaciones arruinan la reputación
+de esta empresa.
+
+1219
+01:24:30,265 --> 01:24:31,493
+Le garantizo que le demandare.
+
+1220
+01:24:33,168 --> 01:24:34,533
+Si me ayudas,
+
+1221
+01:24:35,303 --> 01:24:36,395
+yo te ayudare.
+
+1222
+01:24:37,539 --> 01:24:38,528
+Él tiene algunos problemas personales,
+
+1223
+01:24:38,873 --> 01:24:40,033
+que quizás desees conocer.
+
+1224
+01:24:40,241 --> 01:24:41,333
+No quiero saber nada.
+
+1225
+01:24:41,843 --> 01:24:42,741
+¿No lo quieres saber?
+
+1226
+01:24:43,611 --> 01:24:44,703
+¿O es que ya lo sabes?
+
+1227
+01:24:47,615 --> 01:24:48,741
+Sé que el amor,
+
+1228
+01:24:49,184 --> 01:24:50,708
+puede volver una persona ciega a veces.
+
+1229
+01:24:51,820 --> 01:24:54,254
+¿Pero no perdiste tu sentido del olfato?
+
+1230
+01:24:55,590 --> 01:24:57,581
+¿No puedes oler la sangre en él?
+
+1231
+01:24:59,060 --> 01:25:01,153
+¿No tienes miedo de que te salpique
+un poco la sangre?
+
+1232
+01:25:04,466 --> 01:25:06,297
+Si la reputación es lo que realmente le importa,
+
+1233
+01:25:07,435 --> 01:25:09,869
+deberías ayudarnos a encontrar sus motivos.
+
+1234
+01:25:11,806 --> 01:25:12,830
+Espero su llamada.
+
+1235
+01:25:18,880 --> 01:25:20,575
+Tu sí que eres realmente un experto.
+
+1236
+01:25:21,015 --> 01:25:21,777
+Calma.
+
+1237
+01:25:22,217 --> 01:25:22,911
+Cuidado.
+
+1238
+01:25:23,451 --> 01:25:24,748
+Su talento para la interpretación
+es también bastante bueno.
+
+1239
+01:25:25,620 --> 01:25:26,917
+No tienes que confundirte de quien soy.
+
+1240
+01:25:28,022 --> 01:25:29,284
+Tienes que tenerlo claro.
+
+1241
+01:25:30,125 --> 01:25:30,989
+Soy un policía.
+
+1242
+01:25:34,796 --> 01:25:36,491
+¿Es porque te derrote?
+
+1243
+01:25:36,898 --> 01:25:37,887
+¿O porque sabes,
+
+1244
+01:25:38,399 --> 01:25:39,559
+que nunca me podrás ganar?
+
+1245
+01:25:44,706 --> 01:25:46,196
+¿Por qué no te puedo ganar?
+
+1246
+01:25:46,708 --> 01:25:47,504
+Porque...
+
+1247
+01:25:48,376 --> 01:25:50,276
+Puedes dudar incluso de tu propio instinto.
+
+1248
+01:25:51,112 --> 01:25:54,980
+No vas a disparar hasta que
+el punto rojo este realmente sobre el objetivo.
+
+1249
+01:25:57,385 --> 01:25:58,750
+Yo no soy como tú,
+
+1250
+01:25:59,387 --> 01:26:00,354
+yo no tomo riesgos.
+
+1251
+01:26:00,788 --> 01:26:03,018
+¿Los riesgos que estas tomando ahora?
+¿Son necesarios?
+
+1252
+01:26:07,695 --> 01:26:08,719
+Déjame preguntarte.
+
+1253
+01:26:09,631 --> 01:26:11,690
+¿si es verdad que una vez que matas alguien
+tienes pesadillas?
+
+1254
+01:26:14,702 --> 01:26:15,999
+¿Tratando de meterme presión?
+
+1255
+01:26:17,472 --> 01:26:19,497
+Será mejor que vayas
+y leas algunos libros más.
+
+1256
+01:26:25,113 --> 01:26:26,410
+La gente tiene conciencia.
+
+1257
+01:26:27,215 --> 01:26:28,113
+No todo el mundo...
+
+1258
+01:26:28,316 --> 01:26:31,581
+mataría para sobrevivir.
+
+1259
+01:26:32,820 --> 01:26:33,809
+El instinto de supervivencia.
+
+1260
+01:26:36,457 --> 01:26:39,858
+Si tuvieses alguna prueba,
+ya me habrías detenido.
+
+1261
+01:26:41,362 --> 01:26:42,158
+No tengo prisa.
+
+1262
+01:26:42,897 --> 01:26:43,659
+Puedes estar sentado aquí durante un tiempo.
+
+1263
+01:28:24,999 --> 01:28:25,693
+Señor.
+
+1264
+01:28:26,467 --> 01:28:27,161
+¡Se acabo el tiempo!
+
+1265
+01:28:45,219 --> 01:28:46,083
+Puedes irte ya.
+
+1266
+01:28:53,628 --> 01:28:54,560
+Creo que...
+
+1267
+01:28:55,196 --> 01:28:57,790
+sin ningún permiso,
+"el" utilizo las cuentas de la empresa.
+
+1268
+01:28:58,433 --> 01:29:00,298
+Pero los fondos se evaporaron durante la noche,
+
+1269
+01:29:00,568 --> 01:29:01,865
+cuando la crisis golpeo.
+
+1270
+01:29:03,037 --> 01:29:04,834
+Sacando a la luz una gran cantidad
+de agujeros,
+
+1271
+01:29:05,640 --> 01:29:06,629
+pero él no pudo cubrirlos todos.
+
+1272
+01:29:08,943 --> 01:29:10,274
+Perder el dinero no era su principal
+preocupación,
+
+1273
+01:29:11,212 --> 01:29:13,009
+él no podía perder su reputación
+
+1274
+01:29:13,715 --> 01:29:16,582
+Especialmente frente a su jefa,
+que era la que le había llevado hasta ahí.
+
+1275
+01:29:17,685 --> 01:29:18,947
+Entonces, apareció una oportunidad,
+
+1276
+01:29:19,420 --> 01:29:23,322
+Fong, un compañero que trabajaba para
+otra compañía de inversión contacto con él,
+
+1277
+01:29:23,925 --> 01:29:25,859
+diciéndolo que había perdido todo su dinero
+en el mercado de valores.
+
+1278
+01:29:27,061 --> 01:29:30,394
+Otro amigo, Pang Toa,
+también estaba en aprietos económicos.
+
+1279
+01:29:31,065 --> 01:29:32,760
+Entonces los tres trabajaron juntos
+para planear el atraco.
+
+1280
+01:29:33,301 --> 01:29:34,734
+Uno trabajaría desde dentro.
+
+1281
+01:29:35,236 --> 01:29:36,760
+Otro daría el golpe.
+
+1282
+01:29:38,272 --> 01:29:39,534
+Qué colaboración.
+
+1283
+01:29:40,074 --> 01:29:42,269
+No tienes pruebas que
+me conecten con el robo.
+
+1284
+01:29:44,412 --> 01:29:45,208
+Tienes razón.
+
+1285
+01:29:46,013 --> 01:29:47,002
+No hay testigos ni pruebas.
+
+1286
+01:29:47,782 --> 01:29:48,771
+No tengo nada
+
+1287
+01:30:09,170 --> 01:30:10,364
+El libro de Martin Goodman...
+
+1288
+01:30:10,838 --> 01:30:11,862
+no vale para nada tampoco.
+
+1289
+01:30:18,379 --> 01:30:19,243
+En este caso...
+
+1290
+01:30:19,714 --> 01:30:21,682
+ya que estás tan interesado en la psicología,
+
+1291
+01:30:25,253 --> 01:30:26,049
+quizás...
+
+1292
+01:30:26,888 --> 01:30:28,788
+me permita ayudarte a hacer otro intento.
+
+1293
+01:30:32,293 --> 01:30:32,987
+Seguro.
+
+1294
+01:30:38,232 --> 01:30:39,062
+En realidad...
+
+1295
+01:30:40,401 --> 01:30:41,231
+"Él"...
+
+1296
+01:30:42,303 --> 01:30:43,702
+solo era responsable...
+
+1297
+01:30:44,105 --> 01:30:45,732
+de vender los bonos.
+
+1298
+01:30:48,576 --> 01:30:49,770
+Después de la competición,
+
+1299
+01:30:51,045 --> 01:30:52,444
+no sé si fue por curiosidad
+o por aburrimiento,
+
+1300
+01:30:53,347 --> 01:30:55,941
+pero de alguna manera,
+él condujo el coche hasta la escena del crimen.
+
+1301
+01:30:58,252 --> 01:30:59,844
+Una conducta delictiva típica,
+
+1302
+01:31:00,688 --> 01:31:01,950
+siendo culpable,
+
+1303
+01:31:02,457 --> 01:31:03,788
+hay una necesidad imperiosa
+de estar en la "acción".
+
+1304
+01:31:06,594 --> 01:31:08,027
+Cuando se enteró por la radio,
+
+1305
+01:31:08,229 --> 01:31:09,594
+que había un accidente de tráfico cerca,
+
+1306
+01:31:10,398 --> 01:31:11,558
+inicialmente, se preocupo.
+
+1307
+01:31:12,400 --> 01:31:15,096
+Pero el caos provoco el retraso de la policía
+para llegar al lugar.
+
+1308
+01:31:16,003 --> 01:31:17,231
+Eso le hizo un favor.
+
+1309
+01:31:25,379 --> 01:31:26,277
+- ¡No se muevan!
+- ¡No disparen!
+
+1310
+01:31:26,481 --> 01:31:27,971
+- ¡He dijo que no se muevan!
+- ¡No lo hagas! No...
+
+1311
+01:31:29,250 --> 01:31:29,944
+¡Mírame!
+
+1312
+01:31:31,619 --> 01:31:32,483
+¡Cálmate!
+
+1313
+01:31:33,621 --> 01:31:34,315
+¿Dónde están los bonos?
+
+1314
+01:31:35,289 --> 01:31:36,313
+Todo iba bien.
+
+1315
+01:31:37,225 --> 01:31:38,658
+Pero cuando estaba a punto de partir,
+
+1316
+01:31:39,293 --> 01:31:40,920
+el vio al infiltrado...
+
+1317
+01:31:41,362 --> 01:31:43,421
+nervioso junto a un ladrón,
+gritando algo.
+
+1318
+01:31:44,298 --> 01:31:45,322
+Tenía miedo a que la policía apareciera,
+
+1319
+01:31:45,967 --> 01:31:47,264
+así que se bajó del coche,
+
+1320
+01:31:47,835 --> 01:31:49,996
+olvidando que los tres atracadores,
+no tenían ni idea de quién era.
+
+1321
+01:31:50,204 --> 01:31:50,636
+¡Toa!
+
+1322
+01:31:50,838 --> 01:31:52,567
+- ¡Mira!
+- ¡Hey! ¡No lo hagas!
+
+1323
+01:31:52,773 --> 01:31:53,432
+¡Él es el jefe!
+
+1324
+01:31:53,641 --> 01:31:54,699
+¡Cállate!
+¡Solo sal de aquí!
+
+1325
+01:31:54,909 --> 01:31:56,843
+¡No puede venir!
+¡Te reconocerán!
+
+1326
+01:32:00,081 --> 01:32:00,672
+¡No se muevan!
+
+1327
+01:32:00,882 --> 01:32:01,439
+¡No!
+
+1328
+01:32:03,651 --> 01:32:04,743
+¡¿Están locos?!
+
+1329
+01:32:05,319 --> 01:32:07,981
+- ¿Loco? Te mostrare un loco!
+- ¡No ... no!
+
+1330
+01:32:08,189 --> 01:32:09,781
+¡Lárgate de aquí!
+¡No te preocupes!
+
+1331
+01:32:12,994 --> 01:32:13,722
+- ¡Atrás!
+- No...
+
+1332
+01:32:13,928 --> 01:32:15,361
+- ¡Vuelve dentro!
+¡No disparen!
+
+1333
+01:32:18,065 --> 01:32:19,623
+Él no quería que nadie muriese,
+
+1334
+01:32:20,268 --> 01:32:21,701
+pero no pudo convencer a los atracadores,
+
+1335
+01:32:22,203 --> 01:32:23,602
+por lo que tuvo que coger su arma.
+
+1336
+01:32:26,607 --> 01:32:27,505
+- ¡No disparen!
+- ¿Qué están haciendo?
+
+1337
+01:32:27,708 --> 01:32:28,402
+No...
+
+1338
+01:32:29,644 --> 01:32:30,235
+No...
+
+1339
+01:32:34,348 --> 01:32:34,939
+¡Oye!
+
+1340
+01:32:35,182 --> 01:32:36,547
+Váyanse,
+yo me encargare de todo aquí.
+
+1341
+01:32:36,751 --> 01:32:37,615
+¿Tú te encargaras de todo?
+
+1342
+01:32:37,885 --> 01:32:38,817
+¡Yo me encargare de ti!
+
+1343
+01:32:40,087 --> 01:32:41,782
+¡No, no puedes, no puedes matarle!
+
+1344
+01:32:44,125 --> 01:32:45,854
+- ¡Él es mi amigo!
+- ¡Estaría muerto, aunque fuese tu viejo!
+
+1345
+01:32:46,227 --> 01:32:47,819
+¡No se muevan! ¡Tiren sus armas!
+
+1346
+01:32:51,866 --> 01:32:54,460
+En un principio quería detener a los atracadores
+de que dejasen de matar,
+
+1347
+01:32:55,369 --> 01:32:57,132
+no esperaba que el agente de tráfico
+apareciese de repente.
+
+1348
+01:32:58,172 --> 01:32:59,571
+Los agentes de tráficos son buenos tíos.
+
+1349
+01:33:00,708 --> 01:33:01,868
+No quería que le disparasen.
+
+1350
+01:33:02,376 --> 01:33:03,400
+Así que se hizo a un lado.
+
+1351
+01:33:04,211 --> 01:33:06,441
+Sin embargo, el policía detuvo su moto
+frente a los atracadores.
+
+1352
+01:33:09,584 --> 01:33:10,380
+¡Alto!
+
+1353
+01:33:11,285 --> 01:33:12,274
+Agente, no tengo nada que ver con esto...
+
+1354
+01:33:12,486 --> 01:33:13,111
+¡Al suelo!
+
+1355
+01:33:14,021 --> 01:33:14,544
+¿Correr?
+
+1356
+01:33:49,991 --> 01:33:51,219
+- Fong...
+- ¡Fong!
+
+1357
+01:33:52,059 --> 01:33:52,855
+¡Fong!
+
+1358
+01:33:58,899 --> 01:33:59,490
+¡Adelante!
+
+1359
+01:34:02,870 --> 01:34:03,700
+Señor Kwan.
+
+1360
+01:34:04,538 --> 01:34:05,505
+Estaba en el Club de Tiro.
+
+1361
+01:34:06,374 --> 01:34:07,671
+Tú me enseñaste a disparar.
+
+1362
+01:34:21,522 --> 01:34:22,648
+¡Espera¡
+¿Qué estás haciendo?
+
+1363
+01:34:24,892 --> 01:34:25,688
+No...
+
+1364
+01:34:26,027 --> 01:34:27,289
+Se lo ruego, no me mate...
+
+1365
+01:35:17,912 --> 01:35:19,243
+911, mi nombre es Kwan...
+
+1366
+01:35:22,283 --> 01:35:23,409
+Tuviste mucha sangre fría.
+
+1367
+01:35:24,318 --> 01:35:26,616
+En muy poco tiempo,
+pensaste en llamar a la policía,
+
+1368
+01:35:27,588 --> 01:35:29,419
+lo que te dio una sólida coartada.
+
+1369
+01:35:30,391 --> 01:35:31,358
+Es "él".
+
+1370
+01:35:35,029 --> 01:35:36,087
+Si no hay nada más,
+
+1371
+01:35:36,831 --> 01:35:37,593
+me marchare.
+
+1372
+01:35:41,102 --> 01:35:42,034
+Espera...
+
+1373
+01:35:42,903 --> 01:35:43,733
+¡Espera un minuto!
+
+1374
+01:35:51,645 --> 01:35:52,737
+Las fuertes lluvias de ese día,
+
+1375
+01:35:53,147 --> 01:35:54,774
+limpiaron el cuerpo de cualquier evidencia.
+
+1376
+01:35:55,349 --> 01:35:56,748
+Esta foto se podría titular...
+
+1377
+01:35:57,718 --> 01:35:59,185
+'El destino'
+
+1378
+01:36:06,160 --> 01:36:07,058
+Se lo merecía.
+
+1379
+01:36:08,863 --> 01:36:09,488
+¿Qué hay de mí!
+
+1380
+01:36:11,031 --> 01:36:11,827
+¿Me merecía yo también morir?
+
+1381
+01:36:12,533 --> 01:36:13,192
+¡Dime!
+
+1382
+01:36:13,467 --> 01:36:15,094
+¿Me merecía yo también morir?
+
+1383
+01:36:24,545 --> 01:36:25,375
+Nos vemos en la competición.
+
+1384
+01:36:58,813 --> 01:37:00,041
+¿Por qué tocaste mi cuenta?
+
+1385
+01:37:04,185 --> 01:37:06,210
+Diré que yo perdí todo ese dinero.
+
+1386
+01:37:06,821 --> 01:37:08,083
+Así que seré despedida.
+
+1387
+01:37:08,422 --> 01:37:09,446
+No me importa.
+
+1388
+01:37:11,158 --> 01:37:13,592
+Todo lo que tenías que hacer era pedírmelo,
+¿pensaste que yo no te podría ayudar?
+
+1389
+01:37:24,038 --> 01:37:24,800
+Ken.
+
+1390
+01:37:26,106 --> 01:37:27,437
+Sólo tienes que dejarla.
+
+1391
+01:37:28,209 --> 01:37:30,700
+No me importa lo que hayas hecho,
+yo puedo fingir que nunca sucedió.
+
+1392
+01:37:30,978 --> 01:37:32,138
+Mientras estés dispuesto a dejarla.
+
+1393
+01:37:33,581 --> 01:37:34,980
+No puedo hacerla daño.
+
+1394
+01:37:35,850 --> 01:37:37,818
+Ella nunca me ha hecho daño.
+
+1395
+01:37:38,018 --> 01:37:39,576
+¿Alguna vez te he lastimado?
+
+1396
+01:37:40,554 --> 01:37:41,452
+No tenias nada,
+
+1397
+01:37:41,655 --> 01:37:44,215
+¡yo fui la que te ayudo
+a ser lo que eres ahora!
+
+1398
+01:37:44,425 --> 01:37:45,722
+¿Cómo puedes tratarme así?
+
+1399
+01:37:47,561 --> 01:37:49,392
+Te llevabas todas las oportunidades que yo tenía.
+
+1400
+01:37:49,630 --> 01:37:51,393
+Te oponías a todos la decisiones que yo tomaba.
+
+1401
+01:37:51,632 --> 01:37:53,156
+Compraba Yenes vendías Yenes,
+compraba esto, vendías eso...
+
+1402
+01:37:53,367 --> 01:37:53,833
+todo...
+
+1403
+01:37:54,034 --> 01:37:55,797
+Porque todas tus decisiones, normalmente,
+eran erróneas.
+
+1404
+01:37:56,003 --> 01:37:57,732
+¿Y me culpas por protegerte?
+
+1405
+01:37:58,272 --> 01:37:59,500
+¡Fue por tu propio bien!
+
+1406
+01:38:01,041 --> 01:38:02,338
+Sólo quiero mi dignidad.
+
+1407
+01:38:02,977 --> 01:38:04,877
+Llegar a la meta es solo todo lo que importa.
+
+1408
+01:38:05,079 --> 01:38:07,206
+Dignidad o no, ¿para qué sirve?
+
+1409
+01:38:32,306 --> 01:38:33,000
+Adiós.
+
+1410
+01:38:37,044 --> 01:38:37,738
+Ting.
+
+1411
+01:38:39,813 --> 01:38:40,973
+Lo tengo todo hecho.
+
+1412
+01:38:41,448 --> 01:38:42,176
+Nos vamos mañana.
+
+1413
+01:38:43,117 --> 01:38:43,981
+Nos vamos a ir a Europa,
+
+1414
+01:38:44,251 --> 01:38:45,240
+luego a Sudáfrica,
+
+1415
+01:38:45,552 --> 01:38:46,280
+después...
+
+1416
+01:38:46,620 --> 01:38:48,212
+cogeremos un crucero en Argentina
+he iremos al Polo Sur,
+
+1417
+01:38:48,555 --> 01:38:49,522
+y luego a Phuket.
+
+1418
+01:38:51,792 --> 01:38:53,589
+Olvídalo todo,
+vamos a coger a un vuelo esta noche.
+
+1419
+01:38:54,728 --> 01:38:55,353
+No puedo.
+
+1420
+01:38:55,863 --> 01:38:57,125
+Billy Tsui se podría despertar.
+
+1421
+01:38:57,331 --> 01:38:58,559
+He sido trasladada a su cuidado.
+
+1422
+01:39:07,207 --> 01:39:08,538
+¿Por qué tanta prisa por marcharnos?
+
+1423
+01:39:09,810 --> 01:39:10,799
+¿Qué pasa con la casa?
+
+1424
+01:39:11,612 --> 01:39:12,579
+¿Y los muebles?
+
+1425
+01:39:13,247 --> 01:39:14,305
+¿Y la cuenta del banco?
+
+1426
+01:39:16,583 --> 01:39:18,448
+La casa en Phuket no se ha terminado todavía.
+
+1427
+01:39:18,986 --> 01:39:20,476
+Así que, ¿dónde íbamos a vivir?
+
+1428
+01:39:21,155 --> 01:39:22,679
+Tienes que darme tiempo
+para dejar el trabajo.
+
+1429
+01:39:26,460 --> 01:39:27,119
+Tengo que irme.
+
+1430
+01:39:28,128 --> 01:39:29,117
+Hablaremos más tarde.
+
+1431
+01:41:16,470 --> 01:41:17,266
+Lo siento.
+
+1432
+01:41:19,073 --> 01:41:20,267
+Tengo que volver a matarte.
+
+1433
+01:42:14,128 --> 01:42:15,322
+Está con muerte cerebral.
+
+1434
+01:42:16,230 --> 01:42:19,290
+La familia acordó retirarle el ventilador
+la semana pasada.
+
+1435
+01:42:28,308 --> 01:42:29,605
+¿Tienes que ser tan inhumano?
+
+1436
+01:42:30,043 --> 01:42:31,101
+Él ya está en coma.
+
+1437
+01:42:31,612 --> 01:42:33,512
+¿Y quieres volver a matarle?
+
+1438
+01:42:33,747 --> 01:42:35,078
+No puedo arrestarle.
+
+1439
+01:42:35,315 --> 01:42:36,646
+Esta es mi única oportunidad.
+
+1440
+01:42:37,317 --> 01:42:38,306
+- ¿Eres un ser humano?
+- ¡No lo hagas!
+
+1441
+01:42:38,519 --> 01:42:39,747
+Warren... Warren... escúchame...
+
+1442
+01:42:39,953 --> 01:42:40,977
+Escúchame...
+
+1443
+01:42:42,356 --> 01:42:44,551
+Tu hermano ya está muerto.
+
+1444
+01:42:45,526 --> 01:42:48,393
+Él se dirigía a detener a esos atracadores.
+
+1445
+01:42:49,229 --> 01:42:50,491
+Si él pudiera,
+
+1446
+01:42:50,731 --> 01:42:52,665
+estaría de acuerdo en esto.
+
+1447
+01:43:02,910 --> 01:43:03,399
+¿Por qué no le dejas en paz?
+
+1448
+01:43:03,610 --> 01:43:05,237
+¿Por qué estás en contra de él?
+
+1449
+01:43:06,313 --> 01:43:07,610
+Él te ha mentido todo este tiempo.
+
+1450
+01:43:07,814 --> 01:43:09,714
+Si quieres probar su inocencia,
+
+1451
+01:43:10,250 --> 01:43:12,218
+todo lo tienes que decir es que
+Billy ha despertando,
+
+1452
+01:43:12,553 --> 01:43:13,383
+entonces sabrás la verdad.
+
+1453
+01:43:16,023 --> 01:43:17,285
+¿Por qué me mentiste?
+
+1454
+01:43:23,564 --> 01:43:25,327
+Él me prometió que no va a disparar.
+
+1455
+01:43:27,935 --> 01:43:29,493
+Dirá que te entregaste.
+
+1456
+01:44:03,503 --> 01:44:05,164
+Puedes dejar tu arma y
+hacerlo por las buenas.
+
+1457
+01:44:07,374 --> 01:44:08,864
+O si no dejas el arma,
+hacerlo por la malas.
+
+1458
+01:44:11,411 --> 01:44:12,776
+Espero que no hagas una mala elección.
+
+1459
+01:47:14,661 --> 01:47:15,992
+No has encontrado los objetivos.
+
+1460
+01:47:16,863 --> 01:47:17,921
+Has perdido.
+
+1461
+01:47:33,146 --> 01:47:34,670
+Esto es el fin de la competición.
+
+1462
+01:47:35,816 --> 01:47:37,283
+Descargue y muestre la recamara.
+
+1463
+01:47:49,663 --> 01:47:50,561
+¿Estás listo?
+
+1464
+01:49:27,394 --> 01:49:28,224
+¡No lo hagas!
+
+1465
+01:50:47,207 --> 01:50:48,834
+Oh, señorita Shaw, está aquí.
+
+1466
+01:50:49,042 --> 01:50:50,475
+El presidente llamó
+y me dijo que tuviste una gran intuición.
+
+1467
+01:50:50,777 --> 01:50:51,835
+El Yen tocó el techo.
+
+1468
+01:50:52,045 --> 01:50:53,945
+Dijo que fuiste la única que se atrevió a comprar.
+
+1469
+01:51:54,941 --> 01:51:56,135
+Oye... aquí hay peces.
+
+1470
+01:51:58,611 --> 01:51:59,305
+¡Oye!
+
+1471
+01:51:59,679 --> 01:52:00,407
+Deja el carrete.
+
+1472
+01:52:01,247 --> 01:52:02,373
+Recoge sedal.
+
+1473
+01:52:03,583 --> 01:52:04,481
+¡Vaya!
+
+1474
+01:52:06,753 --> 01:52:07,549
+De acuerdo.
+
+1475
+01:52:07,754 --> 01:52:08,812
+Así que esta vez ganaste.
+
+1476
+01:52:09,589 --> 01:52:10,317
+Sí, ¿y qué?
+
+1477
+01:52:11,725 --> 01:52:12,521
+Tenias razón.
+
+1478
+01:52:13,460 --> 01:52:15,155
+Si hay un duelo entre dos grandes tiradores.
+
+1479
+01:52:15,495 --> 01:52:16,621
+Un segundo de diferencia o menos,
+
+1480
+01:52:17,263 --> 01:52:18,321
+no significa nada en absoluto.
+
+1481
+01:52:19,699 --> 01:52:21,030
+Por suerte tenía el chaleco antibalas puesto.
+
+1482
+01:52:22,168 --> 01:52:23,601
+Yo estaba hablando de la pesca.
+
+1483
+01:53:10,556 --> 01:53:20,556
+Traducción: Masacre
+www.allzine.org

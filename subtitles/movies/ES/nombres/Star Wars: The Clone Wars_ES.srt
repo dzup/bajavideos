@@ -1,0 +1,4869 @@
+1
+00:00:15,498 --> 00:00:16,863
+<i>...todas las unidades.
+- Fuego a discreción.</i>
+
+2
+00:00:16,933 --> 00:00:18,093
+<i>Escuadrón 2, escoja su objetivo.</i>
+
+3
+00:00:18,167 --> 00:00:20,499
+<i>- Hay demasiados, Capitán.
+- Cuidado con el estabilizador, Oro 6.</i>
+
+4
+00:00:20,570 --> 00:00:22,504
+<i>Que alguien me cubra.
+Tengo dos naves enemigas pegadas.</i>
+
+5
+00:00:22,572 --> 00:00:24,164
+<i>- Debemos mantenerlos aquí.
+- ¡Cuidado a la izquierda!</i>
+
+6
+00:00:24,240 --> 00:00:27,266
+<i>- No puedo escapar. ¡Me dieron!
+- ¿Dónde están los refuerzos?</i>
+
+7
+00:00:27,343 --> 00:00:31,609
+Hace mucho tiempo,
+en una galaxia muy, muy lejana...
+
+8
+00:00:51,034 --> 00:00:52,831
+<i>¡Una galaxia dividida!</i>
+
+9
+00:00:52,902 --> 00:00:55,735
+<i>Después de obtener la victoria
+en la Batalla de Geonósis,</i>
+
+10
+00:00:55,805 --> 00:00:57,966
+<i>el ejército de droides
+del Conde Dooku ha tomado</i>
+
+11
+00:00:58,041 --> 00:01:00,339
+<i>el control de las principales rutas
+del hiperespacio,</i>
+
+12
+00:01:00,410 --> 00:01:04,073
+<i>aislando a la República
+de gran parte de su ejército de clones.</i>
+
+13
+00:01:04,247 --> 00:01:06,078
+<i>Con pocos clones disponibles,</i>
+
+14
+00:01:06,149 --> 00:01:09,243
+<i>los Generales Jedi no pueden
+controlar el borde exterior</i>
+
+15
+00:01:09,319 --> 00:01:13,449
+<i>conforme más y más planetas
+se unen a los Separatistas de Dooku.</i>
+
+16
+00:01:15,058 --> 00:01:17,458
+<i>Mientras los Jedi están ocupados
+con una guerra,</i>
+
+17
+00:01:17,527 --> 00:01:19,961
+<i>no queda nadie para resguardar la paz.</i>
+
+18
+00:01:20,163 --> 00:01:22,188
+<i>El caos y el crimen se extienden,</i>
+
+19
+00:01:22,265 --> 00:01:25,894
+<i>y los inocentes se vuelven víctimas
+en una galaxia sin ley.</i>
+
+20
+00:01:26,102 --> 00:01:28,502
+<i>El hijo de Jabba the Hutt
+ha sido secuestrado</i>
+
+21
+00:01:28,571 --> 00:01:31,005
+<i>por una banda de piratas rivales.</i>
+
+22
+00:01:31,441 --> 00:01:35,434
+<i>Desesperado por salvar a su hijo,
+Jabba envía una señal de auxilio.</i>
+
+23
+00:01:36,312 --> 00:01:39,770
+<i>Una señal que los Jedi responden
+con cautela.</i>
+
+24
+00:01:40,450 --> 00:01:42,418
+<i>Jabba solicita que cualquiera que pueda</i>
+
+25
+00:01:42,485 --> 00:01:44,680
+<i>ayudarnos a encontrar
+a su hijo secuestrado</i>
+
+26
+00:01:44,754 --> 00:01:47,655
+<i>envíe toda la información
+que tenga de inmediato.</i>
+
+27
+00:01:47,957 --> 00:01:51,791
+Tenemos que ayudar a Jabba. Es
+la oportunidad que estábamos esperando.
+
+28
+00:01:51,961 --> 00:01:54,429
+Los Jedi deben rescatar
+al hijo de Jabba.
+
+29
+00:01:54,597 --> 00:01:58,465
+No estoy seguro.
+Tratar con ese bajo criminal.
+
+30
+00:01:59,335 --> 00:02:01,826
+Éste es un día oscuro para la República.
+
+31
+00:02:02,005 --> 00:02:05,168
+Estoy de acuerdo, amigo mío,
+pero, ¿qué opción tenemos?
+
+32
+00:02:05,341 --> 00:02:07,275
+Los Hutts controlan el borde exterior,
+
+33
+00:02:07,343 --> 00:02:10,938
+y necesitamos sus rutas
+para movilizar a nuestras tropas.
+
+34
+00:02:11,147 --> 00:02:14,776
+Debe haber más detrás de este rapto
+de lo que parece.
+
+35
+00:02:15,118 --> 00:02:17,951
+Entonces envíe
+a todos los Jedi que pueda.
+
+36
+00:02:18,221 --> 00:02:19,882
+Imposible, Canciller.
+
+37
+00:02:20,123 --> 00:02:23,286
+El General droide Grievous
+ha debilitado nuestras fuerzas.
+
+38
+00:02:23,359 --> 00:02:26,988
+Los únicos Jedi que tenemos son
+Skywalker y Kenobi.
+
+39
+00:02:27,163 --> 00:02:29,654
+Acaban de capturar
+el planeta Christophsis.
+
+40
+00:02:29,732 --> 00:02:32,064
+Contáctelos de inmediato.
+
+41
+00:02:51,320 --> 00:02:53,618
+<i>Tenemos que contactar al General Kenobi.</i>
+
+42
+00:02:53,689 --> 00:02:56,749
+No podemos enlazarnos con él.
+Podría ser una tormenta solar,
+
+43
+00:02:56,826 --> 00:02:59,124
+o podrían estar modulando
+su sistema de comunicación.
+
+44
+00:02:59,195 --> 00:03:01,356
+Seguramente es algo temporal.
+
+45
+00:03:01,431 --> 00:03:03,058
+<i>Una mensajera enviaremos,</i>
+
+46
+00:03:03,132 --> 00:03:04,827
+<i>con importantes órdenes
+para el General Kenobi.</i>
+
+47
+00:03:04,901 --> 00:03:07,836
+<i>Asegúrese de que llegue a él
+lo antes posible.</i>
+
+48
+00:03:08,004 --> 00:03:10,905
+Sí, señor.
+En cuanto descarguemos las provisiones.
+
+49
+00:03:11,274 --> 00:03:14,675
+<i>Tiempo no hay.
+De inmediato la mensajera debe ir.</i>
+
+50
+00:03:15,111 --> 00:03:17,341
+Lo entiendo, señor.
+
+51
+00:03:17,413 --> 00:03:19,813
+Pilotearé personalmente
+una nave sin carga para llevarla,
+
+52
+00:03:19,882 --> 00:03:22,112
+luego, volveré por mis refuerzos.
+
+53
+00:03:25,254 --> 00:03:26,778
+¡Ya, ya, ya!
+
+54
+00:03:28,191 --> 00:03:29,681
+¡Han vuelto!
+
+55
+00:03:31,427 --> 00:03:33,554
+Te dije que era una victoria
+demasiado fácil.
+
+56
+00:03:33,629 --> 00:03:36,120
+Jamás debimos enviar
+la nave por provisiones.
+
+57
+00:03:36,199 --> 00:03:38,690
+No fue mi idea enviar la nave de vuelta.
+
+58
+00:03:38,868 --> 00:03:40,961
+Atención, hombres.
+La segunda ola se aproxima.
+
+59
+00:03:41,037 --> 00:03:43,028
+Rex, sígueme con tus hombres.
+
+60
+00:03:43,239 --> 00:03:45,036
+¡Cody! ¡A la carga!
+
+61
+00:03:45,108 --> 00:03:46,234
+¡Al frente!
+
+62
+00:04:22,145 --> 00:04:23,407
+¡Están aquí!
+
+63
+00:04:31,921 --> 00:04:34,014
+Skywalker ya debió haber atacado.
+
+64
+00:04:34,257 --> 00:04:36,418
+¡Descuida! ¡Conoce el plan!
+
+65
+00:04:40,496 --> 00:04:42,623
+¿Cuál es el plan de ataque, señor?
+
+66
+00:04:42,765 --> 00:04:43,823
+Síganme.
+
+67
+00:05:02,118 --> 00:05:03,380
+¡A la carga!
+
+68
+00:05:05,755 --> 00:05:07,746
+- ¡Acábenlos!
+- ¡Acaben con ellos!
+
+69
+00:05:08,991 --> 00:05:10,322
+¡Así se hace!
+
+70
+00:05:20,636 --> 00:05:22,661
+¡Vamos, traidores!
+
+71
+00:05:44,760 --> 00:05:47,456
+- Objetivo.
+- Cuidado. Allí, ¡a la derecha!
+
+72
+00:06:17,827 --> 00:06:19,522
+Necesitamos refuerzos.
+
+73
+00:06:19,595 --> 00:06:22,120
+No hemos podido contactar al Almirante.
+
+74
+00:06:41,584 --> 00:06:44,951
+<i>- ¿Por qué se detienen?
+- Sus cañones no nos dejan pasar, señor.</i>
+
+75
+00:06:45,021 --> 00:06:47,353
+¿Cañones? Eso no puede ser.
+
+76
+00:06:47,523 --> 00:06:51,425
+Tenemos que retroceder
+y activar los escudos deflectores.
+
+77
+00:06:51,794 --> 00:06:53,887
+¡Que regresen todas las tropas!
+
+78
+00:06:55,398 --> 00:06:57,127
+¡Retrocedan! ¡Retrocedan!
+
+79
+00:06:57,466 --> 00:06:59,832
+- Entendido. Entendido.
+- Entendido. Entendido.
+
+80
+00:06:59,902 --> 00:07:01,130
+Se apartan.
+
+81
+00:07:07,610 --> 00:07:09,737
+Parece que llegó ayuda.
+
+82
+00:07:12,615 --> 00:07:14,048
+La nave ya debió haber vuelto.
+
+83
+00:07:14,116 --> 00:07:16,710
+Lo que significa
+que los refuerzos llegaron.
+
+84
+00:07:16,919 --> 00:07:20,946
+Parece que se acabaron nuestros
+problemas. Tropas nuevas, provisiones,
+
+85
+00:07:21,123 --> 00:07:23,489
+tal vez mi nuevo
+padawan venga con ellos.
+
+86
+00:07:23,559 --> 00:07:26,858
+¿En verdad te parece una buena idea
+involucrar a un padawan en todo esto?
+
+87
+00:07:26,929 --> 00:07:28,760
+Ya hablé con el Maestro Yoda sobre eso.
+
+88
+00:07:28,831 --> 00:07:32,562
+También deberías solicitar uno.
+Serías un buen Maestro.
+
+89
+00:07:32,902 --> 00:07:34,062
+No, gracias.
+
+90
+00:07:34,270 --> 00:07:36,898
+Anakin, enseñar es un privilegio.
+
+91
+00:07:37,239 --> 00:07:41,335
+Y es parte de la responsabilidad de un
+Jedi entrenar a la siguiente generación.
+
+92
+00:07:41,410 --> 00:07:43,742
+Un padawan sólo me frenaría.
+
+93
+00:07:52,221 --> 00:07:53,381
+¿Una niña?
+
+94
+00:07:53,589 --> 00:07:55,648
+Y tú ¿quién se supone que eres?
+
+95
+00:07:57,493 --> 00:08:00,189
+Soy Ahsoka. El Maestro Yoda me envía.
+
+96
+00:08:00,363 --> 00:08:01,887
+Me pidió que les dijera
+
+97
+00:08:01,964 --> 00:08:04,455
+que deben volver
+al Templo Jedi de inmediato.
+
+98
+00:08:04,533 --> 00:08:07,525
+- Hay una emergencia.
+- No sé si ya lo notaste,
+
+99
+00:08:07,603 --> 00:08:09,798
+pero aquí también tenemos
+una emergencia.
+
+100
+00:08:09,872 --> 00:08:12,340
+El sistema de comunicaciones
+ha estado fallando un poco,
+
+101
+00:08:12,408 --> 00:08:14,000
+pero necesitamos ayuda.
+
+102
+00:08:14,176 --> 00:08:16,377
+El Maestro Yoda no
+sabía nada de ustedes...
+
+103
+00:08:16,378 --> 00:08:18,579
+...así que me envió
+para darles el mensaje.
+
+104
+00:08:19,115 --> 00:08:21,276
+Ni siquiera saben
+que estamos en problemas.
+
+105
+00:08:21,350 --> 00:08:25,150
+Tal vez puedan enviar una señal
+desde el crucero que acaba de traerme.
+
+106
+00:08:37,900 --> 00:08:40,232
+¡Tenemos que regresar por los refuerzos!
+
+107
+00:08:40,302 --> 00:08:42,293
+¡Hay que salir de aquí!
+
+108
+00:08:42,505 --> 00:08:44,598
+Los Separatistas nos están atacando,
+
+109
+00:08:44,673 --> 00:08:48,302
+pero intentaré hacer contacto
+con el Templo Jedi. Un momento.
+
+110
+00:08:56,485 --> 00:08:59,716
+<i>Maestro Kenobi, que Ahsoka
+lo haya encontrado gusto me da.</i>
+
+111
+00:08:59,889 --> 00:09:03,950
+Maestro Yoda, estamos atrapados,
+y en una situación de desventaja.
+
+112
+00:09:04,026 --> 00:09:08,087
+No estamos en posición
+de ir a ningún sitio ni de hacer nada.
+
+113
+00:09:08,431 --> 00:09:10,899
+Nuestras naves de apoyo
+fueron destruidas.
+
+114
+00:09:11,066 --> 00:09:13,762
+<i>Refuerzos les enviaremos entonces.</i>
+
+115
+00:09:14,203 --> 00:09:16,068
+¿Maestro Yoda? ¡Maestro Yoda!
+
+116
+00:09:19,408 --> 00:09:21,103
+Perdimos la transmisión, señor.
+
+117
+00:09:21,177 --> 00:09:24,442
+Tenemos que salir de órbita.
+Se acercan más naves enemigas.
+
+118
+00:09:24,513 --> 00:09:26,242
+Los contactaremos después.
+
+119
+00:09:26,348 --> 00:09:28,373
+Tendremos que seguir aguardando.
+
+120
+00:09:30,719 --> 00:09:34,120
+Te ofrezco una disculpa.
+No nos hemos presentado formalmente.
+
+121
+00:09:36,225 --> 00:09:39,388
+Soy la nueva padawan, señor.
+Soy Ahsoka Tano.
+
+122
+00:09:39,862 --> 00:09:42,387
+Yo soy Obi-Wan Kenobi, tu nuevo maestro.
+
+123
+00:09:42,865 --> 00:09:45,299
+Estoy para servirle, Maestro Kenobi,
+
+124
+00:09:45,634 --> 00:09:48,831
+pero temo que en realidad
+me asignaron con el Maestro Skywalker.
+
+125
+00:09:48,904 --> 00:09:51,395
+¿Qué? No, no, no, no, no, no.
+
+126
+00:09:51,607 --> 00:09:54,599
+Debe haber un error.
+Él es el que quería un padawan.
+
+127
+00:09:54,777 --> 00:09:57,905
+No. El Maestro Yoda fue bastante claro.
+
+128
+00:09:58,080 --> 00:10:02,176
+Me asignó con Anakin Skywalker,
+quien debía supervisar mi entrenamiento.
+
+129
+00:10:04,420 --> 00:10:07,617
+- Pero eso no tiene sentido.
+- Tendremos que aclararlo después.
+
+130
+00:10:07,690 --> 00:10:11,148
+Esos droides no tardarán mucho en
+descubrir cómo evadir nuestros cañones.
+
+131
+00:10:11,227 --> 00:10:13,559
+Voy con Rex para ver cómo va todo.
+
+132
+00:10:13,896 --> 00:10:15,761
+Mejor llévala contigo.
+
+133
+00:10:24,974 --> 00:10:29,138
+Traje al hijo de Jabba
+al monasterio abandonado.
+
+134
+00:10:29,478 --> 00:10:32,470
+Aquí estará seguro.
+
+135
+00:10:32,982 --> 00:10:34,973
+<i>Bien. Bien.</i>
+
+136
+00:10:35,284 --> 00:10:38,117
+<i>Todo marcha según los planes.</i>
+
+137
+00:10:38,454 --> 00:10:40,445
+Sí, mi lord.
+
+138
+00:10:42,591 --> 00:10:47,255
+<i>Pronto, los Jedi no sólo estarán
+en guerra con usted, Conde,</i>
+
+139
+00:10:47,596 --> 00:10:50,326
+<i>sino también con el clan de los Hutts.</i>
+
+140
+00:11:04,380 --> 00:11:05,813
+¿Qué reportas, Rex?
+
+141
+00:11:05,981 --> 00:11:09,314
+Todo tranquilo, señor.
+Se preparan para otro ataque.
+
+142
+00:11:09,585 --> 00:11:10,882
+¿Quién es la niña?
+
+143
+00:11:10,953 --> 00:11:14,855
+Soy la padawan del Maestro
+Skywalker. Me llamo Ahsoka Tano.
+
+144
+00:11:15,958 --> 00:11:18,256
+¿No dijo que jamás tendría un padawan?
+
+145
+00:11:18,360 --> 00:11:20,920
+Hubo un malentendido.
+La niña no viene conmigo.
+
+146
+00:11:20,996 --> 00:11:23,965
+¡No me llames así!
+Tendrás que aguantarme, Skywito.
+
+147
+00:11:25,000 --> 00:11:28,629
+¿Cómo me llamaste? Más te vale
+que tengas cuidado con lo que dices.
+
+148
+00:11:28,804 --> 00:11:31,568
+Ni siquiera creo que tengas la edad
+para ser una padawan.
+
+149
+00:11:31,640 --> 00:11:34,871
+Tal vez no,
+pero el Maestro Yoda piensa que sí.
+
+150
+00:11:35,044 --> 00:11:36,978
+Bien, el Maestro Yoda no está aquí.
+
+151
+00:11:37,046 --> 00:11:39,480
+Así que si estás lista,
+más vale que empieces a probarlo.
+
+152
+00:11:39,548 --> 00:11:43,314
+El Capitán Rex te enseñará lo mucho
+que puede lograr algo de respeto.
+
+153
+00:11:43,719 --> 00:11:45,983
+Eh, claro.
+
+154
+00:11:46,322 --> 00:11:49,189
+- Vámonos, niña.
+- Padawan.
+
+155
+00:11:51,660 --> 00:11:54,288
+¿No ha considerado retirar
+ese frente, Capitán?
+
+156
+00:11:54,363 --> 00:11:56,126
+Así tendrían mayor ventaja.
+
+157
+00:11:56,198 --> 00:11:57,597
+Gracias por la sugerencia,
+
+158
+00:11:57,666 --> 00:12:00,134
+pero el General Skywalker
+piensa que ahí está bien.
+
+159
+00:12:00,202 --> 00:12:04,502
+Entonces, si usted es Capitán
+y yo soy una Jedi,
+
+160
+00:12:05,074 --> 00:12:07,736
+en teoría soy superior, ¿no?
+
+161
+00:12:08,077 --> 00:12:11,513
+En mi opinión, la experiencia
+pesa más que cualquier rango.
+
+162
+00:12:11,714 --> 00:12:16,208
+Si la experiencia pesa más que cualquier
+rango, más vale que empiece a obtenerla.
+
+163
+00:12:16,552 --> 00:12:17,883
+¿Qué es eso?
+
+164
+00:12:20,956 --> 00:12:23,720
+Oh, no. Tienen un escudo de energía.
+
+165
+00:12:23,892 --> 00:12:26,156
+Eso hará que esta misión sea imposible.
+
+166
+00:12:26,228 --> 00:12:28,389
+Si querías experiencia, jovencita,
+
+167
+00:12:28,797 --> 00:12:31,891
+parece que estás a punto
+de obtener bastante.
+
+168
+00:12:51,920 --> 00:12:53,285
+¿Qué sucede?
+
+169
+00:12:55,791 --> 00:12:57,224
+<i>Los clones están retrocediendo,</i>
+
+170
+00:12:57,292 --> 00:13:00,455
+<i>y los tanques están aproximándose
+al centro de la ciudad.</i>
+
+171
+00:13:00,562 --> 00:13:03,690
+¡Lleguen hasta esos cañones pesados
+cuanto antes!
+
+172
+00:13:15,944 --> 00:13:18,208
+El generador del escudo está
+en esta zona.
+
+173
+00:13:18,280 --> 00:13:22,273
+Están aumentando el diámetro
+gradualmente para proteger a sus tropas.
+
+174
+00:13:22,451 --> 00:13:24,544
+Los cañones no servirán de nada
+contra eso.
+
+175
+00:13:24,620 --> 00:13:28,078
+Conforme se acerquen, podríamos intentar
+atraerlos hacia los edificios.
+
+176
+00:13:28,157 --> 00:13:30,387
+Eso podría emparejar un poco las cosas.
+
+177
+00:13:30,459 --> 00:13:34,452
+Si el escudo causa tantos
+problemas, ¿por qué no lo desactivamos?
+
+178
+00:13:34,563 --> 00:13:40,297
+- Eso se dice muy fácil.
+- Pues yo, la verdad, estoy de acuerdo.
+
+179
+00:13:40,369 --> 00:13:43,805
+Alguien tiene que llegar al generador
+de ese escudo y destruirlo.
+
+180
+00:13:43,872 --> 00:13:45,032
+Ésa es la solución.
+
+181
+00:13:45,107 --> 00:13:48,508
+Excelente. Tal vez logren escabullirse
+por las líneas enemigas
+
+182
+00:13:48,610 --> 00:13:50,635
+y resolver este problema juntos.
+
+183
+00:13:50,813 --> 00:13:53,680
+- Desde luego, Maestro Kenobi.
+- Yo soy el que decide.
+
+184
+00:13:54,016 --> 00:13:56,109
+Si Rex y yo los enfrentamos aquí,
+
+185
+00:13:56,185 --> 00:14:00,053
+tal vez tengan la oportunidad de
+atravesar su frente sin ser detectados.
+
+186
+00:14:00,122 --> 00:14:03,216
+No tendrán mucho tiempo.
+Los droides nos superan en número,
+
+187
+00:14:03,292 --> 00:14:06,955
+nuestra capacidad de pelea se limita
+mucho sin la utilización de cañones.
+
+188
+00:14:07,029 --> 00:14:09,054
+Marcharán bajo la protección
+de su escudo
+
+189
+00:14:09,131 --> 00:14:12,828
+hasta que lleguen hasta nuestros
+cañones, y entonces los harán volar.
+
+190
+00:14:12,901 --> 00:14:15,836
+Buscaremos la forma.
+¿Listo, Maestro? Vámonos.
+
+191
+00:14:16,038 --> 00:14:20,031
+Si sobrevivimos, Sabionda,
+tú y yo vamos a hablar.
+
+192
+00:14:20,709 --> 00:14:24,645
+Hacen una singular pareja,
+¿no, señor? ¿Cree que lo logren?
+
+193
+00:14:24,813 --> 00:14:25,905
+Más les vale.
+
+194
+00:14:25,981 --> 00:14:29,917
+Si no destruyen el generador del escudo
+antes de que llegue a los cañones,
+
+195
+00:14:29,985 --> 00:14:31,976
+ninguno de nosotros escapará.
+
+196
+00:14:36,091 --> 00:14:37,456
+¿Qué averiguaste?
+
+197
+00:14:37,526 --> 00:14:40,188
+Parece que los cazarrecompensas
+subieron allá.
+
+198
+00:14:40,362 --> 00:14:44,025
+Contacta al General Windu.
+Dile que encontramos al Hutt.
+
+199
+00:14:44,900 --> 00:14:45,924
+¿Sí, Comandante?
+
+200
+00:14:46,001 --> 00:14:47,628
+<i>Descubrimos que Jabba the Hutt</i>
+
+201
+00:14:47,703 --> 00:14:50,467
+<i>también contrató a
+cazarrecompensas para buscar a su hijo,</i>
+
+202
+00:14:50,539 --> 00:14:53,201
+<i>y los seguimos hasta un monasterio
+en el planeta Teth.</i>
+
+203
+00:14:53,275 --> 00:14:54,970
+<i>Pensamos que ahí tienen
+al hijo de Jabba...</i>
+
+204
+00:14:55,043 --> 00:14:58,035
+<i>...pero está demasiado vigilado para
+que nosotros lo hagamos solos, señor.</i>
+
+205
+00:14:58,113 --> 00:15:01,173
+Comandante, que no los detecten
+y esperen instrucciones.
+
+206
+00:15:01,250 --> 00:15:02,683
+<i>Entendido, General.</i>
+
+207
+00:15:03,352 --> 00:15:07,550
+Inusual es, que problemas Obi-Wan tenga
+dominando al ejército droide.
+
+208
+00:15:07,723 --> 00:15:09,281
+Yo me encargo.
+
+209
+00:15:09,458 --> 00:15:13,121
+Comuníqueme con el Almirante Wurtz.
+Necesito tres cruceros estelares.
+
+210
+00:15:13,195 --> 00:15:14,219
+<i>Sí, General.</i>
+
+211
+00:15:14,296 --> 00:15:17,356
+Más grande de lo que pensamos,
+este misterio podría ser.
+
+212
+00:15:17,432 --> 00:15:20,731
+Con la flota que ayudará
+al Maestro Kenobi iré.
+
+213
+00:15:24,072 --> 00:15:26,131
+¿Y bien? ¿Cuál es el plan?
+
+214
+00:15:26,475 --> 00:15:31,572
+- Creí que tú eras la del plan.
+- No. Yo soy la del entusiasmo.
+
+215
+00:15:31,747 --> 00:15:35,740
+Tú eres el de la experiencia,
+y de quien espero aprender algo.
+
+216
+00:15:36,418 --> 00:15:40,650
+Primero, tenemos que atravesar ese
+escudo e infiltrarnos entre los tanques.
+
+217
+00:15:41,924 --> 00:15:44,290
+¿Por qué no los rodeamos?
+¿Los evadimos?
+
+218
+00:15:44,393 --> 00:15:47,385
+- Llevaría demasiado.
+- ¿Y cruzamos por el centro?
+
+219
+00:15:47,563 --> 00:15:51,021
+Imposible. A menos que te conviertas
+en un droide.
+
+220
+00:15:51,366 --> 00:15:52,856
+Está bien. Tú ganas.
+
+221
+00:15:53,135 --> 00:15:56,571
+Mi primera lección será esperar
+mientras tú encuentras solución.
+
+222
+00:15:56,638 --> 00:15:59,072
+Se acabó la espera. Ya tengo un plan.
+
+223
+00:16:17,226 --> 00:16:20,218
+Ese escudo ya me está empezando
+a irritar.
+
+224
+00:16:20,462 --> 00:16:24,057
+Es inútil, señor. Aun a máxima potencia,
+el cañón no le hace nada.
+
+225
+00:16:24,132 --> 00:16:28,330
+Bien, Rex. El intento se hizo.
+Dile a tus hombres que vuelvan.
+
+226
+00:16:46,989 --> 00:16:48,718
+¡Éste es un absurdo plan!
+
+227
+00:16:48,891 --> 00:16:52,383
+Deberíamos enfrentarlos
+en vez de escondernos.
+
+228
+00:16:52,561 --> 00:16:55,724
+Sólo que su escudo deflector de energía
+acaba de cruzar sobre nosotros.
+
+229
+00:16:55,797 --> 00:16:58,823
+Si no atraviesas sus líneas,
+que ellas te atraviesen a ti.
+
+230
+00:16:58,901 --> 00:17:00,368
+Si tú lo dices.
+
+231
+00:17:12,514 --> 00:17:15,677
+Estamos dentro del escudo.
+Aléjense de esos tanques.
+
+232
+00:17:21,657 --> 00:17:22,885
+¿Un Jedi?
+
+233
+00:17:35,003 --> 00:17:38,063
+- ¿Dónde está el General?
+- ¡No lo sé, señor!
+
+234
+00:17:44,546 --> 00:17:45,877
+¡Retrocedan!
+
+235
+00:17:51,753 --> 00:17:55,712
+Creo que ya los pasamos a todos,
+Maestro. Tal vez logremos hacer esto.
+
+236
+00:17:55,791 --> 00:17:59,557
+Aún hay camino que recorrer
+para llegar a la estación del generador.
+
+237
+00:17:59,628 --> 00:18:01,459
+¿Aún necesitamos esto?
+
+238
+00:18:01,630 --> 00:18:04,724
+Ya no soporto más. Tengo que levantarme.
+
+239
+00:18:07,069 --> 00:18:09,094
+Debes tener más cuidado.
+
+240
+00:18:09,404 --> 00:18:11,702
+Nunca sabes lo que te vas a encontrar.
+
+241
+00:18:15,077 --> 00:18:16,601
+¿Ahora lo comprendes?
+
+242
+00:18:23,218 --> 00:18:26,278
+- ¡No puedo atravesar su escudo!
+- ¡Corre!
+
+243
+00:18:26,455 --> 00:18:30,289
+- ¿Qué? ¡Los Jedi no corren!
+- ¡Dije "corre"!
+
+244
+00:18:34,396 --> 00:18:36,626
+- ¡Alto, Ahsoka!
+- ¡Decídase, Maestro!
+
+245
+00:18:36,798 --> 00:18:38,789
+¡Alto he dicho!
+
+246
+00:18:43,939 --> 00:18:46,931
+Bien. Sabes seguir instrucciones.
+
+247
+00:18:56,451 --> 00:18:59,215
+¡Vienen atrás, señor!
+Eliminaron a casi toda mi unidad.
+
+248
+00:18:59,287 --> 00:19:00,948
+Tuvimos que retroceder.
+
+249
+00:19:02,524 --> 00:19:05,254
+¡El escudo está a punto de llegar
+a los cañones!
+
+250
+00:19:08,397 --> 00:19:10,126
+No podremos detenerlos, señor.
+
+251
+00:19:10,198 --> 00:19:12,291
+Lleva a las tropas
+a los cañones pesados.
+
+252
+00:19:12,367 --> 00:19:15,564
+Hagan lo que puedan para protegerlos.
+Yo distraeré a los droides.
+
+253
+00:19:15,637 --> 00:19:18,333
+- ¡Pero...!
+- ¡Es una orden, Capitán!
+
+254
+00:19:36,992 --> 00:19:38,789
+¡Ahí está! ¡Rápido!
+
+255
+00:19:48,804 --> 00:19:52,296
+Usted debe ser el infame General Kenobi.
+
+256
+00:19:53,475 --> 00:19:55,067
+Me rindo.
+
+257
+00:20:00,749 --> 00:20:04,344
+Ahora, Maestro Kenobi,
+ordénele a sus tropas que se retiren.
+
+258
+00:20:07,255 --> 00:20:09,450
+General, siéntese.
+
+259
+00:20:09,825 --> 00:20:11,986
+¿Acaso está demente?
+
+260
+00:20:12,160 --> 00:20:13,855
+Ya le concedí la victoria.
+
+261
+00:20:13,995 --> 00:20:17,362
+Ahora sólo tenemos que negociar
+los términos de la rendición.
+
+262
+00:20:17,766 --> 00:20:20,462
+No intente ninguno de sus trucos, Jedi.
+
+263
+00:20:20,635 --> 00:20:23,934
+No veo por qué no podemos
+resolverlo de forma civilizada.
+
+264
+00:20:30,112 --> 00:20:34,412
+Es un honor poco usual enfrentar
+a un oponente cara a cara.
+
+265
+00:20:34,616 --> 00:20:37,210
+Usted es una leyenda
+en todo el núcleo central.
+
+266
+00:20:37,285 --> 00:20:40,652
+Gracias. El honor es todo mío.
+
+267
+00:20:40,722 --> 00:20:44,123
+No sabe cuánto me alegra
+que haya decidido rendirse.
+
+268
+00:20:44,359 --> 00:20:48,125
+En algún momento, uno debe
+aceptar la realidad de la situación.
+
+269
+00:20:49,264 --> 00:20:51,664
+¿Lo molesto con algo de beber?
+
+270
+00:20:52,634 --> 00:20:55,865
+¡Tú! ¡Tráenos algo líquido!
+
+271
+00:20:57,472 --> 00:21:00,134
+Gracias. Seré muy conciso.
+
+272
+00:21:08,116 --> 00:21:10,107
+Nos aproximamos a Christophsis, señor.
+
+273
+00:21:10,185 --> 00:21:12,449
+El bloqueo Separatista mantiene
+su posición.
+
+274
+00:21:12,521 --> 00:21:16,252
+Despliegue la flota. Que los cruceros
+protejan a los transbordadores.
+
+275
+00:21:16,324 --> 00:21:17,450
+¡Sí, señor!
+
+276
+00:21:18,660 --> 00:21:22,528
+¡Almirante! Apresurarnos debemos,
+si queremos ayudar al General Kenobi.
+
+277
+00:21:23,131 --> 00:21:25,998
+No será sencillo penetrar
+el bloqueo, Maestro Yoda.
+
+278
+00:21:26,201 --> 00:21:28,362
+Ya nos han impedido el paso.
+
+279
+00:21:28,537 --> 00:21:31,165
+La última vez, tantas naves no tenía.
+
+280
+00:21:31,506 --> 00:21:36,068
+Pasar debemos. Y pasar, lograremos.
+
+281
+00:21:40,682 --> 00:21:43,310
+No te alejes. Hay que tener cuidado.
+
+282
+00:21:43,518 --> 00:21:45,008
+- ¡Rápido!
+- ¡Aguarda!
+
+283
+00:21:45,187 --> 00:21:47,678
+¿Por qué? ¡Estamos cerca! ¡Está...!
+
+284
+00:21:48,023 --> 00:21:49,285
+¡Dije aguarda!
+
+285
+00:21:52,928 --> 00:21:56,489
+¡Olvida los droides! ¡Pon esas cargas!
+
+286
+00:22:17,385 --> 00:22:18,511
+¡Lo siento!
+
+287
+00:22:18,687 --> 00:22:20,587
+¿Y tú de qué lado vienes?
+
+288
+00:22:20,755 --> 00:22:22,814
+Del lado de las cargas.
+
+289
+00:22:34,603 --> 00:22:38,198
+Señor, capturaron al General Kenobi.
+No queda nadie más.
+
+290
+00:22:38,406 --> 00:22:42,342
+¡Tenemos que resistir! No podemos dejar
+que el escudo llegue a los cañones.
+
+291
+00:22:42,410 --> 00:22:43,775
+¡Sigan luchando!
+
+292
+00:22:43,945 --> 00:22:45,879
+¡No me caería mal un poco de ayuda!
+
+293
+00:22:45,947 --> 00:22:48,415
+¡Skywito! ¡No te muevas!
+
+294
+00:22:51,386 --> 00:22:53,377
+¿Qué? ¡No, no, no, no, no!
+
+295
+00:23:01,529 --> 00:23:05,260
+- ¡Pudiste haberme matado!
+- ¡Yo sé lo que hago!
+
+296
+00:23:05,433 --> 00:23:10,735
+- ¡Tenía todo bajo control!
+- ¡Acabo de salvarte la vida!
+
+297
+00:23:15,277 --> 00:23:18,576
+- ¡Hay demasiados!
+- ¡Retrocedan, retrocedan!
+
+298
+00:23:20,048 --> 00:23:21,538
+¡Hombre herido!
+
+299
+00:23:23,084 --> 00:23:24,813
+¡Médico! ¡Un médico aquí!
+
+300
+00:23:37,932 --> 00:23:40,867
+Y, desde luego, una vez que tome
+el control de mis tropas,
+
+301
+00:23:40,935 --> 00:23:43,369
+tendrá que hacer arreglos
+para darles alimento y refugio.
+
+302
+00:23:43,438 --> 00:23:45,736
+Dígame, ¿tiene
+suficientes provisiones para...?
+
+303
+00:23:45,807 --> 00:23:48,207
+¡Ya fue suficiente!
+¡Está haciendo tiempo!
+
+304
+00:23:48,276 --> 00:23:52,110
+Tonterías. General, hay
+demasiados detalles que discutir.
+
+305
+00:23:55,083 --> 00:23:56,573
+¡Aprehéndanlo!
+
+306
+00:23:58,320 --> 00:24:01,517
+Si no le ordena
+a sus tropas que retrocedan,
+
+307
+00:24:01,589 --> 00:24:04,820
+¡no tendré más opción que destruirlo!
+
+308
+00:24:05,293 --> 00:24:08,626
+La verdad, esperaba
+que su escudo ya estuviera abajo.
+
+309
+00:24:08,797 --> 00:24:11,197
+- ¿Activaste las cargas?
+- ¡Sí!
+
+310
+00:24:11,333 --> 00:24:12,994
+¿Entonces qué esperas?
+
+311
+00:24:24,179 --> 00:24:25,305
+Oh, en fin.
+
+312
+00:24:32,354 --> 00:24:33,946
+¡No disparen!
+
+313
+00:24:34,322 --> 00:24:38,281
+Al parecer,
+algo le pasó a su escudo, General.
+
+314
+00:24:38,660 --> 00:24:40,924
+¡Atención! ¡Dispárenle a esos tanques!
+
+315
+00:24:43,531 --> 00:24:45,226
+¿Qué le pasó al escudo?
+
+316
+00:24:51,639 --> 00:24:54,972
+<i>General Kenobi, si puede escucharme,
+ya atravesamos el bloqueo.</i>
+
+317
+00:24:55,043 --> 00:24:57,409
+<i>El ejército Separatista
+está en retirada.</i>
+
+318
+00:24:57,479 --> 00:25:00,710
+<i>Sus refuerzos aterrizarán
+en cualquier momento.</i>
+
+319
+00:25:16,030 --> 00:25:18,260
+Llegan justo a tiempo, Maestro Yoda.
+
+320
+00:25:23,872 --> 00:25:25,806
+Eres muy descuidada.
+
+321
+00:25:25,874 --> 00:25:28,707
+Nunca lo hubieras logrado
+como padawan de Obi-Wan.
+
+322
+00:25:31,780 --> 00:25:33,907
+Pero tal vez lo hagas como la mía.
+
+323
+00:25:42,957 --> 00:25:44,049
+Vámonos.
+
+324
+00:25:52,867 --> 00:25:55,062
+Buen trabajo, General Skywalker.
+
+325
+00:25:55,603 --> 00:25:56,695
+Igual tú.
+
+326
+00:26:13,588 --> 00:26:16,523
+- Gracias por traernos, Rex.
+- Fue un placer.
+
+327
+00:26:16,958 --> 00:26:17,982
+Maestro Obi-Wan.
+
+328
+00:26:18,460 --> 00:26:19,518
+Maestro Yoda.
+
+329
+00:26:20,895 --> 00:26:23,591
+Problemas tienes
+con tu nueva padawan, ¿eh?
+
+330
+00:26:26,334 --> 00:26:29,633
+Le estaba explicando
+la situación al Maestro Yoda.
+
+331
+00:26:29,704 --> 00:26:30,762
+¿En serio?
+
+332
+00:26:30,839 --> 00:26:34,798
+Si listo para un padawan no estás,
+tal vez, Obi-Wan, sería...
+
+333
+00:26:34,876 --> 00:26:39,472
+No. Momento. Reconozco
+que Ahsoka es un poco precipitada.
+
+334
+00:26:40,014 --> 00:26:43,347
+Pero con algo de entrenamiento
+y paciencia,
+
+335
+00:26:43,685 --> 00:26:45,346
+podría llegar muy lejos.
+
+336
+00:26:46,254 --> 00:26:49,451
+Contigo irá entonces, al sistema Teth.
+
+337
+00:26:49,524 --> 00:26:51,475
+¿A Teth? Es Espacio Salvaje.
+
+338
+00:26:51,476 --> 00:26:53,426
+Ni el ejército droide
+está en ese sector.
+
+339
+00:26:53,495 --> 00:26:56,623
+Secuestrado, el hijo de Jabba the Hutt
+ha sido.
+
+340
+00:26:56,798 --> 00:26:59,596
+¿El hijo de Jabba?
+¿Quiere que vaya y lo rescate?
+
+341
+00:26:59,701 --> 00:27:03,933
+Anakin, necesitamos la alianza de los
+Hutts para tener la ventaja sobre Dooku.
+
+342
+00:27:04,939 --> 00:27:07,965
+El tratado con Jabba, Obi-Wan negociará.
+
+343
+00:27:08,343 --> 00:27:10,675
+Encontrar a los renegados que tienen...
+
+344
+00:27:10,676 --> 00:27:13,007
+...al hijo de Jabba,
+tu misión será, Skywalker.
+
+345
+00:27:13,648 --> 00:27:16,048
+Vamos, Maestro,
+no creo que sea tan difícil.
+
+346
+00:27:16,117 --> 00:27:18,585
+Buscaré a Rex
+para que organice a las tropas.
+
+347
+00:27:18,653 --> 00:27:19,915
+Descuida, Anakin.
+
+348
+00:27:19,988 --> 00:27:23,947
+Sólo enséñale todo lo que yo te enseñé
+y tendrás resultados.
+
+349
+00:27:24,292 --> 00:27:28,956
+Curioso. Algo me dice que desde el
+inicio todo esto fue su idea, Maestro.
+
+350
+00:27:30,498 --> 00:27:33,763
+Sólo espero que Anakin esté
+listo para esta responsabilidad.
+
+351
+00:27:33,835 --> 00:27:36,497
+Listo está, para tener un aprendiz.
+
+352
+00:27:36,838 --> 00:27:41,241
+Desprenderse de su alumna,
+un reto más grande será.
+
+353
+00:27:41,576 --> 00:27:44,568
+Comprenderlo, Skywalker deberá.
+
+354
+00:27:48,750 --> 00:27:51,241
+Si quiero hacer un trato
+con Jabba the Hutt,
+
+355
+00:27:51,653 --> 00:27:53,484
+más vale que parta ya.
+
+356
+00:28:23,751 --> 00:28:29,519
+Jabba, los cazarrecompensas que enviaste
+para buscar a tu hijo han regresado.
+
+357
+00:28:53,414 --> 00:28:57,077
+Contacte al Canciller Supremo
+de inmediato.
+
+358
+00:29:01,322 --> 00:29:04,257
+<i>El todopoderoso Jabba exige saber</i>
+
+359
+00:29:04,325 --> 00:29:07,294
+<i>por qué no están los Jedi
+buscando a su hijo.</i>
+
+360
+00:29:07,428 --> 00:29:12,263
+Poderoso Jabba,
+le garantizo que los Jedi van en camino.
+
+361
+00:29:20,775 --> 00:29:23,175
+<i>Más les vale,
+si quieren que la República...</i>
+
+362
+00:29:23,244 --> 00:29:25,769
+<i>...tenga paso libre
+por el territorio de Jabba.</i>
+
+363
+00:30:02,817 --> 00:30:05,047
+Teniente, ¿los vieron
+los secuestradores?
+
+364
+00:30:05,119 --> 00:30:07,986
+No, señor.
+Somos los mejores del regimiento.
+
+365
+00:30:08,156 --> 00:30:10,590
+¿Qué hay de los cazarrecompensas?
+¿Siguen ahí afuera?
+
+366
+00:30:10,658 --> 00:30:13,525
+No lo creo.
+Hace tiempo que no los vemos.
+
+367
+00:30:13,695 --> 00:30:15,629
+¿Contra qué nos enfrentamos?
+
+368
+00:30:15,963 --> 00:30:19,228
+Parece que al menos dos batallones
+de droides protegen un monasterio.
+
+369
+00:30:19,300 --> 00:30:21,962
+Está muy fortificado.
+No podrá aterrizar ahí.
+
+370
+00:30:22,170 --> 00:30:24,798
+Buen trabajo. Vayan a descansar.
+
+371
+00:30:30,878 --> 00:30:33,745
+Parece una exageración,
+incluso para un Jedi.
+
+372
+00:30:33,915 --> 00:30:37,146
+Estaban rodeados por droides.
+¿Cómo destruyeron el escudo?
+
+373
+00:30:37,351 --> 00:30:40,184
+Detrás de él había un muro enorme
+con un agujero en el centro,
+
+374
+00:30:40,254 --> 00:30:44,657
+así que sólo tuve que tirar el muro
+sobre los droides, destruyéndolos
+
+375
+00:30:44,726 --> 00:30:46,523
+y salvando al General.
+
+376
+00:30:48,196 --> 00:30:51,461
+- ¿Es eso cierto, señor?
+- Pues, la mayor parte.
+
+377
+00:30:53,334 --> 00:30:55,427
+Bien, señores,
+tenemos un trabajo que hacer.
+
+378
+00:30:55,503 --> 00:30:56,970
+Sí, señor. Ya escucharon
+al General. ¡Muévanse!
+
+379
+00:30:57,038 --> 00:30:58,505
+A trabajar. Vámonos.
+
+380
+00:30:59,040 --> 00:31:02,635
+Éste es buen momento para enseñarte
+
+381
+00:31:02,710 --> 00:31:03,972
+que un Jedi debe ser humilde,
+mi joven padawan.
+
+382
+00:31:04,045 --> 00:31:07,537
+Lo siento.
+Sólo estaba motivando a los muchachos.
+
+383
+00:31:18,392 --> 00:31:21,657
+Descuida. Estoy seguro
+de que Jabba está de buen humor.
+
+384
+00:31:54,262 --> 00:31:58,221
+No debemos hacer esperar
+al sabio y poderoso Jabba.
+
+385
+00:31:58,432 --> 00:32:00,423
+Eso sería impensable.
+
+386
+00:32:21,455 --> 00:32:23,952
+Poderoso Jabba, uno
+de nuestros mejores Jedi...
+
+387
+00:32:23,953 --> 00:32:26,449
+...va en camino para rescatar a tu hijo.
+
+388
+00:32:26,961 --> 00:32:28,451
+No te defraudaremos.
+
+389
+00:32:34,335 --> 00:32:37,634
+El altísimo Jabba tiene
+una pequeña condición más.
+
+390
+00:32:37,805 --> 00:32:42,640
+Exige que traigan de vuelta a la escoria
+que secuestró a su pequeño retoñito.
+
+391
+00:32:43,010 --> 00:32:44,170
+¿"Retoñito"?
+
+392
+00:32:47,982 --> 00:32:50,143
+Vivo o muerto.
+
+393
+00:32:57,291 --> 00:33:01,625
+Si no tienen éxito, recurrirá al
+Conde Dooku y a su ejército de droides.
+
+394
+00:33:11,172 --> 00:33:13,436
+<i>Escucha, Anakin, ésta es la cuestión:</i>
+
+395
+00:33:13,507 --> 00:33:15,907
+<i>Jabba solamente nos dio
+una rotación planetaria</i>
+
+396
+00:33:15,977 --> 00:33:19,344
+<i>para traer a su hijo
+de vuelta a Tatooine sano y salvo.</i>
+
+397
+00:33:19,413 --> 00:33:20,812
+No nos llevará tanto, Maestro.
+
+398
+00:33:20,882 --> 00:33:25,012
+<i>Extrema tus precauciones. No tenemos
+idea de quién tiene al hijo de Jabba.</i>
+
+399
+00:33:25,186 --> 00:33:28,349
+<i>Cuando concluyan las negociaciones
+con él, me uniré a ti.</i>
+
+400
+00:33:36,364 --> 00:33:39,356
+Algo se aproxima.
+No logro identificarlo.
+
+401
+00:33:39,533 --> 00:33:41,592
+No me gusta. Prepárense para atacar.
+
+402
+00:33:41,669 --> 00:33:43,136
+¿Y si es uno de los nuestros?
+
+403
+00:33:43,204 --> 00:33:44,535
+Silencio, Sargento.
+Aquí, yo estoy al mando.
+
+404
+00:33:44,605 --> 00:33:45,936
+Entendido.
+
+405
+00:33:49,744 --> 00:33:53,544
+- No te alejes de mí, si puedes.
+- Eso no será problema, Maestro.
+
+406
+00:33:53,714 --> 00:33:56,131
+Ésta no es una práctica, Ahsoka.
+
+407
+00:33:56,132 --> 00:33:58,549
+Lo sé, intentaré no
+hacer que te asesinen.
+
+408
+00:34:02,590 --> 00:34:04,057
+Buen tiro, muchacho.
+
+409
+00:34:07,261 --> 00:34:08,922
+¡Señor! ¡Disparan!
+
+410
+00:34:09,096 --> 00:34:12,190
+¡Active los escudos, teniente!
+¡Salga de la línea de ataque!
+
+411
+00:34:12,266 --> 00:34:13,392
+¡Sí, señor!
+
+412
+00:34:14,568 --> 00:34:16,058
+Aquí vamos.
+
+413
+00:34:17,438 --> 00:34:19,906
+- Tu comunicador no responde.
+- Listo.
+
+414
+00:34:20,408 --> 00:34:22,137
+Luz roja. Alertas.
+
+415
+00:34:27,281 --> 00:34:29,306
+Bienvenidos al paraíso, señores.
+
+416
+00:34:31,319 --> 00:34:32,445
+¡Luz verde!
+
+417
+00:34:35,189 --> 00:34:36,781
+¡Ya, ya, ya!
+
+418
+00:34:39,694 --> 00:34:40,956
+¡Muévanse! ¡Muévanse!
+
+419
+00:34:41,028 --> 00:34:42,325
+¡Cuidado! ¡Cuidado!
+
+420
+00:34:42,430 --> 00:34:43,590
+¡Deprisa!
+
+421
+00:34:46,000 --> 00:34:47,558
+¡Ya, ya, ya!
+
+422
+00:34:47,902 --> 00:34:51,303
+¡Concentren el fuego
+en el sector 11374265!
+
+423
+00:34:51,639 --> 00:34:55,097
+1137... ¿Le importaría repetirlo?
+
+424
+00:34:55,276 --> 00:34:57,005
+¡Sólo dispara hacia allá!
+
+425
+00:35:03,751 --> 00:35:04,843
+¡Síganme!
+
+426
+00:35:10,992 --> 00:35:13,256
+No los veo.
+
+427
+00:35:13,427 --> 00:35:14,894
+¿Dónde se metieron?
+
+428
+00:35:19,967 --> 00:35:21,491
+¡Ay, ay, ay!
+
+429
+00:35:21,669 --> 00:35:23,193
+¡Vuelva aquí, Sargento!
+
+430
+00:35:23,270 --> 00:35:26,239
+- Bien, ahora empieza lo divertido.
+- A ver quién llega primero.
+
+431
+00:35:26,307 --> 00:35:28,468
+- Te doy ventaja.
+- Grave error.
+
+432
+00:35:28,642 --> 00:35:30,166
+¡Cables de ascenso!
+
+433
+00:35:30,878 --> 00:35:32,675
+¡Estoy aquí atrás, Maestro!
+
+434
+00:35:54,468 --> 00:35:56,265
+¡Eliminen a esos rastreros!
+
+435
+00:37:13,781 --> 00:37:15,271
+¡Sígueme el paso!
+
+436
+00:37:15,716 --> 00:37:17,206
+¡Oye! ¡No me dejes!
+
+437
+00:37:22,823 --> 00:37:24,415
+¡Rex, síganme!
+
+438
+00:37:25,092 --> 00:37:26,889
+¡Sí, señor! Estamos en eso.
+
+439
+00:37:28,562 --> 00:37:30,086
+¿Qué están esperando?
+
+440
+00:37:37,805 --> 00:37:39,739
+Ríndete, Jedi.
+
+441
+00:37:49,783 --> 00:37:53,344
+Demonios, Ahsoka,
+te dije que no te alejaras de mí.
+
+442
+00:37:57,791 --> 00:38:00,282
+No podría estar más cerca, Skywito.
+
+443
+00:38:00,461 --> 00:38:03,191
+Sabía que llegarías, Sabionda,
+tarde o temprano.
+
+444
+00:38:03,297 --> 00:38:05,128
+Siempre a tiempo para salvarte la vida.
+
+445
+00:38:05,199 --> 00:38:07,633
+- Todo despejado, General.
+- Bien hecho, Rex.
+
+446
+00:38:07,701 --> 00:38:09,532
+Que tus hombres atiendan a los heridos.
+
+447
+00:38:09,603 --> 00:38:13,266
+Entendido, señor. Las naves de guerra
+están a una distancia segura.
+
+448
+00:38:16,477 --> 00:38:20,538
+Los droides hicieron su parte.
+Ahora es su turno.
+
+449
+00:38:21,615 --> 00:38:23,640
+Son demasiados droides
+para ser renegados.
+
+450
+00:38:23,717 --> 00:38:25,582
+El Conde Dooku debe estar
+detrás de esto.
+
+451
+00:38:25,653 --> 00:38:27,518
+Encontremos al hijo de Jabba
+y salgamos de aquí.
+
+452
+00:38:27,588 --> 00:38:31,456
+- No hay problema. Lo difícil ya pasó.
+- Ojalá no dijeras eso.
+
+453
+00:38:52,947 --> 00:38:55,814
+Este lugar no me gusta.
+Me da escalofríos.
+
+454
+00:38:55,983 --> 00:39:00,010
+Éste parece
+uno de esos monasterios de Bomarr
+
+455
+00:39:00,354 --> 00:39:03,016
+sobre los que leí en mis estudios
+en el Templo.
+
+456
+00:39:05,125 --> 00:39:07,116
+Los contrabandistas se apoderan
+de estos monasterios
+
+457
+00:39:07,194 --> 00:39:09,389
+y los convierten en refugios personales.
+
+458
+00:39:09,463 --> 00:39:11,158
+¿Y los monjes los dejan?
+
+459
+00:39:11,365 --> 00:39:15,062
+Los contrabandistas consiguen
+lo que quieren de una forma o de otra.
+
+460
+00:39:16,136 --> 00:39:19,594
+- Eh, ¿es bueno o malo, Maestro?
+- ¿Quién eres?
+
+461
+00:39:21,175 --> 00:39:24,474
+Sólo soy un humilde cuidador,
+poderoso señor.
+
+462
+00:39:24,712 --> 00:39:27,579
+Me ha liberado
+de esos perversos robots de batalla.
+
+463
+00:39:27,648 --> 00:39:29,172
+Estoy muy agradecido.
+
+464
+00:39:29,316 --> 00:39:30,647
+¿Dónde está el Hutt?
+
+465
+00:39:30,718 --> 00:39:33,744
+Los robots de batalla tienen a sus
+prisioneros en el nivel de detención.
+
+466
+00:39:33,821 --> 00:39:37,780
+Debo advertirle
+que ahí abajo es muy peligroso.
+
+467
+00:39:37,992 --> 00:39:39,926
+No es lugar para una asistente.
+
+468
+00:39:39,994 --> 00:39:43,987
+¿Los asistentes llevan esto?
+Yo soy una Jedi,
+
+469
+00:39:45,499 --> 00:39:47,194
+o lo seré.
+
+470
+00:39:47,568 --> 00:39:50,537
+Mil disculpas, señorita.
+
+471
+00:39:50,704 --> 00:39:53,798
+Capitán, buscaremos al Hutt. Quédese
+aquí y mantenga los ojos abiertos.
+
+472
+00:39:53,874 --> 00:39:55,341
+Entendido, señor.
+
+473
+00:40:05,052 --> 00:40:07,384
+Se infiltraron al monasterio, Maestro.
+
+474
+00:40:07,588 --> 00:40:11,684
+Skywalker está aquí.
+Ahora se dispone a rescatar al Hutt.
+
+475
+00:40:11,859 --> 00:40:16,057
+<i>Bien hecho, Ventress.
+Todo marcha según los planes.</i>
+
+476
+00:40:16,230 --> 00:40:18,164
+Fácilmente podría acabarlos.
+
+477
+00:40:18,265 --> 00:40:20,460
+<i>Paciencia. Averigua lo que necesito.</i>
+
+478
+00:40:20,834 --> 00:40:23,928
+<i>Pronto saciarás tu sed de venganza.</i>
+
+479
+00:40:24,104 --> 00:40:27,232
+¡Señora!
+¡Los Jedi están en los calabozos!
+
+480
+00:40:29,109 --> 00:40:31,703
+Maestro, nos estás llevando
+hacia una trampa.
+
+481
+00:40:32,212 --> 00:40:33,440
+Lo sé.
+
+482
+00:40:36,784 --> 00:40:40,015
+- Acabamos de pasar a dos droides.
+- Lo sé.
+
+483
+00:40:40,087 --> 00:40:43,079
+Esto no me gusta. ¿Puedo destruirlos?
+
+484
+00:40:43,524 --> 00:40:46,322
+Está bien.
+Si eso quieres realmente, adelante.
+
+485
+00:40:55,369 --> 00:40:58,202
+Nada mal.
+Recordaste destruir primero sus armas.
+
+486
+00:40:58,372 --> 00:41:00,203
+Estoy superando tu técnica.
+
+487
+00:41:02,376 --> 00:41:06,005
+- Claro que... Te faltó uno.
+- Lo hice a propósito.
+
+488
+00:41:06,246 --> 00:41:08,680
+Presiento que el Hutt secuestrado
+está aquí.
+
+489
+00:41:08,749 --> 00:41:11,217
+¡Uh! ¡Yo también lo huelo!
+
+490
+00:41:15,622 --> 00:41:18,022
+Es mucho más joven de lo que esperaba.
+
+491
+00:41:18,192 --> 00:41:20,717
+¡Ay! ¡Sólo es un bebé!
+
+492
+00:41:21,362 --> 00:41:25,458
+Esto facilitará las cosas en adelante.
+¡Ay, qué tierno es!
+
+493
+00:41:25,799 --> 00:41:28,700
+No creo que sigas diciendo eso
+cuando crezca.
+
+494
+00:41:39,046 --> 00:41:41,708
+Lo sé, R-4.
+Yo también quiero salir de aquí.
+
+495
+00:42:01,502 --> 00:42:05,063
+Oh, gran Jabba the Hutt,
+tengo noticias sobre su hijo.
+
+496
+00:42:05,406 --> 00:42:09,069
+Acabo de descubrir
+que los Jedi lo secuestraron.
+
+497
+00:42:13,580 --> 00:42:16,811
+¿Cómo obtuvo esta información?
+
+498
+00:42:17,017 --> 00:42:22,649
+Tengo mis medios. Pero más que nada,
+poderoso Jabba, vengo a advertirle
+
+499
+00:42:22,756 --> 00:42:25,281
+que los Jedi planean destruirlo.
+
+500
+00:42:29,630 --> 00:42:32,758
+El altísimo Jabba exige ver pruebas.
+
+501
+00:42:32,933 --> 00:42:34,924
+Y yo se las daré.
+
+502
+00:42:38,472 --> 00:42:39,854
+No hay señales de más droides, Capitán.
+
+503
+00:42:39,855 --> 00:42:41,236
+Gracias, Sargento.
+
+504
+00:42:41,308 --> 00:42:45,301
+General Skywalker, el castillo
+está asegurado y casi es mediodía.
+
+505
+00:42:45,479 --> 00:42:49,313
+Gracias, Rex. Tenemos al hijo de Jabba.
+¿Alguna señal del General Kenobi?
+
+506
+00:42:49,383 --> 00:42:50,407
+<i>No, señor.</i>
+
+507
+00:42:50,484 --> 00:42:55,387
+Maestro, mi entrenamiento no me preparó
+para esto. ¿Qué vamos a hacer?
+
+508
+00:42:55,722 --> 00:42:59,886
+Ya que esa larva apestosa
+te parece tierna, tú la cargarás.
+
+509
+00:43:15,342 --> 00:43:18,072
+Comandante, que el Almirante Yularen
+se prepare.
+
+510
+00:43:18,145 --> 00:43:20,841
+- Tenemos que apoyar a Anakin.
+- Enseguida, señor.
+
+511
+00:43:21,515 --> 00:43:24,109
+¿Ahora qué piensas de tu amiguito?
+¿Sigue siendo tierno?
+
+512
+00:43:24,184 --> 00:43:27,347
+No. Cada vez me recuerda más a ti.
+
+513
+00:43:28,889 --> 00:43:31,153
+¿Ves? Son igualitos.
+
+514
+00:43:31,325 --> 00:43:33,691
+Tal vez deberías cargarnos a los dos.
+
+515
+00:43:39,032 --> 00:43:42,593
+Maestro, creo que el pequeño tiene algo.
+Está ardiendo en fiebre.
+
+516
+00:43:45,172 --> 00:43:47,663
+Es cierto. Hay que llevarlo
+a la nave de inmediato.
+
+517
+00:43:47,741 --> 00:43:49,868
+¡Soldado! ¡Consígueme una mochila!
+
+518
+00:43:54,548 --> 00:43:56,277
+<i>¿Por qué no me dejas a mí?</i>
+
+519
+00:43:57,117 --> 00:43:58,482
+<i>Odio a los Hutts.</i>
+
+520
+00:44:01,355 --> 00:44:04,415
+Mi lord, tengo la grabación
+que solicitó.
+
+521
+00:44:04,758 --> 00:44:09,058
+<i>Transmítela de inmediato.
+Tu nuevo objetivo es recuperar al Hutt.</i>
+
+522
+00:44:09,396 --> 00:44:12,092
+¿Para llevárselo a Jabba sano y salvo?
+
+523
+00:44:12,432 --> 00:44:15,629
+<i>Precisamente. No me falles.</i>
+
+524
+00:44:20,374 --> 00:44:22,103
+<i>¿Por qué no me dejas a mí?</i>
+
+525
+00:44:22,776 --> 00:44:24,710
+<i>Odio a los Hutts.</i>
+
+526
+00:44:30,484 --> 00:44:35,717
+Como verá, los Jedi son los que tienen
+a su hijo y traman algo en su contra.
+
+527
+00:44:39,626 --> 00:44:42,789
+Mi ejército de droides
+ya comenzó el rescate.
+
+528
+00:44:42,963 --> 00:44:47,229
+Se lo garantizo, poderoso Jabba,
+su hijo será rescatado.
+
+529
+00:44:55,742 --> 00:44:59,701
+El poderoso Jabba quiere saber
+lo que desea a cambio.
+
+530
+00:44:59,780 --> 00:45:04,683
+Podría considerar unirse
+a nuestra lucha contra la República.
+
+531
+00:45:06,787 --> 00:45:08,652
+<i>Anakin, ¿localizaste al hijo de Jabba?</i>
+
+532
+00:45:09,289 --> 00:45:12,417
+Ya lo tenemos. Pero parece que
+los Separatistas están detrás de todo.
+
+533
+00:45:12,492 --> 00:45:14,790
+Esto me huele a obra del Conde Dooku.
+
+534
+00:45:14,962 --> 00:45:17,362
+Lo que estás oliendo es al apestoso.
+
+535
+00:45:17,864 --> 00:45:19,491
+<i>Apuesto a que Dooku nos está usando</i>
+
+536
+00:45:19,566 --> 00:45:21,295
+<i>para convencer a Jabba
+de unirse a los Separatistas.</i>
+
+537
+00:45:21,368 --> 00:45:25,805
+Maestro Kenobi, tenemos otro problema.
+Este Hutt necesita ayuda urgente.
+
+538
+00:45:25,973 --> 00:45:28,373
+No sé si podamos llevarlo
+a Tatooine con vida, Maestro.
+
+539
+00:45:28,442 --> 00:45:30,535
+Este rescate podría ser un error.
+
+540
+00:45:30,611 --> 00:45:32,738
+Esto de tratar con los Hutts no es
+una buena idea.
+
+541
+00:45:32,813 --> 00:45:36,044
+<i>Anakin, sabes que controlan las
+rutas de comercio del borde exterior.</i>
+
+542
+00:45:36,116 --> 00:45:39,108
+<i>La cooperación de Jabba es crucial
+para ganar la guerra.</i>
+
+543
+00:45:39,186 --> 00:45:40,847
+<i>Si permites que algo le pase a su hijo,</i>
+
+544
+00:45:40,921 --> 00:45:43,890
+<i>la esperanza de firmar un tratado
+con él desaparecerá.</i>
+
+545
+00:45:43,957 --> 00:45:46,357
+¿Maestro? Tenemos problemas.
+
+546
+00:45:49,796 --> 00:45:51,423
+¡Posiciones de defensa!
+
+547
+00:45:51,598 --> 00:45:53,691
+<i>- ¿Anakin?
+- Llamaremos después, Maestro.</i>
+
+548
+00:45:53,767 --> 00:45:56,702
+Nos atacan.
+Algo de ayuda no nos caería mal.
+
+549
+00:45:56,770 --> 00:45:59,432
+<i>Iré en cuanto pueda.
+Protege al Hutt, Anakin.</i>
+
+550
+00:46:09,449 --> 00:46:11,713
+¡Droides araña!
+
+551
+00:46:26,700 --> 00:46:27,997
+¡Corre adentro!
+
+552
+00:46:40,080 --> 00:46:41,206
+¡Retrocedan!
+
+553
+00:46:44,551 --> 00:46:46,542
+¡Atrás! ¡Atrás!
+
+554
+00:46:55,095 --> 00:46:58,587
+Señora, los Jedi se atrincheraron
+en la bóveda principal.
+
+555
+00:46:58,765 --> 00:47:01,233
+No tienen hacia donde correr.
+
+556
+00:47:01,401 --> 00:47:05,633
+Capitán, nos quedaremos aquí hasta que
+el General Kenobi llegue con refuerzos.
+
+557
+00:47:07,274 --> 00:47:08,366
+- ¿Qué?
+- Maestro,
+
+558
+00:47:08,442 --> 00:47:11,036
+¿en verdad crees que podamos repelerlos?
+
+559
+00:47:11,211 --> 00:47:12,974
+Hay que abandonar este lugar.
+
+560
+00:47:13,046 --> 00:47:14,980
+Nuestra obligación es
+proteger a este Hutt,
+
+561
+00:47:15,048 --> 00:47:16,982
+y eso es lo que haremos, Ahsoka.
+
+562
+00:47:17,050 --> 00:47:19,780
+Nuestra obligación era llevar
+a este Hutt de vuelta a Tatooine,
+
+563
+00:47:19,853 --> 00:47:23,311
+- y el tiempo se nos agota.
+- Supongo que tienes un plan.
+
+564
+00:47:25,225 --> 00:47:29,059
+Sí, o eso creo, según Artu.
+
+565
+00:47:29,629 --> 00:47:32,223
+Está bien, Sabionda.
+Voy a confiar en ti.
+
+566
+00:47:32,532 --> 00:47:34,329
+Capitán, reténgalos el tiempo que pueda.
+
+567
+00:47:34,401 --> 00:47:36,460
+Sí, señor. ¡Ya escucharon al General!
+
+568
+00:47:36,536 --> 00:47:39,733
+¡Prepárense para convertir
+a esos droides en chatarra!
+
+569
+00:47:43,076 --> 00:47:46,273
+Si hay forma de salir de aquí,
+Artu nos lo dirá.
+
+570
+00:47:49,082 --> 00:47:50,549
+Apresúrate.
+
+571
+00:47:52,085 --> 00:47:55,748
+Al fin se durmió, ¿eh?
+Bájalo y descansa un poco.
+
+572
+00:47:55,822 --> 00:47:57,517
+Ha sido un día muy largo para ti.
+
+573
+00:47:57,591 --> 00:47:59,957
+No tengo que bajarlo. No estoy cansada.
+
+574
+00:48:00,060 --> 00:48:03,655
+Está bien. Como gustes.
+No sé por qué no quieres hacerme caso.
+
+575
+00:48:03,830 --> 00:48:05,889
+Sí te hago caso, Maestro.
+
+576
+00:48:06,066 --> 00:48:08,330
+Es sólo que no me gusta
+el trato de niña.
+
+577
+00:48:08,401 --> 00:48:11,632
+Debes ser paciente.
+¿Qué es lo que intentas probar?
+
+578
+00:48:11,838 --> 00:48:14,170
+Que no soy demasiado joven
+para ser tu padawan.
+
+579
+00:48:14,241 --> 00:48:18,610
+Ahsoka, un Jedi muy sabio
+dijo una vez que todo pasa por algo.
+
+580
+00:48:18,779 --> 00:48:21,441
+Es la voluntad de la Fuerza
+que estés a mi lado.
+
+581
+00:48:21,515 --> 00:48:23,642
+Sólo busco tenerte en una pieza.
+
+582
+00:48:32,821 --> 00:48:34,186
+- ¿El rojo?
+- No.
+
+583
+00:48:34,355 --> 00:48:37,449
+- ¿El azul?
+- No, ése no es.
+
+584
+00:48:40,728 --> 00:48:42,025
+Eso funcionará.
+
+585
+00:48:43,364 --> 00:48:44,991
+¡Lograron abrirla!
+
+586
+00:48:48,002 --> 00:48:49,629
+¡Aquí vienen!
+
+587
+00:48:54,309 --> 00:48:55,901
+¡Sigan disparando!
+
+588
+00:48:59,681 --> 00:49:01,615
+¡Aquí viene el segundo frente!
+
+589
+00:49:03,251 --> 00:49:04,946
+¡Cuidado a la izquierda!
+
+590
+00:49:05,820 --> 00:49:07,412
+Eso no me gustó.
+
+591
+00:49:10,892 --> 00:49:12,359
+¡Una plataforma de aterrizaje!
+
+592
+00:49:12,427 --> 00:49:16,158
+Desde ahí pediremos una nave.
+Guíanos, Artu.
+
+593
+00:49:17,599 --> 00:49:19,464
+Espera, Ahsoka. ¿Dónde está el oloroso?
+
+594
+00:49:19,534 --> 00:49:22,059
+- ¡Tú me dijiste que lo bajara!
+- ¡Encuéntralo!
+
+595
+00:49:24,706 --> 00:49:27,402
+¡Sal de ahí, pequeño renacuajo baboso!
+
+596
+00:49:29,677 --> 00:49:32,111
+Encárguense de lo que queda
+
+597
+00:49:32,547 --> 00:49:34,412
+de los clones. Yo iré tras Skywalker.
+
+598
+00:49:34,849 --> 00:49:35,941
+¡Entendido!
+
+599
+00:49:36,017 --> 00:49:38,349
+Cierren la puerta principal
+y todos los portales.
+
+600
+00:49:38,350 --> 00:49:40,681
+Que nada escape de este castillo.
+
+601
+00:49:41,723 --> 00:49:42,917
+Sí, señora.
+
+602
+00:49:51,599 --> 00:49:54,124
+¿Dónde está Skywalker?
+
+603
+00:49:54,302 --> 00:49:56,634
+No hablo con basura Separatista.
+
+604
+00:50:00,575 --> 00:50:03,635
+Contactarás a Skywalker ahora.
+
+605
+00:50:03,711 --> 00:50:06,145
+Contactaré a Skywalker ahora.
+
+606
+00:50:09,083 --> 00:50:11,017
+A ver si logras escapar esta vez.
+
+607
+00:50:11,085 --> 00:50:13,280
+<i>- Anakin, responde.
+- ¿"Anakin"?</i>
+
+608
+00:50:13,454 --> 00:50:16,480
+<i>- Ya controlamos a los droides.
+- Rex no habla así.</i>
+
+609
+00:50:16,658 --> 00:50:19,218
+<i>- ¿Cuál es tu ubicación?
+- Ventress.</i>
+
+610
+00:50:19,394 --> 00:50:20,656
+¿La sicaria de Dooku?
+
+611
+00:50:20,728 --> 00:50:22,662
+Viene a matar al Hutt. Rápido.
+
+612
+00:50:23,131 --> 00:50:26,532
+Señora, debo informarle que ya
+llegaron los refuerzos de la República.
+
+613
+00:50:26,601 --> 00:50:29,001
+- Hay que apresurarnos.
+- Entendido.
+
+614
+00:50:38,479 --> 00:50:41,277
+Skywalker tiene problemas.
+Ya saben qué hacer.
+
+615
+00:50:41,449 --> 00:50:42,609
+Sí, señor.
+
+616
+00:50:47,288 --> 00:50:49,552
+<i>Los refuerzos de los Jedi están aquí.</i>
+
+617
+00:50:49,624 --> 00:50:54,186
+<i>Deben detenerlos hasta que termine
+mi misión. ¿Queda claro?</i>
+
+618
+00:50:54,362 --> 00:50:58,992
+Sí, señor. Es decir, señora,
+eh, señor. ¡Lanza todas las unidades!
+
+619
+00:51:14,415 --> 00:51:16,747
+¡Skywalker a Obi-Wan!
+Marque mi posición.
+
+620
+00:51:16,818 --> 00:51:19,116
+Necesito una nave médica de inmediato.
+
+621
+00:51:19,454 --> 00:51:21,513
+<i>- Responda.
+- ¡Anakin! ¿Puedes escucharme?</i>
+
+622
+00:51:21,589 --> 00:51:22,613
+<i>¡Ana...!</i>
+
+623
+00:51:23,958 --> 00:51:25,016
+¡Responde!
+
+624
+00:51:25,360 --> 00:51:27,419
+¡Están bloqueando
+nuestras transmisiones!
+
+625
+00:51:27,495 --> 00:51:30,328
+Espero que Anakin no esté teniendo
+tantos problemas.
+
+626
+00:51:30,398 --> 00:51:33,925
+No puedo contactar a Obi-Wan.
+A ver si encuentro al Capitán Rex.
+
+627
+00:51:34,002 --> 00:51:36,061
+<i>Responde, Rex. ¿Me escuchas?</i>
+
+628
+00:51:36,704 --> 00:51:37,793
+<i>¿Rex?</i>
+
+629
+00:51:38,006 --> 00:51:40,531
+- ¿Escuchaste eso?
+- Vino de los prisioneros.
+
+630
+00:51:40,708 --> 00:51:43,006
+Te mostraré cómo funciona, hojalata.
+
+631
+00:51:43,177 --> 00:51:44,405
+<i>¿Me escuchas?</i>
+
+632
+00:51:57,258 --> 00:51:59,089
+¡Capitán Rex! ¡Responde!
+
+633
+00:51:59,260 --> 00:52:02,423
+Lo escucho, General.
+Estamos en el patio central.
+
+634
+00:52:02,597 --> 00:52:03,928
+¿Necesitas apoyo?
+
+635
+00:52:05,166 --> 00:52:08,761
+Lo tomaré como un sí, Capitán.
+Vamos en camino. Skywalker, fuera.
+
+636
+00:52:09,270 --> 00:52:12,205
+Maestro, Oloroso está muy enfermo.
+
+637
+00:52:12,373 --> 00:52:15,865
+Tiene todas las tonalidades de verde
+menos la que debería tener.
+
+638
+00:52:16,044 --> 00:52:19,172
+Nuestra misión era
+llevarlo de vuelta a Tatooine con vida.
+
+639
+00:52:19,247 --> 00:52:20,908
+Obi-Wan no debe tardar en llegar.
+
+640
+00:52:20,982 --> 00:52:23,780
+Ahora, necesitamos
+que Rex nos consiga una nave.
+
+641
+00:52:24,352 --> 00:52:26,286
+¡Genial! Rodadores de muerte.
+
+642
+00:52:29,023 --> 00:52:30,388
+¡Artu, la puerta!
+
+643
+00:52:43,471 --> 00:52:47,771
+- Éste es buen momento para retroceder.
+- ¿Retroceder? Eso es nuevo para ti.
+
+644
+00:52:47,942 --> 00:52:49,671
+Corramos hacia la jungla.
+
+645
+00:52:50,478 --> 00:52:53,447
+Espera. Recuerdo que la jungla
+era un lugar muy malo.
+
+646
+00:52:57,885 --> 00:52:59,910
+Despídete de esa opción.
+
+647
+00:53:04,892 --> 00:53:08,055
+No resistiremos más, señor.
+¿Y el General Skywalker?
+
+648
+00:53:08,229 --> 00:53:09,719
+Llegará.
+
+649
+00:53:14,735 --> 00:53:16,726
+Se nos agotan las opciones.
+
+650
+00:53:19,807 --> 00:53:21,206
+Ahora no, Oloroso.
+
+651
+00:53:24,112 --> 00:53:26,342
+¡Maestro! ¡Ahí hay otra plataforma!
+
+652
+00:53:26,514 --> 00:53:28,880
+- Con una nave.
+- Bien hecho, Oloroso.
+
+653
+00:53:34,088 --> 00:53:37,455
+- ¿Cómo vamos a llegar hasta allá?
+- Déjamelo a mí.
+
+654
+00:53:43,965 --> 00:53:46,126
+Espero no tener que aprender eso.
+
+655
+00:53:59,680 --> 00:54:01,978
+¿Dónde está Skywalker?
+
+656
+00:54:03,718 --> 00:54:05,276
+¡Aquí estoy, Ventress!
+
+657
+00:54:08,823 --> 00:54:10,552
+¡Ya! ¡Es tiempo de irnos!
+
+658
+00:54:19,000 --> 00:54:21,468
+- ¡Sube, Sabionda!
+- ¿Tengo alternativa?
+
+659
+00:54:36,184 --> 00:54:39,017
+El Conde Dooku exige
+un reporte de su misión.
+
+660
+00:54:39,320 --> 00:54:41,845
+¿Le digo que escaparon o qué?
+
+661
+00:54:44,058 --> 00:54:45,150
+¿Por qué?
+
+662
+00:54:49,430 --> 00:54:51,125
+¡Me dieron! ¡No puedo perderlos!
+
+663
+00:54:54,535 --> 00:54:57,095
+Tranquilízate, Oddball.
+Yo te cubro atrás.
+
+664
+00:55:07,748 --> 00:55:10,080
+Gracias, señor.
+Lamento haberme alarmado.
+
+665
+00:55:10,151 --> 00:55:12,813
+<i>Descuida, Oddball. A todos nos pasa.</i>
+
+666
+00:55:14,956 --> 00:55:18,187
+Parece que hay una batalla
+en el extremo este del palacio.
+
+667
+00:55:18,259 --> 00:55:19,385
+La veo, señor.
+
+668
+00:55:19,460 --> 00:55:22,861
+Y si hay una batalla, seguramente
+Anakin está en medio de ella.
+
+669
+00:55:22,930 --> 00:55:26,093
+Empezaremos buscándolo ahí.
+Que todas las naves me sigan.
+
+670
+00:55:32,840 --> 00:55:34,569
+¿Tomaremos esta chatarra?
+
+671
+00:55:34,742 --> 00:55:36,972
+Estaríamos mejor en esa libélula.
+
+672
+00:55:37,144 --> 00:55:40,602
+Sube y enciende los motores.
+Si tiene motores, claro.
+
+673
+00:55:43,784 --> 00:55:47,584
+¡Oye! ¡Tú eres el droide cuidador!
+Me preguntaba qué había sido de ti.
+
+674
+00:55:47,755 --> 00:55:52,249
+Ah, eh, pequeña.
+Es decir, futura Caballera Jedi.
+
+675
+00:55:52,426 --> 00:55:54,587
+Tuve que alejarme de ese terrible...
+
+676
+00:55:54,662 --> 00:55:59,031
+¡Muy bien! ¡Todo está listo!
+Vámonos de aquí.
+
+677
+00:55:59,200 --> 00:56:01,600
+¡Traidor repugnante de hojalata!
+
+678
+00:56:02,169 --> 00:56:03,636
+¡Dispárenle!
+
+679
+00:56:07,008 --> 00:56:09,169
+Ahí está otra vez. Deprisa.
+
+680
+00:56:13,648 --> 00:56:14,979
+No te atrevas.
+
+681
+00:56:15,283 --> 00:56:18,810
+No... te... atrevas.
+
+682
+00:56:24,091 --> 00:56:25,922
+¡Comandante Cody! Prepare las naves
+para un ataque terrestre.
+
+683
+00:56:25,993 --> 00:56:27,085
+Sí, señor.
+
+684
+00:56:27,161 --> 00:56:28,628
+¡Ya, ya, ya!
+
+685
+00:56:42,977 --> 00:56:44,706
+¡Llegaron! ¡Acábenlos!
+
+686
+00:57:04,231 --> 00:57:05,755
+Toma el control, R-4.
+
+687
+00:57:08,069 --> 00:57:11,596
+- ¡Ríndanse, perros de la República!
+- ¡Somos más que ustedes!
+
+688
+00:57:11,672 --> 00:57:14,971
+¿Más que nosotros?
+Espera. Uno, dos, tres...
+
+689
+00:57:43,971 --> 00:57:45,717
+¿Dónde está Skywalker?
+
+690
+00:57:45,718 --> 00:57:47,463
+Imagino que sigue en el castillo, señor.
+
+691
+00:57:47,541 --> 00:57:50,066
+Mantenlos ocupados. Iré a buscarlo.
+
+692
+00:58:01,288 --> 00:58:04,052
+¿Recuperaste al hijo de Jabba?
+
+693
+00:58:04,392 --> 00:58:08,328
+<i>Skywalker sigue en posesión
+del Hutt y logró evadirme temporalmente,</i>
+
+694
+00:58:08,496 --> 00:58:11,329
+<i>pero no escapará del sistema con vida.</i>
+
+695
+00:58:11,499 --> 00:58:14,491
+¿Tengo que recordarte que quien
+tenga a Jabba de su lado
+
+696
+00:58:14,568 --> 00:58:17,036
+controlará la guerra
+en el borde exterior?
+
+697
+00:58:17,104 --> 00:58:21,939
+Nosotros somos los únicos que podemos
+devolver al hijo de Jabba con vida.
+
+698
+00:58:22,510 --> 00:58:25,377
+<i>Lo entiendo, Maestro.
+Duplicaré mis esfuerzos.</i>
+
+699
+00:58:25,546 --> 00:58:28,140
+Eso espero. Por tu bien.
+
+700
+00:58:28,482 --> 00:58:29,540
+<i>¡Espere!</i>
+
+701
+00:58:32,019 --> 00:58:33,611
+Maestro Kenobi.
+
+702
+00:58:33,821 --> 00:58:38,224
+Siempre persiguiendo a Skywalker.
+Qué predecible.
+
+703
+00:58:38,559 --> 00:58:41,027
+Anakin deja un desastre a su paso.
+
+704
+00:58:41,028 --> 00:58:43,496
+Lo que siempre
+me conduce a ti, Ventress.
+
+705
+00:58:43,664 --> 00:58:44,995
+¡Acábenlo!
+
+706
+00:58:59,680 --> 00:59:01,477
+Saquemos a Oloroso de aquí.
+
+707
+00:59:01,982 --> 00:59:03,347
+Eh, si podemos.
+
+708
+00:59:13,694 --> 00:59:17,687
+No te preocupes. Artu, a ver si puedes
+encender los contactos de ignición.
+
+709
+00:59:25,172 --> 00:59:28,266
+No, no es eso.
+Intenta abrir el flujo de combustible.
+
+710
+00:59:33,280 --> 00:59:34,679
+Bien hecho, amigo.
+
+711
+00:59:47,895 --> 00:59:51,296
+El Maestro Kenobi está aquí.
+Ahora sí veremos verdadera acción.
+
+712
+00:59:51,365 --> 00:59:54,232
+¿Disculpa? ¿Y yo qué he estado haciendo
+todo el día?
+
+713
+00:59:54,301 --> 00:59:56,963
+No lo sé. La palabra "descuidado"
+me viene a la mente.
+
+714
+00:59:57,037 --> 01:00:00,234
+Qué graciosa eres. A trabajar.
+Las tropas nos necesitan.
+
+715
+01:00:00,407 --> 01:00:01,567
+Carga el armamento.
+
+716
+01:00:01,642 --> 01:00:04,805
+¿Cómo las ayudaremos?
+Oloroso cada vez está más grave.
+
+717
+01:00:04,979 --> 01:00:07,345
+Le prometimos a Rex que lo ayudaríamos.
+
+718
+01:00:08,883 --> 01:00:12,148
+Maestro, tienen que revisarlo
+los médicos del crucero Jedi.
+
+719
+01:00:12,286 --> 01:00:16,245
+Sólo así podremos devolvérselo
+a su padre con vida.
+
+720
+01:00:20,561 --> 01:00:23,997
+Capitán Rex, habla el General Skywalker.
+
+721
+01:00:24,298 --> 01:00:25,595
+<i>¿Sí, General?</i>
+
+722
+01:00:26,400 --> 01:00:28,459
+No podremos ayudarte.
+
+723
+01:00:28,636 --> 01:00:31,730
+No se preocupe, General. Estaremos bien.
+
+724
+01:00:34,108 --> 01:00:36,303
+La misión siempre es primero, señor.
+
+725
+01:00:40,481 --> 01:00:41,641
+¡Cúbranme!
+
+726
+01:00:51,792 --> 01:00:53,817
+Ventress, sé que estás aquí.
+
+727
+01:00:53,994 --> 01:00:56,929
+No puedes esconderte.
+Detecto tu frustración.
+
+728
+01:00:57,097 --> 01:01:00,828
+No me digas. También estás buscando
+al joven hijo de Jabba.
+
+729
+01:01:13,447 --> 01:01:16,507
+Tendrás que esforzarte más, preciosa.
+
+730
+01:01:24,124 --> 01:01:26,615
+Vaya, ahora sí me impresionas.
+
+731
+01:01:30,698 --> 01:01:32,791
+Ahora morirás.
+
+732
+01:01:43,143 --> 01:01:45,805
+- ¿Quieres continuar?
+- Será un placer.
+
+733
+01:01:51,885 --> 01:01:55,753
+Maestro, hoy me esforcé
+por mantenerme calmada y concentrada
+
+734
+01:01:55,923 --> 01:01:58,983
+y noté que todo pareció más sencillo.
+
+735
+01:02:02,162 --> 01:02:05,427
+Pues concéntrate
+porque esto no será sencillo.
+
+736
+01:02:20,214 --> 01:02:22,705
+Sólo hay que aterrizar
+en ese crucero Jedi.
+
+737
+01:02:27,521 --> 01:02:30,388
+¡Pero, Maestro,
+han bajado los escudos deflectores!
+
+738
+01:02:35,963 --> 01:02:38,898
+Deben creer
+que esta chatarra es una nave enemiga.
+
+739
+01:02:39,066 --> 01:02:41,626
+<i>- ¡Crucero Jedi, no dispare!
+- ¿Quién habla?</i>
+
+740
+01:02:41,802 --> 01:02:44,066
+Nave desconocida, identifíquese.
+
+741
+01:02:44,238 --> 01:02:46,468
+¡Capitán! ¿Qué sucede ahí abajo?
+
+742
+01:02:46,640 --> 01:02:48,631
+<i>¡Repito! ¡Identifíquese!</i>
+
+743
+01:02:48,809 --> 01:02:51,505
+Habla el General Skywalker.
+Tenemos al hijo de Jabba the Hutt.
+
+744
+01:02:51,578 --> 01:02:54,308
+Necesita atención médica.
+Tenemos que abordar de inmediato.
+
+745
+01:02:54,381 --> 01:02:57,714
+<i>- Un momento.
+- ¿Un momento? Qué amable.</i>
+
+746
+01:03:14,268 --> 01:03:15,326
+¡Sujétate!
+
+747
+01:03:27,081 --> 01:03:29,879
+<i>Abra la compuerta del hangar
+y desactive el escudo deflector.</i>
+
+748
+01:03:29,950 --> 01:03:31,542
+Entendido, señor.
+
+749
+01:03:34,421 --> 01:03:37,879
+<i>General Skywalker, desactivamos
+los escudos del hangar posterior.</i>
+
+750
+01:03:37,958 --> 01:03:39,323
+Vamos para allá.
+
+751
+01:03:42,329 --> 01:03:44,194
+¡Lo logramos! ¡Lo logramos!
+
+752
+01:03:49,837 --> 01:03:52,533
+¡General Skywalker, aborte! ¡Aborte!
+
+753
+01:03:54,675 --> 01:03:56,267
+Eso cambia los planes.
+
+754
+01:03:59,213 --> 01:04:02,808
+Parece que tendremos que llevar
+este montón de fierros a Tatooine.
+
+755
+01:04:30,844 --> 01:04:34,974
+Sé que Dooku planea poner a los Hutts
+en contra nuestra. No tendrá éxito.
+
+756
+01:04:35,682 --> 01:04:38,344
+Lo tendrá cuando
+la verdad muera contigo.
+
+757
+01:04:53,167 --> 01:04:54,532
+No tienes salida.
+
+758
+01:04:57,871 --> 01:04:59,702
+Estamos listos
+para entrar al hiperespacio.
+
+759
+01:04:59,773 --> 01:05:01,900
+Artu, programa la navicomputadora.
+
+760
+01:05:04,378 --> 01:05:06,278
+Maestro, no creo que llegue a tiempo.
+
+761
+01:05:06,346 --> 01:05:08,473
+Tiene que haber algo
+que podamos hacer ahora.
+
+762
+01:05:08,549 --> 01:05:11,484
+Echa un vistazo atrás.
+A ver si encuentras material médico.
+
+763
+01:05:11,552 --> 01:05:12,610
+Enseguida.
+
+764
+01:05:15,789 --> 01:05:19,020
+No mueras ahora, pequeño.
+Tienes que resistir.
+
+765
+01:05:19,193 --> 01:05:21,923
+Si ya tienes las coordenadas,
+Artu, andando.
+
+766
+01:05:29,703 --> 01:05:34,367
+Yo también lo detecto. Anakin
+se ha ido. Fracasaste, Ventress.
+
+767
+01:05:46,119 --> 01:05:48,314
+Tu Maestro no estará complacido.
+
+768
+01:05:53,961 --> 01:05:55,929
+¡Basura Jedi!
+
+769
+01:06:00,133 --> 01:06:03,591
+El Hutt está seguro.
+No tiene objeto seguir peleando.
+
+770
+01:06:03,670 --> 01:06:06,833
+Ganamos. Ahora, suelta tu arma.
+
+771
+01:06:19,553 --> 01:06:22,147
+Parece que no usan esto hace años.
+
+772
+01:06:24,124 --> 01:06:26,649
+Oye, Doctor Droide, ¿puedes escucharme?
+
+773
+01:06:26,827 --> 01:06:29,819
+<i>Sí. ¿Cuál es el problema?</i>
+
+774
+01:06:30,030 --> 01:06:33,966
+Genial. Aquí tengo un Hutt enfermo.
+¿Tienes algún remedio?
+
+775
+01:06:34,534 --> 01:06:37,469
+<i>Ah, sí. Ya veo.</i>
+
+776
+01:06:37,671 --> 01:06:41,767
+<i>Debes administrar este medicamento
+por la boca del lactante.</i>
+
+777
+01:06:42,476 --> 01:06:47,038
+<i>Si surge algún problema,
+pide la asistencia de un médico real.</i>
+
+778
+01:06:48,015 --> 01:06:49,710
+Espero que funcione.
+
+779
+01:06:49,883 --> 01:06:53,819
+Así que, pequeño, aquí tengo
+algo para ti.
+
+780
+01:06:56,990 --> 01:06:58,719
+¡Te lo tienes que tragar!
+
+781
+01:07:01,828 --> 01:07:04,558
+Eso es. Buen chico.
+
+782
+01:07:11,138 --> 01:07:14,107
+¡Capitán, tengo entendido
+que el General Skywalker escapó!
+
+783
+01:07:14,174 --> 01:07:17,007
+Sí, señor.
+En un carguero viejo y desgastado.
+
+784
+01:07:17,177 --> 01:07:20,010
+Será un milagro si llega
+a Tatooine en esa chatarra.
+
+785
+01:07:20,080 --> 01:07:24,517
+Si alguien sabe pilotear una lata
+voladora por el hiperespacio, es él.
+
+786
+01:07:29,656 --> 01:07:31,624
+La medicina, está funcionando.
+
+787
+01:07:32,392 --> 01:07:35,850
+Superó la fiebre.
+Creo que vivirá para apestar otro día.
+
+788
+01:07:36,029 --> 01:07:39,521
+Genial. Mantenerlo vivo no fue
+tan fácil como pensaste, ¿verdad?
+
+789
+01:07:39,599 --> 01:07:41,897
+Maestro, si algo me has enseñado es
+
+790
+01:07:41,969 --> 01:07:44,460
+que nada es sencillo
+cuando tú estás cerca.
+
+791
+01:07:44,671 --> 01:07:47,105
+¿Crees que Rex
+y el Maestro Obi-Wan estén bien?
+
+792
+01:07:47,174 --> 01:07:52,077
+Si conozco a mi Maestro, tiene
+todo bajo control. Ayúdame con esto.
+
+793
+01:07:52,245 --> 01:07:56,306
+Quiero que todos los sistemas estén
+funcionales antes de llegar a Tatooine.
+
+794
+01:07:56,883 --> 01:08:01,582
+Tú creciste en Tatooine, ¿no?
+Para ti, este viaje es como ir a casa.
+
+795
+01:08:01,755 --> 01:08:03,222
+Sí.
+
+796
+01:08:03,724 --> 01:08:04,850
+A casa.
+
+797
+01:08:10,097 --> 01:08:13,032
+<i>La República envió
+demasiados soldados, mi lord.</i>
+
+798
+01:08:13,200 --> 01:08:17,466
+<i>Cuando encontramos al hijo de Jabba,
+Skywalker ya lo había</i>
+
+799
+01:08:18,105 --> 01:08:19,367
+<i>asesinado.</i>
+
+800
+01:08:24,277 --> 01:08:28,907
+Qué mala noticia. Definitivamente,
+no era lo que esperábamos.
+
+801
+01:08:29,249 --> 01:08:31,877
+Supongo que al menos derrotaste al Jedi.
+
+802
+01:08:32,252 --> 01:08:36,746
+<i>No, Maestro. El Jedi escapó
+y se dirige hacia Tatooine.</i>
+
+803
+01:08:36,923 --> 01:08:41,758
+Estoy seguro de que te esforzaste.
+Después discutiremos tu fracaso.
+
+804
+01:08:42,229 --> 01:08:44,424
+<i>Sí, Maestro.</i>
+
+805
+01:08:48,935 --> 01:08:53,929
+El glorioso Jabba exige saber por qué
+se atrevería el Jedi a venir a Tatooine.
+
+806
+01:08:54,307 --> 01:08:59,108
+Para asesinarlo, Jabba.
+El plan de los Jedi es bastante claro.
+
+807
+01:08:59,179 --> 01:09:03,081
+Sólo prometieron rescatar
+a su hijo para ganarse su confianza.
+
+808
+01:09:03,450 --> 01:09:07,284
+Ahora, Skywalker viene hacia acá
+para terminar su verdadera misión...
+
+809
+01:09:07,454 --> 01:09:11,413
+acabar con todo el clan de los Hutts.
+
+810
+01:09:13,593 --> 01:09:15,925
+Si me lo permite, poderoso Jabba,
+
+811
+01:09:16,096 --> 01:09:20,430
+esta vez, yo lidiaré
+con Skywalker personalmente.
+
+812
+01:09:30,277 --> 01:09:33,178
+Esperaba jamás volver a ver
+ese asqueroso planeta.
+
+813
+01:09:33,346 --> 01:09:35,940
+Ajá. ¿Pero qué pasó?
+
+814
+01:09:36,116 --> 01:09:39,608
+No quiero hablar del tema.
+¿Cómo está Oloroso?
+
+815
+01:09:40,353 --> 01:09:42,446
+Parece que se siente mucho mejor.
+
+816
+01:09:42,522 --> 01:09:44,456
+La fiebre cedió.
+Hasta tú tienes que aceptar
+
+817
+01:09:44,524 --> 01:09:46,583
+que es una ternura cuando duerme.
+
+818
+01:09:46,660 --> 01:09:50,221
+Acepto que me agrada más callado,
+pero no del todo.
+
+819
+01:09:51,465 --> 01:09:53,990
+No, Artu.
+Primero quiero el cañón en operaciones.
+
+820
+01:09:54,067 --> 01:09:56,058
+Deja los escudos para más tarde.
+
+821
+01:09:56,269 --> 01:09:58,965
+¿Sin escudos, Maestro?
+¿No es algo arriesgado?
+
+822
+01:09:59,172 --> 01:10:01,970
+Un ataque sólido elimina
+la necesidad de defensa.
+
+823
+01:10:06,379 --> 01:10:07,869
+Son naves de ataque.
+
+824
+01:10:11,151 --> 01:10:13,949
+Alguien no quiere que Oloroso
+llegue a casa vivo.
+
+825
+01:10:16,656 --> 01:10:19,056
+¡Wow! Qué fiesta de bienvenida.
+
+826
+01:10:19,860 --> 01:10:22,488
+Fija el vector de acercamiento
+para aterrizar.
+
+827
+01:10:27,868 --> 01:10:29,699
+¡Ahsoka, activa los cañones!
+
+828
+01:10:31,404 --> 01:10:33,770
+Todos los cañones están fijos adelante.
+
+829
+01:10:33,840 --> 01:10:37,332
+Qué lástima que decidiste no reparar
+los escudos deflectores posteriores.
+
+830
+01:10:37,410 --> 01:10:38,934
+¡Ahora no, Ahsoka!
+
+831
+01:10:41,581 --> 01:10:43,947
+¡Artu! ¡Intenta desbloquear los
+cañones!
+
+832
+01:10:44,885 --> 01:10:47,911
+A veces, una buena defensa es
+la mejor ofensiva.
+
+833
+01:10:48,088 --> 01:10:50,113
+¿Por qué no vas a ver
+si tu amigo está seguro?
+
+834
+01:10:50,190 --> 01:10:52,920
+Nadie está seguro contigo al mando.
+
+835
+01:10:54,761 --> 01:10:56,058
+Sujétense bien.
+
+836
+01:11:10,744 --> 01:11:12,644
+¡Genial! ¡Despertaste al bebé!
+
+837
+01:11:14,247 --> 01:11:16,044
+¡Estoy algo entretenido!
+
+838
+01:11:22,422 --> 01:11:24,549
+- ¡Le di a uno!
+- ¿Qué me dices del otro?
+
+839
+01:11:24,624 --> 01:11:26,251
+¡Una cosa a la vez!
+
+840
+01:11:32,399 --> 01:11:34,867
+¡Parece que sí
+necesitábamos los escudos!
+
+841
+01:11:35,435 --> 01:11:36,595
+¡Te lo dije!
+
+842
+01:11:39,639 --> 01:11:41,436
+¡Artu! ¡Gira esos cañones!
+
+843
+01:11:43,343 --> 01:11:44,401
+¡Artu!
+
+844
+01:11:44,477 --> 01:11:48,208
+¿Por qué no puedes ser
+un diminuto droide ratón?
+
+845
+01:11:59,659 --> 01:12:01,183
+¡Qué pasa, Artu!
+
+846
+01:12:06,499 --> 01:12:08,694
+Buen tiro, amigo. No te creía capaz.
+
+847
+01:12:16,176 --> 01:12:17,404
+¡Ahsoka, el cinturón!
+
+848
+01:12:17,477 --> 01:12:18,876
+Tienes mirada
+de que estamos en problemas.
+
+849
+01:12:18,945 --> 01:12:20,344
+¿Hay una mirada?
+
+850
+01:12:22,315 --> 01:12:25,284
+- Inconfundible.
+- Muy simpática.
+
+851
+01:12:25,518 --> 01:12:27,213
+Obi-Wan, responde. ¿Me escuchas?
+
+852
+01:12:27,287 --> 01:12:30,347
+<i>Aquí Kenobi. ¿Ya llegaron a Tatooine?</i>
+
+853
+01:12:30,523 --> 01:12:32,115
+Estamos cerca,
+pero nos encontramos con...
+
+854
+01:12:32,192 --> 01:12:34,092
+<i>Anakin, ¿te volvieron a disparar?</i>
+
+855
+01:12:34,160 --> 01:12:35,249
+Sí.
+
+856
+01:12:35,328 --> 01:12:38,559
+Esta nave es algo lenta.
+No he tenido tiempo para modificarla.
+
+857
+01:12:38,632 --> 01:12:41,499
+<i>Sigo arreglando tu otro desastre,
+pero iré pronto.</i>
+
+858
+01:12:41,668 --> 01:12:43,465
+Despídete de los refuerzos.
+
+859
+01:12:47,240 --> 01:12:49,674
+¡Sujétate!
+Este aterrizaje nos va a sacudir.
+
+860
+01:12:49,743 --> 01:12:52,678
+Los choques sacuden. Los aterrizajes no.
+
+861
+01:12:52,746 --> 01:12:54,680
+Entonces es un choque forzoso.
+
+862
+01:13:15,268 --> 01:13:20,103
+Poderoso Jabba, mis droides de batalla
+derribaron la nave de Skywalker.
+
+863
+01:13:25,211 --> 01:13:29,614
+Jabba enviará a sus cazarrecompensas
+para verificar que esté muerto.
+
+864
+01:13:29,783 --> 01:13:34,686
+Déjeme a mí. Yo tengo mucha
+más experiencia tratando con los Jedi.
+
+865
+01:13:38,258 --> 01:13:40,783
+<i>Anakin llegó a Tatooine
+con el Hutt, Maestro,</i>
+
+866
+01:13:40,994 --> 01:13:42,825
+<i>pero sigue en grave peligro.</i>
+
+867
+01:13:42,962 --> 01:13:45,487
+<i>Los Separatistas están desesperados
+por interceptarlo.</i>
+
+868
+01:13:45,565 --> 01:13:48,159
+<i>Yo siento que todo este plan fue
+idea de Dooku</i>
+
+869
+01:13:48,234 --> 01:13:50,361
+<i>para convencer a Jabba
+de que nosotros raptamos a su hijo.</i>
+
+870
+01:13:50,437 --> 01:13:55,067
+Si su versión los Hutts creen, de firmar
+un tratado nuestra esperanza terminará.
+
+871
+01:13:55,241 --> 01:13:58,108
+A Dooku
+y a los Separatistas Jabba se unirá. Sí.
+
+872
+01:13:58,311 --> 01:14:00,279
+Eso sería un desastre.
+
+873
+01:14:00,447 --> 01:14:02,472
+Necesitamos esta alianza con los Hutts
+
+874
+01:14:02,549 --> 01:14:04,710
+si queremos ganar
+la guerra en el borde exterior.
+
+875
+01:14:04,784 --> 01:14:07,281
+En Skywalker nuestra
+única esperanza habitual.
+
+876
+01:14:07,282 --> 01:14:09,778
+Regresar al hijo de Jabba debe.
+
+877
+01:14:10,223 --> 01:14:13,886
+<i>La experiencia de Anakin con
+los Hutts lo salvará. Saldrá adelante.</i>
+
+878
+01:14:19,432 --> 01:14:21,229
+Por favor, disculpe, Maestro Yoda.
+
+879
+01:14:21,301 --> 01:14:24,270
+Debo regresar
+a la gran aventura de la política.
+
+880
+01:14:24,904 --> 01:14:29,773
+- Saludos, Senadora Amidala.
+- Maestro Yoda. Qué gusto verlo.
+
+881
+01:14:29,943 --> 01:14:32,741
+Mío el gusto es, Senadora.
+
+882
+01:14:33,446 --> 01:14:35,744
+Ah, Padmé. Íbamos a discutir...
+
+883
+01:14:35,915 --> 01:14:38,713
+Las nuevas medidas de seguridad
+que implementó en Naboo.
+
+884
+01:14:38,785 --> 01:14:42,243
+Mi jefe de seguridad me dice que hay
+nuevas batallas en el borde exterior.
+
+885
+01:14:42,322 --> 01:14:46,418
+Incluyendo una pequeña
+escaramuza con Obi-Wan Kenobi y Anakin.
+
+886
+01:14:46,593 --> 01:14:48,458
+¿Anakin? ¿Está en peligro?
+
+887
+01:14:48,661 --> 01:14:51,858
+Temo que el intento de los Jedi
+por firmar un tratado con los Hutts
+
+888
+01:14:51,931 --> 01:14:53,660
+tuvo terribles resultados.
+
+889
+01:14:53,867 --> 01:14:56,893
+Jabba cree que Anakin secuestró
+a su pequeño hijo.
+
+890
+01:14:57,203 --> 01:15:01,537
+¡Un Jedi jamás haría algo así!
+Tal vez yo logre que firmen el tratado.
+
+891
+01:15:01,708 --> 01:15:05,109
+Iré con los Hutts y los convenceré
+de la inocencia de Anakin,
+
+892
+01:15:05,278 --> 01:15:07,610
+como representante del senado, claro.
+
+893
+01:15:07,781 --> 01:15:11,808
+Es muy valeroso de su parte, Senadora,
+pero demasiado peligroso.
+
+894
+01:15:11,985 --> 01:15:14,317
+Además, ya intentamos contactar a Jabba,
+
+895
+01:15:14,387 --> 01:15:16,719
+no acepta comunicados de nuestra parte.
+
+896
+01:15:16,790 --> 01:15:20,282
+Jabba the Hutt tiene un tío en
+la zona antigua del centro de Coruscant.
+
+897
+01:15:20,360 --> 01:15:23,761
+Tal vez lo haga entrar en razón
+y se reinicien las negociaciones.
+
+898
+01:15:23,830 --> 01:15:26,390
+Por favor, Senadora,
+le suplico que lo reconsidere.
+
+899
+01:15:26,466 --> 01:15:30,027
+Descuide, Canciller. He tratado
+con seres peores que los Hutts.
+
+900
+01:15:30,236 --> 01:15:35,299
+Cuídese, Senadora. Los Hutts
+son gángsters despiadados.
+
+901
+01:15:49,122 --> 01:15:50,714
+Has vuelto a casa, Oloroso.
+
+902
+01:15:50,790 --> 01:15:53,782
+El palacio de Jabba está
+del otro lado del Mar de Dunas.
+
+903
+01:15:53,860 --> 01:15:56,658
+Hay que apresurarnos
+si queremos llegar temprano.
+
+904
+01:16:01,067 --> 01:16:02,193
+Sí, ya voy.
+
+905
+01:16:05,805 --> 01:16:09,798
+¡Ay, Artu! Sólo son kilómetros
+de arena áspera y ardiente.
+
+906
+01:16:09,976 --> 01:16:12,376
+Luego te limpio los circuitos. Deprisa.
+
+907
+01:16:54,020 --> 01:16:55,954
+¡Oh, su altísima majestad!
+
+908
+01:16:56,122 --> 01:16:59,216
+¿Qué quieres, Kronos-327?
+
+909
+01:16:59,959 --> 01:17:03,861
+Mi misión a la doceava luna
+de Yaut ha fallado.
+
+910
+01:17:06,299 --> 01:17:08,460
+Después de tantos años,
+
+911
+01:17:08,735 --> 01:17:13,195
+el más leal de mis asesinos
+finalmente fracasa.
+
+912
+01:17:13,973 --> 01:17:18,967
+Oh, Ziro the Hutt, amo y señor
+del clan de los Hutts en siete sistemas,
+
+913
+01:17:19,546 --> 01:17:23,607
+lo lamento, su alteza.
+No volverá a suceder.
+
+914
+01:17:23,816 --> 01:17:25,716
+Lo sé. ¡Llévenselo
+
+915
+01:17:26,052 --> 01:17:30,250
+- y úsenlo como piezas de repuesto!
+- ¡No! ¡No! ¡No!
+
+916
+01:17:54,047 --> 01:17:57,107
+Su majestad,
+tiene una visitante importante.
+
+917
+01:17:57,784 --> 01:18:01,845
+Saludos, Ziro. Soy la Senadora Amidala,
+del Congreso Galáctico.
+
+918
+01:18:02,055 --> 01:18:05,115
+¿Una senadora? ¿En este vecindario?
+
+919
+01:18:09,495 --> 01:18:12,794
+Sé que usted es
+tío de Jabba the Hutt de Tatooine.
+
+920
+01:18:12,966 --> 01:18:14,456
+Vengo a pedirle un favor.
+
+921
+01:18:14,534 --> 01:18:16,468
+¿Un favor?
+
+922
+01:18:17,470 --> 01:18:20,871
+Hubo un grave malentendido
+entre Jabba y la Orden de los Jedi.
+
+923
+01:18:21,240 --> 01:18:23,800
+Y, ¿qué puedo hacer yo, Senadora?
+
+924
+01:18:24,010 --> 01:18:27,411
+Esperaba resolver entre nosotros
+esta disputa y firmar un tratado
+
+925
+01:18:27,480 --> 01:18:30,108
+entre la República
+y el gran clan de los Hutts.
+
+926
+01:18:30,183 --> 01:18:34,313
+¿Un tratado? ¿Un tratado?
+Un tratado es imposible.
+
+927
+01:18:34,487 --> 01:18:36,455
+El hijo de mi sobrino Jabba
+fue secuestrado
+
+928
+01:18:36,522 --> 01:18:38,615
+por su basura Jedi de la República.
+
+929
+01:18:38,691 --> 01:18:41,353
+¡Pero, señor! ¡Todo es un malentendido!
+
+930
+01:18:41,527 --> 01:18:43,893
+No hay ningún malentendido.
+
+931
+01:18:44,063 --> 01:18:48,329
+Los Jedi rescataron a su hijo.
+Si me pone en contacto con Jabba,
+
+932
+01:18:48,401 --> 01:18:51,165
+estoy segura
+de que lo convenceré de la verdad.
+
+933
+01:18:51,871 --> 01:18:55,602
+¡No! ¡Se acabó esta discusión!
+Escóltenla a la puerta.
+
+934
+01:18:55,775 --> 01:19:00,007
+¡Por favor, Ziro! Su sobrino Jabba
+corre peligro. ¡Les mintieron!
+
+935
+01:19:00,213 --> 01:19:02,113
+¡Les dije que la echaran!
+
+936
+01:19:03,516 --> 01:19:05,040
+¡No me toques!
+
+937
+01:19:28,041 --> 01:19:30,020
+El Maestro Yoda tiene un dicho.
+
+938
+01:19:30,021 --> 01:19:32,000
+"Los viejos pecados
+proyectan largas sombras".
+
+939
+01:19:32,078 --> 01:19:34,069
+¿Sabes lo que significa eso?
+
+940
+01:19:34,280 --> 01:19:36,714
+Que tu pasado puede arruinar
+tu futuro si lo permites.
+
+941
+01:19:36,783 --> 01:19:39,251
+Pero olvidas que el Maestro Skywalker
+fue el que dijo:
+
+942
+01:19:39,318 --> 01:19:43,015
+"No me interesa hablar de mi pasado".
+
+943
+01:19:43,589 --> 01:19:44,988
+Sí, está bien.
+
+944
+01:19:45,158 --> 01:19:49,754
+Hay muchas cosas de las que podemos
+hablar aquí. Como la arena.
+
+945
+01:19:50,129 --> 01:19:53,064
+El desierto no tiene piedad.
+Te lo arrebata todo.
+
+946
+01:19:53,266 --> 01:19:56,963
+Qué inspiradora idea. No podrá
+con nosotros, Maestro. ¿Verdad, Artu?
+
+947
+01:20:29,869 --> 01:20:32,667
+Su plan se desmorona, Conde Dooku.
+
+948
+01:20:32,668 --> 01:20:35,466
+Una Senadora de la
+República estuvo aquí.
+
+949
+01:20:35,641 --> 01:20:39,270
+¿Qué pasará si descubre que lo ayudé
+a secuestrar al hijo de Jabba?
+
+950
+01:20:39,479 --> 01:20:43,176
+<i>Descuide. Ya convencí a Jabba
+de que los Jedi mataron a su hijo</i>
+
+951
+01:20:43,349 --> 01:20:45,317
+<i>y que ahora van tras él.</i>
+
+952
+01:20:45,485 --> 01:20:47,953
+Jabba asesinará a los Jedi al instante.
+
+953
+01:20:48,321 --> 01:20:50,471
+<i>Y la poderosa Orden
+de los Jedi se verá obligada...</i>
+
+954
+01:20:50,472 --> 01:20:52,621
+...a llevar a Jabba ante la justicia...
+
+955
+01:20:52,692 --> 01:20:57,686
+<i>...y usted, amigo mío, tomará el control
+de todo el clan de los Hutts.</i>
+
+956
+01:20:58,498 --> 01:21:02,662
+Entonces, el plan contra mi sobrino
+Jabba ha tenido éxito.
+
+957
+01:21:03,002 --> 01:21:05,129
+Pero, ¿qué me dice
+de la entrometida Senadora?
+
+958
+01:21:05,204 --> 01:21:07,638
+<i>Si continúa su investigación,</i>
+
+959
+01:21:08,141 --> 01:21:11,474
+<i>encárguese de que sufra
+un terrible accidente.</i>
+
+960
+01:21:11,911 --> 01:21:14,971
+<i>Haré que alguien
+del senado lo cubra todo.</i>
+
+961
+01:21:22,889 --> 01:21:24,686
+Conde Dooku.
+
+962
+01:21:25,725 --> 01:21:30,219
+Conque el venenoso traidor nuevamente
+vuelve a mostrar su feo rostro.
+
+963
+01:21:30,396 --> 01:21:34,492
+<i>Para mí también es un placer
+encontrarme con usted, Senadora</i>
+
+964
+01:21:34,734 --> 01:21:36,531
+<i>Amidala, ¿no es así?</i>
+
+965
+01:21:36,836 --> 01:21:38,736
+Iba de salida.
+
+966
+01:21:39,338 --> 01:21:42,000
+<i>Lamento no poder permitirlo.</i>
+
+967
+01:21:42,141 --> 01:21:44,974
+<i>Ziro. Esta Senadora en particular es</i>
+
+968
+01:21:45,044 --> 01:21:47,877
+<i>sumamente valiosa
+para mis aliados Separatistas.</i>
+
+969
+01:21:48,247 --> 01:21:50,442
+<i>Pagarán un alto precio por ella.</i>
+
+970
+01:21:51,918 --> 01:21:56,048
+Eso suena interesante.
+¡Llévenla al calabozo!
+
+971
+01:21:56,255 --> 01:21:58,189
+Lo lamentarás, Ziro.
+
+972
+01:21:58,524 --> 01:22:02,016
+No, con esto me volveré muy rico.
+
+973
+01:22:04,764 --> 01:22:06,857
+Gracias, Conde Dooku.
+
+974
+01:22:07,033 --> 01:22:10,434
+<i>Ha sido un verdadero placer
+colaborar con usted.</i>
+
+975
+01:22:11,404 --> 01:22:15,033
+Lo contactaré cuando el pequeño
+Hutt haya muerto,
+
+976
+01:22:15,208 --> 01:22:18,541
+altísimo y respetado amo del clan
+de los Hutts.
+
+977
+01:22:21,714 --> 01:22:25,616
+Conde Dooku, detectamos tres formas
+de vida cruzando el desierto.
+
+978
+01:22:26,319 --> 01:22:28,378
+Uno es un Hutt muy joven.
+
+979
+01:22:29,555 --> 01:22:31,045
+Ah, Skywalker.
+
+980
+01:22:39,131 --> 01:22:40,598
+No estamos solos.
+
+981
+01:22:40,766 --> 01:22:43,929
+Yo también lo detecto.
+Es el lado oscuro de la Fuerza.
+
+982
+01:22:47,473 --> 01:22:51,000
+Sea lo que sea, viene por el Hutt.
+Hay que separarnos.
+
+983
+01:22:51,143 --> 01:22:53,202
+Lo enfrentaremos juntos, Maestro.
+
+984
+01:22:53,279 --> 01:22:56,442
+No, esta vez no. Tengo una misión
+más importante para ti.
+
+985
+01:22:56,515 --> 01:22:58,278
+¿Más importante que mantenerte vivo?
+
+986
+01:22:58,351 --> 01:23:00,649
+Ahsoka, necesito que me hagas caso.
+
+987
+01:23:18,838 --> 01:23:20,169
+¿Qué es eso?
+
+988
+01:23:20,339 --> 01:23:23,672
+¡No lo toquen!
+¡Hagan lo que hagan, aléjense de él!
+
+989
+01:23:23,843 --> 01:23:25,834
+Por favor. Se los suplico.
+
+990
+01:23:26,145 --> 01:23:27,476
+No lo enciendan.
+
+991
+01:23:27,546 --> 01:23:30,014
+Podría ser peligroso. Voy a ver qué es.
+
+992
+01:23:31,183 --> 01:23:35,176
+<i>¡Al fin responde!
+¡Estaba tan preocupado!</i>
+
+993
+01:23:35,988 --> 01:23:38,456
+<i>¿Quién eres tú? Tú no eres la Ama Padmé.</i>
+
+994
+01:23:38,624 --> 01:23:41,752
+¡Threepio! ¡Pide ayuda!
+¡Ziro the Hutt me tiene encerrada!
+
+995
+01:23:41,827 --> 01:23:45,285
+<i>¡Está en problemas! ¡Lo sabía!
+¡Espera! ¡Espera!</i>
+
+996
+01:24:06,719 --> 01:24:10,485
+Entrégame al Hutt o morirás, Skywalker.
+
+997
+01:24:28,507 --> 01:24:31,271
+Tu entrenamiento ha tenido
+resultados, muchacho.
+
+998
+01:24:43,255 --> 01:24:47,248
+Ah, ahora lo recuerdo.
+Éste es tu planeta natal, ¿verdad?
+
+999
+01:24:47,893 --> 01:24:53,229
+Detecto tus fuertes sentimientos
+de sufrimiento, de dolor.
+
+1000
+01:25:19,225 --> 01:25:23,821
+Fracasaste, Jedi.
+Acabo de matar al hijo de Jabba.
+
+1001
+01:25:23,996 --> 01:25:27,932
+Caíste en mi truco, Conde Dooku.
+Sólo son rocas.
+
+1002
+01:25:29,001 --> 01:25:32,835
+El Hutt está con mi padawan,
+seguro en el palacio de Jabba.
+
+1003
+01:25:33,005 --> 01:25:36,168
+No me sorprende tal traición de un Jedi.
+
+1004
+01:25:36,342 --> 01:25:39,277
+Te aseguro que mi red tiene la fuerza
+
+1005
+01:25:39,345 --> 01:25:42,280
+para atrapar a tu insignificante
+y tonta padawan.
+
+1006
+01:25:42,581 --> 01:25:44,674
+Es más astuta de lo que tú crees.
+
+1007
+01:25:45,651 --> 01:25:47,642
+¿A quién quieres engañar?
+
+1008
+01:26:16,182 --> 01:26:19,618
+Mira, tengo un mensaje de tu padawan.
+
+1009
+01:26:30,329 --> 01:26:33,059
+Cuando mis droides asesinen al
+hijo de Jabba,
+
+1010
+01:26:33,632 --> 01:26:36,100
+le llevarán a tu pequeña padawan
+
+1011
+01:26:36,168 --> 01:26:39,137
+para que reciba castigo
+por el homicidio del pequeño.
+
+1012
+01:26:39,338 --> 01:26:42,136
+Y la verdad dudo
+que le tenga misericordia.
+
+1013
+01:27:02,228 --> 01:27:03,286
+¡Artu!
+
+1014
+01:27:06,065 --> 01:27:09,034
+¿Tres contra dos?
+Oloroso, cuídame la espalda.
+
+1015
+01:27:33,893 --> 01:27:36,521
+Creí que te gustaba jugar en la arena.
+
+1016
+01:27:49,808 --> 01:27:53,266
+Esta zona de la ciudad
+definitivamente no es mi ambiente.
+
+1017
+01:27:57,049 --> 01:27:59,540
+Intentó pedir ayuda, Senadora.
+
+1018
+01:27:59,919 --> 01:28:03,286
+Yo diría que es muy peligrosa
+para mantenerla viva.
+
+1019
+01:28:03,455 --> 01:28:05,719
+¿Asesinará a una senadora galáctica
+en Coruscant?
+
+1020
+01:28:05,791 --> 01:28:07,190
+¿Acaso está demente?
+
+1021
+01:28:07,259 --> 01:28:11,093
+Tengo amigos poderosos en el Senado.
+No le tengo miedo a... ¿Eh?
+
+1022
+01:28:15,234 --> 01:28:16,701
+¿Hay alguien en casa?
+
+1023
+01:28:16,769 --> 01:28:17,827
+¿Threepio?
+
+1024
+01:28:18,003 --> 01:28:19,265
+¿Qué es eso?
+
+1025
+01:28:20,105 --> 01:28:21,834
+- ¡Vamos, vamos!
+- Disparen.
+
+1026
+01:28:23,342 --> 01:28:24,969
+¡Corran por sus vidas!
+
+1027
+01:28:37,823 --> 01:28:40,417
+¡Espera, Ziro!
+¡Quédate justo donde estás!
+
+1028
+01:28:42,695 --> 01:28:46,290
+¡Ama Padmé! ¿Se encuentra bien?
+¿Llegué tarde?
+
+1029
+01:28:46,532 --> 01:28:49,592
+Threepio.
+No pudiste llegar más a tiempo.
+
+1030
+01:28:49,668 --> 01:28:52,364
+Gracias al fabricante.
+Qué enorme alivio.
+
+1031
+01:28:52,671 --> 01:28:55,834
+- ¿Arrestamos al Hutt, Senadora?
+- ¡No tuve alternativa!
+
+1032
+01:28:56,008 --> 01:29:00,104
+¡Dooku dijo que me mataría si no lo
+ayudaba a secuestrar al hijo de Jabba!
+
+1033
+01:29:00,279 --> 01:29:03,942
+¡Tienen que creerme!
+¡Yo adoro a ese retoño!
+
+1034
+01:29:04,016 --> 01:29:05,847
+Sí, por supuesto.
+
+1035
+01:29:16,095 --> 01:29:19,394
+¡Maestro! ¡Por aquí! ¡Maestro! ¡Ma...!
+
+1036
+01:29:20,866 --> 01:29:22,458
+¡Nunca me escucha!
+
+1037
+01:29:29,742 --> 01:29:32,472
+- ¿Dónde está mi padawan?
+- Por aquí.
+
+1038
+01:29:33,212 --> 01:29:34,975
+Eh... Su arma, por favor.
+
+1039
+01:29:45,424 --> 01:29:49,053
+Escuchen, droides,
+volverán con Dooku en partes.
+
+1040
+01:29:49,662 --> 01:29:52,688
+Él es el caballero
+Jedi Anakin Skywalker.
+
+1041
+01:29:52,831 --> 01:29:53,957
+Como dijo el Conde Dooku,
+
+1042
+01:29:54,333 --> 01:29:55,857
+su hijo no está con él.
+
+1043
+01:29:56,168 --> 01:29:57,999
+¿Qué? ¿Su hijo no está aquí?
+
+1044
+01:29:59,571 --> 01:30:01,038
+¿Dónde está Ahsoka?
+
+1045
+01:30:20,626 --> 01:30:22,560
+¿Qué le hicieron a mi padawan?
+
+1046
+01:30:26,231 --> 01:30:28,495
+Estás aquí para matar a Jabba.
+
+1047
+01:30:28,567 --> 01:30:31,127
+Poderoso Jabba, vine aquí para negociar.
+
+1048
+01:30:41,747 --> 01:30:46,582
+Ser padawan es más difícil
+de lo que creí. Te llevaré a casa.
+
+1049
+01:30:51,390 --> 01:30:53,153
+Has venido aquí para morir.
+
+1050
+01:30:54,059 --> 01:30:55,151
+¡Alto!
+
+1051
+01:31:15,481 --> 01:31:18,382
+Serán ejecutados inmediatamente.
+
+1052
+01:31:18,450 --> 01:31:19,747
+¿Qué?
+
+1053
+01:31:21,520 --> 01:31:24,819
+- ¿Siempre te pasa lo mismo?
+- Me pasa a donde quiera que voy.
+
+1054
+01:31:30,195 --> 01:31:33,255
+Su tío Ziro nos está contactando.
+
+1055
+01:31:34,867 --> 01:31:36,232
+<i>Saludos, honorable Jabba.</i>
+
+1056
+01:31:36,301 --> 01:31:39,429
+<i>Soy la Senadora Amidala,
+del Congreso Galáctico.</i>
+
+1057
+01:31:39,605 --> 01:31:42,130
+<i>Descubrí un plan en su contra
+por uno de los suyos.</i>
+
+1058
+01:31:42,207 --> 01:31:45,142
+<i>Su tío admitirá que conspiró con el
+Conde Dooku para secuestrar a su hijo</i>
+
+1059
+01:31:45,210 --> 01:31:47,644
+<i>e inculpar a los Jedi por el crimen.</i>
+
+1060
+01:31:59,124 --> 01:32:00,716
+<i>¡Fue el Conde Dooku!</i>
+
+1061
+01:32:06,198 --> 01:32:10,362
+La familia Hutt castigará
+a Ziro de forma severa.
+
+1062
+01:32:10,569 --> 01:32:13,766
+<i>Tal vez ahora le permita
+a la República utilizar sus rutas</i>
+
+1063
+01:32:13,839 --> 01:32:16,000
+<i>y las hostilidades terminen al fin.</i>
+
+1064
+01:32:21,547 --> 01:32:25,039
+Jabba está de acuerdo.
+Un tratado es necesario.
+
+1065
+01:32:25,217 --> 01:32:26,844
+<i>No lo lamentará, Jabba.</i>
+
+1066
+01:32:30,522 --> 01:32:34,083
+Los ejércitos de clones pueden atravesar
+los territorios de Jabba.
+
+1067
+01:32:34,259 --> 01:32:37,751
+Senadora, tiene mi eterna gratitud.
+
+1068
+01:32:37,930 --> 01:32:42,697
+<i>No, Maestro Skywalker, yo, y toda
+la República, le damos las gracias.</i>
+
+1069
+01:32:48,874 --> 01:32:51,342
+Jabba les agradecería mucho
+
+1070
+01:32:51,510 --> 01:32:55,879
+que llevaran a Dooku ante la justicia
+por sus crímenes contra los Hutts.
+
+1071
+01:32:56,081 --> 01:32:58,106
+Cuenta con ello, Jabba.
+
+1072
+01:33:04,756 --> 01:33:06,849
+Es desafortunado, Maestro.
+
+1073
+01:33:07,025 --> 01:33:11,291
+Los ejércitos Jedi tendrán sus rutas
+de provisiones en el borde exterior.
+
+1074
+01:33:11,463 --> 01:33:15,126
+Nuestra lucha acaba de hacerse
+mucho más difícil.
+
+1075
+01:33:15,300 --> 01:33:18,599
+<i>Concédele a los Jedi
+esta pequeña victoria, amigo,</i>
+
+1076
+01:33:18,770 --> 01:33:22,729
+<i>pues los engranes de esta guerra
+giran a nuestro favor.</i>
+
+1077
+01:33:55,200 --> 01:34:01,200
+Subtítulo por aRGENTeaM
+www.argenteam.net
+

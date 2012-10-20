@@ -1,0 +1,4804 @@
+1
+00:01:35,795 --> 00:01:38,195
+Soy una piedra.
+
+2
+00:01:40,066 --> 00:01:42,125
+No me muevo.
+
+3
+00:01:47,140 --> 00:01:49,540
+Muy despacio...
+
+4
+00:01:49,642 --> 00:01:51,803
+...me pongo nieve en la boca.
+
+5
+00:01:52,946 --> 00:01:54,937
+Así no podrá ver mi aliento.
+
+6
+00:02:03,223 --> 00:02:05,418
+Me doy tiempo.
+
+7
+00:02:05,525 --> 00:02:07,959
+Lo dejo acercarse.
+
+8
+00:02:08,061 --> 00:02:10,723
+Sólo tengo una bala.
+
+9
+00:02:10,830 --> 00:02:12,798
+Le apunto al ojo.
+
+10
+00:02:12,899 --> 00:02:17,233
+Suavemente,
+mi dedo presiona el gatillo.
+
+11
+00:02:21,374 --> 00:02:23,604
+No tiemblo.
+
+12
+00:02:25,912 --> 00:02:28,312
+No tengo miedo.
+
+13
+00:02:28,414 --> 00:02:30,644
+Soy un niño grande.
+
+14
+00:02:35,588 --> 00:02:37,818
+¿Listo, Vassili?
+
+15
+00:02:37,924 --> 00:02:40,688
+¡Ahora, Vassili!
+¡Dispara!
+
+16
+00:02:40,793 --> 00:02:42,260
+¡Dispara, Vassili!
+
+17
+00:02:42,362 --> 00:02:43,761
+¡Dispara!
+
+18
+00:02:48,535 --> 00:02:51,766
+ENEMIGO AL ACECHO
+
+19
+00:03:43,223 --> 00:03:45,919
+¡Vamos!
+¡Pónganse de pie!
+
+20
+00:03:46,025 --> 00:03:49,426
+¡De pie!
+¡Prepárense a abordar el tren!
+
+21
+00:03:57,103 --> 00:03:58,798
+Vengan conmigo.
+
+22
+00:04:03,276 --> 00:04:05,574
+¡Que bajen todos los civiles!
+
+23
+00:04:05,678 --> 00:04:08,146
+¡Abran paso!
+¡Dejen bajar a los civiles!
+
+24
+00:04:08,248 --> 00:04:10,512
+<i>Este es un convoy militar. </i>
+
+25
+00:04:11,417 --> 00:04:15,478
+<i>Sólo se quedarán a bordo</i>
+<i>nuestros valientes soldados. </i>
+
+26
+00:04:17,357 --> 00:04:19,951
+<i>Este es un convoy a Stalingrado... </i>
+
+27
+00:04:20,059 --> 00:04:23,495
+<i>... sólo para los</i>
+<i>soldados del Ejército Rojo. </i>
+
+28
+00:05:12,278 --> 00:05:14,473
+<i>Otoño de 1942.</i>
+
+29
+00:05:14,580 --> 00:05:17,481
+<i>Europa está pisoteada</i>
+<i>por la bota nazi. </i>
+
+30
+00:05:21,154 --> 00:05:24,055
+<i>El III Reich alemán</i>
+<i>está en la cúspide de su poderío. </i>
+
+31
+00:05:25,258 --> 00:05:27,988
+<i>Los ejércitos de Hitler</i>
+<i>acometen contra la Unión Soviética... </i>
+
+32
+00:05:28,094 --> 00:05:30,654
+<i>... en su camino hacia los</i>
+<i>campos de petróleo de Asia. </i>
+
+33
+00:05:30,763 --> 00:05:33,027
+<i>Sólo resta un último obstáculo. </i>
+
+34
+00:05:33,132 --> 00:05:36,431
+<i>Una ciudad en el Volga donde</i>
+<i>se decidirá el destino del mundo: </i>
+
+35
+00:05:36,536 --> 00:05:37,935
+<i>Stalingrado. </i>
+
+36
+00:06:02,195 --> 00:06:05,756
+El Ejército Rojo y todos
+los ciudadanos de la U.R.S. S...
+
+37
+00:06:05,865 --> 00:06:09,232
+...deben defender
+cada centímetro de suelo soviético.
+
+38
+00:06:09,335 --> 00:06:12,270
+¡Debemos pelear
+hasta que caiga el último de nosotros!
+
+39
+00:06:12,372 --> 00:06:15,273
+20 DE SEPTIEMBRE DE 1942
+
+40
+00:06:16,309 --> 00:06:19,335
+¡Suban a los botes!
+¡A los botes!
+
+41
+00:06:28,955 --> 00:06:34,393
+Stalin, el camarada glorioso dijo:
+"Ni un paso atrás.
+
+42
+00:06:34,494 --> 00:06:40,126
+El pueblo de la Unión Soviética
+será libre y no esclavo".
+
+43
+00:06:53,179 --> 00:06:55,113
+¡Adelante, camaradas!
+
+44
+00:06:55,214 --> 00:06:57,079
+¡Ni un paso atrás!
+
+45
+00:06:57,183 --> 00:06:59,583
+¡Vamos!
+¡Adelante!
+
+46
+00:07:14,934 --> 00:07:18,097
+Escuchen estas cartas
+enviadas por madres rusas...
+
+47
+00:07:18,204 --> 00:07:21,196
+...a sus hijos en el frente:
+
+48
+00:07:22,408 --> 00:07:24,376
+"Volodya, niño mío:
+
+49
+00:07:24,477 --> 00:07:27,344
+Sé que es por nuestra patria.
+
+50
+00:07:29,949 --> 00:07:34,477
+Sé que es por la patria
+que estás dando tu vida.
+
+51
+00:07:50,770 --> 00:07:55,366
+Todos aquí sabemos
+que no retrocederás.
+
+52
+00:07:56,142 --> 00:07:58,508
+Todos aquí estamos orgullosos de ti.
+
+53
+00:08:00,246 --> 00:08:02,908
+Tu padre está muerto.
+Tus hermanos están muertos.
+
+54
+00:08:03,015 --> 00:08:05,210
+Vénguence de las hordas fascistas".
+
+55
+00:08:14,160 --> 00:08:15,718
+¡Cúbranse!
+
+56
+00:08:45,157 --> 00:08:47,057
+- ¡Bájenlo!
+- ¡Suban al bote!
+
+57
+00:08:48,327 --> 00:08:51,626
+¡Regresen o disparo!
+¡Aléjense de las barandillas!
+
+58
+00:08:51,731 --> 00:08:53,722
+¡Maten a los traidores!
+
+59
+00:09:11,784 --> 00:09:14,184
+CIUDAD DE STALINGRADO MUELLES
+
+60
+00:09:15,655 --> 00:09:17,247
+¡Prepárense a desembarcar!
+
+61
+00:09:27,333 --> 00:09:28,425
+¡Desembarquen!
+
+62
+00:09:28,534 --> 00:09:30,434
+¡Vamos! ¡Ahora!
+¡Muévanse!
+
+63
+00:09:33,906 --> 00:09:36,272
+¡Vamos!
+¡Vamos!
+
+64
+00:09:38,411 --> 00:09:40,311
+¡Muévanse o los matarán!
+
+65
+00:09:56,429 --> 00:09:58,829
+¡Aquí!
+¡Una camilla!
+
+66
+00:10:04,804 --> 00:10:07,272
+¡El que tenga un rifle, que dispare!
+
+67
+00:10:07,373 --> 00:10:09,967
+¡Uno de cada dos tendrá un rifle!
+
+68
+00:10:10,076 --> 00:10:12,374
+¡El que no tenga que siga al otro!
+
+69
+00:10:13,546 --> 00:10:16,947
+¡Cuando maten al que lleva el rifle...
+
+70
+00:10:17,049 --> 00:10:20,644
+...el que lo sigue lo toma...
+
+71
+00:10:20,753 --> 00:10:21,981
+...y dispara!
+
+72
+00:10:23,422 --> 00:10:25,549
+¡El que tenga rifle, que dispare!
+
+73
+00:10:27,393 --> 00:10:30,726
+¡El que no tenga, debe seguir al otro!
+
+74
+00:10:30,830 --> 00:10:33,492
+¡Cuando maten al que lleva el rifle...
+
+75
+00:10:34,467 --> 00:10:37,402
+...el que lo sigue lo toma...
+
+76
+00:10:37,503 --> 00:10:40,165
+...y dispara!
+
+77
+00:10:42,842 --> 00:10:44,241
+¡Por aquí!
+
+78
+00:11:10,036 --> 00:11:13,233
+<i>¡Soldados del glorioso Ejército Rojo... </i>
+
+79
+00:11:13,339 --> 00:11:14,533
+<i>... de ahora en adelante... </i>
+
+80
+00:11:14,640 --> 00:11:19,009
+<i>... será victoria o muerte! </i>
+
+81
+00:11:19,111 --> 00:11:21,739
+<i>Mataremos a los que retrocedan. </i>
+
+82
+00:11:21,847 --> 00:11:23,109
+Necesito un rifle.
+
+83
+00:11:23,215 --> 00:11:26,776
+<i>¡No habrá misericordia</i>
+<i>para los cobardes y traidores! </i>
+
+84
+00:11:53,846 --> 00:11:55,108
+¡Adelante!
+
+85
+00:13:17,263 --> 00:13:19,959
+¡Es inútil, camaradas!
+¡Retrocedan!
+
+86
+00:13:21,267 --> 00:13:22,666
+¡Retrocedan!
+
+87
+00:13:24,436 --> 00:13:27,303
+¡Es inútil!
+¡Retrocedan! ¡Retrocedan!
+
+88
+00:13:28,541 --> 00:13:31,169
+¡En el nombre de la Unión Soviética...
+
+89
+00:13:31,277 --> 00:13:35,304
+...ni un paso atrás o disparamos!
+
+90
+00:13:35,414 --> 00:13:37,348
+¡No habrá retirada!
+
+91
+00:13:37,449 --> 00:13:40,282
+- ¡Ni un paso atrás!
+- ¡No habrá misericordia!
+
+92
+00:13:40,386 --> 00:13:41,819
+¡Mataremos a los desertores!
+
+93
+00:13:41,921 --> 00:13:43,081
+¡Fuego!
+
+94
+00:13:43,189 --> 00:13:45,555
+¡Muerte a los traidores!
+
+95
+00:13:45,658 --> 00:13:47,182
+- ¡Cobardes!
+- ¡Asquerosos cobardes!
+
+96
+00:13:49,094 --> 00:13:51,562
+¡No hay misericordia
+para los cobardes!
+
+97
+00:14:28,234 --> 00:14:30,794
+<i>Rusos, ríndanse. </i>
+
+98
+00:14:30,903 --> 00:14:33,303
+<i>Verán sus hogares de nuevo. </i>
+
+99
+00:14:33,405 --> 00:14:35,305
+<i>Esta no es su guerra. </i>
+
+100
+00:14:36,408 --> 00:14:38,603
+<i>Únanse a sus camaradas alemanes. </i>
+
+101
+00:14:38,711 --> 00:14:40,906
+<i>Ellos entienden su sufrimiento... </i>
+
+102
+00:14:41,013 --> 00:14:44,744
+<i>... y los atenderán mejor</i>
+<i>que sus propios oficiales... </i>
+
+103
+00:14:44,850 --> 00:14:48,115
+<i>... quienes sólo los envían a la muerte. </i>
+
+104
+00:14:48,220 --> 00:14:51,121
+<i>El III Reich no es su enemigo. </i>
+
+105
+00:14:51,223 --> 00:14:53,657
+<i>El enemigo es el sanguinario Stalin... </i>
+
+106
+00:14:53,759 --> 00:14:55,488
+<i>... y su brigada bolchevique... </i>
+
+107
+00:14:55,594 --> 00:14:59,724
+<i>... quienes han robado tus tierras</i>
+<i>y han deportado a tus padres. </i>
+
+108
+00:15:22,254 --> 00:15:23,653
+¡Fuego!
+
+109
+00:15:34,533 --> 00:15:38,594
+"¡El enemigo nunca pondrá
+un pie en Stalingrado!"
+
+110
+00:17:21,240 --> 00:17:24,971
+Vas a hacer que nos capturen,
+camarada comisario.
+
+111
+00:17:47,566 --> 00:17:50,228
+Con su permiso,
+camarada comisario.
+
+112
+00:18:22,868 --> 00:18:24,460
+¿A quién le apunto primero?
+
+113
+00:18:24,570 --> 00:18:26,868
+Debería esperar...
+
+114
+00:18:26,972 --> 00:18:28,371
+...hasta que a una explosión.
+
+115
+00:18:40,819 --> 00:18:42,218
+¿Sabes disparar?
+
+116
+00:18:43,789 --> 00:18:44,881
+Un poco.
+
+117
+00:19:08,614 --> 00:19:10,411
+Maldición.
+
+118
+00:19:36,542 --> 00:19:38,874
+No dispares.
+Nos está viendo.
+
+119
+00:20:44,142 --> 00:20:47,236
+Gracias... camarada comisario.
+
+120
+00:20:53,452 --> 00:20:54,510
+Danilov.
+
+121
+00:20:55,721 --> 00:20:58,519
+Oficial político,
+segunda clase...
+
+122
+00:20:58,624 --> 00:21:00,615
+...21a. Infantería.
+
+123
+00:21:20,279 --> 00:21:21,644
+"Vassili Zaitsev".
+
+124
+00:21:24,383 --> 00:21:26,783
+"En este día,
+20 de septiembre de 1942...
+
+125
+00:21:26,885 --> 00:21:29,547
+...un joven pastor de los Urales...
+
+126
+00:21:33,759 --> 00:21:37,251
+...llegó a la ciudad de Stalingrado,
+a las orillas del Volga.
+
+127
+00:21:37,362 --> 00:21:40,195
+Su nombre es Vassili Zaitsev.
+
+128
+00:21:42,267 --> 00:21:46,033
+Como miles antes que él,
+respondió a la llamada de Stalin.
+
+129
+00:21:47,773 --> 00:21:49,570
+Armado sólo con un rifle...
+
+130
+00:21:49,675 --> 00:21:53,236
+...le hizo entender al invasor
+fascista que desde ahora...
+
+131
+00:21:53,345 --> 00:21:56,803
+...sería castigado
+por cada paso que de en la patria...
+
+132
+00:21:56,915 --> 00:21:59,907
+...que desde ahora,
+su único camino será de regreso".
+
+133
+00:22:02,921 --> 00:22:04,149
+¿Qué opinas?
+
+134
+00:22:06,858 --> 00:22:10,055
+El camarada comisario
+es muy generoso<i>: </i>
+
+135
+00:22:15,167 --> 00:22:18,398
+22 DE SEPTIEMBRE DE 1942
+
+136
+00:22:35,454 --> 00:22:39,788
+Por orden del camarada Stalin,
+ningún civil puede dejar la ciudad.
+
+137
+00:22:42,327 --> 00:22:43,760
+¡Retrocedan!
+
+138
+00:22:43,862 --> 00:22:45,762
+- ¡Déjenme pasar!
+- ¡Retrocede!
+
+139
+00:22:45,864 --> 00:22:48,264
+¡Retrocedan o abrimos fuego!
+
+140
+00:23:00,045 --> 00:23:02,377
+- ¡Retrocedan!
+- ¡Regresen! ¡Atrás!
+
+141
+00:23:02,481 --> 00:23:04,881
+¡Déjenme pasar!
+¡Esperen!
+
+142
+00:23:04,983 --> 00:23:08,111
+- ¡Retrocedan o disparamos!
+- ¡Atrás! ¡Manténganse atrás!
+
+143
+00:23:09,121 --> 00:23:12,887
+¡Abran paso
+al enviado del camarada Stalin!
+
+144
+00:23:17,329 --> 00:23:19,820
+Cumplí con mis órdenes.
+
+145
+00:23:19,931 --> 00:23:22,900
+Envié a todos mis muchachos.
+
+146
+00:23:23,001 --> 00:23:25,094
+Pero los alemanes nos rodearon.
+
+147
+00:23:26,538 --> 00:23:28,472
+Tienen artillería...
+
+148
+00:23:28,573 --> 00:23:30,734
+...aviones, tanques.
+
+149
+00:23:30,842 --> 00:23:32,469
+¿ Y qué tenía yo?
+
+150
+00:23:32,577 --> 00:23:34,977
+El deber sagrado de resistir.
+
+151
+00:23:35,781 --> 00:23:38,511
+Tendré que informarle al jefe.
+
+152
+00:23:40,185 --> 00:23:42,779
+Quizá te interesa evitar el papeleo.
+
+153
+00:24:06,311 --> 00:24:07,869
+Mi nombre...
+
+154
+00:24:07,979 --> 00:24:09,674
+...es Nikita...
+
+155
+00:24:09,781 --> 00:24:11,681
+...Sergeievich...
+
+156
+00:24:11,783 --> 00:24:13,182
+...Kruschev.
+
+157
+00:24:14,453 --> 00:24:17,217
+Vine a hacerme cargo
+de las cosas de aquí.
+
+158
+00:24:17,322 --> 00:24:18,550
+Esta ciudad...
+
+159
+00:24:19,658 --> 00:24:21,216
+...no es Kursk.
+
+160
+00:24:21,326 --> 00:24:22,953
+No es Kiev.
+
+161
+00:24:23,061 --> 00:24:25,120
+No es Minsk.
+
+162
+00:24:25,230 --> 00:24:27,095
+Esta ciudad...
+
+163
+00:24:27,199 --> 00:24:28,826
+...es Stalingrado.
+
+164
+00:24:32,804 --> 00:24:35,898
+La ciudad lleva
+el nombre de nuestro jefe.
+
+165
+00:24:36,007 --> 00:24:38,532
+Es más que una ciudad.
+Es un símbolo.
+
+166
+00:24:39,244 --> 00:24:40,643
+Si los alemanes...
+
+167
+00:24:41,880 --> 00:24:44,178
+...capturan la ciudad...
+
+168
+00:24:44,282 --> 00:24:47,183
+...el país entero se vendrá abajo.
+
+169
+00:24:48,587 --> 00:24:50,646
+Ahora bien...
+
+170
+00:24:50,755 --> 00:24:52,780
+...quiero que nuestros muchachos...
+
+171
+00:24:52,891 --> 00:24:54,791
+...levanten la cabeza.
+
+172
+00:24:55,961 --> 00:24:59,397
+¡Quiero que actúen
+como si tuvieran bolas!
+
+173
+00:24:59,498 --> 00:25:03,400
+¡Quiero que dejen de tener miedo!
+
+174
+00:25:06,905 --> 00:25:08,805
+Ese es su trabajo.
+
+175
+00:25:10,141 --> 00:25:12,041
+Como oficiales políticos...
+
+176
+00:25:13,912 --> 00:25:15,812
+...cuento con ustedes.
+
+177
+00:25:18,083 --> 00:25:19,482
+Tú.
+
+178
+00:25:20,652 --> 00:25:22,176
+¿Qué sugieres?
+
+179
+00:25:23,154 --> 00:25:26,453
+Matar a todos los generales
+que retrocedieron...
+
+180
+00:25:26,558 --> 00:25:27,957
+...y a sus jefes de tropas.
+
+181
+00:25:29,060 --> 00:25:30,960
+Hacer un castigo ejemplar.
+
+182
+00:25:31,062 --> 00:25:32,962
+Deportar a las familias
+de los desertores.
+
+183
+00:25:33,064 --> 00:25:34,964
+No, eso ya se ha hecho.
+
+184
+00:25:35,066 --> 00:25:36,465
+Darles esperanza.
+
+185
+00:25:49,481 --> 00:25:52,473
+Aquí las únicas opciones son
+las balas alemanas o las nuestras.
+
+186
+00:25:53,585 --> 00:25:55,212
+Pero hay otra manera.
+
+187
+00:25:55,320 --> 00:25:56,719
+La del corage...
+
+188
+00:25:56,821 --> 00:25:59,255
+...la del amor a la patria.
+
+189
+00:25:59,357 --> 00:26:02,417
+Debemos publicar el periódico
+del ejército, con historias...
+
+190
+00:26:02,527 --> 00:26:05,360
+...que exalten el sacrificio, la valentía.
+
+191
+00:26:05,463 --> 00:26:07,829
+Debemos hacerlos
+creer en la victoria.
+
+192
+00:26:07,933 --> 00:26:11,926
+Debemos darles esperanza,
+orgullo, deseos de pelear.
+
+193
+00:26:12,971 --> 00:26:14,495
+Sí...
+
+194
+00:26:14,606 --> 00:26:16,335
+...necesitamos poner ejemplos...
+
+195
+00:26:16,441 --> 00:26:17,999
+...pero ejemplos a seguir.
+
+196
+00:26:19,210 --> 00:26:23,237
+Necesitamos... héroes.
+
+197
+00:26:27,252 --> 00:26:29,652
+¿ Conoces algún héroe por aquí?
+
+198
+00:26:30,488 --> 00:26:31,887
+Sí, camarada.
+
+199
+00:26:32,991 --> 00:26:35,186
+Conozco a uno.
+
+200
+00:26:39,965 --> 00:26:41,364
+Soy yo.
+
+201
+00:26:46,237 --> 00:26:49,263
+¡No, no estás soñando!
+¡Es tu nombre!
+
+202
+00:26:49,374 --> 00:26:51,274
+Estamos en primera plana.
+
+203
+00:26:52,477 --> 00:26:54,377
+No cambiaron ni una palabra.
+
+204
+00:26:55,580 --> 00:26:58,777
+¿Tienes idea de lo que esto significa?
+
+205
+00:26:58,883 --> 00:27:01,443
+No es la última página.
+Tampoco la segunda.
+
+206
+00:27:01,553 --> 00:27:03,885
+- Es la primera página.
+- Primera plana.
+
+207
+00:27:03,989 --> 00:27:08,085
+Imprimirán nuestro artículo
+en todas partes: el Cáucaso, Crimea...
+
+208
+00:27:08,193 --> 00:27:10,286
+...incluso en los Urales.
+
+209
+00:27:10,395 --> 00:27:13,922
+Mañana temprano,
+el mismo Stalin se desayunará...
+
+210
+00:27:14,032 --> 00:27:17,331
+...leyendo mis palabras,
+aprendiéndose tu nombre.
+
+211
+00:27:17,435 --> 00:27:18,663
+Somos famosos, Vassili.
+
+212
+00:27:18,770 --> 00:27:20,362
+Kruschev adora el artículo.
+
+213
+00:27:20,472 --> 00:27:23,566
+Me promovió al estado mayor... y a ti...
+
+214
+00:27:23,675 --> 00:27:26,337
+...a la división de francotiradores.
+
+215
+00:27:28,580 --> 00:27:31,276
+- Eso es bueno.
+- Es muy bueno.
+
+216
+00:27:31,383 --> 00:27:33,510
+- Es fantástico.
+- ¡Es fantástico!
+
+217
+00:27:33,618 --> 00:27:37,384
+Para ambos,
+porque lo hicimos juntos. ¡Juntos!
+
+218
+00:27:37,489 --> 00:27:39,389
+- Bueno, hice el trabajo duro.
+- ¿Ah, sí?
+
+219
+00:27:39,491 --> 00:27:41,721
+- Tienes suerte, no puedo defenderme.
+- ¿Por qué?
+
+220
+00:27:41,826 --> 00:27:44,852
+Kruschev dijo te cuidara.
+Eres muy importante.
+
+221
+00:27:44,963 --> 00:27:48,023
+- ¿Soy demasiado valioso?
+- Sí ¡Cuidado con mis lentes!
+
+222
+00:27:48,133 --> 00:27:50,033
+- Por favor. Son nuevos.
+- Disculpe, señor.
+
+223
+00:27:52,837 --> 00:27:54,270
+- Soy famoso.
+- ¡Yo soy famoso!
+
+224
+00:27:54,372 --> 00:27:55,669
+- ¡Somos famosos!
+- ¡Soy famoso!
+
+225
+00:27:55,774 --> 00:27:59,437
+<i>Vassili, el pastor de los Urales, </i>
+<i>mató hoy al 12vo. Oficial alemán. </i>
+
+226
+00:27:59,544 --> 00:28:02,206
+<i>Solía cazar lobos, ; </i>
+<i>ahora mata fascistas. </i>
+
+227
+00:28:02,313 --> 00:28:04,577
+<i>Hoy, Vassili mató</i>
+<i>a su 23o. Oficial alemán. </i>
+
+228
+00:28:04,683 --> 00:28:06,583
+<i>ÉI es un ejemplo</i>
+<i>para todos nosotros. </i>
+
+229
+00:28:06,685 --> 00:28:09,279
+<i>Zaitsev mató a su 32o. Oficial alemán. </i>
+
+230
+00:28:11,256 --> 00:28:14,020
+<i>Zaitsev mató a su 46o. Oficial alemán. </i>
+
+231
+00:28:14,125 --> 00:28:18,562
+<i>No sólo ha matado alemanes. </i>
+<i>Hoy, Vassili Zaitsev mató... </i>
+
+232
+00:28:18,663 --> 00:28:21,564
+<i>Once placas</i>
+<i>recogidas por Zaitsev en 3 días. </i>
+
+233
+00:28:21,666 --> 00:28:24,567
+<i>Zaitsev no sólo es</i>
+<i>un apellido conocido y venerado... </i>
+
+234
+00:28:24,669 --> 00:28:27,137
+<i>... sino que es temido por los alemanes. </i>
+
+235
+00:28:27,238 --> 00:28:30,401
+<i>Cada vez más soldados</i>
+<i>en nuestras fuerzas armadas... </i>
+
+236
+00:28:30,508 --> 00:28:32,533
+<i>... se ofrecen como francotiradores... </i>
+
+237
+00:28:32,644 --> 00:28:35,545
+<i>... para aprender</i>
+<i>la técnica de Vassili Zaitsev. </i>
+
+238
+00:28:39,451 --> 00:28:41,351
+<i>Soy una piedra. </i>
+
+239
+00:28:44,689 --> 00:28:46,589
+<i>Soy una piedra. </i>
+
+240
+00:28:48,560 --> 00:28:50,460
+<i>Respiro despacio. </i>
+
+241
+00:28:58,403 --> 00:29:00,394
+<i>Apunto al ojo. </i>
+
+242
+00:29:30,201 --> 00:29:31,691
+Eres tú.
+
+243
+00:29:32,804 --> 00:29:35,034
+El gran Vassili Zaitsev.
+
+244
+00:29:36,541 --> 00:29:39,032
+Mi madre prepara
+las mejores papas con tocino.
+
+245
+00:29:39,144 --> 00:29:40,202
+Suena bien.
+
+246
+00:29:40,311 --> 00:29:43,439
+Cuando te vea, no lo creerá.
+
+247
+00:29:44,682 --> 00:29:46,445
+¿ Cuántos mataste hoy?
+
+248
+00:29:46,551 --> 00:29:47,950
+Sólo dos.
+
+249
+00:29:49,120 --> 00:29:51,486
+¿Por qué no mataste al último?
+
+250
+00:29:51,589 --> 00:29:55,491
+Era un soldado raso.
+No valía la pena delatar mi posición.
+
+251
+00:29:57,362 --> 00:29:58,761
+Bendito seas.
+
+252
+00:30:00,965 --> 00:30:03,365
+Te debemos mucho.
+
+253
+00:30:03,468 --> 00:30:05,527
+Rezamos por ti todos los días.
+
+254
+00:30:06,704 --> 00:30:10,105
+Todas las noches oímos
+sobre tí en Radio Moscú.
+
+255
+00:30:12,177 --> 00:30:13,474
+Gracias.
+
+256
+00:30:13,578 --> 00:30:15,170
+Se las arreglan bien aquí.
+
+257
+00:30:15,280 --> 00:30:18,681
+Mis padres almacenaban
+muebles aquí, antes de la guerra.
+
+258
+00:30:19,918 --> 00:30:22,978
+Sacha,
+deja eso ahora mismo.
+
+259
+00:30:23,087 --> 00:30:24,486
+Está cargado.
+
+260
+00:30:34,098 --> 00:30:36,032
+Por aquí, camarada comisario.
+
+261
+00:30:36,134 --> 00:30:37,533
+Gracias, camarada.
+
+262
+00:30:39,671 --> 00:30:41,070
+Buenas noches.
+
+263
+00:30:52,217 --> 00:30:55,880
+Dios mío, ¿de dónde viene
+toda esta correspondencia?
+
+264
+00:30:55,987 --> 00:30:59,286
+De todo el país,
+Sra. Filipov, de todas partes.
+
+265
+00:31:00,658 --> 00:31:02,683
+Es de los trabajadores
+de las Kouzbass.
+
+266
+00:31:02,794 --> 00:31:05,695
+Quieren ponerle Vassili a su mina.
+
+267
+00:31:05,797 --> 00:31:07,697
+Bien, empecemos con los mineros.
+
+268
+00:31:09,234 --> 00:31:11,759
+Vamos, a trabajar.
+
+269
+00:31:16,808 --> 00:31:18,708
+Queridos camaradas
+de las Kouzbass...
+
+270
+00:31:19,811 --> 00:31:22,780
+...gracias por su carta
+de agradecimiento.
+
+271
+00:31:23,481 --> 00:31:25,540
+A-G-R-A-D-E-C-I-M-I-E-N-T-O.
+
+272
+00:31:32,023 --> 00:31:35,720
+Espero poder cumplir
+con sus expectativas.
+
+273
+00:31:35,827 --> 00:31:38,557
+T-A-T-I-V-A-S.
+
+274
+00:31:38,663 --> 00:31:40,563
+Expectativas.
+
+275
+00:31:42,333 --> 00:31:44,233
+¿Le interesa la literatura alemana?
+
+276
+00:31:47,739 --> 00:31:50,230
+Descuiden.
+Es nuestra vecina.
+
+277
+00:31:51,342 --> 00:31:53,970
+- ¿Dónde estábamos?
+- Tania, tenemos visitas.
+
+278
+00:32:07,692 --> 00:32:08,920
+Yo lo conozco.
+
+279
+00:32:11,763 --> 00:32:13,663
+Es Vassili Zaitsev.
+
+280
+00:32:16,868 --> 00:32:18,768
+Vi su fotografía en el periódico.
+
+281
+00:32:20,171 --> 00:32:22,662
+Gracias por todo lo que hace.
+
+282
+00:32:22,774 --> 00:32:24,674
+Y este es su amigo,
+el comisario...
+
+283
+00:32:25,476 --> 00:32:26,602
+...Danilov.
+
+284
+00:32:28,913 --> 00:32:30,881
+Tania es como mi hija.
+
+285
+00:32:30,982 --> 00:32:34,383
+Cuidaba a Sacha cuando
+yo trabajaba en la fábrica.
+
+286
+00:32:34,485 --> 00:32:36,612
+Le enseñó alemán.
+Esos libros son suyos.
+
+287
+00:32:36,721 --> 00:32:38,211
+Son suyos.
+
+288
+00:32:38,323 --> 00:32:40,314
+Estudió alemán en la universidad.
+
+289
+00:32:40,425 --> 00:32:42,689
+- ¿En cuál universidad?
+- La de Moscú.
+
+290
+00:32:53,304 --> 00:32:54,532
+¿No deberíamos...
+
+291
+00:32:56,407 --> 00:32:57,874
+Sí, continuemos.
+
+292
+00:32:58,977 --> 00:33:01,377
+Su propuesta...
+
+293
+00:33:01,479 --> 00:33:04,141
+...de ponerle mi nombre
+a su mina es...
+
+294
+00:33:05,883 --> 00:33:07,282
+...un gran honor.
+
+295
+00:33:08,853 --> 00:33:11,720
+H-O-N...
+
+296
+00:33:13,091 --> 00:33:14,649
+Sí, ya sé. Honor.
+
+297
+00:33:14,759 --> 00:33:16,158
+Muy bien.
+
+298
+00:33:19,731 --> 00:33:23,189
+¿Aclaramos
+que no soy el único que pelea?
+
+299
+00:33:24,569 --> 00:33:27,265
+Es una idea excelente,
+Vassili, excelente.
+
+300
+00:33:27,372 --> 00:33:30,398
+Podemos ir incluso más lejos.
+
+301
+00:33:31,309 --> 00:33:35,370
+Su batalla por la
+producción de carbón...
+
+302
+00:33:35,480 --> 00:33:39,211
+...es tan valiosa como la mía.
+
+303
+00:33:40,785 --> 00:33:43,117
+Carbón no es con K.
+
+304
+00:33:44,956 --> 00:33:46,184
+Con una sola R.
+
+305
+00:33:48,693 --> 00:33:51,628
+Dime si voy demasiado rápido.
+
+306
+00:33:51,729 --> 00:33:54,459
+No vas demasiado rápido.
+Sólo pensé que...
+
+307
+00:33:54,565 --> 00:33:56,624
+¿Alguna otra cosa?
+
+308
+00:33:56,734 --> 00:33:58,463
+¿Por qué no descansan?
+
+309
+00:33:58,569 --> 00:34:01,197
+Esas cartas pueden
+esperar hasta mañana.
+
+310
+00:34:01,305 --> 00:34:03,705
+Debemos seguir.
+No estamos cansados.
+
+311
+00:34:03,808 --> 00:34:05,139
+Gracias.
+
+312
+00:34:05,243 --> 00:34:07,143
+Esta gente...
+
+313
+00:34:07,245 --> 00:34:09,907
+...se tomó el trabajo de escribirnos.
+
+314
+00:34:10,014 --> 00:34:12,915
+Quizás mañana
+no estemos aquí para responderles.
+
+315
+00:35:17,648 --> 00:35:21,049
+CUARTEL GENERAL ALEMÁN
+21 DE OCTUBRE DE 1942
+
+316
+00:35:47,979 --> 00:35:49,913
+Esperaba a otra...
+
+317
+00:35:51,983 --> 00:35:53,177
+<i>: : : </i>persona<i>: </i>
+
+318
+00:35:53,284 --> 00:35:55,844
+No a alguien tan prestigioso.
+
+319
+00:35:55,953 --> 00:35:57,853
+Imagino que tendrá sus razones...
+
+320
+00:35:57,955 --> 00:36:01,356
+...para involucrarse
+en esta situación infernal.
+
+321
+00:36:04,996 --> 00:36:08,864
+Mi ejército no está diseñado
+para este tipo de lucha.
+
+322
+00:36:08,966 --> 00:36:11,161
+Ayer, nuevamente...
+
+323
+00:36:11,269 --> 00:36:15,399
+...tuve que ascender a 25 sargentos
+para reemplazar a los oficiales caídos.
+
+324
+00:36:17,608 --> 00:36:20,372
+Esos francotiradores están
+desmoralizando a mi gente.
+
+325
+00:36:21,479 --> 00:36:23,242
+Esta ciudad...
+
+326
+00:36:24,415 --> 00:36:27,873
+...no es más que un montón de ruinas.
+
+327
+00:36:29,820 --> 00:36:31,981
+Pero el Führer es persistente.
+
+328
+00:36:33,157 --> 00:36:36,388
+Lo ha convertido
+en un asunto personal con Stalin.
+
+329
+00:36:42,633 --> 00:36:45,124
+Debemos confiar el
+instinto del Führer.
+
+330
+00:36:46,337 --> 00:36:48,931
+Siempre nos ha llevado a la victoria.
+
+331
+00:36:51,842 --> 00:36:54,242
+Volveremos a casa en Navidad.
+
+332
+00:36:58,482 --> 00:37:02,316
+¿ Cómo encontrará a este joven ruso?
+
+333
+00:37:03,955 --> 00:37:07,015
+Haré que me encuentre.
+
+334
+00:37:09,860 --> 00:37:12,420
+¡Vassili!
+¡Vassili!
+
+335
+00:37:12,597 --> 00:37:14,360
+Vamos.
+Es hora de levantarse.
+
+336
+00:37:14,465 --> 00:37:15,557
+¿Qué?
+
+337
+00:37:15,666 --> 00:37:19,432
+Tienen problemas en el sector del
+almacén. Nos necesitan. Vamos.
+
+338
+00:37:29,080 --> 00:37:32,607
+Mira, Vassili,
+está escondido en el almacén.
+
+339
+00:37:38,422 --> 00:37:39,650
+Desde esta mañana...
+
+340
+00:37:39,757 --> 00:37:41,657
+...ha matado a cinco oficiales...
+
+341
+00:37:41,759 --> 00:37:43,659
+...y a dos con ametralladores.
+
+342
+00:37:46,430 --> 00:37:48,455
+Mira.
+El tercer piso.
+
+343
+00:37:49,567 --> 00:37:51,125
+La cuarta de izquierda a derecha.
+
+344
+00:37:51,235 --> 00:37:53,260
+La cuarta ventana
+desde la izquierda...
+
+345
+00:37:53,371 --> 00:37:54,929
+...a la izquierda.
+
+346
+00:37:58,276 --> 00:37:59,641
+¿Lo ves?
+
+347
+00:38:00,778 --> 00:38:02,336
+Sí, lo veo.
+
+348
+00:38:14,959 --> 00:38:17,120
+Le diste.
+
+349
+00:38:17,228 --> 00:38:18,627
+Buen tiro.
+
+350
+00:38:22,166 --> 00:38:24,066
+Vamos por su placa de identificación.
+
+351
+00:38:28,906 --> 00:38:30,430
+Adiós, comisario.
+
+352
+00:38:30,541 --> 00:38:33,533
+Gracias por su hospitalidad,
+Sra. Filipov.
+
+353
+00:38:42,820 --> 00:38:44,082
+Llévate los que te gusten.
+
+354
+00:38:44,188 --> 00:38:47,783
+No sé lo que me dirían
+en el cuartel...
+
+355
+00:38:47,892 --> 00:38:51,089
+...si regresara con libros
+de Goethe y Schiller.
+
+356
+00:38:51,195 --> 00:38:52,992
+También hay unos de Marx.
+
+357
+00:38:54,598 --> 00:38:56,930
+¿Te asignaron a la defensa civil?
+
+358
+00:38:57,034 --> 00:38:59,059
+No, soy voluntaria.
+
+359
+00:38:59,837 --> 00:39:02,203
+Es una coincidencia
+haberte conocido así.
+
+360
+00:39:02,306 --> 00:39:05,207
+Kruschev me dijo ayer que
+necesitamos desesperadamente...
+
+361
+00:39:05,309 --> 00:39:06,901
+...operadores que hablen alemán.
+
+362
+00:39:07,011 --> 00:39:08,478
+No puedo.
+
+363
+00:39:08,579 --> 00:39:11,139
+Nuestra milicia
+es responsable de este vecindario.
+
+364
+00:39:11,248 --> 00:39:12,840
+Tenemos muy pocos hombres.
+
+365
+00:39:12,950 --> 00:39:15,919
+Les daremos 12 soldados
+por cada uno que hable alemán.
+
+366
+00:39:16,020 --> 00:39:17,920
+Prefiero quedarme y pelear.
+
+367
+00:39:18,022 --> 00:39:21,116
+Servir en el cuartel es pelear.
+Serás más útil allá.
+
+368
+00:39:23,561 --> 00:39:25,620
+Quédate aquí. Cúbrenos.
+
+369
+00:39:25,730 --> 00:39:27,891
+- Bien.
+- Nos vamos.
+
+370
+00:39:30,101 --> 00:39:31,500
+Cuídate.
+
+371
+00:39:36,440 --> 00:39:38,135
+Ludmilla, vamos.
+
+372
+00:40:30,094 --> 00:40:31,618
+Revisa las escaleras.
+
+373
+00:42:21,805 --> 00:42:23,033
+Es una trampa.
+
+374
+00:42:23,140 --> 00:42:24,437
+Lo sé.
+
+375
+00:42:50,534 --> 00:42:51,762
+Retrocede.
+
+376
+00:43:40,951 --> 00:43:42,009
+Todavía está aquí.
+
+377
+00:44:06,844 --> 00:44:09,404
+¡Vienen hacia nosotros!
+
+378
+00:44:09,513 --> 00:44:11,538
+Quédate donde estás.
+
+379
+00:44:11,649 --> 00:44:13,241
+Está por allá.
+
+380
+00:44:24,995 --> 00:44:26,553
+¡Tenemos que salir de aquí!
+
+381
+00:44:29,299 --> 00:44:30,926
+¡Tenemos que salir!
+
+382
+00:44:31,035 --> 00:44:33,060
+¡Quédate donde estás!
+
+383
+00:44:36,674 --> 00:44:38,608
+¿Qué vamos a hacer?
+
+384
+00:44:38,709 --> 00:44:41,075
+¡Quédate donde estás!
+
+385
+00:44:52,056 --> 00:44:53,853
+¡AI carajo!
+¡Me voy!
+
+386
+00:45:51,815 --> 00:45:53,840
+¿Qué significa esto?
+
+387
+00:45:55,452 --> 00:45:58,353
+"El pastor de los Urales
+recibe un rifle nuevo.
+
+388
+00:45:58,455 --> 00:46:00,320
+Un Mosin-Nagant 7.62...
+
+389
+00:46:00,424 --> 00:46:03,188
+...con su mira telescópica P.U. 3.5...
+
+390
+00:46:03,293 --> 00:46:05,693
+...el orgullo de
+la producción soviética".
+
+391
+00:46:06,964 --> 00:46:09,694
+- He visto ese rifle de cerca.
+- ¿De veras?
+
+392
+00:46:09,800 --> 00:46:11,700
+Incluso lo he tocado.
+
+393
+00:46:11,802 --> 00:46:14,498
+Conozco muy bien a Vassili Zaitsev.
+
+394
+00:47:00,050 --> 00:47:02,712
+CUARTEL GENERAL SOVlÉTICO
+ÁREA DE DESEMBARQUE
+
+395
+00:47:03,954 --> 00:47:06,388
+Hoy mataron a Ludmilla y a Anton...
+
+396
+00:47:07,524 --> 00:47:09,014
+...por mi culpa.
+
+397
+00:47:09,126 --> 00:47:11,026
+No, estoy seguro que no es verdad.
+
+398
+00:47:11,128 --> 00:47:13,926
+Había un francotirador alemán.
+
+399
+00:47:14,031 --> 00:47:16,522
+Los llevé directamente a su trampa.
+
+400
+00:47:17,434 --> 00:47:19,994
+- ¿Qué más?
+- No cambió de lugar.
+
+401
+00:47:20,103 --> 00:47:22,537
+Un francotirador que
+no cambia de lugar...
+
+402
+00:47:23,640 --> 00:47:24,698
+...no es normal.
+
+403
+00:47:24,808 --> 00:47:26,400
+¡Vassili, por aquí!
+
+404
+00:47:26,510 --> 00:47:28,171
+Era muy bueno.
+
+405
+00:47:28,278 --> 00:47:31,736
+No era sólo su puntería,
+sino su instinto.
+
+406
+00:47:32,883 --> 00:47:35,181
+Me llevó la delantera todo el tiempo.
+
+407
+00:47:35,953 --> 00:47:39,354
+Eso es porque sabe todo sobre ti.
+
+408
+00:47:39,456 --> 00:47:42,357
+Se apellida Konig. El mayor Konig.
+
+409
+00:47:43,193 --> 00:47:45,991
+Lo enviaron aquí para matar...
+
+410
+00:47:47,764 --> 00:47:49,163
+...para encontrarte.
+
+411
+00:47:56,707 --> 00:47:59,335
+No sabíamos
+si la información era cierta.
+
+412
+00:47:59,443 --> 00:48:02,537
+Parece que vino desde Berlín
+para detenerte.
+
+413
+00:48:02,646 --> 00:48:05,080
+Les preocupas.
+Enviaron a su mejor francotirador.
+
+414
+00:48:05,182 --> 00:48:07,275
+¿Qué sabemos de él?
+
+415
+00:48:07,384 --> 00:48:09,511
+Es un mayor en las fuerzas armadas.
+
+416
+00:48:11,154 --> 00:48:14,214
+Es el director de la escuela
+de francotiradores en Zossen.
+
+417
+00:48:14,324 --> 00:48:17,782
+Koulikov estudió con él en Zossen,
+antes de la guerra.
+
+418
+00:48:17,895 --> 00:48:21,228
+Conoce todos sus trucos.
+Desde ahora estará siempre contigo.
+
+419
+00:48:23,333 --> 00:48:25,733
+Un noble de Baviera
+cazador de ciervos...
+
+420
+00:48:26,503 --> 00:48:29,529
+...contra un pastor
+de los Urales que mata lobos.
+
+421
+00:48:29,640 --> 00:48:32,006
+Es más
+que una confrontación entre naciones.
+
+422
+00:48:36,313 --> 00:48:38,645
+Es la esencia de la lucha de clases.
+
+423
+00:48:39,616 --> 00:48:41,516
+Me alegra que estés tan contento.
+
+424
+00:48:43,453 --> 00:48:46,786
+Hoy tuvo la ventaja.
+La próxima vez, estarán parejos.
+
+425
+00:48:46,890 --> 00:48:49,358
+Nadie dispara como tú, Vassili.
+
+426
+00:48:58,201 --> 00:49:00,192
+La transfirieron.
+
+427
+00:49:02,539 --> 00:49:04,939
+Veré si ya están listos.
+
+428
+00:49:09,446 --> 00:49:10,504
+Hola.
+
+429
+00:49:10,614 --> 00:49:12,946
+Te ves muy bien
+en tu uniforme nuevo.
+
+430
+00:49:14,384 --> 00:49:17,785
+Que no te lo quiten cuando termines.
+
+431
+00:49:17,888 --> 00:49:19,287
+Probablemente lo harán.
+
+432
+00:49:23,527 --> 00:49:27,987
+Oí el rumor sobre el alemán
+y quise desearte suerte.
+
+433
+00:49:28,865 --> 00:49:30,628
+Gracias.
+La necesitaré.
+
+434
+00:49:30,734 --> 00:49:33,862
+Por lo que el camarada
+Danilov me ha dicho...
+
+435
+00:49:33,971 --> 00:49:35,370
+<i>: : : </i>vas a ganar<i>: </i>
+
+436
+00:49:41,144 --> 00:49:42,372
+Es hora.
+
+437
+00:49:46,183 --> 00:49:48,014
+Abrásame.
+
+438
+00:49:49,419 --> 00:49:52,684
+- Mira hacia acá.
+- ¡Mira hacia acá!
+
+439
+00:49:54,024 --> 00:49:56,925
+- Ponte tu gorra. Te ves más heróico.
+- ¡Por aquí, Zaitsev!
+
+440
+00:49:57,027 --> 00:49:59,052
+Adoro a este muchacho.
+
+441
+00:49:59,162 --> 00:50:02,097
+¿Te ofreciste
+como voluntario para ir al frente?
+
+442
+00:50:02,199 --> 00:50:05,259
+- ¿Qué edad tienes?
+- ¿Sabes qué significa esta lucha?
+
+443
+00:50:05,369 --> 00:50:08,065
+¿Mataste a tu primer lobo
+a los cinco años?
+
+444
+00:50:08,171 --> 00:50:11,766
+- ¿ Cuántos fascistas mataste hoy?
+- ¿Te enorgullece el reto de Konig?
+
+445
+00:50:11,875 --> 00:50:14,070
+¡Se ve que los alemanes
+están muy asustados!
+
+446
+00:50:14,177 --> 00:50:17,340
+Vamos, muchacho,
+dinos cómo vas a lidiar con él.
+
+447
+00:50:17,447 --> 00:50:18,937
+- Mejor no.
+- Una pregunta más.
+
+448
+00:50:19,049 --> 00:50:20,880
+Díselo al jefe.
+
+449
+00:50:21,818 --> 00:50:24,116
+Le gustan las historias de cacería.
+
+450
+00:50:29,693 --> 00:50:31,593
+Míralo con orgullo...
+
+451
+00:50:32,963 --> 00:50:35,523
+...porque él te está mirando.
+
+452
+00:50:35,632 --> 00:50:38,533
+Todo el país está mirandote.
+
+453
+00:51:01,024 --> 00:51:04,983
+Perdóname,
+perdóname, abuelo.
+
+454
+00:51:23,780 --> 00:51:26,749
+23 DE OCTUBRE DE 1942
+
+455
+00:51:37,360 --> 00:51:40,989
+Así que no es el lobo
+el que elige el terreno de caza...
+
+456
+00:51:41,098 --> 00:51:42,497
+...sino el cazador.
+
+457
+00:51:46,336 --> 00:51:49,533
+Estoy seguro
+que tu abuelo te enseñó eso.
+
+458
+00:51:53,443 --> 00:51:56,071
+Excepto que, en este caso...
+
+459
+00:51:56,179 --> 00:51:57,942
+...soy la presa.
+
+460
+00:52:02,152 --> 00:52:03,380
+En este caso...
+
+461
+00:52:03,487 --> 00:52:07,651
+...lo que vamos a hacer
+es que el lobo salga de su guarida...
+
+462
+00:52:07,757 --> 00:52:09,816
+<i>: : : </i>y para que vaya
+a donde queramos.
+
+463
+00:52:49,666 --> 00:52:52,760
+Tu vida es la valiosa,
+ve primero.
+
+464
+00:52:52,869 --> 00:52:54,996
+No, no.
+Nos turnaremos.
+
+465
+00:52:55,105 --> 00:52:58,871
+La próxima vez, irás tú primero.
+Después tú, Volodya.
+
+466
+00:53:15,358 --> 00:53:17,258
+¡Hijo de perra!
+
+467
+00:53:22,065 --> 00:53:26,729
+¡Son unos pantalones nuevos!
+Ayer se los quité a un capitán.
+
+468
+00:53:31,308 --> 00:53:35,108
+Pasé 16 meses en la escuela
+de Zossen en Alemania.
+
+469
+00:53:35,212 --> 00:53:39,080
+Claro, en esos días
+éramos amigos de los alemanes...
+
+470
+00:53:39,182 --> 00:53:42,583
+...cuando nuestro José Stalin
+y su Adolfo Hitler...
+
+471
+00:53:42,686 --> 00:53:45,712
+...caminaban de la mano.
+
+472
+00:53:47,490 --> 00:53:50,391
+Desde aquí hasta el cable hay
+160 metros, ¿ verdad?
+
+473
+00:53:56,066 --> 00:53:58,057
+Ciento cincuenta y cinco.
+
+474
+00:53:58,168 --> 00:53:59,396
+Lo que sea.
+
+475
+00:53:59,502 --> 00:54:01,834
+Tendrán que repararlo.
+
+476
+00:54:02,939 --> 00:54:04,338
+Cambiemos de lugar.
+
+477
+00:54:37,607 --> 00:54:40,542
+Después
+que los alemanes nos invadieron...
+
+478
+00:54:40,644 --> 00:54:43,044
+...ya no había el mismo ambiente.
+
+479
+00:54:44,514 --> 00:54:46,414
+Me enviaron a la cárcel.
+
+480
+00:54:47,617 --> 00:54:50,177
+"¿Qué hacías en Alemania?"
+
+481
+00:54:50,287 --> 00:54:54,951
+Decía: "Disculpe,
+el camarada Stalin me envió allí".
+
+482
+00:54:55,058 --> 00:54:59,722
+"No metas
+a nuestro glorioso líder en tu traición.
+
+483
+00:54:59,829 --> 00:55:03,230
+Confiesa, maldito espía, confiesa".
+
+484
+00:55:03,333 --> 00:55:04,732
+¡Y pum!
+
+485
+00:55:10,674 --> 00:55:13,074
+No era una hoz,
+pero era un martillo.
+
+486
+00:55:14,177 --> 00:55:16,077
+¡Y pum!
+
+487
+00:55:16,179 --> 00:55:18,579
+Me quitaron todos los dientes.
+
+488
+00:55:21,184 --> 00:55:24,483
+Así es, muchachos.
+No se hagan ilusiones.
+
+489
+00:55:24,587 --> 00:55:27,886
+Así es la tierra del socialismo
+y la felicidad universal.
+
+490
+00:55:31,261 --> 00:55:34,321
+Vienen a repararlo.
+
+491
+00:55:36,633 --> 00:55:38,032
+Lo tengo.
+
+492
+00:55:52,315 --> 00:55:54,215
+Es la hora de la sopa, ¿no?
+
+493
+00:55:55,518 --> 00:55:56,917
+Ya voy.
+
+494
+00:55:57,020 --> 00:55:59,011
+Muévete, Volodya.
+
+495
+00:56:00,123 --> 00:56:04,287
+¡Y trata de no derramarla
+en el camino, maldito marxista!
+
+496
+00:56:18,475 --> 00:56:21,740
+Este es el informe sobre los
+francotiradores en las últimas 24 horas.
+
+497
+00:56:25,482 --> 00:56:28,110
+Dos centinelas muertos
+en el sector de los trenes...
+
+498
+00:56:28,284 --> 00:56:30,946
+...un observador de artillería
+en el sector norte...
+
+499
+00:56:31,054 --> 00:56:34,421
+...un teniente de tanques
+en el sector industrial...
+
+500
+00:56:35,291 --> 00:56:38,124
+...tres reparadores de teléfonos
+en el sector urbano.
+
+501
+00:56:38,228 --> 00:56:40,992
+También dicen
+que tienen a un prisionero...
+
+502
+00:56:41,097 --> 00:56:43,031
+...que podría interesarle.
+
+503
+00:56:43,133 --> 00:56:46,102
+- Espero que todavía pueda hablar.
+- ¿ Cómo?
+
+504
+00:56:47,237 --> 00:56:49,671
+Nada.
+Gracias.
+
+505
+00:56:51,975 --> 00:56:53,943
+Dinos, Volodya...
+
+506
+00:56:55,044 --> 00:56:56,944
+...¿en qué edificio está?
+
+507
+00:56:59,983 --> 00:57:01,644
+No lo sé.
+
+508
+00:57:04,087 --> 00:57:06,351
+Se mueve constantemente.
+
+509
+00:57:06,456 --> 00:57:10,153
+- Salta de uno a otro.
+- ¿En qué piso?
+
+510
+00:57:11,361 --> 00:57:13,090
+No lo sé.
+
+511
+00:57:13,196 --> 00:57:15,096
+Ya lo veremos.
+
+512
+00:57:16,399 --> 00:57:17,593
+Desvístanlo.
+
+513
+00:57:19,035 --> 00:57:21,367
+Vístanlo con uno
+de nuestros uniformes.
+
+514
+00:57:49,833 --> 00:57:52,131
+¿Lo ves?
+Son muy tercos.
+
+515
+00:57:53,403 --> 00:57:55,303
+Es lo bueno de los alemanes.
+
+516
+00:57:56,406 --> 00:57:59,705
+Cuando se les mete
+algo en la cabeza...
+
+517
+00:58:15,859 --> 00:58:17,918
+Bien.
+
+518
+00:58:18,027 --> 00:58:20,359
+Veamos si llegó nuestro cliente.
+
+519
+00:58:20,463 --> 00:58:21,862
+¿Estás listo?
+
+520
+00:58:24,968 --> 00:58:26,765
+Y ahora...
+
+521
+00:58:26,870 --> 00:58:29,168
+...nuestro famoso pastor
+de los Urales...
+
+522
+00:58:29,272 --> 00:58:31,433
+...que aunque el mayor Konig
+lo considera un idiota...
+
+523
+00:58:31,541 --> 00:58:34,567
+<i>: : : </i>se asoma para ver
+si dio en el blanco.
+
+524
+00:58:35,378 --> 00:58:37,437
+El mayor Konig lo ve...
+
+525
+00:58:40,984 --> 00:58:43,612
+...le apunta al casco...
+
+526
+00:58:43,720 --> 00:58:45,119
+...dispara...
+
+527
+00:58:46,489 --> 00:58:49,754
+...revela su posición,
+y es asesinado.
+
+528
+00:59:00,803 --> 00:59:02,703
+Excepto que...
+
+529
+00:59:02,805 --> 00:59:04,932
+...el mayor Konig no dispara...
+
+530
+00:59:08,845 --> 00:59:11,313
+...porque el mayor Konig no está ahí.
+
+531
+00:59:23,026 --> 00:59:26,553
+¿No crees que fue extraño?
+
+532
+00:59:26,663 --> 00:59:30,258
+Lo enviaron para que lo mataran,
+como a los otros.
+
+533
+00:59:30,366 --> 00:59:31,765
+No es natural...
+
+534
+00:59:31,868 --> 00:59:35,304
+...sin artillería,
+sin tratar de cubrirlo.
+
+535
+00:59:37,407 --> 00:59:39,898
+No, no, el estúpido fui yo.
+
+536
+00:59:41,010 --> 00:59:43,240
+No les importan los reparadores.
+
+537
+00:59:43,346 --> 00:59:44,870
+Como nosotros con los ucranianos.
+
+538
+00:59:45,915 --> 00:59:48,440
+No molestarán a un mayor
+por unos reclutas.
+
+539
+00:59:49,652 --> 00:59:51,620
+Mañana...
+
+540
+00:59:51,721 --> 00:59:54,315
+...mataremos a unos generales.
+
+541
+01:00:02,832 --> 01:00:04,732
+¿A quién le toca?
+
+542
+01:00:05,835 --> 01:00:07,735
+A mí, creo.
+
+543
+01:00:08,871 --> 01:00:10,771
+Eres un tramposo.
+
+544
+01:00:12,375 --> 01:00:14,275
+No puedes engañar a papá Koulikov.
+
+545
+01:00:16,746 --> 01:00:18,179
+Iré primero.
+
+546
+01:00:21,084 --> 01:00:23,985
+Tú recibirás un hoyo
+en los pantalones.
+
+547
+01:01:39,696 --> 01:01:41,095
+Por la victoria.
+
+548
+01:01:49,739 --> 01:01:53,072
+Esto de los francotiradores
+se alarga demasiado.
+
+549
+01:01:54,177 --> 01:01:56,077
+¿Qué trae entre manos
+ese amigo tuyo?
+
+550
+01:01:59,015 --> 01:02:01,449
+Está tanteando,
+camarada Kruschev.
+
+551
+01:02:01,551 --> 01:02:03,849
+Prueba las debilidades del alemán.
+
+552
+01:02:03,953 --> 01:02:05,944
+Es meticuloso en su preparación.
+
+553
+01:02:08,524 --> 01:02:10,685
+El vodka...
+
+554
+01:02:10,793 --> 01:02:13,489
+...es un lujo que tenemos.
+
+555
+01:02:13,596 --> 01:02:16,895
+El caviar es otro.
+
+556
+01:02:16,999 --> 01:02:18,398
+El tiempo no lo es.
+
+557
+01:02:19,836 --> 01:02:22,737
+Estamos conscientes de eso,
+camarada Kruschev.
+
+558
+01:02:25,174 --> 01:02:27,335
+Le aseguro que tendrá éxito.
+
+559
+01:02:27,443 --> 01:02:29,536
+Bien.
+
+560
+01:02:29,645 --> 01:02:32,671
+Me parece que sus destinos
+están entrelazados.
+
+561
+01:02:55,872 --> 01:02:57,772
+¿Te mantienen ocupada?
+
+562
+01:03:03,112 --> 01:03:06,047
+Lo tomé de la cocina.
+Son de la recepción del otro día.
+
+563
+01:03:06,149 --> 01:03:08,879
+Pensé que le gustaría a la Sra. Filipov.
+
+564
+01:03:10,620 --> 01:03:12,520
+Estará encantada. Muy amable.
+
+565
+01:03:13,890 --> 01:03:15,858
+Hay muchos más, si tienes hambre.
+
+566
+01:03:17,426 --> 01:03:18,723
+¿Eres judío, verdad?
+
+567
+01:03:19,996 --> 01:03:24,160
+Nuestra religión
+no prohibe comer esturión.
+
+568
+01:03:24,267 --> 01:03:27,725
+Mi padre tuvo la premonición
+de que ocurriría esto.
+
+569
+01:03:28,838 --> 01:03:31,068
+¿Te refieres a la guerra?
+
+570
+01:03:31,174 --> 01:03:34,871
+Sabía que el odio a los judíos
+era profundo.
+
+571
+01:03:34,977 --> 01:03:37,912
+Ahorraba para comprar
+terrenos en Palestina.
+
+572
+01:03:39,515 --> 01:03:43,679
+Decía que era la única tierra
+a la que pertenecíamos...
+
+573
+01:03:43,786 --> 01:03:46,584
+...la única tierra que teníamos
+el deber de defender.
+
+574
+01:03:47,690 --> 01:03:50,750
+Insistió en que aprendiera
+a usar un rifle...
+
+575
+01:03:51,861 --> 01:03:53,761
+...y que aprendiera a disparar.
+
+576
+01:03:57,767 --> 01:04:00,827
+Sé que en la guerra,
+los sentimientos no cuentan...
+
+577
+01:04:00,937 --> 01:04:02,928
+<i>: : : </i>pero<i>: : : </i>
+
+578
+01:04:03,039 --> 01:04:04,939
+...tengo que pedirte un favor.
+
+579
+01:04:05,041 --> 01:04:07,271
+Claro.
+Lo que quieras.
+
+580
+01:04:07,376 --> 01:04:10,504
+Quiero ser transferida.
+
+581
+01:04:12,815 --> 01:04:15,249
+¿Qué sucede, Tania?
+
+582
+01:04:40,076 --> 01:04:41,976
+Lo mató.
+
+583
+01:04:45,781 --> 01:04:48,249
+Lo mató a pesar
+de que saltó primero.
+
+584
+01:04:50,253 --> 01:04:52,084
+Le disparó en el aire.
+
+585
+01:04:52,188 --> 01:04:54,418
+Era un tiro imposible.
+
+586
+01:04:54,523 --> 01:04:56,787
+Nunca había visto nada igual.
+
+587
+01:04:56,893 --> 01:04:59,919
+Les prometiste una victoria
+que no puedo darles.
+
+588
+01:05:02,531 --> 01:05:05,091
+No tengo ninguna posibilidad
+contra ese hombre.
+
+589
+01:05:05,201 --> 01:05:07,294
+No debes hablar así, Vassili.
+
+590
+01:05:08,971 --> 01:05:12,600
+¿ Y si te dijera que encontramos
+la forma de seguir sus movimientos?
+
+591
+01:05:12,708 --> 01:05:14,972
+Tenemos a alguien, Vassili...
+
+592
+01:05:15,077 --> 01:05:18,012
+...alguien cerca de él
+que nos pasa información.
+
+593
+01:05:18,114 --> 01:05:21,049
+La próxima vez,
+estarás un paso adelante.
+
+594
+01:05:23,219 --> 01:05:24,618
+Te lo prometo.
+
+595
+01:05:35,031 --> 01:05:37,226
+Ahora, tengo que pedirte un favor.
+
+596
+01:05:38,401 --> 01:05:39,891
+¿A mí?
+
+597
+01:05:43,105 --> 01:05:45,005
+Se trata de Tania.
+
+598
+01:05:50,746 --> 01:05:52,145
+Adelante.
+
+599
+01:05:57,353 --> 01:05:59,287
+Ni siquiera sabe que existes...
+
+600
+01:05:59,388 --> 01:06:03,119
+...pero estás más cerca de él
+que de nadie más.
+
+601
+01:06:03,225 --> 01:06:06,422
+Ves su cara por la mira.
+
+602
+01:06:06,529 --> 01:06:08,793
+Ves si se afeitó esa mañana o no.
+
+603
+01:06:08,898 --> 01:06:12,629
+Puedes saber si está casado,
+si tiene un anillo en el dedo.
+
+604
+01:06:15,137 --> 01:06:17,264
+No es como...
+
+605
+01:06:17,373 --> 01:06:19,398
+...disparar a una figura distante.
+
+606
+01:06:19,508 --> 01:06:22,170
+No es sólo un uniforme.
+Es la cara de un hombre.
+
+607
+01:06:23,813 --> 01:06:25,713
+Esas caras no se desvanecen.
+
+608
+01:06:27,616 --> 01:06:31,279
+Regresan, y son reemplazadas
+por otras caras.
+
+609
+01:06:32,855 --> 01:06:35,016
+¿Danilov te pidió me hablaras?
+
+610
+01:06:36,125 --> 01:06:39,856
+Le agradas mucho. Haría cualquier
+cosa para que cambies de opinión.
+
+611
+01:06:39,962 --> 01:06:42,692
+¿Te dijo por qué pedí la transferencia?
+
+612
+01:06:44,400 --> 01:06:47,699
+Esta mañana llegó una lista
+al cuartel general.
+
+613
+01:06:47,803 --> 01:06:50,863
+Era una lista de civiles
+que fueron detenidos...
+
+614
+01:06:50,973 --> 01:06:55,137
+...y enviados a Alemania en un tren
+que salió hace tres semanas.
+
+615
+01:06:57,480 --> 01:06:59,380
+Mis padres estaban entre ellos.
+
+616
+01:07:01,817 --> 01:07:03,717
+A los 30 kilómetros...
+
+617
+01:07:03,819 --> 01:07:08,085
+...los soldados alemanes
+detuvieron el tren...
+
+618
+01:07:08,190 --> 01:07:10,090
+...y los obligaron a bajar.
+
+619
+01:07:12,094 --> 01:07:14,153
+En medio de un puente...
+
+620
+01:07:14,263 --> 01:07:16,697
+...los ataron...
+
+621
+01:07:16,799 --> 01:07:18,699
+...de dos en dos...
+
+622
+01:07:19,802 --> 01:07:22,270
+...madres con hijas...
+
+623
+01:07:22,371 --> 01:07:24,271
+<i>: : : </i>esposos con esposas<i>: </i>
+
+624
+01:07:26,208 --> 01:07:30,406
+Los alinearon contra la baranda...
+
+625
+01:07:30,513 --> 01:07:33,778
+...y dispararon un solo tiro
+contra cada pareja...
+
+626
+01:07:33,883 --> 01:07:35,783
+...para ahorrar balas.
+
+627
+01:07:37,086 --> 01:07:38,485
+Funcionó.
+
+628
+01:07:39,889 --> 01:07:42,119
+El cuerpo del que moría...
+
+629
+01:07:42,224 --> 01:07:44,624
+...arrastraba al otro bajo el agua.
+
+630
+01:07:47,830 --> 01:07:49,730
+Sé que murieron juntos.
+
+631
+01:07:51,300 --> 01:07:53,791
+Nunca habrían permitido
+que los separaran.
+
+632
+01:08:09,351 --> 01:08:13,082
+Es el rifle de Koulikov.
+Es un buen rifle.
+
+633
+01:08:22,998 --> 01:08:24,158
+Gracias.
+
+634
+01:08:53,562 --> 01:08:58,056
+Sé cómo sale del refugio.
+Atraviesa la fábrica de tractores.
+
+635
+01:08:58,167 --> 01:09:00,362
+La fábrica de tractores es grande.
+
+636
+01:09:04,173 --> 01:09:05,697
+Sé por dónde.
+
+637
+01:09:05,808 --> 01:09:08,072
+Se arrastra
+por un desagüe bajo una reja...
+
+638
+01:09:08,177 --> 01:09:09,838
+...donde están las tinas.
+
+639
+01:09:09,945 --> 01:09:11,845
+Después sale por el taller.
+
+640
+01:09:12,715 --> 01:09:15,149
+Ahí hay un punto donde
+queda al descubierto.
+
+641
+01:09:15,251 --> 01:09:18,084
+Debajo de una larga
+tarima de hierro.
+
+642
+01:09:29,832 --> 01:09:33,768
+5 DE NOVIEMBRE DE 1942
+
+643
+01:09:52,254 --> 01:09:54,085
+Buena suerte, camarada.
+
+644
+01:11:39,328 --> 01:11:42,024
+Sé exactamente
+dónde me está esperando.
+
+645
+01:11:45,200 --> 01:11:47,828
+Estará en la tarima
+sobre el desagüe.
+
+646
+01:11:47,936 --> 01:11:50,166
+Le dispararemos por detrás.
+
+647
+01:12:10,492 --> 01:12:13,518
+Llegaremos al
+otro extremo del taller...
+
+648
+01:12:13,629 --> 01:12:15,790
+...a través de estas cañerías.
+
+649
+01:12:15,898 --> 01:12:17,297
+Sígueme.
+
+650
+01:14:03,272 --> 01:14:06,298
+Ve por ese lado.
+Iré por aquí.
+
+651
+01:14:06,408 --> 01:14:07,807
+De acuerdo.
+
+652
+01:14:24,960 --> 01:14:26,552
+¡Diablos!
+
+653
+01:14:34,503 --> 01:14:36,733
+Está bien.
+
+654
+01:14:36,839 --> 01:14:39,307
+- Debes regresar.
+- No.
+
+655
+01:14:39,408 --> 01:14:40,966
+- Regresa.
+- Estaré bien.
+
+656
+01:14:41,076 --> 01:14:43,408
+No, vete.
+
+657
+01:14:48,016 --> 01:14:49,916
+Esconde tus piernas.
+
+658
+01:15:32,995 --> 01:15:35,054
+Vamos.
+Vamos.
+
+659
+01:16:38,493 --> 01:16:40,484
+¡El camarada Stalin
+les pide un último esfuerzo!
+
+660
+01:16:40,629 --> 01:16:42,529
+¡El destino de la patria está en juego!
+
+661
+01:16:42,664 --> 01:16:44,757
+¡El destino de todos
+sus seres amados!
+
+662
+01:16:44,866 --> 01:16:46,925
+Es por ellos que peleamos hoy.
+
+663
+01:16:48,637 --> 01:16:50,298
+Escúchame.
+
+664
+01:16:50,405 --> 01:16:52,805
+Los alemanes nos atacan
+con todo lo que tienen.
+
+665
+01:16:52,908 --> 01:16:55,775
+Si tienen suerte, uno de cada
+diez soldados regresará vivo.
+
+666
+01:16:55,877 --> 01:16:58,846
+Tienes una buena educación.
+Hablas varios idiomas.
+
+667
+01:16:58,947 --> 01:17:02,314
+Con cada mensaje interceptado que
+traduces salvas cientos de vidas.
+
+668
+01:17:02,417 --> 01:17:05,318
+Cada mensaje que descifras
+mata a cientos de ellos.
+
+669
+01:17:06,421 --> 01:17:08,389
+Tienes el deber de sobrevivir.
+
+670
+01:17:08,490 --> 01:17:11,015
+Vassili nació para disparar.
+Eso es lo que sabe hacer.
+
+671
+01:17:11,126 --> 01:17:13,924
+Tú y yo nacimos
+para otros propósito.
+
+672
+01:17:15,364 --> 01:17:17,696
+Si Vassili estuviera aquí,
+te diría lo mismo.
+
+673
+01:17:21,436 --> 01:17:24,098
+¿Dónde está?
+¿Dónde está Vassili?
+
+674
+01:18:32,174 --> 01:18:34,165
+- Mantén la cabeza baja.
+- Dime dónde está.
+
+675
+01:18:34,276 --> 01:18:36,107
+Quédate dentro de la tubería.
+
+676
+01:18:36,211 --> 01:18:38,202
+¡Quédate adentro!
+Mantén la cabeza adentro.
+
+677
+01:18:46,088 --> 01:18:47,487
+Cálmate.
+
+678
+01:18:48,590 --> 01:18:50,217
+No dispares.
+
+679
+01:18:55,931 --> 01:18:56,989
+Está allá.
+
+680
+01:19:10,512 --> 01:19:13,481
+¿ Ves la columna enfrente de ti?
+
+681
+01:19:15,484 --> 01:19:17,816
+Necesito que te vayas detrás de ella.
+
+682
+01:19:27,729 --> 01:19:29,526
+Ve.
+
+683
+01:19:32,701 --> 01:19:36,694
+Necesito que encuentres
+un pedazo de vidrio grande.
+
+684
+01:19:36,805 --> 01:19:38,705
+Un pedazo de vidrio.
+
+685
+01:19:42,210 --> 01:19:43,768
+¿Puedes ver...
+
+686
+01:19:43,879 --> 01:19:47,007
+...el horno detrás de mí...
+
+687
+01:19:47,115 --> 01:19:49,015
+...a la izquierda de la fábrica?
+
+688
+01:19:51,720 --> 01:19:53,620
+¿Sí?
+No puedo oírte.
+
+689
+01:19:53,722 --> 01:19:55,121
+- Sí.
+- Sí.
+
+690
+01:19:56,892 --> 01:19:59,019
+¿Puedes ver...
+
+691
+01:19:59,127 --> 01:20:01,721
+...las dos persianas?
+
+692
+01:20:03,498 --> 01:20:06,228
+- Sí.
+- ¿ Ves la que tiene...
+
+693
+01:20:06,334 --> 01:20:09,132
+...la tablilla rota?
+
+694
+01:20:09,237 --> 01:20:11,034
+Sí.
+
+695
+01:20:11,139 --> 01:20:13,300
+Esto es lo que quiero que hagas.
+
+696
+01:20:20,582 --> 01:20:23,517
+- ¿Estás lista?
+- Sí.
+
+697
+01:20:23,618 --> 01:20:25,518
+Tres, dos...
+
+698
+01:20:26,288 --> 01:20:27,812
+<i>: : : </i>uno<i>: </i>
+
+699
+01:20:46,007 --> 01:20:47,565
+Hola, Sacha.
+
+700
+01:20:54,883 --> 01:20:57,113
+Estaba justo donde dijiste.
+
+701
+01:20:58,453 --> 01:20:59,852
+Casi.
+
+702
+01:21:03,959 --> 01:21:05,426
+Es muy astuto.
+
+703
+01:21:10,832 --> 01:21:12,732
+Háblame de él.
+
+704
+01:21:19,341 --> 01:21:23,744
+¿Por qué fue su abuelo quien
+le enseñó a disparar y no su padre?
+
+705
+01:21:23,845 --> 01:21:25,938
+Su padre está muerto.
+
+706
+01:21:26,047 --> 01:21:27,947
+Su madre también.
+
+707
+01:21:30,652 --> 01:21:33,382
+- ¿Habla de su padre?
+- No.
+
+708
+01:21:33,488 --> 01:21:35,388
+No lo conoció.
+
+709
+01:21:36,892 --> 01:21:39,156
+¿Fue a la escuela?
+
+710
+01:21:39,261 --> 01:21:42,594
+Sabe escribir.
+Contesta muchas cartas.
+
+711
+01:21:44,599 --> 01:21:47,830
+- ¿Le escriben las chicas?
+- Todo el mundo le escribe.
+
+712
+01:21:48,937 --> 01:21:50,928
+¿ Y ama a alguna chica en su pueblo?
+
+713
+01:21:51,039 --> 01:21:52,506
+En su pueblo no. Aquí.
+
+714
+01:21:52,607 --> 01:21:54,905
+¿ Y ella lo ama?
+
+715
+01:21:55,010 --> 01:21:56,910
+Sí, porque es guapo...
+
+716
+01:21:57,012 --> 01:21:59,310
+...porque es valiente.
+
+717
+01:21:59,414 --> 01:22:02,474
+Y ella es muy hermosa.
+La conozco muy bien.
+
+718
+01:22:02,584 --> 01:22:05,280
+Es de mi vecindario.
+Fue a la universidad.
+
+719
+01:22:05,387 --> 01:22:08,686
+Se ven lindos juntos.
+Más adelante se casarán.
+
+720
+01:22:14,896 --> 01:22:17,228
+Al menos, eso creo.
+
+721
+01:22:19,000 --> 01:22:20,900
+¿ Y tú, Sacha?
+
+722
+01:22:22,504 --> 01:22:24,870
+¿Por qué estás ayudando
+a los alemanes?
+
+723
+01:22:28,076 --> 01:22:31,307
+Porque son más fuertes.
+Porque van a ganar la guerra.
+
+724
+01:22:31,413 --> 01:22:34,644
+Y porque te gusta el chocolate.
+
+725
+01:22:51,199 --> 01:22:54,225
+Todas las personas aquí
+saben que van a morir...
+
+726
+01:22:54,336 --> 01:22:56,600
+...así que todas las noches,
+cuando regresan...
+
+727
+01:22:57,872 --> 01:22:59,772
+...es como una bonificación.
+
+728
+01:23:00,942 --> 01:23:03,103
+Disculpa.
+
+729
+01:23:03,211 --> 01:23:05,509
+Así que cada taza de té...
+
+730
+01:23:05,613 --> 01:23:07,877
+...cada cigarrillo...
+
+731
+01:23:08,984 --> 01:23:11,475
+...se convierte
+en una pequeña celebración...
+
+732
+01:23:11,586 --> 01:23:14,214
+...porque para muchos,
+podría ser la última noche.
+
+733
+01:23:15,623 --> 01:23:18,615
+Es algo que tienes que aceptar.
+
+734
+01:23:20,161 --> 01:23:21,389
+A todos les llega la hora.
+
+735
+01:23:25,800 --> 01:23:26,892
+En los bosques...
+
+736
+01:23:27,002 --> 01:23:30,460
+...el lobo vive tres años...
+
+737
+01:23:30,572 --> 01:23:32,472
+...y el burro vive nueve.
+
+738
+01:23:35,744 --> 01:23:39,236
+Lo lamento,
+pero debe ser un refrán de los Urales.
+
+739
+01:23:39,347 --> 01:23:41,440
+No tiene ninguna lógica.
+
+740
+01:23:41,549 --> 01:23:45,417
+El burro vive más porque es más útil.
+
+741
+01:23:45,520 --> 01:23:47,181
+Eso es lógico.
+
+742
+01:23:47,288 --> 01:23:50,655
+No hay burros en el bosque.
+Lo inventaste.
+
+743
+01:23:52,527 --> 01:23:53,926
+Entonces...
+
+744
+01:23:55,530 --> 01:23:57,293
+...soy una burra.
+
+745
+01:24:00,001 --> 01:24:02,231
+La gente como Danilov y tú...
+
+746
+01:24:04,039 --> 01:24:05,267
+...tiene que sobrevivir.
+
+747
+01:24:05,373 --> 01:24:08,206
+La gente que ha leído,
+que tiene educación...
+
+748
+01:24:10,412 --> 01:24:12,903
+Los necesitaremos
+cuando termine la guerra.
+
+749
+01:24:13,014 --> 01:24:15,482
+¿ Y si sobrevives?
+
+750
+01:24:15,583 --> 01:24:19,280
+¿Qué hará el inútil de Vassili Zaitsev?
+
+751
+01:24:19,387 --> 01:24:21,582
+Quiero trabajar en una fábrica.
+
+752
+01:24:22,690 --> 01:24:26,057
+Una vez mi abuelo
+me llevó a una fábrica.
+
+753
+01:24:27,328 --> 01:24:30,559
+Había un hombre ahí...
+
+754
+01:24:30,665 --> 01:24:32,565
+...muy alto...
+
+755
+01:24:32,667 --> 01:24:34,862
+...en una tarima.
+
+756
+01:24:34,969 --> 01:24:38,132
+No estaba vestido de azul
+como los otros.
+
+757
+01:24:38,239 --> 01:24:42,300
+La gente que supervisaba
+no sabía realmente lo que hacía.
+
+758
+01:24:42,410 --> 01:24:44,571
+Pero para él, allá arriba...
+
+759
+01:24:44,679 --> 01:24:47,341
+...era sencillo, estaba claro.
+
+760
+01:24:47,449 --> 01:24:49,747
+Y pensé: "Un día...
+
+761
+01:24:51,052 --> 01:24:52,986
+...yo podría ser ese hombre".
+
+762
+01:24:58,460 --> 01:24:59,825
+Es triste...
+
+763
+01:24:59,928 --> 01:25:02,692
+...tener un sueño
+que sabes que no sucederá.
+
+764
+01:25:03,798 --> 01:25:05,698
+¿Por qué no?
+
+765
+01:25:08,136 --> 01:25:10,036
+Vivirás más que todos nosotros.
+
+766
+01:25:12,140 --> 01:25:15,041
+Serás el burro más viejo del bosque.
+
+767
+01:25:32,093 --> 01:25:34,891
+"Hay 150 metros entre
+los alemanes y el Volga.
+
+768
+01:25:34,996 --> 01:25:37,226
+Hoy, el mundo entero
+mira esos 150 metros.
+
+769
+01:25:37,332 --> 01:25:39,800
+Es lo que hace de Stalingrado...
+
+770
+01:25:39,901 --> 01:25:41,300
+...la capital...
+
+771
+01:25:42,637 --> 01:25:44,537
+...de la guerra".
+
+772
+01:25:49,644 --> 01:25:51,407
+Tu amiga, Tania...
+
+773
+01:25:53,348 --> 01:25:54,747
+¿La has visto?
+
+774
+01:25:55,683 --> 01:25:57,583
+Ahora se queda
+con los francotiradores.
+
+775
+01:26:00,021 --> 01:26:02,751
+Dile al mayor que enviaremos
+francotiradores al ataque...
+
+776
+01:26:02,857 --> 01:26:04,256
+...a la fábrica.
+
+777
+01:26:07,629 --> 01:26:09,221
+Dile que Vassili estará allí.
+
+778
+01:30:00,328 --> 01:30:01,955
+Necesito hablar contigo.
+
+779
+01:30:02,063 --> 01:30:03,462
+Claro.
+
+780
+01:30:22,183 --> 01:30:24,981
+Tienes que dejar de escribir sobre mí.
+
+781
+01:30:28,256 --> 01:30:30,747
+No voy a matarlo,
+no soy suficientemente bueno.
+
+782
+01:30:30,858 --> 01:30:34,726
+Tarde o temprano,
+me encontrará y me matará.
+
+783
+01:30:34,829 --> 01:30:37,423
+Te advertí que no hables así.
+
+784
+01:30:39,534 --> 01:30:41,434
+Esta vez es diferente.
+
+785
+01:30:44,138 --> 01:30:46,936
+Me has convertido más y más...
+
+786
+01:30:47,041 --> 01:30:49,601
+...en alguien que no soy.
+
+787
+01:30:51,546 --> 01:30:54,174
+No puedo seguir llevando esa carga.
+Quiero pelear.
+
+788
+01:30:55,883 --> 01:30:59,546
+Quiero pelear como
+un soldado común.
+
+789
+01:31:00,721 --> 01:31:02,518
+Entiendo.
+
+790
+01:31:02,623 --> 01:31:06,389
+Pero no eres un soldado común.
+Eres un soldado extraordinario.
+
+791
+01:31:06,494 --> 01:31:08,724
+No, soy lo que has hecho de mí.
+
+792
+01:31:10,298 --> 01:31:11,697
+Nada más.
+
+793
+01:31:17,004 --> 01:31:19,472
+¿Por qué me dices esto ahora?
+
+794
+01:31:20,775 --> 01:31:22,037
+¿Qué sucedió?
+
+795
+01:31:26,347 --> 01:31:27,746
+¿Qué cambió?
+
+796
+01:31:32,587 --> 01:31:35,078
+¿Hablaste con Tania?
+
+797
+01:31:36,791 --> 01:31:37,780
+Sí.
+
+798
+01:31:38,860 --> 01:31:41,351
+¿ Y bien?
+¿ Va a reconsiderar?
+
+799
+01:31:45,032 --> 01:31:46,226
+No lo sé.
+
+800
+01:31:49,904 --> 01:31:50,996
+Debería hacerlo.
+
+801
+01:31:51,105 --> 01:31:53,596
+Estaría más segura. Lo sabes.
+
+802
+01:31:54,709 --> 01:31:57,371
+Será más fácil
+transferirla a ella que a ti.
+
+803
+01:31:57,478 --> 01:32:00,538
+Los alemanes preparan
+otra ofensiva sobre la ciudad.
+
+804
+01:32:00,648 --> 01:32:02,673
+La propaganda es
+crucial para la moral.
+
+805
+01:32:02,783 --> 01:32:05,445
+Te necesitamos más que nunca.
+Espera. ¡Sacha!
+
+806
+01:32:10,558 --> 01:32:13,618
+- Dile lo que sabes, Sacha.
+- Hola, Sacha.
+
+807
+01:32:13,728 --> 01:32:15,719
+Había polvo en las botas del mayor.
+
+808
+01:32:15,830 --> 01:32:19,231
+Sacha convenció al mayor
+que está de su lado.
+
+809
+01:32:20,334 --> 01:32:22,302
+No necesito decirte
+el riesgo que toma.
+
+810
+01:32:23,304 --> 01:32:24,771
+El polvo era amarillo.
+
+811
+01:32:24,872 --> 01:32:26,897
+Sólo hay un lugar
+con polvo de ese color:
+
+812
+01:32:27,008 --> 01:32:30,239
+Detrás de la fábrica de químicos,
+en los rieles.
+
+813
+01:32:32,914 --> 01:32:33,972
+Bien hecho.
+
+814
+01:32:35,182 --> 01:32:36,046
+¿Sacha?
+
+815
+01:32:36,984 --> 01:32:39,384
+Espérame afuera.
+
+816
+01:32:46,260 --> 01:32:47,284
+¿Danilov?
+
+817
+01:32:48,095 --> 01:32:51,963
+No tenías derecho a usarlo.
+
+818
+01:32:52,066 --> 01:32:55,160
+No, no lo usé, Vassili.
+
+819
+01:32:55,269 --> 01:32:58,329
+Lo hizo por su cuenta.
+
+820
+01:32:58,439 --> 01:33:00,930
+¿Sabes por qué?
+
+821
+01:33:01,042 --> 01:33:03,101
+¡Porque cree en ti!
+
+822
+01:33:10,284 --> 01:33:12,980
+Mañana por la mañana
+retomaremos la fábrica.
+
+823
+01:33:14,088 --> 01:33:17,182
+Sacha le informó al mayor que irás.
+
+824
+01:33:17,291 --> 01:33:19,953
+Así que ahora sabes
+dónde tienes que esperarlo.
+
+825
+01:33:20,061 --> 01:33:23,292
+- En pleno asalto.
+- Estoy cumpliendo órdenes.
+
+826
+01:33:23,397 --> 01:33:25,729
+Sugiero que hagas lo mismo.
+
+827
+01:33:27,301 --> 01:33:31,260
+Estoy consciente de los riesgos.
+Estarás bien.
+
+828
+01:33:37,411 --> 01:33:38,776
+Camarada.
+
+829
+01:34:05,940 --> 01:34:09,205
+Esos son los alemanes.
+Ayer eran los rusos.
+
+830
+01:34:09,310 --> 01:34:11,210
+Ya estamos cerca.
+
+831
+01:34:16,250 --> 01:34:18,514
+Estás jugando
+un juego peligroso.
+
+832
+01:34:20,154 --> 01:34:22,179
+Quiero que ganes.
+
+833
+01:34:23,424 --> 01:34:26,587
+¿ Ves eso?
+Camina a lo largo del río.
+
+834
+01:34:26,694 --> 01:34:28,889
+Es seguro, por un rato.
+
+835
+01:39:08,008 --> 01:39:09,669
+Está muerto.
+
+836
+01:39:09,777 --> 01:39:12,143
+Encontramos esto con su cadáver.
+
+837
+01:39:15,249 --> 01:39:17,877
+Ya no hay razón para que sigas aquí.
+
+838
+01:39:18,986 --> 01:39:20,886
+Perdón, <i>Herr</i> general.
+
+839
+01:39:22,189 --> 01:39:23,679
+Pero no creo...
+
+840
+01:39:23,791 --> 01:39:25,918
+Sale un avión a Berlín
+mañana por la noche.
+
+841
+01:39:26,026 --> 01:39:27,516
+Lo abordarás.
+
+842
+01:39:31,465 --> 01:39:34,764
+Hasta entonces, debo pedirte
+tu placa de identificación.
+
+843
+01:39:37,171 --> 01:39:40,265
+Imagínate cómo aprovecharía
+su muerte la propaganda rusa.
+
+844
+01:39:40,374 --> 01:39:43,104
+Si muere, nadie lo sabrá.
+
+845
+01:39:43,210 --> 01:39:45,144
+Por poco lo matan.
+
+846
+01:39:54,388 --> 01:39:57,289
+Por favor,
+toma esta medalla al mérito.
+
+847
+01:39:57,391 --> 01:40:01,088
+Fue una condecoración póstuma
+a un teniente de la 116a. Infantería...
+
+848
+01:40:01,195 --> 01:40:03,390
+...que cayó aquí,
+en los primeros días de la batalla.
+
+849
+01:40:06,166 --> 01:40:08,066
+Era mi hijo.
+
+850
+01:40:10,704 --> 01:40:13,571
+¡Si capturan el desembarco,
+todo se habrá perdido!
+
+851
+01:40:16,110 --> 01:40:17,509
+Ven acá.
+
+852
+01:40:21,315 --> 01:40:23,215
+¿Qué te dije?
+
+853
+01:40:23,317 --> 01:40:25,877
+¡Llevas demasiado tiempo
+tocando el violín!
+
+854
+01:40:25,986 --> 01:40:28,750
+¡Sí se confirma que ha muerto,
+nos hundiremos!
+
+855
+01:40:29,790 --> 01:40:32,554
+- No. Te hundirás.
+- No es verdad.
+
+856
+01:40:32,659 --> 01:40:35,253
+Lo interceptaron
+camino al cuartel general.
+
+857
+01:40:35,362 --> 01:40:38,388
+¿Acaso tienen mostrar su cadáver
+ante nuestros hombres?
+
+858
+01:40:39,400 --> 01:40:40,458
+Están mintiendo.
+
+859
+01:40:41,702 --> 01:40:43,363
+Eso es bueno.
+
+860
+01:40:43,470 --> 01:40:44,869
+Muy bueno.
+
+861
+01:40:45,973 --> 01:40:49,500
+Entonces escríbelo:
+"Vassili Zaitsev no está muerto.
+
+862
+01:40:49,610 --> 01:40:52,010
+Esto es lo que desayunó
+esta mañana.
+
+863
+01:40:52,112 --> 01:40:55,206
+Ésta es una foto suya
+leyendo el periódico de hoy".
+
+864
+01:40:55,315 --> 01:40:56,543
+Eres el poeta.
+
+865
+01:40:57,317 --> 01:40:58,409
+¿Qué?
+
+866
+01:40:58,519 --> 01:41:01,386
+¡No renunciarás a la ribera!
+
+867
+01:41:01,488 --> 01:41:04,252
+No me importa si perdiste
+a la mitad de tus hombres.
+
+868
+01:41:04,358 --> 01:41:07,418
+¡Pierde la otra mitad
+o piérdete tú!
+
+869
+01:41:13,400 --> 01:41:14,765
+¿Regresó?
+
+870
+01:41:18,505 --> 01:41:19,836
+Regresará pronto.
+
+871
+01:41:21,141 --> 01:41:24,577
+El ataque alemán cortó las líneas.
+Por eso se está tardando.
+
+872
+01:41:27,848 --> 01:41:29,179
+¿Podemos salir?
+
+873
+01:41:35,589 --> 01:41:38,080
+Le escribí a mi madre sobre ti.
+
+874
+01:41:39,026 --> 01:41:43,053
+Me dijo que si después
+de la guerra necesitas algo...
+
+875
+01:41:43,163 --> 01:41:45,495
+...nuestra familia te ayudará.
+
+876
+01:41:47,868 --> 01:41:49,995
+Sabes que estoy aquí.
+
+877
+01:41:55,042 --> 01:41:57,135
+Dicen que Vassili está muerto.
+
+878
+01:41:57,244 --> 01:42:01,442
+<i>Vassili Zaitsev jamás volverá</i>
+<i>a ver a sus seres queridos. </i>
+
+879
+01:42:01,548 --> 01:42:02,947
+<i>¡Ríndanse! </i>
+
+880
+01:42:03,050 --> 01:42:04,915
+<i>Es su única esperanza. </i>
+
+881
+01:42:09,223 --> 01:42:10,656
+Estás triste.
+
+882
+01:42:12,659 --> 01:42:14,991
+¿Porque Zaitsev murió?
+
+883
+01:42:16,964 --> 01:42:19,728
+No tienes que ocultarlo.
+No debe darte vergüenza.
+
+884
+01:42:20,901 --> 01:42:23,165
+Eres ruso, como él.
+
+885
+01:42:26,173 --> 01:42:28,164
+No les prestes atención.
+
+886
+01:42:28,275 --> 01:42:30,175
+Es sólo propaganda.
+
+887
+01:42:31,578 --> 01:42:32,636
+No está muerto.
+
+888
+01:42:34,815 --> 01:42:36,715
+¿ Y sabes por qué?
+
+889
+01:42:38,118 --> 01:42:40,143
+Porque aún no lo he matado.
+
+890
+01:42:47,694 --> 01:42:50,424
+Voy a decirte
+un pequeño secreto.
+
+891
+01:42:50,531 --> 01:42:53,091
+Sólo a ti,
+porque te tengo confianza.
+
+892
+01:42:54,234 --> 01:42:57,260
+Pero debes jurarme
+que no se lo dirás a nadie.
+
+893
+01:42:59,806 --> 01:43:01,103
+¿Lo juras?
+
+894
+01:43:02,843 --> 01:43:04,743
+Encontré un punto magnífico.
+
+895
+01:43:05,913 --> 01:43:08,882
+Está en la salida
+de la estación del tren.
+
+896
+01:43:08,982 --> 01:43:11,610
+Me esconderé
+en la torre de agua.
+
+897
+01:43:11,718 --> 01:43:14,687
+Mañana, lo esperaré ahí.
+
+898
+01:43:15,589 --> 01:43:17,216
+Ya verás.
+
+899
+01:43:17,324 --> 01:43:19,053
+Estará ahí.
+
+900
+01:43:20,294 --> 01:43:22,194
+Siempre está ahí.
+
+901
+01:43:31,905 --> 01:43:35,033
+También debes jurar
+que te quedarás en tu casa.
+
+902
+01:43:37,377 --> 01:43:38,776
+¿Lo juras?
+
+903
+01:43:39,980 --> 01:43:41,038
+¿Sí?
+
+904
+01:43:44,918 --> 01:43:47,045
+Bien.
+
+905
+01:43:47,154 --> 01:43:49,088
+"Sabemos que está vivo.
+Sabemos que no nos fallará...
+
+906
+01:43:49,189 --> 01:43:52,488
+...porque es parte de nosotros.
+Vassili es eterno".
+
+907
+01:43:55,596 --> 01:43:56,756
+¿Dónde estabas?
+
+908
+01:43:56,863 --> 01:44:00,321
+- Te buscamos por todas partes.
+- ¿No te enteraste?
+
+909
+01:44:01,535 --> 01:44:02,729
+Estaba muerto.
+
+910
+01:44:02,836 --> 01:44:06,795
+Al menos,
+el noble francotirador Zaitsev...
+
+911
+01:44:08,976 --> 01:44:10,876
+Vassili está muerto.
+
+912
+01:44:11,979 --> 01:44:13,879
+El verdadero.
+
+913
+01:44:16,149 --> 01:44:17,548
+Yo...
+
+914
+01:44:19,319 --> 01:44:21,446
+...me quedé dormido...
+
+915
+01:44:21,555 --> 01:44:23,455
+...y perdí mi oportunidad.
+
+916
+01:44:23,557 --> 01:44:27,049
+Estuve acurrucado en un rincón,
+escondiéndome...
+
+917
+01:44:28,495 --> 01:44:30,929
+...de un hombre
+que quiere matarme.
+
+918
+01:44:31,031 --> 01:44:32,760
+Hablaré con Kruschev.
+
+919
+01:44:33,900 --> 01:44:36,926
+Te enviará de regreso
+a tu antigua división.
+
+920
+01:44:37,037 --> 01:44:38,527
+¿Dónde está Tania?
+
+921
+01:44:38,639 --> 01:44:40,334
+En el refugio.
+
+922
+01:44:40,440 --> 01:44:42,670
+Ya fui al refugio.
+
+923
+01:44:42,776 --> 01:44:44,676
+Le dije que no estabas muerto.
+
+924
+01:44:46,847 --> 01:44:50,180
+El mayor lo dijo.
+Dijo que los alemanes mentían.
+
+925
+01:44:50,951 --> 01:44:53,749
+Me dijo que
+lo esperabas en la estación.
+
+926
+01:44:57,257 --> 01:44:57,586
+Vassili.
+
+927
+01:45:19,613 --> 01:45:20,307
+Vassili.
+
+928
+01:45:23,383 --> 01:45:24,247
+Vassili.
+
+929
+01:45:31,858 --> 01:45:33,758
+Mi pequeño Sacha.
+
+930
+01:45:35,095 --> 01:45:36,153
+Lo sabía.
+
+931
+01:45:55,082 --> 01:45:56,014
+Vassili.
+
+932
+01:45:56,116 --> 01:45:56,707
+Tania.
+
+933
+01:46:03,724 --> 01:46:05,954
+Sabía que no estabas muerto.
+
+934
+01:46:07,361 --> 01:46:08,453
+¿ Cómo?
+
+935
+01:46:08,562 --> 01:46:10,757
+Porque acabamos de conocernos.
+
+936
+01:46:15,035 --> 01:46:18,937
+Recé por primera vez
+desde que era niña.
+
+937
+01:46:20,440 --> 01:46:22,431
+Cuando abrí los ojos...
+
+938
+01:46:22,542 --> 01:46:25,773
+...Sacha estaba ahí, esperando
+para darme la buena noticia.
+
+939
+01:46:29,049 --> 01:46:31,950
+Creo que te quiere más que yo.
+
+940
+01:46:56,243 --> 01:46:58,905
+A las autoridades militares
+pertinentes:
+
+941
+01:46:59,012 --> 01:47:01,640
+Quiero comunicarles
+los recientes cambios...
+
+942
+01:47:01,748 --> 01:47:05,684
+...en la actitud hacia la lucha
+del soldado Vassili Zaitsev.
+
+943
+01:47:06,386 --> 01:47:09,844
+Ha intentado, en varias ocasiones,
+evadir sus deberes...
+
+944
+01:47:09,956 --> 01:47:12,254
+...ha expresado dudas sobre
+nuestra victoria...
+
+945
+01:47:12,359 --> 01:47:14,327
+...e hizo comentarios
+derrotistas en público.
+
+946
+01:47:15,929 --> 01:47:20,298
+La inexplicable duración
+de su duelo con el tirador nazi...
+
+947
+01:47:21,067 --> 01:47:23,501
+...sólo puede explicarse...
+
+948
+01:47:23,603 --> 01:47:26,367
+...como una falta de confianza
+en el ideal comunista.
+
+949
+01:47:34,347 --> 01:47:36,247
+Buen día, Sacha.
+
+950
+01:47:38,251 --> 01:47:40,947
+Una vez más, supo
+exactamente dónde encontrarme.
+
+951
+01:47:42,289 --> 01:47:44,621
+¿No crees que es extraño?
+
+952
+01:47:45,725 --> 01:47:48,285
+Aparte de mí,
+sólo tú lo sabías.
+
+953
+01:47:49,629 --> 01:47:52,359
+No tengo nada contra ti, Sacha.
+
+954
+01:47:52,466 --> 01:47:54,627
+Has hecho algo muy valiente.
+
+955
+01:47:55,969 --> 01:47:58,836
+Escogiste tu bando.
+Respeto eso.
+
+956
+01:47:58,939 --> 01:48:00,839
+Pero no es mi bando.
+
+957
+01:48:00,941 --> 01:48:02,841
+Ambos somos soldados.
+
+958
+01:48:03,977 --> 01:48:05,467
+Ambos somos enemigos.
+
+959
+01:48:05,579 --> 01:48:07,740
+Sé que comprenderás.
+
+960
+01:48:08,915 --> 01:48:12,908
+Estoy molesto contigo por no
+quedarte en casa, lo juraste.
+
+961
+01:48:14,421 --> 01:48:18,255
+Estoy molesto por obligarme
+a hacer lo que tengo que hacer.
+
+962
+01:48:23,296 --> 01:48:27,096
+Nunca he visto a nadie
+fruncir tanto el ceño cuando duerme.
+
+963
+01:48:30,337 --> 01:48:32,931
+¿Por cuánto tiempo
+has estado observándome?
+
+964
+01:48:33,039 --> 01:48:34,438
+Toda la noche.
+
+965
+01:48:35,709 --> 01:48:38,405
+Estuviste roncando
+alegremente por horas.
+
+966
+01:48:38,512 --> 01:48:41,379
+Y no ronco, ¿o sí?
+
+967
+01:48:41,481 --> 01:48:43,005
+Como un león.
+
+968
+01:48:43,116 --> 01:48:45,778
+Supongo que también
+hablé en mis sueños.
+
+969
+01:48:45,886 --> 01:48:47,285
+Sí.
+
+970
+01:48:50,123 --> 01:48:52,284
+Hay algo que debo decirte.
+
+971
+01:48:59,799 --> 01:49:01,699
+En el tren...
+
+972
+01:49:02,802 --> 01:49:04,201
+...camino para acá...
+
+973
+01:49:06,640 --> 01:49:08,540
+...estuvimos en el mismo vagón.
+
+974
+01:49:10,443 --> 01:49:11,842
+Te vi.
+
+975
+01:49:12,979 --> 01:49:14,742
+Estabas leyendo...
+
+976
+01:49:14,848 --> 01:49:16,748
+...y te quedaste dormida.
+
+977
+01:49:18,985 --> 01:49:22,250
+No me atrevía a mirarte.
+Eras demasiado bella.
+
+978
+01:49:24,291 --> 01:49:26,191
+Me dio miedo.
+
+979
+01:49:28,762 --> 01:49:29,820
+Después de eso...
+
+980
+01:49:29,930 --> 01:49:32,262
+...no podía dejar
+de pensar en ti.
+
+981
+01:49:33,366 --> 01:49:35,266
+Me hacía sonreír.
+
+982
+01:49:36,503 --> 01:49:38,403
+Entonces, pensé...
+
+983
+01:49:38,505 --> 01:49:41,099
+...en todos los hombres
+que llegarían a abrazarte...
+
+984
+01:49:43,343 --> 01:49:45,436
+...y que te harían reír.
+
+985
+01:49:47,847 --> 01:49:49,747
+Lo afortunados que serían.
+
+986
+01:49:53,386 --> 01:49:56,116
+Y ahora soy yo
+el que está a tu lado.
+
+987
+01:49:59,059 --> 01:50:01,687
+- ¿Estaba roncando?
+- Como un león.
+
+988
+01:50:35,128 --> 01:50:36,527
+¿Qué?
+
+989
+01:50:39,733 --> 01:50:41,633
+¡Dios mío!
+
+990
+01:50:45,538 --> 01:50:47,438
+¡No, déjame!
+¡Suéltame!
+
+991
+01:50:47,540 --> 01:50:49,838
+- ¡Eso es lo que quiere!
+- ¡Suéltame!
+
+992
+01:50:49,943 --> 01:50:52,537
+- ¡Eso es lo que quiere!
+- ¡Déjame!
+
+993
+01:50:52,646 --> 01:50:54,341
+- ¡Te matará!
+- ¡Suéltame!
+
+994
+01:50:54,447 --> 01:50:58,247
+Te matará, después correré
+tras de ti y me matará también.
+
+995
+01:50:58,351 --> 01:51:00,251
+- ¡Suéltame!
+- Eso es todo lo que quiere.
+
+996
+01:51:00,353 --> 01:51:03,117
+Lo encontraré.
+Te lo prometo, lo mataré.
+
+997
+01:51:04,391 --> 01:51:07,519
+Te traeré su rifle.
+Lo prometo, Tania.
+
+998
+01:51:28,048 --> 01:51:29,948
+Te necesito.
+
+999
+01:51:33,219 --> 01:51:36,279
+Tiene que irse ahora, Sra. Filipov.
+Stalingrado puede caer.
+
+1000
+01:51:36,389 --> 01:51:39,017
+Ya se va el último bote.
+Los alemanes llegarán pronto.
+
+1001
+01:51:39,125 --> 01:51:42,288
+Te consiguió un pase.
+Estarás a salvo en el otro lado.
+
+1002
+01:51:42,395 --> 01:51:45,296
+Juntaremos tus cosas;
+las llevaremos al embarcadero.
+
+1003
+01:51:45,398 --> 01:51:48,959
+No me iré.
+Esta es mi casa.
+
+1004
+01:51:49,069 --> 01:51:51,970
+Es el hogar de mi Sacha.
+No puedo irme.
+
+1005
+01:51:52,072 --> 01:51:54,438
+Tengo que decirle algo,
+Sra. Filipov.
+
+1006
+01:51:57,143 --> 01:51:59,805
+Algo muy difícil de entender.
+
+1007
+01:52:00,914 --> 01:52:03,007
+Se trata de Sacha.
+
+1008
+01:52:16,529 --> 01:52:19,498
+Se fue con los alemanes.
+Traicionó a su país.
+
+1009
+01:52:19,599 --> 01:52:21,658
+Está con el enemigo.
+No regresará.
+
+1010
+01:52:24,704 --> 01:52:26,103
+Dios mío.
+
+1011
+01:52:34,314 --> 01:52:36,214
+Es un traidor.
+
+1012
+01:52:37,617 --> 01:52:40,450
+El pobre.
+
+1013
+01:52:40,553 --> 01:52:42,453
+¿Qué ha hecho?
+
+1014
+01:52:46,259 --> 01:52:48,159
+Entonces,
+¿se va a quedar con ellos?
+
+1015
+01:52:53,733 --> 01:52:55,530
+Sí.
+
+1016
+01:52:55,635 --> 01:52:58,536
+Se quedará con ellos.
+
+1017
+01:52:59,806 --> 01:53:02,297
+No debería decir esto,
+camarada comisario...
+
+1018
+01:53:02,408 --> 01:53:05,309
+...pero tal vez sea lo mejor.
+
+1019
+01:53:05,411 --> 01:53:07,811
+Si los alemanes han ganado,
+estará a salvo.
+
+1020
+01:53:07,914 --> 01:53:11,247
+Sé que está mal, pero quizá
+tomó la decisión adecuada.
+
+1021
+01:53:58,231 --> 01:54:00,199
+¡Necesito un médico!
+
+1022
+01:54:00,300 --> 01:54:01,699
+¡Un médico!
+
+1023
+01:54:06,539 --> 01:54:08,473
+Tengo un pase.
+
+1024
+01:54:08,575 --> 01:54:11,305
+Tengo un pase.
+Debe dejarla cruzar.
+
+1025
+01:54:14,881 --> 01:54:15,939
+¡Por favor!
+
+1026
+01:54:16,049 --> 01:54:18,745
+Es inútil.
+Nunca lo logrará.
+
+1027
+01:54:18,852 --> 01:54:20,080
+¡Lo logrará!
+
+1028
+01:54:20,186 --> 01:54:23,246
+¡Es mi hija!
+¡Es mi hija!
+
+1029
+01:54:23,356 --> 01:54:25,756
+- ¡Se lo suplico!
+- Está bien.
+
+1030
+01:54:25,859 --> 01:54:28,657
+- Gracias.
+- ¡Pónganla en el bote!
+
+1031
+01:54:53,953 --> 01:54:55,853
+"Estoy saludable.
+
+1032
+01:54:55,955 --> 01:54:58,856
+Me están evacuando a la otra orilla.
+
+1033
+01:54:58,958 --> 01:55:01,426
+Qué estés bien, Sacha mío".
+
+1034
+01:55:17,110 --> 01:55:18,168
+¿Dónde está?
+
+1035
+01:55:19,312 --> 01:55:22,042
+- ¿Donde está el mayor?
+- A pocos centímetros de tu cara.
+
+1036
+01:55:25,919 --> 01:55:28,854
+He sido un tonto, Vassili.
+
+1037
+01:55:30,189 --> 01:55:32,180
+Los hombres siempre serán hombres.
+
+1038
+01:55:33,293 --> 01:55:35,193
+No existe el hombre nuevo.
+
+1039
+01:55:36,763 --> 01:55:39,926
+Tratamos de crear
+una sociedad igualitaria...
+
+1040
+01:55:40,033 --> 01:55:42,831
+...en la que no hay nada
+que envidiarle a tu vecino.
+
+1041
+01:55:44,103 --> 01:55:46,594
+Pero siempre habrá
+algo que envidiar.
+
+1042
+01:55:48,274 --> 01:55:49,673
+Una sonrisa...
+
+1043
+01:55:50,777 --> 01:55:52,005
+...una amistad...
+
+1044
+01:55:53,613 --> 01:55:56,446
+...algo que no tienes
+y que quieres.
+
+1045
+01:55:57,784 --> 01:56:01,220
+En este mundo,
+incluso en el soviético...
+
+1046
+01:56:02,322 --> 01:56:04,620
+...siempre habrá ricos y pobres.
+
+1047
+01:56:06,459 --> 01:56:08,359
+Ricos en dones...
+
+1048
+01:56:09,896 --> 01:56:11,796
+...pobres en dones.
+
+1049
+01:56:12,966 --> 01:56:14,866
+Ricos en amor...
+
+1050
+01:56:16,336 --> 01:56:17,860
+...pobres en amor.
+
+1051
+01:56:24,344 --> 01:56:26,244
+Tania no regresará.
+
+1052
+01:56:28,514 --> 01:56:30,414
+Está muerta, Vassili.
+
+1053
+01:56:39,292 --> 01:56:41,487
+La alcanzó una granada.
+
+1054
+01:56:41,594 --> 01:56:45,291
+Fue rápido.
+Creo que ni siquiera la vio venir.
+
+1055
+01:56:47,200 --> 01:56:49,191
+Iba a regresar contigo.
+
+1056
+01:56:49,302 --> 01:56:52,601
+En cuanto
+se despidiera de la Sra. Filipov...
+
+1057
+01:56:52,705 --> 01:56:54,263
+...regresaría contigo.
+
+1058
+01:56:55,375 --> 01:56:57,104
+Ella tenía razón.
+
+1059
+01:56:57,210 --> 01:56:59,440
+Eres un buen hombre, Vassili.
+
+1060
+01:57:03,449 --> 01:57:06,009
+Quiero ayudarte, Vassili.
+
+1061
+01:57:06,119 --> 01:57:08,610
+Déjame hacer una última cosa.
+
+1062
+01:57:08,721 --> 01:57:11,053
+Algo útil, para variar.
+
+1063
+01:57:17,230 --> 01:57:19,562
+- Déjame mostrarte dónde está.
+- No, no hagas eso.
+
+1064
+01:57:20,600 --> 01:57:22,158
+¡No hagas eso!
+
+1065
+02:01:21,507 --> 02:01:26,501
+DOS MESES DESPUÉS
+3 DE FEBRERO DE 1943
+
+1066
+02:01:36,055 --> 02:01:39,456
+<i>Hoy, 3 de febrero de 1943... </i>
+
+1067
+02:01:39,558 --> 02:01:42,356
+<i>... es un ominoso día para Hitler</i>
+<i>y las interminables filas... </i>
+
+1068
+02:01:42,461 --> 02:01:45,555
+<i>... de cientos de miles</i>
+<i>de prisioneros alemanes. </i>
+
+1069
+02:01:45,665 --> 02:01:49,601
+<i>Es un inolvidable día</i>
+<i>de esperanza para nuestra patria... </i>
+
+1070
+02:01:49,702 --> 02:01:51,966
+<i>... y para el pueblo</i>
+<i>de la Unión Soviética. </i>
+
+1071
+02:02:02,515 --> 02:02:06,212
+<i>Hoy, después de 180 días</i>
+<i>de heroicos combates... </i>
+
+1072
+02:02:06,319 --> 02:02:08,753
+<i>... en la ciudad de Stalingrado... </i>
+
+1073
+02:02:08,854 --> 02:02:11,982
+<i>... y como resultado</i>
+<i>del valor y del sacrificio... </i>
+
+1074
+02:02:12,091 --> 02:02:14,025
+<i>... de nuestros soldados... </i>
+
+1075
+02:02:14,126 --> 02:02:17,186
+<i>... el comandante</i>
+<i>de nuestro glorioso Ejército Rojo... </i>
+
+1076
+02:02:17,296 --> 02:02:20,322
+<i>... recibió la rendición incondicional... </i>
+
+1077
+02:02:20,433 --> 02:02:23,095
+<i>... de la Alemania fascista invasora. </i>
+
+1078
+02:02:24,503 --> 02:02:27,597
+<i>En esta histórica batalla, </i>
+<i>nuestro gobierno... </i>
+
+1079
+02:02:36,482 --> 02:02:39,542
+Lo siento.
+No, camarada.
+
+1080
+02:02:39,652 --> 02:02:42,587
+- No encuentro ese nombre.
+- ¿Podría revisar otra vez?
+
+1081
+02:02:42,688 --> 02:02:44,622
+- Es la dirección del hospital.
+- No está aquí.
+
+1082
+02:02:44,724 --> 02:02:47,284
+- Este es su nombre.
+- Y nuestra dirección. No está.
+
+1083
+02:02:47,393 --> 02:02:50,021
+Ya no la tenemos aquí.
+
+1084
+02:02:50,129 --> 02:02:53,030
+Esta es la dirección. Estuvo aquí.
+Me escribió desde aquí.
+
+1085
+02:02:53,132 --> 02:02:56,067
+Ya he buscado tres veces
+en los libros; no está.
+
+1086
+02:02:56,168 --> 02:02:59,331
+Créame, no hay ninguna
+Tania Chernova.
+
+1087
+02:02:59,438 --> 02:03:01,338
+- Se lo dije.
+- No puedo ayudarlo.
+
+1088
+02:03:01,440 --> 02:03:03,340
+Lo siento mucho.
+
+1089
+02:03:57,129 --> 02:04:00,530
+"Varias veces condecorado
+con la Orden de Lenin...
+
+1090
+02:04:00,633 --> 02:04:04,626
+...Vassili Zaitsev fue ascendido
+al rango de Héroe de la U.R.S.S.
+
+1091
+02:04:04,737 --> 02:04:09,071
+Su rifle aún puede verse en el Museo
+de Historia de Stalingrado...
+
+1092
+02:04:09,175 --> 02:04:12,804
+...entre los grandes símbolos de la
+victoria sobre la Alemania Nazi"
+
+1093
+02:10:57,449 --> 02:10:58,416
+Subtitulos Erick Vergara.
+

@@ -1,0 +1,4516 @@
+1
+00:05:09,628 --> 00:05:11,537
+Hablamos dentro de dos horas.
+
+2
+00:05:12,631 --> 00:05:14,173
+- ¿Por dónde vamos?
+- Por ahí.
+
+3
+00:05:14,258 --> 00:05:16,582
+¿De acuerdo? Hasta luego, chicos.
+
+4
+00:05:24,936 --> 00:05:26,478
+¿Qué desea?
+
+5
+00:05:26,980 --> 00:05:28,141
+¿Tiene fuego?
+
+6
+00:05:28,230 --> 00:05:30,022
+¿Quién lo ha dejado pasar?
+
+7
+00:05:30,150 --> 00:05:32,937
+Sus hombres.
+Soy el inspector Pierre Niemans.
+
+8
+00:05:35,155 --> 00:05:37,943
+¿Sólo usted? En París dijeron que
+mandarían una unidad.
+
+9
+00:05:38,033 --> 00:05:39,610
+¿Qué demonios pasa?
+
+10
+00:05:39,993 --> 00:05:41,404
+Yo soy la unidad.
+
+11
+00:05:46,040 --> 00:05:47,083
+Capitán...
+
+12
+00:05:48,252 --> 00:05:50,168
+...no he pasado toda la noche
+conduciendo...
+
+13
+00:05:50,169 --> 00:05:52,084
+...para discutir con la policía.
+
+14
+00:05:53,800 --> 00:05:55,424
+¿Cuál es la situación?
+
+15
+00:05:56,636 --> 00:05:58,010
+Sígame.
+
+16
+00:06:00,473 --> 00:06:04,173
+Hace dos días, el decano comunicó
+la desaparición de Remy Callois.
+
+17
+00:06:04,602 --> 00:06:06,347
+Soltero de 32 años.
+
+18
+00:06:06,522 --> 00:06:10,104
+Remy daba clase en la universidad.
+También era el bibliotecario.
+
+19
+00:06:10,317 --> 00:06:12,144
+Un puesto importante.
+
+20
+00:06:12,653 --> 00:06:16,567
+Según el decano,
+Remy era puntual y trabajador.
+
+21
+00:06:16,740 --> 00:06:18,697
+Nunca llegaba tarde.
+
+22
+00:06:19,284 --> 00:06:20,365
+Ayer tarde...
+
+23
+00:06:20,453 --> 00:06:22,991
+...una joven alpinista halló su cuerpo.
+
+24
+00:06:24,207 --> 00:06:26,246
+¿Por qué llamaron a homicidios?
+
+25
+00:06:28,962 --> 00:06:31,535
+No estamos acostumbrados
+a este tipo de casos.
+
+26
+00:06:31,631 --> 00:06:32,829
+¿Por qué?
+
+27
+00:06:33,340 --> 00:06:37,553
+Su cuerpo colgaba de allí arriba.
+A 50 metros.
+
+28
+00:06:49,024 --> 00:06:53,354
+GUERNON - Universidad a 500 metros
+
+29
+00:06:58,534 --> 00:07:02,236
+Trabaja en la unidad de homicidios
+pero en casos especiales, ¿verdad?
+
+30
+00:07:02,331 --> 00:07:03,373
+Así es.
+
+31
+00:07:06,085 --> 00:07:08,162
+Nunca hemos trabajado con usted.
+
+32
+00:07:10,089 --> 00:07:11,334
+Tienen suerte.
+
+33
+00:07:18,263 --> 00:07:21,680
+BIENAVENTURADO EL QUE DESCUBRE
+LAS CAUSAS OCULTAS DE LAS COSAS
+
+34
+00:07:38,952 --> 00:07:41,443
+¿Qué hace aquí una universidad?
+
+35
+00:07:41,914 --> 00:07:43,492
+No es una cualquiera.
+
+36
+00:07:44,250 --> 00:07:47,036
+Tiene electricidad y agua propias.
+
+37
+00:07:47,169 --> 00:07:48,830
+Incluso cuenta con un hospital.
+
+38
+00:07:49,715 --> 00:07:53,083
+1.200 alumnos,
+100 profesores e investigadores.
+
+39
+00:07:53,217 --> 00:07:55,544
+Es una de las más antiguas de Europa.
+
+40
+00:07:58,681 --> 00:08:01,968
+En caso de tormenta de nieve,
+puede sobrevivir durante un mes.
+
+41
+00:08:03,227 --> 00:08:06,064
+El decano es como el alcalde del valle.
+
+42
+00:08:06,191 --> 00:08:08,515
+Controla la mayor parte de la región.
+
+43
+00:08:08,984 --> 00:08:11,902
+Aquí forman a los futuros Bill Gattes.
+
+44
+00:08:14,239 --> 00:08:15,484
+¿Futuros qué?
+
+45
+00:08:17,159 --> 00:08:20,031
+Futuros... Bill Gaites.
+
+46
+00:08:23,932 --> 00:08:25,232
+Bill Gates.
+
+47
+00:09:14,219 --> 00:09:16,676
+¿El hospital forma parte de la
+universidad?
+
+48
+00:09:16,764 --> 00:09:19,256
+Acoge a cualquier persona de la zona.
+
+49
+00:09:19,435 --> 00:09:21,344
+Nos atienden gratis a todos.
+
+50
+00:09:21,437 --> 00:09:23,228
+Trabajamos mucho con ellos.
+
+51
+00:09:25,523 --> 00:09:27,563
+Hay hasta un ala de maternidad.
+
+52
+00:09:41,416 --> 00:09:45,330
+Éste es el inspector Niemans. Va a
+colaborar con nosotros en este caso.
+
+53
+00:09:45,420 --> 00:09:48,125
+Asistí a sus clases de criminología en
+1987.
+
+54
+00:09:48,257 --> 00:09:49,631
+¿Ha empezado ya?
+
+55
+00:09:49,716 --> 00:09:51,424
+No he cortado la cuerda.
+
+56
+00:09:51,593 --> 00:09:52,791
+¿Podemos mirar?
+
+57
+00:09:52,886 --> 00:09:56,504
+Pensé que querrían verlo intacto.
+Es increíble.
+
+58
+00:09:56,682 --> 00:09:58,888
+El trabajo de un auténtico demente.
+
+59
+00:09:59,851 --> 00:10:02,010
+Intentó ponerlo en posición fetal.
+
+60
+00:10:02,604 --> 00:10:04,016
+¿En posición qué?
+
+61
+00:10:04,524 --> 00:10:08,142
+Fetal. Como un feto
+en el vientre de su madre.
+
+62
+00:10:31,218 --> 00:10:33,626
+Lleva muerto 48 horas.
+
+63
+00:10:34,806 --> 00:10:37,593
+El examen revela señales de
+incisiones...
+
+64
+00:10:38,059 --> 00:10:41,725
+...en hombros, brazos, codos y muslos...
+
+65
+00:10:42,231 --> 00:10:45,147
+...realizadas con un instrumento
+afilado. Una cuchilla.
+
+66
+00:10:45,233 --> 00:10:47,142
+¿Puede cortar la cuerda?
+
+67
+00:10:50,906 --> 00:10:52,733
+Cuatro costillas rotas.
+
+68
+00:10:52,908 --> 00:10:56,443
+Los brazos están rotos
+a la altura de los hombros y los codos.
+
+69
+00:10:56,536 --> 00:11:00,393
+Múltiples fracturas: tibia, cadera...
+
+70
+00:11:00,603 --> 00:11:02,373
+Haré un informe detallado.
+
+71
+00:11:02,919 --> 00:11:07,130
+Le amputaron las manos antes de morir,
+con un hacha...
+
+72
+00:11:07,298 --> 00:11:11,344
+...le cauterizaron los muñones
+para evitar que muriera desangrado.
+
+73
+00:11:12,304 --> 00:11:15,838
+Es evidente que el asesino
+quería mantener viva a su víctima.
+
+74
+00:11:50,135 --> 00:11:52,045
+Yo que usted no haría eso...
+
+75
+00:11:52,180 --> 00:11:54,586
+Le extirpó los ojos como un cirujano...
+
+76
+00:11:56,308 --> 00:11:58,467
+...que opera a un paciente vivo.
+
+77
+00:11:59,353 --> 00:12:01,262
+¿Qué diablos es esta mierda?
+
+78
+00:12:01,396 --> 00:12:05,443
+Las cuencas estaban llenas de lluvia.
+La están analizando.
+
+79
+00:12:05,694 --> 00:12:09,739
+Hay un buen oculista en Guernon.
+Tal vez arroje algo de luz al respecto.
+
+80
+00:12:12,283 --> 00:12:14,111
+¿Cuánto tardó en morir?
+
+81
+00:12:16,121 --> 00:12:19,371
+Tendría que abrirlo,
+pero diría que unas cinco horas.
+
+82
+00:12:22,336 --> 00:12:24,743
+El tamaño y precisión de las heridas...
+
+83
+00:12:25,088 --> 00:12:28,873
+...indican que quería que su víctima
+estuviera consciente...
+
+84
+00:12:29,177 --> 00:12:31,847
+...pero con el mayor sufrimiento
+posible.
+
+85
+00:12:44,234 --> 00:12:47,438
+Comprueben todas las prisiones,
+manicomios y sectas.
+
+86
+00:12:47,572 --> 00:12:49,778
+Todas las sendas,
+refugios y pistas de esquí.
+
+87
+00:12:49,866 --> 00:12:52,114
+Realicen controles en todas las
+carreteras...
+
+88
+00:12:52,115 --> 00:12:54,361
+...en un radio de 160 kilómetros.
+
+89
+00:12:54,495 --> 00:12:58,908
+Busquen pruebas de mutilaciones
+similares en los últimos 20 años.
+
+90
+00:12:59,083 --> 00:13:02,251
+Hablen con posibles testigos
+y con los compañeros de Callois.
+
+91
+00:13:02,337 --> 00:13:04,579
+Con cualquiera que conociera su rutina.
+
+92
+00:13:04,673 --> 00:13:07,674
+Averigüen dónde ha llovido
+en los dos últimos días.
+
+93
+00:13:07,968 --> 00:13:12,297
+Busquen cualquier cosa: testigos,
+pistas... Disponen de dos horas.
+
+94
+00:13:43,797 --> 00:13:45,421
+Doctor CHERNEZE - OFTALMÓLOGO
+
+95
+00:14:19,01 --> 00:14:20,377
+¿Quién está ahí?
+
+96
+00:14:23,547 --> 00:14:24,876
+¿Quién está ahí?
+
+97
+00:14:26,885 --> 00:14:28,344
+¿Quién es?
+
+98
+00:14:29,303 --> 00:14:30,419
+¡Diga algo!
+
+99
+00:14:32,474 --> 00:14:33,518
+¡Doctor!
+
+100
+00:14:34,810 --> 00:14:36,268
+- ¿Quién eres?
+- ¿Qué pasa?
+
+101
+00:14:36,561 --> 00:14:38,555
+Saca al perro de aquí.
+
+102
+00:14:38,689 --> 00:14:41,475
+No pasa nada. Vete a casa. Todo va bien.
+
+103
+00:14:42,192 --> 00:14:43,567
+Hasta el martes.
+
+104
+00:14:45,280 --> 00:14:46,609
+¿Quién es usted?
+
+105
+00:14:46,697 --> 00:14:50,198
+Inspector Niemans.
+Perdone, los perros me dan pánico.
+
+106
+00:14:51,745 --> 00:14:54,661
+No hay que temer a los perros,
+sino a sus amos.
+
+107
+00:14:57,834 --> 00:14:59,660
+¿Qué puedo hacer por usted?
+
+108
+00:15:03,841 --> 00:15:06,509
+Estoy investigando la muerte
+de Remy Callois.
+
+109
+00:15:07,678 --> 00:15:09,172
+Algo he oído.
+
+110
+00:15:10,597 --> 00:15:11,877
+Es terrible.
+
+111
+00:15:13,934 --> 00:15:15,430
+¿Lo conocía?
+
+112
+00:15:16,104 --> 00:15:18,096
+Conocía a su padre.
+
+113
+00:15:18,982 --> 00:15:21,438
+Fuimos juntos a la universidad.
+
+114
+00:15:23,861 --> 00:15:26,068
+¿Dio usted clase en la universidad?
+
+115
+00:15:26,948 --> 00:15:28,442
+Durante 20 años.
+
+116
+00:15:29,450 --> 00:15:34,114
+Pero lo dejé en 1982.
+
+117
+00:15:36,334 --> 00:15:37,496
+¿Por qué?
+
+118
+00:15:39,462 --> 00:15:41,169
+Disparidad de criterios.
+
+119
+00:15:42,882 --> 00:15:44,162
+¿Con el decano?
+
+120
+00:15:44,341 --> 00:15:49,04
+No lo entiendo.
+¿Qué tengo yo que ver con Remy?
+
+121
+00:15:49,723 --> 00:15:53,173
+Quisiera que me diera su opinión
+sobre unas fotos.
+
+122
+00:15:58,023 --> 00:15:59,732
+¿Fue torturado?
+
+123
+00:16:00,276 --> 00:16:01,853
+Durante varias horas.
+
+124
+00:16:03,362 --> 00:16:04,855
+¡Qué horror...!
+
+125
+00:16:07,867 --> 00:16:09,444
+No lo sabía.
+
+126
+00:16:14,123 --> 00:16:15,666
+¿No tiene manos?
+
+127
+00:16:15,834 --> 00:16:17,245
+Ni ojos.
+
+128
+00:16:17,461 --> 00:16:21,043
+Por eso estoy aquí.
+Para comprender estas mutilaciones.
+
+129
+00:16:21,214 --> 00:16:23,06
+¿Cómo podría saberlo yo?
+
+130
+00:16:23,675 --> 00:16:25,383
+¿Cuál es su especialidad?
+
+131
+00:16:25,802 --> 00:16:28,886
+Enfermedades genéticas
+relacionadas con la vista.
+
+132
+00:16:30,391 --> 00:16:34,471
+Enfermedades hereditarias que se
+transmiten de unas generaciones a otras.
+
+133
+00:16:34,937 --> 00:16:38,388
+Se dan en zonas aisladas,
+y con la universidad...
+
+134
+00:16:38,566 --> 00:16:40,024
+¿Qué pasa con la universidad?
+
+135
+00:16:40,109 --> 00:16:43,644
+Los profesores llevan años
+casándose entre sí.
+
+136
+00:16:43,904 --> 00:16:46,823
+Las líneas de sangre son débiles,
+no se regeneran.
+
+137
+00:16:47,784 --> 00:16:50,192
+Los problemas genéticos se multiplican.
+
+138
+00:16:51,705 --> 00:16:53,911
+El precio de pertenecer a la élite.
+
+139
+00:16:54,165 --> 00:16:57,748
+Pensaba que los hijos de los profesores
+eran superdotados.
+
+140
+00:16:58,920 --> 00:17:00,332
+Y algunos lo son.
+
+141
+00:17:00,965 --> 00:17:02,459
+No entiendo.
+
+142
+00:17:05,761 --> 00:17:07,920
+Con las dos últimas generaciones...
+
+143
+00:17:08,180 --> 00:17:10,339
+...se ha invertido la situación.
+
+144
+00:17:11,809 --> 00:17:14,765
+Los niños nacidos en la montaña
+están enfermando.
+
+145
+00:17:15,939 --> 00:17:17,978
+Como el niño que acaba de ver.
+
+146
+00:17:22,195 --> 00:17:26,905
+¿Podría haber una conexión entre
+las mutilaciones y las enfermedades?
+
+147
+00:17:29,995 --> 00:17:34,123
+Las manos y los ojos son las partes
+que nos distinguen a unos de otros.
+
+148
+00:17:35,584 --> 00:17:38,752
+No hay dos iguales, como el ADN.
+
+149
+00:17:39,171 --> 00:17:42,587
+Son nuestra identidad biológica.
+
+150
+00:17:45,178 --> 00:17:48,345
+El asesino le está dando pistas
+sobre su móvil.
+
+151
+00:17:52,811 --> 00:17:54,970
+Y empieza a dar puñaladas.
+
+152
+00:17:55,147 --> 00:17:57,684
+¡Apuñala al perro, apuñala al tipo...
+
+153
+00:17:58,274 --> 00:18:01,194
+...toma la bolsa
+y tira el cuchillo debajo del coche!
+
+154
+00:18:01,279 --> 00:18:03,769
+¡Creeme, París está lleno de
+psicópatas!
+
+155
+00:18:03,864 --> 00:18:05,193
+¡El metro! ¡La policía!
+
+156
+00:18:05,282 --> 00:18:08,403
+¡Robocops!
+"¡Enséñeme su billete, por favor!"
+
+157
+00:18:08,578 --> 00:18:11,115
+¡Qué diablos!
+¡Yo estoy contento con mis vacas!
+
+158
+00:18:11,205 --> 00:18:15,951
+¡Soy feliz aquí! ¡Aire fresco!
+Esto es increíble.
+
+159
+00:18:16,127 --> 00:18:18,121
+¡Echa un vistazo a mis vacas!
+
+160
+00:18:18,381 --> 00:18:20,05
+París da asco.
+
+161
+00:18:24,386 --> 00:18:26,296
+¡Los niños la están cagando!
+
+162
+00:18:28,307 --> 00:18:30,514
+- ¡Es la Policía Montada!
+- Hola, chicos.
+
+163
+00:18:30,602 --> 00:18:32,476
+- ¿Qué tal?
+- ¿Qué pasa?
+
+164
+00:18:32,646 --> 00:18:34,768
+Tranquilos...
+
+165
+00:18:35,482 --> 00:18:36,976
+¿Nos podemos ir ya?
+
+166
+00:18:38,776 --> 00:18:40,733
+¡Buena cacería de ardillas!
+
+167
+00:19:07,974 --> 00:19:09,515
+¿Quieres una pitada?
+
+168
+00:19:11,770 --> 00:19:12,885
+¿Fumas?
+
+169
+00:19:13,898 --> 00:19:16,186
+- De toda la vida.
+- ¡Antes no fumabas!
+
+170
+00:19:16,358 --> 00:19:17,769
+Ahora sí.
+
+171
+00:19:18,194 --> 00:19:19,902
+Fumas estando de servicio.
+
+172
+00:19:19,987 --> 00:19:21,398
+Él también.
+
+173
+00:19:21,572 --> 00:19:23,280
+Él es un superior.
+
+174
+00:19:23,449 --> 00:19:24,860
+¿Y tú qué eres?
+
+175
+00:19:25,367 --> 00:19:29,200
+¡Harry y Sally!
+¿Por qué han venido a por mí?
+
+176
+00:19:29,372 --> 00:19:31,614
+Han robado en el cementerio esta noche.
+
+177
+00:19:31,708 --> 00:19:33,451
+Se dice "profanado".
+
+178
+00:19:33,626 --> 00:19:36,164
+También han profanado
+la escuela de primaria.
+
+179
+00:19:36,254 --> 00:19:38,411
+Se dice "asaltado", idiota.
+
+180
+00:19:38,923 --> 00:19:41,545
+¡Dos en un día! ¡De nuevo al tajo,
+chicos!
+
+181
+00:19:42,177 --> 00:19:45,962
+Empecemos por el cementerio.
+Hoy estoy de buen humor.
+
+182
+00:19:46,599 --> 00:19:48,057
+Pásame el canuto.
+
+183
+00:19:49,476 --> 00:19:51,101
+- ¿Qué pasa ahora?
+- ¡Nada!
+
+184
+00:19:51,186 --> 00:19:53,345
+- Estás enfadado.
+- ¡Porque estás fumando!
+
+185
+00:19:53,439 --> 00:19:55,431
+¿Me enfado yo cuando tú bebes?
+
+186
+00:19:55,524 --> 00:19:57,897
+¡Dejence de idioteces!
+Parecen dos putas viejas.
+
+187
+00:20:11,124 --> 00:20:14,576
+Han venido por lo de la profanación.
+Síganme.
+
+188
+00:20:15,254 --> 00:20:16,369
+Puedo yo.
+
+189
+00:20:16,463 --> 00:20:18,421
+Es el mausoleo de la chica.
+
+190
+00:20:18,924 --> 00:20:21,415
+El único mausoleo del cementerio.
+
+191
+00:20:22,720 --> 00:20:24,629
+Cuando llegué esta mañana...
+
+192
+00:20:25,889 --> 00:20:28,216
+...me encontré con esto.
+
+193
+00:20:29,185 --> 00:20:33,978
+Son esos skins.
+¡Siempre andan merodeando por aquí!
+
+194
+00:20:36,652 --> 00:20:39,818
+- ¿Tenemos skins?
+- No son skins. Son sólo niños.
+
+195
+00:20:40,154 --> 00:20:43,074
+- ¿Niños skins?
+- No, simples niños.
+
+196
+00:20:45,077 --> 00:20:46,702
+¿Había ocurrido antes?
+
+197
+00:20:46,787 --> 00:20:48,828
+Es la primera vez.
+
+198
+00:21:02,720 --> 00:21:05,128
+"1972-1982."
+
+199
+00:21:06,183 --> 00:21:08,305
+No vivió demasiado.
+
+200
+00:21:10,311 --> 00:21:13,148
+¡Deténgase! No tiene derecho.
+
+201
+00:21:13,315 --> 00:21:16,399
+Necesita el consentimiento de los
+padres. ¡Conozco la ley!
+
+202
+00:21:16,485 --> 00:21:18,728
+Tranquilo. No pasa nada.
+
+203
+00:21:18,905 --> 00:21:20,813
+¿Dónde puedo encontrar a los padres?
+
+204
+00:21:20,906 --> 00:21:23,196
+Su madre estaba loca.
+
+205
+00:21:23,493 --> 00:21:26,113
+Decía que el demonio
+había matado a su hija.
+
+206
+00:21:26,830 --> 00:21:27,768
+¿El demonio?
+
+207
+00:21:27,831 --> 00:21:29,077
+Lo que oye.
+
+208
+00:21:39,927 --> 00:21:41,636
+¿Dónde están esos skins?
+
+209
+00:21:41,805 --> 00:21:43,547
+En un almacén del pueblo.
+
+210
+00:21:43,931 --> 00:21:45,889
+Vamos a hacerles una pequeña visita.
+
+211
+00:21:45,975 --> 00:21:49,094
+Primero a la escuela.
+Nos espera la directora.
+
+212
+00:21:49,686 --> 00:21:50,729
+¿Qué le falta?
+
+213
+00:21:51,606 --> 00:21:54,607
+Nada. Por eso es tan raro.
+
+214
+00:21:55,067 --> 00:21:57,642
+No lo había visto antes. ¿Es usted
+nuevo?
+
+215
+00:21:58,572 --> 00:21:59,770
+¿Es tan evidente?
+
+216
+00:21:59,865 --> 00:22:02,106
+¿Qué ha hecho para acabar aquí?
+
+217
+00:22:02,283 --> 00:22:06,033
+Los policías son como los profesores.
+No siempre podemos elegir la escuela.
+
+218
+00:22:06,121 --> 00:22:09,822
+¡Dígamelo a mí!
+¡Llevo 14 años pidiendo el traslado!
+
+219
+00:22:09,958 --> 00:22:11,703
+Ahora es demasiado tarde.
+
+220
+00:22:18,092 --> 00:22:21,544
+Entraron por aquí,
+donde guardamos los archivos.
+
+221
+00:22:22,055 --> 00:22:24,758
+Fueron muy cuidadosos.
+
+222
+00:22:35,402 --> 00:22:37,810
+¿Está segura de que no falta nada?
+
+223
+00:22:37,905 --> 00:22:41,322
+Nada de nada. Lo comprobé esta mañana.
+¡Es tan extraño!
+
+224
+00:22:41,493 --> 00:22:42,867
+No lo entiendo.
+
+225
+00:22:43,661 --> 00:22:44,824
+De acuerdo.
+
+226
+00:22:47,165 --> 00:22:50,119
+Haga la denuncia en la comisaría esta
+tarde.
+
+227
+00:22:50,460 --> 00:22:52,168
+¿Ha acabado la investigación?
+
+228
+00:22:52,253 --> 00:22:55,124
+¿Qué puedo decir?
+Sin robo no hay investigación.
+
+229
+00:22:55,715 --> 00:22:57,839
+¡Que tenga un buen día! Adiós.
+
+230
+00:22:58,969 --> 00:23:00,379
+Adiós, detective.
+
+231
+00:23:00,553 --> 00:23:03,674
+"Detective" está anticuado.
+Ahora se dice "inspector".
+
+232
+00:23:17,280 --> 00:23:20,150
+¡Un momento! ¿Cuánto tiempo lleva aquí?
+
+233
+00:23:20,325 --> 00:23:21,985
+No tanto como cree.
+
+234
+00:23:22,118 --> 00:23:24,870
+Si le dijera un nombre, ¿le sonaría?
+
+235
+00:23:25,038 --> 00:23:26,118
+Pruebe.
+
+236
+00:23:26,290 --> 00:23:27,950
+Judith Herault.
+
+237
+00:23:28,751 --> 00:23:30,660
+¿Fue alumna mía?
+
+238
+00:23:30,836 --> 00:23:32,330
+Murió en 1982.
+
+239
+00:23:32,504 --> 00:23:35,209
+- ¿Quiere que lo compruebe?
+- Se lo agradecería.
+
+240
+00:23:35,884 --> 00:23:37,922
+¿Cree que puede haber relación?
+
+241
+00:23:38,343 --> 00:23:40,170
+Dígamelo usted.
+
+242
+00:23:42,849 --> 00:23:46,549
+Puede que sea la que murió atropellada.
+
+243
+00:23:46,728 --> 00:23:47,771
+¿Atropellada?
+
+244
+00:23:47,772 --> 00:23:51,305
+Murió en un accidente de carretera.
+Fue terrible.
+
+245
+00:23:51,482 --> 00:23:52,525
+¿Qué más sabe?
+
+246
+00:23:52,609 --> 00:23:56,310
+Fue un camión. La madre lo vio todo.
+Se volvió loca.
+
+247
+00:23:56,488 --> 00:23:58,612
+¿Dónde puedo encontrar a la madre?
+
+248
+00:23:58,700 --> 00:23:59,979
+¿Qué ocurre?
+
+249
+00:24:00,451 --> 00:24:04,283
+Han arrancado las páginas.
+Las páginas del 81 al 82.
+
+250
+00:24:04,956 --> 00:24:06,070
+¡Bingo!
+
+251
+00:24:06,707 --> 00:24:10,243
+¿Tiene fotos? Fotos de clase o algo así.
+
+252
+00:24:14,173 --> 00:24:16,132
+También faltan las fotos.
+
+253
+00:24:23,641 --> 00:24:25,053
+Enseguida vuelvo.
+
+254
+00:24:32,734 --> 00:24:34,016
+¿Qué pasa?
+
+255
+00:24:34,904 --> 00:24:36,943
+¿Hay algún policía de carretera?
+
+256
+00:24:37,030 --> 00:24:39,403
+Ni uno. Están todos comiendo.
+
+257
+00:24:41,120 --> 00:24:42,529
+¿Por qué?
+
+258
+00:24:42,787 --> 00:24:45,279
+Necesito cierta información. Soy
+policía.
+
+259
+00:24:47,375 --> 00:24:48,869
+¿Información sobre qué?
+
+260
+00:24:48,960 --> 00:24:52,543
+Un accidente que ocurrió
+en los alrededores hace 20 años.
+
+261
+00:24:53,548 --> 00:24:56,123
+Es su día de suerte.
+Me llaman "cavatumbas".
+
+262
+00:24:56,636 --> 00:25:00,051
+Durante los últimos 27 años he visto
+248, no, espere...
+
+263
+00:25:00,180 --> 00:25:02,754
+...249 accidentes mortales.
+
+264
+00:25:02,934 --> 00:25:05,969
+Sólo en esta parte de la carretera.
+¡30 kilómetros!
+
+265
+00:25:06,144 --> 00:25:09,146
+La policía y los bomberos
+acaparan toda la atención.
+
+266
+00:25:09,315 --> 00:25:11,806
+Pero nosotros somos
+los primeros en llegar.
+
+267
+00:25:11,901 --> 00:25:14,607
+Está todo aquí. ¿Qué desea saber?
+
+268
+00:25:14,780 --> 00:25:17,484
+- ¿Sabe utilizar eso?
+- ¿Usted qué cree?
+
+269
+00:25:17,657 --> 00:25:22,284
+Busco a los padres de una niña muerta
+en el 82. Judith Herault.
+
+270
+00:25:23,162 --> 00:25:24,955
+Me resulta familiar.
+
+271
+00:25:25,708 --> 00:25:28,164
+- Judith Herault...
+- H-E-R-A-U-L-T.
+
+272
+00:25:31,339 --> 00:25:34,790
+Buscar por nombre de víctima
+Judith Herault...
+
+273
+00:25:35,926 --> 00:25:37,172
+Aquí está...
+
+274
+00:25:38,846 --> 00:25:40,306
+"Judith Herault:
+
+275
+00:25:41,432 --> 00:25:45,846
+Punto kilométrico 98. Septiembre del
+82." ¿Es ésta la chica?
+
+276
+00:25:46,146 --> 00:25:47,604
+Así es.
+
+277
+00:25:47,855 --> 00:25:48,971
+Un momento.
+
+278
+00:25:50,692 --> 00:25:53,728
+1982. Ya me acuerdo.
+
+279
+00:25:55,198 --> 00:25:59,658
+Fue atropellada por un camión...
+
+280
+00:25:59,827 --> 00:26:00,870
+Eso es.
+
+281
+00:26:02,580 --> 00:26:04,868
+¡Vaya desorden!
+
+282
+00:26:05,040 --> 00:26:06,618
+Aquí está.
+
+283
+00:26:08,503 --> 00:26:11,837
+Éste es su expediente,
+con las declaraciones de la policía...
+
+284
+00:26:11,924 --> 00:26:16,420
+...fotografías, etc.
+Le advierto que las fotos son...
+
+285
+00:26:17,137 --> 00:26:18,418
+No se preocupe.
+
+286
+00:26:24,145 --> 00:26:25,556
+Ya se lo dije.
+
+287
+00:26:28,191 --> 00:26:30,563
+¡Santo cielo! ¿Qué ocurrió?
+
+288
+00:26:30,735 --> 00:26:33,819
+Un camión de 38 toneladas
+a 120 kilómetros por hora.
+
+289
+00:26:35,865 --> 00:26:37,573
+¿Cómo la identificaron?
+
+290
+00:26:37,742 --> 00:26:41,443
+Cuando llegamos,
+la madre estaba al lado de la carretera.
+
+291
+00:26:41,747 --> 00:26:43,953
+- Tenía en la mano...
+- ¿El qué?
+
+292
+00:26:44,875 --> 00:26:45,918
+Un dedo.
+
+293
+00:26:48,03 --> 00:26:51,288
+La única parte de su hija aún intacta.
+
+294
+00:26:54,052 --> 00:26:58,844
+Dijo que su hija salió corriendo
+e intentó cruzar la carretera.
+
+295
+00:26:59,015 --> 00:27:00,390
+Dios sabe qué ocurrió.
+
+296
+00:27:00,475 --> 00:27:02,633
+¿No tiene el teléfono de la madre?
+
+297
+00:27:02,727 --> 00:27:05,514
+¿Bromea? ¡Hace 20 años!
+
+298
+00:27:05,688 --> 00:27:08,560
+La compañía de seguros
+nos mandó una dirección...
+
+299
+00:27:08,817 --> 00:27:12,518
+...por si encontrábamos más pistas.
+
+300
+00:27:13,864 --> 00:27:15,323
+¡Esto es de locos!
+
+301
+00:29:08,069 --> 00:29:09,728
+¿El despacho del decano?
+
+302
+00:29:09,820 --> 00:29:11,730
+Por ahí, a la izquierda.
+
+303
+00:29:31,635 --> 00:29:33,212
+Quiero ver al decano.
+
+304
+00:29:33,595 --> 00:29:35,967
+Soy su ayudante. ¿En qué le puedo
+ayudar?
+
+305
+00:29:36,056 --> 00:29:38,180
+Lléveme ante el decano, ahora.
+
+306
+00:29:43,022 --> 00:29:44,397
+¿A quién anuncio?
+
+307
+00:29:44,482 --> 00:29:46,024
+Inspector Niemans.
+
+308
+00:29:48,569 --> 00:29:50,610
+El inspector Niemans está aquí.
+
+309
+00:29:53,825 --> 00:29:56,531
+Tome asiento. Sólo será un momento.
+
+310
+00:30:16,682 --> 00:30:20,596
+Soy esclavo de esta universidad.
+Nunca tengo tiempo suficiente.
+
+311
+00:30:21,062 --> 00:30:22,225
+¿Qué desea?
+
+312
+00:30:22,731 --> 00:30:24,770
+Investigo la muerte de Callois.
+
+313
+00:30:24,941 --> 00:30:27,017
+Ya hablé con el capitán Dahmane.
+
+314
+00:30:27,277 --> 00:30:29,602
+Hábleme de la vida privada de Remy.
+
+315
+00:30:29,779 --> 00:30:31,440
+¿Trabaja usted con Dahmane?
+
+316
+00:30:31,532 --> 00:30:35,363
+Ni con él ni sin él.
+Soy de una unidad especial.
+
+317
+00:30:38,331 --> 00:30:39,576
+Es usted...
+
+318
+00:30:40,458 --> 00:30:42,700
+No entiendo lo que pasó.
+
+319
+00:30:43,420 --> 00:30:46,040
+Remy nunca dio el más mínimo problema.
+
+320
+00:30:46,213 --> 00:30:50,507
+Era amable, trabajador.
+Sus padres eran amigos íntimos.
+
+321
+00:30:51,970 --> 00:30:54,925
+Continuó la labor de su padre
+en la biblioteca.
+
+322
+00:30:55,474 --> 00:30:56,849
+¿Estudió aquí?
+
+323
+00:30:57,017 --> 00:30:58,677
+Como la mayoría de nosotros.
+
+324
+00:30:58,768 --> 00:31:01,391
+Muchos alumnos nacen y crecen aquí.
+
+325
+00:31:01,564 --> 00:31:04,517
+Algunos se convierten en profesores
+como sus padres.
+
+326
+00:31:04,607 --> 00:31:06,519
+Es una especie de tradición.
+
+327
+00:31:06,945 --> 00:31:08,438
+Era el caso de Remy.
+
+328
+00:31:09,905 --> 00:31:12,694
+No tenía antecedentes penales.
+
+329
+00:31:12,951 --> 00:31:16,568
+Puede que hayamos pasado algo por alto
+que nos sea de ayuda.
+
+330
+00:31:16,704 --> 00:31:17,784
+¿Como qué?
+
+331
+00:31:19,249 --> 00:31:20,790
+Alguien que lo odiara.
+
+332
+00:31:20,875 --> 00:31:23,913
+Consumo de drogas, ideas religiosas...
+
+333
+00:31:24,088 --> 00:31:25,961
+Creo que no me ha entendido.
+
+334
+00:31:26,673 --> 00:31:30,672
+Esta universidad es una comunidad,
+un templo de conocimiento.
+
+335
+00:31:30,845 --> 00:31:34,295
+Aquí todo el mundo vive
+y trabaja en perfecta armonía.
+
+336
+00:31:34,598 --> 00:31:38,264
+Acusar a uno de nosotros
+es acusarnos a todos, incluyéndome a mí.
+
+337
+00:31:42,941 --> 00:31:44,814
+Quiero ver su apartamento.
+
+338
+00:31:45,901 --> 00:31:49,650
+Me temo que es imposible.
+Lo precintó la policía.
+
+339
+00:31:50,990 --> 00:31:53,399
+Aún así, quiero verlo.
+
+340
+00:31:56,454 --> 00:31:58,531
+Hubert, ven, por favor.
+
+341
+00:31:59,125 --> 00:32:01,248
+Por desgracia, no puedo acompañarlo.
+
+342
+00:32:01,335 --> 00:32:04,538
+Espero que no le importe
+que lo lleve mi hijo.
+
+343
+00:32:05,924 --> 00:32:09,542
+Como ya le he dicho,
+aquí la tradición es un modo de vida.
+
+344
+00:32:16,226 --> 00:32:18,847
+Llevamos tres años seguidos
+siendo elegidos "Mejor Universidad".
+
+345
+00:32:19,020 --> 00:32:22,188
+Incluso hemos contribuido a elevar
+la media nacional.
+
+346
+00:32:22,358 --> 00:32:24,629
+Sólo por curiosidad calculamos nuestro
+coeficiente...
+
+347
+00:32:24,630 --> 00:32:26,901
+...intelectual.
+A ver si lo adivina.
+
+348
+00:32:26,987 --> 00:32:28,232
+Veinticuatro.
+
+349
+00:32:28,864 --> 00:32:29,730
+¿Cómo?
+
+350
+00:32:29,824 --> 00:32:32,528
+Callois tenía la habitación 24.
+¿Tiene la llave?
+
+351
+00:32:32,618 --> 00:32:33,661
+No.
+
+352
+00:32:36,289 --> 00:32:38,578
+¿Tiene permiso para entrar?
+
+353
+00:32:53,015 --> 00:32:55,387
+¿Qué hacía en la biblioteca?
+
+354
+00:32:55,559 --> 00:32:59,142
+Se encargaba de los libros
+y de la distribución de los alumnos.
+
+355
+00:33:00,314 --> 00:33:02,105
+¿Distribución de los alumnos?
+
+356
+00:33:02,191 --> 00:33:06,106
+La tradición es sentarse
+todos los años en el mismo lugar.
+
+357
+00:33:06,404 --> 00:33:09,275
+Es beneficioso
+y evita tener que buscar sitio.
+
+358
+00:33:56,248 --> 00:33:59,250
+"Dominissimus. Simus serve.
+
+359
+00:34:00,211 --> 00:34:01,753
+"Ubicum que..."
+
+360
+00:34:01,879 --> 00:34:04,585
+"Somos los señores. Somos los esclavos.
+
+361
+00:34:04,758 --> 00:34:07,759
+Estamos en todas partes.
+No estamos en ninguna.
+
+362
+00:34:08,053 --> 00:34:10,175
+Controlamos los ríos de color púrpura."
+
+363
+00:34:11,682 --> 00:34:15,050
+Era su tesis doctoral.
+Llevaba años trabajando en ella.
+
+364
+00:34:27,448 --> 00:34:29,821
+- ¿Fanny Ferreira?
+- Ahí arriba.
+
+365
+00:34:57,272 --> 00:35:00,188
+- Tengo que irme.
+- Hasta mañana.
+
+366
+00:35:02,986 --> 00:35:04,564
+¿Fanny Ferreira?
+
+367
+00:35:06,364 --> 00:35:09,152
+¿Usted descubrió el cadáver
+de Remy Callois?
+
+368
+00:35:09,785 --> 00:35:11,066
+¿Quién es usted?
+
+369
+00:35:11,162 --> 00:35:14,495
+Pierre Niemans.
+Vengo de París para investigar.
+
+370
+00:35:16,917 --> 00:35:18,825
+¿Ahora París exporta policías?
+
+371
+00:35:19,671 --> 00:35:21,331
+Depende del caso.
+
+372
+00:35:23,133 --> 00:35:25,028
+¡Qué pena! Me gustan
+los ignorantes locales.
+
+373
+00:35:25,029 --> 00:35:27,344
+Me muero de risa con su seriedad.
+
+374
+00:35:27,429 --> 00:35:28,627
+Yo también.
+
+375
+00:35:29,431 --> 00:35:30,972
+¿Usted es diferente?
+
+376
+00:35:31,056 --> 00:35:35,138
+Eso es lo que intento desde hace
+25 años. Quizá usted me pueda ayudar.
+
+377
+00:35:35,396 --> 00:35:36,889
+Lo dudo.
+
+378
+00:35:37,231 --> 00:35:41,229
+No vi mucho. Escalé el acantilado
+dos veces antes de encontrarlo.
+
+379
+00:35:42,151 --> 00:35:43,860
+¿No leyó mi declaración?
+
+380
+00:35:46,156 --> 00:35:47,271
+¿Tenía...?
+
+381
+00:35:47,907 --> 00:35:51,658
+¿Tenía que ser fuerte el asesino
+para subir el cuerpo hasta ahí?
+
+382
+00:35:51,830 --> 00:35:53,406
+No necesariamente.
+
+383
+00:35:53,706 --> 00:35:57,870
+Con pericia y un buen equipo se puede
+subir cualquier cosa donde se desee.
+
+384
+00:36:03,550 --> 00:36:04,879
+¿Cómo era?
+
+385
+00:36:05,052 --> 00:36:08,255
+Un estúpido pedante.
+Como la mayoría de los estudiantes.
+
+386
+00:36:08,347 --> 00:36:10,505
+Estoy de acuerdo. Esto es muy...
+
+387
+00:36:10,683 --> 00:36:12,722
+- ¿Estricto?
+- Eso es.
+
+388
+00:36:12,893 --> 00:36:16,096
+Es un circuito de carreras cerrado
+para coches de alto nivel.
+
+389
+00:36:16,188 --> 00:36:17,848
+Cuando le has dado una vuelta...
+
+390
+00:36:17,940 --> 00:36:21,226
+He leído que es glacióloga.
+¿Qué hace exactamente?
+
+391
+00:36:21,403 --> 00:36:23,110
+Controlo avalanchas.
+
+392
+00:36:23,446 --> 00:36:26,981
+La escuela está en un valle,
+así que yo intento desviarlas.
+
+393
+00:36:27,158 --> 00:36:28,569
+Protege la escuela.
+
+394
+00:36:28,660 --> 00:36:29,940
+Hago mi trabajo.
+
+395
+00:36:30,036 --> 00:36:31,779
+- Como Remy Callois.
+- ¿Qué?
+
+396
+00:36:33,373 --> 00:36:36,825
+Estudió en la escuela y trabajó para
+ella, como Remy Callois.
+
+397
+00:36:37,378 --> 00:36:39,536
+- ¿Y qué?
+- Es parte del clan.
+
+398
+00:36:39,922 --> 00:36:40,964
+¿Qué clan?
+
+399
+00:36:41,06 --> 00:36:43,580
+La élite compuesta por hijos de
+profesores.
+
+400
+00:36:45,677 --> 00:36:48,632
+Estoy muy ocupada
+y no me gustan los uniformes.
+
+401
+00:36:48,973 --> 00:36:51,132
+Sus compañeros tienen mi teléfono.
+
+402
+00:37:00,985 --> 00:37:02,361
+Soy el patólogo.
+
+403
+00:37:02,528 --> 00:37:05,281
+Tengo los resultados del agua de los
+ojos.
+
+404
+00:37:05,449 --> 00:37:07,240
+Es agua de lluvia. Lluvia ácida.
+
+405
+00:37:07,326 --> 00:37:09,069
+- ¿Qué?
+- Es bastante común.
+
+406
+00:37:09,662 --> 00:37:12,947
+Pero lleva sin caer lluvia ácida
+desde los 70.
+
+407
+00:37:13,082 --> 00:37:14,955
+Y últimamente no ha llovido.
+
+408
+00:37:15,919 --> 00:37:17,376
+No lo entiendo.
+
+409
+00:38:03,344 --> 00:38:05,502
+- Hace un frío que pela.
+- Bajo cero.
+
+410
+00:38:16,607 --> 00:38:18,102
+Hola, hermana.
+
+411
+00:38:19,361 --> 00:38:21,686
+Soy oficial de policía.
+
+412
+00:38:21,864 --> 00:38:24,402
+¿Vive aquí una tal Sra. Herault?
+
+413
+00:38:28,036 --> 00:38:29,779
+¿Puedo preguntar por qué?
+
+414
+00:38:31,707 --> 00:38:34,661
+Lo siento. Me temo que no.
+No se lo puedo decir.
+
+415
+00:38:35,085 --> 00:38:37,494
+La hermana Andrée lleva aquí 17 años.
+
+416
+00:38:37,922 --> 00:38:40,495
+Se trata de un incidente bastante
+antiguo.
+
+417
+00:38:41,091 --> 00:38:43,01
+¿Sería posible verla?
+
+418
+00:38:45,388 --> 00:38:46,585
+Voy a ver.
+
+419
+00:38:46,763 --> 00:38:47,963
+Entren.
+
+420
+00:38:49,768 --> 00:38:51,179
+Esperen aquí.
+
+421
+00:39:02,282 --> 00:39:03,775
+Quítate la gorra...
+
+422
+00:39:12,333 --> 00:39:14,242
+¿Dónde creen que están?
+
+423
+00:39:14,669 --> 00:39:15,948
+¡Hijo mío!
+
+424
+00:39:17,05 --> 00:39:18,250
+Esperen aquí.
+
+425
+00:39:21,093 --> 00:39:23,216
+La hermana Andrée lo recibirá.
+
+426
+00:39:23,512 --> 00:39:25,837
+- Pero debo advertirle...
+- ¿Sobre qué?
+
+427
+00:39:26,014 --> 00:39:29,430
+Podrá hablar con ella, pero no podrá
+verla.
+
+428
+00:39:29,810 --> 00:39:32,302
+Podrá escucharla, pero no podrá
+acercarse.
+
+429
+00:39:32,397 --> 00:39:33,594
+¿Por qué no?
+
+430
+00:39:34,649 --> 00:39:36,357
+Las sombras, hijo mío.
+
+431
+00:39:36,734 --> 00:39:38,312
+¿Qué pasa con las sombras?
+
+432
+00:39:39,612 --> 00:39:42,281
+La hermana Andrée
+hizo el voto de sombras.
+
+433
+00:39:42,448 --> 00:39:44,856
+Hace 15 años que no la vemos.
+
+434
+00:40:00,968 --> 00:40:02,167
+Hermana...
+
+435
+00:40:10,978 --> 00:40:12,354
+¿Hermana Andrée?
+
+436
+00:40:13,314 --> 00:40:14,643
+¿Hermana?
+
+437
+00:40:16,985 --> 00:40:20,153
+Soy oficial de policía de Sarzac,
+cerca de aquí.
+
+438
+00:40:21,073 --> 00:40:23,315
+Su hija está enterrada ahí, ¿verdad?
+
+439
+00:40:26,954 --> 00:40:30,488
+Judith era su hija, ¿no?
+
+440
+00:40:34,212 --> 00:40:38,839
+Estoy aquí porque anoche
+alguien intentó abrir su tumba.
+
+441
+00:40:53,815 --> 00:40:55,359
+Han vuelto.
+
+442
+00:40:56,611 --> 00:40:57,772
+¿Quiénes?
+
+443
+00:40:59,071 --> 00:41:03,069
+Han vuelto para terminar su misión.
+
+444
+00:41:03,910 --> 00:41:05,653
+¿De quién habla?
+
+445
+00:41:06,538 --> 00:41:07,997
+De los demonios.
+
+446
+00:41:09,415 --> 00:41:13,912
+Quieren asegurarse de que Judith
+no les cause más problemas.
+
+447
+00:41:22,679 --> 00:41:25,847
+¿Así que fueron los demonios
+los que mataron a su hija?
+
+448
+00:41:26,725 --> 00:41:29,762
+¿Podría intentar ser un poco más
+explícita?
+
+449
+00:41:30,480 --> 00:41:33,516
+Llevo 18 años tratando de olvidarlo.
+
+450
+00:41:36,653 --> 00:41:38,112
+Anoche...
+
+451
+00:41:38,738 --> 00:41:40,113
+...sus demonios...
+
+452
+00:41:40,489 --> 00:41:44,321
+...entraron en el colegio
+y robaron la foto de la clase de Judith.
+
+453
+00:41:44,452 --> 00:41:47,123
+Necesito su ayuda para averiguar por
+qué.
+
+454
+00:41:48,333 --> 00:41:50,953
+Para borrar todos los rastros de mi
+niña.
+
+455
+00:41:53,337 --> 00:41:54,748
+¿Para qué?
+
+456
+00:41:56,590 --> 00:41:58,797
+Para proteger su secreto.
+
+457
+00:42:02,555 --> 00:42:03,801
+¿Qué secreto?
+
+458
+00:42:06,602 --> 00:42:09,518
+El rostro de Judith supone
+una amenaza para ellos.
+
+459
+00:42:15,067 --> 00:42:17,560
+Por favor, hermana. Lo siento, pero...
+
+460
+00:42:18,906 --> 00:42:23,485
+¿Puede contarme las circunstancias
+de la muerte de su hija?
+
+461
+00:42:24,162 --> 00:42:26,118
+Mi hija enfermó.
+
+462
+00:42:26,998 --> 00:42:29,619
+Fuimos al hospital en el que había
+nacido.
+
+463
+00:42:29,959 --> 00:42:32,580
+Entonces la atacaron los demonios.
+
+464
+00:42:33,672 --> 00:42:35,581
+Nos persiguieron.
+
+465
+00:42:36,425 --> 00:42:40,339
+Yo quería huir, desaparecer con mi hija.
+
+466
+00:42:41,555 --> 00:42:43,346
+Pero nos encontraron.
+
+467
+00:42:44,516 --> 00:42:46,675
+Nadie puede escapar de sus garras.
+
+468
+00:42:52,525 --> 00:42:55,016
+¿Dónde vivían antes de venirse a Sarzac?
+
+469
+00:42:57,947 --> 00:43:00,984
+La pesadilla comenzó en Guernon.
+
+470
+00:43:08,250 --> 00:43:11,500
+¿Intentó pedir ayuda a la policía?
+
+471
+00:43:11,670 --> 00:43:13,793
+Yo hablo de demonios...
+
+472
+00:43:14,464 --> 00:43:16,505
+...y usted habla de policía.
+
+473
+00:43:21,305 --> 00:43:24,176
+No hay nada que puedan hacer ustedes
+por mi niña.
+
+474
+00:43:25,810 --> 00:43:28,383
+Salve su alma mientras pueda.
+
+475
+00:43:31,817 --> 00:43:33,062
+Ahora, váyase.
+
+476
+00:43:36,071 --> 00:43:38,028
+No quiero recordar nada más.
+
+477
+00:43:40,867 --> 00:43:41,947
+Perdóneme.
+
+478
+00:44:06,687 --> 00:44:09,853
+Los glaciares se forman con la nieve
+acumulada durante años.
+
+479
+00:44:09,940 --> 00:44:12,313
+La nieve se convierte en hielo.
+
+480
+00:44:13,360 --> 00:44:16,362
+Cada estación
+tiene su estrato correspondiente.
+
+481
+00:44:18,450 --> 00:44:21,070
+Este glaciar mide
+200 metros de profundidad.
+
+482
+00:44:21,243 --> 00:44:24,115
+Es una enorme fuente de agua y energía.
+
+483
+00:44:26,874 --> 00:44:29,747
+El agua que lo compone tiene varios
+siglos.
+
+484
+00:44:35,593 --> 00:44:38,165
+¿Qué sentido tiene estudiar los
+glaciares?
+
+485
+00:44:38,678 --> 00:44:41,135
+La central eléctrica tiene un
+laboratorio.
+
+486
+00:44:41,224 --> 00:44:45,436
+El glaciar se va deslizando.
+Estudiamos el riesgo que representa.
+
+487
+00:45:59,765 --> 00:46:01,010
+Por aquí.
+
+488
+00:46:09,900 --> 00:46:12,226
+¿A qué profundidad tenemos que bajar?
+
+489
+00:46:12,903 --> 00:46:14,482
+Al menos a 30 metros.
+
+490
+00:46:17,909 --> 00:46:22,370
+¿Por qué me ha elegido a mí?
+Hay guías estupendos en la zona.
+
+491
+00:46:24,249 --> 00:46:27,534
+Dicen que usted es la mejor.
+Además, estaba disponible.
+
+492
+00:46:28,504 --> 00:46:31,042
+¿Reclutan civiles para buscar a
+asesinos?
+
+493
+00:46:32,925 --> 00:46:35,168
+Digamos que estoy saliendo con usted.
+
+494
+00:46:40,474 --> 00:46:42,846
+Póngase esto. No pise la cuerda.
+
+495
+00:47:06,836 --> 00:47:09,540
+Bienvenido a la máquina del tiempo,
+inspector.
+
+496
+00:47:29,860 --> 00:47:33,693
+Compararé este hielo
+con la lluvia ácida analizada.
+
+497
+00:47:45,711 --> 00:47:47,869
+Estamos a la profundidad adecuada.
+
+498
+00:47:51,217 --> 00:47:53,885
+Debe de habernos traído aquí
+por alguna razón.
+
+499
+00:47:55,095 --> 00:47:57,088
+Debe de haber una pista...
+
+500
+00:47:57,557 --> 00:47:58,755
+Un indicio.
+
+501
+00:48:04,189 --> 00:48:06,145
+¡Niemans, eso es peligroso!
+
+502
+00:48:22,500 --> 00:48:24,705
+No podemos quedarnos aquí.
+
+503
+00:48:25,544 --> 00:48:28,332
+En cualquier momento
+puede empezar a salir agua.
+
+504
+00:48:28,672 --> 00:48:30,380
+¿Qué hay ahí detrás?
+
+505
+00:48:31,09 --> 00:48:32,883
+Canales de agua naturales.
+
+506
+00:48:37,474 --> 00:48:38,849
+¿Qué hace?
+
+507
+00:48:41,352 --> 00:48:42,848
+¿Adónde va?
+
+508
+00:49:20,644 --> 00:49:21,807
+¿Dónde estamos?
+
+509
+00:49:21,896 --> 00:49:23,805
+En un canal intraglaciar...
+
+510
+00:49:24,356 --> 00:49:27,940
+...formado por el agua que alimenta
+a la central eléctrica.
+
+511
+00:49:29,863 --> 00:49:32,354
+No podemos quedarnos aquí. Es peligroso.
+
+512
+00:49:34,367 --> 00:49:35,648
+Vámonos.
+
+513
+00:49:42,793 --> 00:49:43,991
+¿Qué pasa?
+
+514
+00:50:33,305 --> 00:50:36,09
+¡La Brigada Ligera! ¿Qué va a ser,
+chicos?
+
+515
+00:50:36,182 --> 00:50:40,394
+Hoy nada.
+El Jefe quiere ver a tus inquilinos.
+
+516
+00:50:40,728 --> 00:50:42,307
+En la parte de atrás.
+
+517
+00:50:46,777 --> 00:50:48,485
+- ¿Qué pasa?
+- Yo también voy.
+
+518
+00:50:48,570 --> 00:50:51,109
+Quédate aquí. Hablaré yo con ellos.
+
+519
+00:50:53,909 --> 00:50:55,073
+¿Un tinto?
+
+520
+00:51:01,335 --> 00:51:02,663
+KLUB DE BOLAS DE PINTURA
+
+521
+00:51:11,720 --> 00:51:14,010
+SÓLO MEDIANTE LA FUERZA
+
+522
+00:51:19,270 --> 00:51:20,813
+Hola, caballeros.
+
+523
+00:51:22,189 --> 00:51:25,107
+Quisiera hablar con el encargado.
+
+524
+00:51:25,318 --> 00:51:28,604
+El pez gordo. El líder de su pequeño
+grupo.
+
+525
+00:51:28,780 --> 00:51:29,895
+¿Para qué?
+
+526
+00:51:30,241 --> 00:51:32,779
+Policía. Soy nuevo en la zona.
+
+527
+00:51:32,952 --> 00:51:35,621
+Inspector Max Kerkerian.
+Tengo algunas preguntas.
+
+528
+00:51:35,704 --> 00:51:39,286
+No se moleste. Lo conocemos.
+No hablamos con policías.
+
+529
+00:51:39,749 --> 00:51:41,411
+Hablaré yo.
+
+530
+00:51:43,630 --> 00:51:45,621
+¿Qué podemos hacer por usted?
+
+531
+00:51:46,548 --> 00:51:49,171
+¿Dónde estuvieron anoche?
+
+532
+00:51:50,220 --> 00:51:51,417
+¿Qué ocurre?
+
+533
+00:51:52,095 --> 00:51:55,716
+Unos chicos pintaron esvásticas
+en un mausoleo con un spray.
+
+534
+00:51:55,893 --> 00:51:57,434
+¿Por qué nos lo pregunta?
+
+535
+00:51:57,519 --> 00:51:59,062
+Skins, esvásticas...
+
+536
+00:51:59,146 --> 00:52:00,688
+Esvásticas, skins...
+
+537
+00:52:01,649 --> 00:52:03,724
+Aquí no hay esvásticas. ¿Ves alguna?
+
+538
+00:52:03,816 --> 00:52:05,775
+- ¿Alguna qué?
+- Esvásticas.
+
+539
+00:52:06,862 --> 00:52:07,977
+¡Kojak!
+
+540
+00:52:08,821 --> 00:52:10,151
+¿No son skins?
+
+541
+00:52:10,450 --> 00:52:11,493
+¿Y qué?
+
+542
+00:52:11,910 --> 00:52:14,945
+- Lo de la escuela, ¿no fueron ustedes?
+- ¿Qué escuela?
+
+543
+00:52:15,537 --> 00:52:19,239
+No nos has oído.
+No hablamos con policías. Lárgate.
+
+544
+00:52:19,417 --> 00:52:22,038
+- No fueron a la escuela.
+- ¿Y tú? ¿Qué escuela?
+
+545
+00:52:22,128 --> 00:52:24,702
+¿La escuela de sheriffs?
+¿Te crees gracioso?
+
+546
+00:52:24,881 --> 00:52:26,672
+- Tranquilo.
+- ¡No me toques!
+
+547
+00:52:26,758 --> 00:52:28,586
+El policía hace su trabajo.
+
+548
+00:52:29,094 --> 00:52:30,754
+Sólo hago mi trabajo.
+
+549
+00:52:30,929 --> 00:52:33,088
+¿Cuál es tu trabajo? ¿Molestarnos?
+
+550
+00:52:33,849 --> 00:52:36,305
+Sí. Mi trabajo es hacer enojar a tipos
+como tú.
+
+551
+00:52:36,393 --> 00:52:37,852
+¿Qué tipos?
+
+552
+00:52:38,228 --> 00:52:40,269
+- ¿Qué tipos?
+- Odio a los fascistas.
+
+553
+00:52:40,356 --> 00:52:43,061
+¿Has llegado a esa conclusión tú solito?
+
+554
+00:52:43,234 --> 00:52:45,108
+¡Tranquilo!
+
+555
+00:52:45,278 --> 00:52:46,523
+¿Qué busca?
+
+556
+00:52:46,696 --> 00:52:48,155
+¡No le sigas el juego!
+
+557
+00:52:48,239 --> 00:52:52,782
+Esto es propiedad privada.
+Más vale que se vaya. Conozco la ley.
+
+558
+00:52:53,244 --> 00:52:54,489
+¡Lárgate!
+
+559
+00:52:55,289 --> 00:52:56,664
+Gracias por su ayuda.
+
+560
+00:52:56,749 --> 00:53:00,793
+¡Los policías se creen tan listos! ¡Una
+pistola y una placa y sos los reyes!
+
+561
+00:53:00,878 --> 00:53:02,124
+¡Hijo de puta!
+
+562
+00:53:07,050 --> 00:53:08,794
+Mira esto, bola de grasa.
+
+563
+00:53:10,513 --> 00:53:14,428
+Sin pistola, sin placa. ¿Qué dijo?
+
+564
+00:53:14,601 --> 00:53:16,392
+¿Qué pasa? Ya no soy polcía.
+
+565
+00:53:16,811 --> 00:53:19,100
+¿Ya no es policía?
+¿El vaquero cabalga de nuevo?
+
+566
+00:53:19,188 --> 00:53:21,311
+No me toques. ¿Qué dijo?
+
+567
+00:53:21,649 --> 00:53:23,558
+- ¿Qué ha sido?
+- Hijo de puta.
+
+568
+00:53:23,901 --> 00:53:25,148
+Hijo de puta.
+
+569
+00:53:32,077 --> 00:53:35,244
+¡Mata a ese idiota! ¡Agárralo!
+
+570
+00:53:42,756 --> 00:53:45,081
+¿Qué pasó? ¡Max Kerkerian gana!
+
+571
+00:53:47,176 --> 00:53:49,751
+¿Has calentado? Ven por mí, idiota.
+
+572
+00:53:51,931 --> 00:53:53,176
+¡Vamos!
+
+573
+00:54:17,418 --> 00:54:18,995
+¡Puto de mierda!
+
+574
+00:54:20,628 --> 00:54:21,671
+¡Toma!
+
+575
+00:54:24,217 --> 00:54:26,125
+¡Cuidado, tiene un arma!
+
+576
+00:54:29,305 --> 00:54:30,348
+¡Alto!
+
+577
+00:54:34,477 --> 00:54:36,635
+¿Me has apuntado con una pistola?
+
+578
+00:54:39,816 --> 00:54:41,644
+¡Basta, no fuimos nosotros!
+
+579
+00:54:44,320 --> 00:54:45,363
+¿El qué?
+
+580
+00:54:45,446 --> 00:54:47,606
+Lo de ayer a la noche en el cementerio.
+
+581
+00:54:48,158 --> 00:54:50,364
+Vimos a un tipo en un Lada blanco.
+
+582
+00:54:52,246 --> 00:54:53,955
+¿Por qué no dijeron nada?
+
+583
+00:54:54,040 --> 00:54:55,782
+¡No ha preguntado!
+
+584
+00:55:03,758 --> 00:55:06,842
+La próxima vez que saques un arma,
+mira que tenga balas.
+
+585
+00:55:06,928 --> 00:55:08,041
+Idiota.
+
+586
+00:55:19,232 --> 00:55:21,142
+- Un vino estupendo.
+- Con mucho cuerpo.
+
+587
+00:55:21,235 --> 00:55:23,857
+Un bouquet excelente.
+Realmente sensacional.
+
+588
+00:55:26,658 --> 00:55:28,615
+- ¿Qué ha ocurrido?
+- No fueron ellos.
+
+589
+00:55:28,701 --> 00:55:30,694
+Nunca nos han dado problemas.
+
+590
+00:55:36,00 --> 00:55:37,042
+Ahora sí.
+
+591
+00:55:38,962 --> 00:55:40,243
+¿Qué demonios?
+
+592
+00:55:40,631 --> 00:55:43,121
+¡Hijo de puta! ¡Ven aquí!
+
+593
+00:55:43,341 --> 00:55:45,169
+¡Te arrepentirás!
+
+594
+00:55:45,511 --> 00:55:46,921
+¡Idiota!
+
+595
+00:55:48,472 --> 00:55:50,429
+¡Idiota!
+
+596
+00:55:55,396 --> 00:55:56,855
+¿Qué está pasando?
+
+597
+00:55:57,190 --> 00:55:58,767
+¡Las llaves!
+
+598
+00:56:00,360 --> 00:56:03,859
+Una lista de todos los Lada blancos
+de la zona. ¡De todos y cada uno!
+
+599
+00:56:03,946 --> 00:56:06,354
+En una hora. Llamadme por radio.
+
+600
+00:56:08,202 --> 00:56:09,826
+De todos los Lada blancos.
+
+601
+00:56:09,912 --> 00:56:11,406
+- ¿Qué coches?
+- Lada.
+
+602
+00:56:12,206 --> 00:56:13,368
+¿Cómo se escribe?
+
+603
+00:56:13,457 --> 00:56:15,533
+- Ni idea.
+- Di algo.
+
+604
+00:56:16,793 --> 00:56:17,873
+¿L-A-D-A?
+
+605
+00:56:31,601 --> 00:56:32,643
+Tome.
+
+606
+00:56:34,562 --> 00:56:35,726
+¿Cómo le va?
+
+607
+00:56:36,856 --> 00:56:37,647
+Bien.
+
+608
+00:56:37,648 --> 00:56:39,642
+Siento haberla metido en esto.
+
+609
+00:56:43,697 --> 00:56:45,736
+¿Cree que es un asesino en serie?
+
+610
+00:56:45,824 --> 00:56:48,944
+No, un asesino en serie mata para
+existir.
+
+611
+00:56:49,119 --> 00:56:51,871
+Diría que se trata de un puntero.
+
+612
+00:56:52,039 --> 00:56:53,203
+¿Un puntero?
+
+613
+00:56:53,459 --> 00:56:55,201
+Vamos hacia donde apunta.
+
+614
+00:56:57,03 --> 00:56:58,414
+¿Para qué?
+
+615
+00:56:58,839 --> 00:56:59,954
+¿Para qué?
+
+616
+00:57:01,507 --> 00:57:05,173
+O está apuntando
+en una dirección que no entiendo...
+
+617
+00:57:05,304 --> 00:57:06,345
+¿O...?
+
+618
+00:57:07,138 --> 00:57:08,681
+O está jugando con nosotros.
+
+619
+00:57:08,765 --> 00:57:09,880
+Inspector.
+
+620
+00:57:11,561 --> 00:57:13,517
+Hemos identificado el cuerpo.
+
+621
+00:57:14,187 --> 00:57:15,350
+Discúlpeme.
+
+622
+00:57:40,967 --> 00:57:42,508
+¿Me recibe, jefe?
+
+623
+00:57:44,177 --> 00:57:45,376
+¿Ha encontrado algo?
+
+624
+00:57:45,471 --> 00:57:49,764
+Hemos encontrado todos los Lada.
+Hay 132 en la región.
+
+625
+00:57:51,394 --> 00:57:52,889
+¿Qué hacemos ahora?
+
+626
+00:57:55,189 --> 00:57:58,642
+¿Alguno en un pueblo llamado Guernon,
+con "G"?
+
+627
+00:57:58,819 --> 00:58:00,894
+¿Guernon?
+
+628
+00:58:01,571 --> 00:58:03,860
+Guernon, sí. Un Lada blanco.
+
+629
+00:58:05,533 --> 00:58:06,861
+Dame el nombre.
+
+630
+00:58:07,327 --> 00:58:10,863
+Pertenece a Philip Sertys.
+
+631
+00:58:13,333 --> 00:58:15,291
+Buen trabajo. Luego hablamos.
+
+632
+00:58:22,970 --> 00:58:25,461
+¡No me haga esto, hijo de puta!
+
+633
+00:58:25,889 --> 00:58:27,134
+Maldito...
+
+634
+00:58:27,724 --> 00:58:29,183
+¡Mierda!
+
+635
+00:58:29,433 --> 00:58:30,476
+¡Maldición!
+
+636
+00:58:46,077 --> 00:58:49,280
+Se llama Philip Sertys. Se graduó aquí.
+
+637
+00:58:49,789 --> 00:58:52,625
+29 años, soltero. Se doctoró a los 25.
+
+638
+00:58:53,043 --> 00:58:55,119
+Trabajó en el ala de maternidad.
+
+639
+00:58:55,879 --> 00:58:58,417
+- ¿Vivía en el campus?
+- No, en el pueblo.
+
+640
+00:58:58,590 --> 00:59:00,215
+¿Tiene su dirección?
+
+641
+00:59:01,176 --> 00:59:02,884
+¿Qué quiere exactamente?
+
+642
+00:59:04,012 --> 00:59:05,720
+Comprender.
+
+643
+00:59:09,852 --> 00:59:10,895
+Gracias.
+
+644
+00:59:13,689 --> 00:59:15,896
+¡A trabajar!
+
+645
+01:00:52,544 --> 01:00:54,702
+Levántate, despacio y sin trucos.
+
+646
+01:00:59,885 --> 01:01:02,423
+- ¡No te muevas!
+- Soy policía.
+
+647
+01:01:02,597 --> 01:01:04,387
+¡He dicho que soy policía!
+
+648
+01:01:07,561 --> 01:01:08,603
+Despacio.
+
+649
+01:01:12,398 --> 01:01:14,771
+- ¡Dame el arma, idiota!
+- ¡No te muevas!
+
+650
+01:01:14,860 --> 01:01:16,898
+Estás detenido. ¡Soy policía!
+
+651
+01:01:18,362 --> 01:01:19,644
+Dame el arma.
+
+652
+01:01:19,823 --> 01:01:22,361
+¿Enseñan a forzar puertas en la
+Academia?
+
+653
+01:01:22,534 --> 01:01:23,779
+Muy gracioso.
+
+654
+01:01:26,914 --> 01:01:28,372
+Inspector Niemans.
+
+655
+01:01:29,499 --> 01:01:31,078
+- ¿Pierre Niemans?
+- Sí.
+
+656
+01:01:31,544 --> 01:01:33,749
+Perdón. Podría haberlo dicho antes.
+
+657
+01:01:34,045 --> 01:01:36,503
+- ¿Qué haces aquí?
+- Ver a un sospechoso.
+
+658
+01:01:37,592 --> 01:01:38,873
+¿Cómo se llama?
+
+659
+01:01:39,136 --> 01:01:40,380
+Philip Sertys.
+
+660
+01:01:41,512 --> 01:01:42,628
+¿Por qué?
+
+661
+01:01:44,099 --> 01:01:45,474
+¿Pierre Niemans?
+
+662
+01:01:50,398 --> 01:01:52,105
+¡Una técnica excelente!
+
+663
+01:01:53,526 --> 01:01:54,985
+¿Qué busca?
+
+664
+01:01:59,615 --> 01:02:00,896
+No toques nada.
+
+665
+01:02:01,492 --> 01:02:03,697
+Relájese. ¿Puedo al menos respirar?
+
+666
+01:02:08,125 --> 01:02:10,163
+Le encantan los perros.
+
+667
+01:02:28,771 --> 01:02:29,850
+Judith...
+
+668
+01:02:34,401 --> 01:02:37,154
+Hablamos de alguien
+obsesionado con los perros.
+
+669
+01:02:46,623 --> 01:02:47,666
+¡Espera!
+
+670
+01:02:49,543 --> 01:02:51,335
+¿Qué pasa? ¡Vamos!
+
+671
+01:02:53,923 --> 01:02:55,714
+¡No puedo creerlo!
+
+672
+01:02:55,883 --> 01:02:58,208
+¡Al superpolicía lo asustan los perros!
+
+673
+01:02:59,470 --> 01:03:01,379
+No se preocupe. Vamos.
+
+674
+01:03:01,555 --> 01:03:02,966
+Ven aquí, bonito.
+
+675
+01:03:03,849 --> 01:03:04,965
+¡Cuidado!
+
+676
+01:03:09,147 --> 01:03:11,187
+¡A lo mejor ése muerde!
+
+677
+01:03:15,779 --> 01:03:18,352
+- ¿Vas a parar de cotorrear?
+- Sólo bromeaba.
+
+678
+01:03:20,910 --> 01:03:22,534
+¡Hijos de puta!
+
+679
+01:03:30,169 --> 01:03:31,712
+¿Sabe qué es esto?
+
+680
+01:03:32,339 --> 01:03:36,383
+El laboratorio de un tipo
+que experimenta con perros.
+
+681
+01:03:36,509 --> 01:03:39,427
+Utiliza la genética
+para crear un perro de pelea perfecto.
+
+682
+01:03:39,512 --> 01:03:41,422
+Cuenta con todo el equipamiento.
+
+683
+01:03:41,514 --> 01:03:42,557
+Mire...
+
+684
+01:03:45,352 --> 01:03:47,261
+¡Qué asco!
+
+685
+01:03:48,313 --> 01:03:49,560
+¿Lo ha visto?
+
+686
+01:03:51,901 --> 01:03:53,099
+¿Adónde va?
+
+687
+01:03:54,028 --> 01:03:55,309
+¿Adónde va?
+
+688
+01:03:56,364 --> 01:03:58,023
+A ver a tu sospechoso.
+
+689
+01:03:58,532 --> 01:03:59,777
+¿Sabe dónde está?
+
+690
+01:04:07,835 --> 01:04:09,542
+Bueno, ¿adónde vamos?
+
+691
+01:04:13,966 --> 01:04:15,708
+¿Por qué buscas a Sertys?
+
+692
+01:04:16,342 --> 01:04:17,968
+Profanación. ¿Y usted?
+
+693
+01:04:20,098 --> 01:04:21,176
+¿Dónde?
+
+694
+01:04:21,765 --> 01:04:24,222
+En Sarzac, a unos 200 kilómetros de
+aquí.
+
+695
+01:04:24,311 --> 01:04:26,019
+¿Por qué lo busca usted?
+
+696
+01:04:26,104 --> 01:04:27,146
+Sarzac.
+
+697
+01:04:29,399 --> 01:04:31,107
+¿Dónde está el mechero?
+
+698
+01:04:34,154 --> 01:04:36,990
+¿Nunca responde a las preguntas
+o es por mí?
+
+699
+01:04:41,579 --> 01:04:43,121
+Gira a la izquierda.
+
+700
+01:04:45,081 --> 01:04:47,454
+De acuerdo, jefe. Giro a la izquierda.
+
+701
+01:04:49,671 --> 01:04:51,876
+Nos lo vamos a pasar bomba.
+
+702
+01:04:54,467 --> 01:04:56,340
+- ¿Señor?
+- Viene conmigo.
+
+703
+01:04:56,885 --> 01:04:57,929
+¿Y bien?
+
+704
+01:04:58,555 --> 01:05:02,172
+El mismo método de estrangulamiento.
+El mismo asesino. Estoy seguro.
+
+705
+01:05:02,266 --> 01:05:04,095
+Pero éste no fue torturado.
+
+706
+01:05:04,186 --> 01:05:05,645
+¿Lo de las manos no es tortura?
+
+707
+01:05:05,730 --> 01:05:07,887
+Se las cortaron después de muerto.
+
+708
+01:05:08,398 --> 01:05:09,893
+No entiendo nada.
+
+709
+01:05:10,234 --> 01:05:13,437
+Lo que yo no entiendo es
+por qué tiene todavía los ojos.
+
+710
+01:05:13,696 --> 01:05:15,688
+- ¿Ha empezado la autopsia?
+- Aún no.
+
+711
+01:05:15,781 --> 01:05:17,441
+No hay heridas.
+
+712
+01:05:19,411 --> 01:05:21,320
+Debe de haber algún indicio.
+
+713
+01:05:22,914 --> 01:05:24,492
+¿Qué tipo de indicio?
+
+714
+01:05:24,833 --> 01:05:27,999
+No estoy seguro, pero sé que está ahí.
+
+715
+01:05:28,837 --> 01:05:30,331
+Tenemos que buscar.
+
+716
+01:05:32,131 --> 01:05:33,378
+Un momento...
+
+717
+01:05:34,093 --> 01:05:35,801
+Pinzas, por favor.
+
+718
+01:06:08,170 --> 01:06:09,712
+No van a creerlo.
+
+719
+01:06:11,048 --> 01:06:14,298
+Ojos de cristal. Como en la consulta
+de un oftalmólogo...
+
+720
+01:06:14,468 --> 01:06:16,461
+...o en una facultad de medicina.
+
+721
+01:06:18,431 --> 01:06:21,931
+Reúna a sus hombres
+y espérenme en la oficina de Cherneze.
+
+722
+01:06:22,185 --> 01:06:24,094
+¡Dígame lo que ocurre!
+
+723
+01:06:24,270 --> 01:06:26,062
+¿A mí me lo pregunta?
+
+724
+01:06:29,734 --> 01:06:31,940
+¿Puedo saber adónde va?
+
+725
+01:06:32,111 --> 01:06:34,401
+No te metas. Espérame en comisaría.
+
+726
+01:06:34,573 --> 01:06:37,740
+¡Está de broma!
+¡Él es mi testigo tanto como el suyo!
+
+727
+01:06:37,910 --> 01:06:41,195
+No he llegado hasta aquí
+para irme con las manos vacías.
+
+728
+01:06:41,372 --> 01:06:45,369
+Esto no es un juego de niños.
+No puedo ser tu profesor.
+
+729
+01:06:45,667 --> 01:06:48,872
+¡Deje de actuar como si fuera
+una especie de leyenda viva!
+
+730
+01:06:48,963 --> 01:06:50,506
+Yo también puedo enseñarle.
+
+731
+01:06:50,590 --> 01:06:52,713
+- ¡Trabajo solo!
+- ¡Ya somos dos!
+
+732
+01:07:03,228 --> 01:07:04,308
+¿Dónde estamos?
+
+733
+01:07:04,396 --> 01:07:07,682
+- ¿Has disparado alguna vez a alguien?
+- No me he visto obligado.
+
+734
+01:07:07,775 --> 01:07:09,317
+Bien. Lo quiero vivo.
+
+735
+01:07:09,401 --> 01:07:11,478
+¿A quién? ¿A quién, maldita sea?
+
+736
+01:08:10,842 --> 01:08:12,300
+¿Qué coño es esto?
+
+737
+01:08:23,188 --> 01:08:24,682
+¿Qué buscamos?
+
+738
+01:08:39,581 --> 01:08:41,289
+¿Me lo puede decir?
+
+739
+01:08:41,791 --> 01:08:44,364
+Si me habla, quizá pueda serle de ayuda.
+
+740
+01:09:22,00 --> 01:09:23,792
+¡Por la otra escalera!
+
+741
+01:10:01,292 --> 01:10:02,537
+¡No te muevas!
+
+742
+01:10:43,169 --> 01:10:44,629
+¡Corre!
+
+743
+01:10:56,934 --> 01:10:58,049
+¿Qué pasa?
+
+744
+01:12:30,826 --> 01:12:34,195
+"Encontraré el origen
+de los ríos de color púrpura."
+
+745
+01:12:36,206 --> 01:12:39,575
+¿Me va a decir de una vez por todas
+lo que está ocurriendo?
+
+746
+01:12:39,918 --> 01:12:41,827
+¡No tengo ni idea!
+
+747
+01:12:43,088 --> 01:12:45,128
+- Eso es una respuesta.
+- ¿Y bien?
+
+748
+01:12:45,758 --> 01:12:48,510
+Estoy comparando las huellas.
+
+749
+01:12:52,932 --> 01:12:54,557
+No coinciden.
+
+750
+01:12:55,393 --> 01:12:57,303
+No es un criminal fichado.
+
+751
+01:12:57,603 --> 01:12:58,682
+Mierda.
+
+752
+01:12:59,106 --> 01:13:01,727
+- ¿Puede escanear esta huella?
+- Sin problemas.
+
+753
+01:13:01,817 --> 01:13:03,098
+¿De quién es?
+
+754
+01:13:03,652 --> 01:13:05,858
+De una niña que murió hace 20 años.
+
+755
+01:13:07,030 --> 01:13:08,775
+Ella me trajo hasta aquí.
+
+756
+01:13:10,200 --> 01:13:11,243
+¿Qué?
+
+757
+01:13:12,285 --> 01:13:14,909
+Si murió hace 20 años,
+tenemos un problema.
+
+758
+01:13:15,082 --> 01:13:17,370
+Es la que le disparó.
+
+759
+01:13:17,834 --> 01:13:21,831
+Estas huellas son idénticas
+a las de la pistola...
+
+760
+01:13:22,04 --> 01:13:24,080
+...salvo por la diferencia de edad.
+
+761
+01:13:25,841 --> 01:13:27,336
+Tenemos que hablar.
+
+762
+01:13:27,885 --> 01:13:29,594
+¿Así que ahora hablamos?
+
+763
+01:13:33,059 --> 01:13:35,763
+Ayer noche Sertys fue a un cementerio.
+
+764
+01:13:35,936 --> 01:13:39,518
+Al panteón de Judith Herault,
+fallecida en 1982.
+
+765
+01:13:39,689 --> 01:13:44,021
+No pudo abrir el ataúd
+e intentó confundirnos con esvásticas.
+
+766
+01:13:44,279 --> 01:13:47,482
+Esa misma noche alguien entró
+en la escuela de primaria...
+
+767
+01:13:47,573 --> 01:13:50,824
+...y robó las fotos y documentos del
+81 al 82...
+
+768
+01:13:51,410 --> 01:13:54,614
+...los dos años que asistió Judith
+Herault a esa escuela.
+
+769
+01:13:55,624 --> 01:13:57,662
+Es una de éstas.
+
+770
+01:13:58,042 --> 01:13:59,585
+¿Cómo murió?
+
+771
+01:13:59,878 --> 01:14:02,963
+Atropellada por un camión.
+Dijeron que fue un accidente.
+
+772
+01:14:03,048 --> 01:14:06,584
+Pero la madre me dijo algo
+totalmente diferente.
+
+773
+01:14:06,803 --> 01:14:08,083
+Según ella...
+
+774
+01:14:09,054 --> 01:14:11,296
+...a su hija la mataron los demonios.
+
+775
+01:14:12,600 --> 01:14:13,846
+Demonios...
+
+776
+01:14:15,186 --> 01:14:19,054
+Le falta un tornillo.
+Desde entonces está en un convento.
+
+777
+01:14:20,067 --> 01:14:23,435
+Pero me dio la impresión
+de que no me estaba diciendo todo...
+
+778
+01:14:23,527 --> 01:14:25,735
+¿La interrogaste o tomasteis el té?
+
+779
+01:14:27,656 --> 01:14:29,947
+Estaba investigando un delito menor.
+
+780
+01:14:30,119 --> 01:14:33,487
+No podía darle una piña
+para que hablara. Es monja.
+
+781
+01:14:34,706 --> 01:14:35,786
+Su turno.
+
+782
+01:14:35,917 --> 01:14:37,909
+Dígame lo que está ocurriendo.
+
+783
+01:14:38,211 --> 01:14:41,959
+Es como la búsqueda del tesoro.
+Un cadáver nos lleva al siguiente.
+
+784
+01:14:44,884 --> 01:14:46,082
+Digamos que...
+
+785
+01:14:46,260 --> 01:14:50,259
+...a Sertys, Callois y Cherneze
+les relaciona un incidente...
+
+786
+01:14:50,432 --> 01:14:52,174
+...que ocurrió hace 20 años.
+
+787
+01:14:52,684 --> 01:14:55,602
+Hace dos días se enteran
+de que Callois está muerto.
+
+788
+01:14:55,687 --> 01:14:57,311
+Encontramos el cuerpo.
+
+789
+01:14:57,480 --> 01:14:59,889
+Les entra el pánico. Resurge el pasado.
+
+790
+01:15:00,234 --> 01:15:02,724
+Van al cementerio y a la escuela...
+
+791
+01:15:03,445 --> 01:15:06,897
+...para comprobar...
+Para averiguar algo.
+
+792
+01:15:07,825 --> 01:15:09,069
+Pero, ¿el qué?
+
+793
+01:15:11,412 --> 01:15:14,034
+- Si Judith está realmente muerta.
+- ¿Por qué?
+
+794
+01:15:14,124 --> 01:15:17,956
+Busca venganza.
+La monja debió de fingir su muerte.
+
+795
+01:15:18,462 --> 01:15:19,742
+¿Y las huellas?
+
+796
+01:15:20,588 --> 01:15:22,546
+Los dedos se pueden amputar.
+
+797
+01:15:22,799 --> 01:15:25,290
+El que me disparó tenía cinco dedos.
+
+798
+01:15:28,139 --> 01:15:29,930
+¿Por qué lo dejó con vida?
+
+799
+01:15:30,183 --> 01:15:32,340
+Para que entendiera su venganza.
+
+800
+01:15:33,686 --> 01:15:35,643
+¿Qué une a las tres víctimas?
+
+801
+01:15:36,355 --> 01:15:38,477
+Callois era el bibliotecario jefe.
+
+802
+01:15:38,565 --> 01:15:40,772
+Sertys trabajaba en la sala de
+maternidad. Cherneze...
+
+803
+01:15:40,773 --> 01:15:42,980
+...trabajaba con el decano.
+
+804
+01:15:43,155 --> 01:15:45,313
+Todo apunta hacia la universidad.
+
+805
+01:15:47,034 --> 01:15:48,278
+Debo regresar.
+
+806
+01:15:49,286 --> 01:15:50,531
+¿Qué pasa conmigo?
+
+807
+01:15:50,620 --> 01:15:52,530
+Comprueba que Judith está muerta.
+
+808
+01:15:52,622 --> 01:15:54,330
+Sabía que diría eso.
+
+809
+01:15:55,667 --> 01:15:57,375
+Siempre me toca lo peor.
+
+810
+01:16:06,804 --> 01:16:08,761
+Comunícame cualquier novedad.
+
+811
+01:16:19,985 --> 01:16:21,728
+¿Qué hace aquí?
+
+812
+01:16:22,654 --> 01:16:25,193
+Sus colegas me han retenido cuatro
+horas.
+
+813
+01:16:25,408 --> 01:16:28,159
+Lo siento. Tienen los nervios de punta.
+
+814
+01:16:29,161 --> 01:16:30,276
+¿La llevo?
+
+815
+01:16:31,540 --> 01:16:32,701
+Vale.
+
+816
+01:17:04,657 --> 01:17:06,816
+¿Así que Cherneze también está muerto?
+
+817
+01:17:06,910 --> 01:17:08,320
+¿Lo conocía?
+
+818
+01:17:09,161 --> 01:17:12,034
+Uno de los últimos dinosaurios
+de la universidad.
+
+819
+01:17:12,875 --> 01:17:16,873
+No parece apreciar
+a los genios entre los que vive.
+
+820
+01:17:17,088 --> 01:17:19,412
+No respeto mucho a los intelectuales.
+
+821
+01:17:21,549 --> 01:17:23,626
+¿No eran sus padres profesores?
+
+822
+01:17:25,345 --> 01:17:27,422
+No respeto mucho a mis padres.
+
+823
+01:17:27,682 --> 01:17:29,177
+Gire a la izquierda.
+
+824
+01:17:50,455 --> 01:17:51,950
+¿La espera alguien?
+
+825
+01:17:53,584 --> 01:17:55,825
+Es un pésimo seductor.
+
+826
+01:17:56,462 --> 01:17:58,171
+- Gracias.
+- No hay de qué.
+
+827
+01:19:41,073 --> 01:19:42,402
+Bonito sitio.
+
+828
+01:19:43,159 --> 01:19:45,400
+A mí me gusta. Está alejado de todo.
+
+829
+01:19:45,494 --> 01:19:47,452
+Sin tele, sin radio...
+
+830
+01:19:47,622 --> 01:19:49,780
+...ni siquiera funcionan los móviles.
+
+831
+01:19:50,291 --> 01:19:51,619
+¿Una granada?
+
+832
+01:19:52,459 --> 01:19:53,503
+Gracias.
+
+833
+01:19:54,044 --> 01:19:56,583
+Las utilizo para desencadenar
+avalanchas.
+
+834
+01:20:00,093 --> 01:20:01,920
+¿Aquí son todos como usted?
+
+835
+01:20:02,887 --> 01:20:06,755
+Luchar contra montañas
+ayuda a forjar el carácter.
+
+836
+01:20:09,602 --> 01:20:11,146
+Como a los policías.
+
+837
+01:20:12,273 --> 01:20:14,099
+¿Hace mucho que es policía?
+
+838
+01:20:15,986 --> 01:20:17,266
+Demasiado.
+
+839
+01:20:20,906 --> 01:20:22,366
+Cargue el mechero.
+
+840
+01:20:24,868 --> 01:20:25,984
+Debería.
+
+841
+01:20:26,663 --> 01:20:29,499
+Pero estoy intentando dejarlo.
+Fue un regalo.
+
+842
+01:20:29,916 --> 01:20:30,995
+¿De su ex?
+
+843
+01:20:34,588 --> 01:20:36,794
+Nunca me he casado. ¿Y usted?
+
+844
+01:20:37,715 --> 01:20:39,674
+Casi. Con el hijo del decano.
+
+845
+01:20:41,512 --> 01:20:43,220
+Nunca habría funcionado.
+
+846
+01:20:44,766 --> 01:20:46,593
+Se supone que sí.
+
+847
+01:20:48,102 --> 01:20:51,803
+Tras tres años cara a cara
+en una biblioteca...
+
+848
+01:20:51,940 --> 01:20:53,398
+...llegas a intimar.
+
+849
+01:20:55,944 --> 01:20:58,270
+¿Por qué odia tanto la escuela?
+
+850
+01:20:58,864 --> 01:21:00,986
+¿Por qué sospecha de mí?
+
+851
+01:21:02,451 --> 01:21:03,993
+Sube montañas.
+
+852
+01:21:04,829 --> 01:21:08,162
+Encontró el primer cuerpo,
+me ayudó a encontrar el segundo.
+
+853
+01:21:10,252 --> 01:21:12,042
+Es la sospechosa perfecta.
+
+854
+01:21:14,047 --> 01:21:15,506
+Salvo por una cosa.
+
+855
+01:21:15,674 --> 01:21:16,716
+¿El qué?
+
+856
+01:21:18,050 --> 01:21:19,295
+Es incapaz...
+
+857
+01:21:19,386 --> 01:21:22,671
+...de estrangular a alguien
+durante 10 minutos, cara a cara.
+
+858
+01:21:27,978 --> 01:21:29,222
+Tengo que irme.
+
+859
+01:21:30,355 --> 01:21:31,731
+Gracias por el té.
+
+860
+01:22:33,464 --> 01:22:34,506
+Hola.
+
+861
+01:22:35,758 --> 01:22:37,964
+Hábleme de la tesis de Remy Callois.
+
+862
+01:22:41,222 --> 01:22:43,345
+Trata del mito de los atletas...
+
+863
+01:22:43,516 --> 01:22:46,470
+...griegos del Olimpo
+que combinaban mente y cuerpo.
+
+864
+01:22:47,187 --> 01:22:52,146
+Hay muchas referencias a los Juegos
+Olímpicos de Berlín de 1936...
+
+865
+01:22:52,317 --> 01:22:56,150
+...cuando los atletas alemanes
+alimentaron la propaganda nazi.
+
+866
+01:22:56,322 --> 01:22:57,484
+¿Y los "ríos púrpuras"?
+
+867
+01:22:57,657 --> 01:23:00,230
+Fluyen con la sangre de hombres
+perfectos.
+
+868
+01:23:01,201 --> 01:23:02,446
+¿Sangre?
+
+869
+01:23:03,913 --> 01:23:04,955
+Venas...
+
+870
+01:23:06,248 --> 01:23:07,363
+Inspector.
+
+871
+01:23:07,750 --> 01:23:09,495
+¿Quiere mi opinión?
+
+872
+01:23:10,04 --> 01:23:14,415
+En serio,
+su tesis es un popurrí de basura nazi.
+
+873
+01:23:14,591 --> 01:23:17,876
+En el fondo es parecido a
+"Cómo ser un fascista perfecto".
+
+874
+01:23:18,052 --> 01:23:21,220
+Explica cómo crear
+al hombre perfecto de hoy.
+
+875
+01:23:21,974 --> 01:23:22,746
+¿Cómo?
+
+876
+01:23:22,765 --> 01:23:26,218
+Combinando chicos comunes
+con chicos inteligentes.
+
+877
+01:23:27,063 --> 01:23:29,434
+Seleccionándolos y casándose.
+
+878
+01:23:30,566 --> 01:23:32,108
+Se llama...
+
+879
+01:23:32,902 --> 01:23:33,852
+Eugenesia.
+
+880
+01:23:33,862 --> 01:23:35,485
+Eugenesia, eso es.
+
+881
+01:23:35,654 --> 01:23:39,405
+Como lo intentaron los nazis
+en algunos pueblos durante la guerra.
+
+882
+01:23:40,160 --> 01:23:43,279
+Como en esta escuela. Mentes sanas...
+
+883
+01:23:43,872 --> 01:23:45,415
+...en cuerpos sanos.
+
+884
+01:24:20,285 --> 01:24:23,239
+¿Qué hace? ¡Aquí no tiene nada que
+hacer!
+
+885
+01:24:23,414 --> 01:24:25,822
+¿Qué función tenía Callois exactamente?
+
+886
+01:24:26,793 --> 01:24:27,954
+¿Cómo dice?
+
+887
+01:24:28,669 --> 01:24:32,169
+Callois. Sertys. Cherneze.
+
+888
+01:24:32,465 --> 01:24:34,172
+Todo apunta hacia aquí.
+
+889
+01:24:36,010 --> 01:24:38,04
+¿A quién busca?
+
+890
+01:24:38,305 --> 01:24:40,297
+Sospecha de nosotros, ¿verdad?
+
+891
+01:24:41,600 --> 01:24:44,174
+Las víctimas también pueden ser
+culpables.
+
+892
+01:24:44,520 --> 01:24:46,677
+Cuidado con lo que dice, Niemans.
+
+893
+01:24:46,979 --> 01:24:50,432
+Me he informado sobre usted.
+Está pendiente de un hilo...
+
+894
+01:24:51,567 --> 01:24:54,191
+Con gusto lo pondría primero en
+la lista.
+
+895
+01:24:54,364 --> 01:24:58,657
+Lo que me detiene es el deseo
+de probar que usted está detrás de todo.
+
+896
+01:24:58,826 --> 01:25:00,902
+¿Me equivoco? ¿Me equivoco?
+
+897
+01:25:04,874 --> 01:25:05,989
+¡Basta ya!
+
+898
+01:25:06,542 --> 01:25:07,954
+¿Está usted loco?
+
+899
+01:25:12,925 --> 01:25:14,549
+¡Tendrá noticias mías!
+
+900
+01:25:17,262 --> 01:25:19,753
+¿Es que no puedo dejarlo solo un minuto?
+
+901
+01:25:23,561 --> 01:25:25,470
+¿Qué encontraste en la tumba?
+
+902
+01:25:27,147 --> 01:25:29,520
+No sé si será de ayuda.
+
+903
+01:25:41,580 --> 01:25:42,778
+No es ella.
+
+904
+01:25:44,041 --> 01:25:45,286
+¿La conoce?
+
+905
+01:25:45,959 --> 01:25:48,877
+- Ha ayudado en el caso.
+- ¿Lo ha ayudado?
+
+906
+01:25:49,046 --> 01:25:52,130
+A entender el significado
+de los "ríos de color púrpura".
+
+907
+01:25:53,426 --> 01:25:56,261
+Llevan años viviendo
+en un circuito cerrado.
+
+908
+01:25:56,387 --> 01:26:00,599
+La endogamia llevó a los profesores
+a empezar a engendrar niños degenerados.
+
+909
+01:26:00,683 --> 01:26:02,925
+Así que necesitaban sangre nueva.
+
+910
+01:26:03,102 --> 01:26:04,431
+¿Sangre nueva?
+
+911
+01:26:04,604 --> 01:26:08,354
+En el ala de maternidad, sustituyen
+a los hijos de los profesores...
+
+912
+01:26:08,443 --> 01:26:11,277
+...con recién nacidos sanos de las
+montañas.
+
+913
+01:26:12,613 --> 01:26:15,863
+¿El padre de Sertys sustituyó a Fanny
+con Judith?
+
+914
+01:26:16,116 --> 01:26:17,741
+Y a muchos otros.
+
+915
+01:26:18,160 --> 01:26:19,572
+¿Para qué?
+
+916
+01:26:19,913 --> 01:26:21,869
+Para crear una raza superior.
+
+917
+01:26:24,542 --> 01:26:25,658
+¿Nazis?
+
+918
+01:26:27,378 --> 01:26:30,463
+- ¿Una puta universidad de nazis?
+- Una universidad no.
+
+919
+01:26:31,383 --> 01:26:32,960
+Un criadero.
+
+920
+01:26:43,813 --> 01:26:45,271
+¿Qué diablos es esto?
+
+921
+01:26:53,573 --> 01:26:54,985
+¡Dispara!
+
+922
+01:27:01,498 --> 01:27:02,826
+¡Dispara!
+
+923
+01:27:06,420 --> 01:27:07,666
+Está blindado.
+
+924
+01:27:07,839 --> 01:27:09,629
+Apunta al mismo sitio.
+
+925
+01:27:10,132 --> 01:27:11,507
+¡Vamos, dispara!
+
+926
+01:27:12,093 --> 01:27:13,172
+¡Dispara!
+
+927
+01:27:13,678 --> 01:27:14,756
+¡Cuidado!
+
+928
+01:28:55,869 --> 01:28:57,032
+¿Está bien?
+
+929
+01:29:06,297 --> 01:29:08,918
+- ¿Quién es este cabrón?
+- El hijo del decano.
+
+930
+01:29:09,759 --> 01:29:10,838
+¿Qué quería?
+
+931
+01:29:10,927 --> 01:29:13,797
+Evitar que descubriéramos
+lo que le hicieron a Fanny.
+
+932
+01:29:13,888 --> 01:29:17,304
+¿Qué podía haberle hecho él a Fanny?
+Por entonces tenía 10 años.
+
+933
+01:29:17,391 --> 01:29:21,224
+Fue cambiado.
+Se sentaba con Fanny en la biblioteca.
+
+934
+01:29:21,396 --> 01:29:24,434
+Debería haberse casado. Ése era el plan.
+
+935
+01:29:24,567 --> 01:29:27,484
+¿Entonces por qué los está matando
+a todos?
+
+936
+01:29:27,611 --> 01:29:29,983
+Ella se niega a seguir las reglas.
+
+937
+01:29:34,993 --> 01:29:36,620
+¿Cree que es inocente?
+
+938
+01:29:49,425 --> 01:29:50,624
+¡Mi abrigo!
+
+939
+01:29:59,145 --> 01:30:02,098
+Un momento. A la Niemans.
+
+940
+01:30:19,165 --> 01:30:22,333
+¿Quién es esa nena suya?
+¿La chica de Máximo Riesgo?
+
+941
+01:30:54,286 --> 01:30:55,484
+¡Mierda!
+
+942
+01:31:04,380 --> 01:31:05,922
+¿Aún no está seguro?
+
+943
+01:31:06,674 --> 01:31:08,833
+¡Y pensar que ella me trajo aquí!
+
+944
+01:31:09,344 --> 01:31:11,136
+Podía haberlo visto todo.
+
+945
+01:31:12,012 --> 01:31:14,421
+¡También podía haberlo operado!
+
+946
+01:31:16,017 --> 01:31:17,725
+No quería matarme.
+
+947
+01:31:18,686 --> 01:31:20,348
+Me dejó con vida.
+
+948
+01:31:21,440 --> 01:31:23,398
+¿De qué habla?
+
+949
+01:31:25,193 --> 01:31:28,278
+A usted lo dejó con vida,
+pero los otros hombres no lo lograron.
+
+950
+01:31:28,364 --> 01:31:31,733
+El pasatiempo de su amiguita
+es descuartizar a sus amigos.
+
+951
+01:31:31,826 --> 01:31:33,071
+¿Por qué la caza del tesoro?
+
+952
+01:31:33,160 --> 01:31:37,622
+¿De qué está hablando?
+¡Es una esquizoide! ¡Una psicópata!
+
+953
+01:31:38,583 --> 01:31:40,327
+Quiere que la entendamos.
+
+954
+01:31:40,919 --> 01:31:43,671
+- ¿Qué hay que entender?
+- Quiere que la atrapemos.
+
+955
+01:31:47,175 --> 01:31:49,846
+Buenas noticias.
+Es nuestro trabajo, ¿verdad?
+
+956
+01:31:50,596 --> 01:31:52,636
+Ahora sólo hay que encontrarla.
+
+957
+01:31:54,099 --> 01:31:55,891
+Ése es nuestro trabajo.
+
+958
+01:32:12,911 --> 01:32:14,370
+¿Y ahora qué?
+
+959
+01:32:15,080 --> 01:32:16,574
+Se llevó las granadas.
+
+960
+01:32:16,665 --> 01:32:17,910
+¿Qué granadas?
+
+961
+01:32:20,461 --> 01:32:22,952
+Siempre callado como una tumba...
+
+962
+01:32:44,319 --> 01:32:45,943
+¿Ha evacuado la universidad?
+
+963
+01:32:46,029 --> 01:32:48,187
+¡Primero necesito una explicación!
+
+964
+01:32:48,281 --> 01:32:51,449
+No es momento de explicaciones. Evacue.
+
+965
+01:32:52,119 --> 01:32:54,693
+No podemos seguir así. ¿Quién está
+arriba?
+
+966
+01:32:54,914 --> 01:32:57,202
+- Voy solo.
+- ¡O todos o ninguno!
+
+967
+01:32:57,374 --> 01:32:58,870
+Voy yo solo.
+
+968
+01:32:59,460 --> 01:33:00,788
+¡Alto todo el mundo!
+
+969
+01:33:00,878 --> 01:33:01,807
+Tranquilícese...
+
+970
+01:33:01,837 --> 01:33:03,248
+No viene nadie.
+
+971
+01:33:03,883 --> 01:33:05,341
+¿Se ha vuelto loco?
+
+972
+01:33:05,425 --> 01:33:06,504
+Déme eso.
+
+973
+01:33:09,137 --> 01:33:10,716
+Confíe en mí.
+
+974
+01:33:21,234 --> 01:33:22,610
+Bajen las armas.
+
+975
+01:33:59,940 --> 01:34:02,100
+Tenemos que llegar hasta el final.
+
+976
+01:34:05,405 --> 01:34:06,864
+Déjamela a mí.
+
+977
+01:34:30,264 --> 01:34:31,427
+¡Ahí abajo!
+
+978
+01:34:44,488 --> 01:34:46,279
+Fanny, date la vuelta.
+
+979
+01:34:46,948 --> 01:34:48,113
+Baja.
+
+980
+01:34:51,121 --> 01:34:54,038
+Es el final. Ya ha acabado todo.
+
+981
+01:34:54,624 --> 01:34:56,118
+Sé quién eres.
+
+982
+01:34:56,293 --> 01:34:57,538
+¡No sabes nada!
+
+983
+01:34:57,711 --> 01:35:00,628
+¡Deténte! Sé lo que te hicieron.
+
+984
+01:35:00,797 --> 01:35:02,791
+Cambiaron bebés recién nacidos.
+
+985
+01:35:02,883 --> 01:35:04,959
+Mataron a niños.
+
+986
+01:35:05,136 --> 01:35:07,971
+Demasiado tarde. No sirve de nada.
+¡Fuera!
+
+987
+01:35:08,139 --> 01:35:11,638
+Me trajiste hasta aquí. No puedo
+regresar.
+
+988
+01:35:11,809 --> 01:35:13,848
+- ¡Yo tampoco!
+- ¡No lo hagas!
+
+989
+01:35:13,978 --> 01:35:17,478
+Cerrarán la universidad.
+Están todos muertos.
+
+990
+01:35:18,024 --> 01:35:21,144
+- Matarás a gente inocente.
+- ¡Son todos culpables!
+
+991
+01:35:27,450 --> 01:35:28,944
+¡Nadie es inocente!
+
+992
+01:35:30,829 --> 01:35:31,871
+¿Judith?
+
+993
+01:35:33,748 --> 01:35:34,864
+¡Gemelas!
+
+994
+01:35:35,793 --> 01:35:37,501
+¡Intercambiaron gemelas!
+
+995
+01:35:37,628 --> 01:35:38,671
+Sólo una.
+
+996
+01:35:39,088 --> 01:35:41,923
+Por eso su rostro era una amenaza
+para ellos.
+
+997
+01:35:42,925 --> 01:35:44,384
+Encárgate de ella.
+
+998
+01:35:46,637 --> 01:35:49,010
+Entonces, ¿quién murió en el accidente?
+
+999
+01:35:49,099 --> 01:35:50,925
+¿Y la huella?
+
+1000
+01:35:52,060 --> 01:35:53,638
+Mamá lo preparó todo.
+
+1001
+01:35:53,853 --> 01:35:55,929
+La otra niña ya estaba muerta.
+
+1002
+01:35:56,272 --> 01:35:58,182
+Mamá lo planeó todo.
+
+1003
+01:35:58,858 --> 01:36:00,898
+Excepto que te volvieras loca.
+
+1004
+01:36:01,027 --> 01:36:02,226
+¿Creíste que lo lograrías?
+
+1005
+01:36:02,321 --> 01:36:03,981
+No pretendo lograrlo.
+
+1006
+01:36:04,156 --> 01:36:06,647
+Alto o seguro que no lo logras.
+
+1007
+01:36:08,912 --> 01:36:09,657
+¡Deténte!
+
+1008
+01:36:09,745 --> 01:36:11,025
+¡Déjala en paz!
+
+1009
+01:36:12,581 --> 01:36:14,491
+Desencadenaré una avalancha.
+
+1010
+01:36:15,876 --> 01:36:16,956
+Escúchame.
+
+1011
+01:36:17,420 --> 01:36:18,359
+¡Manténte alejado!
+
+1012
+01:36:18,380 --> 01:36:23,125
+Los que te hicieron daño están muertos.
+Si lo haces, ganarán ellos.
+
+1013
+01:36:35,606 --> 01:36:37,564
+Sólo tú puedes detenerla, Fanny.
+
+1014
+01:36:37,651 --> 01:36:39,755
+Tú no eres un monstruo como ella.
+Deténla...
+
+1015
+01:36:39,756 --> 01:36:41,861
+...antes de que sea demasiado tarde.
+
+1016
+01:36:42,613 --> 01:36:44,488
+- No tengo elección.
+- Sí que la tienes.
+
+1017
+01:36:44,574 --> 01:36:45,652
+¡Deténte!
+
+1018
+01:36:51,122 --> 01:36:52,165
+Mátalo.
+
+1019
+01:36:58,755 --> 01:37:01,248
+Por nuestras vidas. Por nuestros padres.
+
+1020
+01:37:01,635 --> 01:37:04,303
+Por las vidas que nos robaron.
+
+1021
+01:37:06,556 --> 01:37:07,390
+Mátalo.
+
+1022
+01:37:07,557 --> 01:37:09,596
+- A él no. Es inocente.
+- ¡Mátalo!
+
+1023
+01:37:11,769 --> 01:37:14,805
+Hazlo por mí. Por la vida que nunca
+tuve.
+
+1024
+01:37:14,980 --> 01:37:16,890
+Una vida a tu sombra.
+
+1025
+01:37:17,025 --> 01:37:21,236
+Ellos te crearon y me rechazaron a mí.
+Hazlo.
+
+1026
+01:37:21,404 --> 01:37:22,602
+Mátalo, Fanny.
+
+1027
+01:37:23,741 --> 01:37:24,783
+¡Hazlo!
+
+1028
+01:37:26,076 --> 01:37:28,151
+Querías que entendiera.
+
+1029
+01:37:28,953 --> 01:37:30,413
+No puedo hacerlo.
+
+1030
+01:37:31,458 --> 01:37:33,034
+Es entre tú y yo.
+
+1031
+01:37:33,334 --> 01:37:34,376
+Tú y yo.
+
+1032
+01:37:37,172 --> 01:37:38,251
+Adelante.
+
+1033
+01:37:40,257 --> 01:37:41,373
+¡Adelante!
+
+1034
+01:37:42,177 --> 01:37:43,256
+No.
+
+1035
+01:37:44,511 --> 01:37:45,841
+No eres como ella.
+
+1036
+01:37:45,930 --> 01:37:46,974
+Sí que lo soy.
+
+1037
+01:37:47,057 --> 01:37:48,100
+¡Mátalo!
+
+1038
+01:37:48,934 --> 01:37:49,977
+¡Hazlo!
+
+1039
+01:37:59,528 --> 01:38:02,280
+Tenías que entenderlo
+para que nadie lo olvidara.
+
+1040
+01:38:02,364 --> 01:38:04,274
+Lo sé.
+
+1041
+01:38:15,921 --> 01:38:17,00
+¡Deprisa!
+
+1042
+01:39:00,718 --> 01:39:02,296
+¡Agárrala de los pies!
+
+1043
+01:40:58,426 --> 01:41:00,087
+Ya basta. Estoy bien.
+
+1044
+01:41:00,928 --> 01:41:02,755
+Gracias, perrito. Ya basta.
+
+1045
+01:41:03,349 --> 01:41:04,463
+¡Ya basta!
+
+1046
+01:41:07,560 --> 01:41:09,352
+¿Puedo hacer una pregunta?
+
+1047
+01:41:13,984 --> 01:41:16,191
+¿Qué tiene en contra de los perros?
+
+1048
+01:41:21,409 --> 01:41:23,117
+Fue hace mucho tiempo...
+
+1049
+01:41:23,118 --> 01:41:24,118
+Subtítulos por aRGENTeaMCorrección y Sincro por MariscalTito
+

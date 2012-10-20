@@ -1,0 +1,4289 @@
+1
+00:00:30,219 --> 00:00:33,499
+En el nombre de Preverti
+hija de las montañas...
+
+2
+00:00:34,499 --> 00:00:36,939
+cuyo abrazo con Reni
+hizo temblar al mundo...
+
+3
+00:00:37,819 --> 00:00:38,819
+temblar.
+
+4
+00:00:40,659 --> 00:00:41,499
+Temblar.
+
+5
+00:00:42,459 --> 00:00:43,499
+Cuyo nombre es "la terrible".
+
+6
+00:00:44,619 --> 00:00:46,019
+Cuyo nombre es "la siniestra".
+
+7
+00:00:47,219 --> 00:00:48,819
+Cuyo nombre es "la  inaccesible".
+
+8
+00:00:49,899 --> 00:00:52,259
+Cuyo nombre es madre
+negra de las sombras...
+
+9
+00:00:58,299 --> 00:01:00,019
+invocamos a Kaili...
+
+10
+00:01:00,739 --> 00:01:01,339
+la que bebe sangre...
+
+11
+00:01:01,739 --> 00:01:02,339
+madre negra...
+
+12
+00:01:03,299 --> 00:01:05,699
+Kaili...
+
+13
+00:01:07,419 --> 00:01:08,339
+matadora de demonios...
+
+14
+00:01:08,699 --> 00:01:10,259
+sáciate con esta carne...
+
+15
+00:01:11,139 --> 00:01:11,819
+bebe...
+
+16
+00:01:11,939 --> 00:01:13,219
+¡Alto!
+
+17
+00:01:16,739 --> 00:01:19,659
+¡El anillo! ella no tiene
+el anillo de sacrificio.
+
+18
+00:01:23,739 --> 00:01:25,459
+No podemos sacrificarla
+sin el anillo.
+
+19
+00:01:26,659 --> 00:01:27,819
+¿Donde esta el anillo?
+Regístrenla...
+
+20
+00:01:31,379 --> 00:01:33,739
+<i>Ayuda, necesito ayuda de alguien.</i>
+
+21
+00:01:33,899 --> 00:01:36,259
+<i>Ayuda, no cualquiera.</i>
+
+22
+00:01:36,459 --> 00:01:38,899
+<i>Ayuda, usted sabe
+que necesito ayuda.</i>
+
+23
+00:01:39,059 --> 00:01:40,259
+<i>Ayuda.</i>
+
+24
+00:01:41,459 --> 00:01:46,299
+<i>Cuando yo era joven,
+mucho más joven que ahora.</i>
+
+25
+00:01:46,619 --> 00:01:49,059
+<i>Nunca necesité la ayuda de nadie.</i>
+
+26
+00:01:49,259 --> 00:01:51,579
+<i>De ninguna manera.</i>
+
+27
+00:01:51,739 --> 00:01:56,139
+<i>Pero ahora en estos días
+no me siento tan seguro.</i>
+
+28
+00:01:56,979 --> 00:02:01,179
+<i>Ahora estoy cambiando mi manera
+de pensar y abriendo las puertas.</i>
+
+29
+00:02:01,499 --> 00:02:05,579
+<i>Ayúdeme si usted puede,
+me siento mal.</i>
+
+30
+00:02:06,099 --> 00:02:10,379
+<i>Y apreciaría que
+usted estuviera cerca.</i>
+
+31
+00:02:11,499 --> 00:02:15,779
+<i>Ayúdeme a poner los
+pies sobre la tierra.</i>
+
+32
+00:02:16,219 --> 00:02:19,699
+<i>¿Me ayudaría?
+Por favor, por favor, ayúdeme.</i>
+
+33
+00:02:21,699 --> 00:02:25,899
+<i>Ahora mi vida ha
+cambiado de varias maneras.</i>
+
+34
+00:02:27,139 --> 00:02:31,259
+<i>Mi independencia parece
+desaparecer en la colina.</i>
+
+35
+00:02:32,579 --> 00:02:36,539
+<i>Pero ahora que me
+siento tan inseguro.</i>
+
+36
+00:02:37,459 --> 00:02:41,579
+<i>Se cuánto lo necesito
+como nunca antes.</i>
+
+37
+00:02:42,099 --> 00:02:45,339
+<i>Ayúdeme si usted puede,
+me siento mal.</i>
+
+38
+00:02:46,659 --> 00:02:50,499
+<i>Y apreciaría que
+usted estuviera cerca.</i>
+
+39
+00:02:52,139 --> 00:02:56,019
+<i>Ayúdeme a poner los
+pies sobre la tierra.</i>
+
+40
+00:02:56,739 --> 00:03:00,379
+<i>Me ayudaría, por
+favor, por favor, ayúdeme.</i>
+
+41
+00:03:02,579 --> 00:03:06,819
+<i>Cuando yo era joven,
+mucho más joven que ahora.</i>
+
+42
+00:03:07,859 --> 00:03:09,859
+<i>Nunca necesité la ayuda de nadie.</i>
+
+43
+00:03:09,939 --> 00:03:12,779
+<i>De ninguna manera.</i>
+
+44
+00:03:13,019 --> 00:03:17,139
+<i>Pero ahora en estos días
+no me siento tan seguro.</i>
+
+45
+00:03:18,299 --> 00:03:22,259
+<i>Ahora estoy cambiando mi manera
+de pensar y abriendo las puertas.</i>
+
+46
+00:03:22,899 --> 00:03:26,819
+<i>Ayúdeme si puede, me siento mal.</i>
+
+47
+00:03:27,539 --> 00:03:32,019
+<i>Y apreciaría que estuviera cerca.</i>
+
+48
+00:03:33,019 --> 00:03:36,659
+<i>Ayúdeme a poner los
+pies sobre la tierra.</i>
+
+49
+00:03:37,619 --> 00:03:40,859
+<i>¿Me ayudaría?
+Por favor, por favor, ayúdeme.</i>
+
+50
+00:03:41,539 --> 00:03:46,659
+<i>Ayúdeme, ayúdeme.</i>
+
+51
+00:03:49,299 --> 00:03:50,299
+Inconcebible.
+
+52
+00:03:50,419 --> 00:03:51,219
+Monstruoso.
+
+53
+00:03:52,579 --> 00:03:54,739
+Maestro, tiene que preparar
+esto inmediatamente.
+
+54
+00:03:55,099 --> 00:03:57,859
+Es necesario prepararlo
+inmediatamente para mi partida.
+
+55
+00:03:59,619 --> 00:04:02,099
+Anillo sobre el agua.
+
+56
+00:04:02,899 --> 00:04:04,419
+Anillo debemos ir.
+
+57
+00:04:05,499 --> 00:04:06,579
+¿Qué desea de mí, maestro?
+
+58
+00:04:06,499 --> 00:04:08,059
+Obediencia y amor.
+
+59
+00:04:08,019 --> 00:04:09,259
+Lo tienes.
+
+60
+00:04:12,659 --> 00:04:14,219
+¿Nadie buscó en el lavabo?
+
+61
+00:04:10,379 --> 00:04:10,779
+Amik.
+
+62
+00:04:15,259 --> 00:04:18,259
+Me encontraré con quien
+sea necesario inmediatamente.
+
+63
+00:04:19,339 --> 00:04:20,259
+Visitar Inglaterra.
+
+64
+00:04:21,219 --> 00:04:22,819
+Algo debe hacerse.
+
+65
+00:04:23,339 --> 00:04:25,339
+Sin el anillo no hay sacrificio.
+
+66
+00:04:25,379 --> 00:04:27,699
+Sin el sacrificio
+no hay congregación.
+
+67
+00:04:27,739 --> 00:04:30,339
+Sin la congregación...
+
+68
+00:04:30,579 --> 00:04:33,299
+no me necesitan.
+
+69
+00:04:33,339 --> 00:04:34,379
+Eso es.
+
+70
+00:04:47,019 --> 00:04:47,939
+¡Saluda!
+
+71
+00:04:48,499 --> 00:04:49,819
+No quiero.
+¡Saluda!
+
+72
+00:04:50,899 --> 00:04:53,139
+Se lo esperan. ¿no?
+
+73
+00:04:55,019 --> 00:04:57,019
+Son encantadores y tan naturales.
+
+74
+00:04:57,059 --> 00:05:00,139
+No se les ha subido a la cabeza
+la fama y el dinero.
+
+75
+00:05:02,019 --> 00:05:06,259
+Son tan sencillos, igualitos que antes
+de ser famosos.
+
+76
+00:05:56,659 --> 00:05:57,699
+¡Me ha agarrado el dedo!
+
+77
+00:05:58,619 --> 00:05:59,899
+Tienes que prestar
+atención, la próxima vez.
+
+78
+00:06:01,299 --> 00:06:02,419
+¡Está tirando!
+
+79
+00:06:15,379 --> 00:06:16,299
+¿Es mi dedo lo sabes?
+
+80
+00:06:17,019 --> 00:06:19,339
+Es infantil rebajar las
+cosas a tu nivel.
+
+81
+00:06:20,419 --> 00:06:22,299
+Yo pensaba que era un bocadillo...
+
+82
+00:06:22,899 --> 00:06:24,379
+hasta que me tiró de la mano.
+
+83
+00:06:27,139 --> 00:06:29,099
+Hace frió, una brisa fría.
+
+84
+00:06:31,179 --> 00:06:32,179
+¿El anillo?
+
+85
+00:06:32,619 --> 00:06:34,779
+No pude sacárselo swami.
+
+86
+00:06:36,739 --> 00:06:37,579
+Maldición.
+
+87
+00:08:18,059 --> 00:08:19,419
+¡Me quisieron pescar el anillo!
+
+88
+00:08:20,659 --> 00:08:22,059
+¡Con una caña de pescar!
+
+89
+00:08:22,459 --> 00:08:23,739
+Deberías usar uno de plástico.
+
+90
+00:08:25,339 --> 00:08:26,019
+¿Que estás haciendo en el suelo?
+
+91
+00:08:26,819 --> 00:08:27,459
+Estoy cansado.
+
+92
+00:09:06,899 --> 00:09:07,459
+¡Hola!
+
+93
+00:09:26,619 --> 00:09:27,379
+¡Hey Beatle!
+
+94
+00:09:29,659 --> 00:09:30,299
+¿Qué le parece esto?
+
+95
+00:09:31,779 --> 00:09:32,259
+Shufti.
+
+96
+00:09:32,339 --> 00:09:35,179
+Es oro puro, recién importado.
+
+97
+00:09:36,859 --> 00:09:37,899
+Ni una marca, ni una.
+
+98
+00:09:40,379 --> 00:09:41,819
+No los odio.
+
+99
+00:09:41,819 --> 00:09:42,219
+No.
+
+100
+00:09:42,579 --> 00:09:45,219
+No, te dejan los dedos verdes.
+
+101
+00:09:48,619 --> 00:09:49,979
+Él no es el Beatle del anillo.
+
+102
+00:09:51,619 --> 00:09:52,059
+¿No soy?
+
+103
+00:09:52,739 --> 00:09:54,579
+No, desafortunadamente.
+
+104
+00:10:04,499 --> 00:10:05,219
+¡Hey Beatle!
+
+105
+00:10:05,979 --> 00:10:07,139
+¿Quiere divertirse?
+
+106
+00:10:07,779 --> 00:10:10,019
+No, soy guitarra y armónica.
+
+107
+00:10:14,139 --> 00:10:15,459
+Yo no le he dado pie.
+
+108
+00:10:16,419 --> 00:10:17,139
+Estos no son los únicos.
+
+109
+00:10:17,819 --> 00:10:21,379
+Oh, mi Dios... ellos son similares
+y con la misma lengua.
+
+110
+00:10:21,939 --> 00:10:25,419
+Swami, swami, está
+empezando a llover.
+
+111
+00:10:30,899 --> 00:10:33,419
+Rápido, si, si.
+
+112
+00:10:35,499 --> 00:10:36,539
+Todos juntos a seguirlos.
+
+113
+00:10:40,939 --> 00:10:41,899
+¡Chelín!
+
+114
+00:11:01,219 --> 00:11:03,419
+Hubo 5 intentos más para
+recuperar el anillo.
+
+115
+00:11:10,579 --> 00:11:11,739
+¿Qué es lo que te atrajo de mi?
+
+116
+00:11:11,859 --> 00:11:14,579
+Eres muy educado. ¿no?
+
+117
+00:11:29,499 --> 00:11:30,379
+Espero que esté.
+
+118
+00:11:42,979 --> 00:11:43,419
+¿Qué estás haciendo?
+
+119
+00:11:44,019 --> 00:11:44,899
+Echando una carta.
+
+120
+00:12:56,179 --> 00:12:58,379
+No soy lo que parezco.
+
+121
+00:13:01,819 --> 00:13:05,379
+Estoy calado hasta los huesos.
+
+122
+00:13:06,139 --> 00:13:07,339
+Hache hay más de lo que se ve.
+
+123
+00:13:11,059 --> 00:13:13,259
+Todos se ríen de la suerte de ringo.
+
+124
+00:13:14,819 --> 00:13:16,379
+Pero al día siguiente...
+
+125
+00:13:23,659 --> 00:13:26,539
+<i>Vas a perder a esa chica.</i>
+
+126
+00:13:27,219 --> 00:13:29,819
+<i>Vas a perder a esa chica.</i>
+
+127
+00:13:31,339 --> 00:13:35,939
+<i>Si no la invitas esta noche,
+va a cambiar de opinión.</i>
+
+128
+00:13:38,619 --> 00:13:44,019
+<i>Y yo la invitaré esta noche,
+y la trataré amablemente.</i>
+
+129
+00:13:45,099 --> 00:13:47,579
+<i>Vas a perder a esa chica.</i>
+
+130
+00:13:48,779 --> 00:13:52,099
+<i>Vas a perder a esa chica.</i>
+
+131
+00:13:53,499 --> 00:13:58,259
+<i>Si no la tratas bien, amigo mío,
+vas a darte cuenta que se ha ido.</i>
+
+132
+00:14:00,699 --> 00:14:06,139
+<i>Porque yo la trataré bien y
+entonces tu serás el que estará solo.</i>
+
+133
+00:14:07,219 --> 00:14:10,339
+<i>Vas a perder a esa chica.</i>
+
+134
+00:14:10,899 --> 00:14:14,459
+<i>Vas a perder a esa chica.</i>
+
+135
+00:14:14,539 --> 00:14:18,939
+<i>Vas a perderla.</i>
+
+136
+00:14:19,019 --> 00:14:23,979
+<i>Me haré el favor de
+llevármela lejos de ti, si.</i>
+
+137
+00:14:26,499 --> 00:14:30,819
+<i>De la manera que la tratas,
+¿qué más puedo hacer?</i>
+
+138
+00:14:45,659 --> 00:14:48,939
+<i>Vas a perder a esa chica.</i>
+
+139
+00:14:49,379 --> 00:14:57,179
+<i>Vas a perder a esa chica.</i>
+
+140
+00:14:57,699 --> 00:15:03,219
+<i>Me haré el favor de
+llevármela lejos de ti, si.</i>
+
+141
+00:15:05,139 --> 00:15:10,259
+<i>De la manera que la tratas,
+¿qué más puedo hacer?</i>
+
+142
+00:15:10,699 --> 00:15:15,939
+<i>Si no la invitas esta noche,
+va a cambiar de opinión.</i>
+
+143
+00:15:17,939 --> 00:15:23,299
+<i>Y yo la invitaré esta noche,
+y la trataré amablemente.</i>
+
+144
+00:15:24,299 --> 00:15:27,819
+<i>Vas a perder a esa chica.</i>
+
+145
+00:15:28,179 --> 00:15:34,659
+<i>Vas a perder a esa chica.</i>
+
+146
+00:15:39,459 --> 00:15:40,099
+¿Escuchas el zumbido?
+
+147
+00:15:40,819 --> 00:15:41,339
+¿Lo oyes?
+
+148
+00:15:43,459 --> 00:15:44,699
+Chicos ¿están zumbando?
+
+149
+00:15:44,819 --> 00:15:45,819
+No, yo tengo coche.
+
+150
+00:15:46,659 --> 00:15:47,819
+La pondré de nuevo.
+
+151
+00:15:47,859 --> 00:15:49,299
+Y la tendrán que hacer una vez más.
+
+152
+00:16:06,459 --> 00:16:07,739
+¿Eres tú?
+
+153
+00:16:08,219 --> 00:16:09,659
+A mi no me mires.
+
+154
+00:16:14,379 --> 00:16:15,579
+¡Tú estabas zumbando!
+
+155
+00:16:15,659 --> 00:16:17,179
+¡Chico malo!
+
+156
+00:16:40,259 --> 00:16:41,539
+¡Huye!
+¿Quién eres tú?
+
+157
+00:16:42,459 --> 00:16:43,779
+Me lo explicarás en su momento.
+
+158
+00:16:44,619 --> 00:16:45,139
+¡Huye!
+-Muy bien.
+
+159
+00:17:15,339 --> 00:17:18,459
+Dios, el sexo asedia a los jóvenes,
+se derrama sobre ellos.
+
+160
+00:17:20,539 --> 00:17:22,619
+Desde los bazares,
+mercados y templos.
+
+161
+00:17:23,539 --> 00:17:26,179
+Como no pueden ver a
+sus impulsos místicos.
+
+162
+00:17:26,499 --> 00:17:28,579
+Cazaremos al zorro,
+para que los jóvenes.
+
+163
+00:17:29,419 --> 00:17:31,899
+Para que vuelvan a participar
+de sus sacrificios.
+
+164
+00:17:32,779 --> 00:17:34,699
+¿Comprende el sentido
+profundo de la sangre?
+
+165
+00:17:35,419 --> 00:17:38,059
+No espero que me de la razón.
+
+166
+00:17:39,259 --> 00:17:40,619
+Pero seguro que llegaremos
+a un acuerdo.
+
+167
+00:17:42,739 --> 00:17:45,459
+¿Qué? ¿Quién? ¿Dónde?
+
+168
+00:17:46,179 --> 00:17:47,179
+Ahora.
+
+169
+00:17:47,899 --> 00:17:49,139
+Discúlpeme.
+
+170
+00:18:08,699 --> 00:18:11,499
+Buscando información acuden al
+oriente más cercano.
+
+171
+00:18:15,379 --> 00:18:16,539
+Es una pieza única, ¿verdad?
+
+172
+00:18:16,619 --> 00:18:17,339
+Muy bonito.
+
+173
+00:18:17,419 --> 00:18:18,579
+Es suyo.
+
+174
+00:18:18,739 --> 00:18:22,179
+A mi mujer no le gustaría,
+es demasiado ostentoso.
+
+175
+00:18:22,619 --> 00:18:23,979
+Es occidental.
+
+176
+00:18:24,059 --> 00:18:25,899
+No, del este, de Stepney.
+
+177
+00:18:27,219 --> 00:18:28,979
+¿Le dice algo este anillo?
+
+178
+00:18:30,019 --> 00:18:31,499
+Masonería.
+
+179
+00:18:31,499 --> 00:18:32,779
+¿Es inglés del todo?
+
+180
+00:18:33,019 --> 00:18:35,059
+Claro.
+
+181
+00:18:35,779 --> 00:18:39,459
+Pero no está el del sindicato.
+espere, miento, un segundo.
+
+182
+00:18:40,819 --> 00:18:41,379
+¿Abdul?
+
+183
+00:18:41,939 --> 00:18:43,619
+Si corazón.
+
+184
+00:18:47,019 --> 00:18:47,979
+Un tipo del este de Suez.
+
+185
+00:18:48,739 --> 00:18:50,059
+Era un tipo estupendo.
+
+186
+00:18:51,379 --> 00:18:53,059
+Creo que sigue en la carbonera.
+
+187
+00:19:03,299 --> 00:19:04,619
+¿No se le sube la
+sangre a la cabeza?
+
+188
+00:19:05,739 --> 00:19:07,299
+¿No le sale caro el sabor del este?
+
+189
+00:19:08,299 --> 00:19:09,379
+¿No se le sube la sangre a las
+tripas?
+
+190
+00:19:10,699 --> 00:19:11,659
+¿Es peligroso este anillo?
+
+191
+00:19:12,739 --> 00:19:13,299
+Kaili.
+
+192
+00:19:15,099 --> 00:19:15,859
+Debo tumbarme.
+
+193
+00:19:22,579 --> 00:19:25,579
+Oiga, este menú.
+
+194
+00:19:57,819 --> 00:19:58,499
+Oiga, ha...
+
+195
+00:20:04,499 --> 00:20:06,259
+Hey, hay un hombre muy ocupado.
+
+196
+00:20:13,859 --> 00:20:14,859
+¿Puede levantar esto por mi?
+
+197
+00:20:28,939 --> 00:20:29,459
+¡Vas a comer, Paul?
+
+198
+00:20:34,059 --> 00:20:35,219
+Ustedes están en riesgo de muerte.
+
+199
+00:20:36,179 --> 00:20:36,819
+No se lo voy a repetir más.
+
+200
+00:20:44,419 --> 00:20:45,499
+Es un lugar muy divertido.
+
+201
+00:20:48,339 --> 00:20:49,259
+Sopa.
+Sopa, si.
+
+202
+00:20:50,819 --> 00:20:51,459
+Es hora de partir.
+
+203
+00:20:52,139 --> 00:20:52,539
+No digas más.
+
+204
+00:20:57,499 --> 00:20:57,939
+Sopa también.
+
+205
+00:21:11,499 --> 00:21:14,699
+Permiso señor, Ud. tiene
+un anillo muy fascinante.
+
+206
+00:21:16,099 --> 00:21:17,259
+¿No tiene miedo de perderlo?
+
+207
+00:21:18,699 --> 00:21:21,299
+Es anillo secreto del
+sacrifico del temible Kaili.
+
+208
+00:21:21,979 --> 00:21:22,579
+No digas.
+
+209
+00:21:23,019 --> 00:21:23,379
+No digo más.
+
+210
+00:21:25,099 --> 00:21:26,499
+Si él va a ser sacrificado
+por el temible Kaili.
+
+211
+00:21:27,219 --> 00:21:28,739
+¿Por qué no está pintado de rojo?
+
+212
+00:21:29,259 --> 00:21:31,059
+Es la pregunta más
+rara que he escuchado.
+
+213
+00:21:32,419 --> 00:21:34,099
+El es mi mejor amigo, y lo será.
+
+214
+00:21:37,179 --> 00:21:38,459
+¿Qué es esto? ¿Anteojos?
+
+215
+00:21:41,419 --> 00:21:43,739
+Una víctima es ofrecida al
+temible Kaili todos los días.
+
+216
+00:21:44,339 --> 00:21:46,099
+Ellos están felices de ir.
+
+217
+00:21:46,699 --> 00:21:49,499
+Ellos tienen el previligio
+del lugar secreto del anillo.
+
+218
+00:21:49,819 --> 00:21:50,859
+Del sol a la luna.
+
+219
+00:21:51,059 --> 00:21:51,939
+De la luna al sol.
+
+220
+00:21:52,259 --> 00:21:54,699
+Y en el final del día son
+decapitados con un cuchillo.
+
+221
+00:21:56,619 --> 00:21:58,219
+Yo lo sacrificaré con el cuchillo.
+
+222
+00:21:58,739 --> 00:21:59,739
+Por eso vamos.
+
+223
+00:22:00,219 --> 00:22:01,579
+Debemos partir.
+
+224
+00:22:02,019 --> 00:22:03,219
+A las cinco.
+
+225
+00:22:05,459 --> 00:22:06,379
+Para elegir a la próxima víctima.
+
+226
+00:22:06,499 --> 00:22:08,539
+Oh... Ud es un
+señor muy afortunado.
+
+227
+00:22:09,099 --> 00:22:12,059
+Mi pobre madre daría una
+mano para ser elegida.
+
+228
+00:22:13,619 --> 00:22:14,579
+¿Qué es esto?
+
+229
+00:22:15,379 --> 00:22:17,259
+Un boleto para la temporada.
+¿Qué crees?
+
+230
+00:22:18,259 --> 00:22:19,739
+Ahhh, para mi sopa de estación.
+
+231
+00:22:23,259 --> 00:22:24,699
+Algo vino en esta sopa.
+
+232
+00:22:25,179 --> 00:22:28,019
+Me lo mandó una admiradora
+desde oriente
+
+233
+00:22:28,139 --> 00:22:31,619
+Pero fue una linda historia la
+del sacrifico.
+
+234
+00:22:34,579 --> 00:22:36,299
+Ahora, vaamosss...
+
+235
+00:22:37,059 --> 00:22:40,379
+Hable con las autoridades, y
+regrese el anillo.
+
+236
+00:22:40,379 --> 00:22:42,459
+Para la felicidad de la
+diosa Kaili.
+
+237
+00:22:43,659 --> 00:22:44,539
+Tres horas.
+
+238
+00:22:47,459 --> 00:22:48,499
+Agárrelo, vamos.
+
+239
+00:22:52,139 --> 00:22:52,979
+¡Huye!
+
+240
+00:23:09,219 --> 00:23:10,619
+El especialista de
+anillos más cercano.
+
+241
+00:23:17,859 --> 00:23:20,779
+Tenemos muchos problemas,
+algunos de ellos matrimoniales.
+
+242
+00:23:22,459 --> 00:23:24,139
+Este anillo no es piedra.
+
+243
+00:23:24,139 --> 00:23:26,019
+Apúrese, me quedan
+tres horas de vida.
+
+244
+00:23:26,459 --> 00:23:27,499
+Parece que es metal.
+
+245
+00:23:36,059 --> 00:23:38,139
+No es de metal la esfera,
+no he tenido experiencia.
+
+246
+00:23:38,539 --> 00:23:39,659
+¡Nunca vi nada así, ha fracasado!
+
+247
+00:23:40,179 --> 00:23:41,299
+Recién comenzamos.
+
+248
+00:23:44,219 --> 00:23:45,939
+Tengo cierta prisa debido
+al hecho...
+
+249
+00:23:46,419 --> 00:23:48,619
+de que me vida corre peligro.
+
+250
+00:23:48,979 --> 00:23:50,379
+Tres y diez.
+
+251
+00:23:51,579 --> 00:23:52,619
+¿Una rueda?
+
+252
+00:23:53,579 --> 00:23:57,339
+Hasta la casa real de Hanover
+tiene ruedas.
+
+253
+00:24:09,579 --> 00:24:11,259
+Nunca vi nada igual. Ha fracasado.
+
+254
+00:24:13,059 --> 00:24:14,419
+Yo sugiero ir a un especialista.
+
+255
+00:24:14,739 --> 00:24:17,099
+¿A cuál? Si Ud. ha roto
+todas sus herramientas.
+
+256
+00:24:17,379 --> 00:24:19,619
+Los bomberos sacaron
+mi cabeza de las vías.
+
+257
+00:24:19,659 --> 00:24:20,419
+¿Tú querías?
+
+258
+00:24:20,459 --> 00:24:23,579
+No, la dejaba allí cuando no la
+usaba en el colegio.
+
+259
+00:24:24,179 --> 00:24:26,259
+Los rieles tienen una buena
+perspectiva.
+
+260
+00:24:26,859 --> 00:24:29,819
+Y por último el científico
+más cercano.
+
+261
+00:24:31,859 --> 00:24:33,659
+Me gustan las operaciones
+te dan nuevos horizontes.
+
+262
+00:24:35,419 --> 00:24:37,419
+Dudo mucho que funcione.
+
+263
+00:24:37,939 --> 00:24:40,059
+Funcionaría, si el gobierno
+gastara más fondos.
+
+264
+00:24:41,059 --> 00:24:42,459
+Hecho en América.
+
+265
+00:24:43,099 --> 00:24:45,579
+Es otro científico fracasado.
+
+266
+00:24:45,579 --> 00:24:49,579
+Provocaremos la expansión de
+las moléculas...
+
+267
+00:24:49,739 --> 00:24:52,179
+para que el anillo se caiga.
+
+268
+00:24:52,499 --> 00:24:54,419
+¿Cómo es su recibo de luz?
+
+269
+00:24:54,619 --> 00:24:56,419
+Se parece a una Biblia.
+
+270
+00:24:57,579 --> 00:24:58,779
+No se cae,
+ni se mueve.
+
+271
+00:25:01,019 --> 00:25:02,579
+Voltaje, voltaje.
+
+272
+00:25:03,499 --> 00:25:06,059
+Más, más, más.
+
+273
+00:25:06,299 --> 00:25:07,619
+¿Hay toma de tierra?
+
+274
+00:25:08,419 --> 00:25:10,059
+No, no, espera, gracias.
+
+275
+00:25:10,219 --> 00:25:12,739
+Fabricado en América,
+a años luz de nosotros.
+
+276
+00:25:12,739 --> 00:25:13,779
+Esto es inglés.
+
+277
+00:25:15,499 --> 00:25:16,859
+¿Es verde la tierra en América?
+
+278
+00:25:17,379 --> 00:25:18,859
+En algunos lugares es marrón.
+
+279
+00:25:20,179 --> 00:25:21,699
+Es un idiota, un alcornoque.
+
+280
+00:25:27,339 --> 00:25:29,059
+Hecho.
+
+281
+00:25:32,019 --> 00:25:32,979
+Vamos.
+
+282
+00:25:35,779 --> 00:25:38,819
+Me gusta seguir con los procedimientos
+ya me lo agradecerán.
+
+283
+00:25:39,339 --> 00:25:40,979
+No consigues nada, científico.
+
+284
+00:25:41,779 --> 00:25:46,219
+Lo esencial son los enchufes,
+los enchufes ingleses.
+
+285
+00:25:47,419 --> 00:25:49,419
+No estos americanos
+de alto voltaje.
+
+286
+00:25:49,659 --> 00:25:50,619
+¿Qué tal te sientes?
+-Antes usaba las manos.
+
+287
+00:25:51,459 --> 00:25:52,539
+Antes las usaba.
+
+288
+00:25:55,699 --> 00:25:57,379
+¿Podrá seguir tocando la batería?
+
+289
+00:25:57,739 --> 00:26:01,459
+La tocaba mucho, yo tampoco
+soy manco.
+
+290
+00:26:04,019 --> 00:26:04,939
+¡Voltaje!
+
+291
+00:26:10,939 --> 00:26:12,379
+A cubierto.
+
+292
+00:26:23,179 --> 00:26:24,499
+No puedo verlo.
+¡Funciona!
+
+293
+00:26:25,059 --> 00:26:26,219
+Ahora el rayo.
+
+294
+00:26:33,539 --> 00:26:34,539
+Páralo.
+
+295
+00:26:35,099 --> 00:26:37,739
+No se lo puede parar estando así.
+
+296
+00:26:37,739 --> 00:26:40,059
+Él dominaría el mundo si le
+concedieran una beca.
+
+297
+00:26:40,459 --> 00:26:43,099
+Es Ud. un científico loco,
+un fracasado.
+
+298
+00:26:54,499 --> 00:26:59,259
+Fantástico, con un anillo así...
+yo podría dominar el mundo.
+
+299
+00:27:01,739 --> 00:27:03,179
+Algeron, el láser.
+
+300
+00:27:03,339 --> 00:27:05,259
+Ud. y su ayudante son lunáticos.
+
+301
+00:27:05,459 --> 00:27:07,979
+Suéltelo o llamo a un guardia.
+
+302
+00:27:11,539 --> 00:27:12,499
+Láser.
+
+303
+00:27:13,379 --> 00:27:14,259
+¡Alto!
+
+304
+00:27:15,139 --> 00:27:16,899
+Suéltelo o disparo.
+
+305
+00:27:17,299 --> 00:27:18,739
+Y yo soy terrible disparando.
+
+306
+00:27:20,659 --> 00:27:21,579
+Apaguen la máquina.
+
+307
+00:27:25,939 --> 00:27:27,019
+El láser de nuevo.
+
+308
+00:27:28,059 --> 00:27:30,219
+Si uno domina mejor los bichos
+que los enchufes.
+
+309
+00:27:30,619 --> 00:27:32,099
+El MIT que busco para
+gobernar el mundo.
+
+310
+00:27:33,899 --> 00:27:35,979
+Mi padre siempre
+cuidaba a los perros.
+
+311
+00:27:36,219 --> 00:27:42,699
+Por eso amo a los animales
+y confían en mi.
+
+312
+00:27:43,659 --> 00:27:46,859
+¿Podemos confiar en ella,
+si antes atacó a ringo?
+
+313
+00:27:47,939 --> 00:27:50,419
+Yo respondo por ella,
+somos muy amigos.
+
+314
+00:27:51,139 --> 00:27:51,699
+El láser está listo.
+
+315
+00:27:51,699 --> 00:27:55,019
+Atácalos.
+
+316
+00:28:01,499 --> 00:28:03,899
+El enchufe, déme 5 minutos.
+
+317
+00:28:06,139 --> 00:28:09,699
+La fuga de cerebros.
+El cerebro de él se ha fugado.
+
+318
+00:28:13,219 --> 00:28:16,179
+<i>Aquí estoy con la
+cabeza en la mano.</i>
+
+319
+00:28:16,779 --> 00:28:19,459
+<i>De cara a la pared.</i>
+
+320
+00:28:20,779 --> 00:28:24,059
+<i>Cuando ella se va no puedo seguir,</i>
+
+321
+00:28:24,859 --> 00:28:28,579
+<i>Sintiéndome empequeñecido.</i>
+
+322
+00:28:30,579 --> 00:28:33,899
+<i>En todas partes la gente
+se me queda mirando.</i>
+
+323
+00:28:34,579 --> 00:28:37,739
+<i>Todos y cada uno de los días.</i>
+
+324
+00:28:39,099 --> 00:28:41,899
+<i>Puedo verlos cómo se ríen de mi.</i>
+
+325
+00:28:42,539 --> 00:28:46,259
+<i>Y los oigo decir...</i>
+
+326
+00:28:50,059 --> 00:28:54,819
+<i>Hey, tienes que esconder tu amor.</i>
+
+327
+00:28:58,019 --> 00:29:02,459
+<i>Hey, tienes que esconder tu amor.</i>
+
+328
+00:29:06,379 --> 00:29:09,539
+<i>Cómo puedo ni siquiera intentarlo.</i>
+
+329
+00:29:10,179 --> 00:29:13,139
+<i>Nunca podré ganar.</i>
+
+330
+00:29:13,979 --> 00:29:17,219
+<i>Oyéndolos, viéndolos.</i>
+
+331
+00:29:18,819 --> 00:29:22,619
+<i>En el estado en el
+que me encuentro.</i>
+
+332
+00:29:24,299 --> 00:29:27,139
+<i>Cómo pudo decirme ella.</i>
+
+333
+00:29:27,779 --> 00:29:30,859
+<i>El amor se abrirá paso.</i>
+
+334
+00:29:31,779 --> 00:29:35,019
+<i>Reunidos a mi alrededor,
+payasos todos.</i>
+
+335
+00:29:35,819 --> 00:29:40,059
+<i>Dejen que los escuche decir...</i>
+
+336
+00:29:43,459 --> 00:29:48,139
+<i>Hey tienes que esconder tu amor.</i>
+
+337
+00:29:51,179 --> 00:29:56,699
+<i>Hey tienes que esconder tu amor.</i>
+
+338
+00:30:17,899 --> 00:30:19,019
+Lo tengo aquí.
+
+339
+00:30:22,099 --> 00:30:24,139
+Mira lo que has hecho con
+tus trucos orientales.
+
+340
+00:30:24,179 --> 00:30:28,059
+No, es el sacerdote Clang el de los
+trucos orientales.
+
+341
+00:30:28,459 --> 00:30:31,979
+¿Cómo sabemos que tú no nos engañarás
+con tus trucos orientales?...
+
+342
+00:30:32,939 --> 00:30:34,619
+...tú también.
+
+343
+00:30:34,939 --> 00:30:35,779
+¿De qué trucos hablas?
+
+344
+00:30:35,939 --> 00:30:37,779
+Pon eso May, y guárdalo.
+
+345
+00:30:37,779 --> 00:30:39,779
+Antes de ahora uds.
+estaban a salvo.
+
+346
+00:30:40,059 --> 00:30:43,459
+Mi hermana fue elegida
+para ser sacrificada a Kaili.
+
+347
+00:30:44,979 --> 00:30:47,019
+Ahora mi hermana está
+a salvo y se levanta.
+
+348
+00:30:56,059 --> 00:30:59,139
+Al final del día otra
+víctima es elegida.
+
+349
+00:31:00,139 --> 00:31:03,579
+Pero desde ahora está muerta
+si no conseguimos el anillo.
+
+350
+00:31:05,459 --> 00:31:07,379
+Esto hará que su dedo
+se achique. Liberándolo.
+
+351
+00:31:08,259 --> 00:31:09,259
+Se valiente.
+
+352
+00:31:09,779 --> 00:31:10,859
+¿Puedo mirar?
+
+353
+00:31:10,939 --> 00:31:13,779
+Y si tú eres valiente,
+esto no será necesario.
+
+354
+00:31:14,139 --> 00:31:15,259
+Fin de parte uno.
+
+355
+00:31:15,819 --> 00:31:16,699
+Intermedio.
+
+356
+00:31:21,339 --> 00:31:22,779
+Fin de intermedio.
+
+357
+00:31:23,219 --> 00:31:24,219
+Parte dos.
+
+358
+00:31:26,219 --> 00:31:29,379
+En dónde te habías metido.
+En el templo, ¿no?
+
+359
+00:31:30,099 --> 00:31:33,259
+Como tu hermana que vuelve,
+de todos los colores.
+
+360
+00:31:34,419 --> 00:31:35,979
+Fin de parte dos.
+
+361
+00:31:36,819 --> 00:31:38,579
+Parte tres
+Más tarde, a la nochecita.
+
+362
+00:31:42,419 --> 00:31:44,179
+¿Estará asegurado?
+
+363
+00:31:44,379 --> 00:31:46,899
+¿Cómo preguntas eso?
+Entérare, eh.
+
+364
+00:31:47,739 --> 00:31:48,659
+¿Qué me puede
+decir acerca de eso?
+
+365
+00:31:48,659 --> 00:31:52,819
+Esto hará que el dedo se achique.
+
+366
+00:31:52,819 --> 00:31:53,899
+Es un secreto médico de mi madre.
+
+367
+00:31:54,219 --> 00:31:56,259
+Esto no debería traerme problemas.
+
+368
+00:31:56,859 --> 00:32:00,339
+Soy alérgico a la penilicina
+y a un montón de drogas.
+
+369
+00:32:01,939 --> 00:32:04,099
+Seguro que no fue en Inglaterra.
+-Chicle ¿no te crea hábito?
+
+370
+00:32:04,739 --> 00:32:06,019
+Solo si te lo tragas.
+
+371
+00:32:42,219 --> 00:32:44,699
+Le prometo que los efectos
+del medicamento.
+
+372
+00:32:46,379 --> 00:32:47,859
+Pasarán rápidamente.
+
+373
+00:32:49,619 --> 00:32:51,339
+¡No atiendas debe ser Clang!
+
+374
+00:32:55,139 --> 00:32:56,099
+¿Hará efecto?
+
+375
+00:32:57,259 --> 00:32:58,379
+Esto es un lamentable error.
+
+376
+00:33:00,339 --> 00:33:01,099
+Mi dedo...
+
+377
+00:33:03,139 --> 00:33:04,179
+¿Dónde está Paul?
+
+378
+00:33:07,259 --> 00:33:08,419
+Paul, déjate de bobadas.
+
+379
+00:33:09,019 --> 00:33:11,419
+Ya no tengo más líquido.
+
+380
+00:33:11,899 --> 00:33:13,499
+No te librarás del anillo.
+
+381
+00:33:13,739 --> 00:33:14,499
+¿Ese no es su traje?
+
+382
+00:33:14,659 --> 00:33:19,939
+La excitante aventura
+de Paul en el piso.
+
+383
+00:33:34,459 --> 00:33:36,539
+No mires, que nos tomen
+por inocentes peatones.
+
+384
+00:33:45,099 --> 00:33:46,059
+¡Prepárense!
+
+385
+00:33:46,659 --> 00:33:47,499
+¡Prepárense!
+
+386
+00:33:48,899 --> 00:33:49,779
+Escóndanse, hay alguien
+detrás de la puerta.
+
+387
+00:33:56,859 --> 00:33:57,659
+Vamos, vamos.
+
+388
+00:34:02,819 --> 00:34:03,859
+Kaili...
+
+389
+00:34:21,899 --> 00:34:22,779
+Con desorden, me está
+desordenando mi casa.
+
+390
+00:34:35,499 --> 00:34:37,499
+Soy yo, idiota...
+
+391
+00:34:38,259 --> 00:34:39,139
+Muéranse....
+
+392
+00:34:42,939 --> 00:34:44,859
+Pies, pies, van a hacer
+daño a Paul.
+
+393
+00:35:40,139 --> 00:35:43,459
+Kaili, está rojo, ¡mátenlo!
+
+394
+00:35:56,699 --> 00:35:58,979
+¡Santo cielo!, retirada, retirada.
+
+395
+00:36:01,939 --> 00:36:03,059
+Arriba, arriba.
+
+396
+00:36:04,659 --> 00:36:05,579
+¿Quién tiene el anillo?
+
+397
+00:36:06,499 --> 00:36:07,779
+¿Recuerda al hombre
+de la gran nariz?
+
+398
+00:36:17,659 --> 00:36:18,939
+Es suyo, suyo.
+
+399
+00:36:19,619 --> 00:36:21,299
+Vale dinero, tal vez
+un par de libras.
+
+400
+00:36:22,539 --> 00:36:24,619
+Lo hice yo solito, ¿sabes?
+
+401
+00:36:24,619 --> 00:36:26,659
+Y en Wall Street nos llaman un
+país retrasado.
+
+402
+00:36:27,459 --> 00:36:28,499
+Con un anillo como ese...
+
+403
+00:36:28,699 --> 00:36:31,579
+...me llamarán de defensa,
+es lo que creo.
+
+404
+00:36:32,419 --> 00:36:33,579
+No puedo quitármelo.
+
+405
+00:36:34,899 --> 00:36:35,899
+Vamos, sale.
+
+406
+00:36:39,219 --> 00:36:41,699
+Paul, ¿que has hecho? Ese era Paul.
+
+407
+00:36:43,259 --> 00:36:45,259
+Bien, Algeron, mi maletín.
+
+408
+00:36:45,579 --> 00:36:46,659
+Habrá que operar.
+
+409
+00:36:48,459 --> 00:36:49,939
+Paga el seguro, ¿no?
+
+410
+00:36:51,579 --> 00:36:52,619
+Miren.
+
+411
+00:36:55,899 --> 00:36:58,299
+Estoy pegajoso, y tú estás rojo.
+
+412
+00:36:58,659 --> 00:36:59,459
+Creíamos que eras tú.
+
+413
+00:36:59,819 --> 00:37:01,179
+No, no era yo.
+
+414
+00:36:10,459 --> 00:36:11,619
+Manos arriba.
+
+415
+00:36:11,819 --> 00:36:14,059
+Típico, con las manos arriba no
+le puedo dar el anillo.
+
+416
+00:36:14,939 --> 00:36:17,419
+En el nombre de la ciencia,
+demando ese anillo.
+
+417
+00:37:04,379 --> 00:37:05,379
+¿Qué es lo que está haciendo?
+
+418
+00:37:09,659 --> 00:37:10,779
+Salgan.
+
+419
+00:37:12,379 --> 00:37:16,939
+Inglesa, un desastre, si tuviera una
+Luger, un buen equipo.
+
+420
+00:37:19,219 --> 00:37:20,339
+Piénsenlo.
+
+421
+00:37:20,339 --> 00:37:21,659
+La solución está en sus manos.
+
+422
+00:37:23,019 --> 00:37:24,339
+La de los votantes.
+
+423
+00:37:31,019 --> 00:37:33,059
+¿Dónde está Ahme?
+-No sé.
+
+424
+00:37:55,699 --> 00:37:57,179
+No entiendo su lengua.
+
+425
+00:37:57,339 --> 00:37:58,699
+No hablo su idioma como pueden ver.
+
+426
+00:37:59,899 --> 00:38:01,939
+Vamos tenemos que buscar el anillo.
+
+427
+00:38:11,419 --> 00:38:15,419
+MIENTRAS TANTO BUSCAN REFUGIO
+EN LOS ALPES
+
+428
+00:38:22,619 --> 00:38:25,459
+<i>Creo que voy a estar triste.</i>
+
+429
+00:38:27,819 --> 00:38:29,459
+<i>Y creo que es hoy, si.</i>
+
+430
+00:38:30,979 --> 00:38:36,379
+<i>La chica que me vuelve loco, se va.</i>
+
+431
+00:38:38,339 --> 00:38:40,979
+<i>Tiene un boleto para irse.</i>
+
+432
+00:38:42,139 --> 00:38:45,419
+<i>Tiene un boleto para irse.</i>
+
+433
+00:38:46,139 --> 00:38:50,499
+<i>Tiene un boleto para irse,
+pero no le importa.</i>
+
+434
+00:38:54,139 --> 00:38:56,459
+<i>Dijo que vivir conmigo.</i>
+
+435
+00:38:56,939 --> 00:39:00,379
+<i>La estaba desanimando.</i>
+
+436
+00:39:01,659 --> 00:39:07,659
+<i>Ya que nunca sería libre
+mientras yo estuviese cerca.</i>
+
+437
+00:39:09,579 --> 00:39:12,379
+<i>Tiene un boleto para irse.</i>
+
+438
+00:39:13,579 --> 00:39:16,659
+<i>Tiene un boleto para irse.</i>
+
+439
+00:39:17,539 --> 00:39:21,739
+<i>Tiene un boleto para irse,
+pero no le importa.</i>
+
+440
+00:39:25,899 --> 00:39:28,379
+<i>No sé por que está
+forzando la marcha.</i>
+
+441
+00:39:29,139 --> 00:39:32,539
+<i>Debe hacer lo que
+yo creo es correcto.</i>
+
+442
+00:39:33,259 --> 00:39:35,939
+<i>Antes de decir adiós,</i>
+
+443
+00:39:37,099 --> 00:39:40,219
+<i>Debe hacer lo que
+yo creo es correcto.</i>
+
+444
+00:39:42,979 --> 00:39:45,779
+<i>Creo que voy a estar triste.</i>
+
+445
+00:39:45,859 --> 00:39:49,859
+<i>Y creo que es hoy, si.</i>
+
+446
+00:39:50,819 --> 00:39:57,779
+<i>La chica que me vuelve loco, se va.</i>
+
+447
+00:39:59,059 --> 00:40:01,659
+<i>Tiene un boleto para irse,</i>
+
+448
+00:40:03,019 --> 00:40:05,339
+<i>Tiene un boleto para irse,</i>
+
+449
+00:40:07,259 --> 00:40:11,419
+<i>Tiene un boleto para irse,
+pero no le importa.</i>
+
+450
+00:40:15,259 --> 00:40:18,379
+<i>No sé por que está
+forzando la marcha.</i>
+
+451
+00:40:19,019 --> 00:40:21,859
+<i>Debe hacer lo que
+yo creo es correcto.</i>
+
+452
+00:40:23,099 --> 00:40:25,659
+<i>Antes de decir adiós,</i>
+
+453
+00:40:26,819 --> 00:40:29,939
+<i>Debe hacer lo que
+yo creo es correcto.</i>
+
+454
+00:40:33,139 --> 00:40:35,779
+<i>Dijo que vivir conmigo.</i>
+
+455
+00:40:35,859 --> 00:40:38,739
+<i>La estaba desanimando.</i>
+
+456
+00:40:41,179 --> 00:40:46,859
+<i>Ya que nunca sería libre
+mientras yo estuviese cerca.</i>
+
+457
+00:40:48,659 --> 00:40:51,219
+<i>Tiene un boleto para irse,</i>
+
+458
+00:40:52,659 --> 00:40:55,179
+<i>Tiene un boleto para irse,</i>
+
+459
+00:40:56,739 --> 00:41:01,019
+<i>Tiene un boleto para irse,
+pero no le importa.</i>
+
+460
+00:41:04,659 --> 00:41:09,059
+<i>Pero no le importa...</i>
+
+461
+00:41:26,579 --> 00:41:27,699
+Vamos allá.
+
+462
+00:41:42,619 --> 00:41:44,019
+Esperen, esperen por mi.
+
+463
+00:41:49,579 --> 00:41:51,099
+Se me sube la sangre a la cabeza.
+
+464
+00:41:55,019 --> 00:41:57,059
+Déjenme bajar, vamos.
+
+465
+00:41:58,899 --> 00:42:01,739
+Déjenme bajar.
+Gracias.
+
+466
+00:42:25,339 --> 00:42:27,059
+Ah, con que si.
+
+467
+00:42:34,779 --> 00:42:37,059
+Vamos Ringo, ya la tengo.
+
+468
+00:42:39,979 --> 00:42:41,539
+Vamos que esta va derecha.
+
+469
+00:42:42,859 --> 00:42:44,619
+Sí la tengo.
+-¡Qué la vas a tener!
+
+470
+00:42:45,779 --> 00:42:48,779
+Ahora estoy usando el fusible.
+
+471
+00:42:50,779 --> 00:42:53,299
+Tú eres un tonto usando eso Jaca.
+
+472
+00:42:53,299 --> 00:42:55,299
+Cuidado, yo soy cuidadoso.
+
+473
+00:42:58,099 --> 00:43:00,819
+Cierra para la derecha.
+-Estoy girando hacia la derecha.
+
+474
+00:43:01,619 --> 00:43:02,539
+Ya cierra.
+
+475
+00:43:03,339 --> 00:43:05,139
+Dichosa universidad por TV.
+
+476
+00:43:06,099 --> 00:43:06,979
+Ya me lo agradecerá.
+
+477
+00:43:07,779 --> 00:43:09,739
+Me estoy levantando.
+
+478
+00:43:11,419 --> 00:43:12,419
+Estoy moviendo
+mi pierna izquierda.
+
+479
+00:43:12,419 --> 00:43:13,579
+¡Apúrate!
+
+480
+00:43:13,779 --> 00:43:15,459
+Ahora mi pierna derecha.
+
+481
+00:43:16,339 --> 00:43:17,379
+Dámelo a mí.
+
+482
+00:43:24,939 --> 00:43:26,899
+Recuerda, cuando se rompa el hielo
+tírate al agua.
+
+483
+00:43:27,499 --> 00:43:28,939
+Está en la mano derecha.
+
+484
+00:43:29,699 --> 00:43:30,699
+Si no, no funcionará.
+
+485
+00:43:31,259 --> 00:43:32,939
+Qué partido más delicado.
+
+486
+00:43:35,979 --> 00:43:36,859
+Gracias.
+
+487
+00:43:40,299 --> 00:43:43,339
+Buen tiro, justo cerca de la marca,
+estupendo.
+
+488
+00:43:44,419 --> 00:43:46,019
+Es algo raro, va tan rápido
+que echa humo.
+
+489
+00:43:47,059 --> 00:43:48,859
+Es una trampa.
+
+490
+00:43:50,459 --> 00:43:52,899
+Huye Ringo.
+
+491
+00:44:02,299 --> 00:44:04,939
+Desechos del ejército,
+un asco el equipo.
+
+492
+00:44:20,939 --> 00:44:22,899
+Disculpe ¿Casablanca?
+
+493
+00:44:25,419 --> 00:44:26,619
+Gracias.
+
+494
+00:44:29,939 --> 00:44:31,619
+Vamos, Hache,
+por el flanco derecho.
+
+495
+00:44:33,459 --> 00:44:34,739
+Concéntrate en mi poder.
+
+496
+00:44:51,859 --> 00:44:53,419
+En el nombre de Kaili,
+paren, paren.
+
+497
+00:44:58,819 --> 00:45:00,419
+Mi grupo de sangre es muy inusual,
+miren.
+
+498
+00:45:01,979 --> 00:45:04,539
+Mi grupo de sangre es...
+
+499
+00:45:37,859 --> 00:45:39,459
+No, no.
+
+500
+00:45:39,939 --> 00:45:42,219
+Que...
+
+501
+00:45:43,219 --> 00:45:44,499
+Estoy muy ocupado.
+
+502
+00:46:09,779 --> 00:46:13,099
+Quizás, si diéramos entradas
+gratis a los jóvenes...
+
+503
+00:46:13,499 --> 00:46:16,059
+para sacrificarlo en la cena, se
+evitaría esto.
+
+504
+00:46:17,179 --> 00:46:18,739
+Es un problema muy serio.
+
+505
+00:46:52,059 --> 00:46:53,259
+Londres.
+
+506
+00:46:53,659 --> 00:46:56,219
+¿Rojo?
+
+507
+00:46:57,019 --> 00:46:59,139
+Me pintan de rojo
+antes de degollarme.
+
+508
+00:46:59,379 --> 00:47:00,739
+Son de diferentes religiones...
+
+509
+00:47:01,659 --> 00:47:02,539
+pienso...
+
+510
+00:47:03,299 --> 00:47:04,539
+Así que este es el famoso anillo.
+
+511
+00:47:05,139 --> 00:47:06,339
+Yo arriesgo mi vida, ¿sabe?
+
+512
+00:47:08,179 --> 00:47:09,699
+Estos son los famosos Beatles.
+
+513
+00:47:10,899 --> 00:47:11,979
+Esta es la famosa Scotland Yard.
+
+514
+00:47:13,219 --> 00:47:15,179
+¿Cuánto cree que durará?
+
+515
+00:47:15,419 --> 00:47:17,979
+¿Cómo va lo del robo del tren?
+
+516
+00:47:18,619 --> 00:47:19,619
+No nos cree, ¿verdad?
+
+517
+00:47:22,779 --> 00:47:24,339
+Superintendente.
+
+518
+00:47:24,659 --> 00:47:25,899
+Con Ringo por favor.
+
+519
+00:47:25,859 --> 00:47:27,819
+Es para Ud. el famoso Ringo.
+
+520
+00:47:27,899 --> 00:47:30,179
+No puede ser, solo Paul sabe
+que estamos acá.
+
+521
+00:47:30,499 --> 00:47:31,419
+Yo lo se porque estoy aquí.
+
+522
+00:47:31,859 --> 00:47:34,259
+Permítanme a mi, que
+voy a imitar la voz.
+
+523
+00:47:35,379 --> 00:47:37,179
+Modestamente... James Cagney.
+
+524
+00:47:37,659 --> 00:47:40,419
+Hello, aquí el famoso Ringo.
+Fabuloso.
+
+525
+00:47:40,899 --> 00:47:43,739
+¿En qué puedo servirles, Fabuloso?
+
+526
+00:47:44,419 --> 00:47:46,019
+De Cagney, nada.
+
+527
+00:47:46,139 --> 00:47:47,859
+Vaya a la ventana.
+
+528
+00:47:49,299 --> 00:47:50,939
+Vaya a la ventana.
+
+529
+00:47:51,979 --> 00:47:53,459
+Vaya a la ventana.
+
+530
+00:48:15,779 --> 00:48:17,539
+Hay que llamar a la policía...
+
+531
+00:48:18,099 --> 00:48:19,099
+...no somos masoquistas.
+
+532
+00:48:19,379 --> 00:48:20,339
+¿Lo ve?
+
+533
+00:48:20,619 --> 00:48:21,939
+Si ahora les creo,
+otros no lo harían.
+
+534
+00:48:21,939 --> 00:48:24,299
+Bueno que empiece la función.
+
+535
+00:48:25,419 --> 00:48:26,379
+Pásenme el teléfono.
+
+536
+00:48:26,819 --> 00:48:29,019
+Nuestro cordón umbilical,
+marque el 999.
+
+537
+00:48:29,819 --> 00:48:30,979
+Necesitamos protecciones.
+
+538
+00:48:31,859 --> 00:48:32,939
+Tenemos que grabar mañana.
+
+539
+00:48:33,259 --> 00:48:34,179
+Yo necesito protección.
+
+540
+00:48:34,259 --> 00:48:35,139
+Y Ud. la tendrá.
+
+541
+00:48:35,379 --> 00:48:36,339
+Denme protección.
+
+542
+00:48:39,779 --> 00:48:44,539
+<i>No te das cuenta de
+cuánto te necesito,</i>
+
+543
+00:48:47,019 --> 00:48:51,619
+<i>Cuánto te quiero todo el
+tiempo y nunca te dejaré.</i>
+
+544
+00:48:53,459 --> 00:48:56,219
+<i>Por favor vuelve a mi.</i>
+
+545
+00:48:57,339 --> 00:49:00,139
+<i>Estoy tan sólo como
+alguien puede estar.</i>
+
+546
+00:49:01,419 --> 00:49:02,539
+<i>Te necesito.</i>
+
+547
+00:49:04,699 --> 00:49:09,179
+<i>Dijiste que tenías una
+o dos cosas que decirme.</i>
+
+548
+00:49:11,619 --> 00:49:16,139
+<i>¿Cómo iba a pensar
+que me enfadarías?</i>
+
+549
+00:49:18,579 --> 00:49:21,739
+<i>No me di cuenta.</i>
+
+550
+00:49:22,339 --> 00:49:25,539
+<i>Mientras te miraba a los ojos,</i>
+
+551
+00:49:25,739 --> 00:49:27,379
+<i>que me lo dijiste.</i>
+
+552
+00:49:28,339 --> 00:49:34,099
+<i>Que me lo dijiste, que
+no deseabas amarme más.</i>
+
+553
+00:49:35,819 --> 00:49:39,379
+<i>Eso fue cuando me
+dolió y me siento así.</i>
+
+554
+00:49:40,019 --> 00:49:42,379
+<i>Y no puedo ir con nadie.</i>
+
+555
+00:49:45,819 --> 00:49:50,099
+<i>Por favor recuerda mis
+sentimientos hacia ti.</i>
+
+556
+00:49:52,819 --> 00:49:57,379
+<i>Realmente nunca
+podría vivir sin ti.</i>
+
+557
+00:49:59,459 --> 00:50:02,019
+<i>Así que vuelve y date cuenta.</i>
+
+558
+00:50:03,299 --> 00:50:06,019
+<i>De lo que significas para mi.</i>
+
+559
+00:50:07,179 --> 00:50:08,819
+<i>Te necesito.</i>
+
+560
+00:50:09,979 --> 00:50:14,459
+<i>Cuando me lo dijiste,
+que no deseabas amarme más.</i>
+
+561
+00:50:16,259 --> 00:50:20,659
+<i>Eso fue cuando me
+dolió y me siento así.</i>
+
+562
+00:50:21,579 --> 00:50:23,499
+<i>Y no puedo ir con nadie.</i>
+
+563
+00:50:27,059 --> 00:50:31,539
+<i>Por favor recuerda mis
+sentimientos hacia ti,</i>
+
+564
+00:50:34,259 --> 00:50:39,219
+<i>realmente nunca
+podría vivir sin ti.</i>
+
+565
+00:50:41,179 --> 00:50:43,659
+<i>Así que vuelve y date cuenta.</i>
+
+566
+00:50:45,019 --> 00:50:47,739
+<i>De lo que significas para mi.</i>
+
+567
+00:50:48,339 --> 00:50:50,259
+<i>Te necesito.</i>
+
+568
+00:50:51,939 --> 00:50:53,459
+<i>Te necesito.</i>
+
+569
+00:50:55,579 --> 00:50:57,339
+<i>Te necesito.</i>
+
+570
+00:51:18,899 --> 00:51:19,979
+Hola.
+
+571
+00:51:20,059 --> 00:51:22,099
+Rayo de sol ¿algo para decir?
+
+572
+00:51:26,539 --> 00:51:27,819
+Aquí, Rayo de sol, entendido.
+
+573
+00:51:28,499 --> 00:51:29,499
+Rayo de sol, situación,
+por favor.
+
+574
+00:51:30,339 --> 00:51:33,059
+Esta hecha, la perforación,
+escuche.
+
+575
+00:51:39,299 --> 00:51:41,539
+<i>Es una mujer que comprende.</i>
+
+576
+00:51:41,899 --> 00:51:44,059
+<i>Es una mujer que ama a su hombre.</i>
+
+577
+00:51:44,059 --> 00:51:45,419
+Sorprendente.
+
+578
+00:51:45,739 --> 00:51:47,259
+<i>No me hace regalos.</i>
+
+579
+00:51:49,739 --> 00:51:51,299
+Entendido Amik, retorna a la base.
+
+580
+00:51:51,539 --> 00:51:53,539
+Completaré la tarea, fuera.
+
+581
+00:51:55,219 --> 00:51:56,379
+¡¡¡Ranah!!!
+
+582
+00:51:57,659 --> 00:52:02,259
+Llévale esta nota para la
+que la vea el cabo Buta.
+
+583
+00:52:26,979 --> 00:52:28,619
+Dice que estemos preparados.
+
+584
+00:52:29,499 --> 00:52:30,819
+Prepararse.
+
+585
+00:52:47,459 --> 00:52:51,099
+<i>Nos dijimos adiós, anoche.</i>
+
+586
+00:52:52,939 --> 00:52:57,539
+<i>El amor en nuestros ojos, anoche.</i>
+
+587
+00:52:58,979 --> 00:53:04,619
+<i>Y hoy encuentro, que
+has cambiado de parecer.</i>
+
+588
+00:53:04,739 --> 00:53:08,979
+<i>Trátame como lo hiciste anoche.</i>
+
+589
+00:53:10,179 --> 00:53:13,659
+<i>¿Estabas mintiendo anoche?</i>
+
+590
+00:53:15,779 --> 00:53:20,619
+<i>¿Fui tan poco juicioso, anoche?</i>
+
+591
+00:53:21,499 --> 00:53:26,859
+<i>Cuando te tenía cerca,
+fuiste tan sincera.</i>
+
+592
+00:53:27,179 --> 00:53:30,499
+<i>Trátame como lo hiciste anoche.</i>
+
+593
+00:53:33,219 --> 00:53:37,539
+<i>Anoche fue una noche
+por la que te recordaré.</i>
+
+594
+00:53:38,499 --> 00:53:43,539
+<i>Cuando pienso en las cosas que
+hicimos me dan ganas de llorar.</i>
+
+595
+00:53:44,339 --> 00:53:48,939
+<i>Nos dijimos adiós, anoche,</i>
+
+596
+00:53:49,899 --> 00:53:55,099
+<i>el amor en nuestros ojos, anoche.</i>
+
+597
+00:53:55,739 --> 00:54:01,219
+<i>Y hoy encuentro, que
+has cambiado de parecer,</i>
+
+598
+00:54:01,339 --> 00:54:06,379
+<i>trátame como lo hiciste anoche.</i>
+
+599
+00:54:31,859 --> 00:54:36,099
+<i>Anoche fue una noche
+por la que te recordaré.</i>
+
+600
+00:54:36,899 --> 00:54:42,219
+<i>Cuando pienso en las cosas que
+hicimos me dan ganas de llorar.</i>
+
+601
+00:54:42,979 --> 00:54:47,859
+<i>¿Estabas mintiendo anoche?,</i>
+
+602
+00:54:48,699 --> 00:54:53,619
+<i>¿Fui tan poco juicioso, anoche?</i>
+
+603
+00:54:54,299 --> 00:54:59,059
+<i>Cuando te tenía cerca,
+fuiste tan sincera.</i>
+
+604
+00:54:59,939 --> 00:55:04,179
+<i>trátame como lo hiciste anoche.</i>
+
+605
+00:55:11,619 --> 00:55:16,099
+<i>Cuando te tenía cerca,
+fuiste tan sincera.</i>
+
+606
+00:55:17,459 --> 00:55:21,059
+<i>Trátame como lo hiciste anoche.</i>
+
+607
+00:55:21,859 --> 00:55:24,699
+<i>Como la noche anterior.</i>
+
+608
+00:55:32,459 --> 00:55:33,659
+Corre.
+
+609
+00:56:13,219 --> 00:56:15,579
+Desgraciados, vamos.
+
+610
+00:56:24,619 --> 00:56:26,899
+Johny, levántate.
+
+611
+00:56:27,339 --> 00:56:28,219
+Paren.
+
+612
+00:56:28,459 --> 00:56:30,419
+Vamos, nene, tú puedes hacerlo.
+
+613
+00:56:34,139 --> 00:56:37,579
+Habrá que darse prisa,
+más bien que si.
+
+614
+00:57:00,779 --> 00:57:01,699
+Fuego.
+
+615
+00:57:09,579 --> 00:57:10,459
+Fuego.
+
+616
+00:57:12,979 --> 00:57:14,979
+Izquierda, más alto.
+
+617
+00:57:15,819 --> 00:57:17,259
+1500.
+-1500.
+
+618
+00:57:17,619 --> 00:57:21,739
+Lamento perder a Ahme, pero ella
+sabía los riesgos que corría.
+
+619
+00:57:22,499 --> 00:57:24,499
+Objetivo moviendo a la derecha.
+
+620
+00:57:24,899 --> 00:57:26,059
+Cargado.
+
+621
+00:57:26,579 --> 00:57:27,699
+Pues dispara entonces.
+
+622
+00:57:27,779 --> 00:57:30,019
+Disparando ahora.
+
+623
+00:57:33,939 --> 00:57:35,459
+Fallaste idiota.
+
+624
+00:57:43,099 --> 00:57:44,219
+Objetivo a la derecha.
+
+625
+00:57:49,299 --> 00:57:50,179
+Fuego.
+
+626
+00:57:59,059 --> 00:58:00,259
+Le hemos dado,
+le hemos dado.
+
+627
+00:58:46,619 --> 00:58:50,539
+¿Habrá algún lugar de Inglaterra
+donde se puede pensar?
+
+628
+00:58:51,179 --> 00:58:53,819
+UN PALACIO MUY CONOCIDO
+
+629
+00:58:54,499 --> 00:58:56,739
+¿Y el anillo simpático?
+
+630
+00:58:57,779 --> 00:58:59,019
+¿Y el tuyo?
+
+631
+00:58:59,739 --> 00:59:00,699
+Has agarrado un montón.
+
+632
+00:59:00,699 --> 00:59:02,499
+Por qué yo, y no tú.
+-Yo nunca lo hago.
+
+633
+00:59:03,219 --> 00:59:05,219
+Igual, con una sola mano.
+
+634
+00:59:07,379 --> 00:59:08,539
+Son feas eh..., las manos.
+
+635
+00:59:10,339 --> 00:59:11,819
+Las de algunos.
+-No me toca robar.
+
+636
+00:59:13,419 --> 00:59:14,139
+Es tu mano Ringo.
+
+637
+00:59:16,899 --> 00:59:18,059
+Sabes uno perderá, vamos.
+
+638
+00:59:19,739 --> 00:59:21,379
+Y la batería, has pensado.
+
+639
+00:59:22,259 --> 00:59:25,379
+No le afectará, yo no
+conozco muchos...
+
+640
+00:59:25,859 --> 00:59:27,819
+Una carta, me quito una...
+
+641
+00:59:30,459 --> 00:59:32,059
+Inconsciente, sería uno.
+
+642
+00:59:34,059 --> 00:59:36,459
+Habla de tus dedos. ¿Sabes?
+
+643
+00:59:37,259 --> 00:59:38,459
+Una.
+
+644
+00:59:38,459 --> 00:59:39,939
+Una para el que da.
+
+645
+00:59:40,299 --> 00:59:42,019
+No te ha dolido el corte.
+
+646
+00:59:42,019 --> 00:59:43,819
+Sujeta el palo de la batería.
+
+647
+00:59:43,859 --> 00:59:47,259
+Hay un baterista bueno en Manchester
+-No solo toco con ella.
+
+648
+00:59:48,379 --> 00:59:49,739
+¿Qué más haces con ella?
+-Usarla, ¿sabes?
+
+649
+00:59:50,699 --> 00:59:53,339
+Y además es guapo-
+-Subo la apuesta.
+
+650
+00:59:54,099 --> 00:59:56,339
+No has usado el dedo desde
+hace una hora.
+
+651
+00:59:56,379 --> 00:59:58,099
+Y todos estamos en peligro por ti.
+
+652
+00:59:58,659 --> 01:00:01,579
+Ni Paul ni yo te vimos usarlo desde
+desde hace una hora.
+
+653
+01:00:01,939 --> 01:00:02,739
+Voy de nuevo.
+
+654
+01:00:03,899 --> 01:00:07,379
+Nos estamos arriesgando
+por un miembro inútil.
+
+655
+01:00:07,979 --> 01:00:08,779
+Subo.
+
+656
+01:00:09,059 --> 01:00:12,979
+Ese era Scott, se adentró en la
+nieve para salvar a sus amigos.
+
+657
+01:00:13,899 --> 01:00:14,899
+Subo.
+
+658
+01:00:15,539 --> 01:00:16,899
+Es una broma.
+
+659
+01:00:18,539 --> 01:00:21,219
+Sostén este palo de la batería.
+
+660
+01:00:30,619 --> 01:00:32,899
+Estuviste subiendo la apuesta
+bastante calladito.
+
+661
+01:00:33,539 --> 01:00:35,099
+Será como sacarte una muela.
+
+662
+01:00:35,699 --> 01:00:38,979
+Yo tengo una buena mano, y tú
+apuestas cuando tienes 5 ases.
+
+663
+01:00:38,979 --> 01:00:40,139
+¿Los quieres ver?
+
+664
+01:00:40,579 --> 01:00:42,059
+Estas bromeando, tómalos.
+
+665
+01:00:42,139 --> 01:00:43,859
+Como ven he ganado todo.
+
+666
+01:00:48,539 --> 01:00:49,979
+¿Les gustaría un te, también?
+
+667
+01:00:50,939 --> 01:00:52,819
+Quieren cortarme el dedo, ¿sabe?
+
+668
+01:00:53,579 --> 01:00:54,819
+El famoso dedo, ¿no?
+
+669
+01:00:55,739 --> 01:01:00,979
+La policía ha extendido la protección
+para el famoso dedo en este país.
+
+670
+01:01:03,499 --> 01:01:07,059
+Escuchan, ¿qué es eso?
+parece encantado.
+
+671
+01:01:07,259 --> 01:01:08,859
+¿Cortas o no?
+
+672
+01:01:08,859 --> 01:01:12,339
+No voy a cortarme nada,
+no lo voy a hacer.
+
+673
+01:01:13,699 --> 01:01:16,099
+Esta área del palacio está
+encantada.
+
+674
+01:01:31,699 --> 01:01:33,539
+Creo que jamás saldremos con vida
+del palacio.
+
+675
+01:01:34,139 --> 01:01:37,139
+Creo que la Reina, tendrá algo que
+decir al respecto.
+
+676
+01:01:37,539 --> 01:01:38,339
+¿Qué dice?
+
+677
+01:01:38,659 --> 01:01:39,579
+¿Perdón?
+
+678
+01:01:40,059 --> 01:01:41,659
+Eso que sale del estómago.
+
+679
+01:01:41,899 --> 01:01:43,659
+¿Qué es eso? no quiero mirar.
+
+680
+01:01:49,699 --> 01:01:50,779
+Es una manguera.
+
+681
+01:01:58,299 --> 01:01:59,339
+Es para ti.
+
+682
+01:01:59,539 --> 01:02:00,539
+¿Quién es?
+
+683
+01:02:00,859 --> 01:02:01,779
+El jardinero.
+
+684
+01:02:07,739 --> 01:02:09,019
+Lo sacaré por la ventana.
+
+685
+01:02:16,379 --> 01:02:17,339
+Izquierda.
+
+686
+01:02:23,659 --> 01:02:25,179
+Mirada al frente.
+
+687
+01:02:29,899 --> 01:02:31,099
+Hora de tomar el te.
+
+688
+01:02:33,419 --> 01:02:34,339
+¡Manos arriba! Rápido.
+
+689
+01:02:46,019 --> 01:02:47,539
+Qué le vamos a hacer.
+
+690
+01:02:51,659 --> 01:02:53,259
+Dame el anillo, y ponlo abajo.
+
+691
+01:03:11,419 --> 01:03:12,579
+Soy yo, idiota.
+
+692
+01:03:15,819 --> 01:03:18,819
+Rápido, rápido, hay que atraparlos.
+
+693
+01:03:19,499 --> 01:03:21,099
+Esto funcionará, es de Harvard.
+
+694
+01:03:22,859 --> 01:03:23,819
+Se parece a un láser.
+
+695
+01:03:24,899 --> 01:03:26,499
+Es un condensador de relatividad.
+
+696
+01:03:27,019 --> 01:03:28,739
+Esto es para los pies.
+
+697
+01:03:29,939 --> 01:03:31,259
+Pon el enchufe.
+
+698
+01:03:33,819 --> 01:03:35,819
+Date prisa con el enchufe,
+yo pondré la mira.
+
+699
+01:03:38,019 --> 01:03:39,379
+Muy bien.
+
+700
+01:03:39,779 --> 01:03:41,099
+Es un láser.
+
+701
+01:04:01,819 --> 01:04:03,779
+Hola, explotaron los fusibles.
+
+702
+01:04:08,699 --> 01:04:10,179
+Máquina mala.
+
+703
+01:04:25,219 --> 01:04:27,819
+Otra vez el secador de pelo,
+de navidad.
+
+704
+01:04:28,299 --> 01:04:30,219
+¡HUBO OTRO RUIN ATENTADO CONTRA
+EL POBRE RINGO!
+
+705
+01:04:30,379 --> 01:04:33,699
+Bueno, chicos, demos un paseíto
+por el río, con la policía.
+
+706
+01:04:34,699 --> 01:04:37,819
+Uh, miren...
+es un banda.
+
+707
+01:04:51,059 --> 01:04:54,019
+Vamos, caballeros, rápido
+tras ellos.
+
+708
+01:04:54,739 --> 01:04:56,539
+Tras ellos, tras ellos.
+
+709
+01:05:07,979 --> 01:05:10,179
+Dos lager con lima y
+ dos lager con lima.
+
+710
+01:05:18,979 --> 01:05:19,979
+Otra vez me toca.
+
+711
+01:05:20,979 --> 01:05:22,419
+Todo es relativo, ¿sabes?
+
+712
+01:05:25,379 --> 01:05:26,659
+¿No echas de menos las anginas?
+
+713
+01:05:26,659 --> 01:05:27,699
+¿Y tú qué sabes?
+
+714
+01:05:29,139 --> 01:05:30,859
+Córtatelo Ringo, córtatelo.
+
+715
+01:05:31,219 --> 01:05:34,059
+Mira John, he pasado buenos
+momentos con este dedo.
+
+716
+01:05:34,059 --> 01:05:35,819
+¿Y cómo sabes que no
+lo echare de menos?
+
+717
+01:05:36,019 --> 01:05:38,779
+Eres un cobarde.
+
+718
+01:05:40,059 --> 01:05:42,139
+Hazte un seguro, son 5 libras
+por semana y se acabó.
+
+719
+01:05:42,139 --> 01:05:44,379
+Dirán que un escarabajo
+no tiene dedos.
+
+720
+01:05:44,899 --> 01:05:48,979
+Y no te morderás la uñas.
+
+721
+01:05:51,939 --> 01:05:54,459
+Últimamente estoy
+ligando yo y no tú Paul.
+
+722
+01:06:06,499 --> 01:06:07,699
+Lo lamento Ringo.
+
+723
+01:06:41,179 --> 01:06:43,339
+Todos los escalones
+están rotos en el medio.
+
+724
+01:06:48,419 --> 01:06:49,299
+Una ventana.
+
+725
+01:06:54,659 --> 01:06:55,979
+¿Su famoso Ringo está a salvo?
+
+726
+01:06:56,099 --> 01:06:57,179
+No, no lo está.
+
+727
+01:06:58,259 --> 01:06:59,179
+Cubran las salidas.
+
+728
+01:07:26,539 --> 01:07:28,379
+No te muevas, es lo que te dije.
+
+729
+01:07:33,259 --> 01:07:35,539
+¿Sabes Beatle la novena sinfonía?
+
+730
+01:07:39,099 --> 01:07:41,339
+Suena como esto.
+
+731
+01:07:52,219 --> 01:07:53,339
+Aquí hay una puerta trampa.
+
+732
+01:07:56,099 --> 01:07:57,219
+Ya está.
+
+733
+01:07:58,459 --> 01:07:59,619
+Con permiso.
+
+734
+01:07:59,859 --> 01:08:00,899
+Vengan conmigo.
+
+735
+01:08:05,659 --> 01:08:08,739
+El famoso tigre de bengala que
+se escapo del zoo esta mañana.
+
+736
+01:08:09,379 --> 01:08:11,099
+¿Cuán famoso es?
+
+737
+01:08:11,099 --> 01:08:16,139
+Pero es inofensivo, si se le canta el
+himno a la alegría de la 9ª de Beethoven.
+
+738
+01:08:16,379 --> 01:08:18,219
+Claro, elemental.
+
+739
+01:08:18,299 --> 01:08:19,979
+Viene del zoo de Berlín.
+Lo criaron con música.
+
+740
+01:08:22,419 --> 01:08:25,059
+No se preocupen, solo hay
+que silbar la sinfonía.
+
+741
+01:08:27,179 --> 01:08:28,139
+Vamos, vamos.
+
+742
+01:09:20,659 --> 01:09:22,219
+Bueno, a ver a quién se le escapó.
+
+743
+01:09:22,779 --> 01:09:24,499
+No se.
+
+744
+01:09:27,939 --> 01:09:28,859
+Hemos dicho que vamos.
+
+745
+01:09:32,299 --> 01:09:34,499
+Eso es lo que me gustaría.
+
+746
+01:09:35,019 --> 01:09:36,779
+Te gustará a donde iremos.
+
+747
+01:09:36,779 --> 01:09:38,059
+No preguntes.
+
+748
+01:09:43,979 --> 01:09:46,939
+ENTONCES ELLOS SE ENCONTRARON EN...
+
+749
+01:09:47,579 --> 01:09:49,099
+LAS BAHAMAS
+
+750
+01:09:58,259 --> 01:09:59,579
+ASI COMO
+
+751
+01:10:01,459 --> 01:10:02,379
+De nada.
+
+752
+01:10:03,459 --> 01:10:04,539
+Adiós señor.
+
+753
+01:10:23,699 --> 01:10:24,779
+Este.
+
+754
+01:10:35,899 --> 01:10:36,979
+ASI COMO
+
+755
+01:11:03,179 --> 01:11:04,179
+Bienvenido a Nassau.
+
+756
+01:11:04,419 --> 01:11:05,259
+Muchas gracias.
+
+757
+01:11:06,379 --> 01:11:07,779
+Quiero presentarle al agente 17...
+
+758
+01:11:09,019 --> 01:11:09,979
+agente 6...
+
+759
+01:11:11,499 --> 01:11:12,739
+agente 47...
+
+760
+01:11:14,539 --> 01:11:15,899
+agente 63...
+
+761
+01:11:17,539 --> 01:11:18,739
+agente 9...
+
+762
+01:11:19,539 --> 01:11:20,859
+agente 85...
+
+763
+01:11:21,899 --> 01:11:23,019
+agente 4...
+
+764
+01:11:24,139 --> 01:11:25,419
+agente 21
+
+765
+01:11:26,099 --> 01:11:27,459
+agente 85...
+
+766
+01:11:28,099 --> 01:11:29,219
+ASI COMO
+
+767
+01:11:32,939 --> 01:11:34,459
+¿Por qué no has ido a casa?
+
+768
+01:11:34,859 --> 01:11:37,539
+Ah, costa a estribor.
+
+769
+01:11:38,979 --> 01:11:40,859
+<i>Ya que tengo.</i>
+
+770
+01:11:41,219 --> 01:11:43,219
+<i>Otra chica.</i>
+
+771
+01:11:43,819 --> 01:11:45,539
+<i>Otra chica</i>
+
+772
+01:11:45,859 --> 01:11:49,659
+<i>Me estás haciendo decir que
+no tengo a nadie excepto a ti.</i>
+
+773
+01:11:50,459 --> 01:11:54,699
+<i>Pero desde hoy tengo
+a alguien nuevo.</i>
+
+774
+01:11:56,739 --> 01:12:00,179
+<i>No soy un tonto y no
+tomo lo que no quiero.</i>
+
+775
+01:12:00,539 --> 01:12:02,339
+<i>Ya que tengo.</i>
+
+776
+01:12:02,899 --> 01:12:04,819
+<i>Otra chica.</i>
+
+777
+01:12:05,659 --> 01:12:07,059
+<i>Otra chica.</i>
+
+778
+01:12:07,219 --> 01:12:09,579
+<i>Ella es más dulce
+que todas las chicas.</i>
+
+779
+01:12:09,659 --> 01:12:12,539
+<i>Y eso que he conocido unas cuantas.</i>
+
+780
+01:12:12,539 --> 01:12:17,539
+<i>Nadie en el mundo
+puede hacer lo que ella.</i>
+
+781
+01:12:17,539 --> 01:12:21,459
+<i>Por eso te digo que
+esta vez mejor paras,</i>
+
+782
+01:12:22,419 --> 01:12:24,059
+<i>ya que tengo.</i>
+
+783
+01:12:25,499 --> 01:12:26,859
+<i>Otra chica.</i>
+
+784
+01:12:27,659 --> 01:12:29,459
+<i>Otra chica.</i>
+
+785
+01:12:29,579 --> 01:12:31,619
+<i>Que me querrá hasta el final.</i>
+
+786
+01:12:33,219 --> 01:12:37,179
+<i>En lo bueno y en lo malo
+ella siempre será mi amiga.</i>
+
+787
+01:12:39,539 --> 01:12:44,179
+<i>No quiero decir que haya
+estado descontento contigo.</i>
+
+788
+01:12:45,619 --> 01:12:49,659
+<i>Pero desde hoy he visto
+alguien que es nuevo.</i>
+
+789
+01:12:50,979 --> 01:12:55,099
+<i>No soy un tonto y no
+tomo lo que no quiero.</i>
+
+790
+01:12:55,419 --> 01:12:56,979
+<i>Ya que tengo.</i>
+
+791
+01:12:57,819 --> 01:12:59,619
+<i>Otra chica.</i>
+
+792
+01:13:00,739 --> 01:13:02,379
+<i>Otra chica.</i>
+
+793
+01:13:02,379 --> 01:13:04,939
+<i>Que me querrá hasta el final.</i>
+
+794
+01:13:06,299 --> 01:13:11,059
+<i>En lo bueno y en lo malo
+ella siempre será mi amiga.</i>
+
+795
+01:13:13,179 --> 01:13:17,779
+<i>No quiero decir que haya
+estado descontento contigo.</i>
+
+796
+01:13:18,899 --> 01:13:22,979
+<i>Pero desde hoy he visto
+alguien que es nuevo.</i>
+
+797
+01:13:24,619 --> 01:13:28,819
+<i>No soy un tonto y no
+tomo lo que no quiero.</i>
+
+798
+01:13:29,339 --> 01:13:30,659
+<i>Ya que tengo...</i>
+
+799
+01:13:31,859 --> 01:13:33,179
+<i>otra chica.</i>
+
+800
+01:13:34,339 --> 01:13:35,579
+<i>Otra chica.</i>
+
+801
+01:13:36,779 --> 01:13:38,499
+<i>Otra chica.</i>
+
+802
+01:14:02,979 --> 01:14:04,419
+A la costa, a estribor.
+
+803
+01:14:06,659 --> 01:14:09,339
+¡¡¡Beatles!!!... hola...
+
+804
+01:14:10,219 --> 01:14:12,219
+El bote, por ahí.
+
+805
+01:14:29,459 --> 01:14:30,539
+¿Quién es?
+
+806
+01:14:31,059 --> 01:14:32,179
+¿Qué opinas de esto ringo?
+
+807
+01:14:32,539 --> 01:14:35,059
+Este es el templo que transportamos
+del este para su sacrificio.
+
+808
+01:14:36,139 --> 01:14:38,859
+Es muy bonito, pero no se
+hubieran molestado.
+
+809
+01:14:39,179 --> 01:14:40,059
+¿Qué es esto?
+
+810
+01:14:40,219 --> 01:14:41,899
+Aquí es donde te destriparán.
+
+811
+01:14:42,419 --> 01:14:43,939
+Tú no estás de acuerdo ¿no?
+
+812
+01:14:45,499 --> 01:14:46,819
+Hay trabajo aquí.
+
+813
+01:14:47,459 --> 01:14:48,739
+¿Conoce a Clang?
+
+814
+01:14:48,979 --> 01:14:50,619
+Si, soy la madre, es un buen chico.
+
+815
+01:14:52,699 --> 01:14:54,539
+No es por despreciar, pero...
+
+816
+01:14:56,659 --> 01:14:58,899
+por aquí, rápido.
+-No se nadar.
+
+817
+01:15:00,819 --> 01:15:01,939
+Al agua, patos.
+
+818
+01:15:09,619 --> 01:15:10,539
+¿Adónde fueron?
+
+819
+01:15:29,819 --> 01:15:31,299
+Vamos por ellos.
+
+820
+01:15:31,419 --> 01:15:32,979
+Si, a reventarlos.
+
+821
+01:15:33,579 --> 01:15:35,499
+Vamos al templo-
+-Al templo.
+
+822
+01:15:36,739 --> 01:15:38,299
+Un hombre hace las cosas
+que tiene que hacer.
+
+823
+01:15:39,139 --> 01:15:40,659
+No me gusta huir.
+-Vamos por ellos.
+
+824
+01:15:41,219 --> 01:15:42,379
+Nos destriparán.
+
+825
+01:15:43,699 --> 01:15:45,259
+No si yo pego primero.
+
+826
+01:15:45,259 --> 01:15:47,619
+Vamos por ellos.
+-Nos destriparán.
+
+827
+01:15:48,019 --> 01:15:50,139
+Destriparnos a nosotros.
+
+828
+01:16:04,299 --> 01:16:05,299
+Señal.
+
+829
+01:16:05,699 --> 01:16:06,819
+Señal.
+
+830
+01:16:07,139 --> 01:16:09,139
+Guía, guía.
+
+831
+01:16:09,779 --> 01:16:10,859
+Pies.
+
+832
+01:16:11,459 --> 01:16:12,699
+¿Pies, oh pies?
+
+833
+01:16:13,859 --> 01:16:14,939
+Luz roja.
+
+834
+01:16:16,139 --> 01:16:17,099
+Kaili.
+
+835
+01:16:17,899 --> 01:16:19,339
+Luz verde, salta.
+
+836
+01:16:19,419 --> 01:16:20,619
+Kaiiiliiii...
+
+837
+01:16:30,939 --> 01:16:33,299
+Estos países paganos
+son la monta.
+
+838
+01:16:34,259 --> 01:16:36,219
+Tiene que haber otro
+sistema.
+
+839
+01:16:48,139 --> 01:16:50,619
+Oriental pies grasientos,
+lengua venenosa.
+
+840
+01:16:50,819 --> 01:16:51,979
+¿Qué dice?
+
+841
+01:16:52,219 --> 01:16:55,099
+Paso por aquí, muchas lunas
+al templo.
+
+842
+01:16:55,619 --> 01:16:57,699
+No lo animes, buena actuación Paul.
+
+843
+01:16:58,299 --> 01:17:00,779
+¿Cómo saberlo?
+Por las huellas.
+
+844
+01:17:01,379 --> 01:17:05,019
+Y por lo que dice en la guía.
+
+845
+01:17:05,019 --> 01:17:06,099
+Al templo.
+
+846
+01:17:20,819 --> 01:17:22,739
+Seguirlos... despacio.
+
+847
+01:17:39,259 --> 01:17:40,379
+¿No es esto?
+
+848
+01:17:41,339 --> 01:17:43,259
+Debía ser según el mapa.
+
+849
+01:17:43,619 --> 01:17:45,499
+En el templo en la roca...
+
+850
+01:17:45,899 --> 01:17:47,739
+...y en la piscina, y...
+
+851
+01:17:50,179 --> 01:17:51,059
+estoy perdido.
+
+852
+01:17:51,259 --> 01:17:52,379
+¿Este es el templo?
+
+853
+01:17:52,739 --> 01:17:54,419
+¿Así que este es el famoso templo?
+
+854
+01:17:54,859 --> 01:17:55,779
+Debería ser.
+-No está.
+
+855
+01:17:57,819 --> 01:17:59,579
+Ojalá haya desaparecido
+el destripadero.
+
+856
+01:17:59,979 --> 01:18:01,819
+¿Hubo un templo aquí?
+-En absoluto.
+
+857
+01:18:03,139 --> 01:18:08,739
+Un antiguo emplazamiento, un sitio
+donde las parejas se aman con eco.
+
+858
+01:18:10,539 --> 01:18:11,539
+Es mi mejor teoría.
+
+859
+01:18:14,139 --> 01:18:15,779
+¿No entramos?
+-Mejor no.
+
+860
+01:18:16,779 --> 01:18:18,379
+¡Vamos chicos!
+Y vuestro famoso arrojo.
+
+861
+01:18:18,739 --> 01:18:20,499
+Yo no tengo, ¿y tú?
+
+862
+01:18:22,259 --> 01:18:23,379
+Yo tenía.
+
+863
+01:18:23,659 --> 01:18:25,019
+Yo tendré, siga leyendo.
+
+864
+01:18:26,259 --> 01:18:30,779
+Arrojo, dice...
+-Y nos llamará cobardes.
+
+865
+01:18:30,779 --> 01:18:33,699
+Cualquiera sabe.
+
+866
+01:18:49,139 --> 01:18:50,299
+Me voy.
+-Típico.
+
+867
+01:18:53,299 --> 01:18:55,019
+Kaiilii...
+
+868
+01:19:05,059 --> 01:19:07,339
+¡Han electrificado
+la red metálica!
+
+869
+01:19:08,739 --> 01:19:09,659
+Canallas.
+
+870
+01:19:24,619 --> 01:19:25,579
+Ayúdame.
+
+871
+01:19:26,459 --> 01:19:28,139
+Socorro.
+
+872
+01:19:30,179 --> 01:19:31,539
+Ayúdame.
+
+873
+01:19:33,619 --> 01:19:34,739
+Socorro.
+
+874
+01:20:00,539 --> 01:20:02,539
+Hay uno detrás, pero no es.
+
+875
+01:20:06,619 --> 01:20:08,299
+Ven chico.
+
+876
+01:20:12,219 --> 01:20:15,219
+No tenemos tiempo y el
+coche es alquilado.
+
+877
+01:20:18,579 --> 01:20:20,459
+Da marcha atrás y aplástalo.
+
+878
+01:20:22,579 --> 01:20:25,139
+Eso le enseñará.
+
+879
+01:20:26,259 --> 01:20:29,299
+Da igual, inténtalo.
+
+880
+01:20:34,579 --> 01:20:36,579
+Nos lo hemos quitado, ya no está.
+
+881
+01:20:39,619 --> 01:20:40,699
+No arranca.
+
+882
+01:20:43,459 --> 01:20:44,259
+Hola.
+
+883
+01:20:44,539 --> 01:20:46,299
+Hola, un momento.
+
+884
+01:20:53,779 --> 01:20:56,299
+Tengo ligeras dificultades.
+
+885
+01:20:57,379 --> 01:20:58,179
+A la derecha.
+
+886
+01:21:09,019 --> 01:21:10,219
+Pienso que es la llave equivocada.
+
+887
+01:21:10,219 --> 01:21:11,099
+Enciéndelo.
+
+888
+01:21:22,899 --> 01:21:24,299
+No he tardado mucho, ¿no?
+
+889
+01:21:37,939 --> 01:21:39,659
+Gracias por dejarnos, marinero.
+
+890
+01:21:46,419 --> 01:21:47,859
+¿Dónde han ido todos?
+
+891
+01:21:47,939 --> 01:21:49,179
+Han desaparecido.
+
+892
+01:21:49,179 --> 01:21:51,139
+¿Tiene un plan?
+-Si un famoso plan.
+
+893
+01:21:51,459 --> 01:21:53,259
+¿Usted tiene un plan, verdad?
+
+894
+01:21:53,579 --> 01:21:54,659
+Superintendente.
+
+895
+01:21:56,139 --> 01:21:56,979
+Si tengo un plan.
+
+896
+01:21:58,819 --> 01:22:01,059
+EL FAMOSO PLAN
+
+897
+01:23:36,259 --> 01:23:37,899
+PERO HASTA EL MEJOR PLAN...
+
+898
+01:23:38,859 --> 01:23:41,659
+Ringo...
+
+899
+01:23:53,819 --> 01:23:56,899
+¡POCOS SOSPECHAN
+QUE ESTA PRISIONERO!
+
+900
+01:24:03,139 --> 01:24:04,539
+Bien, amigo.
+
+901
+01:24:05,419 --> 01:24:07,259
+Sabemos que él está prisionero,
+pero ¿dónde?
+
+902
+01:24:12,299 --> 01:24:13,379
+Soy un gran cirujano.
+
+903
+01:24:13,739 --> 01:24:14,899
+Ummmm....
+
+904
+01:24:14,899 --> 01:24:16,059
+soy un gran cirujano.
+
+905
+01:24:16,099 --> 01:24:17,699
+Tienes que lavarte
+las manos primero.
+
+906
+01:24:21,259 --> 01:24:22,819
+Escalpelo.
+
+907
+01:24:29,739 --> 01:24:31,379
+Arena en el generador.
+
+908
+01:24:32,739 --> 01:24:33,699
+Siempre arena.
+
+909
+01:24:33,699 --> 01:24:35,819
+En este día no quiere andar nada.
+
+910
+01:24:36,659 --> 01:24:37,619
+Arréglalo para esta tarde.
+
+911
+01:24:39,459 --> 01:24:41,859
+Cuando arreglemos el
+escalpelo lo haremos.
+
+912
+01:24:43,739 --> 01:24:46,379
+Necesito un empleado
+para que lo arregle.
+
+913
+01:24:47,459 --> 01:24:50,059
+Soy un buen jefe y se aprovecha de mi.
+-Míreme a mi.
+
+914
+01:24:55,379 --> 01:24:56,659
+Tengo el jugo.
+
+915
+01:24:57,859 --> 01:25:00,139
+No lo entiendo.
+¿por qué la tienen conmigo?
+
+916
+01:25:02,099 --> 01:25:02,979
+¿Qué es eso?
+
+917
+01:25:03,139 --> 01:25:06,539
+Es una esencia destilada de orquídeas
+que extraje a la mañana.
+
+918
+01:25:06,539 --> 01:25:07,499
+¡¡¡Arriba las manos!!!...
+
+919
+01:25:09,699 --> 01:25:10,619
+¿Qué es eso?
+
+920
+01:25:11,259 --> 01:25:12,659
+Una esencia destilada
+de orquídeas.
+
+921
+01:25:12,819 --> 01:25:16,219
+Una esencia destilada de orquídeas
+que crecen en sitios oscuros.
+
+922
+01:25:17,219 --> 01:25:19,219
+Por fin obtendré reconocimiento.
+
+923
+01:25:19,219 --> 01:25:22,179
+Démelo, sir Tiberius G. Certa.
+
+924
+01:25:22,419 --> 01:25:23,299
+¿El anillo?
+
+925
+01:25:23,379 --> 01:25:25,219
+El anillo, para
+qué lo quiero ahora.
+
+926
+01:25:26,059 --> 01:25:30,419
+Este es el jugo, para el premio Nobel
+en Inglaterra.
+
+927
+01:25:31,299 --> 01:25:32,619
+Una joya de plata en el mar.
+
+928
+01:25:32,619 --> 01:25:34,219
+Tengo todo el poder en mi mano.
+
+929
+01:25:34,579 --> 01:25:35,739
+¿Qué es lo que dice?
+
+930
+01:25:35,979 --> 01:25:38,099
+-No acá, acá.
+
+931
+01:25:38,739 --> 01:25:40,499
+Está en idioma oriental.
+
+932
+01:25:41,819 --> 01:25:43,579
+Tendremos que
+conseguir un traductor.
+
+933
+01:25:45,259 --> 01:25:46,619
+Ahora.
+
+934
+01:25:50,779 --> 01:25:52,619
+No se nadar.
+-¿Cómo que no sabes nadar?
+
+935
+01:26:00,699 --> 01:26:02,659
+Eres una traidora.
+
+936
+01:26:03,779 --> 01:26:05,259
+En el nombre de Preverti.
+
+937
+01:26:05,579 --> 01:26:06,979
+Hija de las montañas.
+
+938
+01:26:07,459 --> 01:26:09,779
+Cuyo abrazo con Reni
+hizo temblar al mundo.
+
+939
+01:26:10,579 --> 01:26:11,579
+Ya verás con mis amigos.
+
+940
+01:26:11,579 --> 01:26:12,819
+No lo creo.
+
+941
+01:26:13,059 --> 01:26:14,779
+Estoy con un batallón de cocina.
+
+942
+01:26:15,139 --> 01:26:17,819
+Especialmente entrenados
+para infligir sufrimiento.
+
+943
+01:26:17,939 --> 01:26:19,739
+Son despiadados.
+
+944
+01:26:19,819 --> 01:26:23,179
+Una palabra más suya
+y muere inmediatamente.
+
+945
+01:26:27,179 --> 01:26:28,259
+Oh, madre Kaili.
+
+946
+01:26:30,299 --> 01:26:31,059
+Tu nombre es terrible.
+
+947
+01:26:31,499 --> 01:26:32,819
+Debo llegar al sacrificio.
+
+948
+01:26:33,899 --> 01:26:34,979
+Tu nombre es inaccesible.
+
+949
+01:26:35,419 --> 01:26:39,099
+Cuyo nombre es Madre Negra
+de las sombras.
+
+950
+01:26:42,059 --> 01:26:43,059
+Te invocamos.
+
+951
+01:26:43,059 --> 01:26:44,539
+No amigos.
+
+952
+01:26:47,339 --> 01:26:48,379
+Estoy salvado.
+
+953
+01:26:54,259 --> 01:26:56,899
+Que te sacrifiquen a ti
+por tu religión.
+
+954
+01:26:58,779 --> 01:27:01,099
+Ahí está, quise avisarles.
+
+955
+01:27:02,179 --> 01:27:04,099
+Rápido, tras ellos.
+
+956
+01:27:04,339 --> 01:27:05,899
+Me perderé el sacrificio.
+
+957
+01:27:07,139 --> 01:27:08,259
+Se me cayó.
+Fui muy valiente.
+
+958
+01:27:08,579 --> 01:27:10,939
+¿Cuántos dedos tienes?
+
+959
+01:27:10,939 --> 01:27:12,779
+Rojo, un traje rojo,
+hasta me gusta.
+
+960
+01:27:15,899 --> 01:27:18,099
+¿Quién lleva el anillo...?
+
+961
+01:27:18,379 --> 01:27:19,299
+<i>Socorro.</i>
+
+962
+01:27:19,739 --> 01:27:21,459
+<i>Necesito a alguien.</i>
+
+963
+01:27:21,539 --> 01:27:23,819
+<i>¡Socorro!, no me sirve cualquiera.</i>
+
+964
+01:27:23,859 --> 01:27:27,339
+<i>¡Socorro!, sabes que
+necesito a alguien, ¡Socorro!</i>
+
+965
+01:27:28,819 --> 01:27:32,499
+<i>Cuando era joven, mucho
+más joven que ahora.</i>
+
+966
+01:27:33,659 --> 01:27:37,499
+<i>Nunca necesité la ayuda
+de nadie de ningún modo.</i>
+
+967
+01:27:38,939 --> 01:27:42,779
+<i>Pero ahora esos días han
+pasado, ya no estoy tan seguro.</i>
+
+968
+01:27:43,859 --> 01:27:45,659
+<i>ahora me doy cuenta que he
+cambiado de manera de pensar,</i>
+
+969
+01:27:45,659 --> 01:27:47,739
+<i>y he abierto las puertas.</i>
+
+970
+01:27:48,739 --> 01:27:52,339
+<i>Ayúdame si puedes,
+me siento deprimido.</i>
+
+971
+01:27:53,339 --> 01:27:57,299
+<i>Y aprecio que estés a mi lado.</i>
+
+972
+01:27:58,739 --> 01:28:02,219
+<i>Ayúdame a mantener
+los pies en el suelo.</i>
+
+973
+01:28:03,379 --> 01:28:06,939
+<i>¿No me ayudarás, por favor?</i>
+
+974
+01:28:09,219 --> 01:28:12,779
+<i>Y ahora mi vida ha
+cambiado de tantas maneras,</i>
+
+975
+01:28:13,419 --> 01:28:18,339
+<i>mi independencia parece
+desvanecerse en la niebla.</i>
+
+976
+01:28:19,859 --> 01:28:24,139
+<i>Pero de tanto en tanto
+me siento tan inseguro.</i>
+
+977
+01:28:24,899 --> 01:28:28,539
+<i>Sé que te necesito como
+no lo he hecho nunca.</i>
+
+978
+01:28:29,179 --> 01:28:33,379
+<i>Ayúdame si puedes,
+me siento deprimido.</i>
+
+979
+01:28:34,299 --> 01:28:38,259
+<i>Y aprecio que estés a mi lado.</i>
+
+980
+01:28:39,499 --> 01:28:43,499
+<i>Ayúdame a mantener
+los pies en el suelo.</i>
+
+981
+01:28:43,979 --> 01:28:47,899
+<i>¿No me ayudarás, por favor?</i>
+
+982
+01:28:50,179 --> 01:28:54,219
+<i>Cuando era joven, mucho
+más joven que ahora,</i>
+
+983
+01:28:55,379 --> 01:28:59,139
+<i>Nunca necesité la ayuda
+de nadie de ningún modo.</i>
+
+984
+01:29:00,299 --> 01:29:04,499
+<i>Pero ahora esos días han
+pasado, ya no estoy tan seguro,</i>
+
+985
+01:29:05,579 --> 01:29:09,579
+<i>Ahora me doy cuenta que he cambiado de
+manera de pensar, y he abierto las puertas.</i>
+
+986
+01:29:10,139 --> 01:29:13,979
+<i>Ayúdame si puedes,
+me siento deprimido.</i>
+
+987
+01:29:14,739 --> 01:29:18,939
+<i>Y aprecio que estés a mi lado.</i>
+
+988
+01:29:20,259 --> 01:29:24,499
+<i>Ayúdame a mantener los pies
+en el suelo.</i>
+
+989
+01:29:25,419 --> 01:29:28,259
+<i>¿No me ayudarás, por favor?</i>
+
+990
+01:29:28,619 --> 01:29:33,219
+<i>Ayúdame, ayúdame.</i>
+
+991
+01:29:33,219 --> 01:29:36,819
+Esta película está respetuosamente
+dedicada a la memoria del...
+
+992
+01:29:37,259 --> 01:29:41,259
+Sr. Elías Howe, quién en 1846
+inventó la máquina de coser.
+

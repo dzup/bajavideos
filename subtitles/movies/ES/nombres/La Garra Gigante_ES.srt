@@ -1,0 +1,3745 @@
+0
+00:00:01,000 --> 00:00:04,000
+Downloaded From www.AllSubs.org
+
+1
+00:00:45,178 --> 00:00:50,377
+En una época, el mundo parecía enorme...
+...ningún humano en toda una vida podía circundarlo....
+
+2
+00:00:50,450 --> 00:00:56,878
+A través de los siglos, la ciencia ha hecho
+la vida humana más larga y al mundo más pequeño.
+
+3
+00:00:56,956 --> 00:01:02,121
+Hoy, el rincón más lejano de La Tierra está
+al alcance de "pulsar un botón".
+
+4
+00:01:02,195 --> 00:01:04,356
+Y el tiempo ha perdido significado...
+
+5
+00:01:04,431 --> 00:01:08,993
+...frente a los veloces artefactos creados por el hombre,
+muchas veces más rápidos que el mismo sonido.
+
+6
+00:01:10,003 --> 00:01:14,440
+Aquí, en las alturas de los cielos,
+hombres libres se enfrentan a los elementos
+
+7
+00:01:14,507 --> 00:01:18,375
+para crear algunas medidas de defensa
+para proteger la libertad.
+
+8
+00:01:22,382 --> 00:01:24,976
+"RADAR Distante de Alerta Temprana",
+
+9
+00:01:25,051 --> 00:01:29,954
+equipos electrónicos muy sensitivos para detectar
+la presencia de cualquier objeto en el cielo,
+
+10
+00:01:30,023 --> 00:01:32,890
+incluyendo aviones bombarderos,
+proyectiles tele-dirigidos,
+
+11
+00:01:33,126 --> 00:01:35,686
+nubes de tormenta o palomas mensajeras.
+
+12
+00:01:36,463 --> 00:01:42,095
+Las nuevas instalaciones de RADAR deben ser calibradas
+usando aviones de prueba supervisados desde tierra
+
+13
+00:01:42,168 --> 00:01:47,196
+para comprobar la exactitud del equipo
+y trazar un perfil de detección del área
+
+14
+00:01:47,273 --> 00:01:51,039
+para obtener y puntualizar todos
+los "puntos ciegos" que el RADAR no pueda rastrear.
+
+15
+00:01:51,444 --> 00:01:56,541
+Bravo 8035. Altura 9000 pies.
+
+16
+00:01:57,350 --> 00:02:01,252
+Bravo 7540. Altura 9000 pies.
+
+17
+00:02:03,022 --> 00:02:07,959
+Bravo 7045. Altura 9000 pies.
+
+18
+00:02:08,094 --> 00:02:13,157
+Vuelo de Prueba. Vuelo de Prueba. Este es
+"Snowman 3". Deme lectura. Cambio.
+
+19
+00:02:13,233 --> 00:02:15,667
+"Snowman 3", este es Vuelo de Prueba.
+
+20
+00:02:15,735 --> 00:02:21,970
+Vector de vuelo, 340 grados desde IP.
+Altura 10000 pies. Velocidad, 400.
+
+21
+00:02:22,041 --> 00:02:24,032
+¿Cómo me copian? Cambio.
+
+22
+00:02:24,110 --> 00:02:27,910
+Todo verificado excepto la altitud, Mitch.
+Vemos que te encuentras a 9000 pies.
+
+23
+00:02:32,218 --> 00:02:35,016
+El altímetro lee 10,000 en la nariz.
+
+24
+00:02:35,088 --> 00:02:37,283
+Mejor verifica el nivel
+sobre la antena.
+
+25
+00:02:37,357 --> 00:02:38,517
+Entendido.
+
+26
+00:02:38,892 --> 00:02:40,860
+¿Cómo está la "Señora Matemáticas"?
+
+27
+00:02:40,927 --> 00:02:43,657
+¿Ya tiene suficientes números
+para alimentar sus máquinas?
+
+28
+00:02:43,730 --> 00:02:45,823
+¿Tiene toda la información
+que necesita Srta. Caldwell?
+
+29
+00:02:45,899 --> 00:02:48,493
+Una vuelta mas, por favor. Con bajo nivel.
+
+30
+00:02:49,736 --> 00:02:54,230
+Una más, Mitch. Vector 105 grados, bajo.
+
+31
+00:02:54,307 --> 00:02:58,903
+Entendido. Girando 180 grados, aproximación baja.
+
+32
+00:02:58,978 --> 00:03:02,106
+Este es Vuelo de Prueba, cambio y fuera.
+
+33
+00:03:17,263 --> 00:03:20,232
+No sabía que a los pilotos les
+permitían hacer esas cosas.
+
+34
+00:03:20,300 --> 00:03:24,464
+No a los de la Fuerza Aerea, cierto,
+pero Mitch es ingeniero en electrónica.
+
+35
+00:03:24,537 --> 00:03:27,836
+El trabaja para el gobierno, pero
+parece que tiene sus propias reglas.
+
+36
+00:03:27,907 --> 00:03:31,172
+Así que se comportará como un chiquillo
+hasta que su madre le de una zurra.
+
+37
+00:03:31,244 --> 00:03:36,944
+- Madre, madre, estoy listo si tu lo estás.
+- Debo haber dejado el interruptor abierto.
+
+38
+00:03:40,520 --> 00:03:45,116
+Un ingeniero en electrónica. Un oficial de RADAR.
+
+39
+00:03:45,191 --> 00:03:51,858
+Una matemática y analista de sistemas.
+Un operador de RADAR. Un par de trazadores.
+
+40
+00:03:53,266 --> 00:03:59,899
+Personas haciendo un eficiente trabajo.
+Serios, haciendo su trabajo.
+
+41
+00:04:00,740 --> 00:04:04,836
+Situación, normal por el momento.
+
+42
+00:04:05,578 --> 00:04:11,847
+Fecha, día 17 del mes.
+Cielo nublado. Visibilidad limitada.
+
+43
+00:04:12,919 --> 00:04:19,324
+Hora, 1332 horas.
+Un momento significativo en la historia.
+
+44
+00:04:19,392 --> 00:04:22,555
+Cuando un ingeniero en electrónica
+llamado Mitchell MacAfee
+
+45
+00:04:22,629 --> 00:04:24,529
+ve algo en el cielo.
+
+46
+00:04:24,597 --> 00:04:28,727
+Algo que puede ser el comienzo
+del fin de la vida en La Tierra.
+
+47
+00:04:34,107 --> 00:04:38,134
+MacAfee reporta por radio
+el avistamiento de un OVNI,
+
+48
+00:04:38,211 --> 00:04:40,441
+Un Objeto Volador No Identificado.
+
+49
+00:04:46,886 --> 00:04:49,912
+El oficial de RADAR responde
+que eso es imposible.
+
+50
+00:04:49,989 --> 00:04:52,583
+De acuerdo a la lectura del RADAR,
+no hay nada excepto el avión de Mitch,
+
+51
+00:04:52,659 --> 00:04:56,322
+No había otro objeto
+de ninguna clase.
+
+52
+00:04:56,396 --> 00:05:00,264
+Nada en el cielo en un radio
+de cientos de millas.
+
+53
+00:05:00,333 --> 00:05:03,734
+MacAfee no da importancia a lo que mostró el RADAR
+o lo que no mostró.
+
+54
+00:05:03,803 --> 00:05:06,431
+El sabe lo que vió con sus propios ojos.
+
+55
+00:05:06,506 --> 00:05:08,736
+y está dispuesto a darle un mejor vistazo.
+
+56
+00:05:08,808 --> 00:05:13,575
+MacAfee giró, y el Objeto Volador
+No Identificado quedó frente a él.
+
+57
+00:05:16,316 --> 00:05:19,774
+No hay duda de la urgencia
+en la voz de MacAfee.
+
+58
+00:05:19,852 --> 00:05:22,320
+Vió algo, pero no supo que era,
+
+59
+00:05:22,388 --> 00:05:26,381
+vió algo tan grande como un buque de guerra
+que lo rebasó y continuó de largo
+
+60
+00:05:26,459 --> 00:05:30,122
+a una velocidad tan alta
+que no pudo estimarla.
+
+61
+00:05:30,196 --> 00:05:33,654
+En defensa nacional es mejor,
+prevenir que lamentar.
+
+62
+00:05:34,067 --> 00:05:36,763
+La alerta fue enviada haciendo
+partir varios interceptores.
+
+63
+00:06:03,996 --> 00:06:06,464
+- ¿Y bien?
+- ¿Bien, qué?
+
+64
+00:06:06,532 --> 00:06:09,126
+No es momento de juegos, Mayor.
+¿Sus hombres lo encontraron?
+
+65
+00:06:09,202 --> 00:06:12,103
+Sr. MacAfee, si Ud. tuviera uniforme,
+lo pondría bajo arresto
+
+66
+00:06:12,171 --> 00:06:15,800
+y enfrentaría una corte marcial.
+desafortunadamente Ud, es un civil.
+
+67
+00:06:15,875 --> 00:06:17,604
+- No puedo arrestarlo.
+- ¿De qué está hablando?
+
+68
+00:06:17,677 --> 00:06:20,407
+Pero puedo enviar un reporte de Ud.
+y lo haré.
+
+69
+00:06:20,480 --> 00:06:23,040
+Para cuando termine con Ud,
+"Sr. Ingeniero en Electronica",
+
+70
+00:06:23,116 --> 00:06:26,643
+Tendrá suerte si le dejan probar
+baterías para linternas.
+
+71
+00:06:27,353 --> 00:06:31,119
+Mire, Mayor Bergen, estaba realizando
+un vuelo final de calibración.
+
+72
+00:06:31,190 --> 00:06:34,626
+Vi un OVNI y lo reporté.
+Eso me hace un criminal,
+
+73
+00:06:34,694 --> 00:06:37,390
+Un traidor a mi país,
+o algún tipo de psicópata?
+
+74
+00:06:37,463 --> 00:06:41,092
+MacAfee, Ud. es un hombre de electrónica,
+un experto en RADAR.
+
+75
+00:06:41,167 --> 00:06:44,295
+- Así es, por eso me pagan.
+- Si había algo en el cielo,
+
+76
+00:06:44,370 --> 00:06:48,306
+Algo volando que sólo Ud. pudo ver,
+no debió detectarlo el RADAR?
+
+77
+00:06:49,041 --> 00:06:52,272
+- Bueno, si, pero...
+- Debió detectarlo el RADAR? Si o No?
+
+78
+00:06:53,413 --> 00:06:55,540
+- Si.
+- Habían tres Radares observándolo.
+
+79
+00:06:55,615 --> 00:06:59,745
+Cada minuto que estuvo en el aire y ninguno de ellos
+ninguno detectó nada excepto a su avión.
+
+80
+00:06:59,819 --> 00:07:01,912
+- Mire, Mayor...
+- Ud. sabía las consecuencias
+
+81
+00:07:01,988 --> 00:07:04,081
+Aún asi, Ud. persistió
+con su pequeña broma.
+
+82
+00:07:04,157 --> 00:07:06,148
+- Cálmese, Bergen.
+- Siguió gritando... "viene el Lobo"
+
+83
+00:07:06,225 --> 00:07:09,956
+hasta que alguien apretó el botón del pánico
+y despegaron los aviones interceptores.
+
+84
+00:07:10,029 --> 00:07:13,897
+Muy bien, muy bien. Como sus muchachos salieron
+volando por allí y no pudieron encontrar nada,
+
+85
+00:07:13,966 --> 00:07:16,230
+Ud. se enojó y quiere que yo pague
+por el combustible que gastaron
+
+86
+00:07:16,302 --> 00:07:19,328
+o por el tiempo que perdieron
+o por cualquier otra cosa.
+
+87
+00:07:19,839 --> 00:07:23,832
+El escuadrón fue enviado para cubrir un
+área tan extensa como fuera posible.
+
+88
+00:07:23,910 --> 00:07:26,572
+Y gracias a su "NO muy graciosa
+falsa alarma", Sr. MacAfee,
+
+89
+00:07:26,646 --> 00:07:28,739
+uno de esos aviones NO regresó.
+
+90
+00:07:28,815 --> 00:07:31,716
+El avión y su piloto están perdidos.
+
+91
+00:07:35,555 --> 00:07:38,183
+Mayor Bergen. Qué?
+
+92
+00:07:39,792 --> 00:07:45,287
+Diga. Sí. Ok. Alerte a los pilotos.
+
+93
+00:07:45,364 --> 00:07:49,698
+A los mejores de sus escuadrones.
+Deben estar angustiados por esto.
+
+94
+00:07:50,303 --> 00:07:54,205
+Mire, Mayor, siento mucho lo del piloto,
+pero no fue una falsa alarma.
+
+95
+00:07:54,273 --> 00:07:56,935
+Oh, no siga, Mitch. Ya ha hecho
+bastante daño con su "buque de guerra volador".
+
+96
+00:07:57,009 --> 00:07:59,671
+- Déjelo...
+- Un momento, Srta. Caldwell.
+
+97
+00:07:59,745 --> 00:08:05,240
+Esa llamada. Un avión de Aerolíneas Transpolar
+fue reportado retrasado y perdido.
+
+98
+00:08:06,486 --> 00:08:10,855
+- Oh, no!
+- Sesenta pasajeros y su tripulación completa.
+
+99
+00:08:10,923 --> 00:08:15,155
+Hubo una llamada de auxilio del piloto,
+y luego nada. No más contactos.
+
+100
+00:08:16,729 --> 00:08:19,027
+- Problemas mecánicos?
+- No.
+
+101
+00:08:19,098 --> 00:08:24,866
+El piloto gritó algo sobre un OVNI.
+y luego silencio de radio.
+
+102
+00:08:27,673 --> 00:08:33,339
+- Y nuestros Radares?
+- Nada. Sólo el avión de Transpolar.
+
+103
+00:08:33,412 --> 00:08:35,107
+Sólo en el cielo.
+
+104
+00:08:38,784 --> 00:08:42,117
+Bueno, hemos terminado aquí, Mayor.
+
+105
+00:08:42,188 --> 00:08:45,954
+- Tendrá nuestra transportación lista?
+- Avión y piloto en la pista.
+
+106
+00:08:46,025 --> 00:08:50,792
+- Volarán directo a New York.
+- Gracias. Vámonos Sally.
+
+107
+00:09:19,292 --> 00:09:22,022
+Espere. Volveré en un minuto.
+
+108
+00:09:24,063 --> 00:09:27,089
+Hola, Pete. También tienes la mala
+suerte de trabajar aquí.
+
+109
+00:09:27,166 --> 00:09:30,260
+Creo que el estado del tiempo
+no será muy bueno hasta New York.
+
+110
+00:09:30,336 --> 00:09:33,635
+- Parece un frente local, Mitch.
+- Cómo lo sobrevolamos?
+
+111
+00:09:33,706 --> 00:09:37,608
+Puedo hacerlo. Espera voy a llamar.
+
+112
+00:09:37,677 --> 00:09:43,741
+Este es el Air Force Zebra Love 7979 llamando
+al Aeropuerto Internacional de New York. Cambio.
+
+113
+00:09:43,816 --> 00:09:49,755
+Zebra Love 7979.
+Este es el Aeropuerto Internacional de New York. Cambio.
+
+114
+00:09:49,822 --> 00:09:53,383
+Altitud 8.000, Velocidad del aire 250.
+
+115
+00:09:53,492 --> 00:09:56,950
+Encontramos actividad de tormenta inesperada,
+en la región de Adirondack.
+
+116
+00:09:57,029 --> 00:10:01,056
+Requiero permiso para cambiar altitud
+a 12.000. Cambio.
+
+117
+00:10:01,133 --> 00:10:06,435
+Zebra Love 7979. Permiso concedido. Cambio.
+
+118
+00:10:06,505 --> 00:10:10,874
+Zebra Love 7979. Entendido. Fuera.
+
+119
+00:10:11,611 --> 00:10:14,910
+- Como dije, sin problema.
+- Gracias, Pete.
+
+120
+00:10:14,981 --> 00:10:16,972
+Le daré buenas referencias
+tuyas al Mayor.
+
+121
+00:10:17,049 --> 00:10:20,109
+Oh, que bueno....
+
+122
+00:10:35,301 --> 00:10:37,166
+Bien, No sabré nada hasta que
+lo corra en el computador,
+
+123
+00:10:37,236 --> 00:10:42,264
+pero luce como si el perfil
+tuviera una extensa zona ciega.
+
+124
+00:10:42,742 --> 00:10:43,868
+Cierto.
+
+125
+00:10:56,389 --> 00:10:58,118
+Bien, o la antena está desalineada
+
+126
+00:10:58,190 --> 00:11:00,658
+o tenemos una gran zona topográfica
+que no aparece aquí
+
+127
+00:11:00,726 --> 00:11:03,058
+que está ocultando esta franja.
+
+128
+00:11:03,496 --> 00:11:07,262
+- Puede darme ese mapa?
+- Oh, si. Aquí tiene.
+
+129
+00:11:07,333 --> 00:11:10,564
+Mitch. Mitch. Venga pronto!
+
+130
+00:11:18,511 --> 00:11:21,309
+- Qué pasa?
+- Siéntese, Mitch.
+
+131
+00:11:21,380 --> 00:11:23,905
+- Y bién?
+- Algo parece estar sobre volándonos.
+
+132
+00:11:23,983 --> 00:11:28,010
+- Algo cómo qué?
+- Objeto Volador No Identificado.
+
+133
+00:11:28,087 --> 00:11:30,783
+- Voló justo sobre nosotros.
+- Nooo, tu también.
+
+134
+00:11:30,856 --> 00:11:34,622
+Oh, esto se pone feo.
+Lo reporté al Aeropuerto lnternacional.
+
+135
+00:11:35,194 --> 00:11:38,027
+Mitch, estoy seguro de lo que vi
+una cosa como una nube.
+
+136
+00:11:38,097 --> 00:11:42,591
+Se movía más rápido que cualquier nube.
+En nuestro curso desde el Noreste.
+
+137
+00:11:42,668 --> 00:11:45,569
+-Y no se veía nada en la...
+...pantalla de Radar-
+
+138
+00:11:46,972 --> 00:11:53,172
+- Qué?
+- No importa. No veo nada.
+
+139
+00:11:53,846 --> 00:11:57,680
+Al menos, ahora.
+Lo perdí cuando nos sobre-voló.
+
+140
+00:12:00,553 --> 00:12:04,148
+Qué diablos fue eso?
+Una ráfaga de viento?
+
+141
+00:12:04,223 --> 00:12:06,748
+Hermano, eso fue más que una ráfaga.
+
+142
+00:12:42,895 --> 00:12:44,624
+- Estás bien?
+- Eso creo. Y tú?
+
+143
+00:12:44,697 --> 00:12:47,928
+Estoy bien. Pete luce muy mal. Salgamos.
+
+144
+00:13:06,685 --> 00:13:08,846
+Abajo! Va a explotar.
+
+145
+00:13:25,004 --> 00:13:28,838
+Qué pasó? Se sintió
+como si algo nos golpeara.
+
+146
+00:13:28,908 --> 00:13:32,969
+Si. El "buque de guerra volador"
+que no existe.
+
+147
+00:13:36,515 --> 00:13:41,475
+- Hola! Hola!
+- Aquí. Por aquí.
+
+148
+00:13:58,971 --> 00:14:05,240
+Es un buen brebaje. Lo hago yo mismo.
+Bueno para mordidas de serpiente.
+
+149
+00:14:09,815 --> 00:14:13,581
+Hola, Pierre. Sr. MacAfee?
+
+150
+00:14:13,652 --> 00:14:15,142
+Si, soy yo.
+
+151
+00:14:16,622 --> 00:14:18,112
+Ése es el piloto?
+
+152
+00:14:18,657 --> 00:14:19,646
+Si.
+
+153
+00:14:21,427 --> 00:14:22,826
+Ok, muchachos.
+
+154
+00:14:31,370 --> 00:14:34,703
+Hicieron una reservación para Ud. en un
+vuelo comercial hacia la ciudad de New York.
+
+155
+00:14:34,773 --> 00:14:38,038
+Enviaremos un auto para llevarlo a Ud.
+y a la joven al aeropuerto.
+
+156
+00:14:38,110 --> 00:14:39,839
+Y los restos del avión?
+
+157
+00:14:39,912 --> 00:14:43,541
+Tenemos órdenes de cerrar el área.
+Todo en secreto.
+
+158
+00:14:43,616 --> 00:14:46,517
+Qué pasó? Se enrredaron
+con un disco volador o algo?
+
+159
+00:14:46,585 --> 00:14:51,648
+Oh, nada tan simple como un disco volador,
+oficial. Fue un "buque de guerra volador".
+
+160
+00:14:53,259 --> 00:14:55,022
+Ok, que la pasen bien con su
+"buque de guerra volador".
+
+161
+00:14:55,094 --> 00:14:57,528
+Su auto estará aquí pronto.
+
+162
+00:14:58,230 --> 00:15:01,256
+- Dónde está el avión, Pierre?
+- En la Norte 14, pasando el camino.
+
+163
+00:15:01,333 --> 00:15:02,857
+Vamos, muchachos.
+
+164
+00:15:16,749 --> 00:15:21,379
+Hola? Oui, esta es
+la granja de Pierre Broussard.
+
+165
+00:15:23,289 --> 00:15:26,884
+Quién? Oh, un momento.
+
+166
+00:15:27,893 --> 00:15:31,852
+Un tal General Van Buskirk para usted,
+Sr. MacAfee.
+
+167
+00:15:31,931 --> 00:15:36,425
+Siento que que otra mordida de serpiente se avecina.
+Más medicina.
+
+168
+00:15:37,202 --> 00:15:39,966
+Bueno, "buque de guerra volador", "elefante rosa".
+Es lo mismo.
+
+169
+00:15:40,039 --> 00:15:41,836
+Debería tratar de tomar leche en lugar de eso.
+
+170
+00:15:41,907 --> 00:15:45,502
+Dije que parecía un "buque de guerra volador",
+no que era un "buque de guerra volador".
+
+171
+00:15:45,577 --> 00:15:47,135
+Debí haberlo llamado
+una "gran máquina de escribir".
+
+172
+00:15:47,212 --> 00:15:49,578
+Entonces al menos me habrían creido.
+
+173
+00:15:51,383 --> 00:15:53,578
+General Buskirk? aquí MacAfee.
+
+174
+00:15:56,555 --> 00:15:59,991
+Si, Señor. Estoy al tanto de
+que el piloto reportó un OVNI.
+
+175
+00:16:00,592 --> 00:16:05,689
+No, no pude verlo esta vez.
+tampoco la Srta. Caldwell.
+
+176
+00:16:07,366 --> 00:16:12,360
+OK, el radar no detectó nada más
+que nuestro avión en el área.
+
+177
+00:16:12,438 --> 00:16:16,374
+Bueno, me esperaba eso también.
+
+178
+00:16:16,442 --> 00:16:19,809
+Chiste? Falsa alarma?
+
+179
+00:16:21,447 --> 00:16:26,248
+Mire, General, por qué clase de imbécil
+me han tomado ustedes? Les dije que...
+
+180
+00:16:29,655 --> 00:16:31,020
+Gracias.
+
+181
+00:16:32,858 --> 00:16:38,160
+Si, Señor. Si, Señor. Si, Señor.
+
+182
+00:16:40,666 --> 00:16:42,361
+Entendí, Señor.
+
+183
+00:16:44,003 --> 00:16:47,840
+Cuando el pastor gritó "viene el lobo",
+le creyeron. Al menos la primera vez.
+
+184
+00:16:52,444 --> 00:16:55,038
+Aeronaútica Civil estará enviando
+un equipo de investigación.
+
+185
+00:16:55,114 --> 00:16:56,376
+Para primera hora en la mañana.
+
+186
+00:16:56,448 --> 00:16:59,849
+Así es la Fuerza Aérea,
+En tanto que Aeronaútica Civil lo haga.
+
+187
+00:16:59,918 --> 00:17:04,582
+Cuando lleguemos a Nueva York, estaremos
+disponibles para que nos consulten.
+
+188
+00:17:05,190 --> 00:17:08,489
+Este vaso debe tener un agujero.
+Sigue vaciándose.
+
+189
+00:17:08,560 --> 00:17:11,893
+- Cuánto queda en la jarra, Pierre?
+- Le gusta el brebaje de Pierre, oui?
+
+190
+00:17:11,964 --> 00:17:16,424
+Ah, antídoto perfecto para mordidas de serpiente, truenos,
+relámpagos y generales descreídos.
+
+191
+00:17:16,502 --> 00:17:18,197
+Llénalo, Pierre.
+
+192
+00:17:21,740 --> 00:17:25,039
+- Qué es eso?
+- Algo asustó a los animales!
+
+193
+00:17:39,625 --> 00:17:41,718
+Es Pierre!
+
+194
+00:18:06,952 --> 00:18:08,317
+Por aquí.
+
+195
+00:18:21,467 --> 00:18:24,561
+Calma, Pierre, calma. Estás a salvo.
+Estás en tu casa.
+
+196
+00:18:24,636 --> 00:18:31,303
+- Carcagne! era la Carcagne! yo la ví!
+- Qué es la Carcagne, Pierre?
+
+197
+00:18:31,376 --> 00:18:36,643
+- Vamos, Cuéntenos sobre eso.
+- Es un Demonio de la Tormenta.
+
+198
+00:18:36,715 --> 00:18:40,674
+Con una cabeza de lobo
+y el cuerpo de mujer con alas.
+
+199
+00:18:40,752 --> 00:18:45,815
+- Más grande de lo que pueda creer.
+- Ud. probablemente vió un águila, Pierre.
+
+200
+00:18:45,891 --> 00:18:51,852
+- Oh, no! Era la Carcagne! la Carcagne!
+- Oh, ahora lo recuerdo.
+
+201
+00:18:51,930 --> 00:18:53,955
+Lo leí en alguna parte. Es una superstición,
+
+202
+00:18:54,032 --> 00:18:57,160
+una leyenda de los Canadienses franceses
+de la zona de la frontera.
+
+203
+00:18:57,236 --> 00:19:00,171
+Si. Me suena vagamente
+esa historia, también.
+
+204
+00:19:00,239 --> 00:19:02,707
+Lo más probable es que fueran los rayos
+de la tormenta, Pierre.
+
+205
+00:19:02,774 --> 00:19:06,676
+- Y te imaginastes esa cosa.
+- No! No! Yo vi a la Carcagne!
+
+206
+00:19:07,613 --> 00:19:10,013
+Ven. Toma otro trago de esto.
+
+207
+00:19:20,058 --> 00:19:21,320
+Pasen.
+
+208
+00:19:27,866 --> 00:19:29,663
+Qué le pasó a Pierre?
+
+209
+00:19:29,735 --> 00:19:31,726
+Él cree que vió
+algo raro en el cielo.
+
+210
+00:19:31,803 --> 00:19:35,705
+Yo la ví. Yo ví a la Carcagne!
+
+211
+00:19:38,177 --> 00:19:41,112
+- No puede quitárselo de la mente.
+- Si, lo sé.
+
+212
+00:19:41,180 --> 00:19:43,148
+Lo he vivido otras veces.
+
+213
+00:19:43,215 --> 00:19:46,343
+Gran cantidad de viejos pueblerinos de
+por aquí creen en esas historias.
+
+214
+00:19:46,418 --> 00:19:50,650
+Pero es la primera vez que oigo
+que alguien dice haber visto esa cosa.
+
+215
+00:19:50,722 --> 00:19:54,214
+- Puede llevarnos hasta el aeropuerto?
+- Si. El auto está afuera.
+
+216
+00:19:54,293 --> 00:19:56,989
+- Oh, lamento dejarlo de esta forma.
+- Oh, no se precupe, señora.
+
+217
+00:19:57,062 --> 00:19:59,587
+Joe, quédate con él.
+Mejor nos damos prisa.
+
+218
+00:19:59,665 --> 00:20:02,793
+- Tienen un avión esperando por ustedes.
+- Vamos, Sally.
+
+219
+00:20:02,868 --> 00:20:04,836
+Tiene un avión esperando por nosotros?
+Debemos irnos en él.
+
+220
+00:20:04,903 --> 00:20:06,165
+Al menos debemos agradecerle sus atenciones.
+
+221
+00:20:06,238 --> 00:20:09,901
+Me temo que las cortesías no signifiquen mucho
+para una persona en la condición de Pierre.
+
+222
+00:20:09,975 --> 00:20:14,002
+Tiene razón. Ud. no se imagina de que forma
+está él tan aterrado en este momento.
+
+223
+00:20:14,079 --> 00:20:17,810
+Aterrado? solo porque vió un gran pájaro?.
+
+224
+00:20:17,883 --> 00:20:20,113
+Por qué debería paralizarse
+con tal miedo?
+
+225
+00:20:20,185 --> 00:20:22,619
+- No se los dijo?
+- decirnos qué?
+
+226
+00:20:22,688 --> 00:20:28,251
+La leyenda. De acuerdo a esa historia,
+si alguien ve a ese gran pájaro,
+
+227
+00:20:28,327 --> 00:20:31,524
+entonces es una señal de que morirá pronto.
+
+228
+00:20:36,468 --> 00:20:40,063
+- El avión está esperando. Mejor nos vamos.
+- OK, Sargento.
+
+229
+00:21:34,926 --> 00:21:37,656
+"El beso que robas es mejor que el que te dan."
+
+230
+00:21:37,729 --> 00:21:40,892
+Una criatura de muchas facetas éste Sr. MacAfee.
+
+231
+00:21:40,966 --> 00:21:45,164
+Primero ingeniero y piloto
+y ahora romántico y poeta.
+
+232
+00:21:45,270 --> 00:21:47,932
+Oh, lo de poeta es
+por Shakespeare.
+
+233
+00:21:48,006 --> 00:21:50,770
+Lo sé, pero de dónde
+vendría ese impulso?
+
+234
+00:21:50,842 --> 00:21:54,835
+- Desde el "Left field", tal vez.
+- Me gusta el Baseball.
+
+235
+00:21:54,913 --> 00:21:59,145
+O puede ser que estoy sentado junto a una linda chica.
+que es suficiente, a veces.
+
+236
+00:21:59,217 --> 00:22:02,118
+Incluso si está sentado junto
+a la "Señora Matemáticas"?
+
+237
+00:22:02,187 --> 00:22:04,621
+O deberíamos apegarnos
+a las referencias del baseball?
+
+238
+00:22:04,690 --> 00:22:07,716
+Hay cálculos y hay cálculos.
+
+239
+00:22:07,793 --> 00:22:13,322
+Una lógica ineludible, tonta pero cierta.
+Ud. casi me abruma.
+
+240
+00:22:13,398 --> 00:22:15,195
+casi?
+
+241
+00:22:15,267 --> 00:22:17,963
+Bueno, finalizemos el trabajo.
+
+242
+00:22:18,437 --> 00:22:19,802
+Mire que Luna.
+
+243
+00:22:24,176 --> 00:22:27,145
+Hablando de "baseball" y "left field",
+
+244
+00:22:27,212 --> 00:22:30,409
+Alquien me advirtió
+que Ud. hace sus propias reglas.
+
+245
+00:22:30,482 --> 00:22:33,178
+- El que dijo eso no es amigo mio.
+- Pero es amigo mio.
+
+246
+00:22:33,251 --> 00:22:34,309
+Sabotaje!
+
+247
+00:22:34,386 --> 00:22:38,823
+Oh, mucho más dramático.
+Mejor sigamos con las referencias al baseball,
+
+248
+00:22:38,890 --> 00:22:42,189
+- "Out, tratando de robar segunda."
+- Volver a las Ligas Menores, terminado.
+
+249
+00:22:42,260 --> 00:22:45,423
+Un perdedor. Lo sabía. Sin fuerza, sin espíritu.
+
+250
+00:22:45,497 --> 00:22:48,489
+Por supuesto, el árbitro siempre puede
+cambiar su decisión.
+
+251
+00:22:48,567 --> 00:22:52,526
+No, sin atajos. Debe seguir el patrón.
+
+252
+00:22:52,604 --> 00:22:55,801
+Primero las Ligas Menores,
+y después las Ligas Mayores.
+
+253
+00:22:55,874 --> 00:23:00,743
+- Me apego al patrón, Mitch. Lo siento.
+- Por qué lo sientes? Siempre puedes...
+
+254
+00:23:02,981 --> 00:23:04,915
+El patrón.
+
+255
+00:23:06,885 --> 00:23:09,877
+- El patrón.
+- Qué pasa?
+
+256
+00:23:11,757 --> 00:23:13,122
+El patrón. Necesito uno de sus mapas.
+
+257
+00:23:13,191 --> 00:23:15,125
+Una proyección ortográfica,
+del polo norte al ecuador.
+
+258
+00:23:15,193 --> 00:23:18,219
+- Me lo muestra?
+- Si, claro.
+
+259
+00:23:25,437 --> 00:23:29,168
+Creo que lo tengo por aquí.
+
+260
+00:23:29,975 --> 00:23:33,035
+Ah. Aquí está.
+
+261
+00:23:36,081 --> 00:23:38,174
+Qué es eso?
+
+262
+00:23:41,319 --> 00:23:42,843
+Abra su mapa.
+
+263
+00:23:49,528 --> 00:23:53,862
+Ahora, aquí es donde vi el OVNI.
+
+264
+00:23:55,333 --> 00:24:00,464
+Aquí es donde el avión interceptor desapareció.
+El de Aerolíneas Transpolar.
+
+265
+00:24:00,539 --> 00:24:07,103
+Nuestro avión donde Pierre.
+Y finalmente el avión de la Patrulla Naval.
+
+266
+00:24:07,846 --> 00:24:12,078
+- Bueno, estuviste murmurando sobre un patrón.
+- Bien? Lo ves?
+
+267
+00:24:12,150 --> 00:24:16,484
+Bueno, no. No es una línea recta, ni curva, nada.
+
+268
+00:24:16,855 --> 00:24:17,981
+espera.
+
+269
+00:24:31,336 --> 00:24:36,296
+Un patrón.
+Un perfecto patrón en tiempo y distancia.
+
+270
+00:24:36,374 --> 00:24:40,640
+Para cada incidente, una cruz,
+una más lejos que la anterior.
+
+271
+00:24:40,745 --> 00:24:43,612
+Están siguiendo una espiral
+desde el centro.
+
+272
+00:24:44,449 --> 00:24:49,409
+Quieres decir, que algo en el aire vuela
+siguiendo un patrón como ese?
+
+273
+00:24:49,521 --> 00:24:52,615
+Si. Algo que yo vi..
+
+274
+00:24:52,691 --> 00:24:57,287
+algo que me sobrevoló
+y me pasó en el aire.
+
+275
+00:24:57,362 --> 00:25:00,024
+Pero, debería estar viajando
+a una increible velocidad para cubrir
+
+276
+00:25:00,098 --> 00:25:04,558
+- Toda esa distancia en ese tiempo.
+- Si, así es.
+
+277
+00:25:05,737 --> 00:25:09,935
+Algo que aparentemente destruyó cuatro
+aviones y por poco te derriba la primera vez.
+
+278
+00:25:10,008 --> 00:25:11,339
+Si.
+
+279
+00:25:12,911 --> 00:25:15,812
+Algo como tu "buque de guerra volador"?
+
+280
+00:25:20,018 --> 00:25:23,886
+- OK, olvida eso.
+- Oh, bien, ahora, Mitch. Entra en razón.
+
+281
+00:25:23,955 --> 00:25:27,049
+Por qué ese patrón,
+Solo para derribar unos pocos aviones?
+
+282
+00:25:27,125 --> 00:25:31,255
+Y qué es? Un meteorito? Imposible!
+Un misil guiado?
+
+283
+00:25:31,329 --> 00:25:33,456
+Bien, se habría detenido al impactar
+con el primer avión.
+
+284
+00:25:33,532 --> 00:25:36,399
+Y quién lo lanzó?
+Y por qué razón?
+
+285
+00:25:36,468 --> 00:25:41,462
+No, Mitch, coincidencia, Si. Pero un patrón, No.
+
+286
+00:25:41,540 --> 00:25:42,905
+Toma tu mapa.
+
+287
+00:25:43,308 --> 00:25:46,300
+Bien, eres un chiquillo. Mitch, piensa!
+
+288
+00:25:46,378 --> 00:25:48,312
+Supongamos que había una cosa volando
+con ese tipo de patrón,
+
+289
+00:25:48,380 --> 00:25:50,871
+Por qué no pudo ser rastreado
+por docenas de radares diferentes.
+
+290
+00:25:50,949 --> 00:25:53,349
+Y ninguno reportó nada, y qué?
+
+291
+00:25:53,418 --> 00:25:55,113
+Bien, pudo ser la Carcagne de Pierre,
+
+292
+00:25:55,186 --> 00:25:59,020
+"Con la cabeza de un lobo y el cuerpo
+de mujer, con alas y tan grande como pueda decirte!"
+
+293
+00:25:59,090 --> 00:26:04,084
+- No necesitas ser sarcástico.
+- Oigan, podrían Uds. quedarse callados para
+
+294
+00:26:04,162 --> 00:26:07,563
+que el resto de nosotros podamos dormir? Gracias.
+
+295
+00:26:15,941 --> 00:26:20,378
+Perdón. Puede ser que que me puse infantil.
+
+296
+00:26:23,048 --> 00:26:26,540
+Mitch MacAfee, el Sherlock Holmes volador.
+
+297
+00:26:29,187 --> 00:26:31,121
+Creo que lo hicistes mejor
+con tu poesía
+
+298
+00:26:31,189 --> 00:26:35,353
+que con tus
+deducciones de detective.
+
+299
+00:26:35,427 --> 00:26:37,486
+- Me sé otro poema.
+- Oh?
+
+300
+00:26:39,030 --> 00:26:42,329
+"Se sencillo en tu vestir y sobrio en tu dieta".
+
+301
+00:26:43,668 --> 00:26:47,069
+"Sin demora, querida, bésame, y cállate."
+
+302
+00:26:54,312 --> 00:27:00,876
+Fecha, 18th del mes en curso.
+Cielo claro, pocas nubes. Visibilidad ilimitada.
+
+303
+00:27:01,620 --> 00:27:04,555
+Hora, las 0815 horas.
+
+304
+00:27:05,724 --> 00:27:09,421
+Un avión de Aeronaútica Civil vuela hacia
+donde el día anterior se estrelló el avión
+
+305
+00:27:09,494 --> 00:27:11,359
+donde viajaba Mitchell MacAfee.
+
+306
+00:27:12,163 --> 00:27:16,099
+A bordo, cuatro miembros del equipo de
+investigaciones de Aeronaútica Civil.
+
+307
+00:27:16,801 --> 00:27:18,325
+Y un piloto.
+
+308
+00:27:18,403 --> 00:27:21,133
+Hora, las 0816 horas.
+
+309
+00:27:21,206 --> 00:27:23,868
+Otro momento significativo en la historia.
+
+310
+00:27:38,123 --> 00:27:43,425
+Una vez más un piloto desesperado
+reporta un OVNI. Un ave.
+
+311
+00:27:43,495 --> 00:27:48,797
+Un ave tan grande como un buque de guerra, girando y
+preparándose para atacar al avión de Aeronaútica Civil.
+
+312
+00:28:49,961 --> 00:28:53,522
+Ya dejen de tocar el timbre. Ya voy.
+
+313
+00:28:54,899 --> 00:28:56,764
+Sr. MacAfee?
+
+314
+00:28:56,835 --> 00:29:01,329
+- O una razonable imitación de él.
+- Es de parte del General Buskirk, Señor.
+
+315
+00:29:01,639 --> 00:29:04,665
+- Él quiere verlo a la brevedad posible.
+- Oh, tenga piedad, Capitán.
+
+316
+00:29:04,743 --> 00:29:07,735
+Llegué anoche. Ya casi estaba tomando
+el sueño cuando Ud. me despertó.
+
+317
+00:29:07,812 --> 00:29:10,838
+- lo siento, señor, el General dice que es urgente.
+- Y también lo es mi sueño!
+
+318
+00:29:10,915 --> 00:29:13,611
+Mis órdenes son de llevarlo
+a la oficina del General ahora.
+
+319
+00:29:13,685 --> 00:29:16,950
+Inclusive, tengo orden de llevarlo
+en custodia preventiva.
+
+320
+00:29:17,522 --> 00:29:22,960
+Ok, Capitán, no se descomponga.
+Iré a ponerme los pantalones.
+
+321
+00:29:25,897 --> 00:29:31,199
+Mi avistamiento. El avión interceptor,
+el Aerolínaes Transpolar, nuestro avión donde Pierre
+
+322
+00:29:31,302 --> 00:29:37,298
+y el avión de la Patrulla Naval. Son muchos,
+demasiados diríamos, para ser solo coincidencia.
+
+323
+00:29:37,375 --> 00:29:39,673
+Hay dos más después
+del avión de la Marina.
+
+324
+00:29:39,744 --> 00:29:45,046
+Un avión privado aquí anoche y un avión de Aeronaútica
+Civil con cuatro pasajeros y su piloto aquí.
+
+325
+00:29:46,284 --> 00:29:51,449
+Todos siguiendo su patrón teórico
+muy de cerca.
+
+326
+00:29:51,523 --> 00:29:53,514
+Sin reportes de radar, supongo?
+
+327
+00:29:53,591 --> 00:29:57,789
+Como es usual, desde que Ud. comenzó
+esta loca pesadilla, nada en el radar.
+
+328
+00:29:57,862 --> 00:29:59,295
+Excepto los aviones.
+
+329
+00:29:59,798 --> 00:30:01,629
+Los pilotos reportaron algo?
+
+330
+00:30:01,699 --> 00:30:03,291
+Nada del piloto del
+avión privado.
+
+331
+00:30:03,368 --> 00:30:06,030
+Pero el de Aeronaútica Civil reportó un OVNI.
+
+332
+00:30:06,104 --> 00:30:10,040
+- Dijo que era eso?
+- Si. Un ave.
+
+333
+00:30:10,809 --> 00:30:14,802
+Un ave tan grande como un buque de guerra,
+atacó al avión de Aeronaútica Civil.
+
+334
+00:30:19,050 --> 00:30:22,417
+- Créame, Sr. MacAfee, esto no es una broma.
+- Oh, no.
+
+335
+00:30:22,487 --> 00:30:24,580
+Ese avión fue completamente destruido.
+
+336
+00:30:24,656 --> 00:30:27,454
+Y los cinco hombres a bordo, al parecer,
+han desaparecido por completo
+
+337
+00:30:27,525 --> 00:30:30,050
+de la faz de la Tierra.
+
+338
+00:30:30,361 --> 00:30:32,761
+Ahora, Ud. es un experto en electronica.
+
+339
+00:30:32,831 --> 00:30:37,325
+Podría haber algo tan enorme en el cielo
+y que no sea detectado por ningún radar?
+
+340
+00:30:37,535 --> 00:30:40,834
+Imposible! Pero yo mismo lo he visto.
+
+341
+00:30:41,973 --> 00:30:47,878
+Si. Tres hombres reportaron que vieron
+algo y dos de ellos ahora están muertos.
+
+342
+00:30:49,013 --> 00:30:54,110
+Bien, eso me hace el jefe y único miembro
+de una sociedad de Observadores de Aves.
+
+343
+00:30:55,153 --> 00:30:59,112
+Sr. MacAfee, esto es de importancia vital.
+Podría Ud. describir esa cosa?
+
+344
+00:30:59,824 --> 00:31:04,761
+No, solo vi algo borroso cuando me pasó.
+Hubiera deseado tener una cámara conmigo.
+
+345
+00:31:06,097 --> 00:31:09,396
+Cámara! General Buskirk, antes de trabajar en esta
+
+346
+00:31:09,467 --> 00:31:13,301
+asignación de radares con Mitch, yo estaba
+haciendo un trabajo sobre la curvatura de la Tierra.
+
+347
+00:31:13,371 --> 00:31:15,498
+Bien, cómo puede eso ayudarnos ahora?
+
+348
+00:31:15,573 --> 00:31:18,542
+Bueno, nosotros usábamos imágenes fotografiadas
+desde el interior de cohetes de prueba
+
+349
+00:31:18,610 --> 00:31:21,044
+y desde cámaras fijas y desde
+cámaras en globos de observación.
+
+350
+00:31:21,112 --> 00:31:26,379
+- Sally, eso es!
+- Si esos globos siguen allá arriba,
+
+351
+00:31:26,451 --> 00:31:30,888
+Hay una posibilidad de que los globos hayan 
+fotografiado a esta cosa, sea lo que sea.
+
+352
+00:31:33,291 --> 00:31:37,387
+Con el General Edward Considine, en el Pentágono.
+Prioridad,   rápido!
+
+353
+00:32:02,620 --> 00:32:04,349
+Algo está apareciendo.
+
+354
+00:32:14,632 --> 00:32:15,894
+Córtelo!
+
+355
+00:32:16,701 --> 00:32:19,602
+Esta película y toda la información referente
+a este asunto del ave, están clasificados
+
+356
+00:32:19,671 --> 00:32:22,401
+como alto secreto.
+Notifique a todas las agencias y al personal involucrado
+
+357
+00:32:22,473 --> 00:32:23,872
+que haya manejado el proyecto
+y a los que lo vayan a manejar.
+
+358
+00:32:23,942 --> 00:32:25,239
+Si, Señor.
+
+359
+00:32:27,512 --> 00:32:28,911
+- Johnson!
+- Si, Señor?
+
+360
+00:32:28,980 --> 00:32:31,346
+Ponga al comando entero en
+disposición de combate desde ahora.
+
+361
+00:32:31,416 --> 00:32:34,351
+Notifique al Pentágono y dígale al
+General Considine que voy en camino.
+
+362
+00:32:34,419 --> 00:32:35,943
+Si, Señor.
+
+363
+00:32:36,020 --> 00:32:40,787
+Coronel Tyler en el campo? Linea uno, por favor.
+
+364
+00:32:41,426 --> 00:32:44,759
+Oh, Nate. Nate. aquí Buskirk.
+Preparen mi avión.
+
+365
+00:32:44,829 --> 00:32:48,697
+Y efectúen un plan de vuelo
+hacia Washington. Ahora mismo.
+
+366
+00:32:49,167 --> 00:32:53,695
+Estamos saliendo ahora.
+Con dos pasajeros extras. Ok.
+
+367
+00:32:54,706 --> 00:33:00,702
+Uds. dos irán conmigo a Washington.
+Srta. Caldwell. Sr. MacAfee.
+
+368
+00:33:06,851 --> 00:33:09,285
+Es algún tipo de ave, de acuerdo.
+
+369
+00:33:10,688 --> 00:33:12,849
+No hay duda sobre eso.
+
+370
+00:33:15,827 --> 00:33:21,959
+Srta. Caldwell, es posible que esta cosa
+haya podido volar en áreas ciegas
+
+371
+00:33:22,033 --> 00:33:25,525
+- que nuestro radar no pueda rastrear?
+- No, señor. Lo verifiqué cuidadosamente.
+
+372
+00:33:25,603 --> 00:33:28,367
+Al menos diez diferentes radares
+debieron rastrearlo.
+
+373
+00:33:28,439 --> 00:33:33,103
+Sr. MacAfee, podría la velocidad o la altitud
+afectar la habilidad del radar para rastrearlo?
+
+374
+00:33:33,177 --> 00:33:37,011
+No. No hay razón científica
+o cualquier otra razón en el mundo
+
+375
+00:33:37,081 --> 00:33:41,074
+Por qué nuestros radares no lo rastrean.
+No lo hacen.
+
+376
+00:33:41,152 --> 00:33:45,248
+Lo que Ud. dice en esencia, es que
+negro es blanco y 2 + 2 es igual a 6.
+
+377
+00:33:45,323 --> 00:33:50,283
+Mire, General, yo no inventé esta pesadilla
+voladora, solo lo vi y lo reporté.
+
+378
+00:33:50,361 --> 00:33:52,829
+El General entiende, Sr. MacAfee.
+El no lo culpa a Ud. de nada.
+
+379
+00:33:52,897 --> 00:33:53,921
+Relájese, hombre.
+
+380
+00:33:53,998 --> 00:33:56,728
+Relajarme? cuándo dejaremos de relajarnos
+y comenzaremos a hacer algo?
+
+381
+00:33:56,801 --> 00:33:59,861
+El sentido común no es exclusividad
+de los civiles, Sr. MacAfee.
+
+382
+00:33:59,937 --> 00:34:02,428
+Sabemos como tomar medidas para cuidarnos
+y cuidar al país.
+
+383
+00:34:02,507 --> 00:34:04,907
+Calma, Van, calma. Tómelo con calma.
+
+384
+00:34:04,976 --> 00:34:08,139
+Hay una alerta aérea general
+sobre esto cada minuto, hijo.
+
+385
+00:34:08,212 --> 00:34:10,305
+Cientos de aviones de cada comando
+
+386
+00:34:10,381 --> 00:34:14,112
+están peinando el cielo,
+en busca de este gigantesco buitre.
+
+387
+00:34:14,886 --> 00:34:20,415
+- Lo encontraremos. No tema.
+- Y cuando eso suceda, General. Qué harán?
+
+388
+00:34:25,263 --> 00:34:30,064
+Si? Bien! Dónde?
+
+389
+00:34:31,269 --> 00:34:32,668
+Ok, esto es oficial ahora.
+
+390
+00:34:32,737 --> 00:34:36,400
+Den la orden de disparar y derribarlo.
+Sin preguntas, sin rodeos, sin demora.
+
+391
+00:34:36,474 --> 00:34:39,771
+Sólo derríbenlo. Sí.
+
+392
+00:34:42,547 --> 00:34:45,539
+Envíenme las grabaciones de todos los canales
+aire-tierra y aire-aire,
+
+393
+00:34:45,616 --> 00:34:49,279
+y pásenlas a mi línea principal aquí.
+Uno de nuestros escuadrones lo ha avistado.
+
+394
+00:34:49,353 --> 00:34:52,754
+Les he ordenado atacarlo
+y derribarlo.
+
+395
+00:34:52,824 --> 00:34:56,089
+Nuestros aviones están armados con cañones,
+ametralladoras y misiles.
+
+396
+00:34:56,160 --> 00:35:00,028
+Este será el fin del pajarraco
+que está, pero no está.
+
+397
+00:35:00,098 --> 00:35:02,498
+Estaremos en capacidad de escuchar lo que pasa.
+
+398
+00:35:11,742 --> 00:35:13,676
+Este es el líder del Escuadrón Easy Baker.
+
+399
+00:35:13,744 --> 00:35:18,477
+- Blanco abajo, a un lado. Lo ven?
+- Uau! Santa Madre!
+
+400
+00:35:18,549 --> 00:35:21,040
+He visto gavilanes gordos come-gallinas
+allá en la granja,
+
+401
+00:35:21,119 --> 00:35:23,280
+pero, muchacho, este nene se lleva el premio.
+
+402
+00:35:23,354 --> 00:35:27,017
+Honest a Pete, no volveré a decirle
+a mi suegra "viejo-cuervo" otra vez.
+
+403
+00:35:29,827 --> 00:35:32,057
+Este es el líder del Escuadrón Easy Baker.
+
+404
+00:35:32,130 --> 00:35:35,566
+Sepárense a mi señal.
+Un pase cada uno por su cuenta.
+
+405
+00:36:13,371 --> 00:36:15,464
+Este es el líder del Escuadrón Easy Baker.
+
+406
+00:36:15,540 --> 00:36:16,973
+Perdimos a uno de los nuestros.
+
+407
+00:36:17,041 --> 00:36:18,531
+Debo estar perdiendo el juicio.
+
+408
+00:36:18,609 --> 00:36:22,477
+No puede ser cierto.
+Balas, cohetes, nada lo toca.
+
+409
+00:36:38,296 --> 00:36:39,820
+Líder de Escuadrón Easy Baker.
+
+410
+00:36:39,897 --> 00:36:42,957
+Charlie saltó en paracaídas
+Cuando el ave destruyó su avión y ahora él...
+
+411
+00:36:43,534 --> 00:36:46,128
+Charlie se ha ido. Con paracaídas y todo.
+
+412
+00:37:01,052 --> 00:37:02,314
+No tiene sentido.
+
+413
+00:37:02,453 --> 00:37:04,478
+Como si le disparáramos a una nave
+de guerra con una resortera.
+
+414
+00:37:04,555 --> 00:37:06,955
+Va detrás de otro avión. Cuidado!
+
+415
+00:37:12,530 --> 00:37:15,624
+Líder de Escuadrón Easy Baker.
+La misión es un fracaso.
+
+416
+00:37:15,700 --> 00:37:22,367
+Continuaré adelante para.... No!
+Está detrás de mi! No! No!
+
+417
+00:37:25,643 --> 00:37:31,775
+Ametralladoras, cañones, cohetes,
+nada lo tocó.
+
+418
+00:37:33,384 --> 00:37:37,912
+- Esos pilotos...
+- Lo encontraremos, lo mataremos, ese será
+
+419
+00:37:37,989 --> 00:37:39,980
+El fin del gran pajarraco.
+
+420
+00:37:41,292 --> 00:37:44,921
+Estuvo en lo cierto, Srta. Caldwell,
+Lo encontramos, y ahora qué?
+
+421
+00:37:48,966 --> 00:37:52,231
+Fase dos, operacional.
+
+422
+00:37:52,303 --> 00:37:54,794
+- Notifique a los Jefes de Enlace.
+- Si, señor.
+
+423
+00:37:58,009 --> 00:38:02,275
+No tiene sentido.
+Es solo un pajarraco, muy grande, pero un pajarraco.
+
+424
+00:38:02,346 --> 00:38:06,009
+- Ametralladoras, cañones, cohetes. Sólo un pájaro.
+- Seguro, sólo un pájaro.
+
+425
+00:38:06,083 --> 00:38:08,984
+Diez millones de dólares gastados
+en radares y no pueden rastrearlo.
+
+426
+00:38:09,053 --> 00:38:12,113
+Suficiente poder de fuego para barrer con 
+un regimiento y no pueden detenerlo.
+
+427
+00:38:12,189 --> 00:38:13,952
+Seguro, sólo un pájaro.
+
+428
+00:38:14,025 --> 00:38:16,585
+Bien, que vamos a hacer,
+sentarnos aquí a lamentarnos?
+
+429
+00:38:16,661 --> 00:38:19,528
+- Oh, ya deje eso, MacAfee.
+- No estamos llorando, MacAfee,
+
+430
+00:38:19,597 --> 00:38:22,725
+y tampoco estamos huyendo.
+Cómo vamos a dar con las respuestas
+
+431
+00:38:22,800 --> 00:38:25,030
+cuando ni siquiera sabemos
+cuales son las preguntas.
+
+432
+00:38:25,102 --> 00:38:27,434
+Empezar a criticar no ayuda para nada.
+
+433
+00:38:27,505 --> 00:38:30,633
+No lo estoy criticando a Ud
+ni a la fuerza Aérea
+
+434
+00:38:30,708 --> 00:38:34,439
+o a esos tipos que murieron
+tratando de derribar a esa cosa.
+
+435
+00:38:34,512 --> 00:38:37,106
+No estoy criticando,
+y no soy un loco ocurrente.
+
+436
+00:38:37,181 --> 00:38:40,480
+Estoy asustado. Todos lo estamos, creo yo.
+
+437
+00:38:40,551 --> 00:38:44,419
+Así enfrentemos esto y tratemos
+de hacer algo con esta ave.
+
+438
+00:38:44,488 --> 00:38:48,788
+- Alguna sugerencia, MacAfee?
+- Seguro, escupitajos electrónicos!
+
+439
+00:38:48,859 --> 00:38:51,555
+- Van...!
+- Cerca, General, muy cerca.
+
+440
+00:38:51,629 --> 00:38:55,429
+No sólo escupitajos electrónicos,
+escupitajos atómicos.
+
+441
+00:38:59,570 --> 00:39:01,731
+- Si?
+- Fase dos operacional.
+
+442
+00:39:01,806 --> 00:39:03,831
+- Todas las unidades alertas y listas.
+- Bien.
+
+443
+00:39:03,908 --> 00:39:07,105
+Llamada para Ud.
+El Dr. Karol Noymann del laboratorio de investigación.
+
+444
+00:39:07,178 --> 00:39:08,941
+La tomaré en la dos.
+
+445
+00:39:11,716 --> 00:39:14,583
+Soy el General Considine, Dr. Noymann.
+
+446
+00:39:17,188 --> 00:39:20,521
+Dígalo de nuevo? Bien, bien.
+
+447
+00:39:22,393 --> 00:39:25,260
+Quédese donde está. Estaremos allí cuanto antes.
+
+448
+00:39:26,397 --> 00:39:29,366
+El laboratorio de investigaciones nos ha citado.
+
+449
+00:39:29,433 --> 00:39:31,264
+Ellos han estado trabajando en los restos
+del avion de Aeronaútica Civil.
+
+450
+00:39:31,335 --> 00:39:34,361
+- y en el avión donde Uds. dos se estrellaron.
+- Encontraron algo nuevo, Ed?
+
+451
+00:39:34,438 --> 00:39:39,307
+Ellos creen saber qué es ese
+pájaro y de dónde viene.
+
+452
+00:39:39,377 --> 00:39:41,937
+Acerca de esos escupitajos atómicos.
+
+453
+00:39:42,012 --> 00:39:44,845
+Una hora antes de que aterrizaran en Washington,
+
+454
+00:39:44,915 --> 00:39:48,180
+Ordené que prepararan misiles guiados con cabezas nucleares listos
+
+455
+00:39:48,252 --> 00:39:49,879
+para disparar desde cualquier lugar del país
+
+456
+00:39:49,954 --> 00:39:53,515
+donde el patrón de lluvia radioactiva haga segura la detonación de los mismos.
+
+457
+00:39:53,624 --> 00:39:57,116
+La orden que Ud me oyó ejecutar para hacer la fase dos operacional
+
+458
+00:39:57,194 --> 00:40:01,858
+fue una orden para disparar esos misiles donde sea que esa ave sea avistada!
+
+459
+00:40:03,634 --> 00:40:08,401
+- General, lo siento, Yo creo que...
+- No se disculpe, hijo, admiro su valentía.
+
+460
+00:40:08,472 --> 00:40:13,068
+Y manténgase así... 
+siempre y cuando no eche a perder nada.
+
+461
+00:40:13,144 --> 00:40:15,738
+- Van?
+- Lo siento, Mac.
+
+462
+00:40:15,813 --> 00:40:18,611
+- Creo que estamos haciendo lo mejor que podemos.
+- Uds dos mejor váyanse.
+
+463
+00:40:18,682 --> 00:40:20,513
+Estarán al tanto de todo
+el resto de este asunto, de todos modos.
+
+464
+00:40:20,584 --> 00:40:22,211
+Ven, vámonos.
+
+465
+00:40:28,826 --> 00:40:32,256
+El átomo es el bloque básico de construcción
+de toda la materia.
+
+466
+00:40:33,998 --> 00:40:37,957
+El átomo representado en este modelo
+es como cualquier átomo que conozcamos.
+
+467
+00:40:38,035 --> 00:40:41,903
+El núcleo tiene carga positiva.
+Los electrones tienen todos carga negativa.
+
+468
+00:40:41,972 --> 00:40:46,068
+En ese aspecto, se ha creído que todos
+los átomos tienen las mismas caractrísticas.
+
+469
+00:40:46,143 --> 00:40:49,112
+Pero eso no es cierto, no es cierto!
+
+470
+00:40:49,180 --> 00:40:54,208
+De acuerdo a las leyes de electrodinámica,
+toda la naturaleza es simétrica.
+
+471
+00:40:54,285 --> 00:40:59,848
+Está balanceada. Y si existe la materia,
+entonces debe existir la anti-materia,
+
+472
+00:41:00,491 --> 00:41:02,584
+Una imagen de espejo simétrica.
+
+473
+00:41:03,327 --> 00:41:06,854
+Ahora aquí tenemos un núcleo positivo,
+electrones negativos.
+
+474
+00:41:08,098 --> 00:41:13,468
+Al contrario, tendríamos obviamente un
+núcleo negativo con electrones positivos.
+
+475
+00:41:14,672 --> 00:41:20,133
+La ciencia ha probado que esto es así,
+no en nuestra Tierra, no en este Sistema Solar
+
+476
+00:41:20,845 --> 00:41:25,145
+pero en algunos lugares del universo
+hay estrellas, planetas,
+
+477
+00:41:25,216 --> 00:41:28,845
+galaxias enteras hechas de anti-materia.
+
+478
+00:41:29,286 --> 00:41:34,588
+Bien, quiere Ud decir, Doctor,
+que esta ave está hecha de anti-materia?
+
+479
+00:41:35,426 --> 00:41:40,693
+Que es al contrario, al revés,
+una imagen de espejo, como Ud lo llama?
+
+480
+00:41:41,398 --> 00:41:43,229
+Espere un momento, General.
+
+481
+00:41:43,300 --> 00:41:46,565
+Doctor, es bien sabido que
+la anti-materia existe,
+
+482
+00:41:46,637 --> 00:41:51,040
+y también se sabe que de ponerse
+en contacto con la materia ordinaria,
+
+483
+00:41:51,108 --> 00:41:54,271
+se aniquilarían una a la otra, en una gran explosión.
+
+484
+00:41:54,345 --> 00:41:58,839
+Por qué esta ave no explota cuando es impactada,
+o cuando es tocada por algo?
+
+485
+00:41:58,916 --> 00:42:04,912
+Bien, Ud está en lo correcto y a la vez equivocado.
+El ave no es en sí misma de anti-materia.
+
+486
+00:42:04,989 --> 00:42:09,722
+Pero incuestionablemente esta ave emite
+algún tipo de fuerza, una pantalla de energía,
+
+487
+00:42:09,793 --> 00:42:15,732
+alguna barrera invisible.
+Y esa pantalla de energía es de anti-materia.
+
+488
+00:42:15,799 --> 00:42:19,792
+Armas, cañones, cohetes,nada de lo que tenemos la toca.
+
+489
+00:42:19,870 --> 00:42:23,067
+Cualquier cosa que toque a la pantalla de anti-materia
+será destruida antes de poder estar cerca.
+
+490
+00:42:23,140 --> 00:42:26,632
+- Mitch, esto explica la falla del radar.
+- Si.
+
+491
+00:42:27,878 --> 00:42:32,815
+Sin superficie reflectante. Las ondas del radar
+no pueden rebotar y se deslizan a su alrededor.
+
+492
+00:42:33,684 --> 00:42:36,653
+Así, si no hay eco, no hay registros.
+
+493
+00:42:38,489 --> 00:42:43,791
+Dr. Noymann, un par de preguntas.
+Todo esto no es sólo una conjetura suya?
+
+494
+00:42:44,562 --> 00:42:46,530
+No, no es una conjetura, General.
+
+495
+00:42:46,597 --> 00:42:51,432
+Evidentemente, esta ave tiene la habilidad
+de abrir esa pantalla de anti-materia
+
+496
+00:42:51,502 --> 00:42:55,768
+para usar su pico, sus garras,
+y sus alas como armas destructivas.
+
+497
+00:42:58,776 --> 00:43:01,574
+Ahora, esto es parte de los restos.
+
+498
+00:43:01,645 --> 00:43:06,605
+Examinados por un grupo de científicos que
+nos cuentan esta increíble historia.
+
+499
+00:43:07,851 --> 00:43:10,445
+Se ha verificado y vuelto a verificar.
+
+500
+00:43:12,122 --> 00:43:15,182
+- Alguna otra cosa, General?
+- Si, Doctor.
+
+501
+00:43:16,293 --> 00:43:18,557
+De dónde viene esta ave?
+
+502
+00:43:22,800 --> 00:43:27,032
+Aquí tenemos una parte de una pluma de esa ave,
+encontrada entre los restos.
+
+503
+00:43:27,104 --> 00:43:29,629
+Al menos, la llamamos "pluma",
+pero realmente no sabemos lo que es.
+
+504
+00:43:29,707 --> 00:43:34,167
+Sólo luce como tal.
+pero ha desafiado todos los análisis químicos,
+
+505
+00:43:34,244 --> 00:43:37,145
+al electroscópio,
+y cada prueba concebible.
+
+506
+00:43:38,182 --> 00:43:41,982
+No contiene ninguna sustancia
+conocida hoy en La Tierra,
+
+507
+00:43:42,052 --> 00:43:45,146
+ningún elemento conocido por la ciencia.
+
+508
+00:43:45,222 --> 00:43:48,919
+- nuestra búsqueda ha sido muy cara.
+- Si, a que se refiere?
+
+509
+00:43:48,993 --> 00:43:52,827
+Teníamos varias de esas plumas,
+y esta es la única pieza que queda.
+
+510
+00:43:52,896 --> 00:43:57,265
+Como último recurso, tratamos de probarlas
+con analizadores electrónicos.
+
+511
+00:43:58,636 --> 00:43:59,762
+Miren.
+
+512
+00:44:06,243 --> 00:44:09,235
+Esa ave es extraterrestre.
+
+513
+00:44:09,313 --> 00:44:11,975
+Viene del espacio exterior,
+
+514
+00:44:12,049 --> 00:44:15,610
+de alguna remota galaxia de anti-materia
+
+515
+00:44:15,686 --> 00:44:19,019
+a millones y millones de Años-Luz
+de nuestra Tierra.
+
+516
+00:44:22,092 --> 00:44:24,492
+No hay otra explicación posible.
+
+517
+00:44:28,499 --> 00:44:31,332
+Van los llevará de vuelta a Nueva York.
+
+518
+00:44:32,836 --> 00:44:37,136
+Aprecio la buena disposición que han 
+mantenido, y por supuesto, entienden
+
+519
+00:44:37,207 --> 00:44:40,506
+que todo lo que han visto y oído
+es clasificado.
+
+520
+00:44:41,712 --> 00:44:46,149
+Mi comando está listo, Ed, y esperando
+en mi línea directa. Sólo telefonea.
+
+521
+00:44:48,285 --> 00:44:54,520
+Sólo telefonea, Van? Bien, necesitaré ayuda,
+toda la ayuda que pueda obtener. Todos la necesitaremos.
+
+522
+00:44:55,993 --> 00:44:58,689
+El único problema es que
+la última vez le dije a chaplain,
+
+523
+00:44:58,762 --> 00:45:02,323
+que no había ninguna línea de teléfono
+o un lugar donde llamar
+
+524
+00:45:02,399 --> 00:45:05,493
+donde pudiéramos obtener el tipo de ayuda
+que estamos necesitando.
+
+525
+00:45:07,971 --> 00:45:10,166
+General Considine.
+
+526
+00:45:10,240 --> 00:45:14,478
+Esta es una emergencia.
+Comuníqueme con el Secretary de Defensa.
+
+527
+00:45:14,945 --> 00:45:18,972
+Hasta ahora, solo un hombre
+ha visto a la criatura y vive para contarlo.
+
+528
+00:45:19,049 --> 00:45:24,077
+Aparte de los que la vieron,
+su existencia sigue guardada en secreto.
+
+529
+00:45:24,154 --> 00:45:27,214
+Aún así hemos hecho arreglos para una
+reunión de emergencia con el Presidente,
+
+530
+00:45:27,291 --> 00:45:31,421
+el Gabinete, el Comando de Defensa,
+y el Personal del Estado Mayor,
+
+531
+00:45:31,495 --> 00:45:34,589
+aunque a la larga la criatura
+se mostrará por si misma al mundo
+
+532
+00:45:34,665 --> 00:45:39,432
+y cundirá rápidamente el pánico.
+Pánico, terror y horror.
+
+533
+00:45:41,371 --> 00:45:43,339
+Ningún lugar de La Tierra estará libre del terror
+
+534
+00:45:43,407 --> 00:45:48,709
+mirarán al cielo azul
+sin paz ni seguridad,
+
+535
+00:45:48,779 --> 00:45:51,339
+mirarán una pesadilla alada en los cielos.
+
+536
+00:46:47,638 --> 00:46:49,230
+Oh, Entra.
+
+537
+00:46:49,306 --> 00:46:52,867
+Bien, trabajé toda la noche corriendo tus
+proyecciones en la calculadora.
+
+538
+00:46:52,943 --> 00:46:57,243
+- Espero que los resultados sean los esperados.
+- Muy bien. Gracias.
+
+539
+00:46:59,449 --> 00:47:00,609
+Mitch?
+
+540
+00:47:04,254 --> 00:47:07,655
+Oh. Gracias.
+
+541
+00:47:13,030 --> 00:47:17,467
+Oh, mírate. Por dos días y una noche,
+desde que volvimos de Washington,
+
+542
+00:47:17,534 --> 00:47:22,733
+has mantenido la cabeza inmersa en todos
+esos papeles, mapas y cálculos.
+
+543
+00:47:22,806 --> 00:47:26,970
+- Mitch, debes parar para comer y dormir.
+- He estado ocupado.
+
+544
+00:47:28,045 --> 00:47:31,640
+Lo que has estado haciendo tiene
+que ver con esa criatura?
+
+545
+00:47:32,216 --> 00:47:36,880
+Para destruir al ave?
+Bien, y funcionará, Mitch?
+
+546
+00:47:39,623 --> 00:47:41,113
+No lo sé.
+
+547
+00:47:41,792 --> 00:47:45,421
+Honestamente no tengo idea de que funcione.
+
+548
+00:47:46,463 --> 00:47:49,159
+Es uno de esos conceptos extraños
+que van en contra de toda lógica
+
+549
+00:47:49,233 --> 00:47:52,794
+como producto de la desesperación.
+
+550
+00:47:52,870 --> 00:47:56,362
+Les hablastes sobre ésto al
+General Buskirk o al General Considine?
+
+551
+00:47:56,440 --> 00:48:00,706
+Y que me digan muy cortesmente que me
+meta en mis propios asuntos? No, Gracias.
+
+552
+00:48:02,279 --> 00:48:05,476
+Cuál es la diferencia? Hay sólo una
+posibilidad en un millón de que funcione.
+
+553
+00:48:05,549 --> 00:48:10,782
+Es sólo algo que hacer en vez
+de estar sentado y esperando.
+
+554
+00:48:10,854 --> 00:48:15,723
+Mitch, He estado pensando en esa ave, también.
+
+555
+00:48:15,792 --> 00:48:18,625
+Sí, tú y el resto del mundo también.
+
+556
+00:48:19,496 --> 00:48:22,829
+Detente a pensar
+Por qué el ave vino aquí?
+
+557
+00:48:22,933 --> 00:48:25,163
+Podría ser por comida?
+
+558
+00:48:25,235 --> 00:48:28,966
+Quiero decir, cuando el ave come,lo hace
+de la manera que entendemos el comer?
+
+559
+00:48:29,039 --> 00:48:32,668
+Bueno, el Dr. Noymann dice
+que absorbe energía
+
+560
+00:48:32,743 --> 00:48:36,474
+de las cosas que destruye,
+incluyendo humanos,
+
+561
+00:48:36,546 --> 00:48:38,912
+una especie de ósmosis molecular.
+
+562
+00:48:40,817 --> 00:48:42,751
+Podría haber venido a descansar?
+
+563
+00:48:42,819 --> 00:48:45,879
+- Tal vez si, pero cómo asegurarlo.
+- Correcto.
+
+564
+00:48:45,956 --> 00:48:48,618
+Hasta donde sabemos el ave se mantiene volando
+alrededor de La Tierra,
+
+565
+00:48:48,692 --> 00:48:50,887
+Siempre volando, nunca se detiene.
+
+566
+00:48:50,961 --> 00:48:54,419
+Bien, esa idea ha estado molestándome,
+así que llamaré al General Buskirk.
+
+567
+00:48:54,498 --> 00:48:57,262
+Mitch, recuerdas a Pierre Broussard,
+en la granja?
+
+568
+00:48:57,334 --> 00:49:02,067
+Si, él y su "Carcagne",
+o lo que sea que vió.
+
+569
+00:49:02,139 --> 00:49:04,903
+Eso prueba lo que siempre dicen, que
+la verdad es más extraña que la ficción.
+
+570
+00:49:04,975 --> 00:49:09,969
+Eso no fue ficción.
+Pierre vió algo, él vió a la criatura.
+
+571
+00:49:10,047 --> 00:49:12,777
+A 12000 pies de altura, de noche y con tormenta?
+
+572
+00:49:12,849 --> 00:49:15,750
+- No. El ave estaba en tierra.
+- Pero dijistes que...
+
+573
+00:49:15,819 --> 00:49:18,686
+El General Buskirk me dijo que encontraron
+la huella de una garra gigante
+
+574
+00:49:18,755 --> 00:49:22,748
+en un terreno próximo a la granja de Pierre Broussard,
+Y ahora sé por qué.
+
+575
+00:49:22,826 --> 00:49:25,351
+El ave vino a construir un nido.
+
+576
+00:49:29,766 --> 00:49:30,892
+Nido.
+
+577
+00:49:32,703 --> 00:49:34,864
+Huevos.
+
+578
+00:49:36,106 --> 00:49:37,334
+Más aves.
+
+579
+00:49:37,407 --> 00:49:40,740
+Tiene que ser así.
+No veo otra razón.
+
+580
+00:49:52,756 --> 00:49:56,385
+El General Buskirk. le Hablará MacAfee.
+Es urgente.
+
+581
+00:49:56,460 --> 00:50:00,453
+Nena, haz el favor de reunir esos papeles,
+y estos también.
+
+582
+00:50:02,265 --> 00:50:04,859
+General Buskirk? MacAfee.
+
+583
+00:50:04,935 --> 00:50:10,271
+Ahora, por favor no pregunte la razón.
+Le explicaré luego. Es muy importante.
+
+584
+00:50:10,340 --> 00:50:13,241
+Necesito un avión muy veloz y un helicóptero.
+
+585
+00:50:14,511 --> 00:50:18,106
+Por favor, por favor General, créame.
+Sé lo que estoy haciendo.
+
+586
+00:50:19,249 --> 00:50:21,740
+Si, donde Broussard, la granja.
+
+587
+00:50:23,220 --> 00:50:28,021
+Correcto. Estamos saliendo ahora.
+Sally está conmigo. Si.
+
+588
+00:50:28,091 --> 00:50:29,490
+Iremos directo al aeropuerto.
+
+589
+00:50:29,559 --> 00:50:32,926
+Interrumpimos este programa
+para un anuncio importante.
+
+590
+00:50:32,996 --> 00:50:34,987
+Damas y caballeros,
+hablando desde Washington,
+
+591
+00:50:35,065 --> 00:50:38,501
+El General Considine,
+Fuerza Aérea de los Estados Unidos.
+
+592
+00:50:40,771 --> 00:50:43,239
+Estamos enfrentando una crisis,
+
+593
+00:50:43,306 --> 00:50:45,399
+una crisis para todas las naciones
+donde el mundo entero unido,
+
+594
+00:50:45,475 --> 00:50:51,243
+en una acción cooperativa sin precedentes,
+no ha encontrado todavía una solución.
+
+595
+00:50:52,516 --> 00:50:55,576
+Hasta hacerlo, no descansaremos.
+
+596
+00:50:56,853 --> 00:51:01,085
+Hemos utilizado cada arma de los arsenales
+más poderosos de los ejércitos de La Tierra.
+
+597
+00:51:01,158 --> 00:51:04,218
+Y han sido inútiles.
+
+598
+00:51:04,294 --> 00:51:08,355
+Armas atómicas y de hidrógeno,
+capaces de barrer ciudades,
+
+599
+00:51:08,432 --> 00:51:12,061
+y paises enteros de la faz de La Tierra,
+son completamente inefectivas
+
+600
+00:51:12,135 --> 00:51:15,901
+contra esta criatura en los cielos.
+
+601
+00:51:17,407 --> 00:51:20,035
+Desde hace dos días, se han cancelado todos los vuelos.
+
+602
+00:51:21,011 --> 00:51:25,141
+Para privar de una fuente de comida o energía,
+o lo que sea, que mantenga al ave viva,
+
+603
+00:51:26,083 --> 00:51:29,246
+El ave ha comenzado una serie
+de ataques en tierra,
+
+604
+00:51:30,120 --> 00:51:34,216
+en una fantástica ola de destrucción
+nunca antes vista.
+
+605
+00:51:34,291 --> 00:51:37,283
+Nada ha estado a salvo
+del ataque del ave,
+
+606
+00:51:37,360 --> 00:51:42,798
+ganado, caballos, campos, casas, trenes,
+todos los tipos de transportes.
+
+607
+00:51:43,533 --> 00:51:47,196
+Se ha puesto de manifiesto
+que el ave es atraída por el movimiento.
+
+608
+00:51:47,270 --> 00:51:51,331
+De acuerdo con esto, el Gobierno
+y todos los Gobiernos del mundo
+
+609
+00:51:51,408 --> 00:51:56,436
+hemos declarado el estado de emergencia
+e implantado la Ley marcial.
+
+610
+00:51:56,513 --> 00:52:00,882
+Además de mantener a los aviones en tierra,
+todos los transportes de superficie tales como,
+
+611
+00:52:01,918 --> 00:52:06,480
+autos, camiones, buses, trenes, buques, deberán
+
+612
+00:52:06,556 --> 00:52:09,684
+permanecer estacionarios de ahora en adelante.
+
+613
+00:52:10,660 --> 00:52:13,595
+La distribución de comida
+y de productos esenciales
+
+614
+00:52:13,663 --> 00:52:16,223
+será manejada por las fuerzas armadas.
+
+615
+00:52:17,067 --> 00:52:20,559
+Condiciones de cero iluminación serán mantenidas
+desde el anochecer hasta el amanecer
+
+616
+00:52:20,637 --> 00:52:23,162
+todas las noches y hasta nuevo aviso.
+
+617
+00:52:23,240 --> 00:52:28,109
+El movimiento de cualquier tipo en las calles
+o carreteras durante las horas del día
+
+618
+00:52:28,178 --> 00:52:31,375
+será disminuido a un mínimo necesario
+
+619
+00:52:31,448 --> 00:52:34,975
+y solo donde este sea
+autorizado como esencial.
+
+620
+00:52:36,186 --> 00:52:40,850
+Han escuchado al General Considine
+hablando desde Washington. Sigan en sintonía...
+
+621
+00:52:45,061 --> 00:52:46,289
+Mitch!
+
+622
+00:53:01,611 --> 00:53:06,048
+El avión está esperando por nosotros.
+Iremos a la granja de Pierre.
+
+623
+00:53:27,470 --> 00:53:28,869
+Allí está!
+
+624
+00:53:43,420 --> 00:53:46,514
+Aterricemos antes que
+decida hacerlo de nuevo.
+
+625
+00:53:46,590 --> 00:53:47,750
+Las armas.
+
+626
+00:53:47,824 --> 00:53:50,349
+Dos Weatherby .378 Magnums,
+detendrían cualquier cosa.
+
+627
+00:53:50,427 --> 00:53:51,451
+Cualquier cosa, Mitch?
+
+628
+00:53:51,528 --> 00:53:54,156
+Bien, cualquier cosa menos al pajarraco,
+pero estamos buscando sus huevos.
+
+629
+00:53:54,231 --> 00:53:56,563
+Sin pantalla de energía de antimateria,
+Esperamos.
+
+630
+00:53:56,633 --> 00:53:59,500
+- La Carcagne?
+- No, Pierre, no es la Carcagne,
+
+631
+00:53:59,569 --> 00:54:01,469
+un millón de veces peor.
+
+632
+00:54:03,106 --> 00:54:05,006
+Vámonos de aquí.
+
+633
+00:54:55,191 --> 00:54:59,719
+Eso luce como un nido.
+No hay señales de algún huevo.
+
+634
+00:54:59,796 --> 00:55:02,264
+Podría estar en algún lugar alli abajo.
+
+635
+00:55:02,332 --> 00:55:05,267
+La única forma de encontrarlos es
+bajar hasta allí y dar un vistazo.
+
+636
+00:55:05,335 --> 00:55:06,768
+La Carcagne!
+
+637
+00:55:36,166 --> 00:55:37,394
+Un huevo!
+
+638
+00:55:41,604 --> 00:55:44,801
+Dispara, haz mucho ruido.
+La carcagne viene y todos morimos.
+
+639
+00:55:44,874 --> 00:55:47,138
+Tenemos que destruir ese huevo, Pierre,
+Es nuestra única oportunidad.
+
+640
+00:55:47,210 --> 00:55:48,871
+Pierre...!
+
+641
+00:55:48,945 --> 00:55:50,606
+Pierre! Vuelve aquí!
+
+642
+00:55:54,918 --> 00:55:56,783
+Soy de Montana.
+
+643
+00:57:03,787 --> 00:57:06,756
+Pierre y su Carcagne.
+
+644
+00:57:06,823 --> 00:57:10,122
+- El tenía razón. La vió y significó su muerte.
+- Si.
+
+645
+00:57:11,361 --> 00:57:14,296
+Le avisaré a Washington.
+Deberán hacer partidas de búsqueda.
+
+646
+00:57:14,364 --> 00:57:17,299
+En cada sitio del mundo,
+donde el ave sea vista,
+
+647
+00:57:17,367 --> 00:57:19,665
+si existen más huevos,
+
+648
+00:57:19,736 --> 00:57:21,636
+deberán encontrarlos y destruirlos.
+
+649
+00:57:21,704 --> 00:57:23,433
+Es lo único que podemos hacer.
+
+650
+00:57:24,274 --> 00:57:26,299
+Volvamos a la ciudad.
+
+651
+00:57:26,376 --> 00:57:29,140
+Con ese monstruo alrededor,
+es muy peligroso volar.
+
+652
+00:57:29,212 --> 00:57:32,306
+Dejaremos el helicóptero
+y tomaremos el auto de Pierre.
+
+653
+00:57:33,016 --> 00:57:34,916
+El ya no lo necesitará.
+
+654
+00:57:48,097 --> 00:57:51,396
+- Vamos, Brad, hagamos que esta cosa vuele.
+- Si, vamos.
+
+655
+00:57:51,468 --> 00:57:56,599
+Démosle algo de velocidad a esto.
+Oye, viejo, creo que no se mueve.
+
+656
+00:57:56,673 --> 00:57:58,334
+Vamos! Vamos!
+
+657
+00:58:02,512 --> 00:58:07,279
+- Conductor maníaco corriendo y con luces.
+- Tal vez no han oído las advertencias.
+
+658
+00:58:07,350 --> 00:58:10,148
+Les advertiré cuando traten de pasarnos.
+
+659
+00:58:11,688 --> 00:58:17,251
+- Hey, papacito, mantén ese cacharro fuera del camino.
+- Vamos, hombre.
+
+660
+00:58:20,730 --> 00:58:25,429
+- Hey, viejo, quién le teme al pajarote malo?
+- Apaguen sus luces! y salgan del camino!
+
+661
+00:58:25,502 --> 00:58:28,198
+no se preocupen por nosotros,
+Le pondremos sal en la cola.
+
+662
+00:58:28,271 --> 00:58:31,729
+Hey, cuidado con esa sal,
+no la pongan en los carburadores!
+
+663
+00:58:31,808 --> 00:58:33,503
+Venga, vámonos!
+
+664
+00:58:36,946 --> 00:58:40,040
+Chicos locos!
+No tienen idea de lo que hacen!
+
+665
+00:58:40,116 --> 00:58:44,610
+- Luego te veo.
+- Hey, no nos llamen, nosotros los llamaremos.
+
+666
+00:59:28,431 --> 00:59:32,834
+- El chico está grave, pero vive.
+- La chica está inconsciente.
+
+667
+00:59:32,902 --> 00:59:36,030
+Hay un pueblo adelante con hospital.
+Debemos llevarlos allí.
+
+668
+00:59:36,139 --> 00:59:38,573
+Tu y yo debemos irnos
+a Washington esta noche.
+
+669
+00:59:38,641 --> 00:59:41,201
+Traeré el auto hasta aquí.
+
+670
+00:59:55,224 --> 00:59:57,021
+Srta. Caldwell, MacAfee, Soy un hombre muy ocupado.
+
+671
+00:59:57,093 --> 01:00:00,290
+Espero que esto no sea algo
+como lanzar una moneda.
+
+672
+01:00:00,363 --> 01:00:01,921
+La suya y la mía, General.
+
+673
+01:00:01,998 --> 01:00:05,661
+Bien, es su moneda, muchacho.
+Qué es lo quiere mostrarme?
+
+674
+01:00:06,903 --> 01:00:10,964
+- Cómo derribamos a ese pájaro del aire.
+- Con un tipo especial de arma?
+
+675
+01:00:11,040 --> 01:00:13,634
+No, con armas normales, balas y bombas.
+La que Ud. quiera.
+
+676
+01:00:13,710 --> 01:00:15,268
+MacAfee, Le dije que no tengo tiempo...
+
+677
+01:00:15,345 --> 01:00:18,610
+Escuche, General. Esta idea mía puede ser
+tan loca como un billete de 3 dólares,
+
+678
+01:00:18,681 --> 01:00:22,378
+- pero pienso que es mejor que la escuche.
+- Bien, adelante.
+
+679
+01:00:22,452 --> 01:00:25,012
+Ahora bien, no me importa si ese
+pájaro vino del espacio exterior
+
+680
+01:00:25,088 --> 01:00:27,022
+o desde lo alto de Saddle River en New Jersey,
+
+681
+01:00:27,090 --> 01:00:30,150
+Sigue estando hecho de carne y hueso
+y de alguna forma
+
+682
+01:00:30,226 --> 01:00:32,160
+vulnerable a las balas y a las bombas.
+
+683
+01:00:32,228 --> 01:00:34,753
+Si podemos traspasar su
+pantalla de energía anti-materia.
+
+684
+01:00:34,831 --> 01:00:40,269
+Correcto. Eso es exactamente lo que he estado pensando,
+y creo que tengo una idea de como hacerlo.
+
+685
+01:00:40,336 --> 01:00:43,772
+He invertido bien mi moneda, muchacho.
+Siga hablando.
+
+686
+01:00:46,542 --> 01:00:51,377
+Ahora, esta es una ampliación que hice de una
+foto en una cámara de aceleración de partículas.
+
+687
+01:00:52,148 --> 01:00:55,242
+La cámara fue bombardeada
+con partículas de alta-energía.
+
+688
+01:00:55,318 --> 01:01:01,780
+Resultado, una foto que muestra la trayectoria
+dejada por lo que se conoce como un "mesón-mu".
+
+689
+01:01:02,892 --> 01:01:06,384
+Pero note este agujero, este espacio aquí.
+
+690
+01:01:06,496 --> 01:01:10,125
+ese espacio es uno de los más excitantes
+y recientes descubrimientos
+
+691
+01:01:10,199 --> 01:01:11,223
+de la ciencia actual.
+
+692
+01:01:11,300 --> 01:01:12,824
+Ud. probablemente sabe del mismo, Dr. Noymann.
+
+693
+01:01:12,902 --> 01:01:15,735
+Si, si. La formación temporal
+de una partícula mesón,
+
+694
+01:01:15,805 --> 01:01:17,636
+El mesón-mu con un núcleo de hidrógeno.
+
+695
+01:01:17,707 --> 01:01:23,942
+Correcto. Pero los mesones-mu
+son 210 veces más pesados que los electrones.
+
+696
+01:01:24,013 --> 01:01:29,610
+Lo que quiere decir que en un átomo mésico,
+los electrones giran alrededor de un núcleo
+
+697
+01:01:29,686 --> 01:01:34,521
+que tiene una pequeña fracción de la
+distancia ordinaria en un átomo normal.
+
+698
+01:01:35,591 --> 01:01:39,254
+Se que Ud. no entiende bien esto,
+General, pero siga escuchándome.
+
+699
+01:01:39,328 --> 01:01:42,695
+Ahora, el átomo mésico es extremadamente pequeño,
+
+700
+01:01:43,232 --> 01:01:48,636
+lo sufientemente pequeño como para pasar a través
+de las defensas de los electrones de un átomo ordinario
+
+701
+01:01:48,705 --> 01:01:53,733
+- y fusionarse con su núcleo.
+- Atomos de materia y anti-materia.
+
+702
+01:01:53,810 --> 01:02:00,238
+Correcto, Doc! Ahora si esta idea mía funciona
+y podemos estar cerca, verdaderamente cerca,
+
+703
+01:02:00,316 --> 01:02:05,879
+para bombardear el escudo de anti-materia de
+este pájaro con una ráfaga de mesones-mu,
+
+704
+01:02:05,955 --> 01:02:08,116
+Creo que podríamos destruir ese escudo.
+
+705
+01:02:08,191 --> 01:02:11,820
+El pájaro estaría sin defensas
+excepto por su pico, garras y alas.
+
+706
+01:02:11,894 --> 01:02:14,294
+Y Ud. podría golpearlo hasta
+con los trastos del fregadero.
+
+707
+01:02:14,363 --> 01:02:18,527
+Tendremos esos trastos de fregadero listos, muchacho.
+Piensa que puede hacerlo?
+
+708
+01:02:18,601 --> 01:02:21,161
+Tengo algunas ideas buenas de como hacerlo.
+Pero no estoy seguro de que funcionaran,
+
+709
+01:02:21,237 --> 01:02:24,229
+- pero vale la pena intentarlo.
+- Bien. Qué necesita?
+
+710
+01:02:24,307 --> 01:02:27,333
+Este laboratorio, al Dr. Noymann y su personal,
+a Sally para que me ayude con las matemáticas,
+
+711
+01:02:27,410 --> 01:02:29,378
+y un cheque en blanco para
+equipos y suministros.
+
+712
+01:02:29,445 --> 01:02:32,005
+Todo suyo hasta que termine
+pida todo lo que necesite.
+
+713
+01:02:32,081 --> 01:02:37,144
+MacAfee, cuánto tiempo le llevará?.
+Hoy, mañana, una semana tal vez...
+
+714
+01:02:37,220 --> 01:02:41,850
+por otro lado odiaría perder la moneda
+que he invertido en Ud. Buena suerte, hijo.
+
+715
+01:02:46,062 --> 01:02:50,761
+- Bien, todos listos para algo de trabajo?
+- Trabajo o algo de magia.
+
+716
+01:02:50,833 --> 01:02:55,702
+- Necesitamos un milagro!
+- Aquí está. Un milagro.
+
+717
+01:02:55,772 --> 01:02:57,831
+A sacarle provecho.
+
+718
+01:03:01,844 --> 01:03:04,506
+Esta arma debería crear
+partículas mésicos,
+
+719
+01:03:04,580 --> 01:03:07,378
+no como un raro fenómeno aislado
+en un laboratorio,
+
+720
+01:03:07,450 --> 01:03:09,418
+en tremendas cantidades,
+
+721
+01:03:09,485 --> 01:03:12,420
+y eyectarlas entonces usando algún tipo
+de artefacto para apuntar e impulsarlas
+
+722
+01:03:12,488 --> 01:03:15,616
+Así podrían viajar distancias indefinidas
+a través del aire
+
+723
+01:03:15,691 --> 01:03:18,660
+para llegar con suficiente velocidad
+y en cantidad suficiente
+
+724
+01:03:18,728 --> 01:03:21,356
+para bombardear y destruir
+el escudo de anti-materia.
+
+725
+01:03:21,430 --> 01:03:23,660
+Un verdadero milagro de la ciencia.
+
+726
+01:03:23,733 --> 01:03:28,693
+Especialmente por la expectativa de vida
+total esperada para un mesón,
+
+727
+01:03:28,771 --> 01:03:34,141
+hasta ahora, medida en laboratorios,
+ha sido de unas dos millonésimas de un segundo.
+
+728
+01:03:37,613 --> 01:03:38,841
+Fracaso...
+
+729
+01:03:49,559 --> 01:03:50,821
+Fracaso...
+
+730
+01:03:58,568 --> 01:04:00,195
+...después otro fracaso...
+
+731
+01:04:07,109 --> 01:04:08,633
+...y otro fracaso.
+
+732
+01:04:11,047 --> 01:04:15,541
+Y mientras un puñado de dedicadas personas
+tratan de lograr lo imposible,
+
+733
+01:04:15,618 --> 01:04:20,282
+El pánico se esparce por toda La Tierra.
+Pánico y terror de pesadilla.
+
+734
+01:05:18,047 --> 01:05:19,036
+Calma.
+
+735
+01:05:23,185 --> 01:05:24,345
+Mitch.
+
+736
+01:05:27,456 --> 01:05:31,483
+Calma, hijo, calma. Hicistes lo mejor.
+
+737
+01:05:31,560 --> 01:05:35,121
+No podemos matar al paciente
+tratando de curar la enfermedad, o si?
+
+738
+01:05:35,197 --> 01:05:38,030
+Un enorme esfuerzo, Mitch, magnífico.
+
+739
+01:05:38,100 --> 01:05:42,093
+Pero desafortunadamente condenado
+al fracaso desde el comienzo.
+
+740
+01:05:42,171 --> 01:05:44,401
+Ok, grandioso.
+
+741
+01:05:44,473 --> 01:05:46,202
+Ahora si alguien termina
+el discurso,
+
+742
+01:05:46,275 --> 01:05:48,869
+el difunto podrá descansar en su tumba.
+
+743
+01:05:48,945 --> 01:05:51,038
+Que pasa con Uds,están
+todos locos o qué?
+
+744
+01:05:51,113 --> 01:05:52,444
+Mitch, estás bien?
+
+745
+01:05:52,515 --> 01:05:55,040
+Sally, cuánto tiempo ha pasado
+desde la explosión?
+
+746
+01:05:55,117 --> 01:05:57,142
+Como una hora y media,
+tal vez dos horas, creo.
+
+747
+01:05:57,219 --> 01:06:00,245
+- Oh, estamos perdiendo el tiempo.
+- Calma, hijo, calma.
+
+748
+01:06:00,323 --> 01:06:03,349
+- Y ese monstruo sigue en el aire?
+- Si, por qué?.
+
+749
+01:06:03,426 --> 01:06:06,884
+- Todavía quiere destruirlo?
+- Si, si, seguro.
+
+750
+01:06:06,963 --> 01:06:09,955
+Bien, entonces, terminemos con esto.
+General Buskirk hemos tenido un avión
+
+751
+01:06:10,032 --> 01:06:13,468
+esperando en un campo en las afueras de New York
+desde que comenzamos los experimentos.
+
+752
+01:06:13,536 --> 01:06:15,731
+Tenemos que llevarnos el equipo e instalarlo
+en ese avión.
+
+753
+01:06:15,805 --> 01:06:20,105
+Mitch, el aparato no funciona.
+El experimento fracasó.
+
+754
+01:06:20,176 --> 01:06:24,112
+Mitch, por favor permanece en cama.
+Fuiste herido en la explosión.
+
+755
+01:06:25,081 --> 01:06:29,415
+Oh.. Por supuesto, Uds no lo saben.
+La explosión no fue accidental.
+
+756
+01:06:29,485 --> 01:06:32,420
+Fue a propósito.
+Usé el proyector de partículas mésicos.
+
+757
+01:06:32,488 --> 01:06:33,785
+Qué?
+
+758
+01:06:33,856 --> 01:06:37,121
+Si, seguro. Teníamos el cableado básico mal ajustado.
+
+759
+01:06:37,193 --> 01:06:39,058
+Hice un simple ajuste en la polaridad
+
+760
+01:06:39,128 --> 01:06:41,119
+de los terminales del condensador principal.
+
+761
+01:06:41,197 --> 01:06:43,893
+Así que mientras Uds dos descansaban,
+ajusté el circuito y lo probé.
+
+762
+01:06:43,966 --> 01:06:45,228
+- Espere un momento, MacAfee.
+- Mitch!
+
+763
+01:06:45,301 --> 01:06:48,236
+Espere un momento. Está Ud diciendo
+que ese aparato suyo de verdad funciona?
+
+764
+01:06:48,304 --> 01:06:50,067
+- Seguro.
+- Que tipo de avión tienen...
+
+765
+01:06:50,139 --> 01:06:53,336
+- Buskirk, tengo que esperar por Ud?
+- Un viejo y descolorido B-25.
+
+766
+01:06:53,409 --> 01:06:55,274
+Bien. Maniobrabilidad en lugar de velocidad.
+
+767
+01:06:55,344 --> 01:06:58,177
+Si, toda la operación puede depender
+de poder maniobrar ajustadamente.
+
+768
+01:06:58,247 --> 01:07:00,010
+Bien, entonces que rayos estamos esperando?
+
+769
+01:07:00,082 --> 01:07:01,811
+Hemos estado hablando casi 10 minutos.
+
+770
+01:07:01,884 --> 01:07:05,786
+Me pasaría mis pantalones, General?
+Oh, Sally, espera afuera.
+
+771
+01:07:11,360 --> 01:07:15,023
+Hemos instalado la boquilla eyectora
+en la cola del avión,
+
+772
+01:07:15,097 --> 01:07:18,555
+- Apuntando hacia atrás.
+- Re-cableamos el sistema eléctrico del avión,
+
+773
+01:07:18,634 --> 01:07:21,728
+y añadimos un banco de baterías,
+que nos proporcionará potencia adicional.
+
+774
+01:07:21,804 --> 01:07:25,137
+Ahora, el peso será un problema. Cuántas personas
+necesitará para operar esta máquina?
+
+775
+01:07:25,207 --> 01:07:27,232
+El Doctor, un calculista y yo mismo.
+
+776
+01:07:27,309 --> 01:07:30,039
+Envío por alguien para que sustituya a Sally?
+
+777
+01:07:30,112 --> 01:07:33,047
+- No la quiero a ella en ese avión.
+- Vendrá desde la ciudad pronto.
+
+778
+01:07:33,115 --> 01:07:38,075
+Una pregunta. Por qué colocaron ese artefacto
+en la cola y no en la nariz del avión?
+
+779
+01:07:38,154 --> 01:07:42,113
+Sería muy peligroso en la nariz. Podríamos volar
+dentro de nuestro propio bombardeo de mesones
+
+780
+01:07:42,191 --> 01:07:45,354
+- y destruir el avión.
+- Una vez que localizemos al pajarraco
+
+781
+01:07:45,428 --> 01:07:48,329
+y estemos en el aire,
+el pájaro irá tras de nosotros.
+
+782
+01:07:48,397 --> 01:07:52,390
+- Y si no es así?
+- Atraeremos su atención de algún modo.
+
+783
+01:07:54,870 --> 01:07:57,304
+- Emparedados y café.
+- gracias.
+
+784
+01:08:07,283 --> 01:08:09,308
+El pájaro ha sido avistado
+sobrevolando la ciudad de New York.
+
+785
+01:08:09,385 --> 01:08:12,115
+- Cuánto falta para que terminen?
+- Hora y media tal vez dos.
+
+786
+01:08:12,188 --> 01:08:14,315
+- Continuaré conectándolo todo.
+- No, eso tardará mucho.
+
+787
+01:08:14,390 --> 01:08:17,257
+Debemos despegar en 15 minutos.
+Lo terminará de conectar en el aire.
+
+788
+01:08:17,326 --> 01:08:19,590
+Que hay del calculista para reemplazar a Sally?
+
+789
+01:08:19,662 --> 01:08:22,130
+Lo siento, MacAfee,
+Ya no hay tiempo para eso.
+
+790
+01:08:22,198 --> 01:08:24,291
+- General...
+- Van, tu volarás, yo te respaldaré.
+
+791
+01:08:24,366 --> 01:08:26,300
+- Alisten el campo para el despegue.
+- Correcto.
+
+792
+01:08:26,368 --> 01:08:30,532
+Bien, que estamos esperando?
+LLeve el resto de sus cosas a bordo.
+
+793
+01:10:14,810 --> 01:10:18,644
+Allí está,
+atacando el edificio de Naciones Unidas.
+
+794
+01:10:33,662 --> 01:10:35,323
+Hagamos un pase.
+
+795
+01:12:16,632 --> 01:12:19,066
+El ave está detrás de nosotros, nos persigue.
+Que está haciendo?
+
+796
+01:12:19,134 --> 01:12:22,001
+- Listo en un minuto.
+- Bien, rápido, muchacho, rápido.
+
+797
+01:12:25,841 --> 01:12:30,210
+Cielo santo, apúrese, hombre!
+Nos está alcanzando.
+
+798
+01:12:30,279 --> 01:12:32,509
+Lo tengo! Cierre esos circuitos.
+
+799
+01:12:59,508 --> 01:13:01,499
+Es todo suyo, General.
+
+800
+01:13:10,953 --> 01:13:12,147
+Tranquilo.
+
+801
+01:13:17,192 --> 01:13:18,420
+Tranquilo.
+
+802
+01:13:20,062 --> 01:13:21,552
+Dispara los proyectiles.
+
+803
+01:13:54,930 --> 01:13:56,363
+Lo hicimos..!
+
+804
+01:13:57,363 --> 01:14:07,363
+Downloaded From www.AllSubs.org
+

@@ -1,0 +1,3358 @@
+1
+00:02:33,849 --> 00:02:34,849
+Hey...
+
+2
+00:02:34,850 --> 00:02:36,961
+Hey Linda... ¡Ven aquí!
+
+3
+00:02:40,604 --> 00:02:42,041
+Aquí afuera
+
+4
+00:02:46,743 --> 00:02:48,851
+Me preguntaba cómo se vería
+Tokyo desde aquí arriba.
+
+5
+00:02:49,523 --> 00:02:50,576
+- No quiero...
+- ¿Por qué no?
+
+6
+00:02:53,453 --> 00:02:55,754
+Tengo miedo.
+
+7
+00:02:56,043 --> 00:02:58,150
+¿Miedo de qué?
+
+8
+00:02:59,590 --> 00:03:01,220
+De morirme, supongo...
+
+9
+00:03:02,562 --> 00:03:04,097
+De caer al vacío.
+
+10
+00:03:07,740 --> 00:03:10,427
+Dicen que vuelas al morir.
+
+11
+00:03:15,605 --> 00:03:17,330
+Hace mucho frío.
+
+12
+00:03:23,467 --> 00:03:25,289
+Hey, observa este libro.
+Me lo dió Alex.
+
+13
+00:03:25,576 --> 00:03:27,495
+Es como la Biblia Tibetana.
+
+14
+00:03:27,687 --> 00:03:29,316
+¿Alex el adicto?
+
+15
+00:03:29,604 --> 00:03:31,426
+Explica paso a paso
+lo que te sucede al morir.
+
+16
+00:03:32,098 --> 00:03:33,059
+Mira.
+
+17
+00:03:37,565 --> 00:03:39,961
+¿Entonces vas a convertirte
+al budismo?
+
+18
+00:03:40,825 --> 00:03:41,782
+No.
+
+19
+00:03:42,071 --> 00:03:46,098
+Sabes que son todos iguales:
+Los jodidos católicos, los judíos...
+
+20
+00:03:48,783 --> 00:03:51,468
+Una banda de imbéciles
+dispuestos a quitarte el dinero...
+
+21
+00:03:53,194 --> 00:03:55,784
+Alex va a convertirte
+en un adicto...
+
+22
+00:03:55,976 --> 00:03:56,840
+...y después te convertirá
+en un jodido budista.
+
+23
+00:03:56,936 --> 00:03:59,043
+No, sólo es un amigo.
+
+24
+00:03:59,523 --> 00:04:01,346
+No voy a convertirme al budismo...
+
+25
+00:04:01,731 --> 00:04:03,168
+Alex es un jodido drogón.
+
+26
+00:04:03,840 --> 00:04:05,949
+No es tu amigo.
+
+27
+00:04:06,141 --> 00:04:07,100
+- Basta.
+- Él no es tu amigo.
+
+28
+00:04:09,593 --> 00:04:11,031
+Tengo que irme.
+
+29
+00:04:15,539 --> 00:04:18,128
+¿Te veo luego?
+
+30
+00:04:20,142 --> 00:04:20,909
+Adiós.
+
+31
+00:04:24,553 --> 00:04:26,949
+<i>Cierra la puerta, tan solo hazlo...</i>
+
+32
+00:04:28,673 --> 00:04:29,923
+<i>Eso es.</i>
+
+33
+00:04:34,524 --> 00:04:36,730
+<i>¿Por qué piensa que soy un drogón?</i>
+
+34
+00:04:38,169 --> 00:04:39,991
+<i>Yo sé que no lo soy.</i>
+
+35
+00:04:41,429 --> 00:04:42,868
+<i>Yo sé quien soy.</i>
+
+36
+00:04:44,402 --> 00:04:46,320
+<i>Sé que no soy un drogón.</i>
+
+37
+00:04:47,951 --> 00:04:50,349
+<i>Es mi hermana, algunas veces
+no entiende nada.</i>
+
+38
+00:05:10,962 --> 00:05:12,496
+<i>Eso es.</i>
+
+39
+00:05:14,225 --> 00:05:15,664
+<i>Es buena mercadería.</i>
+
+40
+00:05:21,226 --> 00:05:23,145
+<i>¿Por qué Bruno me daría
+algo como esto?</i>
+
+41
+00:05:25,252 --> 00:05:28,511
+<i>Seguramente quiere que se la chupe.
+¡Qué espanto!</i>
+
+42
+00:05:29,566 --> 00:05:31,197
+<i>¿Quién se piensa que soy?</i>
+
+43
+00:05:31,964 --> 00:05:33,786
+<i>Sé que no soy un drogón.</i>
+
+44
+00:06:10,608 --> 00:06:11,952
+<i>Eso es.</i>
+
+45
+00:06:31,899 --> 00:06:34,104
+<i>Ésto no sabe bien.</i>
+
+46
+00:06:39,092 --> 00:06:40,337
+<i>Ésto es una mierda.</i>
+
+47
+00:06:51,080 --> 00:06:52,324
+<i>¡Ya está actuando!</i>
+
+48
+00:06:56,447 --> 00:06:58,366
+<i>Eso es... Ya comenzó.</i>
+
+49
+00:07:01,528 --> 00:07:03,255
+<i>Oh Dios, ésto es lo mejor.</i>
+
+50
+00:07:03,542 --> 00:07:06,033
+<i>¿Y si te desmayas?</i>
+
+51
+00:07:06,898 --> 00:07:08,050
+<i>No irás a desmayarte...</i>
+
+52
+00:07:09,681 --> 00:07:12,944
+<i>Lo sabrás si te desmayas.
+Has hecho esto antes...</i>
+
+53
+00:11:31,277 --> 00:11:33,196
+- Hola...
+- Oscar... soy Victor.
+
+54
+00:11:34,538 --> 00:11:36,074
+Hey, estuve llamándote...
+
+55
+00:11:37,319 --> 00:11:38,948
+¿Puedes traerme lo mío?
+
+56
+00:11:39,524 --> 00:11:41,443
+Puedes venir a buscarlo.
+
+57
+00:11:41,827 --> 00:11:43,743
+No... Necesito que me lo traigas.
+
+58
+00:11:44,416 --> 00:11:46,237
+De acuerdo. ¿Dónde estás?
+
+59
+00:11:46,526 --> 00:11:47,961
+Estoy en El Vacío...
+
+60
+00:11:49,208 --> 00:11:51,417
+Lamento lo de ayer,
+estuve llamándote...
+
+61
+00:11:51,704 --> 00:11:52,852
+De hecho...
+
+62
+00:11:53,237 --> 00:11:55,346
+- De hecho pensaba si tú...
+- No sigas.
+
+63
+00:11:55,633 --> 00:11:56,690
+¿Hola?
+
+64
+00:11:57,360 --> 00:12:01,196
+¿Hola?
+¡Demonios!
+
+65
+00:12:16,155 --> 00:12:17,498
+<i>Despierta.</i>
+
+66
+00:12:20,950 --> 00:12:22,294
+<i>Manténte fuerte.</i>
+
+67
+00:12:25,363 --> 00:12:26,994
+<i>Dios...</i>
+
+68
+00:12:27,282 --> 00:12:28,240
+<i>Volvió.</i>
+
+69
+00:12:38,786 --> 00:12:40,030
+<i>Recoge tus cosas</i>
+
+70
+00:12:42,909 --> 00:12:44,254
+<i>El balcón.</i>
+
+71
+00:12:45,692 --> 00:12:47,225
+<i>Aléjate del balcón.</i>
+
+72
+00:12:49,621 --> 00:12:51,445
+<i>Mantén tus ojos abiertos.</i>
+
+73
+00:12:53,171 --> 00:12:54,992
+<i>Mi cabeza está por explotar.</i>
+
+74
+00:13:12,349 --> 00:13:13,883
+<i>Es agua.</i>
+
+75
+00:13:16,376 --> 00:13:19,540
+<i>Agua fresca de la canilla.</i>
+
+76
+00:13:20,595 --> 00:13:23,184
+<i>Sólo es agua de la canilla.</i>
+
+77
+00:13:31,816 --> 00:13:33,061
+<i>Perfecto.</i>
+
+78
+00:13:41,692 --> 00:13:42,939
+<i>Vuelta a la normalidad.</i>
+
+79
+00:13:44,473 --> 00:13:47,349
+<i>Observa tus mejillas,
+y tus ojos.</i>
+
+80
+00:13:47,830 --> 00:13:49,174
+<i>Lucen diferentes.</i>
+
+81
+00:13:49,652 --> 00:13:50,515
+<i>Mierda</i>
+
+82
+00:13:53,009 --> 00:13:54,542
+<i>¿Son los vecinos?</i>
+
+83
+00:13:57,132 --> 00:13:59,435
+<i>¿Me habrán oído?
+¿Habré gritado? ¿Y si lo hice?</i>
+
+84
+00:13:59,721 --> 00:14:01,541
+<i>Solo cálmate.</i>
+
+85
+00:14:08,924 --> 00:14:10,747
+Alex. Aguarda.
+
+86
+00:14:14,201 --> 00:14:16,118
+Oscar, ¿Estás bien?
+
+87
+00:14:16,408 --> 00:14:18,418
+Estoy bien,
+¿Cómo estás?
+
+88
+00:14:18,609 --> 00:14:21,297
+Estuvo bien, bastante bien...
+
+89
+00:14:21,967 --> 00:14:23,790
+Creo que necesito una ducha.
+
+90
+00:14:28,105 --> 00:14:31,941
+<i>No vayas al balcón.
+Mantente lejos del balcón.</i>
+
+91
+00:14:34,339 --> 00:14:36,256
+¿Has leído el libro?
+
+92
+00:14:36,448 --> 00:14:37,310
+- ¿El Libro?
+- Sí.
+
+93
+00:14:37,502 --> 00:14:39,420
+- Ah, El Libro de los Muertos.
+- Sí.
+
+94
+00:14:40,667 --> 00:14:43,258
+Sí, estuve leyéndolo,
+está muy bien.
+
+95
+00:14:43,447 --> 00:14:44,693
+Es salvaje.
+
+96
+00:14:44,885 --> 00:14:46,612
+Me alegro de que
+te haya gustado.
+
+97
+00:14:46,996 --> 00:14:48,819
+¿Puedo conservarlo
+hasta concluirlo?
+
+98
+00:14:49,107 --> 00:14:51,023
+- No hay problema
+- Gracias...
+
+99
+00:14:59,558 --> 00:15:01,475
+- ¿Estás bien?
+- Bueno...
+
+100
+00:15:04,447 --> 00:15:06,366
+- Me cruzé con tu hermana.
+- ¿Sí?
+
+101
+00:15:08,092 --> 00:15:10,011
+Sí. Estaba con ése imbécil de Mario.
+
+102
+00:15:10,394 --> 00:15:12,217
+Odio a ese tipo.
+
+103
+00:15:12,409 --> 00:15:14,133
+No puedo creer que
+ella salga con él.
+
+104
+00:15:15,473 --> 00:15:17,777
+Si la deja embarazada,
+mataré al bebé.
+
+105
+00:15:18,161 --> 00:15:19,312
+Lo juro por Dios.
+
+106
+00:15:19,409 --> 00:15:21,327
+De todos modos...
+¿Te molesta si vamos a verla esta noche?
+
+107
+00:15:21,614 --> 00:15:23,051
+Realmente tengo ganas
+de verla...
+
+108
+00:15:23,340 --> 00:15:24,778
+Seguro.
+
+109
+00:15:24,875 --> 00:15:28,040
+Primero pasaremos por El Vacío.
+Tengo mercadería para Victor.
+
+110
+00:15:28,327 --> 00:15:29,478
+¿Quieres venir?
+
+111
+00:15:29,861 --> 00:15:31,012
+- ¿El vacío?
+- Sí.
+
+112
+00:15:31,204 --> 00:15:33,021
+No me gusta ese sitio,
+pero te acompañaré...
+
+113
+00:15:33,309 --> 00:15:35,229
+...y luego iremos a visitar
+a tu hermana.
+
+114
+00:15:35,516 --> 00:15:36,475
+- Sí, andando.
+- ¡Excelente!
+
+115
+00:15:36,859 --> 00:15:38,779
+- ¿Puedo llevar agua?
+- Claro.
+
+116
+00:15:41,655 --> 00:15:42,806
+¡Agua!
+
+117
+00:16:03,328 --> 00:16:04,669
+No te llevarás todo,
+¿no?
+
+118
+00:16:05,054 --> 00:16:06,588
+No, sólo su parte.
+
+119
+00:16:06,780 --> 00:16:08,600
+- Éso es un montón de equipaje.
+- Sí.
+
+120
+00:16:09,559 --> 00:16:11,476
+¡Eso es jodidamente peligroso!
+Deberías dejar que lo recoja él mismo.
+
+121
+00:16:11,573 --> 00:16:13,490
+No, el no volverá más por aquí.
+
+122
+00:16:13,874 --> 00:16:16,656
+No después de lo que le ocurrió
+a su madre.
+
+123
+00:16:17,040 --> 00:16:18,862
+- ¿Qué? Él descubrió...
+- Sí...
+
+124
+00:16:19,341 --> 00:16:21,259
+- ¿Cómo lo descubrió?
+- No quiero hablar de ello.
+
+125
+00:16:21,547 --> 00:16:23,466
+¿Puedo traer el agua?
+
+126
+00:16:23,658 --> 00:16:24,807
+- Tráela.
+- De acuerdo.
+
+127
+00:16:34,492 --> 00:16:37,656
+No hay nadie en la calle,
+¿hoy es feriado?
+
+128
+00:16:43,220 --> 00:16:44,845
+¿Qué sucede contigo?
+
+129
+00:16:53,864 --> 00:16:55,783
+- ¿Estás volando?
+- Sí. ¿Te diste cuenta?
+
+130
+00:16:56,835 --> 00:16:58,657
+Sí, luces muy mal...
+
+131
+00:16:59,713 --> 00:17:04,982
+Tomé pastillas a la mañana...
+Y un toque de DMT antes de que llegues...
+
+132
+00:17:06,901 --> 00:17:09,014
+¡Parece que fué un buen día!
+
+133
+00:17:09,304 --> 00:17:11,220
+¡Y eso que el día no terminó!
+
+134
+00:17:12,945 --> 00:17:16,110
+¿Piensas que Bruno tendrá
+algo más potente que el DMT?
+
+135
+00:17:16,591 --> 00:17:18,413
+¡Termínala!
+¡Arruinarás tu cerebro!
+
+136
+00:17:19,945 --> 00:17:23,685
+Deberías terminar el Libro de los Muertos,
+eso sería mucho mejor.
+
+137
+00:17:24,259 --> 00:17:27,043
+Aguarda hasta tu muerte,
+ése será tu mejor vuelo.
+
+138
+00:17:27,329 --> 00:17:28,863
+El libro aún me resulta confuso.
+
+139
+00:17:29,152 --> 00:17:30,976
+¿Me lo explicarías?
+
+140
+00:17:33,085 --> 00:17:35,578
+Es realmente difícil de explicar...
+
+141
+00:17:35,962 --> 00:17:39,794
+Básicamente, cuando mueres
+tu espíritu abandona tu cuerpo.
+
+142
+00:17:40,273 --> 00:17:43,151
+de hecho, puedes observar
+toda tu vida entera.
+
+143
+00:17:43,436 --> 00:17:46,029
+Como reflejada
+en un espejo mágico.
+
+144
+00:17:46,316 --> 00:17:48,138
+Entonces comienzas a flotar,
+como un fantasma
+
+145
+00:17:49,768 --> 00:17:52,360
+puedes ver todo lo que pasa
+a tu alrededor,
+
+146
+00:17:52,741 --> 00:17:55,906
+puedes oírlo todo,
+pero no puedes comunicarte.
+
+147
+00:17:57,345 --> 00:17:59,837
+Luego, ves luces...
+Luces de varios colores.
+
+148
+00:18:00,317 --> 00:18:05,112
+Ésas luces son portales,
+portales hacia otra dimensión...
+
+149
+00:18:07,317 --> 00:18:11,920
+Pero a la mayor parte
+de la gente...
+
+150
+00:18:12,208 --> 00:18:17,289
+le gusta tanto éste mundo,
+que no desean ser transportados
+
+151
+00:18:17,769 --> 00:18:21,127
+Entonces todo el asunto
+se convierte en un Mal Viaje
+
+152
+00:18:21,318 --> 00:18:24,482
+y el único modo de superarlo
+es a través de la reencarnación.
+
+153
+00:18:26,400 --> 00:18:28,319
+- ¿Te resulta comprensible?
+- Supongo...
+
+154
+00:18:29,469 --> 00:18:32,826
+¿Cómo es el mal viaje?
+
+155
+00:18:33,401 --> 00:18:38,290
+Tienes estas horribles pesadillas...
+Te vuelves completamente loco.
+
+156
+00:18:38,866 --> 00:18:43,085
+todos tus miedos se hacen realidad,
+y te dan el peor susto que puedas imaginar...
+
+157
+00:18:43,468 --> 00:18:47,114
+Todas esas cosas
+en tu jodida cabeza.
+
+158
+00:18:49,703 --> 00:18:51,621
+En ése punto,
+desearías no haber muerto.
+
+159
+00:18:56,224 --> 00:18:58,429
+Y allí aparecen nuevas luces.
+
+160
+00:18:59,867 --> 00:19:01,786
+Representan a todas las parejas
+haciendo el amor...
+
+161
+00:19:04,661 --> 00:19:07,442
+...y una luz surge de sus vientres,
+y si te acercas lo suficiente,
+
+162
+00:19:07,826 --> 00:19:11,083
+...te ofrece una visión
+de tus probables vidas futuras.
+
+163
+00:19:11,659 --> 00:19:14,346
+Y tú elijes una vida
+que te resulte cómoda,
+
+164
+00:19:14,825 --> 00:19:20,293
+...te aproximas al vientre, y reencarnas.
+Fin de la historia.
+
+165
+00:19:21,442 --> 00:19:24,415
+Básicamente haces esto
+todo el tiempo y para siempre...
+
+166
+00:19:24,799 --> 00:19:29,018
+Hasta que logras quebrar
+el círculo.
+
+167
+00:19:29,593 --> 00:19:31,033
+¿Entiendes?
+
+168
+00:19:31,511 --> 00:19:34,387
+¿Quieres decir que estoy
+eternamente atascado aquí?
+
+169
+00:19:35,539 --> 00:19:38,224
+¿No hay nada mejor allí afuera?
+
+170
+00:19:44,554 --> 00:19:46,472
+¿Sabes algo?
+Muero por ver a tu hermana.
+
+171
+00:19:47,048 --> 00:19:48,963
+Ella luce muy bien.
+
+172
+00:19:50,211 --> 00:19:52,608
+Lo sé.
+Pero es mi hermana ¿de acuerdo?
+
+173
+00:19:52,992 --> 00:19:55,291
+- Lo sé. Sólo digo...
+- No soy ciego, es preciosa.
+
+174
+00:20:00,471 --> 00:20:01,622
+Taxi.
+
+175
+00:20:03,925 --> 00:20:07,182
+- Deberías controlarla.
+- ¿A qué te refieres?
+
+176
+00:20:07,758 --> 00:20:09,197
+Te estás convirtiendo en un dealer.
+
+177
+00:20:09,675 --> 00:20:12,171
+- No soy un dealer.
+- Sí lo eres. ¿Qué hacemos hoy?
+
+178
+00:20:13,321 --> 00:20:15,430
+Tú sabes...
+
+179
+00:20:15,814 --> 00:20:17,638
+visitar a tu hermana...
+
+180
+00:20:18,021 --> 00:20:20,706
+Ella está tratando
+de sacarte de esto...
+
+181
+00:20:20,801 --> 00:20:22,143
+¿Estás loco?
+
+182
+00:20:22,432 --> 00:20:24,251
+- Tú me presentaste a tu dealer.
+- Oh, vamos.
+
+183
+00:20:24,540 --> 00:20:27,514
+En verdad, deberías conseguir
+trabajo, ¿sabes?
+
+184
+00:20:29,048 --> 00:20:30,007
+No lo sé.
+
+185
+00:20:30,484 --> 00:20:33,938
+Eres un tipo listo,
+un buen DJ.
+
+186
+00:20:35,088 --> 00:20:37,294
+Quizá puedas pedir trabajo en el club,
+de medio tiempo, como mozo.
+
+187
+00:20:37,678 --> 00:20:39,500
+Es muy fácil. Yo lo hice.
+
+188
+00:20:39,978 --> 00:20:41,801
+Muy fácil...
+Sobre todo en Tokyo.
+
+189
+00:20:42,855 --> 00:20:44,485
+Eres extranjero, bien parecido...
+
+190
+00:20:48,225 --> 00:20:50,335
+Hay una gran diferencia...
+
+191
+00:20:50,623 --> 00:20:53,214
+...entre tomar psicofármacos
+y venderlos.
+
+192
+00:20:53,403 --> 00:20:54,747
+¡Yo no soy dealer!
+
+193
+00:20:55,036 --> 00:20:58,583
+Eres un dealer
+y un hijo de puta.
+
+194
+00:20:59,447 --> 00:21:02,035
+I can't believe
+your fucking that old bitch
+
+195
+00:21:02,323 --> 00:21:04,336
+Estás en Tokyo,
+un sitio lleno de niñas hermosas
+
+196
+00:21:04,431 --> 00:21:06,349
+y estás cogiéndote a esa vieja horrible,
+que también es extranjera...
+
+197
+00:21:06,636 --> 00:21:08,458
+Si al menos te cogieras
+una japonesa...
+
+198
+00:21:08,841 --> 00:21:11,720
+- Una vieja...
+- Ella me coge a mí.
+
+199
+00:21:12,007 --> 00:21:13,830
+Oh, no. La Policía.
+
+200
+00:21:22,268 --> 00:21:24,088
+Voy a tirar mi botella...
+Vuelvo enseguida.
+
+201
+00:21:25,912 --> 00:21:27,828
+- ¿Has probado Datura?
+- No.
+
+202
+00:21:28,691 --> 00:21:30,513
+¡Es increíble!
+
+203
+00:21:30,706 --> 00:21:32,530
+- ¿Datura? ¿Es un hongo?
+- Es una planta.
+
+204
+00:21:33,200 --> 00:21:39,047
+te transporta a un sitio
+bastante extraño.
+
+205
+00:21:39,624 --> 00:21:41,447
+¿Cómo es?
+
+206
+00:21:42,405 --> 00:21:44,323
+¿Cómo es un viaje con Datura?
+
+207
+00:21:48,350 --> 00:21:51,133
+Nunca te das cuenta
+que estás viajando...
+
+208
+00:21:51,997 --> 00:21:55,543
+...quedas tirado en el piso,
+hablando con todo el mundo.
+
+209
+00:21:55,929 --> 00:21:57,749
+Pero dos semanas después,
+te das cuenta...
+
+210
+00:21:58,038 --> 00:22:00,050
+...que no hablaste con nadie.
+
+211
+00:22:00,435 --> 00:22:03,215
+Yo tomé, y ví a esta chica...
+divina.
+
+212
+00:22:03,405 --> 00:22:05,324
+espera un segundo,
+era realmente preciosa.
+
+213
+00:22:05,612 --> 00:22:06,187
+Me gustaba muchísimo.
+
+214
+00:22:06,667 --> 00:22:08,487
+Traté de besarla,
+hablé durante 30 minutos...
+
+215
+00:22:12,420 --> 00:22:14,241
+...Ella desapareció.
+¡Nunca existió!
+
+216
+00:22:14,721 --> 00:22:16,640
+EL VACíO
+
+217
+00:22:17,887 --> 00:22:19,037
+No quiero observar
+cómo negocias con Victor...
+
+218
+00:22:19,072 --> 00:22:22,106
+Iré a comer algo,
+y te esperaré allí.
+
+219
+00:22:22,489 --> 00:22:24,311
+- Bueno.
+- Te veo más tarde.
+
+220
+00:22:25,365 --> 00:22:26,421
+Nos vemos luego.
+
+221
+00:22:32,653 --> 00:22:35,817
+<i>Linda tiene razón,
+Alex es más adicto que yo.</i>
+
+222
+00:22:40,421 --> 00:22:41,859
+<i>Espero que Victor esté aquí.</i>
+
+223
+00:22:42,821 --> 00:22:44,351
+<i>No quiero esperarlo.</i>
+
+224
+00:23:01,900 --> 00:23:04,204
+Tengo lo tuyo.
+
+225
+00:23:06,698 --> 00:23:07,753
+Lo siento.
+
+226
+00:23:08,612 --> 00:23:10,052
+- ¿Qué?
+- Lo siento.
+
+227
+00:23:11,009 --> 00:23:12,449
+¡Policía!
+
+228
+00:23:29,902 --> 00:23:32,683
+¿Qué están haciendo?
+¡Llamaré a mi embajada!
+
+229
+00:23:36,231 --> 00:23:38,053
+Deténganse.
+
+230
+00:23:55,699 --> 00:23:56,850
+¡Tengo un arma!
+
+231
+00:23:57,041 --> 00:23:59,534
+¡Tengo un arma!
+¡Voy a disparar!
+
+232
+00:24:00,972 --> 00:24:02,317
+¡Dispararé si no se retiran!
+
+233
+00:24:04,040 --> 00:24:05,671
+<i>¿Qué quieres que...</i>
+
+234
+00:24:11,424 --> 00:24:15,165
+<i>¿Qué?
+Me dispararon.</i>
+
+235
+00:24:20,821 --> 00:24:22,355
+<i>Me dispararon.</i>
+
+236
+00:24:22,833 --> 00:24:24,559
+<i>¿Me mataron?
+¿Me dispararon?</i>
+
+237
+00:24:29,164 --> 00:24:31,657
+<i>No quiero morir así...</i>
+
+238
+00:24:31,944 --> 00:24:33,863
+<i>Necesito ayuda.</i>
+
+239
+00:24:35,591 --> 00:24:36,933
+<i>Tengo una hermana.</i>
+
+240
+00:24:37,508 --> 00:24:39,330
+<i>Esto es sangre.</i>
+
+241
+00:24:39,615 --> 00:24:41,244
+<i>¿Es sangre?</i>
+
+242
+00:24:41,534 --> 00:24:44,699
+<i>Quizá estoy preso.
+Quizá me atraparon.</i>
+
+243
+00:24:45,179 --> 00:24:46,712
+<i>Es la policía ¿Verdad?</i>
+
+244
+00:24:51,989 --> 00:24:53,810
+<i>No le hice daño a nada...</i>
+
+245
+00:24:54,193 --> 00:24:55,728
+<i>...ni a nadie.
+Esto apesta.</i>
+
+246
+00:25:02,726 --> 00:25:04,261
+<i>No siento mis brazos.</i>
+
+247
+00:25:06,467 --> 00:25:08,097
+<i>Esto no está pasando.
+Es sólo un viaje. Un viaje.</i>
+
+248
+00:25:08,674 --> 00:25:10,590
+<i>Pero esto...</i>
+
+249
+00:25:10,878 --> 00:25:12,794
+<i>Es el DMT</i>
+
+250
+00:25:13,083 --> 00:25:15,001
+<i>¿Quién sabe?</i>
+
+251
+00:25:18,453 --> 00:25:20,947
+<i>Me muero.</i>
+
+252
+00:25:21,234 --> 00:25:23,725
+<i>¿Estoy muerto?</i>
+
+253
+00:25:24,496 --> 00:25:26,701
+<i>Nada de esto es real.</i>
+
+254
+00:25:26,892 --> 00:25:28,139
+<i>Estoy flotando.</i>
+
+255
+00:25:33,415 --> 00:25:35,715
+<i>¿Qué será de ella?
+Mi hermanita.</i>
+
+256
+00:25:38,591 --> 00:25:40,030
+<i>Ayúdeme,
+necesito su ayuda.</i>
+
+257
+00:25:42,812 --> 00:25:44,441
+<i>Lléveme a casa.</i>
+
+258
+00:25:47,604 --> 00:25:49,139
+<i>No quiero morir,
+no quiero morirme así.</i>
+
+259
+00:31:25,341 --> 00:31:26,588
+- ¿Qué pasó?
+- Accidente.
+
+260
+00:32:00,055 --> 00:32:01,877
+Victor... ¡Victor!
+
+261
+00:32:02,163 --> 00:32:03,123
+- ¿Qué pasó con Oscar?
+- ¡Le dispararon!
+
+262
+00:33:00,466 --> 00:33:02,289
+SEXO, DINERO, PODER
+
+263
+00:36:06,694 --> 00:36:07,844
+I have to take that
+
+264
+00:36:57,517 --> 00:36:59,912
+Linda... Le dispararon
+a tu hermano en El Vacío.
+
+265
+00:37:00,298 --> 00:37:02,120
+Le llevó mercancía a Victor y...
+
+266
+00:37:02,503 --> 00:37:04,037
+No sé que sucedió.
+
+267
+00:37:04,517 --> 00:37:06,052
+Escuché el disparo.
+
+268
+00:37:06,818 --> 00:37:09,597
+Y Victor me dijo que lo mataron.
+Deberías ir...
+
+269
+00:37:58,121 --> 00:38:01,284
+- ¿Qué fué eso?
+- No importa.
+
+270
+00:40:36,630 --> 00:40:38,166
+¿Mario? ¿Mario?
+
+271
+00:42:36,117 --> 00:42:38,321
+Linda... Le dispararon
+a tu hermano en El Vacío.
+
+272
+00:42:39,472 --> 00:42:41,390
+Le llevó mercancía a Victor,
+no sé bien lo que pasó.
+
+273
+00:42:41,676 --> 00:42:43,211
+Escuché el disparo.
+
+274
+00:42:43,593 --> 00:42:45,416
+Victor dijo que lo mataron.
+
+275
+00:42:45,512 --> 00:42:47,429
+Deberías ir a ver qué pasa.
+
+276
+00:42:47,621 --> 00:42:49,349
+Lo siento, estuve afuera.
+
+277
+00:42:49,540 --> 00:42:51,748
+No puedo decirte más,
+la policía me persigue ahora.
+
+278
+00:42:52,034 --> 00:42:53,377
+Por favor, llámame.
+
+279
+00:45:36,970 --> 00:45:38,408
+Oscar.
+
+280
+00:46:10,339 --> 00:46:12,261
+- Oscar, ¿Tú me amas?
+- Sí.
+
+281
+00:46:13,220 --> 00:46:14,659
+- ¿Cuánto?
+- Mucho.
+
+282
+00:46:16,286 --> 00:46:17,629
+¿Cuánto es mucho?
+
+283
+00:47:06,822 --> 00:47:08,644
+Mama
+
+284
+00:47:16,123 --> 00:47:18,426
+¿Recuerdas nuestro pacto?
+
+285
+00:47:33,766 --> 00:47:36,165
+Prometimos no abandonarnos.
+
+286
+00:47:40,482 --> 00:47:41,921
+¿Nunca jamás?
+
+287
+00:47:43,743 --> 00:47:44,989
+Nunca Jamás.
+
+288
+00:47:45,755 --> 00:47:47,578
+- ¿Lo juras?
+- Lo juro.
+
+289
+00:47:48,152 --> 00:47:49,975
+- ¿Y si te mueres?
+- Volveré.
+
+290
+00:47:58,413 --> 00:47:59,756
+Es nuestro pacto de sangre.
+
+291
+00:48:15,387 --> 00:48:17,687
+Ahora estamos juntos
+para siempre.
+
+292
+00:48:40,990 --> 00:48:43,098
+¡Basta! ¡No iré, puta!
+¡Oscar!
+
+293
+00:48:49,716 --> 00:48:51,538
+¡No dejes que me lleven!
+
+294
+00:48:53,072 --> 00:48:57,483
+¡Lo prometiste!
+¡Oscar, lo prometiste!
+
+295
+00:49:10,334 --> 00:49:15,224
+Y ella se fué a un hogar adoptivo,
+y yo a otro, y todo fué una pesadilla.
+
+296
+00:49:18,197 --> 00:49:20,017
+Deberías traerla a Tokyo.
+
+297
+00:49:20,497 --> 00:49:23,468
+La extraño tanto...
+Es más joven que yo, aún va a clases.
+
+298
+00:49:23,756 --> 00:49:25,389
+Quiero que conozcas a alguien.
+
+299
+00:49:30,473 --> 00:49:32,293
+- Oscar.
+- Hola.
+
+300
+00:49:35,171 --> 00:49:36,224
+Mira ésto.
+
+301
+00:49:39,580 --> 00:49:42,839
+¡Dios mío!
+¡No puede ser!
+
+302
+00:49:46,006 --> 00:49:47,251
+Bonito ¿verdad?
+
+303
+00:49:47,924 --> 00:49:51,376
+Es verdaderamente increíble.
+Es como Tokyo, pero con ácido.
+
+304
+00:49:53,199 --> 00:49:56,362
+Y éste es el avión...
+que traerá a tu hermana.
+
+305
+00:49:58,472 --> 00:50:01,157
+Creéme, quiero hacerlo.
+Es sólo dinero, viejo.
+
+306
+00:50:01,444 --> 00:50:03,267
+Dinero, dinero, dinero,
+que yo no tengo.
+
+307
+00:50:03,746 --> 00:50:06,143
+Puedes hacer dinero,
+eres muy listo.
+
+308
+00:50:07,196 --> 00:50:08,636
+¡Roba un banco!
+
+309
+00:50:08,923 --> 00:50:13,335
+Eso sería demasiado difícil.
+Prefiero vender drogas.
+
+310
+00:50:14,196 --> 00:50:16,019
+No, eso es muy peligroso.
+
+311
+00:50:16,786 --> 00:50:17,841
+Un trabajo de mierda.
+
+312
+00:50:18,225 --> 00:50:20,621
+Las drogas son buenas aquí...
+podrías hacer dinero, pero...
+
+313
+00:50:21,391 --> 00:50:23,787
+...podrías caer al fondo
+y no regresar.
+
+314
+00:50:24,363 --> 00:50:26,185
+Terminarías en prisión.
+
+315
+00:50:27,529 --> 00:50:30,214
+My mums the same when she was young.
+To make money she was a go-go dancer
+
+316
+00:50:30,501 --> 00:50:32,416
+- ¿En verdad?
+- Sí.
+
+317
+00:50:32,703 --> 00:50:34,621
+Es una mujer increíble.
+Deberías conocerla mejor.
+
+318
+00:50:35,963 --> 00:50:37,882
+Ven a cenar,
+conocerás a mis padres.
+
+319
+00:50:39,898 --> 00:50:42,199
+Cuando la conocí,
+ella era bailarina en Tokyo.
+
+320
+00:50:42,487 --> 00:50:45,653
+Sí, fuí al club algunas veces.
+Luego enfermé...
+
+321
+00:50:46,133 --> 00:50:47,955
+No importa.
+
+322
+00:50:48,242 --> 00:50:50,254
+Cuéntanos de tí.
+
+323
+00:50:52,554 --> 00:50:54,375
+¿Tus padres están en Tokyo?
+
+324
+00:50:54,952 --> 00:50:57,349
+No, mis padres murieron
+hace mucho tiempo.
+
+325
+00:50:58,980 --> 00:51:00,420
+¿Qué sucedió?
+
+326
+00:51:03,202 --> 00:51:05,597
+Si quieres, puedo conseguir
+dinero para prestártelo.
+
+327
+00:51:08,568 --> 00:51:10,678
+No tienes muchos amigos
+aquí ¿Verdad?
+
+328
+00:51:17,006 --> 00:51:18,063
+¿Y Victor?
+
+329
+00:51:19,215 --> 00:51:20,271
+¿Qué pasa con Victor?
+
+330
+00:51:31,296 --> 00:51:33,117
+- Nadie sabe que estoy aquí ¿Verdad?
+- Nadie.
+
+331
+00:52:07,926 --> 00:52:09,462
+Eso es hermoso.
+
+332
+00:52:13,296 --> 00:52:15,408
+- ¿Sabes a qué me recuerda?
+- ¿A qué?
+
+333
+00:52:16,366 --> 00:52:17,900
+Fumar...
+
+334
+00:52:18,476 --> 00:52:20,010
+...me recuerda cuando
+succionaba los pezones de mamá.
+
+335
+00:52:21,065 --> 00:52:24,037
+Lo mejor de mi vida.
+
+336
+00:52:24,516 --> 00:52:27,584
+¿Cuándo me hará efecto el ácido?
+
+337
+00:52:36,792 --> 00:52:39,188
+Lo mejor del LSD...
+
+338
+00:52:39,573 --> 00:52:41,394
+...es que puedes aprender
+a controlarlo.
+
+339
+00:52:41,681 --> 00:52:44,175
+Puede llevarte a otros planos,
+donde tú quieras...
+
+340
+00:53:11,027 --> 00:53:13,231
+¿Qué pasará si te mueres?
+
+341
+00:53:13,615 --> 00:53:15,149
+Estaré contigo siempre.
+
+342
+00:53:16,587 --> 00:53:18,503
+Te cuidaré siempre.
+
+343
+00:53:18,984 --> 00:53:20,807
+Te cuidaré desde el cielo.
+
+344
+00:53:21,572 --> 00:53:23,972
+- ¿Lo prometes?
+- Lo prometo.
+
+345
+00:53:27,327 --> 00:53:29,438
+¿Quieres a Papá
+mas que a mí?
+
+346
+00:53:29,918 --> 00:53:31,164
+No, los amo a ambos.
+
+347
+00:53:32,890 --> 00:53:34,809
+Pero es un amor diferente,
+muy diferente.
+
+348
+00:54:24,576 --> 00:54:26,399
+¿Me recuerdas?
+
+349
+00:54:50,178 --> 00:54:52,001
+¿Consumes drogas?
+
+350
+00:54:52,194 --> 00:54:52,961
+¿Drogas?
+
+351
+00:54:53,439 --> 00:54:54,879
+- ¿Consumes drogas?
+- No.
+
+352
+00:54:55,165 --> 00:54:56,701
+- Nunca has consumido.
+- Nunca.
+
+353
+00:54:57,083 --> 00:54:58,617
+- ¿Ni una vez?
+- Ni una vez.
+
+354
+00:54:59,001 --> 00:55:00,822
+Pero me gusta el alcohol.
+
+355
+00:55:01,207 --> 00:55:03,606
+Si te gusta el alcohol,
+te gustarán las drogas.
+
+356
+00:55:03,894 --> 00:55:05,141
+El alcohol es el primer paso,
+las drogas son el segundo.
+
+357
+00:55:05,524 --> 00:55:06,862
+El primer paso, sí.
+
+358
+00:55:07,150 --> 00:55:09,454
+¿David?
+
+359
+00:55:09,837 --> 00:55:13,577
+Un amigo me pidió
+venir a buscar mercadería.
+
+360
+00:55:13,770 --> 00:55:15,397
+¿Quién?
+¿Quién es tu amigo?
+
+361
+00:55:15,782 --> 00:55:17,028
+No importa.
+
+362
+00:55:17,315 --> 00:55:19,138
+Siempre importa.
+¿Quién es tu amigo?
+
+363
+00:55:19,425 --> 00:55:20,672
+Gaspar.
+
+364
+00:55:21,632 --> 00:55:23,647
+De acuerdo.
+¿Qué quieres?
+
+365
+00:55:24,030 --> 00:55:25,179
+¿Cuánto está la coca?
+
+366
+00:55:25,468 --> 00:55:27,289
+10 gramos, sesenta dólares.
+
+367
+00:55:27,865 --> 00:55:29,783
+- Está bien.
+- ¿Seguro?
+
+368
+00:55:31,127 --> 00:55:33,426
+Ten.
+Ahí tienes.
+
+369
+00:56:09,099 --> 00:56:11,305
+- Muy bien.
+- Cuidado, es poderosa.
+
+370
+00:56:36,431 --> 00:56:37,679
+- ¿Adivina qué?
+- ¿Qué?
+
+371
+00:56:37,963 --> 00:56:39,786
+- Conseguí departamento.
+- Grandioso.
+
+372
+00:56:41,030 --> 00:56:44,866
+Tengo un nuevo trabajo,
+y conseguí dinero para tu pasaje.
+
+373
+00:56:45,826 --> 00:56:47,645
+- Estás bromeando.
+- ¿No es increíble?
+
+374
+00:56:49,374 --> 00:56:53,211
+Dios. ¿Cómo hiciste
+para pagarme el pasaje?
+
+375
+00:56:53,690 --> 00:56:55,418
+- Es una locura.
+- Te dije que conseguí trabajo.
+
+376
+00:56:55,897 --> 00:56:57,717
+Oscar, te quiero.
+
+377
+00:56:58,005 --> 00:56:59,826
+Comienza a empacar ¿Sí?
+
+378
+00:57:16,895 --> 00:57:18,241
+- ¿Qué?
+- Nada.
+
+379
+00:57:23,417 --> 00:57:25,142
+¿Qué traerás?
+
+380
+00:57:25,622 --> 00:57:30,416
+Éxtasis y ácido.
+Y un poco de DMT también.
+
+381
+00:57:30,993 --> 00:57:32,909
+- Perfecto.
+- Sí.
+
+382
+00:57:33,197 --> 00:57:34,540
+¿Puedo ir contigo?
+
+383
+00:57:34,827 --> 00:57:36,650
+Claro que no,
+el tipo es un paranoico.
+
+384
+00:57:37,513 --> 00:57:39,240
+¿Tienes el dinero?
+
+385
+00:57:41,732 --> 00:57:42,787
+Ahí tienes.
+
+386
+00:57:45,184 --> 00:57:48,159
+El chico de las drogas
+es un perverso.
+
+387
+00:57:48,637 --> 00:57:50,458
+Le gustan los hombres.
+
+388
+00:57:50,842 --> 00:57:53,526
+- ¿Quién es él?
+- Bruno, el que me consigue drogas.
+
+389
+00:57:55,252 --> 00:57:57,745
+Ni te atrevas a beber, podrías despertar
+dos días después con mierda en la boca.
+
+390
+00:58:03,788 --> 00:58:06,186
+Tu propia mierda, incluso.
+
+391
+00:58:08,104 --> 00:58:12,897
+Podrías encontrarte con él hoy,
+pero deberías tener cuidado...
+
+392
+00:58:13,567 --> 00:58:15,486
+¿Sabes cuál es su nuevo truco?
+
+393
+00:58:16,156 --> 00:58:18,841
+Ni siquiera puede excitarse
+para coger. Entonces...
+
+394
+00:58:19,418 --> 00:58:22,584
+No voy a saltar desde aquí,
+¿Verdad?
+
+395
+00:58:23,735 --> 00:58:26,995
+Un día un joven le
+hizo sexo oral..
+
+396
+00:58:28,335 --> 00:58:33,804
+Se metió el dedo en el culo
+y luego se lo refregó en la cabeza al joven.
+
+397
+00:58:34,185 --> 00:58:36,007
+Y caminó por allí,
+con mierda en la cabeza.
+
+398
+00:58:38,022 --> 00:58:39,843
+Ése es el tipo del que te hablé.
+
+399
+00:58:40,036 --> 00:58:41,666
+Te pareces a mí.
+
+400
+00:58:42,914 --> 00:58:44,064
+- ¿Cómo te llamas?
+- Oscar.
+
+401
+00:58:46,652 --> 00:58:48,764
+- ¿Y qué haces?
+- ¿Tienes LSD?
+
+402
+00:58:50,008 --> 00:58:51,255
+Veamos...
+
+403
+00:58:58,832 --> 00:59:00,270
+Oscar, mira ésto.
+
+404
+00:59:05,063 --> 00:59:06,213
+¿Qué pasó con él?
+
+405
+00:59:07,557 --> 00:59:09,858
+Pobrecito, pidiendo por
+su mamá toda la noche.
+
+406
+00:59:12,542 --> 00:59:13,885
+Ésto es lo que estaba
+buscando...
+
+407
+00:59:16,762 --> 00:59:23,187
+- Bien.
+- Buen material.
+
+408
+00:59:24,049 --> 00:59:25,967
+¿Tienes DMT?
+
+409
+00:59:26,834 --> 00:59:28,750
+¿DMT? Quizá me quede un poco.
+
+410
+00:59:33,065 --> 00:59:34,887
+¿Has probado GHB?
+
+411
+00:59:38,054 --> 00:59:39,875
+Es gracioso, sabes...
+El DMT sólo dura seis minutos...
+
+412
+00:59:41,406 --> 00:59:43,323
+...pero resultan eternos.
+
+413
+00:59:43,993 --> 00:59:47,351
+Es el mismo químico que recibe
+tu cerebro cuando te mueres.
+
+414
+00:59:47,639 --> 00:59:52,051
+Es casi como morirse un poco,
+puede ser tu Último Viaje.
+
+415
+00:59:54,833 --> 00:59:56,462
+Probemos ésto.
+
+416
+01:00:01,736 --> 01:00:03,079
+Con cuidado.
+
+417
+01:00:04,997 --> 01:00:06,530
+¿Ves esos túneles?
+
+418
+01:00:06,914 --> 01:00:08,738
+Te conducen hacia enormes
+canales.
+
+419
+01:00:10,176 --> 01:00:11,808
+Todos esos vagos
+ocultándose allí.
+
+420
+01:00:13,437 --> 01:00:14,875
+La gente concurre de noche allí.
+
+421
+01:00:18,133 --> 01:00:19,571
+¿Qué te parece?
+
+422
+01:00:20,819 --> 01:00:22,161
+- Es asombroso.
+- Sí.
+
+423
+01:00:23,215 --> 01:00:25,615
+Imagina que las paredes
+fueran transparentes.
+
+424
+01:00:25,901 --> 01:00:28,393
+Y todos tus amigos
+estuvieran allí, cogiendo.
+
+425
+01:00:31,560 --> 01:00:32,519
+- ¡Oscar!
+- Sí
+
+426
+01:00:33,862 --> 01:00:36,066
+Ven aquí,
+tengo algo para tí.
+
+427
+01:00:38,082 --> 01:00:39,997
+Debo mostrártelo
+antes que consumas DMT.
+
+428
+01:00:40,093 --> 01:00:42,012
+El Libro Tibetano de los Muertos.
+
+429
+01:00:42,299 --> 01:00:43,546
+Asumo que es sobre la muerte.
+
+430
+01:00:46,039 --> 01:00:47,861
+Te cuenta cómo tu espíritu
+abandona tu cuerpo al morir.
+
+431
+01:00:48,053 --> 01:00:49,972
+¿Has tenido experiencias
+fuera de tu cuerpo?
+
+432
+01:00:50,930 --> 01:00:53,231
+- ¿Las has tenido?
+- Una vez.
+
+433
+01:00:53,614 --> 01:00:54,477
+¿Cómo fué?
+
+434
+01:00:54,766 --> 01:00:56,778
+Me llevó mucho llegar
+a ese estado.
+
+435
+01:00:57,162 --> 01:00:58,889
+Tuve que practicar.
+
+436
+01:00:59,272 --> 01:01:02,728
+Reduciendo mi respiración,
+poco a poco.
+
+437
+01:01:03,206 --> 01:01:06,848
+Fué como si mi mente flotara,
+y pudiera verme a mí mismo desde arriba.
+
+438
+01:01:08,480 --> 01:01:10,302
+Me asusté muchisimo.
+
+439
+01:01:10,684 --> 01:01:13,078
+No podía regresar a mi cuerpo.
+
+440
+01:01:13,559 --> 01:01:16,244
+Es jodidamente loco.
+Es buenísimo.
+
+441
+01:01:17,684 --> 01:01:19,316
+- Pero...
+- Soy yo otra vez.
+
+442
+01:01:19,795 --> 01:01:21,040
+Mira esto.
+
+443
+01:01:21,329 --> 01:01:22,767
+Soy yo otra vez.
+
+444
+01:01:22,959 --> 01:01:24,685
+- Soy yo, Linda.
+- ¿Tu hermana?
+
+445
+01:01:24,974 --> 01:01:25,931
+No olvides que
+llegaré al aeropuerto.
+
+446
+01:01:26,028 --> 01:01:27,946
+Este lunes a las 6:00PM.
+
+447
+01:01:28,234 --> 01:01:29,192
+Y tú estarás allí, ¿verdad?
+
+448
+01:01:38,974 --> 01:01:40,797
+Te extrañé tanto.
+
+449
+01:02:13,781 --> 01:02:15,221
+¡Mira eso!
+
+450
+01:03:35,388 --> 01:03:39,797
+Cuando tú y el abuelo murieron,
+¿Qué pasó con nosotros?
+
+451
+01:03:41,235 --> 01:03:42,771
+Cuidaste de mí.
+
+452
+01:03:43,057 --> 01:03:44,879
+Prometimos cuidar uno del otro...
+
+453
+01:03:47,756 --> 01:03:49,101
+¡No! ¡No! ¡No!
+
+454
+01:03:53,224 --> 01:03:54,280
+¡Oscar!
+
+455
+01:04:03,292 --> 01:04:05,689
+¿Sabes algo?
+Soñé con el accidente otra vez.
+
+456
+01:04:11,634 --> 01:04:17,867
+No importa. Ahora seremos
+como una familia, tú y yo.
+
+457
+01:04:25,731 --> 01:04:27,170
+¿Quieres un poco más?
+
+458
+01:04:34,649 --> 01:04:36,185
+¿Estuvo bien?
+
+459
+01:04:39,542 --> 01:04:42,417
+Es para un club.
+
+460
+01:04:42,896 --> 01:04:44,048
+¿Quieres ir?
+
+461
+01:04:57,277 --> 01:04:59,101
+- Toma esta pastilla.
+- ¿Qué es?
+
+462
+01:04:59,485 --> 01:05:02,170
+- Es éxtasis.
+- Nunca antes probé.
+
+463
+01:05:02,363 --> 01:05:04,280
+- Sólo tómala.
+- ¿Es peligrosa?
+
+464
+01:05:04,472 --> 01:05:06,871
+Es una droga, vamos.
+Es como vitaminas.
+
+465
+01:05:18,279 --> 01:05:20,102
+¡Las chicas saben moverse!
+
+466
+01:05:35,541 --> 01:05:39,759
+Tu hermana está buenísima.
+
+467
+01:05:41,487 --> 01:05:43,118
+Deberás cuidar de ella.
+
+468
+01:05:47,047 --> 01:05:48,679
+Los hombres de este club...
+
+469
+01:05:49,923 --> 01:05:51,459
+Ven a bailar conmigo
+
+470
+01:05:59,515 --> 01:06:01,241
+Le gusto.
+
+471
+01:06:32,502 --> 01:06:37,104
+Éste es el trato:
+Tú me das el dinero.
+
+472
+01:06:37,585 --> 01:06:40,174
+Yo me arriesgo consiguiendo y
+colocando la droga, y dividimos los ingresos.
+
+473
+01:06:40,653 --> 01:06:42,475
+No puedo esperar.
+¿Quién es tu dealer?
+
+474
+01:06:43,723 --> 01:06:45,160
+No es asunto tuyo.
+
+475
+01:06:45,831 --> 01:06:48,325
+¿Cuánto necesitas?
+
+476
+01:06:51,297 --> 01:06:53,119
+¿Dónde estabas?
+
+477
+01:06:56,477 --> 01:06:58,012
+Buscándote.
+
+478
+01:06:58,683 --> 01:07:00,503
+Ese amigo tuyo está
+muy borracho.
+
+479
+01:07:01,749 --> 01:07:02,994
+¿Dónde estabas?
+
+480
+01:07:08,844 --> 01:07:10,189
+¡Chicos!
+
+481
+01:07:11,051 --> 01:07:12,684
+En serio, vámonos.
+
+482
+01:07:13,738 --> 01:07:14,697
+Vamos.
+
+483
+01:07:19,777 --> 01:07:20,831
+Cuidado el escalón.
+
+484
+01:07:26,969 --> 01:07:28,022
+Suéltame.
+
+485
+01:07:34,739 --> 01:07:38,669
+¿Sabes que mañana es el aniversario
+de la muerte de papá y mamá?
+
+486
+01:07:51,133 --> 01:07:52,764
+Me divertí.
+
+487
+01:08:06,478 --> 01:08:07,915
+Es como estar en el paraíso.
+
+488
+01:08:10,697 --> 01:08:12,135
+Tan hermoso.
+
+489
+01:08:21,342 --> 01:08:23,357
+Me siento muy bien contigo aquí.
+
+490
+01:08:25,849 --> 01:08:27,095
+Me siento libre.
+
+491
+01:08:28,438 --> 01:08:30,258
+Me siento realmente libre.
+
+492
+01:08:33,614 --> 01:08:35,533
+- ¿Prometes no abandonarme jamás?
+- Claro.
+
+493
+01:08:38,699 --> 01:08:40,520
+- ¿Moriremos juntos?
+- Nunca moriremos.
+
+494
+01:08:41,766 --> 01:08:43,303
+- ¿Nunca moriremos?
+- Nunca.
+
+495
+01:08:44,165 --> 01:08:45,507
+- Somos inmortales.
+- Sí.
+
+496
+01:08:46,180 --> 01:08:48,097
+- Nunca moriremos.
+- Así es.
+
+497
+01:08:55,096 --> 01:08:56,534
+¿Qué?
+
+498
+01:08:58,068 --> 01:09:03,630
+Te extrañé.
+Te extrañé tanto.
+
+499
+01:09:16,865 --> 01:09:18,687
+- He crecido.
+- Ya lo creo.
+
+500
+01:09:20,507 --> 01:09:22,328
+¿Luzco como una mujer?
+
+501
+01:09:32,589 --> 01:09:34,413
+¿Creés en la reencarnación?
+
+502
+01:09:40,837 --> 01:09:43,425
+Ya no tengo la edad mental
+de un niño de cinco años.
+
+503
+01:09:53,207 --> 01:09:55,318
+¿No quieres buscar un
+verdadero empleo?
+
+504
+01:09:56,659 --> 01:09:59,632
+¡Claro que no!
+Todos los empleados son esclavos.
+
+505
+01:10:03,466 --> 01:10:06,054
+Sólo hay una cosa importante:
+Lograr algo.
+
+506
+01:10:06,536 --> 01:10:08,359
+¿Lograste algo?
+
+507
+01:10:13,729 --> 01:10:16,319
+No lo sé.
+
+508
+01:10:17,659 --> 01:10:20,055
+- Seguro que sí.
+- ¿Algo como tener un gran amor?
+
+509
+01:10:23,700 --> 01:10:25,619
+¿Qué quería ese tipo
+contigo en el bar?
+
+510
+01:10:29,550 --> 01:10:31,758
+- Me ofreció empleo.
+- ¿Haciendo qué?
+
+511
+01:10:50,742 --> 01:10:52,565
+- Tú eres Mario ¿verdad?
+- Sí.
+
+512
+01:10:54,195 --> 01:10:55,920
+Ella es mi hermana.
+
+513
+01:10:57,071 --> 01:10:58,892
+No la toques, ¿de acuerdo?
+
+514
+01:11:01,865 --> 01:11:03,498
+No seas mal hermano.
+
+515
+01:11:08,293 --> 01:11:10,113
+¿Cuánto le debes?
+
+516
+01:11:10,977 --> 01:11:13,950
+50 pastillas.
+
+517
+01:11:14,143 --> 01:11:16,441
+Es para mi amigo y para mí.
+No quiero saber de tu amigo.
+
+518
+01:11:16,826 --> 01:11:18,456
+No quiero que me conozca, ¿sí?
+
+519
+01:11:26,798 --> 01:11:28,716
+¿Te gustan las serpientes?
+
+520
+01:11:41,375 --> 01:11:44,060
+No te sientas mal,
+estás entre amigos aquí.
+
+521
+01:11:47,320 --> 01:11:49,144
+¿Querrá una coca?
+¿Hielo?
+
+522
+01:11:52,208 --> 01:11:54,126
+No... ¿Tienes DMT?
+
+523
+01:11:54,509 --> 01:11:55,757
+No.
+
+524
+01:11:57,004 --> 01:11:57,967
+Ven aquí.
+
+525
+01:12:06,404 --> 01:12:08,321
+¿Qué estás mirando?
+
+526
+01:12:20,789 --> 01:12:22,514
+- ¿Quieres probar un poco?
+- Claro.
+
+527
+01:12:24,432 --> 01:12:26,350
+Prepárense, muchachos.
+
+528
+01:12:32,197 --> 01:12:34,115
+¿Qué carajo estás haciendo allí?
+
+529
+01:12:34,403 --> 01:12:36,322
+No es asunto tuyo.
+No le hago daño a nadie.
+
+530
+01:12:37,090 --> 01:12:38,336
+- ¿Qué?
+- No toques mi material.
+
+531
+01:12:38,528 --> 01:12:41,019
+- Tú le vendes drogas a mi niña
+- ¡Al carajo! Devuélvelas.
+
+532
+01:12:43,994 --> 01:12:48,118
+Si vuelvo a verte aquí,
+te mataré.
+
+533
+01:14:19,409 --> 01:14:21,325
+- ¿Sabes lo que dijeron Mamá y Papá?
+- ¿Qué?
+
+534
+01:14:21,802 --> 01:14:24,488
+Que nos llevarían a Japón
+algún día.
+
+535
+01:14:25,447 --> 01:14:27,364
+- ¿Podemos llevar al perro?
+- Sí.
+
+536
+01:15:11,670 --> 01:15:13,107
+¿Qué pasa?
+
+537
+01:15:15,694 --> 01:15:20,874
+¿Dónde carajo estabas?
+No volviste ayer.
+
+538
+01:15:22,026 --> 01:15:26,053
+Deberías avisarme la próxima vez
+que andes cogiéndote a ese idiota.
+
+539
+01:15:26,435 --> 01:15:28,740
+Si te refieres a Mario,
+no estaba con él.
+
+540
+01:15:46,002 --> 01:15:47,056
+¿Qué?
+
+541
+01:15:50,601 --> 01:15:51,944
+¿Estás celoso?
+
+542
+01:16:11,121 --> 01:16:13,902
+Oscar, ¿Quién es este tipo?
+
+543
+01:16:15,437 --> 01:16:16,588
+Soy su amigo.
+
+544
+01:16:16,876 --> 01:16:19,274
+Está tratando de cogerme.
+
+545
+01:16:49,960 --> 01:16:51,877
+- Bruno.
+- Oscar, mi amigo.
+
+546
+01:16:52,260 --> 01:16:54,178
+- ¿Cómo va todo?
+- Me alegro de verte.
+
+547
+01:17:02,042 --> 01:17:04,247
+Te gusta el MDMA, ¿verdad?
+
+548
+01:17:05,685 --> 01:17:06,550
+Claro.
+
+549
+01:17:07,029 --> 01:17:10,097
+- ¿Quieres probar un poco de ésto?
+- Claro, ¿Puedo tomarlo?
+
+550
+01:17:10,768 --> 01:17:12,975
+Luego discutiremos el precio.
+
+551
+01:17:14,030 --> 01:17:17,578
+Importado de Amsterdam.
+Realmente impresionante.
+
+552
+01:17:18,441 --> 01:17:20,357
+Perfecto. Gracias.
+
+553
+01:17:20,548 --> 01:17:25,247
+Y tengo lo que buscas.
+Te he conseguido DMT.
+
+554
+01:17:28,028 --> 01:17:31,386
+Sólo hazlo...
+Más largo, vamos, hazlo.
+
+555
+01:17:31,672 --> 01:17:38,100
+Eso es. Sólo quiero cuidarte,
+podrías caer arruinado.
+
+556
+01:17:39,153 --> 01:17:41,069
+Si quieres...
+
+557
+01:17:41,644 --> 01:17:43,755
+...puedo ayudarte la próxima vez.
+Puedo cuidar de esto.
+
+558
+01:18:01,782 --> 01:18:05,424
+- ¿Qué haces aquí?
+- Vine a verte.
+
+559
+01:18:06,481 --> 01:18:08,975
+¿Estás loco?
+
+560
+01:18:12,526 --> 01:18:15,304
+- Hola Oscar, ¿Cómo estás?
+- Estoy bien.
+
+561
+01:18:15,592 --> 01:18:17,798
+Danny, ¿Quieres ver TV?
+
+562
+01:18:18,181 --> 01:18:20,002
+- Bueno.
+- Vamos.
+
+563
+01:18:23,648 --> 01:18:26,141
+- Traje tu mercadería.
+- Vamos a tu casa.
+
+564
+01:18:41,099 --> 01:18:44,073
+No sé por qué te pago
+por esta basura.
+
+565
+01:18:53,663 --> 01:18:55,483
+¿Te has acostado con mi madre?
+
+566
+01:19:00,183 --> 01:19:01,718
+¿De qué estás hablando?
+
+567
+01:19:05,745 --> 01:19:07,470
+¿Te cogiste a mi mamá?
+
+568
+01:19:16,292 --> 01:19:17,349
+Sí.
+
+569
+01:19:23,869 --> 01:19:28,277
+¡Quédate con tus putas pastillas!
+¡Pedazo de basura!
+
+570
+01:20:09,609 --> 01:20:11,144
+Victor, llámame.
+
+571
+01:20:18,334 --> 01:20:20,158
+- Hola.
+- Oscar, es Suzy.
+
+572
+01:20:20,733 --> 01:20:23,992
+Victor no vuelve a casa desde anoche.
+¿Sabes dónde está?
+
+573
+01:20:24,375 --> 01:20:25,241
+No.
+
+574
+01:20:25,527 --> 01:20:28,117
+¿Podrías llamarme
+si te enteras de algo?
+
+575
+01:20:39,816 --> 01:20:41,925
+¿Qué has soñado?
+
+576
+01:20:42,499 --> 01:20:44,321
+¿Recuerdas nuestro pacto?
+
+577
+01:20:48,064 --> 01:20:49,694
+Mas o menos.
+
+578
+01:20:57,366 --> 01:20:59,663
+Prometimos no abandonarnos.
+
+579
+01:21:01,773 --> 01:21:03,118
+Sin importar lo que pasara.
+
+580
+01:21:06,666 --> 01:21:08,103
+¿Nunca jamás?
+
+581
+01:21:10,504 --> 01:21:11,941
+Nunca jamás.
+
+582
+01:21:26,517 --> 01:21:28,338
+Discutí con Victor anoche.
+
+583
+01:21:35,147 --> 01:21:36,776
+¿Quieres un pase?
+
+584
+01:21:39,461 --> 01:21:40,710
+¿Te sientes mal?
+
+585
+01:22:00,845 --> 01:22:01,996
+Linda...
+
+586
+01:22:10,627 --> 01:22:13,408
+Me preguntaba cómo se vería
+Tokyo desde aquí arriba.
+
+587
+01:22:18,394 --> 01:22:19,642
+Yo no...
+
+588
+01:22:22,518 --> 01:22:23,670
+¿Por qué no?
+
+589
+01:22:25,203 --> 01:22:27,026
+Me da miedo.
+
+590
+01:22:29,232 --> 01:22:30,858
+¿Miedo de qué?
+
+591
+01:22:31,721 --> 01:22:33,448
+Morirme.
+
+592
+01:23:19,669 --> 01:23:22,451
+Oscar, es Victor.
+
+593
+01:23:30,602 --> 01:23:32,998
+Tengo que llevarle su
+mercadería a Victor.
+
+594
+01:23:33,576 --> 01:23:35,493
+- ¿Quieres venir?
+- Claro.
+
+595
+01:23:42,015 --> 01:23:44,217
+¿Leíste el Libro de los Muertos?
+
+596
+01:24:06,081 --> 01:24:07,040
+Lo siento.
+
+597
+01:31:54,523 --> 01:31:56,536
+No te preocupes.
+Estoy quemando sus reservas.
+
+598
+01:31:57,686 --> 01:31:59,221
+Sí, todas ellas.
+Se han ido.
+
+599
+01:32:05,452 --> 01:32:08,424
+Esos malditos,
+primero dijeron que tenía un arma.
+
+600
+01:32:08,810 --> 01:32:12,068
+Y ahora ni siquiera
+quieren practicarle una autopsia.
+
+601
+01:32:15,808 --> 01:32:17,534
+No puedo creer esto.
+
+602
+01:32:19,741 --> 01:32:20,892
+Carajo.
+
+603
+01:32:57,237 --> 01:33:00,593
+Pero ¿por qué permanece aquí?
+
+604
+01:33:49,592 --> 01:33:52,468
+Usted era amigo de Alex ¿Verdad?
+Cuéntenos de él.
+
+605
+01:33:52,757 --> 01:33:56,115
+¡Le estoy pidiendo que colabore!
+
+606
+01:33:56,594 --> 01:33:58,223
+- Yo no sé nada.
+- Sí que sabe. No mienta.
+
+607
+01:33:58,415 --> 01:34:00,431
+Puedo oler a los mentirosos.
+
+608
+01:34:01,965 --> 01:34:04,458
+Y si coopera,
+nosotros lo ayudaremos.
+
+609
+01:34:05,033 --> 01:34:07,333
+Podemos ayudarlo
+a salir de esta situación.
+
+610
+01:34:07,719 --> 01:34:09,540
+Si no coopera, irá a prisión.
+
+611
+01:34:10,210 --> 01:34:13,375
+Y usted no quiere ir allí,
+entonces háblenos de Alex.
+
+612
+01:34:14,142 --> 01:34:15,675
+Sabemos que conoce
+al distribuidor principal.
+
+613
+01:34:18,075 --> 01:34:18,552
+¡Diga algo!
+
+614
+01:35:43,992 --> 01:35:45,815
+- ¿Qué dijo? - Que los amigos del
+hermano de Linda eran malos.
+
+615
+01:35:49,268 --> 01:35:52,336
+Atacaron a uno de los oficiales.
+Y quieren que les hagamos saber todo.
+
+616
+01:36:58,407 --> 01:37:00,230
+Está en japonés, no puedo leerlo.
+
+617
+01:37:02,052 --> 01:37:03,875
+Puedo hacerlo por tí.
+
+618
+01:37:59,780 --> 01:38:01,217
+Es positivo, ¿verdad?
+
+619
+01:38:24,136 --> 01:38:25,574
+Sí, es positivo.
+
+620
+01:41:15,689 --> 01:41:17,129
+- ¿Estás bien?
+- Oh, dios.
+
+621
+01:41:20,483 --> 01:41:25,662
+Estás sudando mucho.
+¿No puedes conseguirme cocaína?
+
+622
+01:41:26,717 --> 01:41:28,539
+No. Me deshice de mis reservas.
+
+623
+01:41:29,115 --> 01:41:32,855
+¿Cómo sé que Oscar no
+le habló de mí a ese idiota de Victor?
+
+624
+01:41:55,677 --> 01:41:57,500
+- No ha sido tu culpa.
+- ¿Quién hizo el llamado?
+
+625
+01:41:57,978 --> 01:41:59,513
+¡Yo no llamé a la policía!
+
+626
+01:41:59,609 --> 01:42:01,528
+¡Tú los llamaste!
+
+627
+01:42:01,813 --> 01:42:03,061
+¡Suéltame!
+
+628
+01:42:03,251 --> 01:42:04,691
+¡Somos familia aquí!
+
+629
+01:42:04,883 --> 01:42:06,224
+Deténte.
+
+630
+01:42:06,416 --> 01:42:09,198
+¡Mi mamá es una puta!
+
+631
+01:42:09,774 --> 01:42:11,306
+¡No hables así de tu madre!
+
+632
+01:42:11,596 --> 01:42:12,746
+¡Se cogió a mi amigo!
+
+633
+01:42:13,036 --> 01:42:15,625
+¿Te creés el hombre de la casa?
+
+634
+01:42:15,910 --> 01:42:18,021
+- ¡Soy el hombre de la casa!
+- No lo eres.
+
+635
+01:42:18,880 --> 01:42:21,183
+Ahora vete. ¡Vete de aquí!
+
+636
+01:42:27,608 --> 01:42:29,527
+- ¿Qué estás haciendo?
+- ¿Qué piensas que estás haciendo?
+
+637
+01:42:29,814 --> 01:42:32,309
+- Te detesto.
+- Realmente te desprecio. Te odio.
+
+638
+01:45:04,107 --> 01:45:07,464
+¿No te das cuenta de
+que ella te utiliza?
+
+639
+01:45:09,574 --> 01:45:11,781
+Ése no es el punto.
+
+640
+01:45:13,987 --> 01:45:15,519
+Es sólo que me gusta Linda.
+
+641
+01:45:21,654 --> 01:45:23,572
+Incluso quiere tener
+un bebé conmigo.
+
+642
+01:45:41,697 --> 01:45:42,655
+- Hola.
+- Hola.
+
+643
+01:45:47,645 --> 01:45:49,564
+¿Estás bien?
+
+644
+01:49:15,733 --> 01:49:17,843
+No, no lo estoy.
+Estoy jodidísimo.
+
+645
+01:49:18,224 --> 01:49:20,047
+Puedes hacerme un gran favor.
+
+646
+01:49:21,964 --> 01:49:24,267
+¿Puedes ir a mi casa y hablar
+con mi compañero de cuarto?
+
+647
+01:49:26,182 --> 01:49:27,525
+Necesito un poco de dinero.
+
+648
+01:49:29,734 --> 01:49:31,074
+Sí, él sabe dónde se encuentra.
+
+649
+01:49:33,568 --> 01:49:37,213
+Y necesito una campera,
+me estoy congelando.
+
+650
+01:49:47,566 --> 01:49:51,885
+No lo llames,
+ve tú a mi casa.
+
+651
+01:49:52,939 --> 01:49:55,239
+Seguramente la policía
+intervino nuestros teléfonos.
+
+652
+01:50:01,568 --> 01:50:05,020
+Te llamo luego y te aviso
+dónde nos reuniremos.
+
+653
+01:50:07,802 --> 01:50:08,951
+De acuerdo. Adios.
+
+654
+01:51:23,654 --> 01:51:25,093
+Mario es sólo bueno sexo.
+
+655
+01:51:29,598 --> 01:51:31,037
+Debí escuchar a mi hermano.
+
+656
+01:51:35,254 --> 01:51:36,790
+Debería haber estado con Alex.
+
+657
+01:51:41,106 --> 01:51:42,450
+Realmente le gusta.
+
+658
+01:51:46,094 --> 01:51:47,627
+¿Qué dijo?
+
+659
+01:51:51,461 --> 01:51:55,778
+- Está bien.
+- Es todo lo que podemos decir.
+
+660
+01:55:26,166 --> 01:55:27,892
+¿Por qué me trajiste aquí?
+
+661
+01:55:31,826 --> 01:55:34,224
+El jefe no está contento
+con tu baile.
+
+662
+01:55:38,824 --> 01:55:41,029
+No puedes seguir aquí.
+
+663
+01:55:43,619 --> 01:55:45,536
+Pero ¿Qué voy a hacer?
+
+664
+01:55:47,839 --> 01:55:51,964
+No soy tu papá,
+pero podría cuidar de tí.
+
+665
+01:55:57,429 --> 01:55:59,348
+¿Duermes?
+
+666
+01:56:04,715 --> 01:56:07,117
+Podría haberme suicidado.
+
+667
+01:56:10,375 --> 01:56:13,157
+Si tan solo no sintiera...
+... que Álex está cerca mío.
+
+668
+01:56:15,171 --> 01:56:17,375
+Me gustaría que esté vivo.
+
+669
+01:56:23,606 --> 01:56:25,428
+Deja de herirte.
+
+670
+01:56:27,538 --> 01:56:29,555
+Sé que es duro para tí.
+
+671
+01:56:31,567 --> 01:56:33,485
+Pero está muerto.
+
+672
+01:58:13,500 --> 01:58:15,514
+Avísanos si vuelve a hablar.
+
+673
+01:58:43,229 --> 01:58:44,858
+Esa cosa no es mi hermano.
+
+674
+01:58:48,980 --> 01:58:50,613
+Obviamente no luce como lucía.
+
+675
+01:58:53,873 --> 01:58:55,791
+- Esa cosa es un asco.
+- Cállate.
+
+676
+01:59:00,299 --> 01:59:02,601
+¿Decidieron dónde ir?
+
+677
+01:59:08,063 --> 01:59:10,462
+¿Han decidido dónde carajo ir?
+
+678
+01:59:14,105 --> 01:59:15,927
+Theres...
+theres no way I could put up with him
+
+679
+01:59:27,339 --> 01:59:28,489
+¡No me toques!
+
+680
+01:59:38,848 --> 01:59:40,188
+Salgamos de aquí.
+
+681
+01:59:50,739 --> 01:59:51,887
+¡Despierta!
+
+682
+01:59:54,286 --> 01:59:55,726
+¡Despierta!
+
+683
+02:01:50,602 --> 02:01:52,042
+Te quemaron ¿verdad?
+
+684
+02:01:54,438 --> 02:01:56,261
+¿Te quemaron?
+
+685
+02:01:59,235 --> 02:02:00,770
+¡Te incendiaron!
+
+686
+02:02:07,193 --> 02:02:11,700
+Te incendiaron. Piénsalo.
+Vamos, piensa en ello.
+
+687
+02:02:12,467 --> 02:02:14,289
+Si tienes suerte,
+quizá encuentres tus cenizas.
+
+688
+02:02:14,767 --> 02:02:16,113
+Vamos, perra.
+
+689
+02:02:18,509 --> 02:02:21,960
+¡Vamos!
+Cierra los ojos y piénsalo.
+
+690
+02:02:59,264 --> 02:03:00,701
+- Yo...
+- ¿Qué?
+
+691
+02:03:03,963 --> 02:03:07,988
+Tuve otro sueño.
+Mi hermano resucitaba en la morgue.
+
+692
+02:03:18,442 --> 02:03:21,124
+Es tenebroso que conserven
+sus restos en ésa caja.
+
+693
+02:03:24,482 --> 02:03:26,402
+¿Que harás?
+
+694
+02:03:27,456 --> 02:03:28,800
+¡Es tu hermano!
+
+695
+02:03:43,948 --> 02:03:46,539
+Ésos restos no son mi hermano.
+
+696
+02:03:49,703 --> 02:03:51,333
+Haz lo que quieras.
+
+697
+02:04:13,771 --> 02:04:15,114
+Adiós.
+
+698
+02:06:06,639 --> 02:06:08,462
+- Ahí estás.
+- ¡Gracias!
+
+699
+02:06:08,749 --> 02:06:09,901
+¿Estás bien?
+
+700
+02:06:10,283 --> 02:06:12,490
+- Mierda.
+- ¿Tienes cigarrillos?
+
+701
+02:06:28,311 --> 02:06:30,039
+Voy a necesitar dinero.
+
+702
+02:06:30,326 --> 02:06:31,861
+Le pregunté a Linda
+respecto a tí.
+
+703
+02:06:32,147 --> 02:06:34,066
+Quiere verte.
+
+704
+02:06:34,354 --> 02:06:35,601
+- ¿Sí?
+- Sí.
+
+705
+02:06:36,654 --> 02:06:39,245
+- ¿Sigue con Mario?
+- Creo que sí.
+
+706
+02:06:39,531 --> 02:06:40,486
+Carajo.
+
+707
+02:07:37,355 --> 02:07:38,792
+¿Qué quieres?
+
+708
+02:07:45,121 --> 02:07:47,039
+Quiero decir que lo siento.
+
+709
+02:07:50,012 --> 02:07:52,123
+Quiero decir Lo Siento.
+Lo siento.
+
+710
+02:07:53,367 --> 02:07:57,588
+¿Éso es lo que oyes
+decir a todos los demás?
+
+711
+02:07:59,985 --> 02:08:01,808
+- ¿Ése es tu lamento?
+- Sí.
+
+712
+02:08:07,944 --> 02:08:10,727
+¿Por qué no haces algo útil...
+
+713
+02:08:11,299 --> 02:08:12,928
+...y te matas?
+
+714
+02:08:16,863 --> 02:08:19,355
+Sí, haz algo bueno
+contigo mismo...
+
+715
+02:08:19,739 --> 02:08:23,767
+- ... y liquídate.
+- No lo dices en serio.
+
+716
+02:08:24,534 --> 02:08:25,590
+Sí lo digo.
+
+717
+02:08:25,877 --> 02:08:32,397
+No entiendes.
+Esto es en parte mi culpa.
+
+718
+02:08:32,781 --> 02:08:36,230
+Por mi y por Oscar...
+Muérete.
+
+719
+02:08:37,767 --> 02:08:39,590
+- Necesitas entender...
+- ¡Hijo de puta!
+
+720
+02:08:40,070 --> 02:08:44,961
+Oscar murió vendiendo drogas
+por que tú viniste con toda esta gente...
+
+721
+02:08:45,631 --> 02:08:48,890
+...por mí, ¿Entonces es mi culpa?
+
+722
+02:08:49,274 --> 02:08:50,520
+- ¡Hijo de puta!
+- ¡Vete de aquí!
+
+723
+02:08:50,615 --> 02:08:51,766
+¡Te odio!
+
+724
+02:08:52,151 --> 02:08:54,259
+¡Te odio!
+
+725
+02:08:56,752 --> 02:08:59,536
+¡Muérete!
+
+726
+02:09:05,291 --> 02:09:09,507
+¡Hijo de puta! ¿Es mi culpa?
+Vete de aquí.
+
+727
+02:09:09,986 --> 02:09:11,905
+¡Muérete!
+
+728
+02:09:19,384 --> 02:09:21,877
+¿Cómo te atreves?
+¿Mi culpa?
+
+729
+02:09:22,167 --> 02:09:25,331
+¡Al carajo!
+¡Vete de aquí!
+
+730
+02:09:26,672 --> 02:09:33,193
+¡Vete de mi casa!
+¡Carajo!
+
+731
+02:09:36,645 --> 02:09:40,388
+¡Me quiero morir!
+
+732
+02:09:44,605 --> 02:09:49,879
+¡Al carajo mi hermano
+y sus estúpidos amigos!
+
+733
+02:09:50,167 --> 02:09:55,921
+Mi vida está arruinada.
+¡Mi vida está arruinada!
+
+734
+02:10:17,017 --> 02:10:18,838
+No quiero estar aquí.
+
+735
+02:10:19,508 --> 02:10:24,013
+No quiero estar aquí,
+con estos jodidos malditos.
+
+736
+02:10:24,686 --> 02:10:26,508
+¡Son malvados!
+
+737
+02:10:33,992 --> 02:10:35,908
+¡Son malvados!
+
+738
+02:10:39,936 --> 02:10:41,853
+Son jodidamente malvados.
+
+739
+02:10:51,924 --> 02:10:53,841
+Sólo quiero estar sola.
+
+740
+02:11:00,072 --> 02:11:01,797
+Sólo quiero estar sola.
+
+741
+02:11:03,238 --> 02:11:05,441
+Todos ustedes son malvados,
+lárguense.
+
+742
+02:11:13,214 --> 02:11:14,455
+Quisiera morirme.
+
+743
+02:15:24,833 --> 02:15:26,561
+Qué bueno verte.
+
+744
+02:15:26,943 --> 02:15:28,383
+Lo mismo digo.
+
+745
+02:15:33,752 --> 02:15:35,671
+- ¿Cómo has estado?
+- He estado mejor.
+
+746
+02:15:40,178 --> 02:15:41,328
+Yo también.
+
+747
+02:15:48,518 --> 02:15:50,628
+- Siento lo de tu hermano.
+- Está bien.
+
+748
+02:16:04,057 --> 02:16:05,590
+¡CUIDADO!
+
+749
+02:16:27,837 --> 02:16:30,521
+¡Papi! ¡Mami!
+
+750
+02:26:02,718 --> 02:26:04,730
+¡Linda!
+
+751
+02:27:36,694 --> 02:27:37,941
+¡Acaba!
+
+752
+02:29:47,300 --> 02:29:49,504
+Acaba... Acaba dentro mío.
+

@@ -1,0 +1,5627 @@
+1
+00:00:32,753 --> 00:00:36,883
+EL PROYECTO JENSEN
+
+2
+00:00:39,726 --> 00:00:42,627
+<i>Gritar como una niña no hará que
+esta cosa vuele.</i>
+
+3
+00:00:47,334 --> 00:00:48,392
+<i>Capitán a Co-Capitán.</i>
+
+4
+00:00:48,468 --> 00:00:51,130
+<i>El término Capitán implica que
+sabes cómo volar esta cosa.</i>
+
+5
+00:00:51,204 --> 00:00:53,229
+<i>¡Relájate! Es como "Nitromaníaco".</i>
+
+6
+00:00:53,306 --> 00:00:55,035
+<i>¡"Nitromaníaco" es un juego!</i>
+
+7
+00:00:55,108 --> 00:00:57,338
+<i>Esto es un avión... y
+cuando mi madre vea que lo robamos...</i>
+
+8
+00:00:57,410 --> 00:00:58,775
+<i>No lo robamos.</i>
+
+9
+00:00:58,845 --> 00:01:02,975
+<i>Es propiedad de Jensen. Soy empleada
+de Jensen y ésta es una Misión Jensen.</i>
+
+10
+00:01:03,049 --> 00:01:04,676
+<i>Sí, claro, te creerá.</i>
+
+11
+00:01:04,951 --> 00:01:06,213
+<i>Estoy frito.</i>
+
+12
+00:01:06,286 --> 00:01:09,346
+<i>No si devolvemos el ensamblador
+molecular y salvamos al mundo.</i>
+
+13
+00:01:09,422 --> 00:01:11,549
+<i>Confía en mí. Te convertirás
+en héroe en una noche.</i>
+
+14
+00:01:11,625 --> 00:01:12,887
+<i>Suponiendo que sobreviva.</i>
+
+15
+00:01:12,959 --> 00:01:14,051
+<i>¡Sujétate!</i>
+
+16
+00:01:26,606 --> 00:01:29,166
+DOS DÍAS ANTES
+
+17
+00:01:40,921 --> 00:01:43,321
+Brody, ¿cuántas veces te dije
+que uses un vaso?
+
+18
+00:01:45,392 --> 00:01:46,552
+¿Brody?
+
+19
+00:01:59,139 --> 00:02:00,231
+Gracias.
+
+20
+00:02:00,307 --> 00:02:02,502
+¡Llaves! ¡Llaves!
+¿Alguien vio mis llaves?
+
+21
+00:02:02,576 --> 00:02:04,874
+- Mesa de entrada.
+- No están.
+
+22
+00:02:04,945 --> 00:02:07,470
+Pantalones que usaste ayer
+en la noche. Ten.
+
+23
+00:02:07,547 --> 00:02:09,139
+Eres un genio.
+
+24
+00:02:09,783 --> 00:02:11,444
+Ya lo sabía.
+
+25
+00:02:11,952 --> 00:02:15,911
+Oye, mamá... No, no me siento bien.
+¿Puedo quedarme en casa?
+
+26
+00:02:17,157 --> 00:02:19,057
+- No te ves afiebrado.
+- Bueno...
+
+27
+00:02:20,594 --> 00:02:22,494
+es más, es más en mi pecho.
+
+28
+00:02:22,562 --> 00:02:25,929
+No has dormido por chatear con tus
+amigos, dejas todo a último momento.
+
+29
+00:02:25,999 --> 00:02:28,126
+y, ¿de pronto te enfermas?
+No lo creo.
+
+30
+00:02:28,201 --> 00:02:29,998
+Pero, ¿si contagio a todo el mundo?
+
+31
+00:02:30,070 --> 00:02:33,904
+Si contagias a todo el mundo,
+tu padre es especialista en inmunología.
+
+32
+00:02:39,880 --> 00:02:41,006
+Brody...
+
+33
+00:02:43,683 --> 00:02:47,642
+Escucha. Sé que la escuela te aburre.
+Pero intenta sacarle provecho, ¿sí?
+
+34
+00:02:49,222 --> 00:02:50,450
+Lo que digas.
+
+35
+00:03:07,040 --> 00:03:08,803
+¿Todo está bien?
+
+36
+00:03:09,042 --> 00:03:10,134
+Bien.
+
+37
+00:03:10,443 --> 00:03:11,876
+¿Estás segura?
+
+38
+00:03:12,145 --> 00:03:13,510
+Lo hablaremos otro día.
+
+39
+00:03:14,514 --> 00:03:15,981
+Como quieras.
+
+40
+00:03:16,917 --> 00:03:19,784
+Debo irme. Reservé satélite
+para mis alumnos y es tarde.
+
+41
+00:03:19,853 --> 00:03:21,616
+Para mí ya es tarde.
+
+42
+00:03:47,447 --> 00:03:51,508
+<i>Habla Claire Thompson. No estamos
+en casa, deje su mensaje luego de la señal.</i>
+
+43
+00:04:06,666 --> 00:04:08,429
+<i>No has dormido...</i>
+
+44
+00:04:08,868 --> 00:04:10,768
+<i>a último momento...</i>
+
+45
+00:04:10,971 --> 00:04:12,871
+<i>se ve afiebrado...</i>
+
+46
+00:04:12,939 --> 00:04:14,998
+<i>contagiar a todo el mundo...</i>
+
+47
+00:04:22,048 --> 00:04:25,074
+<i>Secundaria Marshall. Habla la Sra. Johnson.
+¿En qué puedo ayudarle?</i>
+
+48
+00:04:25,151 --> 00:04:28,780
+<i>Habla Claire Thompson.
+Brody no ha dormido. Se ve afiebrado.</i>
+
+49
+00:04:28,855 --> 00:04:31,847
+<i>No queremos que contagie
+a todo el mundo. Estará en casa.</i>
+
+50
+00:04:31,925 --> 00:04:33,654
+<i>Gracias por llamar.</i>
+
+51
+00:04:40,266 --> 00:04:44,134
+Si el satélite se encuentra a 200 millas
+por sobre la superficie.
+
+52
+00:04:44,204 --> 00:04:46,365
+y viajando a una velocidad constante...
+
+53
+00:04:46,439 --> 00:04:47,872
+¿quién me dice durante cuánto tiempo.
+
+54
+00:04:47,941 --> 00:04:51,172
+mantendremos contacto
+con señal a máxima potencia?
+
+55
+00:04:52,545 --> 00:04:53,773
+¿Alguien?
+
+56
+00:04:56,850 --> 00:04:58,579
+7.025 minutos.
+
+57
+00:05:00,620 --> 00:05:03,145
+Preguntas del capítulo 10 al 14
+para el lunes.
+
+58
+00:05:03,223 --> 00:05:04,986
+Por favor, prepárense.
+
+59
+00:05:07,260 --> 00:05:08,386
+Bien hecho, Josh.
+
+60
+00:05:08,461 --> 00:05:10,520
+No puedo creer que consiguiera
+tiempo satelital real.
+
+61
+00:05:10,597 --> 00:05:11,996
+Pedí un favor.
+
+62
+00:05:12,465 --> 00:05:15,195
+Aunque pensé que
+la clase se involucraría más.
+
+63
+00:05:15,935 --> 00:05:17,527
+- ¿Puedo preguntarle algo?
+- Claro.
+
+64
+00:05:17,604 --> 00:05:20,596
+Usted fue al M.I.T. Y cuenta con
+dos diplomas de posgrado.
+
+65
+00:05:20,673 --> 00:05:24,939
+En vez de enseñarnos tecnologías
+de avanzada, ¿por qué no las diseña usted?
+
+66
+00:05:28,014 --> 00:05:29,538
+Debo contestar. Te veo el lunes.
+
+67
+00:05:31,818 --> 00:05:34,878
+<i>- Claire Thompson.
+- Hola, Sra. Thompson, soy la Sra. Banks.</i>
+
+68
+00:05:34,954 --> 00:05:37,514
+Quería informarle que le envié
+la tarea a Brody por mail.
+
+69
+00:05:37,590 --> 00:05:38,648
+¿Por qué?
+
+70
+00:05:39,692 --> 00:05:40,750
+Usted llamó a la escuela.
+
+71
+00:05:40,927 --> 00:05:42,155
+¿Llamé?
+
+72
+00:05:42,228 --> 00:05:44,321
+<i>Para reportarlo enfermo.</i>
+
+73
+00:05:45,698 --> 00:05:48,462
+- Cierto.
+- Espero esté mejor.
+
+74
+00:05:50,870 --> 00:05:53,737
+No lo creo. No cuando termine con él.
+
+75
+00:06:13,293 --> 00:06:15,227
+No puede respirar bien.
+
+76
+00:06:15,261 --> 00:06:16,592
+¿Tiene antecedentes de asma?
+
+77
+00:06:16,663 --> 00:06:17,721
+No.
+
+78
+00:06:18,498 --> 00:06:20,193
+- ¿Bronquitis?
+- No.
+
+79
+00:06:20,266 --> 00:06:21,858
+- ¿Laringitis?
+- No.
+
+80
+00:06:21,935 --> 00:06:23,368
+- ¿Sinusitis?
+- No.
+
+81
+00:06:23,436 --> 00:06:25,427
+- ¿Rinitis?
+- No.
+
+82
+00:06:25,505 --> 00:06:27,097
+- ¿Neumotórax?
+- No.
+
+83
+00:06:27,173 --> 00:06:28,640
+¿Aspergilosis?
+
+84
+00:06:32,612 --> 00:06:33,738
+¿Eres fumador?
+
+85
+00:06:33,813 --> 00:06:35,178
+No, señor.
+
+86
+00:06:35,248 --> 00:06:37,182
+Eso es bueno. Sigue así.
+
+87
+00:06:38,284 --> 00:06:39,683
+Bien.
+
+88
+00:06:40,320 --> 00:06:41,651
+Abre grande.
+
+89
+00:06:46,493 --> 00:06:48,461
+Bien. Creo que encontré el problema.
+
+90
+00:06:49,362 --> 00:06:50,624
+Su hijo...
+
+91
+00:06:51,764 --> 00:06:53,561
+Su hijo sufre de una severa...
+
+92
+00:06:54,400 --> 00:06:57,597
+Rinosis Gumerius.
+
+93
+00:06:57,904 --> 00:06:59,496
+¿Eso es grave?
+
+94
+00:06:59,706 --> 00:07:01,173
+No mucho.
+
+95
+00:07:01,941 --> 00:07:03,067
+¡Quint!
+
+96
+00:07:05,011 --> 00:07:08,105
+Lamento haberle hecho
+perder el tiempo, doctor.
+
+97
+00:07:08,615 --> 00:07:10,480
+Podría haber sido peor.
+
+98
+00:07:11,584 --> 00:07:13,745
+Un gusano verdadero.
+
+99
+00:07:19,359 --> 00:07:20,724
+¿Día difícil?
+
+100
+00:07:22,662 --> 00:07:24,755
+Nada que valga la pena contar.
+
+101
+00:07:26,566 --> 00:07:27,760
+¿Qué haces aquí?
+
+102
+00:07:27,934 --> 00:07:29,231
+- Es Brody.
+- ¿Ahora qué?
+
+103
+00:07:29,302 --> 00:07:31,497
+- Faltó a clase. Otra vez.
+- ¿Cómo que otra vez?
+
+104
+00:07:31,571 --> 00:07:33,835
+Informaron que escribió en tu nombre.
+
+105
+00:07:33,907 --> 00:07:36,034
+tres veces en los dos últimos meses.
+
+106
+00:07:36,109 --> 00:07:39,010
+y que a la próxima ausencia,
+tendrá que ir uno de nosotros.
+
+107
+00:07:39,078 --> 00:07:40,978
+Y falsificó mi voz.
+
+108
+00:07:41,047 --> 00:07:42,071
+De acuerdo. ¿Cómo lo hizo?
+
+109
+00:07:42,148 --> 00:07:45,549
+No tengo idea pero logró ser
+convincente y engañar a sus maestros.
+
+110
+00:07:46,486 --> 00:07:47,783
+Muy listo.
+
+111
+00:07:47,854 --> 00:07:49,321
+Demasiado para su propio bien.
+
+112
+00:07:49,389 --> 00:07:52,722
+Tal vez ése es el problema. Tal vez
+no está en el medio adecuado como para...
+
+113
+00:07:52,792 --> 00:07:54,259
+Matt, no empieces.
+
+114
+00:07:54,327 --> 00:07:57,194
+No hablar del tema no solucionará
+el problema, Claire.
+
+115
+00:07:58,164 --> 00:07:59,529
+Adelante.
+
+116
+00:08:05,004 --> 00:08:06,164
+¿Ingrid?
+
+117
+00:08:12,512 --> 00:08:14,673
+Claire... qué sorpresa verte aquí.
+
+118
+00:08:16,482 --> 00:08:17,676
+Lo mismo.
+
+119
+00:08:18,551 --> 00:08:23,045
+Bueno... ¿a qué se debe el honor
+luego de tantos años?
+
+120
+00:08:23,923 --> 00:08:26,016
+El proyecto Jensen tiene problemas.
+
+121
+00:08:26,392 --> 00:08:28,326
+Vine a pedirte tu ayuda.
+
+122
+00:08:28,995 --> 00:08:32,158
+¿A mí? ¿Tú quieres que yo te ayude?
+
+123
+00:08:34,467 --> 00:08:37,959
+De acuerdo. ¿Por qué no nos
+sentamos y hablamos de esto?
+
+124
+00:08:38,037 --> 00:08:41,438
+Ustedes hablen lo que quieran,
+yo me voy de aquí.
+
+125
+00:08:41,841 --> 00:08:43,103
+Claire...
+
+126
+00:08:43,943 --> 00:08:45,035
+Cariño...
+
+127
+00:08:45,111 --> 00:08:46,169
+Aguarda.
+
+128
+00:08:46,980 --> 00:08:48,277
+Claire...
+
+129
+00:08:48,348 --> 00:08:50,111
+- ¡Claire!
+- ¡No! ¡No, no!
+
+130
+00:08:50,183 --> 00:08:51,650
+Cuando la necesité,
+me ignoró por completo.
+
+131
+00:08:51,718 --> 00:08:53,242
+De ninguna manera permi...
+
+132
+00:08:59,892 --> 00:09:01,154
+Ven...
+
+133
+00:09:09,369 --> 00:09:11,200
+Cuando Edwin te humilló...
+
+134
+00:09:11,771 --> 00:09:16,333
+Hoy, presenciamos el fracaso...
+
+135
+00:09:18,444 --> 00:09:20,571
+Entiendo que
+te hayas sentido herida.
+
+136
+00:09:20,647 --> 00:09:21,705
+¿Herida?
+
+137
+00:09:21,781 --> 00:09:27,583
+Como su mentor debí reconocer
+las limitaciones de su talento e intelecto.
+
+138
+00:09:27,654 --> 00:09:28,712
+Me sentí devastada.
+
+139
+00:09:28,788 --> 00:09:30,813
+Sé que lo que dijo fue cruel.
+
+140
+00:09:30,890 --> 00:09:34,087
+Tu trabajo no fue lo
+suficientemente bueno.
+
+141
+00:09:35,528 --> 00:09:38,554
+Tú no eres lo suficientemente buena.
+
+142
+00:09:39,999 --> 00:09:43,162
+<i>Admiraba a Edwin más de lo que
+puedes imaginarte.</i>
+
+143
+00:09:45,038 --> 00:09:48,667
+Creo que lo que más me hirió fue
+saber que lo había decepcionado.
+
+144
+00:09:49,409 --> 00:09:52,901
+Nadie entiende mejor que yo
+cómo te sentiste.
+
+145
+00:09:53,313 --> 00:09:56,646
+Y sé que no quieres oírlo
+pero debes hablar con Ingrid.
+
+146
+00:09:56,716 --> 00:09:57,774
+¿Por qué?
+
+147
+00:09:57,850 --> 00:10:00,045
+¡Porque puede ser tu oportunidad!
+
+148
+00:10:00,119 --> 00:10:02,144
+¿De qué estás hablando?
+¿Una oportunidad para qué?
+
+149
+00:10:02,221 --> 00:10:04,781
+¡No lo sé! No lo sé...
+para volver al pasado...
+
+150
+00:10:04,857 --> 00:10:08,793
+y de alguna forma reparar el daño
+que te hicieron. No tengo idea.
+
+151
+00:10:08,861 --> 00:10:13,298
+Pero... no puede herirte escuchar
+lo que Ingrid quiera decirte.
+
+152
+00:10:14,734 --> 00:10:18,033
+Por favor, Claire, hazlo por mí.
+
+153
+00:10:20,039 --> 00:10:22,132
+Edwin dejó el proyecto Jensen...
+
+154
+00:10:22,208 --> 00:10:27,305
+se llevó todo su equipo y varios proyectos
+experimentales, incluyendo el tuyo.
+
+155
+00:10:27,580 --> 00:10:28,911
+¿Y qué? No funcionó. ¿Recuerdas?
+
+156
+00:10:29,816 --> 00:10:31,306
+Ahora funciona.
+
+157
+00:10:32,151 --> 00:10:34,346
+Después de irte...
+
+158
+00:10:34,420 --> 00:10:36,945
+Edwin continuó tu investigación
+sobre nanobots moleculares.
+
+159
+00:10:37,123 --> 00:10:38,181
+¿Qué hizo?
+
+160
+00:10:38,257 --> 00:10:41,454
+Y con los años perfeccionó el
+trabajo que creaste.
+
+161
+00:10:42,395 --> 00:10:45,990
+Esta tecnología puede salvar millones
+de vidas, al igual que destruir millones.
+
+162
+00:10:46,065 --> 00:10:47,191
+No te entiendo. ¿Qué quieres?
+
+163
+00:10:47,266 --> 00:10:49,962
+Las nanobots son computadoras
+de tamaño molecular.
+
+164
+00:10:50,737 --> 00:10:52,762
+Pueden implantarse en tejido humano.
+
+165
+00:10:52,839 --> 00:10:58,368
+En una guerra, por ejemplo, un soldado
+herido implantado con un nanobot...
+
+166
+00:10:58,444 --> 00:11:00,639
+puede indicar a los médicos
+su localización exacta...
+
+167
+00:11:00,713 --> 00:11:02,772
+hasta estabilizar sus funciones corporales.
+
+168
+00:11:02,849 --> 00:11:03,907
+Eso es bueno, ¿verdad?
+
+169
+00:11:03,983 --> 00:11:08,010
+Siempre que el enemigo no controle
+la computadora que maneja los nanobots.
+
+170
+00:11:08,087 --> 00:11:10,453
+Podrían exterminar un ejército completo.
+
+171
+00:11:10,523 --> 00:11:13,253
+provocándole a cada soldado en batalla
+un infarto masivo.
+
+172
+00:11:13,326 --> 00:11:14,691
+Con solo presionar un botón.
+
+173
+00:11:17,363 --> 00:11:19,331
+Esta tecnología
+podría ser una bendición...
+
+174
+00:11:19,399 --> 00:11:22,596
+o podría ser una pesadilla
+según quién la controle.
+
+175
+00:11:22,668 --> 00:11:24,727
+¿Y por el momento es Edwin?
+
+176
+00:11:25,037 --> 00:11:26,436
+Por eso vine a ti, Claire.
+
+177
+00:11:27,073 --> 00:11:29,268
+Cuando Edwin se fue,
+limpió todos los drivers.
+
+178
+00:11:29,409 --> 00:11:31,274
+No tengo idea cómo pasó
+de mi modelo a un...
+
+179
+00:11:31,344 --> 00:11:35,144
+Tienes más idea que cualquier otra persona,
+que cualquier otro en la familia Jensen.
+
+180
+00:11:35,214 --> 00:11:37,444
+No estoy con la familia Jensen
+desde hace tiempo, Ingrid.
+
+181
+00:11:37,517 --> 00:11:38,677
+¿Por qué no ir a las autoridades?
+
+182
+00:11:38,751 --> 00:11:42,380
+Si se enteran los medios, un giro
+negativo podría destruir el proyecto Jensen.
+
+183
+00:11:42,455 --> 00:11:44,980
+y todo el buen trabajo realizado.
+
+184
+00:11:45,591 --> 00:11:46,956
+Te necesitamos.
+
+185
+00:11:47,527 --> 00:11:49,893
+Los necesitamos a ambos,
+y hacen falta ahora.
+
+186
+00:12:01,908 --> 00:12:04,604
+Oye, Jimmy, pensé que con
+veinte dólares podrías dejarme...
+
+187
+00:12:06,712 --> 00:12:07,701
+AERODINÁMICA
+
+188
+00:12:07,814 --> 00:12:08,872
+¿Qué estabas pensando?
+
+189
+00:12:08,948 --> 00:12:11,473
+Pensaba que no me descubrirían.
+¿Y cómo supiste dónde encontrarme?
+
+190
+00:12:11,551 --> 00:12:12,711
+Tu madre usó un satélite.
+
+191
+00:12:12,785 --> 00:12:14,446
+- para rastrear tu celular.
+- ¿Qué?
+
+192
+00:12:14,520 --> 00:12:16,920
+Fingiste ser yo
+para faltar a la escuela.
+
+193
+00:12:16,989 --> 00:12:19,890
+No está bien, hijo. Por cierto,
+estás completamente castigado.
+
+194
+00:12:20,159 --> 00:12:21,524
+Puedo explicarlo.
+
+195
+00:12:21,594 --> 00:12:24,085
+Probaba niveles de reducción de sonido
+en audio señales aisladas.
+
+196
+00:12:24,163 --> 00:12:26,563
+- Hice un programa que...
+- No importa lo que hacías.
+
+197
+00:12:26,632 --> 00:12:29,328
+Importa que mentiste en la escuela
+y nos mentiste.
+
+198
+00:12:29,402 --> 00:12:30,960
+De acuerdo, lo siento.
+
+199
+00:12:31,604 --> 00:12:35,267
+- ¿Adónde vamos?
+- Te enviaremos a la escuela militar.
+
+200
+00:12:36,242 --> 00:12:37,368
+¿Qué?
+
+201
+00:12:38,377 --> 00:12:40,242
+¡Escúchenme! Cambié, no...
+
+202
+00:12:40,313 --> 00:12:42,440
+- ¿No podemos discutirlo siquiera?
+- No irás a la escuela militar.
+
+203
+00:12:42,515 --> 00:12:44,483
+- ¿Entonces, adónde vamos?
+- Regresaremos.
+
+204
+00:12:44,550 --> 00:12:45,915
+Regresar, ¿adónde?
+
+205
+00:12:46,152 --> 00:12:48,120
+A salvar el día, espero.
+
+206
+00:12:48,621 --> 00:12:52,022
+Y mientras lo hagamos...
+tal vez al mundo.
+
+207
+00:13:03,035 --> 00:13:05,230
+<i>¿Por qué Edwin eligió abandonar
+el proyecto ahora?</i>
+
+208
+00:13:05,304 --> 00:13:06,532
+<i>Mi culpa.</i>
+
+209
+00:13:06,606 --> 00:13:10,906
+<i>ÉI deseaba sortear protocolos usuales
+y avanzar los nanobots a la etapa siguiente.</i>
+
+210
+00:13:10,977 --> 00:13:12,569
+<i>Sólo quería que fuese más despacio.</i>
+
+211
+00:13:12,645 --> 00:13:15,910
+<i>Lamentablemente, Edwin y yo
+no tenemos buena comunicación.</i>
+
+212
+00:13:16,682 --> 00:13:20,277
+<i>Mamá, ¿qué es este proyecto Jensen
+del que están hablando?</i>
+
+213
+00:13:20,353 --> 00:13:24,790
+<i>Un grupo de personas muy listas que
+trabajan por un mundo mejor.</i>
+
+214
+00:13:24,857 --> 00:13:26,154
+<i>Pero no escuché nada de eso.</i>
+
+215
+00:13:26,225 --> 00:13:28,750
+<i>Digamos que el anonimato
+es importante.</i>
+
+216
+00:13:28,828 --> 00:13:31,922
+<i>- ¿Cómo te unes a ellos?
+- No lo haces. Debes ser invitado.</i>
+
+217
+00:13:31,998 --> 00:13:34,091
+<i>¿Y ustedes son miembros?</i>
+
+218
+00:13:34,934 --> 00:13:36,663
+<i>Lo fuimos... una vez.</i>
+
+219
+00:13:37,603 --> 00:13:41,039
+<i>Señora Jensen, tenemos autorización
+para aterrizar en el complejo.</i>
+
+220
+00:13:50,016 --> 00:13:52,780
+CIUDAD DE NUEVA YORK
+
+221
+00:13:53,553 --> 00:13:57,319
+Su investigación oncogenética,
+dispositivo de monitoreo de glucosa...
+
+222
+00:13:57,623 --> 00:14:02,117
+y servomecanismos para robótica.
+Un trabajo de avanzada excelencia, Edwin.
+
+223
+00:14:02,795 --> 00:14:03,853
+Gracias.
+
+224
+00:14:03,930 --> 00:14:07,161
+Pero, como dijimos,
+su tecnología nanobot.
+
+225
+00:14:07,233 --> 00:14:09,667
+es la que más interesa a mis socios y a mí.
+
+226
+00:14:09,735 --> 00:14:11,464
+Puedo ver por qué.
+
+227
+00:14:11,737 --> 00:14:15,298
+Estamos muy cerca de un descubrimiento
+que podría cambiar la medicina.
+
+228
+00:14:15,374 --> 00:14:16,568
+¿Podría?
+
+229
+00:14:18,277 --> 00:14:19,335
+Lo hará.
+
+230
+00:14:20,246 --> 00:14:21,372
+Cambiará.
+
+231
+00:14:23,215 --> 00:14:24,773
+¿Qué hay de los derechos de autor?
+
+232
+00:14:25,585 --> 00:14:28,213
+Nuestros y solo nuestros. Lo financiamos.
+Es nuestro.
+
+233
+00:14:28,454 --> 00:14:29,887
+Haremos lo que nos plazca.
+
+234
+00:14:30,356 --> 00:14:34,520
+El crédito, sin embargo, será todo suyo,
+junto con mucho dinero.
+
+235
+00:14:38,097 --> 00:14:42,227
+Necesitaré autonomía, sobre mi equipo,
+laboratorio... nuestros procesos.
+
+236
+00:14:42,301 --> 00:14:43,962
+No será un problema.
+
+237
+00:14:44,036 --> 00:14:47,699
+Lo estamos respaldando, Edwin.
+Y queremos apostar en grande.
+
+238
+00:14:50,676 --> 00:14:53,509
+En cuanto pasen
+los protocolos de seguridad...
+
+239
+00:14:53,579 --> 00:14:58,573
+conocerán al Dr. James... recibirán
+un informe sobre el progreso de Edwin.
+
+240
+00:15:00,486 --> 00:15:02,351
+- ¿Cómo te sientes?
+- Con miedo.
+
+241
+00:15:02,421 --> 00:15:04,946
+Miedo de que regresar sea mala idea.
+
+242
+00:15:11,797 --> 00:15:14,630
+No te lo quites. Tendrás acceso
+a casi todo el complejo.
+
+243
+00:15:14,934 --> 00:15:17,095
+Vaya. Las cosas cambiaron
+definitivamente.
+
+244
+00:15:17,169 --> 00:15:20,002
+Recuerdo cuando la seguridad
+se remitía a los perros de caza.
+
+245
+00:15:20,406 --> 00:15:23,239
+Lamentablemente,
+aprendemos por las malas...
+
+246
+00:15:23,309 --> 00:15:24,901
+aunque ni siquiera esto sea suficiente.
+
+247
+00:15:26,178 --> 00:15:31,047
+Bien, Brody... como tus padres no te
+hablaron del proyecto Jensen...
+
+248
+00:15:31,117 --> 00:15:33,847
+te actualizaré camino
+al despacho del Dr. James.
+
+249
+00:15:34,720 --> 00:15:35,948
+De acuerdo. Genial.
+
+250
+00:15:36,355 --> 00:15:39,813
+El proyecto Jensen es uno de los centros
+de investigación más avanzados del mundo.
+
+251
+00:15:39,892 --> 00:15:42,725
+Fue fundado por mi padre,
+el extinto William Jensen.
+
+252
+00:15:43,095 --> 00:15:45,086
+El proyecto agrupa mentes brillantes.
+
+253
+00:15:45,164 --> 00:15:49,260
+que no solo teorizan sobre cómo mejorar al
+mundo, en realidad lo hacen.
+
+254
+00:15:50,236 --> 00:15:53,399
+Estos son solo algunos de nuestros
+proyectos más exitosos.
+
+255
+00:15:53,472 --> 00:15:55,963
+Sí, pero usted no recibe el crédito.
+Otra gente lo hace.
+
+256
+00:15:56,042 --> 00:15:58,567
+Si el grupo desarrolla, digamos,
+una nueva vacuna...
+
+257
+00:15:58,644 --> 00:16:01,169
+y se otorga a una organización
+como la CCS3.
+
+258
+00:16:01,247 --> 00:16:03,147
+o a la Organización Mundial de la Salud...
+
+259
+00:16:03,215 --> 00:16:04,773
+recibe la cobertura mediática.
+
+260
+00:16:04,850 --> 00:16:07,410
+En Jensen, el trabajo es la
+recompensa.
+
+261
+00:16:07,486 --> 00:16:09,420
+Ingrid... el informe de estado.
+
+262
+00:16:09,822 --> 00:16:13,019
+Kendrick James, ellos son Brody,
+Matt y Claire Thompson.
+
+263
+00:16:13,092 --> 00:16:16,118
+Kendrick es el jefe del Departamento
+de Ingeniería Acústica y Fotónica.
+
+264
+00:16:16,195 --> 00:16:18,186
+También nuestro Jefe de Seguridad.
+
+265
+00:16:18,264 --> 00:16:22,462
+Un gusto conocerlos. Ingrid, detectamos
+27 piezas de la tecnología faltante.
+
+266
+00:16:22,535 --> 00:16:24,366
+Y sumando.
+Es peor de lo imaginado.
+
+267
+00:16:24,437 --> 00:16:27,634
+Bio-genética, neuro-cog
+y robótica fueron interceptados.
+
+268
+00:16:28,040 --> 00:16:30,372
+Ginny, ellos son los Thompson.
+
+269
+00:16:30,609 --> 00:16:33,806
+Hola y adiós.
+Debo ver qué más se llevaron.
+
+270
+00:16:36,248 --> 00:16:38,148
+Bienvenidos a Jensen.
+
+271
+00:16:39,118 --> 00:16:40,949
+Ginny lidera ciencia computarizada.
+
+272
+00:16:41,020 --> 00:16:44,615
+De acuerdo. Comencemos antes de que
+las cosas se pongan peor de lo que están.
+
+273
+00:16:44,690 --> 00:16:46,885
+Sí, no sabemos cuán lejos llegó.
+
+274
+00:16:46,959 --> 00:16:48,017
+¿Qué hay de mí?
+
+275
+00:16:48,094 --> 00:16:50,460
+Brody, tú puedes recorrer el lugar.
+
+276
+00:16:50,963 --> 00:16:52,692
+Y no causes problemas.
+
+277
+00:16:54,667 --> 00:16:55,861
+No se preocupen.
+
+278
+00:17:27,833 --> 00:17:30,358
+Sabemos que más de mil millones de
+personas en el mundo.
+
+279
+00:17:30,436 --> 00:17:32,870
+no tienen acceso al agua potable...
+
+280
+00:17:32,938 --> 00:17:37,534
+Como resultado mueren por día más
+de 4000 niños en países en desarrollo.
+
+281
+00:17:37,610 --> 00:17:40,340
+Por eso, creamos este pequeño invento.
+
+282
+00:17:40,412 --> 00:17:43,006
+y se lo concedimos a los miembros
+de la ONG PUR.
+
+283
+00:17:43,582 --> 00:17:47,541
+Bien, por lo general el proceso
+lleva una media hora, pero lo aceleraremos.
+
+284
+00:17:51,390 --> 00:17:52,721
+Como verán...
+
+285
+00:17:52,792 --> 00:17:55,989
+agua potencialmente mortal,
+limpia y lista para beber.
+
+286
+00:17:58,063 --> 00:18:01,590
+Tiene usos infinitos.
+Agua no tóxica, agua soluble.
+
+287
+00:18:02,768 --> 00:18:06,795
+Puede usarse para curar
+una herida mortal de guerra.
+
+288
+00:18:06,872 --> 00:18:08,499
+o sellar la fuga en un transbordador.
+
+289
+00:18:59,892 --> 00:19:01,052
+Genial.
+
+290
+00:19:07,333 --> 00:19:11,565
+<i>Brody Thompson. Acceso denegado
+por razones de seguridad.</i>
+
+291
+00:19:15,841 --> 00:19:18,139
+Lo siento, lo siento. Es mi culpa.
+
+292
+00:19:29,822 --> 00:19:31,653
+¿Alguien accedió a los archivos de Edwin?
+
+293
+00:19:31,724 --> 00:19:34,921
+Lo poco que dejó está en una
+taquigrafía incomprensible.
+
+294
+00:19:34,994 --> 00:19:37,554
+Basada en un algoritmo.
+Le ayudé a crearla.
+
+295
+00:19:37,630 --> 00:19:39,598
+Esperaba tanto que dijeras eso.
+
+296
+00:19:39,665 --> 00:19:42,896
+Llevó demasiada tecnología.
+¿Seguro se enfoca sólo en nanobots?
+
+297
+00:19:42,968 --> 00:19:46,495
+No. Pero en base a nuestra última
+conversación, creo que sí.
+
+298
+00:19:46,572 --> 00:19:48,039
+Ciertamente es su perfil más fuerte.
+
+299
+00:19:48,107 --> 00:19:49,665
+Y por desgracia al más peligroso.
+
+300
+00:19:49,742 --> 00:19:51,039
+Si hay alguna buena noticia en esto...
+
+301
+00:19:51,110 --> 00:19:53,635
+no pudo llevarse en
+ensamblador molecular.
+
+302
+00:19:53,712 --> 00:19:54,770
+¿Qué cosa?
+
+303
+00:19:54,847 --> 00:19:56,610
+No puede fabricar nanobots reales sin él.
+
+304
+00:19:56,682 --> 00:20:00,174
+Y además del nuestro,
+hay solo un par más en todo el mundo.
+
+305
+00:20:01,220 --> 00:20:05,020
+Bien, comencemos a trabajar entonces.
+Necesitaré los viejos archivos de Edwin.
+
+306
+00:20:05,090 --> 00:20:08,992
+Te los enviaré de inmediato.
+Pueden trabajar allí, en su escritorio.
+
+307
+00:20:09,061 --> 00:20:10,551
+¿Quién está a cargo de inmunología?
+
+308
+00:20:10,629 --> 00:20:12,859
+Tú lo estás. Al menos por ahora.
+
+309
+00:20:12,932 --> 00:20:14,593
+Nuestro jefe de departamento
+se fue con Edwin.
+
+310
+00:20:14,667 --> 00:20:16,157
+¿Tengo acceso a los registros
+de laboratorio?
+
+311
+00:20:16,235 --> 00:20:18,999
+Por supuesto. Te acompañaré.
+
+312
+00:20:25,811 --> 00:20:27,039
+Monitor.
+
+313
+00:20:27,913 --> 00:20:29,312
+Abrir archivos.
+
+314
+00:20:36,121 --> 00:20:37,281
+Siguiente.
+
+315
+00:20:37,556 --> 00:20:42,016
+No imaginas cuánto significa para mí
+que ambos hayan regresado.
+
+316
+00:20:42,094 --> 00:20:45,029
+No fue fácil, sabes.
+Me refiero a Claire.
+
+317
+00:20:45,097 --> 00:20:47,793
+No cuando Edwin prácticamente
+la obligó a abandonar el proyecto.
+
+318
+00:20:47,866 --> 00:20:50,266
+Puedo imaginarlo.
+¿Alguna vez hablan de su tiempo aquí?
+
+319
+00:20:50,336 --> 00:20:53,601
+Es un tema que estuvo fuera de
+discusión durante mucho tiempo.
+
+320
+00:20:53,672 --> 00:20:59,269
+Matt, realmente intenté convencer a
+Edwin de retener a Claire...
+
+321
+00:20:59,345 --> 00:21:01,313
+pero fue absolutamente categórico.
+
+322
+00:21:01,380 --> 00:21:03,439
+Su conducta ese día fue...
+
+323
+00:21:03,515 --> 00:21:08,543
+Pues, retrospectivamente marcó un cambio
+en él que continuó hasta el día que se fue.
+
+324
+00:21:09,254 --> 00:21:12,985
+Es algo que deberías hablar con Claire.
+No conmigo.
+
+325
+00:21:18,297 --> 00:21:22,529
+Según la lista que nos dio,
+hemos provisto equipo e instalaciones.
+
+326
+00:21:22,601 --> 00:21:26,298
+Hay una sola pieza
+que no pudimos encontrar...
+
+327
+00:21:26,372 --> 00:21:27,999
+El ensamblador molecular.
+
+328
+00:21:28,073 --> 00:21:29,802
+Pero mi gente trabaja en ello.
+
+329
+00:21:29,875 --> 00:21:34,335
+Mientras más rápido tengamos uno,
+más rápido comenzaré a producir nanobots.
+
+330
+00:21:48,293 --> 00:21:50,193
+Bien, ¿qué opina?
+
+331
+00:21:53,065 --> 00:21:54,430
+Creo que...
+
+332
+00:21:56,268 --> 00:21:57,735
+es perfecto.
+
+333
+00:21:58,737 --> 00:21:59,897
+Excelente.
+
+334
+00:22:00,339 --> 00:22:02,603
+Me voy para que pueda comenzar.
+
+335
+00:22:21,093 --> 00:22:22,253
+¿Hola?
+
+336
+00:23:34,666 --> 00:23:35,826
+¿Hola?
+
+337
+00:23:44,810 --> 00:23:46,778
+Vaya, esto es mejor que genial.
+
+338
+00:23:49,414 --> 00:23:50,506
+¡Vaya!
+
+339
+00:23:53,585 --> 00:23:57,021
+<i>Estás violando la norma 387564,
+invasión de propiedad privada.</i>
+
+340
+00:23:57,089 --> 00:23:58,852
+No, no, solo estaba mirando.
+
+341
+00:23:58,924 --> 00:24:00,186
+<i>Jaqueaste mi seguridad.</i>
+
+342
+00:24:00,259 --> 00:24:01,749
+¿A eso le llamas seguridad?
+
+343
+00:24:02,161 --> 00:24:03,958
+<i>Sí. Lo hice yo mismo.</i>
+
+344
+00:24:04,029 --> 00:24:06,725
+Yo mismo lo decodifiqué,
+como en dos segundos.
+
+345
+00:24:06,798 --> 00:24:08,561
+<i>Bueno, tú eres quien cuelga cabeza abajo.</i>
+
+346
+00:24:08,634 --> 00:24:09,862
+¡Tú eres quien puso la trampa!
+
+347
+00:24:09,935 --> 00:24:11,459
+<i>- ¿Y tú quién eres?
+- ¿Quién eres tú?</i>
+
+348
+00:24:11,537 --> 00:24:13,198
+<i>Pregunté primero.</i>
+
+349
+00:24:13,872 --> 00:24:15,931
+Escucha, sólo bájame
+y prometo que no...
+
+350
+00:24:16,008 --> 00:24:17,032
+<i>¡Deja el discurso
+para las autoridades!</i>
+
+351
+00:24:17,109 --> 00:24:19,441
+¡No, no, no! ¡Por favor!
+Vamos, no llames a la policía.
+
+352
+00:24:19,511 --> 00:24:20,876
+No. Mi madre se asustaría.
+
+353
+00:24:20,946 --> 00:24:22,174
+<i>¿Tus padres saben que estás aquí?</i>
+
+354
+00:24:22,247 --> 00:24:26,274
+Sí. También lo están. Mi madre
+trabajaba aquí. También mi padre.
+
+355
+00:24:26,351 --> 00:24:27,409
+<i>¡Imposible!</i>
+
+356
+00:24:27,486 --> 00:24:30,011
+No, sí, es verdad.
+Matthew y Claire Thompson.
+
+357
+00:24:30,088 --> 00:24:32,682
+<i>¿Eres el hijo de Matt
+y Claire Thompson?</i>
+
+358
+00:24:34,293 --> 00:24:35,658
+<i>Entonces...</i>
+
+359
+00:24:35,994 --> 00:24:38,019
+Serás más listo de lo que te ves.
+
+360
+00:24:40,065 --> 00:24:41,362
+Pasar...
+
+361
+00:24:41,833 --> 00:24:42,925
+pasar...
+
+362
+00:24:44,203 --> 00:24:45,363
+alto.
+
+363
+00:24:48,207 --> 00:24:49,401
+Notas.
+
+364
+00:24:55,080 --> 00:24:57,048
+Transferir archivo a tabla.
+
+365
+00:25:00,219 --> 00:25:01,413
+Llamando...
+
+366
+00:25:01,887 --> 00:25:03,047
+¿Kendrick?
+
+367
+00:25:03,121 --> 00:25:04,520
+<i>Sí, Claire.</i>
+
+368
+00:25:05,357 --> 00:25:09,088
+Encontré una nota en un archivo
+de Edwin. Firmada por N.P.
+
+369
+00:25:09,962 --> 00:25:11,589
+¿Alguna idea de quién puede ser?
+
+370
+00:25:11,663 --> 00:25:16,657
+El más aborrecible, y egocéntrico
+individuo que haya conocido.
+
+371
+00:25:16,735 --> 00:25:20,262
+No me sorprende que esté junto a Edwin...
+por suerte.
+
+372
+00:25:20,339 --> 00:25:22,603
+Infiero que ustedes no se llevaban bien.
+
+373
+00:25:23,008 --> 00:25:24,270
+Nunca.
+
+374
+00:25:24,943 --> 00:25:28,242
+Menospreciar mis contribuciones al equipo
+fue la meta de Edwin...
+
+375
+00:25:28,981 --> 00:25:30,676
+Te aseguro que sé cómo te sientes.
+
+376
+00:25:30,749 --> 00:25:32,114
+Me lo dijeron.
+
+377
+00:25:33,085 --> 00:25:34,177
+Sentémonos, ¿sí?
+
+378
+00:25:36,421 --> 00:25:37,752
+Activar tabla.
+
+379
+00:25:38,190 --> 00:25:42,923
+Encontré este diagrama de una prótesis.
+Tiene tus iniciales.
+
+380
+00:25:43,795 --> 00:25:47,026
+Ningún proyecto Jensen pasa
+de la etapa teórica a la práctica.
+
+381
+00:25:47,099 --> 00:25:48,896
+sin una vasta investigación de mi equipo.
+
+382
+00:25:49,801 --> 00:25:51,826
+El Departamento de Ética, que lidero...
+
+383
+00:25:51,903 --> 00:25:56,897
+pesa las implicancias de una técnica nueva
+desde el punto ético, moral y filosófico.
+
+384
+00:25:57,276 --> 00:25:58,538
+¿Qué pasó con la prótesis?
+
+385
+00:25:58,777 --> 00:26:02,008
+Quería usar la nano tecnología para
+control remoto de la prótesis.
+
+386
+00:26:02,080 --> 00:26:04,344
+con interfase al remanente nervioso
+del muñón.
+
+387
+00:26:04,950 --> 00:26:07,384
+Pero causaba un gran dolor al paciente.
+
+388
+00:26:07,452 --> 00:26:09,420
+Edwin pensaba que
+el fin justifica los medios.
+
+389
+00:26:09,488 --> 00:26:13,219
+Controlando la prótesis,
+controlaría lo que fuere.
+
+390
+00:26:13,292 --> 00:26:15,453
+Las funciones corporales, cerebrales...
+
+391
+00:26:15,527 --> 00:26:16,824
+Precisamente.
+
+392
+00:26:16,895 --> 00:26:18,123
+Desconectar tabla.
+
+393
+00:26:18,196 --> 00:26:20,596
+Por eso Ingrid canceló su investigación.
+
+394
+00:26:20,666 --> 00:26:23,897
+Vino a mí,
+pero cuando Ingrid toma una decisión...
+
+395
+00:26:23,969 --> 00:26:26,870
+Es difícil que la cambie.
+Estuve aquí, lo sé.
+
+396
+00:26:28,373 --> 00:26:33,072
+A pesar de la preocupación bioética,
+Edwin estaba detrás de algo sorprendente.
+
+397
+00:26:34,613 --> 00:26:38,379
+De lo que entiendo fue la continuación de la
+tecnología que tú inventaste.
+
+398
+00:26:38,450 --> 00:26:39,474
+¿Quién te lo dijo?
+
+399
+00:26:39,551 --> 00:26:45,046
+Edwin. Dijo que de no haberla aplicado mal,
+tu trabajo habría sido fundacional.
+
+400
+00:27:15,821 --> 00:27:19,313
+Perfeccioné el mecanismo ciliar
+nanobotico. Mire.
+
+401
+00:27:26,598 --> 00:27:30,557
+Es admirable y tú eres sorprendente.
+
+402
+00:27:35,907 --> 00:27:37,238
+Si hubieses funcionado.
+
+403
+00:27:41,313 --> 00:27:43,406
+¡Buenas noticias!
+Encontramos un ensamblador.
+
+404
+00:27:43,482 --> 00:27:44,506
+DÍA 2.
+
+405
+00:27:44,583 --> 00:27:45,607
+¿Dónde?
+
+406
+00:27:45,684 --> 00:27:46,912
+Laboratoire TechGen.
+
+407
+00:27:46,985 --> 00:27:50,045
+¿En Montreal?
+Me sorprende que lo tengan a la venta.
+
+408
+00:27:50,122 --> 00:27:53,888
+Bien, no es así. Ayudará a Ken
+a recuperarlo. Partirán en dos horas.
+
+409
+00:27:55,594 --> 00:27:57,118
+No lo entiendo.
+
+410
+00:27:57,996 --> 00:28:02,126
+Es simple, Edwin. Ken y su equipo
+irrumpirán en el laboratorio.
+
+411
+00:28:02,200 --> 00:28:04,634
+y usted lo identificará.
+
+412
+00:28:05,804 --> 00:28:07,328
+¿Y robarlo?
+
+413
+00:28:11,076 --> 00:28:12,509
+Está loco.
+
+414
+00:28:13,512 --> 00:28:14,740
+No voy a hacerlo.
+
+415
+00:28:15,781 --> 00:28:18,011
+Lo hará, Edwin. Confíe en mí.
+
+416
+00:28:18,216 --> 00:28:20,616
+La gente que pagó por esto...
+
+417
+00:28:21,019 --> 00:28:23,146
+no aceptará un no de respuesta.
+
+418
+00:28:32,931 --> 00:28:36,765
+Escucha, no sabía quién eras.
+Un extraño irrumpiendo en mi espacio.
+
+419
+00:28:36,835 --> 00:28:38,097
+Podría haberte enviado Edwin.
+
+420
+00:28:38,170 --> 00:28:40,695
+Es decir: Operamos en Nivel 5
+desde que se fue.
+
+421
+00:28:41,072 --> 00:28:43,131
+Me colgaste cabeza abajo
+como jamón ahumado.
+
+422
+00:28:44,176 --> 00:28:45,939
+Y lo volvería a hacer.
+
+423
+00:28:51,082 --> 00:28:52,447
+¿Qué es eso?
+
+424
+00:28:52,517 --> 00:28:54,849
+- Mi esfera.
+- ¿Tu qué?
+
+425
+00:28:54,920 --> 00:28:57,821
+Te lo entregan
+cuando te ofrecen una pasantía.
+
+426
+00:28:57,889 --> 00:28:59,481
+¿Una pasantía de qué?
+
+427
+00:28:59,558 --> 00:29:02,891
+Cada seis meses roto de departamento
+hasta elegir una especialidad.
+
+428
+00:29:02,961 --> 00:29:06,089
+Ahora estoy con el Dr. James
+de Ingeniería Acústica.
+
+429
+00:29:06,164 --> 00:29:10,123
+Vaya. Yo debía faltar a clase
+para hacer algo así.
+
+430
+00:29:11,336 --> 00:29:13,566
+Bien, ¿dónde están tus padres?
+
+431
+00:29:14,105 --> 00:29:15,163
+Muertos.
+
+432
+00:29:20,879 --> 00:29:21,903
+¿Por qué se fue Edwin?
+
+433
+00:29:21,980 --> 00:29:23,845
+<i>Tienes muchas preguntas, viejo.</i>
+
+434
+00:29:23,915 --> 00:29:25,212
+Soy Brody.
+
+435
+00:29:25,717 --> 00:29:27,241
+Como quieras, viejo.
+
+436
+00:29:35,994 --> 00:29:37,894
+Bien... ¿qué se llevó?
+
+437
+00:29:37,963 --> 00:29:39,863
+<i>Esa no la sé.</i>
+
+438
+00:29:39,931 --> 00:29:42,991
+Cuando le pregunté a Ingrid dijo
+que había cosas que no debía saber.
+
+439
+00:29:43,068 --> 00:29:44,535
+<i>Esa fue la primera.</i>
+
+440
+00:29:44,603 --> 00:29:46,798
+Jamás le escuché decir: Porque yo lo digo.
+
+441
+00:29:46,872 --> 00:29:49,705
+Tienes suerte. Es lo que mi madre
+dice con frecuencia.
+
+442
+00:29:49,774 --> 00:29:53,801
+No está bien. No informarme es tonto.
+
+443
+00:29:54,913 --> 00:29:56,938
+Si no serás franco conmigo,
+¿qué sentido tiene?
+
+444
+00:29:57,015 --> 00:29:58,482
+¿Cómo se supone que nos ayudaremos?
+
+445
+00:29:58,550 --> 00:30:02,680
+Bueno, no exageres. En mi familia
+jamás compartimos nada importante.
+
+446
+00:30:03,955 --> 00:30:05,115
+Te tengo.
+
+447
+00:30:18,870 --> 00:30:21,600
+LABORATOIRE TECHGEN
+MONTREAL, CANADÁ
+
+448
+00:30:24,976 --> 00:30:26,000
+Sígueme.
+
+449
+00:30:44,596 --> 00:30:45,858
+Por aquí.
+
+450
+00:31:19,097 --> 00:31:20,428
+Allí está.
+
+451
+00:31:23,868 --> 00:31:25,392
+¡Maldición! Abajo.
+
+452
+00:31:33,445 --> 00:31:35,709
+Movimiento en ala este.
+
+453
+00:31:43,955 --> 00:31:46,185
+¡Vamos! ¡Vamos! ¡Vamos!
+
+454
+00:31:50,562 --> 00:31:51,756
+¡Sube! ¡Sube! De prisa.
+
+455
+00:31:59,270 --> 00:32:02,239
+Sospechosos huyen en auto,
+imposible alcanzarlos.
+
+456
+00:32:02,307 --> 00:32:03,569
+Repito, imposible alcanzarlos.
+
+457
+00:32:05,443 --> 00:32:06,671
+¿Hay algo?
+
+458
+00:32:08,580 --> 00:32:11,811
+Enfermedad de Crohn, Linfoma de Hodgkin,
+células falciformes.
+
+459
+00:32:12,417 --> 00:32:15,318
+Edwin hizo estudios extraoficiales
+de todos por meses.
+
+460
+00:32:15,387 --> 00:32:18,618
+Coincide con la teoría de Ingrid,
+se enfocaba en la nanomedicina.
+
+461
+00:32:18,690 --> 00:32:19,748
+Módulo arriba.
+
+462
+00:32:19,824 --> 00:32:23,123
+Instalaciones en todo el mundo,
+nos llevan 15 años de ventaja.
+
+463
+00:32:23,194 --> 00:32:25,719
+Cariño ¿has olvidado dónde estamos?
+
+464
+00:32:25,797 --> 00:32:27,389
+Aquí es donde la nano tec...
+
+465
+00:32:28,833 --> 00:32:31,768
+Es gracioso cómo dejan de conversar
+cuando entramos a algún lugar.
+
+466
+00:32:31,836 --> 00:32:33,064
+¿Y tú eres?
+
+467
+00:32:33,138 --> 00:32:36,835
+Samantha Cortez.
+El aprendiz más joven en la historia Jensen.
+
+468
+00:32:37,242 --> 00:32:39,267
+El placer es todo mío.
+
+469
+00:32:39,344 --> 00:32:42,609
+¿Sabías que tu padre inventó el
+tratamiento para la degeneración macular?
+
+470
+00:32:43,548 --> 00:32:44,913
+Jamás me dijiste.
+
+471
+00:32:44,983 --> 00:32:46,211
+Ya es viejo.
+
+472
+00:32:46,584 --> 00:32:47,778
+¿Dónde la descubriste?
+
+473
+00:32:47,852 --> 00:32:51,253
+Robando mi auto. La atrapé en el acto.
+
+474
+00:32:51,322 --> 00:32:53,483
+pero cuando le dije que la
+ignición era imposible.
+
+475
+00:32:53,558 --> 00:32:57,119
+en un auto computarizado, me desafió.
+
+476
+00:32:57,195 --> 00:32:58,219
+Y gané.
+
+477
+00:32:58,296 --> 00:33:00,230
+Tienes olfato para descubrir talentos.
+
+478
+00:33:00,298 --> 00:33:02,789
+¿Todo es holográfico por aquí?
+
+479
+00:33:04,069 --> 00:33:08,631
+Parece un primer diseño para módulo
+de movilidad. Como de los 50 o algo así.
+
+480
+00:33:08,707 --> 00:33:10,174
+¡Es de los noventa!
+
+481
+00:33:10,875 --> 00:33:12,968
+- Esta es la red neural.
+- El cerebro.
+
+482
+00:33:13,044 --> 00:33:16,104
+Sí. Puedes comunicarte con el
+nanobot en forma remota por computadora.
+
+483
+00:33:16,181 --> 00:33:17,443
+Éste es el módulo de movilidad.
+
+484
+00:33:17,515 --> 00:33:21,815
+y éste, el dispositivo de entrega
+para hormonas, vacunas, fluidos.
+
+485
+00:33:21,886 --> 00:33:24,218
+¡Debe ser el invento en medicina
+más grande del mundo!
+
+486
+00:33:24,289 --> 00:33:25,415
+O la peor arma.
+
+487
+00:33:25,490 --> 00:33:29,187
+¿Por eso están tan aterrados?
+¿Por qué Edwin se llevó uno de estos?
+
+488
+00:33:29,260 --> 00:33:30,522
+Sí.
+
+489
+00:33:30,595 --> 00:33:32,085
+¿Y qué hará con él?
+
+490
+00:33:32,163 --> 00:33:35,132
+Pues no consiguió fondos, por lo
+que estará buscando inversores.
+
+491
+00:33:35,200 --> 00:33:37,225
+Es decir que lo venderá
+al mejor postor.
+
+492
+00:33:37,302 --> 00:33:40,135
+No nos adelantemos todavía.
+Edwin no puede hacer nada sin un...
+
+493
+00:33:40,205 --> 00:33:41,695
+ensamblador molecular.
+
+494
+00:33:41,773 --> 00:33:44,901
+Tres hombres robaron uno en Montreal,
+hace 90 minutos.
+
+495
+00:33:49,748 --> 00:33:50,772
+DÍA 3.
+
+496
+00:33:50,849 --> 00:33:53,374
+No entiendo por qué no podemos
+ayudar a encontrar a Edwin, Dr. James.
+
+497
+00:33:53,451 --> 00:33:56,249
+Podríamos aportar una perspectiva
+joven a la búsqueda.
+
+498
+00:33:56,321 --> 00:33:59,779
+Sí. Joven sería la palabra
+operativa en tu caso. ¿No?
+
+499
+00:34:00,825 --> 00:34:04,192
+Escuchen, sé que quieren ayudar
+pero éste es un asunto muy grave.
+
+500
+00:34:05,263 --> 00:34:09,324
+Brody, lo último que necesitan tus
+padres ahora es preocuparse por ti.
+
+501
+00:34:09,400 --> 00:34:11,231
+Debo volver a la central.
+
+502
+00:34:11,302 --> 00:34:15,295
+Sam, por qué no llevas a Brody al
+laboratorio... muéstrale lo que hacemos.
+
+503
+00:34:18,243 --> 00:34:19,733
+Vamos, viejo.
+
+504
+00:34:20,678 --> 00:34:21,702
+Soy Brody.
+
+505
+00:34:26,384 --> 00:34:30,184
+Aquí vamos. Imágenes
+de la irrupción en el laboratorio.
+
+506
+00:34:33,258 --> 00:34:34,452
+Observen esa imagen.
+
+507
+00:34:37,295 --> 00:34:39,126
+¿Es Edwin, verdad?
+
+508
+00:34:40,131 --> 00:34:43,225
+- ¿Se trata de esto?
+- Sí. El infame ensamblador molecular.
+
+509
+00:34:44,736 --> 00:34:46,931
+Una pena que la imagen sea lo más
+cerca que podremos estar.
+
+510
+00:34:47,005 --> 00:34:48,666
+de uno de ellos.
+
+511
+00:34:51,009 --> 00:34:55,207
+¿Por qué el Dr. James lleva
+el rótulo de ciencia y seguridad?
+
+512
+00:34:56,114 --> 00:34:58,639
+Está acreditado. Trabajó para la
+NASA durante 10 años.
+
+513
+00:34:58,716 --> 00:35:01,276
+antes de que Ingrid lo invitara
+al proyecto Jensen.
+
+514
+00:35:03,888 --> 00:35:06,288
+- ¿Qué es eso?
+- Sólo un experimento.
+
+515
+00:35:06,357 --> 00:35:08,348
+Estoy intentando aislar
+frecuencias sonoras.
+
+516
+00:35:08,626 --> 00:35:09,991
+Interesante.
+
+517
+00:35:11,062 --> 00:35:13,360
+Esto es lo que el Dr. James
+quería que te mostrara:
+
+518
+00:35:14,232 --> 00:35:15,859
+Un rastreador de voces.
+
+519
+00:35:15,934 --> 00:35:16,992
+¿Cómo un micrófono?
+
+520
+00:35:17,068 --> 00:35:20,629
+Pero armoniza esquemas de voz con
+señales digitales vía satélite.
+
+521
+00:35:20,705 --> 00:35:22,195
+- ¡Sorprendente!
+- Primero debes.
+
+522
+00:35:22,273 --> 00:35:24,571
+saber de dónde surge una señal
+o hacia dónde va.
+
+523
+00:35:24,642 --> 00:35:27,202
+Luego utilizas la señal satelital
+hasta encontrar concordancia.
+
+524
+00:35:27,278 --> 00:35:30,270
+En teoría, si rastreamos la onda
+sonora de una voz...
+
+525
+00:35:30,348 --> 00:35:31,508
+podríamos localizar al individuo.
+
+526
+00:35:31,583 --> 00:35:34,074
+La mejor parte es que mientras haya
+un teléfono en el mismo lugar.
+
+527
+00:35:34,152 --> 00:35:35,414
+donde está la persona...
+
+528
+00:35:35,486 --> 00:35:37,283
+podemos escuchar lo que diga.
+
+529
+00:35:37,355 --> 00:35:38,652
+¿Aunque el teléfono esté apagado?
+
+530
+00:35:38,723 --> 00:35:41,419
+Apagado. Encendido. En un bolsillo.
+No importa.
+
+531
+00:35:41,492 --> 00:35:45,690
+Observa. Cargaré las voces de tus
+padres de unos archivos viejos.
+
+532
+00:35:45,763 --> 00:35:50,029
+Y el software buscará
+encontrar un equivalente...
+
+533
+00:35:50,101 --> 00:35:51,625
+e identificar el lugar de origen.
+
+534
+00:35:52,437 --> 00:35:53,995
+Eso es genial.
+
+535
+00:35:54,205 --> 00:35:57,697
+Intervendré la alimentación de seguridad
+en aeropuertos y fronteras más importantes.
+
+536
+00:35:57,775 --> 00:36:00,243
+- Perfecto.
+- Podemos usar el bio-pasaporte.
+
+537
+00:36:00,311 --> 00:36:02,302
+- ¿Para rastrearlo?
+- Sí.
+
+538
+00:36:02,380 --> 00:36:04,780
+Todo. Autos, personas,
+maquinas dejan una.
+
+539
+00:36:04,849 --> 00:36:07,079
+imprenta química.
+- Así es. Como un rastro.
+
+540
+00:36:07,151 --> 00:36:10,018
+Puedo adaptar el bio-pasaporte
+que desarrollé en Nicaragua.
+
+541
+00:36:10,088 --> 00:36:11,680
+para localizar el ensamblador molecular.
+
+542
+00:36:11,756 --> 00:36:13,986
+Y si usas el sistema de tránsito
+masivo en Montreal...
+
+543
+00:36:14,058 --> 00:36:16,925
+- ¡Exactamente!
+- ¿Podrían traducírmelo, por favor?
+
+544
+00:36:16,995 --> 00:36:20,453
+Luego del 11-S, cada ciudad
+importante cuenta con detectores químicos.
+
+545
+00:36:20,531 --> 00:36:22,158
+en los sistemas de transporte público.
+
+546
+00:36:22,233 --> 00:36:25,862
+para rastrear materiales peligrosos...
+como el ántrax.
+
+547
+00:36:25,937 --> 00:36:28,030
+Y si lo combinas con un bio-pasaporte.
+
+548
+00:36:28,106 --> 00:36:31,633
+puedes seguir el rastro químico
+del ensamblador que robó Edwin.
+
+549
+00:36:31,709 --> 00:36:33,074
+En resumen ¿qué estoy buscando?
+
+550
+00:36:33,144 --> 00:36:34,133
+Silicona.
+
+551
+00:36:34,479 --> 00:36:35,776
+Necesito algo más
+para hacer el coctel.
+
+552
+00:36:35,847 --> 00:36:39,305
+Solventes. El ensamblador molecular
+usa solventes para introducir el oro en...
+
+553
+00:36:40,084 --> 00:36:41,847
+- Dijiste oro.
+- El oro se usa de conductor.
+
+554
+00:36:41,920 --> 00:36:45,879
+Es lo que necesito. Entonces buscamos
+un rastro que mezcle oro y silicona.
+
+555
+00:36:46,591 --> 00:36:49,059
+Acabo de recordar esta broma
+en California que...
+
+556
+00:36:52,931 --> 00:36:55,229
+¡Edwin! ¿Cómo fue tu trabajo de campo?
+
+557
+00:36:56,301 --> 00:36:57,325
+Aterrador.
+
+558
+00:36:57,402 --> 00:36:59,199
+Pero, exitoso.
+
+559
+00:36:59,270 --> 00:37:00,760
+Bien, no lo sabremos hasta realizar.
+
+560
+00:37:00,838 --> 00:37:03,136
+algunas pruebas al ensamblador molecular.
+
+561
+00:37:03,775 --> 00:37:05,402
+Veremos si se dañó.
+
+562
+00:37:05,476 --> 00:37:09,378
+mientras me perseguían por la calle
+como a un ladrón vulgar.
+
+563
+00:37:15,019 --> 00:37:18,045
+<i>En cuanto lo ubiquemos
+necesitaremos un equipo listo para partir.</i>
+
+564
+00:37:18,122 --> 00:37:19,953
+Parece que la computadora encontró
+a mis padres.
+
+565
+00:37:20,024 --> 00:37:21,252
+Intentan encontrar a Edwin.
+
+566
+00:37:21,326 --> 00:37:25,387
+Si la computadora encontró a mis padres,
+¿también puede encontrar a Edwin?
+
+567
+00:37:26,931 --> 00:37:28,159
+Lo dudo.
+
+568
+00:37:30,501 --> 00:37:32,765
+¿Y si conectamos mi dispositivo al tuyo?
+
+569
+00:37:33,738 --> 00:37:36,434
+Vale la pena.
+Busquemos una muestra de voz.
+
+570
+00:37:38,443 --> 00:37:40,411
+No... pensándolo mejor...
+
+571
+00:37:41,079 --> 00:37:42,103
+¿Qué?
+
+572
+00:37:42,180 --> 00:37:44,444
+- Debemos dejarlo así.
+- ¿A qué te refieres con eso?
+
+573
+00:37:44,515 --> 00:37:46,415
+Mis padres se enfadarán si
+descubren lo que hago.
+
+574
+00:37:46,484 --> 00:37:47,542
+Pero intentamos ayudar.
+
+575
+00:37:47,618 --> 00:37:49,245
+Lo sé, pero nos dijeron
+que no lo hagamos.
+
+576
+00:37:49,320 --> 00:37:50,582
+¿Y qué?
+
+577
+00:37:53,591 --> 00:37:56,719
+Ya me atraparon faltando a clases
+como por cuarta vez.
+
+578
+00:37:56,794 --> 00:38:00,127
+- ¿No te gusta la escuela?
+- No demasiado, no.
+
+579
+00:38:02,100 --> 00:38:03,362
+¿Muy fácil?
+
+580
+00:38:06,204 --> 00:38:10,698
+Tenía el mismo problema. Pero en
+vez de esconderme me hacía echar.
+
+581
+00:38:12,110 --> 00:38:14,101
+¿Lo hablaste con ellos?
+
+582
+00:38:15,213 --> 00:38:16,271
+¿Qué?
+
+583
+00:38:16,914 --> 00:38:18,142
+No lo entenderían.
+
+584
+00:38:18,216 --> 00:38:20,684
+¿Cómo entenderte
+si no se lo explicas?
+
+585
+00:38:29,594 --> 00:38:30,993
+Manzanilla.
+
+586
+00:38:31,062 --> 00:38:33,292
+- Gracias.
+- Calma los nervios.
+
+587
+00:38:33,831 --> 00:38:35,230
+Sigo pensando que no habría pasado esto.
+
+588
+00:38:35,299 --> 00:38:36,891
+de haberte escuchado en primer lugar.
+
+589
+00:38:37,301 --> 00:38:39,428
+Nadie habría pensado
+que Edwin iría tan lejos.
+
+590
+00:38:39,504 --> 00:38:41,199
+Aquí hay algo.
+
+591
+00:38:41,272 --> 00:38:45,504
+Un avión privado salió del aeropuerto
+de Montreal, anoche a las 9 y media.
+
+592
+00:38:46,077 --> 00:38:48,910
+A esa altitud, el rastro químico
+ya habrá desaparecido.
+
+593
+00:38:48,980 --> 00:38:52,780
+Si averiguamos dónde aterrizó,
+entonces podría guiarnos a Edwin.
+
+594
+00:39:05,096 --> 00:39:07,087
+Recibí un mensaje de mi amigo
+en Seguridad Nacional...
+
+595
+00:39:07,165 --> 00:39:10,191
+dice que el avión de Montreal
+aterrizó en Nueva Jersey.
+
+596
+00:39:10,268 --> 00:39:14,068
+Entiendo. Aislaré Nueva York,
+Jersey, Pennsylvania y Delaware.
+
+597
+00:39:14,138 --> 00:39:15,833
+Creo que tengo algo.
+
+598
+00:39:17,075 --> 00:39:20,044
+Rastreando elementos de oro y silicona.
+Es nuestro coctel.
+
+599
+00:39:20,111 --> 00:39:23,080
+Bien. Rastreándolos hasta...
+
+600
+00:39:26,517 --> 00:39:29,008
+Aísla eso, justo allí. ¿Lo ves?
+
+601
+00:39:29,087 --> 00:39:30,645
+Es... Nueva York.
+
+602
+00:39:30,988 --> 00:39:32,114
+El Bronx, en realidad.
+
+603
+00:39:32,190 --> 00:39:33,179
+¿Dónde en el Bronx?
+
+604
+00:39:36,694 --> 00:39:38,423
+Van Cortlandt Park.
+
+605
+00:39:46,204 --> 00:39:49,037
+De acuerdo. Conéctalo al receptor
+del Dr. James.
+
+606
+00:39:51,642 --> 00:39:52,836
+Listo.
+
+607
+00:39:53,311 --> 00:39:56,144
+Y... debería ser todo.
+
+608
+00:39:56,414 --> 00:39:59,440
+<i>Todos los jefes de departamento
+dirigirse a la Central de inmediato.</i>
+
+609
+00:39:59,517 --> 00:40:01,951
+- ¿Qué pasa?
+- Hay una forma de saberlo.
+
+610
+00:40:10,461 --> 00:40:12,520
+¿Crees que sea buena idea?
+¿Reunir a jefes de departamento?
+
+611
+00:40:12,597 --> 00:40:13,621
+Es el protocolo Jensen.
+
+612
+00:40:13,698 --> 00:40:15,222
+Medio departamento se amotinó.
+
+613
+00:40:15,299 --> 00:40:17,233
+No sabes quién sigue
+en contacto con Edwin.
+
+614
+00:40:17,301 --> 00:40:19,428
+Tienes razón. Lo acotaremos.
+
+615
+00:40:19,504 --> 00:40:21,369
+Casi toda la seguridad es electrónica.
+
+616
+00:40:21,439 --> 00:40:23,907
+Hasta ahora, no necesitamos
+a muchos especialistas de campo.
+
+617
+00:40:23,975 --> 00:40:25,567
+Contados con los dedos de la mano.
+
+618
+00:40:25,643 --> 00:40:26,940
+Y bien entrenados.
+
+619
+00:40:27,011 --> 00:40:30,469
+Excepto en nano tecnología. Tendré
+que acompañarlos para asegurar los datos...
+
+620
+00:40:30,548 --> 00:40:33,142
+en caso de que Edwin decida:
+Si yo no puedo, nadie podrá.
+
+621
+00:40:33,217 --> 00:40:35,014
+Y si vas tú, voy yo.
+
+622
+00:40:35,086 --> 00:40:37,281
+Me preocupa cómo reaccionará Edwin.
+
+623
+00:40:37,355 --> 00:40:39,220
+cuando sepa que los involucré a
+ustedes dos en esto.
+
+624
+00:40:39,290 --> 00:40:41,485
+¿Te preocupa lo que él me hará
+o lo que yo le haré?
+
+625
+00:40:42,293 --> 00:40:43,351
+Buen punto.
+
+626
+00:40:44,428 --> 00:40:45,952
+Me pregunto si debimos decirle a Brody.
+
+627
+00:40:46,030 --> 00:40:47,554
+No. Mientras menos sepa mejor.
+
+628
+00:40:47,632 --> 00:40:49,657
+Creo que tienes razón.
+De saber lo que hacíamos se habría...
+
+629
+00:40:49,734 --> 00:40:51,395
+¿Aterrado más que yo?
+
+630
+00:40:51,469 --> 00:40:54,199
+Oye, no debemos hacerlo, lo sabes.
+
+631
+00:40:54,605 --> 00:40:56,095
+Creo que sí.
+
+632
+00:40:56,674 --> 00:41:00,041
+Me hubiese gustado saber
+que eras un héroe de acción.
+
+633
+00:41:01,078 --> 00:41:02,602
+Jamás preguntaste.
+
+634
+00:41:05,349 --> 00:41:10,116
+¡Mamá! ¡Papá! ¿Adónde van?
+¿Quiénes son ellos?
+
+635
+00:41:10,188 --> 00:41:13,123
+¿Encontraron a Edwin?
+¿Irán a atraparlo?
+
+636
+00:41:13,324 --> 00:41:14,416
+Sí.
+
+637
+00:41:14,492 --> 00:41:16,824
+¿Y harán esa locura sin siquiera decírmelo?
+
+638
+00:41:16,894 --> 00:41:18,418
+Cariño, no quisimos preocuparte.
+
+639
+00:41:18,496 --> 00:41:20,020
+Sí, y funcionó, ¿verdad?
+
+640
+00:41:20,097 --> 00:41:22,497
+La mejor forma de evitar que sude
+es llevarnos con ustedes.
+
+641
+00:41:22,567 --> 00:41:24,194
+No es un viaje de placer, niños.
+
+642
+00:41:24,268 --> 00:41:26,498
+- ¡Podemos ayudar!
+- Pueden ayudar quedándose aquí.
+
+643
+00:41:26,571 --> 00:41:28,664
+Amigos, debemos irnos.
+
+644
+00:41:29,574 --> 00:41:31,599
+Adiós. Te amo.
+
+645
+00:41:32,343 --> 00:41:34,811
+Volveremos antes de darte cuenta.
+Lo prometo.
+
+646
+00:41:58,236 --> 00:42:00,704
+Dígame que sonríe
+por una buena razón.
+
+647
+00:42:00,771 --> 00:42:02,739
+El ensamblador funciona.
+
+648
+00:42:02,807 --> 00:42:05,640
+Aún debemos aprobar los protocolos,
+técnicas de esterilización...
+
+649
+00:42:05,710 --> 00:42:09,202
+pero le aseguro que estamos a punto...
+de hacer historia.
+
+650
+00:42:16,654 --> 00:42:20,249
+<i>- ¿Tiene especificaciones?
+- Parece una torre de agua abandonada.</i>
+
+651
+00:42:21,125 --> 00:42:24,458
+<i>- Hay una entrada por el lado sur.
+- ¿Sistema de seguridad?</i>
+
+652
+00:42:26,230 --> 00:42:28,858
+<i>- No, no veo nada.
+- Es extraño.</i>
+
+653
+00:42:29,033 --> 00:42:31,524
+Sí. Lo mantendré informado.
+
+654
+00:42:35,973 --> 00:42:37,600
+<i>¿Qué?</i>
+
+655
+00:42:37,675 --> 00:42:41,338
+<i>Pareces tan... no lo sé... en esto.</i>
+
+656
+00:42:43,080 --> 00:42:45,480
+<i>Mejor que sacar gusanos de la nariz.</i>
+
+657
+00:42:45,683 --> 00:42:46,877
+<i>¿Qué?</i>
+
+658
+00:42:47,952 --> 00:42:49,249
+<i>Nada.</i>
+
+659
+00:42:53,591 --> 00:42:56,424
+<i>Me siento mal por dejar a Brody
+fuera de esto.</i>
+
+660
+00:42:56,494 --> 00:42:57,825
+<i>Yo también.</i>
+
+661
+00:42:57,895 --> 00:43:01,695
+<i>Debimos hablarle antes de que...
+tú sabes...</i>
+
+662
+00:43:01,766 --> 00:43:05,896
+<i>Sí. Pues no hablar
+se ha convertido en un hábito.</i>
+
+663
+00:43:10,775 --> 00:43:12,106
+¡No puedo creerlo!
+
+664
+00:43:12,176 --> 00:43:14,110
+Se vuelven locos cuando
+no les digo mis movimientos.
+
+665
+00:43:14,178 --> 00:43:16,942
+¡y ellos hacen algo así!
+
+666
+00:43:17,014 --> 00:43:19,278
+Sí, es bastante complicado.
+
+667
+00:43:19,350 --> 00:43:22,911
+- Digo, ¿qué estoy haciendo aquí?
+- Quejándote. ¡Basta!
+
+668
+00:43:22,987 --> 00:43:25,217
+Sí, pero ¿tú qué sabes?
+
+669
+00:43:27,658 --> 00:43:31,025
+Sé que si les pasa algo,
+tu vida cambiará al instante.
+
+670
+00:43:31,095 --> 00:43:33,086
+Escucha, no tienes idea de cómo es.
+
+671
+00:43:35,466 --> 00:43:36,933
+¿Hablas por experiencia?
+
+672
+00:43:40,338 --> 00:43:43,205
+Jamás conocí a mi padre y mi madre
+murió cuando tenía cinco años.
+
+673
+00:43:48,746 --> 00:43:49,872
+¿Quién te crió?
+
+674
+00:43:51,015 --> 00:43:52,004
+Los lobos.
+
+675
+00:43:53,250 --> 00:43:56,014
+- Vamos...
+- Familias y hogares sustitutos...
+
+676
+00:43:58,222 --> 00:44:00,952
+no fue tan malo en realidad.
+Me enseñó a pensar y actuar por mí.
+
+677
+00:44:02,793 --> 00:44:05,921
+Entonces, puedes quejarte y llorar
+o salir del cascarón y hacer que algo pase.
+
+678
+00:44:06,330 --> 00:44:08,230
+- ¿Cómo?
+- Como averiguar dónde están tus padres.
+
+679
+00:44:08,299 --> 00:44:09,960
+rastreando el helicóptero.
+
+680
+00:44:12,703 --> 00:44:13,727
+¿Qué es eso?
+
+681
+00:44:13,804 --> 00:44:15,635
+Dejamos activado
+el programa del Dr. James.
+
+682
+00:44:15,706 --> 00:44:17,901
+Estuvo buscando coincidencia de voz
+con muestras de Edwin y...
+
+683
+00:44:17,975 --> 00:44:19,033
+<i>En base a la velocidad de ensamble...</i>
+
+684
+00:44:19,110 --> 00:44:21,908
+<i>deberíamos tener la cadena completa en...
+48 horas.</i>
+
+685
+00:44:21,979 --> 00:44:23,276
+- Es Edwin.
+- ¿Estás segura?
+
+686
+00:44:23,614 --> 00:44:25,275
+<i>- Escucha.
+- ¿Qué se supone que estoy buscando?</i>
+
+687
+00:44:25,349 --> 00:44:26,407
+<i>Nanobots.</i>
+
+688
+00:44:26,784 --> 00:44:29,912
+No se les puede ver sin
+microscopio, pero le aseguro...
+
+689
+00:44:29,987 --> 00:44:33,787
+esa máquina sigue produciendo nanobots
+a medida que hablamos.
+
+690
+00:44:33,858 --> 00:44:36,418
+- Demuéstrelo.
+- Demos... ¿demostrarle qué?
+
+691
+00:44:36,527 --> 00:44:39,587
+Dijo que estamos produciendo
+nanobots. Pruébelo.
+
+692
+00:44:40,931 --> 00:44:42,626
+Veamos si funciona.
+
+693
+00:44:42,700 --> 00:44:45,635
+Y... ¿cómo propone que lo haga?
+
+694
+00:44:52,009 --> 00:44:53,408
+Pasando a la fase humana.
+
+695
+00:44:54,445 --> 00:44:56,436
+- ¿Bromea?
+- No lo creo.
+
+696
+00:44:56,514 --> 00:44:59,210
+No haré algo así.
+
+697
+00:45:00,351 --> 00:45:03,582
+No creo que mis inversores
+estén de acuerdo...
+
+698
+00:45:03,654 --> 00:45:07,021
+pero si quiere intentar convencerlos,
+adelante.
+
+699
+00:45:09,226 --> 00:45:10,284
+¿Escuchaste eso?
+
+700
+00:45:10,361 --> 00:45:12,226
+¿Puedes rastrear la señal
+del celular y localizarlo?
+
+701
+00:45:12,296 --> 00:45:13,957
+- Puedo intentarlo.
+- Hazlo.
+
+702
+00:45:15,566 --> 00:45:18,034
+VAN CORTLANDT PARK
+BRONX, NUEVA YORK
+
+703
+00:45:27,545 --> 00:45:29,137
+Localicé a tus padres.
+
+704
+00:45:29,213 --> 00:45:31,408
+Están al norte de la Ciudad de Nueva York.
+Van Cortlandt Park.
+
+705
+00:45:31,949 --> 00:45:33,780
+- Esto no tiene sentido.
+- ¿Qué?
+
+706
+00:45:33,851 --> 00:45:36,445
+La señal de Edwin viene del extremo
+sur de la isla Manhattan...
+
+707
+00:45:36,520 --> 00:45:38,886
+a 15 millas de
+donde están mis padres.
+
+708
+00:45:38,956 --> 00:45:40,947
+- Verifícalo.
+- Lo hice.
+
+709
+00:45:41,959 --> 00:45:43,358
+¿Qué es eso?
+
+710
+00:45:44,161 --> 00:45:45,526
+¡Estamos bloqueados!
+
+711
+00:45:46,263 --> 00:45:47,958
+¿Significa que perdimos
+a Matt y a Claire?
+
+712
+00:45:48,032 --> 00:45:50,557
+- Por completo. No recibimos señal.
+- ¿Dónde están?
+
+713
+00:45:50,634 --> 00:45:52,329
+¡Acababan de llegar
+cuando los perdimos!
+
+714
+00:45:55,039 --> 00:45:56,438
+Están por sí solos, Ingrid.
+
+715
+00:46:02,179 --> 00:46:05,945
+A todos, su atención por favor.
+Ha habido una fuga en seguridad.
+
+716
+00:46:06,750 --> 00:46:08,877
+Nuestra red ha sido comprometida.
+
+717
+00:46:08,953 --> 00:46:10,477
+Estamos en modo auto-protección...
+
+718
+00:46:10,554 --> 00:46:14,650
+significa que no hay comunicaciones
+entrantes ni salientes.
+
+719
+00:46:15,526 --> 00:46:19,087
+Esto es grave.
+Si nuestro sistema fue bloqueado...
+
+720
+00:46:19,163 --> 00:46:20,323
+<i>perderemos todo.</i>
+
+721
+00:46:20,397 --> 00:46:22,365
+Creo que no están bromeando.
+
+722
+00:46:22,433 --> 00:46:25,800
+Mucho de nuestro "salvar al mundo"
+está a un paso del "maten a todos".
+
+723
+00:46:25,870 --> 00:46:28,600
+Entonces sí, la situación es muy grave.
+
+724
+00:46:29,273 --> 00:46:31,798
+¡Ingrid! Habla Sam, ¿puedes oírme?
+
+725
+00:46:33,277 --> 00:46:36,178
+No puedo acceder. Alguien bloqueó
+las comunicaciones en la Central.
+
+726
+00:46:36,247 --> 00:46:38,044
+Y debemos llegar a Ingrid.
+
+727
+00:46:38,115 --> 00:46:40,208
+¿Las ventilaciones?
+¿Podemos trepar por ellas?
+
+728
+00:46:40,284 --> 00:46:42,718
+<i>No es una escena
+de "Misión Imposible", viejo.</i>
+
+729
+00:46:42,786 --> 00:46:45,380
+Trae una linterna y ayúdame.
+
+730
+00:46:56,066 --> 00:46:57,260
+¿Cómo conoces esto?
+
+731
+00:46:57,334 --> 00:46:59,894
+Esparcí una bolsa de cereales
+hace unas semanas.
+
+732
+00:46:59,970 --> 00:47:02,131
+Algunos rodaron bajo la máquina.
+
+733
+00:47:02,206 --> 00:47:05,300
+- ¿Adónde va?
+- Verás.
+
+734
+00:47:05,743 --> 00:47:07,335
+Háblame, Edwin.
+
+735
+00:47:07,411 --> 00:47:12,144
+Bien, ahora regulo la presión
+sanguínea del paciente y niveles de azúcar.
+
+736
+00:47:12,750 --> 00:47:14,615
+Parece que su hombre tiene diabetes.
+
+737
+00:47:14,685 --> 00:47:17,245
+Con algunos toques ajustaré
+su nivel de azúcar en la sangre.
+
+738
+00:47:17,755 --> 00:47:20,053
+En caso de emergencia,
+puedo elevar su insulina.
+
+739
+00:47:20,124 --> 00:47:22,422
+para evitar un coma diabético.
+
+740
+00:47:22,493 --> 00:47:26,623
+Interesante. Aplíquele seratonina.
+Baje el ritmo cardíaco.
+
+741
+00:47:27,798 --> 00:47:30,232
+No creo que sea buena idea.
+
+742
+00:47:40,044 --> 00:47:42,274
+Vio que funciona. ¿Está satisfecho?
+
+743
+00:47:42,346 --> 00:47:43,335
+Todavía no.
+
+744
+00:47:48,352 --> 00:47:50,616
+Cuando volemos la puerta,
+despejaremos el área.
+
+745
+00:47:50,688 --> 00:47:52,986
+Luego ingresan ustedes
+y se ocupan de la tecnología.
+
+746
+00:47:53,057 --> 00:47:55,992
+Ahora bien, si hay problemas,
+quiero que vuelvan al helicóptero.
+
+747
+00:48:02,533 --> 00:48:04,160
+Vamos, viejo.
+
+748
+00:48:09,039 --> 00:48:10,529
+Hagámoslo.
+
+749
+00:48:19,116 --> 00:48:21,277
+Vamos. Vamos. Vamos.
+
+750
+00:48:26,890 --> 00:48:28,118
+¡Despejado!
+
+751
+00:48:28,192 --> 00:48:29,181
+Ingresen.
+
+752
+00:48:37,134 --> 00:48:39,830
+No entiendo por qué la pista
+química guió a mis padres hacia un lado...
+
+753
+00:48:39,903 --> 00:48:42,633
+pero la voz indica que Edwin
+está en otro diferente.
+
+754
+00:48:42,706 --> 00:48:45,174
+El punto es que sabemos
+dónde está Edwin y ellos no.
+
+755
+00:48:50,247 --> 00:48:52,545
+Aplíquele adrenalina.
+
+756
+00:48:54,785 --> 00:48:55,979
+Más.
+
+757
+00:48:56,453 --> 00:48:57,477
+¡No!
+
+758
+00:49:01,091 --> 00:49:02,115
+¡Basta!
+
+759
+00:49:05,162 --> 00:49:07,027
+¡Su corazón no resistirá más!
+
+760
+00:49:11,268 --> 00:49:12,496
+¡Ya basta!
+
+761
+00:49:13,671 --> 00:49:16,504
+¡Le provocará un paro cardíaco!
+
+762
+00:49:25,949 --> 00:49:30,079
+Jamás vuelva a decirme "no". Socio.
+
+763
+00:49:40,764 --> 00:49:42,698
+Esto debería sacarnos del edificio.
+
+764
+00:49:42,766 --> 00:49:44,427
+Un minuto, pensé que intentábamos
+encontrar a Ingrid.
+
+765
+00:49:44,501 --> 00:49:45,559
+¿Por qué saldremos de aquí?
+
+766
+00:49:45,636 --> 00:49:47,797
+No la encontraremos
+porque están encerrados.
+
+767
+00:49:47,871 --> 00:49:50,567
+Debemos pasar al Plan B. Vamos.
+
+768
+00:49:53,677 --> 00:49:54,769
+El servidor está seguro.
+
+769
+00:49:55,679 --> 00:49:58,944
+Vuelve a activar todos los sistemas
+para identificar a Claire y Matt.
+
+770
+00:50:00,117 --> 00:50:01,345
+¿Cuál es el Plan B?
+
+771
+00:50:01,418 --> 00:50:04,114
+No sabemos por cuánto tiempo
+seguirá Edwin en ese lugar.
+
+772
+00:50:04,188 --> 00:50:05,917
+Si no salimos, lo perderemos.
+
+773
+00:50:06,957 --> 00:50:08,424
+El Plan B es buscar al hombre.
+
+774
+00:50:08,492 --> 00:50:12,553
+que probó los nanobots
+en un sujeto humano ¿nosotros solos?
+
+775
+00:50:12,629 --> 00:50:14,756
+No debes venir si no quieres.
+
+776
+00:50:15,199 --> 00:50:16,461
+Pero...
+
+777
+00:50:18,368 --> 00:50:19,460
+¿Qué es eso?
+
+778
+00:50:19,870 --> 00:50:22,566
+Cinco propulsores y un fuselaje.
+¿Qué crees que sea?
+
+779
+00:50:23,574 --> 00:50:25,838
+- Un avión.
+- ¡Sabía que eras listo!
+
+780
+00:50:26,210 --> 00:50:27,734
+Ayúdame a empujar.
+
+781
+00:50:28,212 --> 00:50:29,236
+Escucha...
+
+782
+00:50:31,048 --> 00:50:33,039
+¿sabes cómo volar un avión?
+
+783
+00:50:33,117 --> 00:50:35,142
+Sí, algo así.
+
+784
+00:50:35,219 --> 00:50:37,278
+¿Algo así? No. No es buena idea.
+
+785
+00:50:37,354 --> 00:50:39,413
+Mi madre definitivamente
+me castigará por esto.
+
+786
+00:50:39,490 --> 00:50:42,425
+Como quieras,
+pero iré contigo o sin ti.
+
+787
+00:50:42,893 --> 00:50:47,728
+Seguir a la chica bonita. Obedecer a mamá.
+Seguir a la chica bonita. Obedecer a mamá.
+
+788
+00:50:47,798 --> 00:50:51,700
+Seguir a la chica bonita. Obedecer a mama.
+Bonita. Mamá.
+
+789
+00:51:02,179 --> 00:51:05,671
+¡Viejo! ¿Vienes o qué?
+Tus padres nos necesitan.
+
+790
+00:51:06,650 --> 00:51:10,108
+- Por supuesto.
+- Muy bien. Sube.
+
+791
+00:51:20,998 --> 00:51:23,694
+<i>Gritar como una niña
+no hará que esta cosa vuele.</i>
+
+792
+00:51:28,438 --> 00:51:29,803
+<i>Capitán a Co-Capitán.</i>
+
+793
+00:51:29,873 --> 00:51:32,433
+<i>El término Capitán implica que
+sabes cómo volar esta cosa.</i>
+
+794
+00:51:32,509 --> 00:51:34,477
+<i>¡Relájate! Es como "Nitromaníaco".</i>
+
+795
+00:51:34,545 --> 00:51:36,376
+<i>¡"Nitromaníaco" es un juego!</i>
+
+796
+00:51:36,446 --> 00:51:38,710
+<i>Esto es un avión...
+y cuando mi madre vea que lo robamos...</i>
+
+797
+00:51:38,782 --> 00:51:40,147
+<i>No lo robamos.</i>
+
+798
+00:51:40,217 --> 00:51:43,914
+<i>Es propiedad de Jensen. Soy empleada
+de Jensen y ésta es una Misión Jensen.</i>
+
+799
+00:51:44,488 --> 00:51:45,955
+<i>Sí, claro, te creerá.</i>
+
+800
+00:51:46,423 --> 00:51:47,481
+<i>Estoy frito.</i>
+
+801
+00:51:47,558 --> 00:51:50,652
+<i>No si devolvemos el ensamblador
+molecular y salvamos al mundo.</i>
+
+802
+00:51:50,727 --> 00:51:52,820
+<i>Confía en mí.
+Te convertirás en héroe en una noche.</i>
+
+803
+00:51:52,896 --> 00:51:54,329
+<i>Suponiendo que sobreviva.</i>
+
+804
+00:51:54,398 --> 00:51:55,387
+<i>¡Sujétate!</i>
+
+805
+00:52:06,276 --> 00:52:10,337
+CENTRAL PARK
+CIUDAD DE NUEVA YORK
+
+806
+00:52:14,651 --> 00:52:16,278
+No tiene sentido.
+
+807
+00:52:16,353 --> 00:52:17,980
+La pista termina al cruzar la puerta.
+
+808
+00:52:19,556 --> 00:52:22,354
+<i>- Ingrid...
+- Matt, me alegra que estén bien.</i>
+
+809
+00:52:22,426 --> 00:52:24,792
+<i>- Estamos bien pero aquí no hay nadie.
+- ¿Llegaron tarde?</i>
+
+810
+00:52:24,862 --> 00:52:27,854
+Como unos diez años. Hay cinco
+centímetros de polvo en el piso.
+
+811
+00:52:27,931 --> 00:52:30,365
+La pista química nos guía directo
+hasta la puerta...
+
+812
+00:52:30,434 --> 00:52:32,925
+pero no hay equipo, no hay gente, ni Edwin.
+
+813
+00:52:33,003 --> 00:52:34,197
+No, es imposible.
+
+814
+00:52:34,271 --> 00:52:36,796
+La pista desde el aeropuerto
+llevaba exacto a ese lugar.
+
+815
+00:52:36,874 --> 00:52:38,569
+Buscamos por todos lados, Ginny.
+Está abandonado.
+
+816
+00:52:39,443 --> 00:52:42,537
+No pierdan más tiempo, entonces.
+Vuelvan lo antes posible.
+
+817
+00:52:42,646 --> 00:52:44,876
+¡Cuando vuelva viajaré en tren!
+
+818
+00:52:44,948 --> 00:52:47,610
+Como quieras. Pero para que sepas,
+tengo un simulador.
+
+819
+00:52:47,684 --> 00:52:49,777
+con unas doscientas horas
+de práctica en ese pájaro.
+
+820
+00:52:50,454 --> 00:52:51,978
+¿Y es lo mejor que lograste?
+
+821
+00:52:52,055 --> 00:52:55,320
+Vamos, viejo. No hagamos
+esperar más a los malos.
+
+822
+00:52:58,829 --> 00:53:02,925
+De acuerdo, parece que terminamos aquí.
+Subamos al helicóptero.
+
+823
+00:53:05,936 --> 00:53:07,665
+¿Qué ocurre?
+
+824
+00:53:07,738 --> 00:53:10,138
+Sé que sonará a locura. Es que...
+
+825
+00:53:10,207 --> 00:53:13,699
+me siento tan desinflada, de algún modo.
+
+826
+00:53:13,777 --> 00:53:15,802
+Estaba lista para enfrentarme a Edwin
+y ahora...
+
+827
+00:53:15,879 --> 00:53:18,905
+La mayoría de la gente jamás enfrenta
+sus fantasmas. Al menos lo intentas.
+
+828
+00:53:22,853 --> 00:53:26,448
+Sé qué clase de influencia tuvo en mí
+las dudas que instigó Edwin.
+
+829
+00:53:28,926 --> 00:53:32,760
+No solo en mi trabajo,
+sino en todos nosotros.
+
+830
+00:53:34,031 --> 00:53:38,365
+Las elecciones que hice,
+por Brody, por ti y por mí.
+
+831
+00:53:41,972 --> 00:53:43,337
+Solo desearía...
+
+832
+00:53:45,309 --> 00:53:49,211
+haber estado tan lista para
+enfrentarlo entonces como lo estoy ahora.
+
+833
+00:53:50,380 --> 00:53:51,870
+Sí, también yo.
+
+834
+00:53:52,582 --> 00:53:53,571
+Vamos.
+
+835
+00:54:01,692 --> 00:54:02,954
+Debe ser por aquí.
+
+836
+00:54:30,821 --> 00:54:32,118
+Es el ensamblador.
+
+837
+00:54:34,124 --> 00:54:36,388
+Hay gente por todos lados.
+
+838
+00:54:37,027 --> 00:54:39,188
+Incluyendo algunos que se comen las uñas.
+
+839
+00:54:39,730 --> 00:54:41,027
+Vamos.
+
+840
+00:54:55,379 --> 00:54:57,006
+Volví a revisar los datos.
+
+841
+00:54:57,080 --> 00:55:01,642
+Había rastros significativos de oro y
+silicona. La pista era correcta.
+
+842
+00:55:01,718 --> 00:55:03,845
+- Eso es extraño.
+- ¿Qué?
+
+843
+00:55:04,187 --> 00:55:06,849
+Los niveles duplican la cantidad
+en el ensamblador.
+
+844
+00:55:21,438 --> 00:55:23,872
+- ¿Qué estás haciendo?
+- Nada.
+
+845
+00:55:25,008 --> 00:55:26,600
+Te comportas como un tonto.
+
+846
+00:55:26,943 --> 00:55:28,433
+- ¿Encontraste a Brody?
+- Sigo buscando.
+
+847
+00:55:28,512 --> 00:55:30,912
+- ¿Revisaste el cobertizo de Sam?
+- Iba camino hacia allí.
+
+848
+00:55:30,981 --> 00:55:33,040
+Estás demasiado ocupado.
+Iremos nosotros.
+
+849
+00:55:43,693 --> 00:55:46,526
+Ingrid, el bloqueo se disparó
+desde adentro.
+
+850
+00:55:46,797 --> 00:55:47,889
+Entonces, no fue Edwin.
+
+851
+00:55:47,964 --> 00:55:49,659
+No a menos que dejara un topo.
+
+852
+00:55:49,733 --> 00:55:52,133
+Quien haya sido
+debemos encontrarlo ahora.
+
+853
+00:55:53,537 --> 00:55:54,834
+¿Y ahora qué?
+
+854
+00:55:54,905 --> 00:55:58,068
+Ahora pensemos cómo sacar
+el ensamblador.
+
+855
+00:56:03,380 --> 00:56:04,574
+¿Viejo?
+
+856
+00:56:07,484 --> 00:56:09,315
+- ¿Hola?
+- Un segundo.
+
+857
+00:56:15,725 --> 00:56:16,987
+Huele...
+
+858
+00:56:18,495 --> 00:56:21,259
+- Huele como a...
+... una forma de despejar el lugar.
+
+859
+00:56:24,234 --> 00:56:25,997
+Dame la botella.
+
+860
+00:56:59,402 --> 00:57:01,097
+¿Qué está pasando?
+
+861
+00:57:01,171 --> 00:57:03,696
+¡Tenemos una fuga contaminante!
+
+862
+00:57:03,773 --> 00:57:05,798
+Despejen el área.
+Debemos despejar el área.
+
+863
+00:57:05,876 --> 00:57:07,343
+¡Vamos!
+
+864
+00:57:07,410 --> 00:57:10,379
+¡Salgan! ¡Salgan! Hey, déjalo. ¡Vamos!
+
+865
+00:57:10,447 --> 00:57:12,881
+Salgan. Despejen. Despejen el área.
+Vamos. Date prisa.
+
+866
+00:57:24,861 --> 00:57:25,850
+Vamos.
+
+867
+00:57:37,874 --> 00:57:39,865
+Parece más una tostadora
+que un arma mortal.
+
+868
+00:57:39,943 --> 00:57:42,434
+La máquina no es mortal,
+sino la gente que la robó.
+
+869
+00:57:42,512 --> 00:57:43,740
+Levántalo y salgamos de aquí.
+
+870
+00:57:46,550 --> 00:57:47,676
+Vamos.
+
+871
+00:57:47,751 --> 00:57:48,877
+¿Lo tienes? Vamos.
+
+872
+00:57:49,152 --> 00:57:52,747
+¿Tienes idea del contratiempo
+que es esto?
+
+873
+00:57:53,790 --> 00:57:55,223
+¡Deténganlos!
+
+874
+00:58:05,468 --> 00:58:06,457
+¡Sam!
+
+875
+00:58:09,239 --> 00:58:10,729
+¡Gracias, viejo!
+
+876
+00:58:12,242 --> 00:58:13,266
+¡Sam!
+
+877
+00:58:13,343 --> 00:58:16,244
+- ¡Sam! ¡Atrápalo!
+- ¡El ensamblador!
+
+878
+00:58:18,848 --> 00:58:20,247
+¡Vete, Sam! ¡Vete!
+
+879
+00:58:26,756 --> 00:58:28,781
+¿Y a quién tenemos aquí?
+
+880
+00:58:31,995 --> 00:58:33,758
+¡Respóndeme!
+
+881
+00:58:33,830 --> 00:58:35,263
+Me llamo Brody.
+
+882
+00:58:37,367 --> 00:58:38,698
+Brody Thompson.
+
+883
+00:58:39,302 --> 00:58:40,894
+Brody Thompson.
+
+884
+00:58:42,672 --> 00:58:45,300
+¡Hola, chicos! ¿Están aquí?
+
+885
+00:58:47,844 --> 00:58:50,677
+¡Wow! Qué buen lugar.
+
+886
+00:58:51,248 --> 00:58:53,512
+Esto es lo que nos faltaba.
+¿Dónde estarán?
+
+887
+00:58:53,583 --> 00:58:55,642
+¿Bromeas? ¿En este lugar?
+
+888
+00:58:55,719 --> 00:58:59,155
+Podrían aparecer con un agregado
+a la teoría de la relatividad de Einstein.
+
+889
+00:58:59,422 --> 00:59:02,220
+Quisiera que alguna vez Brody
+me dijese en qué anda.
+
+890
+00:59:02,292 --> 00:59:05,318
+Bien, le damos el ejemplo, cariño.
+
+891
+00:59:05,395 --> 00:59:08,193
+Lo mantenemos fuera
+y nos devuelve el favor.
+
+892
+00:59:08,932 --> 00:59:11,594
+<i>Matt, Claire, tengo una llamada de Sam.</i>
+
+893
+00:59:12,535 --> 00:59:14,400
+Tenemos el ensamblador pero, yo... yo...
+
+894
+00:59:14,471 --> 00:59:15,733
+<i>¿Qué? ¿Cómo lo hicieron...?</i>
+
+895
+00:59:15,805 --> 00:59:18,831
+El rastreador de voz levantó
+la señal de Edwin...
+
+896
+00:59:18,908 --> 00:59:20,569
+<i>pero fue cuando se produjo el bloqueo, y...</i>
+
+897
+00:59:20,644 --> 00:59:22,635
+Cálmate. ¿Está Brody contigo?
+
+898
+00:59:22,712 --> 00:59:24,077
+¡Es lo que intento decirles!
+
+899
+00:59:24,147 --> 00:59:27,639
+Esos guardias me sujetaron y Brody les
+saltó encima para que pudiera escapar y...
+
+900
+00:59:27,717 --> 00:59:30,515
+¿Sam? ¿Dónde está Brody ahora?
+
+901
+00:59:31,588 --> 00:59:33,112
+No lo sé.
+
+902
+00:59:37,927 --> 00:59:39,952
+DÍA 4.
+
+903
+00:59:45,635 --> 00:59:46,897
+<i>Todos se están encargando de esto, Claire.</i>
+
+904
+00:59:48,071 --> 00:59:49,060
+<i>Lo encontraremos.</i>
+
+905
+00:59:51,441 --> 00:59:54,001
+Jamás debimos volver aquí.
+
+906
+00:59:56,046 --> 00:59:58,241
+¡Jamás debimos irnos!
+
+907
+01:00:01,985 --> 01:00:04,180
+Ese día que Edwin...
+
+908
+01:00:05,955 --> 01:00:08,423
+fue el peor día de mi vida...
+
+909
+01:00:11,528 --> 01:00:13,758
+pero éste es un millón de veces peor.
+
+910
+01:00:16,266 --> 01:00:18,928
+<i>Nos fuimos porque estabas tan
+acostumbrada a ganar...</i>
+
+911
+01:00:19,002 --> 01:00:20,367
+<i>que no pudiste aceptar perder.</i>
+
+912
+01:00:22,405 --> 01:00:24,373
+Luego temías tanto
+que volviese a pasar.
+
+913
+01:00:24,441 --> 01:00:27,569
+que te alejaste del juego por completo
+y nos llevaste a Brody y a mí contigo.
+
+914
+01:00:28,912 --> 01:00:31,312
+<i>Aún así, jamás pudiste hablar del tema.</i>
+
+915
+01:00:33,049 --> 01:00:36,450
+Cuando encontremos a Brody,
+las cosas deberán cambiar.
+
+916
+01:00:37,921 --> 01:00:39,047
+Tienen que cambiar.
+
+917
+01:00:39,522 --> 01:00:42,753
+Lamento interrumpir, pero hay una
+llamada entrante.
+
+918
+01:00:46,796 --> 01:00:48,320
+Ponlo en altavoz.
+
+919
+01:00:49,299 --> 01:00:50,823
+<i>¿Mamá?</i>
+
+920
+01:00:50,900 --> 01:00:52,868
+¡Brody! ¿Estás bien?
+
+921
+01:00:53,036 --> 01:00:56,301
+<i>- ¿Dónde estás?
+- No... No tengo idea.</i>
+
+922
+01:01:04,881 --> 01:01:06,678
+- ¿Estás bien?
+- ¿Te lastimaron?
+
+923
+01:01:06,750 --> 01:01:07,808
+No, estoy bien.
+
+924
+01:01:07,884 --> 01:01:09,442
+Gracias por salvarme, viejo.
+
+925
+01:01:09,519 --> 01:01:12,010
+Te castigaría si no estuviera
+tan feliz de verte.
+
+926
+01:01:12,088 --> 01:01:15,580
+- Mamá, solo quería ayudar.
+- Lo sé, Sam nos dijo.
+
+927
+01:01:15,658 --> 01:01:18,024
+Sin embargo, la próxima vez,
+discutamos los riesgos.
+
+928
+01:01:18,094 --> 01:01:20,153
+antes de tomarlos, ¿de acuerdo?
+
+929
+01:01:21,197 --> 01:01:22,960
+- Nos asustaste, hijo.
+- Lo siento.
+
+930
+01:01:23,032 --> 01:01:24,294
+Me alegra que estés bien.
+
+931
+01:01:24,467 --> 01:01:26,526
+¿Tienes hambre? Debes estar famélico.
+
+932
+01:01:26,603 --> 01:01:28,036
+No. No, estoy bien, gracias.
+
+933
+01:01:28,104 --> 01:01:30,698
+Entonces, ¿qué pasó luego
+de que escapara de allí?
+
+934
+01:01:30,807 --> 01:01:34,607
+Ni idea. Está totalmente borroso.
+Solo recuerdo que me desperté en la calle.
+
+935
+01:01:35,211 --> 01:01:36,200
+Lo logró.
+
+936
+01:01:36,646 --> 01:01:37,635
+Hola, todos.
+
+937
+01:01:38,982 --> 01:01:40,779
+- Está bien.
+- Bienvenido Brody.
+
+938
+01:01:41,651 --> 01:01:45,485
+<i>Alerta de biosistema,
+objeto extraño no identificado.</i>
+
+939
+01:01:45,555 --> 01:01:47,455
+<i>- Sujeto: Brody Thompson.
+- ¿Mamá?</i>
+
+940
+01:01:47,524 --> 01:01:50,425
+- Brody, quieto.
+- Es el nanobot de Edwin.
+
+941
+01:01:50,493 --> 01:01:52,654
+- ¿Dentro mío?
+- Edwin, ¿qué has hecho?
+
+942
+01:01:52,729 --> 01:01:54,253
+Se apoderó de su sistema.
+
+943
+01:01:54,330 --> 01:01:56,594
+¡Debemos sacarlo! ¡Necesitamos
+herramientas de extracción! Debemos...
+
+944
+01:01:56,666 --> 01:01:59,499
+Un minuto. Todo lo que hagamos,
+Edwin lo verá.
+
+945
+01:01:59,569 --> 01:02:03,005
+<i>Llamada entrante,
+transmisión de Edwin Jensen.</i>
+
+946
+01:02:10,013 --> 01:02:11,071
+Contestar.
+
+947
+01:02:11,815 --> 01:02:12,941
+<i>Hola, Claire.</i>
+
+948
+01:02:13,016 --> 01:02:15,951
+Edwin, ¿qué le hiciste a mi hijo?
+
+949
+01:02:16,019 --> 01:02:18,954
+Me sorprende que regresaras.
+Ingrid habrá sido muy persuasiva.
+
+950
+01:02:19,022 --> 01:02:22,014
+No entiendo por qué quieres
+lastimar a un inocente...
+
+951
+01:02:23,560 --> 01:02:26,859
+¡De acuerdo! ¡De acuerdo!
+¡Basta! ¿Por favor?
+
+952
+01:02:27,664 --> 01:02:28,653
+¿Mamá?
+
+953
+01:02:39,242 --> 01:02:43,303
+Bien, te llamaré de nuevo en una hora,
+con un horario y un lugar...
+
+954
+01:02:44,047 --> 01:02:46,413
+<i>y traerás el ensamblador.</i>
+
+955
+01:02:52,555 --> 01:02:53,920
+No te preocupes.
+
+956
+01:02:54,524 --> 01:02:56,424
+Lo devolverá.
+
+957
+01:02:58,094 --> 01:02:59,356
+Está ligado a sus vasos sanguíneos.
+
+958
+01:02:59,429 --> 01:03:01,056
+¡Tiene que haber alguna forma
+de quitárselo!
+
+959
+01:03:01,130 --> 01:03:02,222
+¿Se siente extraño?
+
+960
+01:03:02,298 --> 01:03:04,198
+Honestamente, ni sabía que lo tenía
+hasta ahora.
+
+961
+01:03:04,267 --> 01:03:06,963
+- ¿Dónde está el ensamblador?
+- Perdóname.
+
+962
+01:03:07,036 --> 01:03:09,334
+- ¿Qué?
+- Lo siento...
+
+963
+01:03:09,405 --> 01:03:10,929
+pero éticamente es un caso clásico.
+
+964
+01:03:11,007 --> 01:03:13,532
+de "lo qué es bueno para varios
+versus lo qué es bueno para uno".
+
+965
+01:03:14,043 --> 01:03:15,567
+Creo que debemos
+discutir las consecuencias.
+
+966
+01:03:15,645 --> 01:03:17,374
+¿Estás bromeando?
+
+967
+01:03:17,447 --> 01:03:20,541
+Esto no es teoría, ¡es la vida de mi hijo
+de la que estamos hablando!
+
+968
+01:03:21,751 --> 01:03:23,184
+Claire...
+
+969
+01:03:23,253 --> 01:03:24,652
+Déjame. Por favor.
+
+970
+01:03:35,398 --> 01:03:36,865
+Abrir archivos.
+
+971
+01:03:38,735 --> 01:03:39,861
+Pasar.
+
+972
+01:03:40,870 --> 01:03:41,962
+Pasar.
+
+973
+01:03:44,607 --> 01:03:45,631
+Ejecutar archivo.
+
+974
+01:03:46,442 --> 01:03:50,071
+<i>Presenciamos el fracaso...</i>
+
+975
+01:03:50,346 --> 01:03:51,608
+Pausar archivo.
+
+976
+01:03:58,888 --> 01:04:02,051
+No soy un genio como el resto de ustedes.
+
+977
+01:04:03,726 --> 01:04:05,717
+Mi padre lo entendía.
+
+978
+01:04:07,463 --> 01:04:11,194
+Mi padre deseaba que yo fuera
+el corazón del proyecto Jensen.
+
+979
+01:04:11,267 --> 01:04:17,263
+Dependía de mí para asegurarse
+que hubiera compasión.
+
+980
+01:04:18,908 --> 01:04:21,376
+en el mundo clínico que creamos aquí.
+
+981
+01:04:22,712 --> 01:04:24,304
+Te fallé a ti...
+
+982
+01:04:25,381 --> 01:04:27,110
+le fallé a mi padre.
+
+983
+01:04:29,052 --> 01:04:30,519
+Me fallé a mí misma.
+
+984
+01:04:33,323 --> 01:04:37,851
+Sabía que Edwin se alejaba
+de lo profesional ese día.
+
+985
+01:04:40,763 --> 01:04:44,199
+Te hirió, personal y profundamente.
+
+986
+01:04:44,267 --> 01:04:48,067
+ÉI estaba equivocado contigo.
+
+987
+01:04:50,406 --> 01:04:53,341
+Lo sé y estoy segura que él lo sabía.
+
+988
+01:04:56,546 --> 01:04:58,912
+Lo siento tanto.
+
+989
+01:04:59,782 --> 01:05:01,272
+Por entonces...
+
+990
+01:05:03,486 --> 01:05:04,885
+y por ahora.
+
+991
+01:05:05,688 --> 01:05:08,020
+Quiero que sepas, Claire...
+
+992
+01:05:09,158 --> 01:05:13,686
+cualquier cosa que podamos hacer
+para proteger a Brody, la haremos.
+
+993
+01:05:20,570 --> 01:05:24,370
+Neeva, ¿me haces un favor
+y le llevas esto a Claire por favor?
+
+994
+01:05:24,440 --> 01:05:27,102
+- Un archivo digital.
+- Quiere una copia en papel.
+
+995
+01:05:27,877 --> 01:05:32,439
+Y para serte sincero, realmente no confío
+en nadie más ahora.
+
+996
+01:05:34,584 --> 01:05:36,950
+- Bien, yo me encargo.
+- Gracias.
+
+997
+01:05:37,353 --> 01:05:39,753
+- Cerrar tabla.
+- Lo agradezco.
+
+998
+01:05:49,599 --> 01:05:50,725
+Los algoritmos no coinciden.
+
+999
+01:05:50,800 --> 01:05:52,893
+No puedo quitarlo del corazón
+sin lastimar el tejido.
+
+1000
+01:05:52,969 --> 01:05:54,994
+Tal vez si le damos un diurético,
+podría ir al baño...
+
+1001
+01:05:55,071 --> 01:05:56,060
+- ¿Qué?
+... y tú sabes...
+
+1002
+01:05:56,139 --> 01:05:58,699
+No funcionaría. Tampoco la diálisis
+o la plasmaféresis.
+
+1003
+01:05:58,775 --> 01:06:00,470
+o cualquier otro método de excreción
+que podría evacuar la cosa.
+
+1004
+01:06:00,543 --> 01:06:01,601
+¡Papá!
+
+1005
+01:06:02,378 --> 01:06:03,572
+Gran charla de genios.
+
+1006
+01:06:04,714 --> 01:06:05,738
+Perdón.
+
+1007
+01:06:11,320 --> 01:06:12,617
+¡Ingrid!
+
+1008
+01:06:16,559 --> 01:06:18,083
+Era Neeva.
+
+1009
+01:06:18,161 --> 01:06:20,061
+- ¿Qué?
+- Ella causó el bloqueo.
+
+1010
+01:06:20,129 --> 01:06:22,723
+- ¿Por qué haría eso?
+- Obviamente está trabajando con Edwin.
+
+1011
+01:06:22,799 --> 01:06:24,460
+¿Estás seguro?
+
+1012
+01:06:24,534 --> 01:06:26,024
+El código usado para causar el bloqueo.
+
+1013
+01:06:26,102 --> 01:06:29,469
+es el mismo que usó para activar
+las cámaras de vigilancia en su tabla.
+
+1014
+01:06:30,373 --> 01:06:31,465
+¿Dónde está ahora?
+
+1015
+01:06:38,314 --> 01:06:39,611
+¡Neeva! ¡Neeva!
+
+1016
+01:06:48,624 --> 01:06:50,455
+Muévete, muévete.
+
+1017
+01:06:51,961 --> 01:06:55,658
+¡Fuera del camino! ¡Lo siento! ¡Lo siento!
+
+1018
+01:06:58,067 --> 01:07:01,230
+¡Neeva! ¡Neeva, espera!
+
+1019
+01:07:04,407 --> 01:07:05,772
+¡Neeva!
+
+1020
+01:07:24,894 --> 01:07:26,987
+En este momento, los genios de
+Jensen están ocupados.
+
+1021
+01:07:27,063 --> 01:07:30,260
+ideando una manera de retirar
+el nanobot sin que lo sepa.
+
+1022
+01:07:30,333 --> 01:07:32,130
+Lo que es imposible.
+
+1023
+01:07:35,938 --> 01:07:37,838
+- ¿Sí?
+- Kendrick lo descubrió.
+
+1024
+01:07:37,907 --> 01:07:41,035
+<i>- Era solo cuestión de tiempo. ¿Estás bien?
+- Por ahora.</i>
+
+1025
+01:07:41,344 --> 01:07:43,574
+<i>- ¿Van a hacer el cambio?
+- Seguro.</i>
+
+1026
+01:07:43,679 --> 01:07:45,112
+No les diste opción.
+
+1027
+01:07:45,381 --> 01:07:46,507
+Bien.
+
+1028
+01:07:50,553 --> 01:07:53,989
+Si se desactiva, se desprende, ¿no?
+
+1029
+01:07:54,390 --> 01:07:58,918
+Supongo. Pero para desactivarlo
+debes saber cómo lo controla.
+
+1030
+01:08:00,630 --> 01:08:02,325
+De ser yo...
+
+1031
+01:08:04,700 --> 01:08:06,327
+creo desarrollaría
+una aplicación telefónica.
+
+1032
+01:08:06,836 --> 01:08:08,463
+Y crearla en tu computadora.
+
+1033
+01:08:08,538 --> 01:08:10,802
+¡Y la suya está en su laboratorio!
+
+1034
+01:08:12,942 --> 01:08:16,036
+Públicamente Neeva despreciaba a Edwin,
+pero era una charada.
+
+1035
+01:08:16,112 --> 01:08:18,808
+No solo eso, por sus llamadas
+de los últimos meses...
+
+1036
+01:08:18,881 --> 01:08:20,872
+parece que eran más que colegas.
+
+1037
+01:08:20,950 --> 01:08:23,180
+Desearía pausar este día y rebobinarlo.
+
+1038
+01:08:23,252 --> 01:08:24,514
+Luego simplemente borrarlo.
+
+1039
+01:08:24,954 --> 01:08:26,717
+- ¿Qué acabas de decir?
+- No sé. Simplemente sale.
+
+1040
+01:08:26,789 --> 01:08:29,553
+- No puedo controlarlo.
+- No. Dijiste "pausar".
+
+1041
+01:08:30,459 --> 01:08:32,290
+Tal vez haya manera
+de "pausar" el programa.
+
+1042
+01:08:32,361 --> 01:08:35,922
+Como temporalmente bloquear la señal
+que usa Edwin para controlar el nanobot.
+
+1043
+01:08:35,998 --> 01:08:37,761
+- Exacto.
+- Si desea intercambiarlo...
+
+1044
+01:08:37,834 --> 01:08:39,301
+necesitará un remoto
+para controlar el nanobot.
+
+1045
+01:08:39,368 --> 01:08:41,268
+Puede estar usando una aplicación
+telefónica como remoto.
+
+1046
+01:08:41,337 --> 01:08:43,771
+Bueno, tiene sentido.
+Ésa es la señal que debemos bloquear.
+
+1047
+01:08:43,840 --> 01:08:45,740
+La computadora todavía controlaría
+el nanobot.
+
+1048
+01:08:45,808 --> 01:08:47,298
+La apagamos también.
+
+1049
+01:08:47,376 --> 01:08:49,901
+Y descargamos los datos antes de hacerlo.
+
+1050
+01:08:50,012 --> 01:08:53,675
+No tenemos opción. Debemos movernos,
+aún si consigues el ensamblador de vuelta.
+
+1051
+01:08:53,749 --> 01:08:56,718
+- Lo conseguiré de vuelta.
+- Mira... saben dónde estamos.
+
+1052
+01:08:59,188 --> 01:09:00,314
+Es hora.
+
+1053
+01:09:00,389 --> 01:09:02,983
+Si lo trabajamos desde ambos
+lugares, tendríamos oportunidad.
+
+1054
+01:09:03,059 --> 01:09:04,822
+Podría reasignar un par de satélites...
+
+1055
+01:09:04,894 --> 01:09:06,919
+darles cobertura infrarroja del edificio.
+
+1056
+01:09:06,996 --> 01:09:09,794
+Solo funcionaría si Edwin abandona
+el laboratorio para el cambio.
+
+1057
+01:09:10,466 --> 01:09:13,902
+<i>Llamada entrante,
+transmisión de Edwin Jensen.</i>
+
+1058
+01:09:17,874 --> 01:09:19,273
+Contestar.
+
+1059
+01:09:19,342 --> 01:09:21,173
+<i>Detrás de la sociedad botánica de
+Brooklyn...</i>
+
+1060
+01:09:21,244 --> 01:09:23,474
+los jardines chinos. Dos horas.
+
+1061
+01:09:23,546 --> 01:09:24,843
+<i>Supongo que estarás allí.</i>
+
+1062
+01:09:24,914 --> 01:09:25,938
+Allí estaré.
+
+1063
+01:09:26,015 --> 01:09:27,448
+Nunca lo dudé.
+
+1064
+01:09:36,292 --> 01:09:37,418
+Hola.
+
+1065
+01:09:38,561 --> 01:09:39,653
+Hola.
+
+1066
+01:09:40,696 --> 01:09:42,857
+¿Cómo estás, grandote?
+
+1067
+01:09:46,269 --> 01:09:48,169
+Está bien estar asustado.
+
+1068
+01:09:48,671 --> 01:09:49,797
+Sería raro de no estarlo.
+
+1069
+01:09:52,241 --> 01:09:55,335
+¿Y si nuestro plan no funciona, mamá?
+Digo, ¿qué pasaría si?
+
+1070
+01:09:55,411 --> 01:09:57,572
+No te hagas esto cariño.
+
+1071
+01:09:58,915 --> 01:10:01,315
+No pienses "qué pasaría si"...
+
+1072
+01:10:02,752 --> 01:10:04,947
+Concéntrate en "lo que es".
+
+1073
+01:10:08,224 --> 01:10:11,057
+Mira, tenemos un problema...
+
+1074
+01:10:12,228 --> 01:10:13,559
+uno grande.
+
+1075
+01:10:14,230 --> 01:10:16,323
+Pero tenemos una solución, ¿de acuerdo?
+
+1076
+01:10:16,399 --> 01:10:21,860
+Y si mantenemos la cabeza,
+lo superaremos.
+
+1077
+01:10:22,505 --> 01:10:23,938
+Lo prometo.
+
+1078
+01:10:25,708 --> 01:10:26,868
+Las tropas se están juntando.
+
+1079
+01:10:28,411 --> 01:10:29,673
+¿Están listos?
+
+1080
+01:10:33,382 --> 01:10:35,816
+Sí. Sí, estamos listos.
+
+1081
+01:10:45,161 --> 01:10:47,322
+Esto funciona en dos etapas.
+
+1082
+01:10:47,396 --> 01:10:49,159
+El programa usado
+para controlar el nanobot.
+
+1083
+01:10:49,231 --> 01:10:52,029
+seguramente esté en la
+computadora de Edwin.
+
+1084
+01:10:52,101 --> 01:10:53,591
+Debemos entrar en su laboratorio...
+
+1085
+01:10:53,669 --> 01:10:56,433
+descargar el programa y destruir la CPU.
+
+1086
+01:10:56,505 --> 01:10:58,302
+Por lo que Sam y Brody nos dijeron...
+
+1087
+01:10:58,374 --> 01:11:01,866
+la computadora de Edwin está en el
+segundo piso... aquí.
+
+1088
+01:11:02,645 --> 01:11:04,875
+Si Edwin se escapa
+y no la hemos destruido...
+
+1089
+01:11:05,348 --> 01:11:06,872
+tendrá el control sobre Brody.
+
+1090
+01:11:07,984 --> 01:11:10,077
+Matt, Sam y Brody volverán al laboratorio.
+
+1091
+01:11:10,152 --> 01:11:11,813
+Llevaremos el XT.
+
+1092
+01:11:12,221 --> 01:11:13,620
+- ¿El qué?
+- Ya verá.
+
+1093
+01:11:13,689 --> 01:11:15,122
+De acuerdo al satélite de vigilancia
+de Kendrick...
+
+1094
+01:11:15,191 --> 01:11:17,489
+Edwin ya está abandonando el laboratorio.
+
+1095
+01:11:17,560 --> 01:11:20,290
+Brody, lo digo en serio.
+
+1096
+01:11:20,363 --> 01:11:23,332
+Tú y Sam están allí solo para guiar.
+
+1097
+01:11:23,399 --> 01:11:24,764
+Aquí tu papá está a cargo.
+
+1098
+01:11:25,501 --> 01:11:26,866
+Me encontraré con Edwin en Brooklyn.
+
+1099
+01:11:27,737 --> 01:11:30,171
+Usaré el ensamblador para distraerlo.
+
+1100
+01:11:30,239 --> 01:11:34,107
+hasta que consigamos el voltaje necesario
+para interferir su celular.
+
+1101
+01:11:34,477 --> 01:11:36,570
+- ¿Ginny?
+- Apagaré los sectores siete a quince.
+
+1102
+01:11:36,645 --> 01:11:37,873
+para conseguir la potencia necesaria.
+
+1103
+01:11:37,947 --> 01:11:40,882
+Y una vez que el celular de Edwin esté
+neutralizado, me moveré con mi equipo.
+
+1104
+01:11:40,950 --> 01:11:44,044
+Pero no hasta alcanzar
+el 100% de la potencia.
+
+1105
+01:11:45,054 --> 01:11:46,817
+Son todos genios.
+
+1106
+01:11:48,691 --> 01:11:50,818
+Hoy es el día para probarlo.
+
+1107
+01:11:53,396 --> 01:11:57,332
+Cuento contigo y tu padre
+para cuidarse uno al otro.
+
+1108
+01:11:57,400 --> 01:11:59,891
+Y cuento contigo para cuidarlos a ambos.
+
+1109
+01:12:00,036 --> 01:12:01,799
+Entendido, Sra. Thompson.
+
+1110
+01:12:01,871 --> 01:12:04,237
+Está bien. Hagámoslo.
+
+1111
+01:12:09,845 --> 01:12:11,472
+¿Eso es el XT?
+
+1112
+01:12:14,483 --> 01:12:15,677
+Me gusta.
+
+1113
+01:12:27,396 --> 01:12:30,263
+Claire, tengo a Matt en el comunicador.
+
+1114
+01:12:32,668 --> 01:12:35,136
+- ¿Cómo está Brody?
+- Listo para luchar.
+
+1115
+01:12:35,204 --> 01:12:38,230
+<i>- Entiendo cómo se siente.
+- Apuesto a que sí. Pero no te preocupes...</i>
+
+1116
+01:12:38,307 --> 01:12:39,569
+estaremos bien.
+
+1117
+01:12:39,642 --> 01:12:41,906
+- Cuida a nuestro chico.
+- Lo haré.
+
+1118
+01:12:44,914 --> 01:12:46,347
+Ginny, ¿tienes el infrarrojo del edificio?
+
+1119
+01:12:46,415 --> 01:12:48,849
+Sí, cuento quince personas adentro.
+
+1120
+01:12:48,918 --> 01:12:51,978
+Edwin y su equipo definitivamente
+están en modo "salgamos de aquí".
+
+1121
+01:12:52,054 --> 01:12:54,545
+Acercándose al lado norte.
+Hay un cuarto de mantenimiento allí.
+
+1122
+01:12:54,623 --> 01:12:56,454
+Encontrarán el panel eléctrico principal.
+
+1123
+01:12:56,625 --> 01:12:57,887
+Entendido.
+
+1124
+01:13:02,264 --> 01:13:06,360
+Listo, micrófono preparado.
+Oye, ¿estás bien?
+
+1125
+01:13:07,503 --> 01:13:09,494
+Bien. Buena suerte.
+
+1126
+01:13:37,133 --> 01:13:38,293
+Entremos.
+
+1127
+01:13:47,076 --> 01:13:49,169
+Ginny, Claire está casi en posición.
+
+1128
+01:13:49,245 --> 01:13:52,339
+- La tengo. Claire, ¿me escuchas?
+- Fuerte y claro.
+
+1129
+01:13:52,414 --> 01:13:54,575
+<i>Bien. Empezamos a elevar el voltaje.</i>
+
+1130
+01:13:54,650 --> 01:13:56,413
+Te dejaré saber en el segundo que
+tengamos suficiente jugo.
+
+1131
+01:13:56,485 --> 01:13:59,249
+<i>- para intervenir su señal con el nanobot.
+- De acuerdo.</i>
+
+1132
+01:13:59,522 --> 01:14:00,921
+- Estamos dentro.
+- Los veo.
+
+1133
+01:14:00,990 --> 01:14:03,151
+- ¿Cómo entro al laboratorio de Edwin?
+- Hay una escalera.
+
+1134
+01:14:03,225 --> 01:14:06,023
+que lleva hasta lo que parece
+un centro de descontaminación.
+
+1135
+01:14:06,095 --> 01:14:09,030
+En la pared noreste del cuarto
+donde están ahora.
+
+1136
+01:14:09,565 --> 01:14:10,930
+La veo.
+
+1137
+01:14:24,813 --> 01:14:26,713
+¡Matt! Tienen compañía.
+
+1138
+01:14:31,954 --> 01:14:34,946
+Hola, mantenimiento nos envió
+a reparar el...
+
+1139
+01:14:44,633 --> 01:14:46,624
+De acuerdo. Eso fue impresionante.
+
+1140
+01:14:46,702 --> 01:14:48,135
+Te dije que era buena.
+
+1141
+01:14:49,838 --> 01:14:52,204
+Miren, en algún momento verán
+que este sujeto desapareció.
+
+1142
+01:14:52,274 --> 01:14:54,902
+- Y cuando lo hagan, estamos muertos. ¿Sí?
+- Entonces, hagámoslo.
+
+1143
+01:14:54,977 --> 01:14:56,774
+¿Cuánto tiempo te tomará
+revisar el sistema?
+
+1144
+01:14:56,845 --> 01:14:58,312
+Danos diez.
+
+1145
+01:14:58,380 --> 01:15:01,213
+Papá, ¿realmente tienes que subir?
+
+1146
+01:15:01,650 --> 01:15:04,676
+A menos que descarguemos sus archivos
+antes de destruir el sistema...
+
+1147
+01:15:04,753 --> 01:15:06,721
+destruiremos todo el trabajo
+que el proyecto Jensen hizo.
+
+1148
+01:15:06,789 --> 01:15:09,986
+para crear estos nanobots. En las manos
+correctas, salvarían muchas vidas.
+
+1149
+01:15:10,559 --> 01:15:12,151
+- Si no fuera por mí...
+- De no ser por ti...
+
+1150
+01:15:12,228 --> 01:15:13,991
+no habríamos encontrado este laboratorio.
+
+1151
+01:15:14,530 --> 01:15:18,591
+Estaré bien. Brody, nadie me conoce.
+Creerán que soy algún técnico.
+
+1152
+01:15:19,535 --> 01:15:20,524
+Sí.
+
+1153
+01:15:20,936 --> 01:15:22,369
+Diez minutos.
+
+1154
+01:15:47,162 --> 01:15:50,825
+Hora de bailar. 85%, Edwin está en el lugar.
+
+1155
+01:15:51,634 --> 01:15:52,896
+Lo tengo.
+
+1156
+01:15:56,405 --> 01:15:57,770
+¿Dónde está, Claire?
+
+1157
+01:16:06,582 --> 01:16:08,675
+¿Cómo sabré si desactivaste el nanobot?
+
+1158
+01:16:08,751 --> 01:16:10,048
+No malgastes mi tiempo, Claire.
+
+1159
+01:16:10,119 --> 01:16:12,747
+Obviamente estas monitoreando
+los signos vitales de tu hijo.
+
+1160
+01:16:13,022 --> 01:16:16,890
+Luego de inspeccionar el ensamblador,
+enviaré una señal.
+
+1161
+01:16:17,159 --> 01:16:21,493
+Kendrick, Ingrid, tu esposo,
+todos verán apagarse el nanobot.
+
+1162
+01:16:22,064 --> 01:16:23,326
+Ahora, si no te importa.
+
+1163
+01:16:31,173 --> 01:16:33,266
+Voltaje al 90%.
+
+1164
+01:16:33,976 --> 01:16:35,000
+<i>Que siga hablando.</i>
+
+1165
+01:16:35,077 --> 01:16:38,308
+¿Qué evitará que reinicies el nanobot
+una vez devuelto el ensamblador?
+
+1166
+01:16:38,380 --> 01:16:39,369
+Nada.
+
+1167
+01:16:39,782 --> 01:16:43,183
+Literalmente tengo la vida de tu hijo
+en la palma de mi mano.
+
+1168
+01:16:43,519 --> 01:16:45,987
+No tienes más opción que confiar en mí.
+
+1169
+01:16:47,656 --> 01:16:48,714
+¿Confiar?
+
+1170
+01:16:48,924 --> 01:16:50,915
+¿En el hombre que amenaza
+la vida de mi hijo?
+
+1171
+01:16:51,026 --> 01:16:52,823
+95%.
+
+1172
+01:16:53,228 --> 01:16:55,253
+¿El hombre que dijo que mi trabajo
+no era bueno.
+
+1173
+01:16:55,331 --> 01:16:58,300
+para después continuar su desarrollo?
+¿Confiar en ti, Edwin?
+
+1174
+01:16:58,367 --> 01:16:59,925
+Ten cuidado, Claire.
+
+1175
+01:17:07,910 --> 01:17:09,468
+Tu padre no confiaba en ti.
+
+1176
+01:17:10,245 --> 01:17:13,544
+Por eso le dio el control
+del proyecto Jensen a Ingrid en tu lugar.
+
+1177
+01:17:13,782 --> 01:17:15,181
+96%.
+
+1178
+01:17:17,386 --> 01:17:18,648
+Nos conectamos a la energía de la ciudad.
+
+1179
+01:17:18,721 --> 01:17:20,746
+Debería haber millones de voltios.
+¿Estás lista?
+
+1180
+01:17:20,823 --> 01:17:22,381
+Mas fácil que robar una 4X4.
+
+1181
+01:17:26,328 --> 01:17:27,727
+¿Qué crees?
+
+1182
+01:17:27,796 --> 01:17:31,357
+Espero que mi padre esté en su juego,
+encenderemos a este bebé en...
+
+1183
+01:17:31,433 --> 01:17:33,162
+Tres minutos.
+
+1184
+01:17:40,109 --> 01:17:42,304
+<i>Descarga en progreso.</i>
+
+1185
+01:17:46,548 --> 01:17:50,006
+Tu padre no dudaba de tu inteligencia,
+dudaba de tu carácter.
+
+1186
+01:17:50,452 --> 01:17:52,977
+¿Realmente quieres mostrarle al mundo
+que tenía razón?
+
+1187
+01:17:53,055 --> 01:17:55,751
+<i>98%. Demóralo, Claire.</i>
+
+1188
+01:17:55,924 --> 01:17:57,824
+Diez, nueve...
+
+1189
+01:17:58,260 --> 01:18:00,228
+¿Qué está haciendo aquí?
+
+1190
+01:18:01,930 --> 01:18:03,557
+¡... dos, uno!
+
+1191
+01:18:11,340 --> 01:18:14,468
+Lo que quiero es el ensamblador.
+
+1192
+01:18:40,669 --> 01:18:41,795
+Basta.
+
+1193
+01:19:09,097 --> 01:19:10,121
+Déjalo, Edwin.
+
+1194
+01:19:12,734 --> 01:19:13,996
+¿Brody?
+
+1195
+01:19:14,536 --> 01:19:15,833
+Está bien.
+
+1196
+01:19:16,538 --> 01:19:19,473
+Tienen los archivos de Edwin
+y desconectaron su laboratorio.
+
+1197
+01:19:19,541 --> 01:19:20,633
+No lo creo.
+
+1198
+01:19:20,709 --> 01:19:24,668
+Bien, Edwin, tal vez dejaremos que
+tu amigo Cho lo explique.
+
+1199
+01:19:24,746 --> 01:19:27,613
+en cuanto te haya vendido a los federales.
+
+1200
+01:19:38,727 --> 01:19:40,752
+Edwin, ¿cómo pasó?
+
+1201
+01:19:42,397 --> 01:19:44,365
+¿Cómo terminaste aquí?
+
+1202
+01:20:09,091 --> 01:20:11,059
+DÍA 5.
+
+1203
+01:20:15,664 --> 01:20:16,892
+¡Brody!
+
+1204
+01:20:17,866 --> 01:20:18,924
+Hola.
+
+1205
+01:20:19,902 --> 01:20:21,301
+Te estuve buscando.
+
+1206
+01:20:21,370 --> 01:20:22,860
+- ¿Sí?
+- Sí.
+
+1207
+01:20:25,941 --> 01:20:27,306
+Quería disculparme.
+
+1208
+01:20:28,043 --> 01:20:29,067
+¿Por qué?
+
+1209
+01:20:30,312 --> 01:20:36,182
+Hablar de cosas, tú sabes, nuestros
+sentimientos y miedos no es siempre fácil.
+
+1210
+01:20:37,119 --> 01:20:38,177
+Entonces lo evitamos.
+
+1211
+01:20:39,121 --> 01:20:41,851
+Pero en una familia,
+no deberíamos hacerlo.
+
+1212
+01:20:43,292 --> 01:20:45,817
+No di un muy buen ejemplo
+en ese aspecto.
+
+1213
+01:20:47,062 --> 01:20:50,498
+Pero prometo que de ahora en adelante,
+voy a abrirme más.
+
+1214
+01:20:50,566 --> 01:20:52,864
+y a escuchar mejor.
+
+1215
+01:20:53,402 --> 01:20:54,960
+Y espero que tú también.
+
+1216
+01:20:56,104 --> 01:20:58,402
+Sí, creo que puedo manejarlo.
+
+1217
+01:20:59,741 --> 01:21:02,232
+Y, yo... yo también lo siento...
+
+1218
+01:21:03,178 --> 01:21:04,668
+por lo de, ya sabes...
+
+1219
+01:21:04,746 --> 01:21:06,873
+hacerte pasar por ciertas cosas.
+
+1220
+01:21:11,353 --> 01:21:12,877
+Bueno, todo solucionado.
+
+1221
+01:21:18,927 --> 01:21:23,159
+Ingrid dejó un mensaje,
+dijo que había algo que debía ver.
+
+1222
+01:21:23,332 --> 01:21:26,130
+Si, quería que te muestre esto.
+
+1223
+01:21:27,202 --> 01:21:29,067
+Dejaste este archivo abierto.
+
+1224
+01:21:29,137 --> 01:21:33,130
+Ingrid iba a archivarlo cuando vio esto.
+Ejecutar archivo.
+
+1225
+01:21:39,548 --> 01:21:42,642
+Ese tablero de circuitos controla
+el mecanismo ciliar.
+
+1226
+01:21:42,718 --> 01:21:44,310
+Los nanobots no pueden funcionar sin él.
+
+1227
+01:21:44,386 --> 01:21:47,014
+Reemplazó el tuyo por uno fallado.
+
+1228
+01:21:47,589 --> 01:21:49,181
+Saboteó mi trabajo.
+
+1229
+01:21:50,892 --> 01:21:52,325
+Pausar archivo.
+
+1230
+01:21:52,828 --> 01:21:54,295
+Y luego te desplazó...
+
+1231
+01:21:54,630 --> 01:21:56,757
+para poder tomar el control del proyecto.
+
+1232
+01:21:58,967 --> 01:22:01,197
+- Me siento tan estúpida.
+- No hay forma que hubieras...
+
+1233
+01:22:01,269 --> 01:22:06,571
+No. Me refiero a que deje que ese
+evento influencie tanto nuestras vidas.
+
+1234
+01:22:12,114 --> 01:22:13,240
+Cierra archivo.
+
+1235
+01:22:16,852 --> 01:22:18,319
+Te amo.
+
+1236
+01:22:22,024 --> 01:22:23,252
+Asco.
+
+1237
+01:22:24,593 --> 01:22:26,959
+Oye, mejor que empaques.
+Debemos irnos.
+
+1238
+01:22:27,129 --> 01:22:29,893
+- ¿A qué te refieres con irnos?
+- Se refiere a irnos a casa.
+
+1239
+01:22:29,965 --> 01:22:31,865
+- Están bromeando, ¿cierto?
+- No.
+
+1240
+01:22:32,401 --> 01:22:35,393
+¿Dices volver a la escuela mañana
+como si nada de esto hubiera pasado?
+
+1241
+01:22:35,537 --> 01:22:36,526
+Es una locura.
+
+1242
+01:22:36,938 --> 01:22:38,462
+¿Puedo sugerir una alternativa?
+
+1243
+01:22:39,908 --> 01:22:41,876
+Gracias a ustedes.
+
+1244
+01:22:41,943 --> 01:22:45,310
+el proyecto Jensen
+puede continuar trabajando.
+
+1245
+01:22:46,114 --> 01:22:49,015
+Y espero con mi corazón que se queden.
+
+1246
+01:22:49,084 --> 01:22:52,611
+y contribuyan con sus genios
+a nuestros esfuerzos.
+
+1247
+01:22:54,423 --> 01:22:56,414
+¿Qué hay de tu práctica?
+
+1248
+01:22:56,491 --> 01:22:58,220
+Puedo curar pacientes de a uno a la vez...
+
+1249
+01:22:58,293 --> 01:23:00,693
+o puedo encontrar una cura
+para miles. Sencillo.
+
+1250
+01:23:00,762 --> 01:23:02,389
+¿Qué hay de ti?
+
+1251
+01:23:05,967 --> 01:23:08,993
+Este lugar siempre implicó ser
+lo mejor que puedas ser...
+
+1252
+01:23:09,638 --> 01:23:12,471
+y creo que es hora
+de que nuestra familia lo intente.
+
+1253
+01:23:13,175 --> 01:23:15,405
+Por supuesto,
+vamos a hablarlo con Brody.
+
+1254
+01:23:16,545 --> 01:23:18,069
+Ah sí, Brody...
+
+1255
+01:23:18,146 --> 01:23:22,549
+en los últimos días, demostraste
+tu propia marca de genialidad.
+
+1256
+01:23:22,617 --> 01:23:25,916
+Desafortunadamente,
+mientras desobedecías a tus padres.
+
+1257
+01:23:25,987 --> 01:23:27,420
+- Pero yo...
+- Brody...
+
+1258
+01:23:29,958 --> 01:23:34,054
+arriesgaste tu vida para proteger
+a Samantha y al proyecto Jensen.
+
+1259
+01:23:35,297 --> 01:23:38,579
+Así que me da placer ofrecerte...
+
+1260
+01:23:38,580 --> 01:23:41,861
+una pasantía para el proyecto Jensen.
+
+1261
+01:23:48,210 --> 01:23:52,647
+Entonces, viejo... Digo, Brody,
+¿vas a aceptar o qué?
+
+1262
+01:24:00,822 --> 01:24:01,880
+¡Definitivamente!
+
+1263
+01:24:07,863 --> 01:24:09,023
+¡Sí!
+
+1264
+01:24:13,500 --> 01:24:18,500
+Subtítulos ripeados y
+corregidos por luqui89.
+
+1265
+01:24:18,501 --> 01:24:23,501
+.: Www.SubAdictos.Net :.
+

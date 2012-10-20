@@ -1,0 +1,6882 @@
+1
+00:00:09,588 --> 00:00:13,922
+"Lo único que nos impide seguir
+dominando el planeta es el virus."
+
+2
+00:00:14,092 --> 00:00:16,925
+- Joshua Lederberg, Premio Nóbel
+
+3
+00:01:03,542 --> 00:01:07,945
+Julio de 1967
+
+4
+00:01:09,982 --> 00:01:14,817
+Valle del Río Motaba,
+Zaire. Campamento Mercenario.
+
+5
+00:01:35,407 --> 00:01:36,999
+¡Venga por aquí!
+
+6
+00:01:40,512 --> 00:01:43,675
+Podemos lidiar con hombres
+heridos en batalla.
+
+7
+00:01:44,349 --> 00:01:46,681
+Pero esta enfermedad extraña.
+
+8
+00:01:47,285 --> 00:01:49,776
+30 hombres murieron ayer.
+
+9
+00:01:50,022 --> 00:01:51,580
+18 el día anterior.
+
+10
+00:01:52,924 --> 00:01:54,789
+Necesitamos provisiones.
+
+11
+00:01:55,193 --> 00:01:56,592
+Plasma.
+
+12
+00:01:56,928 --> 00:01:57,792
+Penicilina.
+
+13
+00:01:57,929 --> 00:01:59,521
+Enviaremos lo que necesite.
+
+14
+00:01:59,698 --> 00:02:01,097
+Son norteamericanos.
+
+15
+00:02:01,933 --> 00:02:03,298
+Por favor...
+
+16
+00:02:03,435 --> 00:02:05,869
+...sáquenme de este infierno.
+
+17
+00:02:06,038 --> 00:02:09,098
+Amigo, para eso estamos aquí.
+
+18
+00:02:09,307 --> 00:02:12,299
+Primero tomaremos una
+muestra de sangre, ¿sí?
+
+19
+00:02:13,879 --> 00:02:15,369
+Me voy a morir, ¿verdad?
+
+20
+00:02:15,547 --> 00:02:17,811
+- No vas a morir.
+- Dile a mi novia que la amo.
+
+21
+00:02:17,949 --> 00:02:20,383
+No se lo diré yo. Se lo dirás tú.
+
+22
+00:02:23,121 --> 00:02:26,955
+Esos soldados están en las etapas
+iniciales de la enfermedad.
+
+23
+00:02:27,125 --> 00:02:29,821
+Mañana por la noche se verán así.
+
+24
+00:02:31,630 --> 00:02:33,222
+¡Madre de Dios!
+
+25
+00:02:33,632 --> 00:02:36,328
+Autorizaré el suministro inmediato.
+
+26
+00:02:41,573 --> 00:02:45,065
+Es peor de lo que pensaba.
+Envía el avión a las 19:00.
+
+27
+00:02:45,477 --> 00:02:47,468
+Envía el avión, Billy.
+
+28
+00:03:07,499 --> 00:03:09,433
+¡Vengan! ¡Muy bien!
+
+29
+00:03:50,809 --> 00:03:54,973
+EPIDEMIA
+
+30
+00:03:55,814 --> 00:03:58,715
+Época Actual
+
+31
+00:04:03,922 --> 00:04:08,916
+Ejército de EE. UU. Investigación de
+Enfermedades Infecciosas (USAMRIID)
+
+32
+00:04:31,950 --> 00:04:34,578
+Bioseguridad Nivel 1 - Mínimo Riesgo
+
+33
+00:04:34,753 --> 00:04:39,087
+Estudio de agentes infecciosos de
+bajo riesgo: Neumococo, Salmonela.
+
+34
+00:04:52,771 --> 00:04:55,467
+Bioseguridad Nivel 2 - Riesgo Moderado
+
+35
+00:04:55,607 --> 00:05:00,374
+Agentes Infecciosos: Hepatitis,
+Enfermedad de Lyme, Gripe.
+
+36
+00:05:25,637 --> 00:05:30,006
+Bioseguridad Nivel 3 - Alto Riesgo
+
+37
+00:05:30,242 --> 00:05:35,009
+Se requieren vacunas múltiples.
+Agentes infecciosos: Antrax, Tifus, HIV.
+
+38
+00:06:19,124 --> 00:06:22,457
+Bioseguridad Nivel 4 - Riesgo Extremo
+Máxima Seguridad.
+
+39
+00:06:22,694 --> 00:06:26,630
+Agentes infecciosos: Virus
+de Ebola, Lassa, Hanta.
+
+40
+00:06:29,200 --> 00:06:32,692
+Extremadamente virulento.
+No se conocen curas ni vacunas.
+
+41
+00:06:42,580 --> 00:06:44,138
+¿No es tu último día?
+
+42
+00:06:44,316 --> 00:06:45,146
+Sí.
+
+43
+00:07:22,687 --> 00:07:24,120
+Sam, ¿estás ahí?
+
+44
+00:07:25,690 --> 00:07:30,252
+Contesta. Tenemos un problema
+en Zaire. No se ve bien.
+
+45
+00:07:30,428 --> 00:07:31,759
+Quédense ahí.
+
+46
+00:07:31,930 --> 00:07:34,194
+Fiebre hemorrágica, mortalidad alta.
+
+47
+00:07:34,432 --> 00:07:36,423
+Recibimos una transmisión de Cairo.
+
+48
+00:07:36,634 --> 00:07:37,931
+¡Dije que se quedaran!
+
+49
+00:07:40,772 --> 00:07:41,932
+¿Qué pasa?
+
+50
+00:07:42,140 --> 00:07:44,438
+Parece que tenemos un Nivel 4.
+
+51
+00:07:44,642 --> 00:07:45,438
+¿Cuántos muertos?
+
+52
+00:07:45,643 --> 00:07:48,203
+No sé. No hay cifras todavía.
+
+53
+00:07:48,380 --> 00:07:50,371
+- ¿Qué crees que puede ser?
+- No sabemos aún.
+
+54
+00:07:50,548 --> 00:07:53,949
+La O.M.S. Enviará un equipo,
+pero quiero que vayas antes.
+
+55
+00:07:54,152 --> 00:07:56,382
+Deja el Hanta, vuelas a Zaire.
+
+56
+00:07:56,554 --> 00:07:59,455
+Déjame reunir a mi gente.
+Te llamaré luego.
+
+57
+00:07:59,657 --> 00:08:02,057
+No puedo creer esto. Están mojados.
+
+58
+00:08:02,227 --> 00:08:03,455
+Están mojados.
+
+59
+00:08:03,661 --> 00:08:06,892
+¿Cuál me desobedeció primero?
+Lewis, fuiste tú, ¿verdad?
+
+60
+00:08:07,232 --> 00:08:10,724
+Voy a castigarlos. Se ven muy culpables.
+
+61
+00:08:11,169 --> 00:08:12,796
+Lewis, vamos.
+
+62
+00:08:15,673 --> 00:08:18,164
+"VENDIDO"
+
+63
+00:08:18,977 --> 00:08:20,569
+Bajen.
+
+64
+00:08:22,981 --> 00:08:24,073
+¿Cómo estás?
+
+65
+00:08:25,750 --> 00:08:28,241
+Hola, chicos. ¿Cómo están?
+
+66
+00:08:28,586 --> 00:08:30,417
+¿Qué están haciendo?
+
+67
+00:08:30,588 --> 00:08:32,419
+¿Me extrañan?
+
+68
+00:08:32,590 --> 00:08:35,252
+Vengan aquí. ¿Quién quiere desayunar?
+
+69
+00:08:36,928 --> 00:08:38,259
+Tu periódico.
+
+70
+00:08:39,264 --> 00:08:41,926
+¿Viniste por tus cosas? Vengan.
+
+71
+00:08:42,100 --> 00:08:44,000
+Roscas. ¿Quién quiere roscas?
+
+72
+00:08:45,937 --> 00:08:47,268
+¿Quieren desayunar?
+
+73
+00:08:47,439 --> 00:08:50,272
+- ¿Quién quiere desayunar?
+- Tengo que ir de viaje.
+
+74
+00:08:51,276 --> 00:08:52,436
+¿Adónde?
+
+75
+00:08:53,011 --> 00:08:56,447
+A Zaire. Creen que hay
+casos de fiebre hemorrágica.
+
+76
+00:08:56,614 --> 00:08:58,445
+- ¿Casey también va?
+- Sí.
+
+77
+00:08:58,850 --> 00:09:01,011
+Y Jaffe. Todo el equipo.
+
+78
+00:09:02,220 --> 00:09:03,448
+Casi todo.
+
+79
+00:09:05,223 --> 00:09:06,520
+¿Quieres dejarme los perros?
+
+80
+00:09:06,724 --> 00:09:08,021
+Son sólo 4 días.
+
+81
+00:09:08,226 --> 00:09:11,787
+Voy a Atlanta el viernes.
+Si te atrasas, los perros van conmigo.
+
+82
+00:09:11,963 --> 00:09:13,294
+Me parece justo.
+
+83
+00:09:14,132 --> 00:09:15,793
+¿Qué harás en CCE?
+
+84
+00:09:15,967 --> 00:09:17,525
+Trabajaré en Nivel 4.
+
+85
+00:09:17,735 --> 00:09:19,032
+Igual que tú.
+
+86
+00:09:20,138 --> 00:09:21,230
+Mi trabajo.
+
+87
+00:09:21,806 --> 00:09:24,138
+Me gustaría considerarlo mi trabajo.
+
+88
+00:09:24,309 --> 00:09:26,971
+Y no tendré al Pentágono presionándome.
+
+89
+00:09:28,246 --> 00:09:29,144
+Esto es mío.
+
+90
+00:09:29,547 --> 00:09:30,479
+Llévatelo.
+
+91
+00:09:30,748 --> 00:09:33,808
+Y el resto de tus cosas
+está ahí en unas cajas.
+
+92
+00:09:36,754 --> 00:09:39,552
+Puedo tenerlas hasta que regreses...
+
+93
+00:09:39,824 --> 00:09:40,984
+...o como quieras.
+
+94
+00:09:55,773 --> 00:09:58,674
+Me estás dando todas las
+fotos de nosotros dos.
+
+95
+00:10:00,778 --> 00:10:02,268
+Puedes quedártelas.
+
+96
+00:10:05,583 --> 00:10:06,914
+Quédatelas tú.
+
+97
+00:10:08,686 --> 00:10:10,085
+No las quiero.
+
+98
+00:10:10,288 --> 00:10:12,518
+Yo tampoco las quiero, Robby.
+
+99
+00:10:13,424 --> 00:10:15,016
+¡El jueves!
+
+100
+00:10:21,032 --> 00:10:24,866
+Quiero que carguen todo ahora mismo.
+Vamos, apúrense.
+
+101
+00:10:25,036 --> 00:10:26,367
+¡Vamos!
+
+102
+00:10:26,538 --> 00:10:29,701
+Este plasma va en el timón
+derecho del ala derecha.
+
+103
+00:10:29,874 --> 00:10:32,536
+- ¿Dónde está Jaffe?
+- Su esposa está dando a luz.
+
+104
+00:10:32,710 --> 00:10:35,201
+- ¿Quién leerá las muestras de tejido?
+- ¿No confías en mí?
+
+105
+00:10:35,380 --> 00:10:36,438
+- ¡Vamos!
+- Bien.
+
+106
+00:10:36,614 --> 00:10:40,209
+Quieres un técnico talentoso, bien,
+pero, francamente, me duele.
+
+107
+00:10:40,385 --> 00:10:43,320
+- ¿Quién lo designó?
+- El jefe en persona.
+
+108
+00:10:44,889 --> 00:10:46,880
+Hace años que no se
+levanta tan temprano.
+
+109
+00:10:47,058 --> 00:10:49,458
+- Le diré que dijiste eso.
+- Lo negaré.
+
+110
+00:10:51,563 --> 00:10:52,962
+Gusto de verlo.
+
+111
+00:10:53,731 --> 00:10:56,632
+Pensé que si mostraba mi estrella,
+aceleraría las cosas.
+
+112
+00:10:57,402 --> 00:10:58,334
+¿Da resultado?
+
+113
+00:11:00,238 --> 00:11:01,967
+Expediente del hombre nuevo.
+
+114
+00:11:02,240 --> 00:11:06,973
+Además télex de tráfico hasta la
+fecha y fotos de satélite del área.
+
+115
+00:11:08,079 --> 00:11:09,137
+¿Señor?
+
+116
+00:11:09,414 --> 00:11:11,245
+Entras y sales.
+
+117
+00:11:11,916 --> 00:11:14,749
+Detesto tenerte aquí,
+arruinando mi vida...
+
+118
+00:11:14,919 --> 00:11:17,080
+...pero no quiero perderte por un virus.
+
+119
+00:11:17,255 --> 00:11:19,416
+- Una pregunta.
+- Adelante.
+
+120
+00:11:19,591 --> 00:11:22,424
+¿Qué he hecho para arruinarte la vida?
+
+121
+00:11:23,261 --> 00:11:24,489
+Te levantaste hoy.
+
+122
+00:11:25,763 --> 00:11:27,162
+Gracias, Billy.
+
+123
+00:11:48,620 --> 00:11:49,951
+Mayor Salt.
+
+124
+00:11:50,288 --> 00:11:53,519
+Permítame decirle que es
+un honor trabajar con Ud.
+
+125
+00:11:53,691 --> 00:11:58,390
+West Point. Johns Hopkins.
+¿Cuántas horas de vuelo en helicóptero?
+
+126
+00:11:58,529 --> 00:11:59,962
+- 85.
+- ¿Casado?
+
+127
+00:12:00,465 --> 00:12:01,454
+Buena suerte.
+
+128
+00:12:01,899 --> 00:12:03,526
+¿Experiencia con casos reales?
+
+129
+00:12:03,701 --> 00:12:06,397
+Pero estoy entrenado y muy motivado.
+
+130
+00:12:06,537 --> 00:12:09,529
+Hablo de aterrizar en
+una zona de peligro.
+
+131
+00:12:09,707 --> 00:12:12,198
+¿Has visto el efecto de
+la fiebre hemorrágica?
+
+132
+00:12:12,410 --> 00:12:13,138
+No, señor.
+
+133
+00:12:13,311 --> 00:12:14,209
+Permíteme.
+
+134
+00:12:14,479 --> 00:12:15,707
+- Mayor.
+- Sí.
+
+135
+00:12:15,913 --> 00:12:18,814
+Al principio, el paciente
+tiene síntomas de gripe.
+
+136
+00:12:18,983 --> 00:12:23,215
+En 2 ó 3 días aparecen lesiones
+rosadas en el cuerpo, con pústulas...
+
+137
+00:12:23,421 --> 00:12:26,913
+...que brotan con la sangre y el pus.
+Una sustancia lechosa...
+
+138
+00:12:27,058 --> 00:12:29,925
+Estas lesiones crecen. Son pastosas.
+
+139
+00:12:30,061 --> 00:12:33,224
+Hay vómitos, diarrea, sangran
+nariz, oídos y encías.
+
+140
+00:12:33,431 --> 00:12:36,229
+Los órganos internos se cierran.
+Se desintegran.
+
+141
+00:12:36,434 --> 00:12:39,335
+Muy bien. Nosotros
+también lo leímos, pero...
+
+142
+00:12:39,504 --> 00:12:41,233
+...dentro de 16 horas, lo verás.
+
+143
+00:12:41,439 --> 00:12:43,430
+En vivo, por así decir.
+
+144
+00:12:43,574 --> 00:12:45,735
+Puedo manejar lo que se presente.
+
+145
+00:12:45,943 --> 00:12:49,743
+- Si uno se asusta amenaza a todos.
+- Tiene órdenes de no morir ahí.
+
+146
+00:12:49,947 --> 00:12:53,007
+Y son órdenes que piensa cumplir.
+
+147
+00:13:17,675 --> 00:13:20,872
+Valle del Río Motaba, Zaire
+
+148
+00:14:27,845 --> 00:14:29,278
+Debe ser esa.
+
+149
+00:15:30,408 --> 00:15:31,500
+¡Le entró el pánico!
+
+150
+00:15:33,411 --> 00:15:35,504
+¡No! ¡Espera un momento!
+
+151
+00:15:35,847 --> 00:15:37,337
+¡No puedo respirar!
+
+152
+00:15:37,515 --> 00:15:38,914
+Mantén el casco...
+
+153
+00:15:39,116 --> 00:15:40,242
+¡Quítemelo!
+
+154
+00:15:40,418 --> 00:15:41,851
+- ¡Mantenlo puesto!
+- ¡Mantenlo puesto!
+
+155
+00:15:42,186 --> 00:15:44,746
+¡No dejes que se exponga!
+
+156
+00:15:45,523 --> 00:15:48,515
+¡Carajo! ¡Aíslalo! ¡Aíslalo!
+
+157
+00:15:49,026 --> 00:15:50,516
+No se preocupe.
+
+158
+00:15:51,262 --> 00:15:52,923
+No se transmite por el aire.
+
+159
+00:15:56,701 --> 00:15:58,191
+Sam Daniels. USAMRIID.
+
+160
+00:15:58,769 --> 00:16:00,532
+Benjamin Iwabi.
+
+161
+00:16:00,705 --> 00:16:01,933
+Lo esperábamos.
+
+162
+00:16:02,139 --> 00:16:03,538
+Vinimos lo antes posible.
+
+163
+00:16:03,708 --> 00:16:05,141
+Eso significa tarde.
+
+164
+00:16:06,277 --> 00:16:08,211
+La aldea está muerta.
+
+165
+00:16:09,881 --> 00:16:11,712
+¿Conoce el período de incubación?
+
+166
+00:16:11,883 --> 00:16:15,876
+Pero mata en 2 ó 3 días.
+La tasa de mortalidad es 100%.
+
+167
+00:16:16,053 --> 00:16:17,042
+Caray.
+
+168
+00:16:17,221 --> 00:16:19,155
+¿Alguien infectado se fue de aquí?
+
+169
+00:16:19,290 --> 00:16:22,225
+Si se fue, estaría muerto
+o muriendo en la selva.
+
+170
+00:16:22,393 --> 00:16:24,554
+Hay 80 km hasta la próxima aldea.
+
+171
+00:16:24,729 --> 00:16:26,959
+¿Primer caso? ¿Paciente cero?
+
+172
+00:16:27,465 --> 00:16:29,296
+Un joven llamado Murazo.
+
+173
+00:16:29,467 --> 00:16:33,733
+Trabajaba con un blanco en la
+construcción de un camino a Kinshasa.
+
+174
+00:16:33,905 --> 00:16:36,237
+- Cuando regresó, estaba enfermo.
+- Entiendo.
+
+175
+00:16:36,407 --> 00:16:38,307
+Y bebió de este pozo.
+
+176
+00:16:39,076 --> 00:16:41,909
+Desde ahí, se propagó por toda la aldea.
+
+177
+00:16:42,079 --> 00:16:45,071
+¿Identificó al portador? ¿El huésped?
+
+178
+00:16:45,750 --> 00:16:48,310
+No, cuando llegamos, estaba incoherente.
+
+179
+00:16:48,753 --> 00:16:50,812
+Murió dos horas después.
+
+180
+00:16:51,188 --> 00:16:52,917
+No pudo decirnos nada.
+
+181
+00:16:56,994 --> 00:16:58,188
+El no está enfermo.
+
+182
+00:16:59,830 --> 00:17:02,822
+Es el hombre mágico de la aldea.
+El médico hechicero.
+
+183
+00:17:03,768 --> 00:17:05,497
+Estuvo en su cueva toda la semana.
+
+184
+00:17:06,003 --> 00:17:07,493
+Quisiera hablar con él.
+
+185
+00:17:07,705 --> 00:17:09,195
+No, él me habla a mí.
+
+186
+00:17:09,840 --> 00:17:14,004
+Verá, él cree que los hombres
+que cortan árboles despertaron...
+
+187
+00:17:14,211 --> 00:17:16,202
+...a los dioses de su sueño.
+
+188
+00:17:16,347 --> 00:17:19,612
+No deberían cortarlos.
+Y los dioses se enojaron.
+
+189
+00:17:20,351 --> 00:17:21,613
+Esto...
+
+190
+00:17:22,286 --> 00:17:24,117
+...es un castigo.
+
+191
+00:17:54,385 --> 00:17:56,751
+Víctimas alarmantemente numerosas.
+
+192
+00:17:57,054 --> 00:17:59,648
+Todas localizadas en un radio de 5 km.
+
+193
+00:17:59,824 --> 00:18:02,759
+Período de incubación corto.
+Parece contenido.
+
+194
+00:18:02,893 --> 00:18:04,554
+No pusiste "alarmantemente".
+
+195
+00:18:04,762 --> 00:18:07,754
+Es un adverbio. Herramienta
+perezosa de una mente débil.
+
+196
+00:18:07,898 --> 00:18:09,263
+Quiero agregar esto:
+
+197
+00:18:09,400 --> 00:18:10,389
+Billy...
+
+198
+00:18:11,002 --> 00:18:13,903
+...esto es lo más aterrador
+que he visto en mi vida.
+
+199
+00:18:14,071 --> 00:18:15,504
+Y he visto mucho.
+
+200
+00:18:15,673 --> 00:18:17,834
+Bien. Mándalo por fax a la casa de Ford.
+
+201
+00:18:23,180 --> 00:18:23,908
+Lo siento.
+
+202
+00:18:24,181 --> 00:18:25,011
+Está bien.
+
+203
+00:18:25,182 --> 00:18:27,343
+Nunca vi una cosa así.
+
+204
+00:18:27,518 --> 00:18:29,782
+Puse en peligro al equipo, señor.
+
+205
+00:18:29,920 --> 00:18:31,410
+Aún estamos aquí.
+
+206
+00:18:35,693 --> 00:18:37,524
+Me asusté, señor.
+
+207
+00:18:39,530 --> 00:18:42,090
+Sabes, el miedo tiene mala fama.
+
+208
+00:18:43,300 --> 00:18:46,098
+No quiero que trabaje
+conmigo alguien que no teme.
+
+209
+00:18:46,871 --> 00:18:47,860
+¿De acuerdo?
+
+210
+00:18:48,039 --> 00:18:50,200
+Entonces soy el indicado, señor.
+
+211
+00:19:12,029 --> 00:19:13,758
+Hace 6 horas que envié el fax.
+
+212
+00:19:13,931 --> 00:19:16,092
+No voy a emitir una alerta.
+
+213
+00:19:16,267 --> 00:19:18,758
+Pero debes emitir una alerta.
+
+214
+00:19:18,936 --> 00:19:21,769
+- Dijiste que estaba contenido.
+- Dije "probablemente".
+
+215
+00:19:21,939 --> 00:19:23,372
+¡Controla los aeropuertos!
+
+216
+00:19:23,541 --> 00:19:27,443
+¿Te acuerdas de 1989? 2 casos de
+fiebre de Congo en Nairobi...
+
+217
+00:19:27,712 --> 00:19:30,545
+...y pusimos una
+advertencia en cada escuela.
+
+218
+00:19:30,715 --> 00:19:32,114
+- Me equivoqué.
+- Te equivocaste.
+
+219
+00:19:32,283 --> 00:19:34,615
+¿Y 1992? ¿La fiebre de Lassa?
+
+220
+00:19:34,785 --> 00:19:36,275
+- Me equivoqué.
+- Otra vez.
+
+221
+00:19:36,454 --> 00:19:38,285
+- ¿Pero ahora estás seguro?
+- No, podría estar...
+
+222
+00:19:38,456 --> 00:19:41,289
+¡Pero te apareces aquí
+oliendo a calcetín sucio...
+
+223
+00:19:41,459 --> 00:19:44,451
+...y me alejas del Senador Rosales...
+
+224
+00:19:44,628 --> 00:19:47,893
+...que encabeza el subcomité
+de Presupuesto del Senado!
+
+225
+00:19:48,065 --> 00:19:51,228
+Olvídate de Ebola, de Lassa.
+Este virus mata tan rápido...
+
+226
+00:19:51,402 --> 00:19:52,892
+Baja la voz.
+
+227
+00:19:54,805 --> 00:19:56,898
+A eso me refiero exactamente.
+
+228
+00:19:57,074 --> 00:20:00,737
+El hecho de que el virus
+sea tan letal nos favorece.
+
+229
+00:20:00,911 --> 00:20:05,814
+No viven el tiempo suficiente para
+propagar el virus. Está contenido.
+
+230
+00:20:05,983 --> 00:20:07,314
+Eso espero.
+
+231
+00:20:33,010 --> 00:20:35,103
+Fin de la conversación, ¿de acuerdo?
+
+232
+00:20:35,279 --> 00:20:38,510
+Nunca entendiste el concepto
+de tiempo. ¿Qué día es hoy?
+
+233
+00:20:38,682 --> 00:20:41,116
+- Domingo.
+- ¿Cuándo dijiste que volverías?
+
+234
+00:20:41,285 --> 00:20:43,014
+- El viernes.
+- El jueves, Sam.
+
+235
+00:20:43,187 --> 00:20:44,279
+Quise decir jueves.
+
+236
+00:20:44,455 --> 00:20:48,016
+Jueves y viernes suenan parecidos,
+hasta yo los confundo.
+
+237
+00:20:48,359 --> 00:20:50,850
+¿Por qué no me fui a Atlanta como dije?
+
+238
+00:20:51,028 --> 00:20:53,019
+Eres decente. Si pones las maletas...
+
+239
+00:20:53,197 --> 00:20:54,186
+Vete al carajo.
+
+240
+00:20:54,865 --> 00:20:56,025
+Vete al carajo.
+
+241
+00:20:56,200 --> 00:20:59,863
+Dijiste que vendrías el jueves,
+así yo viajaba el viernes...
+
+242
+00:21:00,037 --> 00:21:03,131
+...compraba una tostadora
+y descansaba un día.
+
+243
+00:21:03,307 --> 00:21:06,208
+Ahora debo ir al aeropuerto.
+Llegaré a las 7:00.
+
+244
+00:21:06,377 --> 00:21:08,971
+Demasiado tarde para
+comprar una tostadora.
+
+245
+00:21:09,146 --> 00:21:14,049
+¡Ni podré desempacar porque tengo
+una fiesta de bienvenida a las 9:00!
+
+246
+00:21:16,220 --> 00:21:17,710
+Muévete, Lewis.
+
+247
+00:21:17,888 --> 00:21:18,718
+¡Muévete!
+
+248
+00:21:18,889 --> 00:21:20,880
+- ¡Muévete!
+- ¡Lo estás asustando!
+
+249
+00:21:21,392 --> 00:21:22,654
+Lewis.
+
+250
+00:21:25,629 --> 00:21:28,223
+Eso es porque lo dejas subir al sofá.
+
+251
+00:21:28,899 --> 00:21:29,661
+Toma.
+
+252
+00:21:31,669 --> 00:21:33,068
+Ya podemos irnos.
+
+253
+00:21:33,237 --> 00:21:35,068
+¿Cuánto tiempo los tendrás?
+
+254
+00:21:36,173 --> 00:21:38,004
+Van conmigo a Atlanta.
+
+255
+00:21:38,175 --> 00:21:40,405
+Son mis perros también. Los extraño.
+
+256
+00:21:41,178 --> 00:21:44,409
+¿Los quieres? O se van
+conmigo o se quedan contigo.
+
+257
+00:21:44,582 --> 00:21:46,243
+No podemos compartirlos.
+
+258
+00:21:46,417 --> 00:21:47,509
+Decide.
+
+259
+00:21:47,685 --> 00:21:48,913
+Una negociación.
+
+260
+00:21:49,353 --> 00:21:50,513
+Está bien.
+
+261
+00:21:50,654 --> 00:21:51,746
+¡Espera!
+
+262
+00:21:53,424 --> 00:21:54,584
+Tú ganas.
+
+263
+00:21:55,593 --> 00:21:56,753
+Quédatelos.
+
+264
+00:22:00,865 --> 00:22:02,093
+Vámonos.
+
+265
+00:22:02,266 --> 00:22:04,860
+Espera, debo decirte algo.
+Es importante.
+
+266
+00:22:06,103 --> 00:22:07,092
+Ahora me olvidé.
+
+267
+00:22:07,938 --> 00:22:11,101
+- Perderé mi avión.
+- Espera un minuto, ya me acuerdo.
+
+268
+00:22:13,210 --> 00:22:17,112
+Recuerda que les gustan esos
+huesos de tamaño mediano.
+
+269
+00:22:17,281 --> 00:22:20,216
+Ya sé, los pequeños con
+sabor a carne asada...
+
+270
+00:22:20,618 --> 00:22:21,710
+Lo sé.
+
+271
+00:22:22,119 --> 00:22:23,450
+Eso es.
+
+272
+00:22:25,222 --> 00:22:27,122
+Te ves muy cansado, Sam.
+
+273
+00:22:28,125 --> 00:22:30,116
+¿Tan mal era lo de Zaire?
+
+274
+00:22:31,562 --> 00:22:33,052
+Podría haber sido mejor.
+
+275
+00:22:34,798 --> 00:22:36,459
+Ten cuidado.
+
+276
+00:22:39,904 --> 00:22:41,394
+Te deseo buena suerte.
+
+277
+00:22:47,478 --> 00:22:49,241
+Dile que arranque ya.
+
+278
+00:22:52,650 --> 00:22:54,083
+Podemos irnos.
+
+279
+00:23:08,499 --> 00:23:12,435
+Eso no fue lo que dije. No lo entiendes.
+Trata de ser objetivo.
+
+280
+00:23:12,603 --> 00:23:15,333
+Déjame entender esto.
+¿No querías las fotos...
+
+281
+00:23:15,506 --> 00:23:17,497
+...pero querías los perros?
+- No es eso.
+
+282
+00:23:17,675 --> 00:23:21,338
+Podrías haberte llevado una foto
+de los perros y resuelto todo.
+
+283
+00:23:21,512 --> 00:23:23,446
+Te abro mi corazón y tú bromeas.
+
+284
+00:23:23,614 --> 00:23:25,275
+- No bromeo.
+- Los tuvimos desde cachorros.
+
+285
+00:23:25,449 --> 00:23:27,110
+- Eran adorables.
+- No es eso.
+
+286
+00:23:27,284 --> 00:23:30,617
+- Igual son adorables.
+- Eran nuestros y ahora no lo son.
+
+287
+00:23:30,754 --> 00:23:33,450
+Los perros son un caso
+para la Corte Suprema.
+
+288
+00:23:33,624 --> 00:23:34,784
+¿Tengo razón o no?
+
+289
+00:23:34,959 --> 00:23:39,293
+Estamos frente al virus más letal
+que conocemos. Piensa en eso.
+
+290
+00:23:39,463 --> 00:23:41,454
+¿Tengo razón? Es una pregunta.
+
+291
+00:23:41,632 --> 00:23:45,966
+Tiene un puesto nuevo en CCE.
+No, tiene tu puesto en CCE.
+
+292
+00:23:46,136 --> 00:23:48,798
+- Hace bien.
+- Como sea, empieza una nueva vida.
+
+293
+00:23:48,973 --> 00:23:50,463
+No va a regresar.
+
+294
+00:23:50,641 --> 00:23:54,634
+Se acabó. Sigue adelante porque,
+francamente, me cansé de oírlo.
+
+295
+00:23:54,812 --> 00:23:56,871
+Está bien. ¿Qué significa "se acabó"?
+
+296
+00:23:57,047 --> 00:23:59,379
+Necesitas ayuda médica, de veras.
+
+297
+00:24:00,718 --> 00:24:05,155
+Un divorcio firmado es prueba
+fehaciente de que algo está mal.
+
+298
+00:24:05,322 --> 00:24:07,381
+¿Ella dijo que se acabó?
+
+299
+00:24:07,558 --> 00:24:10,049
+¿Sabes cómo fui amigo de los dos?
+
+300
+00:24:10,227 --> 00:24:13,060
+- ¿Cómo?
+- No hablo de estos temas.
+
+301
+00:24:13,230 --> 00:24:17,064
+No te pido que tomes partido.
+No se llevó los perros por mala.
+
+302
+00:24:17,234 --> 00:24:19,395
+- Te estoy pidiendo tu opinión.
+- ¿Qué es esto?
+
+303
+00:24:20,170 --> 00:24:22,331
+No revisaste tu traje. Está roto.
+
+304
+00:24:31,348 --> 00:24:33,009
+Te deja sin aliento.
+
+305
+00:24:43,360 --> 00:24:44,588
+Gracias.
+
+306
+00:24:46,697 --> 00:24:48,358
+- Buenos días, coronel.
+- Buenos días.
+
+307
+00:24:48,532 --> 00:24:51,092
+Me tomé la libertad de
+traer las muestras.
+
+308
+00:24:51,268 --> 00:24:52,599
+Un madrugador.
+
+309
+00:24:52,770 --> 00:24:53,759
+Yo, a las 4:00.
+
+310
+00:24:53,937 --> 00:24:58,431
+A trabajar. Sepáralas y
+ponlas bajo el microscopio.
+
+311
+00:24:58,609 --> 00:24:59,371
+Hecho.
+
+312
+00:24:59,543 --> 00:25:01,704
+- Tendremos resultados pronto.
+- Bien.
+
+313
+00:25:02,780 --> 00:25:06,773
+Escuchen qué melodiosa
+suena la palabra. Motaba.
+
+314
+00:25:06,950 --> 00:25:09,783
+Saben, suena como un perfume.
+
+315
+00:25:09,953 --> 00:25:12,285
+Una gota y te sentirás diferente.
+
+316
+00:25:12,456 --> 00:25:15,550
+Tu amada se derretirá en tus brazos.
+Toma, pruébalo.
+
+317
+00:25:18,395 --> 00:25:19,953
+Manos rápidas.
+
+318
+00:25:21,065 --> 00:25:22,464
+Pero no como las mías.
+
+319
+00:25:23,467 --> 00:25:26,300
+No te fíes de esto.
+Debes estar listo para todo.
+
+320
+00:25:26,470 --> 00:25:29,132
+Todo aquí puede matarte.
+Incluso el aire.
+
+321
+00:25:29,640 --> 00:25:31,972
+Muy bien, señores, aquí vamos.
+
+322
+00:25:32,309 --> 00:25:37,144
+Estas son de un período de 8 hrs.
+Células de riñón sanas sin el virus.
+
+323
+00:25:38,315 --> 00:25:42,479
+En una hora, un virus ha invadido,
+se ha multiplicado y mató la célula.
+
+324
+00:25:43,087 --> 00:25:44,987
+En poco más de 2 horas...
+
+325
+00:25:45,155 --> 00:25:48,488
+...su prole invadió las
+células cercanas aquí y aquí.
+
+326
+00:25:48,659 --> 00:25:50,650
+Multiplicándose continuamente.
+
+327
+00:25:50,828 --> 00:25:53,092
+¡Santo cielo! ¿Cinco horas?
+
+328
+00:25:53,497 --> 00:25:55,431
+¿Mata con tanta rapidez?
+
+329
+00:25:55,599 --> 00:25:59,000
+No puede ser correcto.
+El Ebola toma días para hacer esto.
+
+330
+00:25:59,169 --> 00:26:03,162
+Señores, los números son correctos.
+Ojalá no lo fueran.
+
+331
+00:26:03,841 --> 00:26:05,672
+Entra uno, brotan millones.
+
+332
+00:26:06,009 --> 00:26:07,840
+Y todas las células mueren.
+
+333
+00:26:08,612 --> 00:26:10,671
+Ahora las vemos individualmente...
+
+334
+00:26:11,348 --> 00:26:13,612
+...buscando su próxima víctima...
+
+335
+00:26:13,851 --> 00:26:16,115
+...hasta que no queda nada por matar.
+
+336
+00:26:16,854 --> 00:26:18,515
+Recuerda este día, Salt.
+
+337
+00:26:18,689 --> 00:26:22,022
+Uno puede pasar la carrera
+esperando ver un nuevo virus.
+
+338
+00:26:25,129 --> 00:26:25,925
+Caballeros...
+
+339
+00:26:26,697 --> 00:26:28,358
+...el Sr. Motaba...
+
+340
+00:26:28,699 --> 00:26:30,860
+...en un primer plano personal.
+
+341
+00:26:31,702 --> 00:26:33,465
+Odio a este bichito.
+
+342
+00:26:34,304 --> 00:26:35,862
+Vamos, Casey.
+
+343
+00:26:36,473 --> 00:26:38,703
+Tienes que apreciar su simpleza.
+
+344
+00:26:39,209 --> 00:26:41,871
+Es microscópico y nos está matando.
+
+345
+00:26:42,045 --> 00:26:44,206
+¿Qué, quieres invitarlo a cenar?
+
+346
+00:26:44,481 --> 00:26:45,709
+¿Si no qué?
+
+347
+00:26:46,049 --> 00:26:47,209
+Matarlo.
+
+348
+00:27:43,173 --> 00:27:46,267
+- "Motaba Purificado No. 7"
+- "Motaba 1967"
+
+349
+00:27:47,110 --> 00:27:50,705
+Daniels no apreciará que
+hagamos esto a sus espaldas.
+
+350
+00:27:50,881 --> 00:27:52,781
+Entonces lo mataremos.
+
+351
+00:27:54,718 --> 00:27:57,278
+Anímate. No tenemos alternativa.
+
+352
+00:27:57,454 --> 00:28:00,617
+Eres un sentimental.
+Ese es el problema de este país.
+
+353
+00:28:02,125 --> 00:28:03,888
+Los micrógrafos están listos.
+
+354
+00:28:04,061 --> 00:28:05,289
+Están listos.
+
+355
+00:28:09,466 --> 00:28:13,459
+"Valle de Motaba - Zaire 1967"
+"Valle de Motaba - Zaire - Daniels"
+
+356
+00:28:13,637 --> 00:28:17,573
+¡Ay, Dios mío! Es nuestro
+amigo africano. Ha regresado.
+
+357
+00:28:17,741 --> 00:28:20,904
+Tenemos que tener mucho cuidado.
+
+358
+00:28:21,245 --> 00:28:24,908
+Aniquilamos un campamento entero
+para mantener secreto este virus.
+
+359
+00:28:25,983 --> 00:28:27,974
+Cancélalo. Olvídalo.
+
+360
+00:28:28,418 --> 00:28:31,819
+Tú sabes sobre esto, yo
+sé sobre esto, nadie más.
+
+361
+00:28:32,089 --> 00:28:34,922
+Saca a tu amigo Daniels del caso.
+
+362
+00:28:35,092 --> 00:28:39,495
+No quiero que ese desgraciado
+entremetido arruine 30 años de trabajo.
+
+363
+00:28:43,600 --> 00:28:44,658
+¿Está adentro?
+
+364
+00:28:44,835 --> 00:28:46,496
+Un minuto, por favor.
+
+365
+00:28:48,171 --> 00:28:49,103
+Entra.
+
+366
+00:28:52,442 --> 00:28:56,606
+¿Me traes una taza de café?
+¿Quieres algo?
+
+367
+00:28:56,780 --> 00:28:58,509
+¿Por qué me sacaste de Motaba?
+
+368
+00:28:58,682 --> 00:29:00,172
+Nada para el coronel.
+
+369
+00:29:02,185 --> 00:29:03,516
+Siéntate.
+
+370
+00:29:05,455 --> 00:29:08,356
+¿No dijiste que Motaba estaba contenido?
+
+371
+00:29:08,525 --> 00:29:10,117
+Reaparecerá otra vez.
+
+372
+00:29:10,460 --> 00:29:13,293
+No tenemos análisis de sangre.
+No sabemos cómo se transmite.
+
+373
+00:29:13,463 --> 00:29:16,296
+Hay un nuevo brote de fiebre
+de Hanta en Nuevo México.
+
+374
+00:29:16,466 --> 00:29:18,195
+CCE necesita ayuda. Irás tú.
+
+375
+00:29:18,368 --> 00:29:19,630
+Envía a Peterson.
+
+376
+00:29:19,803 --> 00:29:22,135
+¡No me diga a quién enviar, coronel!
+
+377
+00:29:22,306 --> 00:29:25,207
+Le dije al Senador Rosales
+que enviaría al mejor. Tú.
+
+378
+00:29:25,375 --> 00:29:26,535
+Ahora vete.
+
+379
+00:29:26,710 --> 00:29:28,701
+Tenemos la información básica.
+
+380
+00:29:28,879 --> 00:29:31,370
+¿Qué voy a hacer ahí? ¿Cazar ratas?
+
+381
+00:29:31,548 --> 00:29:34,312
+Estamos cultivando el virus.
+Aislamos las proteínas.
+
+382
+00:29:34,484 --> 00:29:38,716
+Tendremos una prueba de anticuerpos.
+Casey lo puso en ratas y monos...
+
+383
+00:29:38,889 --> 00:29:41,722
+...y sabremos su secuencia
+genética en un mes.
+
+384
+00:29:41,892 --> 00:29:46,056
+Si nos dejas trabajar, llegaremos
+hasta el último gene de este virus.
+
+385
+00:29:48,398 --> 00:29:52,664
+Las posibilidades de que Motaba cause
+problemas es de un millón a uno.
+
+386
+00:29:52,836 --> 00:29:55,327
+- No sé eso.
+- Deberías saberlo.
+
+387
+00:29:55,505 --> 00:29:59,339
+Lo sabrías si no albergaras el
+deseo de ver el fin del mundo.
+
+388
+00:30:03,847 --> 00:30:05,576
+Es lo peor que he visto.
+
+389
+00:30:05,749 --> 00:30:07,580
+Cielos, cómo me fastidias.
+
+390
+00:30:08,185 --> 00:30:11,586
+- Un virus nuevo.
+- Me sigues fastidiando.
+
+391
+00:30:28,438 --> 00:30:33,102
+Biotest, Almacén de Animales para
+Pruebas. San José, California
+
+392
+00:30:36,880 --> 00:30:38,609
+Hay algunos baches, amiguito.
+
+393
+00:30:40,283 --> 00:30:42,046
+Está bien, amiguito.
+
+394
+00:30:42,452 --> 00:30:46,115
+Te sacaremos de aquí muy pronto.
+Te lo prometo.
+
+395
+00:30:46,790 --> 00:30:48,781
+- ¿Cuándo lo conseguiste?
+- Hoy.
+
+396
+00:30:49,726 --> 00:30:51,455
+- ¿Sigue en pie?
+- El lo quiere.
+
+397
+00:30:59,136 --> 00:31:00,728
+Ah, ya entiendo.
+
+398
+00:31:00,904 --> 00:31:04,067
+- ¿Así que llegó tu barco, Jimbo?
+- Nuestro barco.
+
+399
+00:31:06,309 --> 00:31:09,904
+África, tierra de gran
+belleza y riquezas ocultas.
+
+400
+00:31:10,414 --> 00:31:12,905
+- Absolutamente ocultas.
+- Que sigan así.
+
+401
+00:31:15,652 --> 00:31:16,914
+Hasta pronto.
+
+402
+00:31:19,489 --> 00:31:22,481
+- Diles que emitan una alerta.
+- No lo haré.
+
+403
+00:31:22,659 --> 00:31:25,150
+¿Por qué discutes conmigo?
+
+404
+00:31:25,662 --> 00:31:28,426
+No basaré mi 1ra. Decisión
+oficial en una corazonada.
+
+405
+00:31:28,598 --> 00:31:32,659
+No es una corazonada. ¡Tengo un
+laboratorio lleno de animales muertos!
+
+406
+00:31:32,836 --> 00:31:36,670
+No responden al aciclovir
+intravenoso. Están muertos.
+
+407
+00:31:36,840 --> 00:31:41,106
+¡Pues claro! Los inyectaste con la
+misma aguja. ¿Dónde está la prueba?
+
+408
+00:31:41,278 --> 00:31:43,178
+No necesito. Es un presentimiento.
+
+409
+00:31:43,346 --> 00:31:45,678
+Tu presentimiento figura en mis notas.
+
+410
+00:31:45,849 --> 00:31:49,182
+Esto es muy simple.
+Mata lo que encuentra a su paso.
+
+411
+00:31:49,352 --> 00:31:51,445
+Diles que emitan una alerta.
+
+412
+00:31:51,621 --> 00:31:54,283
+Esto me suena conocido. ¿Es una orden?
+
+413
+00:31:54,458 --> 00:31:57,689
+Estás convirtiendo un virus
+mortal en un asunto de familia.
+
+414
+00:31:57,861 --> 00:31:59,192
+Esto no es personal.
+
+415
+00:31:59,362 --> 00:32:03,526
+No puedo seguir así. ¡Por una
+vez en tu vida, corre un riesgo!
+
+416
+00:32:03,700 --> 00:32:06,191
+¿Sabes una cosa? Lo hice.
+Me casé contigo.
+
+417
+00:32:07,804 --> 00:32:09,362
+Colgaste.
+
+418
+00:32:10,373 --> 00:32:14,537
+Primero, los perros, ahora peleamos
+por un virus. No puedo creerlo.
+
+419
+00:32:21,985 --> 00:32:23,976
+¿Qué tienes?
+
+420
+00:32:27,390 --> 00:32:30,154
+Se supone que la música
+calma a las bestias.
+
+421
+00:32:30,560 --> 00:32:31,390
+¿Qué?
+
+422
+00:32:33,163 --> 00:32:35,393
+Ay, cielos, desgraciado.
+
+423
+00:32:38,835 --> 00:32:42,168
+Tienda de Mascotas de Rudy.
+Cedar Creek, California.
+
+424
+00:32:42,405 --> 00:32:44,236
+- Bienvenido.
+- Mira, mira.
+
+425
+00:32:44,407 --> 00:32:45,897
+Echemos un vistazo.
+
+426
+00:32:46,076 --> 00:32:47,509
+¿Tienes los documentos?
+
+427
+00:32:47,677 --> 00:32:49,668
+Documentos. Qué buen chiste.
+
+428
+00:32:49,846 --> 00:32:52,508
+Mírala. Pediste una mona, te traje una.
+
+429
+00:32:52,682 --> 00:32:55,845
+- ¿Qué significa "mírala"?
+- ¿Qué estás diciendo?
+
+430
+00:32:56,586 --> 00:32:57,917
+Te dije un macho.
+
+431
+00:32:58,088 --> 00:32:59,749
+No, dijiste hembra.
+
+432
+00:32:59,923 --> 00:33:02,756
+El cliente tiene una hembra.
+Quiere cría.
+
+433
+00:33:04,528 --> 00:33:06,086
+¡Maldita sea! ¡Carajo!
+
+434
+00:33:06,263 --> 00:33:07,855
+Está bien. Está bien.
+
+435
+00:33:08,098 --> 00:33:11,261
+Muy bien, muy bien. Te la vendo barata.
+
+436
+00:33:12,035 --> 00:33:15,527
+- Vamos, ayúdame.
+- Teníamos un trato. Metiste la pata.
+
+437
+00:33:15,705 --> 00:33:17,605
+Ni siquiera puedo vender esa. Mira.
+
+438
+00:33:17,774 --> 00:33:21,210
+Te lo mereces.
+¿Qué voy a hacer con ella?
+
+439
+00:33:27,784 --> 00:33:30,116
+"Oficina del Director"
+
+440
+00:33:32,389 --> 00:33:35,620
+La advertencia aparecerá
+en nuestro informe.
+
+441
+00:33:36,393 --> 00:33:40,454
+El Coronel Daniels cree que su gravedad
+justifica una alerta especial.
+
+442
+00:33:40,964 --> 00:33:45,458
+¿Sabes cuánto cuesta enviar una
+alerta a 400 mil colegas de sanidad?
+
+443
+00:33:45,635 --> 00:33:48,399
+En 1989, predijo el Hanta y sucedió.
+
+444
+00:33:48,572 --> 00:33:52,565
+Creo que puedo comprender tu
+lealtad a tu ex esposo...
+
+445
+00:33:52,742 --> 00:33:54,300
+...pero ambos sabemos...
+
+446
+00:33:54,477 --> 00:33:59,073
+...que las posibilidades de que este
+virus surja en EE. UU. Son nulas.
+
+447
+00:34:04,254 --> 00:34:05,744
+Vete, muchacha.
+
+448
+00:34:06,423 --> 00:34:08,152
+Sí, es la libertad.
+
+449
+00:34:08,425 --> 00:34:10,154
+Mira los árboles.
+
+450
+00:34:10,327 --> 00:34:11,259
+Es como tu hogar.
+
+451
+00:34:12,829 --> 00:34:14,319
+Muy bien.
+
+452
+00:34:14,831 --> 00:34:15,923
+Eso es.
+
+453
+00:34:17,500 --> 00:34:19,934
+No me mires así.
+
+454
+00:34:21,504 --> 00:34:23,165
+No, vete.
+
+455
+00:34:28,445 --> 00:34:30,936
+Me quedaría contigo,
+pero ya tengo compañera.
+
+456
+00:34:31,348 --> 00:34:33,179
+Vamos, vete.
+
+457
+00:34:35,118 --> 00:34:36,517
+Eso es.
+
+458
+00:34:44,794 --> 00:34:47,024
+Les habla el Capitán Carter otra vez.
+
+459
+00:34:47,197 --> 00:34:49,859
+Deben regresar a sus asientos...
+
+460
+00:34:50,033 --> 00:34:52,866
+...estamos acercándonos
+al Aeropuerto Logan.
+
+461
+00:34:53,036 --> 00:34:54,799
+Hola, vaquero.
+
+462
+00:34:54,971 --> 00:34:56,802
+Qué lindo.
+
+463
+00:35:03,880 --> 00:35:05,142
+Oiga, señor.
+
+464
+00:35:06,883 --> 00:35:09,374
+¿Va a terminar esa galleta?
+
+465
+00:35:12,722 --> 00:35:14,155
+Puedes llevártela.
+
+466
+00:35:17,394 --> 00:35:20,158
+No, no, Bobby, no molestes al señor.
+
+467
+00:35:20,497 --> 00:35:22,055
+No hay problema.
+
+468
+00:35:22,732 --> 00:35:25,496
+No quiero problemas con la ley.
+
+469
+00:35:37,347 --> 00:35:40,908
+Aeropuerto Logan, Boston
+
+470
+00:35:42,018 --> 00:35:43,417
+¡Jimbo!
+
+471
+00:35:45,922 --> 00:35:47,913
+Te extrañé tanto.
+
+472
+00:35:49,092 --> 00:35:51,185
+Te ves fatal. ¿Qué tienes?
+
+473
+00:35:51,361 --> 00:35:54,353
+No sé. Algo que comí, supongo.
+
+474
+00:36:02,605 --> 00:36:03,936
+¿Qué tienes?
+
+475
+00:36:05,275 --> 00:36:07,436
+Cariño, háblame, ¿qué te pasa?
+
+476
+00:36:11,548 --> 00:36:12,776
+¡Socorro!
+
+477
+00:36:13,717 --> 00:36:15,275
+Buenos días, Rudy.
+
+478
+00:36:15,452 --> 00:36:18,717
+A Lucrecia no le gusta la
+carne de vaca, sólo la ternera.
+
+479
+00:36:19,622 --> 00:36:21,112
+¿Qué sucede?
+
+480
+00:36:24,394 --> 00:36:28,296
+Rudy, ¿me oyes? ¡Apriétame la mano!
+Parece un shock tóxico.
+
+481
+00:36:28,465 --> 00:36:30,456
+- Ayer estaba bien.
+- ¡Vamos!
+
+482
+00:36:30,633 --> 00:36:33,295
+Leí sobre estreptococos
+mortales en Newsweek.
+
+483
+00:36:33,470 --> 00:36:38,305
+Tal vez deba subscribirme. Henry,
+quiero cultivo y conteo de sangre.
+
+484
+00:36:38,475 --> 00:36:40,739
+¡Maldita sea, vamos, Rudy!
+
+485
+00:36:43,146 --> 00:36:45,637
+Un resultado final de seis a tres.
+
+486
+00:36:45,815 --> 00:36:47,146
+Mierda.
+
+487
+00:36:55,258 --> 00:36:56,316
+¡Carajo!
+
+488
+00:37:03,099 --> 00:37:04,999
+¿Y si tuviera SIDA o hepatitis?
+
+489
+00:37:05,168 --> 00:37:07,762
+Analizaremos la sangre. Descuida.
+
+490
+00:37:07,937 --> 00:37:12,340
+¿No debería darme gama globulina?
+No quiero contagiar a mi novia.
+
+491
+00:37:12,609 --> 00:37:14,941
+Nada de besitos hoy, entonces.
+
+492
+00:37:15,278 --> 00:37:18,509
+- Deberías comer.
+- No deberías comer esa basura.
+
+493
+00:37:18,681 --> 00:37:20,444
+Sabes que quieres una.
+
+494
+00:37:20,617 --> 00:37:21,675
+Tienes algo.
+
+495
+00:37:21,851 --> 00:37:25,116
+Brote de E-coli en Michigan
+en un restaurante.
+
+496
+00:37:25,288 --> 00:37:29,691
+Fiebres de origen desconocido en Boston.
+Los médicos están perplejos.
+
+497
+00:37:29,859 --> 00:37:32,794
+¿No serán exploradores
+africanos de Zaire?
+
+498
+00:37:32,962 --> 00:37:36,796
+Sí, claro. No, sólo dos jovencitos,
+ningún viaje exótico.
+
+499
+00:37:36,966 --> 00:37:40,697
+Una cadena atípica de Lyme y los
+médicos de Boston andan perdidos.
+
+500
+00:37:40,870 --> 00:37:41,529
+Lisa.
+
+501
+00:37:43,940 --> 00:37:45,931
+Resérvame pasaje a Boston.
+
+502
+00:37:46,810 --> 00:37:49,836
+Hospital Municipal de Boston
+
+503
+00:37:50,480 --> 00:37:51,708
+Por aquí.
+
+504
+00:37:53,716 --> 00:37:55,149
+Aquí.
+
+505
+00:38:08,231 --> 00:38:09,493
+James.
+
+506
+00:38:11,568 --> 00:38:13,502
+Jimbo, ¿puedes oírme?
+
+507
+00:38:17,173 --> 00:38:20,165
+Para ayudarte, debemos
+saber cómo te enfermaste.
+
+508
+00:38:20,343 --> 00:38:21,571
+¿Puedes hablar?
+
+509
+00:38:24,013 --> 00:38:25,173
+¿Hola?
+
+510
+00:38:26,916 --> 00:38:29,407
+¿Estuviste en contacto con animales?
+
+511
+00:38:44,934 --> 00:38:47,027
+- ¿Llamo al equipo?
+- Apáguela.
+
+512
+00:38:47,203 --> 00:38:49,262
+- ¿Qué es esto?
+- Vine para averiguarlo.
+
+513
+00:38:49,439 --> 00:38:52,772
+- Necesitamos una autopsia.
+- No, no voy a contagiarme eso.
+
+514
+00:38:52,942 --> 00:38:54,432
+- Yo no hago autopsias.
+- ¿Y Ud.?
+
+515
+00:38:54,611 --> 00:38:57,944
+- Yo la haré.
+- Ay, Dios, está muerto, ¿no?
+
+516
+00:38:59,449 --> 00:39:00,882
+- ¡Ay, Dios!
+- Querida.
+
+517
+00:39:01,050 --> 00:39:03,109
+- ¡No lo dejen morir!
+- Estamos haciendo lo posible.
+
+518
+00:39:03,286 --> 00:39:04,878
+Necesito que me ayudes.
+
+519
+00:39:05,054 --> 00:39:07,386
+- ¡Jimbo, di algo!
+- Mírame.
+
+520
+00:39:07,624 --> 00:39:10,115
+Alice, ¿Jimbo te dijo algo?
+
+521
+00:39:10,393 --> 00:39:12,224
+¿Te habló de algo?
+
+522
+00:39:22,238 --> 00:39:23,796
+Lentamente.
+
+523
+00:39:23,973 --> 00:39:26,567
+Máxima precaución con filos.
+
+524
+00:39:29,312 --> 00:39:30,574
+Despacio.
+
+525
+00:39:32,081 --> 00:39:34,641
+Déme el escalpelo. Ud. Me asistirá a mí.
+
+526
+00:39:54,103 --> 00:39:58,096
+Trabajaba en un almacén de animales
+en cuarentena en San José.
+
+527
+00:39:58,274 --> 00:40:00,765
+Estamos revisando a sus colegas.
+
+528
+00:40:00,944 --> 00:40:04,277
+El huésped podría estar ahí.
+No dejes salir a nadie.
+
+529
+00:40:04,447 --> 00:40:08,850
+Estamos aislando a todos.
+Personal médico, vecinos de la chica.
+
+530
+00:40:09,185 --> 00:40:11,847
+Cielos, Sam. Abrí a este muchacho.
+
+531
+00:40:12,121 --> 00:40:15,352
+Como si una bomba le hubiera
+explotado dentro. Páncreas, hígado...
+
+532
+00:40:15,525 --> 00:40:19,120
+...todos los órganos hechos puré.
+Debí dar el alerta.
+
+533
+00:40:19,295 --> 00:40:22,787
+Lo intentaste. Envía muestras de
+tejido a nuestros laboratorios.
+
+534
+00:40:22,966 --> 00:40:24,797
+Confirmaré que es Motaba.
+
+535
+00:40:24,968 --> 00:40:27,528
+- ¿Alguien más muestra síntomas?
+- No, aún no.
+
+536
+00:40:27,971 --> 00:40:32,032
+CCE emitió una alerta de Nivel 3.
+Si surgen casos nuevos...
+
+537
+00:40:32,208 --> 00:40:32,867
+...Dios mío...
+
+538
+00:40:33,042 --> 00:40:34,134
+...lo sabremos.
+
+539
+00:40:34,310 --> 00:40:35,538
+¿Y la muchacha?
+
+540
+00:40:35,878 --> 00:40:38,642
+Murió mientras yo hacía la
+autopsia. No viajó con él.
+
+541
+00:40:38,815 --> 00:40:43,218
+Entonces el primer contacto que
+tuvo con él, fue en el aeropuerto.
+
+542
+00:40:43,386 --> 00:40:46,549
+El avión llegó a las 9 P.M.
+La admitieron a las 6 A.M.
+
+543
+00:40:46,723 --> 00:40:49,385
+El período de incubación es de 24 horas.
+
+544
+00:40:49,559 --> 00:40:53,325
+- Esto se mueve tan rápidamente.
+- Eso nos favorece. Podemos verlo.
+
+545
+00:40:53,496 --> 00:40:55,657
+Si nadie cae pronto, estamos a salvo.
+
+546
+00:40:57,734 --> 00:40:59,395
+Nunca hablas así.
+
+547
+00:40:59,569 --> 00:41:02,003
+- ¿Cómo?
+- Una perspectiva optimista.
+
+548
+00:41:02,171 --> 00:41:05,402
+¿Por qué no? Aún creo que
+hay esperanza para nosotros.
+
+549
+00:41:08,878 --> 00:41:12,541
+Cine State. Cedar Creek, California.
+
+550
+00:41:38,107 --> 00:41:39,597
+¿Estás bien?
+
+551
+00:41:40,276 --> 00:41:42,540
+Voy a comprar algo para beber.
+
+552
+00:41:49,952 --> 00:41:51,783
+¿Qué te pasa?
+
+553
+00:41:52,722 --> 00:41:53,780
+Agua.
+
+554
+00:41:53,956 --> 00:41:55,389
+Espera tu turno.
+
+555
+00:41:55,558 --> 00:41:57,048
+Necesito agua.
+
+556
+00:42:27,256 --> 00:42:30,919
+Lo agarramos a tiempo y sobrevivirás.
+Pero tienes que resistir.
+
+557
+00:42:31,094 --> 00:42:34,154
+Dr. Mascelli. Dr. Mascelli a
+Emergencias, inmediatamente.
+
+558
+00:42:34,664 --> 00:42:35,926
+Mira quién está.
+
+559
+00:42:40,169 --> 00:42:42,501
+Tienes que resistir, ¿sí, Henry?
+
+560
+00:42:44,173 --> 00:42:45,333
+Tienes que resistir.
+
+561
+00:42:47,443 --> 00:42:49,502
+Se enfermó de pronto.
+
+562
+00:42:49,679 --> 00:42:53,012
+Yo creía que era gripe.
+Se desmayó. Vuela de fiebre.
+
+563
+00:43:08,297 --> 00:43:11,289
+Siguen viniendo. ¿Qué le
+pasa a toda esta gente?
+
+564
+00:43:11,467 --> 00:43:15,961
+¡No lo sé, Emma! ¡Comunícame con
+el Dept. De Salud, ahora mismo!
+
+565
+00:43:16,873 --> 00:43:20,172
+CCE - Centro de Control de Epidemias
+
+566
+00:43:21,477 --> 00:43:23,968
+Los pasajeros del avión están inmunes.
+
+567
+00:43:24,147 --> 00:43:27,480
+No hay infección en el hospital
+de Boston. ¡Pasó el peligro!
+
+568
+00:43:41,164 --> 00:43:43,155
+Robby. Dr. Reynolds.
+
+569
+00:43:47,837 --> 00:43:49,998
+Quince casos.
+
+570
+00:43:51,507 --> 00:43:53,566
+¿Hay otro brote?
+
+571
+00:43:53,743 --> 00:43:55,973
+- ¿Además del de Boston?
+- ¿Por qué lo dudas?
+
+572
+00:43:56,179 --> 00:44:00,343
+"CCE" y "USAMRIID" son las únicas
+agencias capaces de tratar el virus.
+
+573
+00:44:00,516 --> 00:44:02,746
+Por eso quiero partir esta noche.
+
+574
+00:44:02,919 --> 00:44:04,352
+Lo siento, no puedo.
+
+575
+00:44:04,520 --> 00:44:06,511
+¿Por qué me quieres fuera de esto?
+
+576
+00:44:06,689 --> 00:44:10,250
+Es un asunto civil. CCE está a cargo.
+Deja que hagan su trabajo.
+
+577
+00:44:10,426 --> 00:44:12,360
+No tenemos autoridad.
+
+578
+00:44:12,528 --> 00:44:17,090
+Al carajo la autoridad.
+Hay gente muriendo. ¡Eres un médico!
+
+579
+00:44:17,266 --> 00:44:19,860
+¡Hicimos un juramento sagrado!
+
+580
+00:44:20,036 --> 00:44:21,367
+Somos amigos.
+
+581
+00:44:21,537 --> 00:44:24,267
+Sí, somos amigos, ¡pero
+también soy tu jefe!
+
+582
+00:44:24,440 --> 00:44:27,705
+¡Dirijo esta organización!
+¡Haces lo que te ordeno!
+
+583
+00:44:29,612 --> 00:44:32,046
+Soy tu jefe. Tengo mi jefe. ¿Entiendes?
+
+584
+00:44:32,381 --> 00:44:34,611
+Llama a tu jefe por teléfono.
+
+585
+00:44:35,051 --> 00:44:38,885
+Dile que me ponga en un avión antes
+de que tú y él maten mucha gente.
+
+586
+00:44:39,055 --> 00:44:43,788
+Sugiero que te calles ahora.
+No olvides con quién estás hablando.
+
+587
+00:44:43,960 --> 00:44:46,554
+Ya no sé con quién estoy hablando.
+
+588
+00:44:46,729 --> 00:44:50,062
+¿Con USAMRIID, el Pentágono,
+la CIA, o McClintock?
+
+589
+00:44:50,233 --> 00:44:53,225
+- Dime con quién estoy hablando.
+- Esta conversación terminó.
+
+590
+00:44:54,070 --> 00:44:55,731
+Irás a Nuevo México.
+
+591
+00:44:55,905 --> 00:45:00,638
+¡Sugiero que empaques o hagas lo que
+sea y sugiero que lo hagas ahora!
+
+592
+00:45:16,492 --> 00:45:19,984
+¿Quién metió la pata?
+¿Por qué no está mi piloto?
+
+593
+00:45:20,329 --> 00:45:24,595
+Ford me llamó a las 2:00 y me ordenó
+ir a Cedar Creek, California.
+
+594
+00:45:24,767 --> 00:45:26,257
+Ud. Va a Alburquerque.
+
+595
+00:45:26,435 --> 00:45:29,427
+¡No voy a Alburquerque!
+¡Voy a Cedar Creek!
+
+596
+00:45:29,605 --> 00:45:32,267
+Llame a Ford para que
+confirme las órdenes.
+
+597
+00:45:32,441 --> 00:45:34,500
+No, déme ese teléfono.
+
+598
+00:45:34,677 --> 00:45:37,168
+- No, mejor lo confirmo.
+- ¿Ud. Sabe qué hora es?
+
+599
+00:45:37,346 --> 00:45:38,176
+2:30.
+
+600
+00:45:38,347 --> 00:45:42,613
+Correcto. Modifique el itinerario
+por orden mía. Llame y cámbielo.
+
+601
+00:45:42,785 --> 00:45:45,015
+¡Ponga el dedo en el teléfono!
+
+602
+00:45:45,187 --> 00:45:46,347
+Podrían degradarme.
+
+603
+00:45:46,522 --> 00:45:49,013
+Será su pellejo si no llama.
+
+604
+00:45:49,191 --> 00:45:51,284
+Marque el número. Márquelo.
+
+605
+00:45:52,128 --> 00:45:53,186
+Gracias.
+
+606
+00:46:31,500 --> 00:46:33,991
+Laboratorio de Pruebas, Utah
+
+607
+00:46:34,170 --> 00:46:38,402
+Procede a Cedar Creek con el 1er.
+Batallón de la 8va. Infantería.
+
+608
+00:46:38,574 --> 00:46:43,170
+Necesitamos velocidad de transmisión
+de insectos, peces, animales.
+
+609
+00:46:43,346 --> 00:46:47,339
+Si se está propagando, necesitamos
+saber adónde va y a qué velocidad.
+
+610
+00:46:47,917 --> 00:46:49,179
+Y Billy...
+
+611
+00:46:49,919 --> 00:46:52,683
+...esperamos instrucciones
+para Limpieza Total.
+
+612
+00:46:54,690 --> 00:46:58,524
+Tú y yo sabemos que podemos
+tirarles un salvavidas.
+
+613
+00:46:58,694 --> 00:47:01,185
+Debemos proceder con
+contención convencional.
+
+614
+00:47:01,364 --> 00:47:04,197
+Y debes mantener un
+bloqueo total de la prensa.
+
+615
+00:47:04,367 --> 00:47:07,268
+Controla a tus subordinados.
+¿Daniels obedeció?
+
+616
+00:47:07,436 --> 00:47:08,767
+Sí, señor.
+
+617
+00:47:09,038 --> 00:47:12,098
+Hasta que no lo vea,
+no lo creo. ¿Algo más?
+
+618
+00:47:12,775 --> 00:47:14,037
+No, señor.
+
+619
+00:47:14,210 --> 00:47:15,609
+Buena suerte, Billy.
+
+620
+00:49:40,689 --> 00:49:42,919
+Traigan los suministros.
+
+621
+00:49:46,695 --> 00:49:49,425
+- ¿Por qué demoran tanto?
+- Ya están aquí.
+
+622
+00:49:49,598 --> 00:49:52,431
+Ray Fowler, jefe de policía.
+El Alcalde Gaddis.
+
+623
+00:49:52,601 --> 00:49:55,536
+Soy la Dra. Keough de CCE.
+La Dra. Aronson y el Dr. Ruiz.
+
+624
+00:49:55,704 --> 00:49:59,936
+Este es un pueblo pequeño.
+Somos una familia. Estamos asustados.
+
+625
+00:50:00,109 --> 00:50:04,273
+Lo sé y vinimos para ayudarlos en
+lo que podamos. Yo estaré a cargo.
+
+626
+00:50:04,446 --> 00:50:06,277
+Creí que él estaba a cargo.
+
+627
+00:50:08,050 --> 00:50:11,042
+Hola, Robby. Acabamos de
+instalar la unidad móvil.
+
+628
+00:50:11,220 --> 00:50:14,280
+¿Qué haces aquí? Creí que
+Ford te envió a Nuevo México.
+
+629
+00:50:14,456 --> 00:50:15,787
+Así fue.
+
+630
+00:50:25,734 --> 00:50:28,567
+Aquí mantenemos aislados
+a estos pacientes.
+
+631
+00:50:42,251 --> 00:50:44,151
+Hay tantos.
+
+632
+00:50:45,988 --> 00:50:48,252
+Tantos, tan rápido.
+
+633
+00:50:49,658 --> 00:50:52,320
+Aparentemente todos se
+contagiaron en un cine.
+
+634
+00:50:53,329 --> 00:50:54,421
+¿Dr. Daniels?
+
+635
+00:50:54,597 --> 00:50:57,498
+Creo que tiene que ver esto. Por aquí.
+
+636
+00:50:58,434 --> 00:51:00,994
+Este paciente ingresó hace una semana.
+
+637
+00:51:01,170 --> 00:51:04,162
+No tuvo contacto con
+los pacientes aislados.
+
+638
+00:51:37,072 --> 00:51:38,767
+Se transmite por aire.
+
+639
+00:51:59,228 --> 00:52:03,562
+- Tte. Coronel Briggs. Bienvenido.
+- Gracias. ¿Informe de la situación?
+
+640
+00:52:03,999 --> 00:52:08,561
+Desde las 6:20 hrs. Hemos establecido
+un perímetro interior y exterior.
+
+641
+00:52:08,737 --> 00:52:11,900
+Nadie violó el cordón desde
+entonces. Antes, no sé.
+
+642
+00:52:12,174 --> 00:52:15,007
+Hay 2,618 personas en este pueblo.
+
+643
+00:52:15,177 --> 00:52:18,408
+Quiero un informe de cada uno
+para las 9:00. Garantícemelo.
+
+644
+00:52:18,580 --> 00:52:20,070
+Nos estamos ocupando, señor.
+
+645
+00:52:21,517 --> 00:52:22,848
+Este es el cuartel general.
+
+646
+00:52:23,018 --> 00:52:26,078
+A propósito, Daniels está
+aquí violando órdenes.
+
+647
+00:52:26,255 --> 00:52:27,347
+Localícenlo.
+
+648
+00:52:27,523 --> 00:52:28,581
+Arréstenlo.
+
+649
+00:52:30,192 --> 00:52:31,523
+¡Despejen esta zona ahora!
+
+650
+00:52:31,694 --> 00:52:32,922
+¡Tenemos derechos civiles!
+
+651
+00:52:42,771 --> 00:52:44,363
+¿Qué está haciendo?
+
+652
+00:52:48,577 --> 00:52:50,738
+¡No puede hacernos esto!
+
+653
+00:52:51,947 --> 00:52:53,938
+Esta es una cadena diferente.
+
+654
+00:52:54,116 --> 00:52:58,052
+Esta es la que obtuvimos de Jimbo
+Scott, la original de Zaire.
+
+655
+00:52:58,220 --> 00:53:00,211
+Esta nueva es de Cedar Creek.
+
+656
+00:53:00,389 --> 00:53:02,949
+Se ven iguales. Pero...
+
+657
+00:53:03,726 --> 00:53:04,886
+...más cerca...
+
+658
+00:53:06,462 --> 00:53:08,396
+...y más cerca.
+
+659
+00:53:08,564 --> 00:53:10,395
+¿Ven las diferencias?
+
+660
+00:53:11,300 --> 00:53:12,733
+Los dientes aquí y aquí.
+
+661
+00:53:12,901 --> 00:53:16,894
+El código proteico cambió y puede
+sobrevivir más tiempo en el aire.
+
+662
+00:53:17,072 --> 00:53:18,733
+Se propaga como la gripe.
+
+663
+00:53:18,907 --> 00:53:20,397
+Casey, ¿cadena de muertes?
+
+664
+00:53:20,576 --> 00:53:25,240
+Suponiendo que esta cadena se originó
+con Seward, él infecta el cine.
+
+665
+00:53:25,414 --> 00:53:26,472
+Retrocedamos más.
+
+666
+00:53:26,648 --> 00:53:31,585
+Es un técnico médico. Se roció con
+una muestra de sangre de Alvarez.
+
+667
+00:53:31,754 --> 00:53:33,244
+¿Qué nos dice Alvarez?
+
+668
+00:53:33,422 --> 00:53:35,481
+Nada. Murió antes de que llegáramos.
+
+669
+00:53:35,657 --> 00:53:40,594
+Pero Alvarez murió de la cadena original.
+Seward murió de la nueva.
+
+670
+00:53:40,763 --> 00:53:43,425
+El virus no se alteró
+de pronto, así que...
+
+671
+00:53:43,599 --> 00:53:44,759
+...creo...
+
+672
+00:53:45,434 --> 00:53:49,427
+...que el animal huésped es
+portador de ambas cadenas.
+
+673
+00:53:50,272 --> 00:53:53,105
+Bien. Alvarez, Jimbo, ¿qué conexión hay?
+
+674
+00:53:53,275 --> 00:53:55,334
+- No encuentro ninguna.
+- Esperen un minuto.
+
+675
+00:53:55,577 --> 00:53:58,774
+- Alvarez vendía mascotas.
+- ¿Y recién me entero de esto?
+
+676
+00:53:58,947 --> 00:54:00,278
+Acaba de llegar.
+
+677
+00:54:00,449 --> 00:54:03,850
+Si el huésped está ahí, puede tener
+anticuerpos para ambas cadenas.
+
+678
+00:54:04,019 --> 00:54:06,010
+Ya estoy en la tienda de mascotas.
+
+679
+00:54:06,188 --> 00:54:10,124
+Salt, analiza la cadena nueva.
+Casey, análisis de sangre.
+
+680
+00:54:43,725 --> 00:54:45,556
+General, ¿tiene un minuto?
+
+681
+00:54:45,727 --> 00:54:49,219
+Aquí estás. Coronel, ponga
+a este hombre bajo custodia.
+
+682
+00:54:49,398 --> 00:54:52,060
+Problemas. El virus se
+dispersa en un gas.
+
+683
+00:54:52,234 --> 00:54:53,496
+¿Qué quieres decir?
+
+684
+00:54:53,669 --> 00:54:55,227
+Se transmite por el aire.
+
+685
+00:54:55,904 --> 00:54:58,236
+- ¿Nos permite?
+- Por supuesto, señor.
+
+686
+00:55:04,179 --> 00:55:07,842
+Dijiste que el Motaba sólo se
+transmitía por contacto humano.
+
+687
+00:55:08,417 --> 00:55:11,511
+Sé lo que dije, pero estamos
+frente a una cadena nueva.
+
+688
+00:55:11,753 --> 00:55:14,187
+- ¿Qué?
+- Se propaga como la gripe.
+
+689
+00:55:15,424 --> 00:55:16,857
+- ¡Imposible!
+- Bien.
+
+690
+00:55:17,025 --> 00:55:20,586
+Ve al hospital y verás. Ve sin
+máscara y lo verás claramente.
+
+691
+00:55:20,762 --> 00:55:24,596
+Hay 19 muertos, cientos infectados
+y se extiende rápidamente.
+
+692
+00:55:24,766 --> 00:55:27,530
+Aísla a los enfermos y
+digo aislarlos de verdad.
+
+693
+00:55:27,703 --> 00:55:30,194
+Mantén a todos los demás en sus casas.
+
+694
+00:55:30,372 --> 00:55:31,270
+¡Estamos en eso!
+
+695
+00:55:31,440 --> 00:55:35,103
+¡No es cierto! ¡Acabo de
+cruzarme con 100 personas!
+
+696
+00:55:35,277 --> 00:55:38,872
+¡Si uno lo tiene, 10 lo tienen!
+¡Si uno sale del pueblo...
+
+697
+00:55:39,047 --> 00:55:40,537
+...estamos fregados!
+
+698
+00:55:40,716 --> 00:55:42,877
+¡Y ya estamos fregados!
+
+699
+00:55:43,051 --> 00:55:44,780
+¡Adelante, arréstame!
+
+700
+00:55:44,953 --> 00:55:46,045
+¡Está bien!
+
+701
+00:55:47,556 --> 00:55:49,114
+No me amenaces.
+
+702
+00:55:49,291 --> 00:55:50,883
+Tampoco a mi gente.
+
+703
+00:55:51,059 --> 00:55:52,117
+Por favor.
+
+704
+00:55:53,462 --> 00:55:55,054
+Déjanos hacer nuestro trabajo.
+
+705
+00:55:55,898 --> 00:55:56,956
+Está bien, Sam.
+
+706
+00:56:01,236 --> 00:56:03,636
+- Nunca estuviste aquí.
+- No, sí estuve.
+
+707
+00:56:03,906 --> 00:56:05,737
+Seguí al virus hasta aquí.
+
+708
+00:56:06,241 --> 00:56:07,799
+Siempre estuve aquí.
+
+709
+00:56:10,312 --> 00:56:12,143
+No lo olvides.
+
+710
+00:56:17,419 --> 00:56:20,252
+El Ejército de EE. UU.
+Y el CCE informan...
+
+711
+00:56:20,422 --> 00:56:23,414
+...que el virus que
+atacó a esta ciudad...
+
+712
+00:56:23,592 --> 00:56:25,992
+...está contenido y
+se buscan respuestas.
+
+713
+00:56:26,161 --> 00:56:30,257
+Se declaró una cuarentena para
+proteger las poblaciones vecinas...
+
+714
+00:56:30,432 --> 00:56:34,163
+...y se extiende hasta el océano
+Pacífico, a 1.6 km de aquí.
+
+715
+00:56:34,436 --> 00:56:38,167
+Está entrando a una zona
+restringida. Vire la nave.
+
+716
+00:56:38,340 --> 00:56:40,774
+Está prohibido volar en esta zona.
+
+717
+00:56:53,522 --> 00:56:55,114
+Cuidado con los vidrios.
+
+718
+00:56:58,860 --> 00:57:02,193
+¡Regresen a sus casas!
+¡No se reúnan en la calle!
+
+719
+00:57:02,364 --> 00:57:04,298
+¡Regresen a sus casas!
+
+720
+00:57:07,869 --> 00:57:09,200
+Robby.
+
+721
+00:57:10,973 --> 00:57:12,964
+¿Podría ser el huésped?
+
+722
+00:57:16,044 --> 00:57:18,979
+Este mono está enfermo.
+No puede ser el huésped.
+
+723
+00:57:19,414 --> 00:57:22,577
+Debemos hacer un "ELISA".
+Regresemos al laboratorio.
+
+724
+00:57:25,988 --> 00:57:28,548
+No se le permite a nadie
+salir de la ciudad.
+
+725
+00:57:28,724 --> 00:57:33,320
+Cualquiera que intente salir,
+será detenido y arrestado.
+
+726
+00:57:33,829 --> 00:57:37,492
+Repito, tienen que dar
+la vuelta y regresar.
+
+727
+00:57:38,066 --> 00:57:40,057
+¿Qué rayos está haciendo Bobby?
+
+728
+00:57:41,570 --> 00:57:43,504
+Tommy, síguenos.
+
+729
+00:57:44,239 --> 00:57:47,003
+Tenemos que largarnos de aquí.
+Chicos, agáchense.
+
+730
+00:57:47,743 --> 00:57:51,577
+Mantengan la calma.
+Tienen que dar la vuelta y regresar.
+
+731
+00:58:22,611 --> 00:58:24,203
+¡A los árboles!
+
+732
+00:58:26,882 --> 00:58:28,543
+Detengan sus vehículos...
+
+733
+00:58:28,717 --> 00:58:30,378
+...luego desciendan.
+
+734
+00:58:30,786 --> 00:58:33,380
+Están simulando. Sigue manejando.
+
+735
+00:58:33,555 --> 00:58:36,956
+Han entrado a una zona
+restringida. Dispararemos.
+
+736
+00:58:37,125 --> 00:58:39,286
+Esta es la última advertencia.
+
+737
+00:58:43,732 --> 00:58:45,063
+¡Están disparando!
+
+738
+00:58:45,233 --> 00:58:47,292
+Rayos, no tienen adónde ir.
+
+739
+00:58:47,903 --> 00:58:49,734
+¡Sigue! ¡Ya casi estamos!
+
+740
+00:58:51,406 --> 00:58:53,397
+¿Qué están tratando de hacer?
+
+741
+00:59:08,924 --> 00:59:10,414
+¡Salgan del vehículo!
+
+742
+00:59:10,592 --> 00:59:12,150
+¡Las manos a la vista!
+
+743
+00:59:12,260 --> 00:59:15,457
+- ¡Muy bien, señora, salga!
+- ¡Ahora!
+
+744
+00:59:17,833 --> 00:59:19,994
+- ¿Cómo vamos?
+- Un momento.
+
+745
+00:59:20,168 --> 00:59:22,432
+Avísame en cuanto tengas algo.
+
+746
+00:59:26,274 --> 00:59:27,502
+¿Novedades?
+
+747
+00:59:27,676 --> 00:59:30,941
+Este mono se infectó
+con la cadena original.
+
+748
+00:59:31,113 --> 00:59:33,013
+No tiene anticuerpos, nada.
+
+749
+00:59:33,181 --> 00:59:37,948
+Bien. Eso significa que este mono
+se enfermó antes de la mutación.
+
+750
+00:59:38,120 --> 00:59:41,681
+Quizá vino de África con el
+huésped o lo pescó en Biotest.
+
+751
+00:59:41,857 --> 00:59:45,190
+En Biotest, no. CCE investigó todo.
+Motaba negativo.
+
+752
+00:59:45,360 --> 00:59:47,851
+- Verifiquen otra vez.
+- Saben lo que hacen.
+
+753
+00:59:48,029 --> 00:59:51,362
+Envía a tu gente, diles
+que verifiquen otra vez.
+
+754
+00:59:51,533 --> 00:59:54,696
+Y diles que luego lo
+verifiquen otra vez.
+
+755
+00:59:55,804 --> 00:59:57,362
+Bienvenida a casa.
+
+756
+00:59:59,307 --> 01:00:04,210
+El Ejército escaló la cuarentena en
+Cedar Creek, duplicando su número.
+
+757
+01:00:04,379 --> 01:00:07,712
+No hay comentarios sobre los
+detalles de la situación...
+
+758
+01:00:07,883 --> 01:00:09,874
+...y continúa el bloqueo periodístico.
+
+759
+01:00:10,051 --> 01:00:13,384
+Sólo podemos adivinar la
+gravedad de la propagación.
+
+760
+01:00:13,555 --> 01:00:16,490
+Nuestras fuentes indican
+entre 10 y 50 muertos.
+
+761
+01:00:16,658 --> 01:00:19,991
+Parece una zona de guerra
+y sólo podemos imaginar...
+
+762
+01:00:20,162 --> 01:00:23,563
+...el temor de los ciudadanos
+de este pueblo rural.
+
+763
+01:00:23,732 --> 01:00:28,328
+Sus voces están calladas.
+Todas las comunicaciones, cortadas.
+
+764
+01:00:28,503 --> 01:00:30,061
+A los que sí podemos oír...
+
+765
+01:00:30,238 --> 01:00:35,175
+...los que tienen información, no hablan.
+En una palabra, aterrador.
+
+766
+01:00:35,343 --> 01:00:38,176
+Un toque de queda militar está vigente.
+
+767
+01:00:38,346 --> 01:00:41,008
+Regresen a sus casas inmediatamente.
+
+768
+01:00:41,249 --> 01:00:46,084
+Quienes estén en las calles
+después de las 7:00 de la tarde...
+
+769
+01:00:46,354 --> 01:00:49,187
+...serán arrestados y confinados.
+
+770
+01:00:49,858 --> 01:00:51,587
+Regresen a sus hogares.
+
+771
+01:00:51,760 --> 01:00:53,694
+Estarán seguros ahí.
+
+772
+01:00:53,862 --> 01:00:56,763
+Regresen a sus hogares inmediatamente.
+
+773
+01:01:04,105 --> 01:01:08,371
+El perímetro está cerrado.
+Todos los civiles están en sus casas.
+
+774
+01:01:08,543 --> 01:01:13,207
+El personal militar sólo requiere
+equipo de protección mínimo.
+
+775
+01:01:16,051 --> 01:01:17,882
+- ¿Lo tienes?
+- Sí.
+
+776
+01:01:56,324 --> 01:01:58,656
+Fue una de las primeras infectadas.
+
+777
+01:02:00,762 --> 01:02:02,593
+¿Qué es el E-1101?
+
+778
+01:02:05,000 --> 01:02:07,935
+Un antisuero experimental
+de "Virología" de Yale.
+
+779
+01:02:09,938 --> 01:02:11,769
+Quizá valga la pena probarlo.
+
+780
+01:02:11,940 --> 01:02:16,274
+Leo publicaciones. Nunca leí sobre
+el E-1101. ¿Dónde lo conseguiste?
+
+781
+01:02:16,511 --> 01:02:18,001
+Puedo llamar a Yale.
+
+782
+01:02:18,179 --> 01:02:20,613
+Yo también quiero salvar a esta gente.
+
+783
+01:02:21,016 --> 01:02:23,450
+Estoy usando todo mi arsenal.
+
+784
+01:02:25,353 --> 01:02:27,787
+Tenemos que trabajar juntos, Sam.
+
+785
+01:02:29,124 --> 01:02:30,182
+¿Y es así?
+
+786
+01:02:31,459 --> 01:02:32,619
+¿Si es así qué?
+
+787
+01:02:32,961 --> 01:02:35,122
+¿Estamos trabajando juntos, señor?
+
+788
+01:02:40,635 --> 01:02:42,034
+Ay, rayos.
+
+789
+01:02:45,373 --> 01:02:48,206
+No pierdas el tiempo con
+llamadas telefónicas.
+
+790
+01:02:55,650 --> 01:02:56,878
+Permiso.
+
+791
+01:02:58,386 --> 01:02:59,717
+Ven aquí.
+
+792
+01:03:00,555 --> 01:03:05,219
+Dale esto al mono y también
+mézclalo con el virus y analízalo.
+
+793
+01:03:05,393 --> 01:03:06,826
+¿Qué es?
+
+794
+01:03:06,995 --> 01:03:09,225
+- ¿Qué parece ser?
+- Jugo de naranja no es.
+
+795
+01:03:09,397 --> 01:03:10,557
+No, eso no es.
+
+796
+01:03:10,732 --> 01:03:11,721
+¿Coronel?
+
+797
+01:03:11,900 --> 01:03:13,060
+¿Qué es?
+
+798
+01:03:14,569 --> 01:03:15,900
+No lo sé.
+
+799
+01:03:16,237 --> 01:03:17,829
+Quizá él nos lo diga.
+
+800
+01:03:22,744 --> 01:03:24,735
+Si se siente enfermo...
+
+801
+01:03:24,913 --> 01:03:29,680
+...cuelgue una funda de almohada o
+cualquier tela blanca en su puerta.
+
+802
+01:03:29,851 --> 01:03:34,754
+Los soldados lo llevarán para análisis
+y sabrá el resultado en horas.
+
+803
+01:03:35,423 --> 01:03:37,516
+Los síntomas son como los de la gripe.
+
+804
+01:03:37,859 --> 01:03:39,850
+Tos y fiebre elevada.
+
+805
+01:03:40,028 --> 01:03:43,520
+Quien exhiba estos síntomas debe
+presentarse inmediatamente.
+
+806
+01:03:43,698 --> 01:03:46,690
+Los médicos tienen la
+situación bajo control...
+
+807
+01:03:46,868 --> 01:03:49,200
+...y trabajan día y noche
+para hallar una cura.
+
+808
+01:03:59,114 --> 01:04:01,708
+Sólo me iré por unas horas.
+
+809
+01:04:03,218 --> 01:04:05,778
+Bueno, quizá tenga que pasar la noche.
+
+810
+01:04:05,954 --> 01:04:07,888
+Compórtense bien, chicas.
+
+811
+01:04:09,391 --> 01:04:12,724
+No olviden cepillarse los
+dientes antes de ir a dormir.
+
+812
+01:04:15,463 --> 01:04:18,557
+- No toques a mamá.
+- Ay, tesoro, no puedo.
+
+813
+01:04:23,138 --> 01:04:24,469
+Los quiero mucho.
+
+814
+01:04:52,267 --> 01:04:53,495
+Adiós.
+
+815
+01:05:34,809 --> 01:05:36,140
+Positivo.
+
+816
+01:05:43,218 --> 01:05:45,311
+Positivo, maldita sea.
+
+817
+01:05:47,655 --> 01:05:49,714
+Todo el pueblo está infectado.
+
+818
+01:06:20,522 --> 01:06:24,014
+Por aquí. Una sola fila.
+Sigan por el pasillo.
+
+819
+01:06:24,192 --> 01:06:25,853
+Salgan al campo.
+
+820
+01:06:26,027 --> 01:06:28,860
+Por aquí. Una sola fila.
+
+821
+01:06:59,060 --> 01:07:02,120
+Hace 14 días que no
+salen animales de aquí.
+
+822
+01:07:02,297 --> 01:07:06,131
+Verifiqué listas de almacenaje,
+manifiestos. Nada.
+
+823
+01:07:06,301 --> 01:07:10,738
+Habla con cada empleado.
+Alguien tiene que saber algo.
+
+824
+01:07:10,905 --> 01:07:13,465
+El origen de este desastre está ahí.
+
+825
+01:07:13,641 --> 01:07:17,304
+El huésped está ahí, Casey.
+No habló con todos.
+
+826
+01:07:17,478 --> 01:07:18,968
+Este café es espantoso.
+
+827
+01:07:19,147 --> 01:07:21,741
+- Ve a dormir un rato.
+- ¿Por qué no duermes tú?
+
+828
+01:07:21,916 --> 01:07:24,146
+- Yo dormí en julio.
+- Tengo que trabajar.
+
+829
+01:07:24,319 --> 01:07:28,153
+No me digas cuándo dormir.
+No te digo a ti cuándo dormir.
+
+830
+01:08:20,808 --> 01:08:21,866
+¿Qué ocurrió?
+
+831
+01:08:22,043 --> 01:08:25,979
+Nada. Tuve un ataque
+repentino de nervios.
+
+832
+01:08:27,315 --> 01:08:28,646
+Puedo terminar yo.
+
+833
+01:08:28,816 --> 01:08:33,150
+No, no, no, estoy bien.
+Detesto esos nervios, ¿sabes?
+
+834
+01:08:33,721 --> 01:08:36,053
+Deberían llamarlos "Sams".
+
+835
+01:08:37,492 --> 01:08:38,891
+¿Estás cansado?
+
+836
+01:08:39,727 --> 01:08:40,887
+Sí.
+
+837
+01:08:43,164 --> 01:08:45,496
+Casa Blanca, Reunión de Estado Mayor
+
+838
+01:08:45,667 --> 01:08:50,001
+La proyección más optimista de USAMRIID
+de la dispersión del virus es:
+
+839
+01:08:50,171 --> 01:08:51,502
+...24 horas...
+
+840
+01:08:51,673 --> 01:08:53,163
+...36 horas...
+
+841
+01:08:54,008 --> 01:08:55,669
+...48 horas.
+
+842
+01:08:56,010 --> 01:08:59,002
+La reducción debe
+considerarse objetivamente.
+
+843
+01:08:59,180 --> 01:09:03,014
+Sean compasivos, pero
+piensen globalmente.
+
+844
+01:09:03,751 --> 01:09:04,843
+Gracias.
+
+845
+01:09:06,254 --> 01:09:08,245
+Muy bien, muy bien. Por favor.
+
+846
+01:09:08,423 --> 01:09:11,756
+Se estima que el Presidente
+regresará en 20 horas.
+
+847
+01:09:11,926 --> 01:09:14,360
+Para entonces, quiere una recomendación.
+
+848
+01:09:14,529 --> 01:09:17,521
+Tengo entendido que Ud.
+Quiere bombardear Cedar Creek...
+
+849
+01:09:17,699 --> 01:09:21,100
+...población 2,600, con
+una bomba combustible...
+
+850
+01:09:21,269 --> 01:09:23,863
+...el arma no nuclear
+más poderosa que tenemos.
+
+851
+01:09:24,038 --> 01:09:28,702
+Funciona así: Explota, absorbe
+todo el oxígeno disponible...
+
+852
+01:09:28,876 --> 01:09:33,279
+...evapora todo dentro de 1.6 km:
+Hombres, mujeres, niños y el virus.
+
+853
+01:09:33,448 --> 01:09:37,043
+Destrucción completa, caso
+cerrado, se acabó la crisis.
+
+854
+01:09:37,785 --> 01:09:42,222
+Esta Constitución de los EE. UU.
+La he leído de comienzo a fin.
+
+855
+01:09:42,390 --> 01:09:46,121
+No dice que se evapore
+a 2,600 norteamericanos.
+
+856
+01:09:46,294 --> 01:09:48,785
+Pero sí dice en varias oportunidades...
+
+857
+01:09:49,130 --> 01:09:52,725
+...que "no se privará a nadie de
+su vida, libertad o propiedad...
+
+858
+01:09:52,900 --> 01:09:54,561
+...sin el proceso de ley".
+
+859
+01:09:55,737 --> 01:09:59,400
+Un par de cosas antes de
+considerar Limpieza Total:
+
+860
+01:09:59,574 --> 01:10:00,632
+Una...
+
+861
+01:10:00,808 --> 01:10:03,800
+...apoyo unánime al
+Presidente en esta acción.
+
+862
+01:10:03,978 --> 01:10:06,572
+Deben apoyar al Presidente públicamente.
+
+863
+01:10:06,748 --> 01:10:08,739
+¡Si él cae, Uds. Caen!
+
+864
+01:10:08,916 --> 01:10:10,315
+En segundo lugar...
+
+865
+01:10:10,485 --> 01:10:15,422
+...quiero que un ejército de expertos
+observe miles de experimentos...
+
+866
+01:10:15,590 --> 01:10:18,423
+...¡e informe a la prensa
+que no existía otro modo!
+
+867
+01:10:18,593 --> 01:10:20,322
+¿Quedó claro?
+
+868
+01:10:20,495 --> 01:10:24,659
+Ningún miembro del gobierno se
+acercará al Washington Post...
+
+869
+01:10:24,832 --> 01:10:27,926
+...para decir que él era la
+única voz de la oposición.
+
+870
+01:10:28,102 --> 01:10:32,835
+Si hay una voz de la oposición
+afuera, la quiero aquí adentro.
+
+871
+01:10:33,674 --> 01:10:36,438
+¡Esos son los ciudadanos de Cedar Creek!
+
+872
+01:10:37,011 --> 01:10:40,947
+¡Adelante! ¡Mírenlos!
+Estas no son estadísticas.
+
+873
+01:10:41,115 --> 01:10:43,106
+¡Son de carne y hueso!
+
+874
+01:10:43,518 --> 01:10:46,453
+Y quiero que impriman sus
+imágenes en su memoria.
+
+875
+01:10:46,621 --> 01:10:50,955
+Porque esas imágenes nos acecharán
+hasta el día de nuestra muerte.
+
+876
+01:12:22,617 --> 01:12:25,279
+"704 Personas Infectadas
+321 Personas Muertas"
+
+877
+01:12:25,453 --> 01:12:30,288
+1918. ¿Te acuerdas de Historia, Donny?
+La gran epidemia de influenza.
+
+878
+01:12:30,458 --> 01:12:34,394
+Dio vuelta al globo en 9 meses.
+Mató a 25 millones de personas.
+
+879
+01:12:34,562 --> 01:12:37,554
+Mi padre perdió tres
+hermanos con eso. ¿Y qué?
+
+880
+01:12:37,899 --> 01:12:41,733
+¿Y si había hombres que pudieron
+detenerla pero no lo hicieron?
+
+881
+01:12:42,303 --> 01:12:44,294
+¿Cómo los juzgaría la historia?
+
+882
+01:12:44,472 --> 01:12:45,962
+Ay, patrañas.
+
+883
+01:12:46,140 --> 01:12:50,474
+Roosevelt impidió que Stilwell
+fuera a Indochina. Provocó Vietnam.
+
+884
+01:12:50,645 --> 01:12:51,805
+¿Qué dice la historia?
+
+885
+01:12:51,979 --> 01:12:56,143
+Truman arrojó la bomba a los japoneses.
+Salvó vidas norteamericanas.
+
+886
+01:12:56,484 --> 01:13:01,080
+Los revisionistas dicen que tiró
+la bomba para asustar a los rusos.
+
+887
+01:13:01,255 --> 01:13:04,315
+Esos hombres estaban en
+guerra, Donny. Nosotros no.
+
+888
+01:13:04,492 --> 01:13:07,154
+Estamos en guerra.
+Todos están en guerra.
+
+889
+01:13:07,595 --> 01:13:12,498
+Tengo luz verde presidencial
+para Limpieza Total y procederé.
+
+890
+01:13:16,771 --> 01:13:19,103
+Esta gente son norteamericanos.
+
+891
+01:13:20,608 --> 01:13:23,771
+2,600 norteamericanos
+muertos o agonizantes.
+
+892
+01:13:24,445 --> 01:13:29,348
+Si ese virus sale de ahí, 260 millones
+estarán muertos o agonizantes.
+
+893
+01:13:30,618 --> 01:13:33,280
+Esas personas son víctimas de guerra.
+
+894
+01:13:34,956 --> 01:13:37,447
+Les daría una medalla
+a todos si pudiera...
+
+895
+01:13:37,858 --> 01:13:40,452
+...pero son víctimas de guerra.
+
+896
+01:13:48,135 --> 01:13:49,625
+Eso es todo.
+
+897
+01:13:49,870 --> 01:13:51,030
+Entre.
+
+898
+01:13:54,976 --> 01:13:56,534
+- Neal, ¿verdad?
+- Sí, señor.
+
+899
+01:13:56,711 --> 01:13:59,874
+Tengo que hacerle unas
+preguntas. Tome asiento.
+
+900
+01:14:02,550 --> 01:14:05,383
+Jimbo, Jimbo, ¿cómo se lo contagió?
+
+901
+01:14:07,054 --> 01:14:10,820
+Quizá sigamos la pista equivocada.
+Quizá Alice lo contagió a él.
+
+902
+01:14:10,992 --> 01:14:13,893
+Las muestras de tejido de él tenían
+el doble de amplificación viral.
+
+903
+01:14:14,061 --> 01:14:16,825
+- Estamos atascados.
+- Estamos haciendo lo posible.
+
+904
+01:14:18,065 --> 01:14:19,327
+No es cierto.
+
+905
+01:14:19,900 --> 01:14:23,063
+Esperemos a que lleguen
+los resultados completos.
+
+906
+01:14:25,573 --> 01:14:27,837
+¿Puedo hacerte una pregunta personal?
+
+907
+01:14:30,411 --> 01:14:31,901
+¿Dónde están los perros?
+
+908
+01:14:33,414 --> 01:14:34,244
+Dios mío...
+
+909
+01:14:34,582 --> 01:14:36,743
+No me digas que están en una perrera.
+
+910
+01:14:37,018 --> 01:14:40,419
+¿Crees que los até a un árbol y
+dejé una bolsa de comida cerca?
+
+911
+01:14:40,588 --> 01:14:44,524
+- Lo hiciste cuando me dejaste a mí.
+- Empecemos otra vez.
+
+912
+01:14:46,027 --> 01:14:49,190
+Es Alvarez, Jimbo, Biotest.
+
+913
+01:14:50,431 --> 01:14:51,693
+Cielos.
+
+914
+01:14:52,033 --> 01:14:53,091
+Mira.
+
+915
+01:15:01,876 --> 01:15:04,106
+Compañeros, el mono. Dense vuelta.
+
+916
+01:15:05,446 --> 01:15:08,540
+Santo Dios. Ya debería estar muerto.
+
+917
+01:15:10,117 --> 01:15:11,880
+El jugo de naranja funcionó.
+
+918
+01:15:12,053 --> 01:15:13,042
+No en humanos.
+
+919
+01:15:13,220 --> 01:15:18,123
+No en el Motaba de Cedar Creek.
+Este mono tenía la cadena original.
+
+920
+01:15:18,292 --> 01:15:20,726
+Correcto. ¿Saben qué significa eso?
+
+921
+01:15:21,729 --> 01:15:24,391
+Este no es un antisuero experimental.
+
+922
+01:15:26,634 --> 01:15:30,400
+El E-1101 se diseñó para
+matar el Motaba africano.
+
+923
+01:15:33,074 --> 01:15:35,304
+Y lo tenían todo el tiempo.
+
+924
+01:15:46,087 --> 01:15:47,577
+¿Cómo está su respiración?
+
+925
+01:15:47,755 --> 01:15:49,313
+¡Tiene detención cardiaca!
+
+926
+01:15:54,428 --> 01:15:57,420
+Necesitamos sangre, fluido,
+oxígeno, hielo. ¡Ahora!
+
+927
+01:15:57,598 --> 01:15:59,657
+Rápido. Debajo de las axilas.
+
+928
+01:16:00,434 --> 01:16:01,765
+Déjenme pasar.
+
+929
+01:16:01,936 --> 01:16:03,335
+- Debajo de las axilas.
+- Presión.
+
+930
+01:16:03,504 --> 01:16:04,994
+Necesito el brazo.
+
+931
+01:16:05,172 --> 01:16:06,161
+Temperatura.
+
+932
+01:16:06,340 --> 01:16:08,001
+Necesito presión.
+
+933
+01:16:08,175 --> 01:16:09,608
+¿Qué temperatura tiene?
+
+934
+01:16:09,777 --> 01:16:10,675
+¡41 grados!
+
+935
+01:16:11,112 --> 01:16:13,774
+¡Necesitamos succión! ¡Más hielo, ahora!
+
+936
+01:16:14,181 --> 01:16:16,115
+Casey. Déjeme pasar.
+
+937
+01:16:16,283 --> 01:16:18,342
+Ya dormiste bastante.
+
+938
+01:16:18,519 --> 01:16:20,350
+¡Abre los ojos! ¡Abre!
+
+939
+01:16:20,521 --> 01:16:23,115
+¡Abre! ¡Abre! ¡Abre! Mírame. Mírame.
+
+940
+01:16:23,290 --> 01:16:26,020
+Casey, aquí. Estoy aquí, estoy aquí.
+
+941
+01:16:26,193 --> 01:16:27,626
+¿Me ves? Eso es.
+
+942
+01:16:27,962 --> 01:16:30,522
+Aquí estás. ¿Cómo te sientes?
+
+943
+01:16:31,799 --> 01:16:34,791
+Tuve un sueño maravilloso, Tía Em.
+
+944
+01:16:36,537 --> 01:16:38,971
+Tú estabas ahí. Tú estabas ahí.
+
+945
+01:16:39,140 --> 01:16:40,368
+No te me vayas.
+
+946
+01:16:40,541 --> 01:16:44,705
+Tú también estabas. Tuviste 41
+grados de fiebre. La bajaremos.
+
+947
+01:16:44,879 --> 01:16:46,870
+Sigue conmigo. No jodas.
+
+948
+01:16:47,548 --> 01:16:49,709
+¿Cuántas células cerebrales maté?
+
+949
+01:16:50,317 --> 01:16:52,547
+¿Cuántas? Mil millones más o menos.
+
+950
+01:16:54,388 --> 01:16:56,549
+Ya no soy más listo que tú.
+
+951
+01:16:57,324 --> 01:16:59,986
+¿Cómo le matamos el sentido del humor?
+
+952
+01:17:00,828 --> 01:17:02,728
+¡Necesitamos una vena!
+
+953
+01:17:03,898 --> 01:17:05,160
+Sujételo.
+
+954
+01:17:05,332 --> 01:17:07,323
+- ¡Sujétale la mano!
+- Ya lo tengo.
+
+955
+01:17:08,068 --> 01:17:09,501
+¡Háblame!
+
+956
+01:17:11,739 --> 01:17:15,402
+No pasó del guante exterior. Inyéctalo.
+
+957
+01:17:15,576 --> 01:17:16,668
+¿Qué?
+
+958
+01:17:19,680 --> 01:17:20,738
+Ven aquí.
+
+959
+01:17:47,541 --> 01:17:50,032
+Estaba con él. Debí saber
+que algo andaba mal.
+
+960
+01:17:50,211 --> 01:17:51,701
+- ¿Lo perforó?
+- Sí.
+
+961
+01:17:51,879 --> 01:17:52,937
+Déjame ver.
+
+962
+01:17:54,048 --> 01:17:57,108
+- Déjame ponerle yodo.
+- Ya hice eso.
+
+963
+01:17:57,284 --> 01:17:59,115
+¡Ya lo hice, Sam!
+
+964
+01:18:02,122 --> 01:18:04,886
+Dios mío, sé trabajar con agujas.
+
+965
+01:18:05,226 --> 01:18:06,625
+¿Por qué no esperé?
+
+966
+01:18:06,794 --> 01:18:09,786
+- Bien, escúchame.
+- Ahora no, ¿bueno? Ahora no.
+
+967
+01:18:10,631 --> 01:18:13,794
+- ¡Escúchame!
+- No hay nada que decir.
+
+968
+01:18:16,737 --> 01:18:18,068
+Sí hay.
+
+969
+01:18:23,677 --> 01:18:25,008
+Cuidado.
+
+970
+01:18:43,631 --> 01:18:48,034
+Sabías sobre el Motaba todo el tiempo.
+El 1101 era el antisuero.
+
+971
+01:18:49,403 --> 01:18:52,895
+Pudiste haberlo detenido antes de
+su mutación, pero no lo hiciste.
+
+972
+01:18:53,040 --> 01:18:53,904
+No podíamos.
+
+973
+01:18:54,041 --> 01:18:55,030
+¿Quiénes?
+
+974
+01:18:55,209 --> 01:18:56,198
+Nosotros.
+
+975
+01:18:56,410 --> 01:18:57,707
+No necesitas saber más.
+
+976
+01:18:57,911 --> 01:19:00,038
+Debes decirme cuál es el huésped.
+
+977
+01:19:00,214 --> 01:19:03,479
+No lo hallamos. Tuvimos que
+sintetizar el antisuero.
+
+978
+01:19:03,817 --> 01:19:08,311
+Para proteger a las tropas.
+Pero el virus llega y 2 chicos mueren.
+
+979
+01:19:08,489 --> 01:19:10,150
+Pudimos detenerlo entonces...
+
+980
+01:19:10,324 --> 01:19:14,317
+...pero no lo hicimos, para proteger
+el arma biológica perfecta.
+
+981
+01:19:14,495 --> 01:19:18,659
+Luego el virus sufre una mutación
+y ahora no podemos detenerlo.
+
+982
+01:19:20,567 --> 01:19:24,333
+La decisión se tomó en el
+interés de la seguridad nacional.
+
+983
+01:19:24,505 --> 01:19:27,997
+Sentimos que podíamos permitirnos
+un cierto número de víctimas.
+
+984
+01:19:28,175 --> 01:19:29,574
+Robby está infectada.
+
+985
+01:19:32,680 --> 01:19:33,669
+Lo siento.
+
+986
+01:19:34,448 --> 01:19:36,177
+¿"Nosotros" también lo siente?
+
+987
+01:19:41,855 --> 01:19:44,255
+"Nosotros" tiene a un pueblo agonizante.
+
+988
+01:19:44,458 --> 01:19:46,688
+"Nosotros" está matando a Casey.
+
+989
+01:19:48,028 --> 01:19:49,757
+Mi esposa se está muriendo.
+
+990
+01:19:51,198 --> 01:19:53,359
+¿No es tu ex esposa?
+
+991
+01:19:56,870 --> 01:19:58,701
+¿Qué quieres decir?
+
+992
+01:19:58,872 --> 01:20:01,966
+Que eres propenso a
+distorsionar los hechos.
+
+993
+01:20:02,109 --> 01:20:04,873
+Tú y Robby están
+divorciados en realidad.
+
+994
+01:20:05,279 --> 01:20:07,042
+¿Quién es "nosotros"?
+
+995
+01:20:07,548 --> 01:20:09,539
+"Nosotros" te incluye a ti, Sam.
+
+996
+01:20:09,883 --> 01:20:12,545
+A menos que hayas
+renunciado al Ejército.
+
+997
+01:20:12,720 --> 01:20:15,985
+No investigas y listo, todo termina ahí.
+
+998
+01:20:16,490 --> 01:20:20,893
+Debemos defendernos de maníacos
+que desarrollan armas biológicas.
+
+999
+01:20:21,295 --> 01:20:23,388
+Así es el juego.
+
+1000
+01:20:23,564 --> 01:20:28,399
+Fue un error terrible retener el
+E-1101, pero eso ya quedó atrás.
+
+1001
+01:20:28,902 --> 01:20:31,302
+Hemos hecho lo posible como médicos.
+
+1002
+01:20:32,306 --> 01:20:34,001
+Debemos continuar...
+
+1003
+01:20:34,641 --> 01:20:35,733
+...como soldados.
+
+1004
+01:20:40,080 --> 01:20:42,071
+Van a aniquilar el pueblo.
+
+1005
+01:20:42,916 --> 01:20:46,818
+Erradicarán esa mutación y así
+mantendrán su arma intacta.
+
+1006
+01:20:47,020 --> 01:20:49,750
+Por eso se están retirando
+las tropas, ¿verdad?
+
+1007
+01:20:50,324 --> 01:20:52,087
+Ya recibimos la orden.
+
+1008
+01:20:53,594 --> 01:20:54,822
+¿Cuándo será?
+
+1009
+01:20:55,662 --> 01:20:57,254
+A las 20:00 horas.
+
+1010
+01:20:57,431 --> 01:20:59,422
+Por orden del Presidente.
+
+1011
+01:21:01,034 --> 01:21:02,331
+¿Del Presidente?
+
+1012
+01:21:02,603 --> 01:21:06,266
+Lo asesoró un panel de
+virólogos especializados.
+
+1013
+01:21:06,440 --> 01:21:07,839
+Yo no estuve ahí.
+
+1014
+01:21:09,109 --> 01:21:11,168
+No se trata de un arma.
+
+1015
+01:21:11,445 --> 01:21:14,107
+Cuando el Presidente
+vio que en 48 horas...
+
+1016
+01:21:14,281 --> 01:21:17,773
+...el virus podía llegar a la
+Casa Blanca, dio la orden.
+
+1017
+01:21:17,951 --> 01:21:19,441
+No me invitaron.
+
+1018
+01:21:20,687 --> 01:21:22,552
+Si hubieras estado...
+
+1019
+01:21:24,558 --> 01:21:26,685
+...¿qué habrías aconsejado?
+
+1020
+01:21:33,867 --> 01:21:38,201
+Llamó Ruiz. Asustó a un guardia
+y lo hizo confesar que Jimbo...
+
+1021
+01:21:38,372 --> 01:21:40,363
+...sacó un animal de contrabando.
+
+1022
+01:21:41,375 --> 01:21:43,809
+- ¿Qué animal?
+- No lo sabía.
+
+1023
+01:21:43,977 --> 01:21:47,469
+Suficientemente pequeño para
+caber en el asiento de atrás.
+
+1024
+01:21:47,648 --> 01:21:51,584
+Sabemos que llegó en un barco de
+África el 1º de septiembre.
+
+1025
+01:21:51,718 --> 01:21:53,709
+Por lo menos, eso es algo.
+
+1026
+01:21:53,887 --> 01:21:57,379
+Debemos hallar ese barco.
+Empaca tus cosas. Tenemos trabajo.
+
+1027
+01:21:58,325 --> 01:21:59,815
+Coronel Briggs.
+
+1028
+01:22:00,093 --> 01:22:02,391
+¿Daniels estuvo aquí? ¿Aquí adentro?
+
+1029
+01:22:02,596 --> 01:22:05,087
+- Sí.
+- ¿Por qué no me informaron?
+
+1030
+01:22:05,232 --> 01:22:06,392
+Ud. Estaba durmiendo.
+
+1031
+01:22:06,834 --> 01:22:08,825
+Nunca estoy tan dormido.
+
+1032
+01:22:10,170 --> 01:22:12,798
+Ahora encuéntrelo y arréstelo.
+
+1033
+01:22:25,519 --> 01:22:28,113
+Estamos tan cerca ahora.
+Tenemos una posibilidad.
+
+1034
+01:22:28,422 --> 01:22:29,616
+Lo sé.
+
+1035
+01:22:30,424 --> 01:22:31,914
+- ¿Lo crees?
+- Te creo a ti.
+
+1036
+01:22:32,926 --> 01:22:34,518
+Debes ir.
+
+1037
+01:22:37,531 --> 01:22:38,691
+Escucha...
+
+1038
+01:22:40,701 --> 01:22:42,635
+No sé cómo decir esto...
+
+1039
+01:22:44,538 --> 01:22:46,631
+...pero si no he regresado
+a las 18:00 horas...
+
+1040
+01:22:46,773 --> 01:22:49,207
+...y no tienes síntomas...
+
+1041
+01:22:51,778 --> 01:22:52,870
+...vete.
+
+1042
+01:22:54,648 --> 01:22:56,946
+- ¿Qué quieres decir?
+- Vete del pueblo.
+
+1043
+01:22:59,553 --> 01:23:02,215
+¿Has visto el movimiento de tropas?
+
+1044
+01:23:06,159 --> 01:23:07,717
+No pueden hacer eso.
+
+1045
+01:23:08,795 --> 01:23:10,456
+Lo están haciendo.
+
+1046
+01:23:17,971 --> 01:23:21,304
+Señor, debemos irnos pronto.
+Digamos, ahora mismo.
+
+1047
+01:23:24,411 --> 01:23:25,400
+¡Vamos!
+
+1048
+01:23:29,316 --> 01:23:31,079
+¿Dónde está el Cnel. Daniels?
+
+1049
+01:23:31,251 --> 01:23:32,741
+¡Creo que está arriba!
+
+1050
+01:23:32,920 --> 01:23:34,478
+¡Arriba! ¡Vamos!
+
+1051
+01:23:38,191 --> 01:23:40,591
+- ¿Cuántas horas de vuelo tienes?
+- Más de 60.
+
+1052
+01:23:40,761 --> 01:23:43,992
+- ¿Tiempo de vuelo real?
+- Arrancando y volando.
+
+1053
+01:23:44,197 --> 01:23:46,188
+¿Alguien vio a Daniels?
+
+1054
+01:23:48,702 --> 01:23:51,762
+Estamos buscando a Daniels.
+¿Lo ha visto?
+
+1055
+01:23:51,939 --> 01:23:53,702
+¿Un tipo alto, robusto?
+
+1056
+01:23:53,941 --> 01:23:55,272
+Sí, seguro.
+
+1057
+01:23:58,011 --> 01:23:59,103
+Ahí.
+
+1058
+01:24:02,282 --> 01:24:06,719
+¡Quiero actividad con estos pájaros!
+¡Tenemos 4 vuelos hoy!
+
+1059
+01:24:06,853 --> 01:24:09,515
+¡Combustible en el 93, viren el 91!
+
+1060
+01:24:11,124 --> 01:24:11,783
+Sí, señor.
+
+1061
+01:24:11,959 --> 01:24:13,290
+¿Dónde está su piloto?
+
+1062
+01:24:13,460 --> 01:24:18,363
+Recién llamó el Gral. Ford.
+Tenemos prioridad de vuelo. ¿Dónde está?
+
+1063
+01:24:19,299 --> 01:24:20,960
+Mi piloto, señor, está...
+
+1064
+01:24:22,302 --> 01:24:23,735
+¿Su piloto está qué?
+
+1065
+01:24:24,237 --> 01:24:26,228
+Mi piloto fue a orinar.
+
+1066
+01:24:26,373 --> 01:24:28,466
+¿A orinar? No me diga.
+
+1067
+01:24:29,042 --> 01:24:31,977
+En ese caso, esperaremos
+en el helicóptero.
+
+1068
+01:24:33,480 --> 01:24:37,382
+- Dígale que se aguante.
+- Ayúdelo.
+
+1069
+01:24:43,323 --> 01:24:45,314
+¿Alguien vio a Daniels?
+
+1070
+01:24:45,492 --> 01:24:47,255
+¡Están ahí abajo! ¡Vamos!
+
+1071
+01:24:56,069 --> 01:24:58,503
+¡Detengan ese helicóptero!
+¡Es una orden!
+
+1072
+01:24:59,506 --> 01:25:01,406
+¡No disparen!
+
+1073
+01:25:02,409 --> 01:25:03,774
+¡Cuidado!
+
+1074
+01:25:04,678 --> 01:25:07,772
+Cuerpo a tierra, soldados.
+Estamos en el aire.
+
+1075
+01:25:11,418 --> 01:25:15,013
+Comando Central, Área de Vuelo.
+Comando Central, Área de Vuelo.
+
+1076
+01:25:15,589 --> 01:25:16,851
+Mierda.
+
+1077
+01:25:22,195 --> 01:25:23,594
+Ve a San Francisco.
+
+1078
+01:25:23,797 --> 01:25:27,198
+Nos seguirán, ve por la costa.
+La niebla quizá nos cubrirá.
+
+1079
+01:25:27,801 --> 01:25:29,928
+Has volado en la niebla, ¿verdad?
+
+1080
+01:25:30,103 --> 01:25:31,798
+Leí al respecto.
+
+1081
+01:25:39,813 --> 01:25:42,373
+El Coronel Daniels
+confiscó un helicóptero.
+
+1082
+01:25:43,617 --> 01:25:45,380
+¿Puedo preguntar cómo?
+
+1083
+01:25:46,386 --> 01:25:48,115
+No pierda el tiempo pensando.
+
+1084
+01:25:48,321 --> 01:25:50,312
+Deténgalo. Si se resiste, dispárele.
+
+1085
+01:25:50,891 --> 01:25:51,880
+- Entiendo.
+- Espera.
+
+1086
+01:25:52,893 --> 01:25:56,727
+- No tienes que hacer esto.
+- Es un portador. Procedan.
+
+1087
+01:25:56,897 --> 01:25:58,125
+Sí, señor.
+
+1088
+01:25:59,900 --> 01:26:02,960
+Ve tras él y la prensa tendrá
+el material que busca.
+
+1089
+01:26:03,136 --> 01:26:04,569
+Estás creando pánico.
+
+1090
+01:26:04,738 --> 01:26:07,571
+Siempre tienes la prioridad equivocada.
+
+1091
+01:26:07,741 --> 01:26:10,574
+No está infectado. Lo sabes.
+
+1092
+01:26:10,977 --> 01:26:15,744
+Estuvo en contacto directo con
+pacientes con Motaba. ¿Qué más sabes?
+
+1093
+01:26:16,083 --> 01:26:18,142
+Deberías haberlo arrestado antes.
+
+1094
+01:26:19,953 --> 01:26:21,477
+¡Inicia el rastreo!
+
+1095
+01:26:26,860 --> 01:26:32,799
+Edificio Federal,
+San Francisco, California.
+
+1096
+01:26:34,167 --> 01:26:35,498
+- ¿Estás seguro?
+- Sí, señor.
+
+1097
+01:26:36,269 --> 01:26:38,760
+Yo me encargo. Atrás, abran paso.
+
+1098
+01:26:39,873 --> 01:26:41,670
+Dejen pasar, gente.
+
+1099
+01:26:42,008 --> 01:26:43,441
+Retrocedan.
+
+1100
+01:26:44,111 --> 01:26:46,375
+Coronel Daniels de USAMRIID.
+
+1101
+01:26:46,513 --> 01:26:49,676
+George de Sioux City, Dakota
+del Sur. Vaya a la fila.
+
+1102
+01:26:49,883 --> 01:26:53,182
+Tenemos una epidemia terrible.
+¡Somos de Cedar Creek!
+
+1103
+01:26:53,386 --> 01:26:57,789
+- ¡El lugar de la infección viral!
+- ¿Oyó sobre el virus?
+
+1104
+01:26:57,958 --> 01:27:00,620
+Necesitamos los
+conocimientos de embarque...
+
+1105
+01:27:00,794 --> 01:27:03,888
+...de los barcos llegados de
+África los últimos 3 meses.
+
+1106
+01:27:04,631 --> 01:27:06,462
+¿Le toso encima?
+
+1107
+01:27:06,633 --> 01:27:08,624
+- Sra. Pananides.
+- Ahora sí me gusta.
+
+1108
+01:27:10,537 --> 01:27:12,698
+Estos señores necesitan ayuda.
+
+1109
+01:27:12,906 --> 01:27:17,809
+Biotest debe completar mucha
+documentación. Carga de animales vivos.
+
+1110
+01:27:18,145 --> 01:27:20,807
+Tome. Compare nuestra
+lista con la de Biotest.
+
+1111
+01:27:20,981 --> 01:27:23,313
+- ¿Estás listo? Número uno, Petra.
+- Igual.
+
+1112
+01:27:23,483 --> 01:27:24,814
+- Venus.
+- Igual.
+
+1113
+01:27:24,985 --> 01:27:25,974
+- Patricia.
+- Igual.
+
+1114
+01:27:26,153 --> 01:27:27,711
+Tae Kuk.
+
+1115
+01:27:28,555 --> 01:27:29,988
+- Tae Kuk.
+- No, señor.
+
+1116
+01:27:30,157 --> 01:27:31,647
+- ¿No?
+- No, señor.
+
+1117
+01:27:31,825 --> 01:27:35,556
+- Traía un mono entregado a Biotest.
+- No, negativo, señor.
+
+1118
+01:27:35,729 --> 01:27:37,424
+¿No está en la lista?
+
+1119
+01:27:38,498 --> 01:27:40,557
+¡Esa es nuestra nave! ¡Ese es el barco!
+
+1120
+01:27:40,734 --> 01:27:42,827
+- El Tae Tuk ya zarpó.
+- ¿Y qué?
+
+1121
+01:27:43,003 --> 01:27:44,163
+¿Cómo lo localizaremos?
+
+1122
+01:27:44,337 --> 01:27:48,171
+Tengo un amigo guardacostas.
+Puedo llamar, ningún problema.
+
+1123
+01:27:48,575 --> 01:27:49,667
+¿Un buen amigo?
+
+1124
+01:27:50,577 --> 01:27:53,171
+Más de lo que le gusta a su esposa.
+
+1125
+01:27:56,683 --> 01:27:59,584
+Llévame. No puede estar lejos.
+Zarpó esta mañana.
+
+1126
+01:27:59,753 --> 01:28:01,186
+¿Quiere que lo deje...
+
+1127
+01:28:01,354 --> 01:28:05,017
+...en un carguero en alta mar?
+Con todo respeto, es una idiotez.
+
+1128
+01:28:05,192 --> 01:28:08,684
+- ¿Idiotez? Somos fugitivos.
+- Correcto.
+
+1129
+01:28:08,862 --> 01:28:11,854
+Una idiotez es la única opción.
+Localiza el barco.
+
+1130
+01:28:16,970 --> 01:28:18,961
+¿Qué es esto?
+
+1131
+01:28:20,040 --> 01:28:22,600
+Es una mona. Se llama Betsy.
+
+1132
+01:28:22,776 --> 01:28:25,870
+- ¿Una mona? Por supuesto.
+- Le doy de comer, ¿ves?
+
+1133
+01:28:26,046 --> 01:28:29,277
+- Vive en el bosque.
+- ¿Muchos monos viven en el bosque?
+
+1134
+01:28:29,482 --> 01:28:32,212
+No, sólo Betsy. Viene a visitarme.
+
+1135
+01:28:33,553 --> 01:28:37,216
+¿Y a Betsy le gustan las
+manzanas tanto como a mi monita?
+
+1136
+01:28:37,390 --> 01:28:38,550
+Le gustan.
+
+1137
+01:28:41,628 --> 01:28:46,565
+Tae Kuk, aquí Helicóptero Militar 1350.
+Indique su posición, cambio.
+
+1138
+01:28:46,800 --> 01:28:48,233
+Prueba otra frecuencia.
+
+1139
+01:28:48,401 --> 01:28:51,302
+No servirá. Estarán controlando
+los canales marinos.
+
+1140
+01:28:51,504 --> 01:28:54,803
+- Nos guiaremos por el informe.
+- No seas negativo.
+
+1141
+01:28:55,008 --> 01:28:56,305
+Afirmativo.
+
+1142
+01:29:00,513 --> 01:29:01,411
+"Zona Restringida"
+
+1143
+01:29:16,930 --> 01:29:19,262
+¿Tienes las coordenadas correctas?
+
+1144
+01:29:19,666 --> 01:29:21,429
+¿Cuánto combustible tenemos?
+
+1145
+01:29:21,601 --> 01:29:24,934
+No se preocupe. Vuela 650 km
+sin reabastecimiento.
+
+1146
+01:29:27,340 --> 01:29:28,534
+Espere.
+
+1147
+01:29:29,442 --> 01:29:30,534
+Ahí.
+
+1148
+01:29:31,544 --> 01:29:32,533
+Tae Kuk...
+
+1149
+01:29:32,679 --> 01:29:35,614
+...Seattle.
+- Ese es. Gracias, Sra...
+
+1150
+01:29:35,949 --> 01:29:38,179
+- ¿Cómo se llama?
+- Pananides.
+
+1151
+01:29:44,190 --> 01:29:46,181
+No puedo aterrizar en ese barco.
+
+1152
+01:29:46,359 --> 01:29:47,451
+Déjame sobre él.
+
+1153
+01:29:48,194 --> 01:29:51,459
+- Lo acercaré lo suficiente.
+- ¿Lo suficiente para qué?
+
+1154
+01:29:51,631 --> 01:29:53,462
+Lo suficiente para saltar.
+
+1155
+01:29:54,701 --> 01:29:55,963
+No hablas en serio.
+
+1156
+01:29:56,136 --> 01:29:58,297
+Muy bien, Ud. Pilotea, yo salto.
+
+1157
+01:29:58,471 --> 01:30:00,371
+No, acércate y ya.
+
+1158
+01:30:00,573 --> 01:30:01,870
+Solamente...
+
+1159
+01:30:02,075 --> 01:30:03,303
+...acércate mucho.
+
+1160
+01:30:08,148 --> 01:30:10,582
+Ese bote salvavidas es
+su mejor posibilidad.
+
+1161
+01:30:10,717 --> 01:30:12,480
+¿Cómo vuelvo a subir?
+
+1162
+01:30:12,719 --> 01:30:15,711
+Que despejen una zona.
+O puedo tirarle una cuerda.
+
+1163
+01:30:16,323 --> 01:30:19,724
+Bromeaba, señor.
+Para que no esté tan tenso.
+
+1164
+01:30:31,171 --> 01:30:32,729
+¡Más cerca!
+
+1165
+01:30:32,906 --> 01:30:34,498
+¡Acércame más!
+
+1166
+01:30:56,196 --> 01:30:59,029
+¿Alguien aquí habla inglés? ¿Inglés?
+
+1167
+01:30:59,199 --> 01:31:00,928
+- Poquito.
+- Necesito información...
+
+1168
+01:31:01,134 --> 01:31:03,694
+...sobre un animal que
+estuvo en este barco.
+
+1169
+01:31:04,371 --> 01:31:06,362
+No comprende.
+
+1170
+01:31:06,539 --> 01:31:10,202
+Es una emergencia médica.
+¡Soy un doctor del Ejército de EE. UU.!
+
+1171
+01:31:10,377 --> 01:31:11,776
+¡Doctor!
+
+1172
+01:31:18,451 --> 01:31:20,146
+Venga. Mire.
+
+1173
+01:31:28,661 --> 01:31:30,561
+¿Alguien más está enfermo?
+
+1174
+01:31:30,730 --> 01:31:32,163
+No. No enfermo.
+
+1175
+01:31:34,968 --> 01:31:37,664
+Lléveme al camarote de este hombre.
+
+1176
+01:31:37,804 --> 01:31:39,169
+Arriba.
+
+1177
+01:31:54,487 --> 01:31:56,079
+¿Cuál es su armario?
+
+1178
+01:32:27,220 --> 01:32:28,949
+Ahí está nuestro huésped.
+
+1179
+01:32:59,052 --> 01:33:00,485
+¿Cómo estás?
+
+1180
+01:33:00,653 --> 01:33:02,553
+Estoy bien. Estoy bien.
+
+1181
+01:33:08,394 --> 01:33:10,259
+Debes ser amable con Sam.
+
+1182
+01:33:10,396 --> 01:33:13,490
+Sabes que está prendado de ti.
+
+1183
+01:33:19,172 --> 01:33:21,003
+Tengo tanto miedo.
+
+1184
+01:33:26,179 --> 01:33:28,670
+¿Puedes sostenerme la mano, por favor?
+
+1185
+01:33:35,021 --> 01:33:36,921
+Aquí estoy, Casey.
+
+1186
+01:33:41,361 --> 01:33:45,320
+KAEF-TV. Santa Rosa, California.
+
+1187
+01:33:48,434 --> 01:33:53,371
+Los asesores científicos del Presidente
+aseguran que no hay amenaza...
+
+1188
+01:33:53,706 --> 01:33:57,369
+...de que la enfermedad
+se siga propagando ahora.
+
+1189
+01:33:57,544 --> 01:34:01,878
+Los dos hombres que huyeron de
+la cuarentena esta mañana...
+
+1190
+01:34:02,048 --> 01:34:05,040
+...se cree que están
+infectados con la enfermedad.
+
+1191
+01:34:05,218 --> 01:34:09,450
+¡Mantengan la calma! ¡Es una
+emergencia militar! ¡Retrocedan!
+
+1192
+01:34:16,229 --> 01:34:17,821
+No hay ningún problema.
+
+1193
+01:34:18,131 --> 01:34:21,828
+Atrás. Retrocedan todos.
+Esta es una emergencia militar.
+
+1194
+01:34:21,968 --> 01:34:24,732
+Mantengan la calma.
+Todos permanezcan tranquilos.
+
+1195
+01:34:25,238 --> 01:34:26,136
+Son ellos.
+
+1196
+01:34:26,406 --> 01:34:27,896
+Esos son los hombres.
+
+1197
+01:34:28,074 --> 01:34:29,473
+Enfóquenlos.
+
+1198
+01:34:29,642 --> 01:34:31,837
+- ¿A qué cámara hablo?
+- Esa, ahí.
+
+1199
+01:34:31,978 --> 01:34:35,345
+Soy el Coronel Daniels.
+Estoy aquí con el Mayor Salt.
+
+1200
+01:34:35,481 --> 01:34:39,144
+Nosotros no estamos infectados
+con el virus Motaba.
+
+1201
+01:34:39,352 --> 01:34:41,252
+Hemos identificado al animal...
+
+1202
+01:34:41,421 --> 01:34:44,413
+...portador del virus y
+necesitamos ayuda para encontrarlo.
+
+1203
+01:34:44,591 --> 01:34:48,152
+El animal portador del
+virus Motaba es un mono.
+
+1204
+01:34:48,361 --> 01:34:51,091
+Esta es una foto del animal.
+¿Pueden enfocarla?
+
+1205
+01:34:51,264 --> 01:34:52,993
+¿Pueden tomarla de cerca?
+
+1206
+01:34:53,166 --> 01:34:55,361
+Que alguien tome un primer plano.
+
+1207
+01:34:55,501 --> 01:34:58,595
+Es un mono pequeño, su cara es blanca.
+
+1208
+01:34:58,771 --> 01:35:01,001
+El pelaje del lomo es oscuro.
+
+1209
+01:35:01,174 --> 01:35:03,608
+No intenten capturarlo.
+
+1210
+01:35:03,776 --> 01:35:07,678
+No se le acerquen. Lo que
+pueden hacer si ven al mono...
+
+1211
+01:35:07,880 --> 01:35:11,509
+...es llamar al Centro de Control
+de Enfermedades en Atlanta.
+
+1212
+01:35:11,884 --> 01:35:13,511
+El prefijo es 404...
+
+1213
+01:35:13,686 --> 01:35:15,779
+...y el número es 555-9653.
+
+1214
+01:35:15,955 --> 01:35:18,617
+Repito, si ven al mono...
+
+1215
+01:35:18,791 --> 01:35:19,883
+...no se le acerquen.
+
+1216
+01:35:32,805 --> 01:35:34,204
+¡Alto el fuego!
+
+1217
+01:35:41,414 --> 01:35:43,211
+Correcto. Palisades.
+
+1218
+01:35:43,416 --> 01:35:47,409
+Dr. Reynolds, quiero asegurarme
+de que lo anoté correctamente.
+
+1219
+01:35:47,553 --> 01:35:51,148
+¿Es la calle Sycamore 211, Palisades?
+
+1220
+01:35:51,724 --> 01:35:53,919
+¿Y el nombre de la mujer es Jeffries?
+
+1221
+01:35:54,160 --> 01:35:55,422
+Gracias.
+
+1222
+01:35:55,561 --> 01:35:57,324
+Gracias a Dios llamó a CCE.
+
+1223
+01:35:57,497 --> 01:35:58,930
+¿Qué tenemos?
+
+1224
+01:35:59,065 --> 01:36:02,330
+Jimbo lleva el mono a Cedar
+Creek, no puede venderlo.
+
+1225
+01:36:02,502 --> 01:36:05,938
+Va en auto a San Francisco.
+Aborda un avión a Boston...
+
+1226
+01:36:06,072 --> 01:36:08,563
+...sin el animal.
+- Debe haberlo soltado.
+
+1227
+01:36:08,741 --> 01:36:11,335
+¿Entre Cedar Creek y
+San Francisco qué hay?
+
+1228
+01:36:11,511 --> 01:36:13,172
+- Palisades.
+- Eso es.
+
+1229
+01:36:13,513 --> 01:36:14,673
+- Ya casi estamos.
+- Ahí está.
+
+1230
+01:36:14,847 --> 01:36:18,180
+Se acabó. Llegamos, Coronel.
+Ya estamos ahí.
+
+1231
+01:36:19,485 --> 01:36:23,148
+Interceptamos una transmisión
+telefónica. Van hacia allá.
+
+1232
+01:36:23,323 --> 01:36:27,157
+Esta vez logró no fastidiar
+las cosas, para variar.
+
+1233
+01:36:27,327 --> 01:36:28,658
+¿Quién debe encargarse?
+
+1234
+01:36:29,729 --> 01:36:30,559
+¿Usted?
+
+1235
+01:36:31,497 --> 01:36:33,988
+Es un experto en lamer traseros.
+
+1236
+01:36:34,167 --> 01:36:36,658
+- ¿Espera llegar a general?
+- Sí, señor.
+
+1237
+01:36:37,570 --> 01:36:40,562
+No llegará.
+Ahora consígame un helicóptero.
+
+1238
+01:36:43,743 --> 01:36:48,407
+Residencia de los Jeffries.
+Palisades, California.
+
+1239
+01:37:07,266 --> 01:37:08,927
+No vendrá.
+
+1240
+01:37:10,536 --> 01:37:13,027
+No se acerca a nadie, excepto a mí.
+
+1241
+01:37:13,272 --> 01:37:15,263
+Soy su única amiga.
+
+1242
+01:37:22,949 --> 01:37:26,885
+Confío que Ud. Es el mejor
+piloto de helicópteros.
+
+1243
+01:37:27,453 --> 01:37:28,886
+Eso es un alivio.
+
+1244
+01:37:29,956 --> 01:37:32,618
+"Víbora 2", aquí Líder,
+escalón izquierdo.
+
+1245
+01:37:33,559 --> 01:37:36,289
+"Víbora 2", alinearse, estoy detrás.
+
+1246
+01:37:37,296 --> 01:37:40,129
+Estamos buscando un Loach 1350.
+
+1247
+01:37:40,900 --> 01:37:43,232
+Facilíteme las cosas, ¿de acuerdo?
+
+1248
+01:37:51,244 --> 01:37:52,768
+¿Alguna vez te enfermaste?
+
+1249
+01:37:53,212 --> 01:37:55,976
+- Sí.
+- No es divertido, ¿verdad?
+
+1250
+01:37:57,083 --> 01:38:00,416
+Muchas personas están enfermas ahora.
+Todo un pueblo.
+
+1251
+01:38:00,586 --> 01:38:03,817
+Y tú quieres muchísimo
+a tu mami, ¿verdad?
+
+1252
+01:38:03,990 --> 01:38:05,924
+Así quiero yo a mi esposa.
+
+1253
+01:38:06,092 --> 01:38:09,425
+Y mi esposa es una de las
+personas que está muy enferma.
+
+1254
+01:38:09,595 --> 01:38:11,256
+Quiero que se mejore.
+
+1255
+01:38:11,597 --> 01:38:12,928
+¿Se llama Betsy?
+
+1256
+01:38:13,266 --> 01:38:18,101
+Betsy puede ayudar a curarlos porque
+tiene medicina dentro de ella.
+
+1257
+01:38:18,237 --> 01:38:20,762
+Es por eso que es tan especial.
+
+1258
+01:38:21,441 --> 01:38:22,840
+¿Comprendes?
+
+1259
+01:38:23,776 --> 01:38:24,765
+¿No van a lastimarla?
+
+1260
+01:38:26,279 --> 01:38:29,612
+Se quedará dormida.
+Eso no duele, ¿verdad?
+
+1261
+01:38:29,782 --> 01:38:31,841
+No. Prométeme que no la lastimarán.
+
+1262
+01:38:32,018 --> 01:38:33,315
+Te lo prometo.
+
+1263
+01:38:33,519 --> 01:38:36,511
+Si la lastimo, me puedes
+pegar en la nariz.
+
+1264
+01:38:37,857 --> 01:38:39,290
+Un golpe bien fuerte.
+
+1265
+01:38:40,460 --> 01:38:42,690
+Para una nariz bien grande.
+
+1266
+01:38:46,632 --> 01:38:49,362
+A las estaciones de la
+red, aquí "Víbora 6".
+
+1267
+01:38:50,636 --> 01:38:53,628
+El Comandante en Jefe ha
+dado su autorización.
+
+1268
+01:38:54,307 --> 01:38:56,036
+Debemos proceder.
+
+1269
+01:38:56,476 --> 01:38:59,206
+Base Aérea Vandenberg.
+Lompoc, California.
+
+1270
+01:38:59,378 --> 01:39:03,212
+Algunos tenemos dudas sobre lo
+que vamos a hacer. Es humano.
+
+1271
+01:39:03,549 --> 01:39:05,710
+Pero el destino de la nación...
+
+1272
+01:39:06,886 --> 01:39:09,377
+...quizá el del mundo,
+está en nuestras manos.
+
+1273
+01:39:09,555 --> 01:39:11,887
+Somos la última línea de defensa...
+
+1274
+01:39:12,058 --> 01:39:15,892
+...y no podemos...
+no nos atrevemos a rechazar esta carga.
+
+1275
+01:39:16,996 --> 01:39:19,226
+Confío que cada uno de nosotros...
+
+1276
+01:39:20,166 --> 01:39:21,326
+...cada uno de Uds...
+
+1277
+01:39:21,501 --> 01:39:22,991
+...cumplirá su deber.
+
+1278
+01:39:23,836 --> 01:39:25,394
+"Víbora 6" fuera.
+
+1279
+01:39:26,339 --> 01:39:29,240
+Comando Central, "Morfeo"
+está avanzando. Cambio.
+
+1280
+01:39:38,417 --> 01:39:40,009
+Dios nos perdone.
+
+1281
+01:39:41,654 --> 01:39:42,643
+Betsy.
+
+1282
+01:39:43,589 --> 01:39:45,022
+Ven, chiquita.
+
+1283
+01:40:04,277 --> 01:40:06,108
+Ay, Dios mío, tenga cuidado.
+
+1284
+01:40:06,946 --> 01:40:08,607
+El no la lastimará.
+
+1285
+01:40:26,966 --> 01:40:28,558
+No puedo soportarlo.
+
+1286
+01:40:28,734 --> 01:40:30,133
+No demorará mucho.
+
+1287
+01:40:37,076 --> 01:40:39,408
+¡Ahí estás!
+
+1288
+01:40:45,251 --> 01:40:46,741
+Cuidado. Cuidado.
+
+1289
+01:41:02,268 --> 01:41:04,930
+Vamos, Katie, córrete. Vamos.
+
+1290
+01:41:06,505 --> 01:41:08,837
+Vamos, tesoro. ¡Córrete!
+
+1291
+01:41:16,515 --> 01:41:17,607
+Rayos.
+
+1292
+01:41:32,965 --> 01:41:34,796
+Estamos llegando a destino.
+
+1293
+01:41:34,967 --> 01:41:37,299
+Este hombre es portador
+de la enfermedad...
+
+1294
+01:41:37,470 --> 01:41:40,803
+...y lo llevaremos a
+Travis para la cuarentena.
+
+1295
+01:41:40,973 --> 01:41:44,636
+"Ojo Grande", "Víbora"
+está en el aire, ¿nos ven?
+
+1296
+01:41:44,810 --> 01:41:48,302
+"Ojo Grande" los avista.
+Preparado para vuelo.
+
+1297
+01:41:48,981 --> 01:41:51,882
+No me diga idioteces.
+Escuche cuidadosamente.
+
+1298
+01:41:52,051 --> 01:41:55,384
+Comuníqueme con Ford, dígale
+que es el Coronel Daniels.
+
+1299
+01:41:57,390 --> 01:41:58,721
+¿Dónde estás?
+
+1300
+01:41:59,892 --> 01:42:02,486
+Vamos de regreso. Tenemos el huésped.
+
+1301
+01:42:02,662 --> 01:42:03,720
+¿Cómo?
+
+1302
+01:42:03,896 --> 01:42:05,830
+Encontramos el huésped, Billy.
+
+1303
+01:42:07,667 --> 01:42:08,725
+Gracias a Dios.
+
+1304
+01:42:08,901 --> 01:42:10,732
+Debes cancelar el bombardeo.
+
+1305
+01:42:11,003 --> 01:42:15,906
+Lo aplazaré todo lo que pueda.
+Regresa aquí, pronto y a salvo.
+
+1306
+01:42:17,576 --> 01:42:20,010
+Puede ser que encuentres resistencia.
+
+1307
+01:42:20,246 --> 01:42:21,679
+¿Resistencia?
+
+1308
+01:42:22,081 --> 01:42:25,244
+Eso hace difícil que
+vuelva a salvo, ¿no?
+
+1309
+01:42:25,418 --> 01:42:26,510
+Buena suerte.
+
+1310
+01:42:27,520 --> 01:42:28,680
+Vamos.
+
+1311
+01:42:28,854 --> 01:42:31,015
+- ¿Problemas, coronel?
+- ¡Por supuesto!
+
+1312
+01:42:40,099 --> 01:42:42,033
+"Morfeo", aquí "Víbora 6".
+
+1313
+01:42:42,201 --> 01:42:44,863
+Aplace la acción. Regrese a la base.
+
+1314
+01:42:45,204 --> 01:42:48,537
+"Víbora 6", aquí "Morfeo".
+Entendido. Regresamos a base.
+
+1315
+01:42:54,447 --> 01:42:55,709
+Echa un vistazo.
+
+1316
+01:42:59,285 --> 01:43:01,879
+- ¿Eso es resistencia?
+- Eso es resistencia. Sujétese.
+
+1317
+01:43:04,290 --> 01:43:06,053
+- Ahí está el Loach, señor.
+- ¿Dónde?
+
+1318
+01:43:06,392 --> 01:43:10,726
+Helicóptero 1350, líder "Víbora",
+detrás de Uds. Contesten. Cambio.
+
+1319
+01:43:10,896 --> 01:43:12,124
+"Víbora", adelante.
+
+1320
+01:43:12,732 --> 01:43:14,632
+Helicóptero 1350, prepárese...
+
+1321
+01:43:14,800 --> 01:43:18,065
+...a volar en formación
+con nosotros hacia Travis.
+
+1322
+01:43:18,304 --> 01:43:19,794
+¿Por autoridad de quién?
+
+1323
+01:43:19,972 --> 01:43:21,462
+- Mía.
+- ¿Quién es Ud.?
+
+1324
+01:43:21,741 --> 01:43:23,402
+El Mayor General McClintock...
+
+1325
+01:43:23,576 --> 01:43:25,407
+...oficial superior en esta zona.
+
+1326
+01:43:26,746 --> 01:43:30,238
+No sabía que estaba detrás de nosotros.
+Tenemos el animal huésped.
+
+1327
+01:43:30,416 --> 01:43:32,646
+Estamos regresando a Cedar Creek.
+
+1328
+01:43:32,818 --> 01:43:35,150
+Tendrá que acompañarme a Travis.
+
+1329
+01:43:35,921 --> 01:43:38,822
+No entiende. No hay
+nadie enfermo en Travis.
+
+1330
+01:43:38,991 --> 01:43:41,084
+No me haga las cosas difíciles.
+
+1331
+01:43:42,161 --> 01:43:45,255
+Se están alineando para atacar.
+Nos quieren bajar.
+
+1332
+01:43:45,431 --> 01:43:49,595
+No creo que quiera destruir un
+helicóptero militar a la luz del día.
+
+1333
+01:43:49,769 --> 01:43:53,671
+Con todo respeto, si no
+nos sigue hacia Travis...
+
+1334
+01:43:53,839 --> 01:43:55,602
+...lo bajaré de un disparo.
+
+1335
+01:43:55,775 --> 01:43:59,609
+General, con todo respeto,
+váyase al carajo, señor.
+
+1336
+01:44:01,514 --> 01:44:03,106
+Bajo mi autoridad...
+
+1337
+01:44:03,282 --> 01:44:04,613
+...prepárense para disparar.
+
+1338
+01:44:04,784 --> 01:44:07,275
+"Víbora 2", habla el General McClintock.
+
+1339
+01:44:07,520 --> 01:44:09,181
+Preparen sus armas.
+
+1340
+01:44:16,962 --> 01:44:18,020
+Sujétese.
+
+1341
+01:44:18,197 --> 01:44:19,528
+Volaremos bajo.
+
+1342
+01:44:26,372 --> 01:44:27,703
+¿Yo puedo hacer algo?
+
+1343
+01:44:27,873 --> 01:44:29,204
+No me ponga nervioso.
+
+1344
+01:44:37,983 --> 01:44:39,314
+El río va a la derecha.
+
+1345
+01:44:39,485 --> 01:44:41,885
+Debemos adelantarnos. Por la derecha.
+
+1346
+01:44:42,054 --> 01:44:43,817
+"Dos", volando a la derecha.
+
+1347
+01:44:49,895 --> 01:44:52,489
+No los veo. Los perdimos.
+
+1348
+01:44:56,402 --> 01:44:58,336
+¡Mierda! Sujétese, coronel.
+
+1349
+01:45:01,173 --> 01:45:03,164
+"Dos" visión bloqueada. Imposible.
+
+1350
+01:45:07,246 --> 01:45:08,679
+¿Ve ese puente?
+
+1351
+01:45:09,415 --> 01:45:10,746
+¿Por arriba o por abajo?
+
+1352
+01:45:10,916 --> 01:45:13,350
+Decide tú. Yo no estoy en condiciones.
+
+1353
+01:45:13,519 --> 01:45:15,851
+- Sujétese.
+- Debí haber dicho por arriba.
+
+1354
+01:45:16,021 --> 01:45:17,921
+¡Cables! "Dos" a la izquierda.
+
+1355
+01:45:18,524 --> 01:45:19,582
+¿Qué hago?
+
+1356
+01:45:19,758 --> 01:45:21,419
+Sáquelo del aire.
+
+1357
+01:45:25,598 --> 01:45:27,691
+¡Por debajo del puente, no!
+
+1358
+01:45:37,610 --> 01:45:38,872
+Lo está perdiendo.
+
+1359
+01:45:38,944 --> 01:45:40,468
+- Ponte en mi mira.
+- Lo está perdiendo.
+
+1360
+01:45:40,946 --> 01:45:42,208
+Sujétese.
+
+1361
+01:45:55,227 --> 01:45:56,717
+Lo logramos.
+
+1362
+01:45:56,896 --> 01:45:59,296
+- Si estás en líos, quiero saberlo.
+- Sujétese.
+
+1363
+01:46:15,915 --> 01:46:18,975
+La próxima vez que
+hagas algo así, avísame.
+
+1364
+01:46:19,318 --> 01:46:21,752
+No sabía que iba a hacerlo.
+
+1365
+01:46:22,922 --> 01:46:24,480
+¿Dónde estás?
+
+1366
+01:46:24,657 --> 01:46:26,921
+"Víbora 2" acercándose a Uds.
+
+1367
+01:46:27,259 --> 01:46:30,092
+Viró 180 grados, va hacia Uds. Ahora.
+
+1368
+01:46:37,603 --> 01:46:39,161
+Vienen hacia nosotros.
+
+1369
+01:46:39,338 --> 01:46:40,771
+Tengo armas preparadas.
+
+1370
+01:46:40,940 --> 01:46:42,100
+- ¡Mierda!
+- ¡Vira!
+
+1371
+01:46:42,274 --> 01:46:43,502
+¡Vira!
+
+1372
+01:46:50,182 --> 01:46:53,276
+- ¿Adónde se fue?
+- No lo sé, señor.
+
+1373
+01:46:54,853 --> 01:46:57,287
+El desgraciado hizo eso a propósito.
+
+1374
+01:46:59,525 --> 01:47:01,789
+- ¿Lo del costado son cohetes?
+- Así es, señor.
+
+1375
+01:47:01,961 --> 01:47:03,622
+Dispara a esos árboles.
+
+1376
+01:47:15,641 --> 01:47:16,801
+Mira ahí.
+
+1377
+01:47:17,376 --> 01:47:20,209
+Líder, tenemos humo en
+los árboles al este.
+
+1378
+01:47:20,379 --> 01:47:21,539
+Verifiquen.
+
+1379
+01:47:21,714 --> 01:47:25,150
+"Víbora 2", ¿pueden bajar
+ahí y buscar los restos?
+
+1380
+01:47:25,317 --> 01:47:27,979
+Negativo. Es muy denso ahí abajo.
+
+1381
+01:47:29,054 --> 01:47:32,387
+"Ojo Grande", creemos que
+el Loach cayó. ¿Qué ven?
+
+1382
+01:47:32,825 --> 01:47:36,727
+Teníamos 3 contactos y luego
+una explosión. Ahora tenemos 2.
+
+1383
+01:47:36,895 --> 01:47:40,058
+El resto que detectamos
+es ruido de la carretera.
+
+1384
+01:47:40,833 --> 01:47:42,892
+Estamos volando muy bajito, ¿no?
+
+1385
+01:47:43,335 --> 01:47:45,166
+Para evitar el radar, señor.
+
+1386
+01:47:48,674 --> 01:47:50,505
+Aún está dormida. ¿Cómo estás?
+
+1387
+01:47:52,077 --> 01:47:54,739
+Guíate por el E-1101 para
+sintetizar un antisuero.
+
+1388
+01:47:54,913 --> 01:47:55,845
+Inmediatamente.
+
+1389
+01:47:56,015 --> 01:47:58,347
+- Tenemos mucha gente aquí,
+- Haré grandes cantidades.
+
+1390
+01:47:58,517 --> 01:48:00,007
+Quiero muchos litros.
+
+1391
+01:48:00,185 --> 01:48:03,245
+Quiero todo listo si Robby
+responde. ¿Entendido?
+
+1392
+01:48:03,422 --> 01:48:04,753
+- Sí, señor.
+- Bien.
+
+1393
+01:48:25,611 --> 01:48:27,772
+No hay señales de la nave.
+
+1394
+01:48:27,946 --> 01:48:29,538
+Nos engañaron.
+
+1395
+01:48:31,050 --> 01:48:33,211
+¡Maldito infeliz!
+
+1396
+01:49:01,914 --> 01:49:03,313
+¿Cómo estás?
+
+1397
+01:49:09,154 --> 01:49:11,987
+Te pondrás bien. Encontramos el huésped.
+
+1398
+01:49:13,826 --> 01:49:16,488
+No tienes que decir eso, Sam.
+
+1399
+01:49:17,096 --> 01:49:18,586
+No, es verdad.
+
+1400
+01:49:18,831 --> 01:49:20,321
+¿Te mentiría yo?
+
+1401
+01:49:20,499 --> 01:49:22,763
+Salt está preparando el antisuero.
+
+1402
+01:49:23,335 --> 01:49:25,166
+Tienes que resistir un rato.
+
+1403
+01:49:35,347 --> 01:49:37,281
+Adoro tu cara.
+
+1404
+01:49:48,193 --> 01:49:50,184
+Sigue hablándome, Robby.
+
+1405
+01:49:53,799 --> 01:49:55,858
+¡Por favor no me dejes, Robby!
+
+1406
+01:50:12,484 --> 01:50:13,712
+¡No me dejes!
+
+1407
+01:50:53,425 --> 01:50:55,416
+¡Coronel, lo tengo!
+
+1408
+01:50:55,928 --> 01:50:58,260
+- ¿Su casco?
+- Vamos, vamos, ponlo.
+
+1409
+01:50:58,697 --> 01:50:59,857
+Ya está.
+
+1410
+01:51:00,599 --> 01:51:01,691
+¿Estás lista?
+
+1411
+01:51:03,202 --> 01:51:04,692
+- Dígame cuándo.
+- Ahora.
+
+1412
+01:51:05,370 --> 01:51:06,769
+Lo tengo. Lo tengo.
+
+1413
+01:51:07,606 --> 01:51:09,039
+Avisa al laboratorio.
+
+1414
+01:51:09,208 --> 01:51:10,766
+Que hagan más. Para el pueblo.
+
+1415
+01:51:10,943 --> 01:51:14,003
+- Va a funcionar, señor.
+- Vete ya. Es la hora.
+
+1416
+01:51:16,715 --> 01:51:20,116
+Aplazaste el bombardeo.
+Más tonterías sentimentales.
+
+1417
+01:51:20,285 --> 01:51:22,947
+¡Hay una posibilidad de
+salvar a esta gente!
+
+1418
+01:51:23,121 --> 01:51:25,214
+Estás loco. "Morfeo Uno", "Víbora Uno".
+
+1419
+01:51:25,390 --> 01:51:26,618
+¿Me oyen? Cambio.
+
+1420
+01:51:27,392 --> 01:51:28,552
+Informen.
+
+1421
+01:51:28,794 --> 01:51:32,059
+Teníamos antisuero y no
+lo usamos. Se sabrá.
+
+1422
+01:51:32,231 --> 01:51:33,459
+Puedo explicarlo.
+
+1423
+01:51:33,632 --> 01:51:35,725
+No se trata de salvar nuestro pellejo.
+
+1424
+01:51:35,901 --> 01:51:40,804
+Procedan inmediatamente con
+Operación Limpieza Total. ¿Entendido?
+
+1425
+01:51:41,139 --> 01:51:43,630
+Daniels sabe sobre el
+campamento africano.
+
+1426
+01:51:44,309 --> 01:51:45,469
+Entendido, "Víbora".
+
+1427
+01:51:45,644 --> 01:51:47,407
+"Morfeo" procede.
+
+1428
+01:52:34,793 --> 01:52:37,694
+Le bajó la presión.
+Se está normalizando.
+
+1429
+01:52:38,130 --> 01:52:40,121
+Pero, señor, vienen hacia acá.
+
+1430
+01:52:40,299 --> 01:52:44,963
+Oí una transmisión. El avión está
+en el aire. Vienen hacia acá.
+
+1431
+01:52:45,637 --> 01:52:46,695
+Vamos.
+
+1432
+01:52:47,372 --> 01:52:48,862
+¿Adónde vamos?
+
+1433
+01:52:52,144 --> 01:52:55,045
+- ¿Adónde vamos?
+- Debo hablarle al piloto. ¿Podemos?
+
+1434
+01:52:55,213 --> 01:52:57,044
+Sí, canal secundario.
+
+1435
+01:52:57,215 --> 01:52:59,479
+- Eleva esta cosa.
+- ¿Adónde vamos?
+
+1436
+01:52:59,651 --> 01:53:00,879
+No lo sé.
+
+1437
+01:53:01,053 --> 01:53:04,386
+- Elévanos.
+- Digámosles que tenemos antisuero.
+
+1438
+01:53:04,556 --> 01:53:07,047
+- No les importa.
+- Esto es una locura.
+
+1439
+01:53:07,225 --> 01:53:08,487
+Quieren su arma.
+
+1440
+01:53:08,660 --> 01:53:10,321
+- ¿Matarán a todos?
+- Correcto.
+
+1441
+01:53:10,495 --> 01:53:14,488
+- ¿Mirarán cómo mueren inocentes?
+- Sí, quieren su arma.
+
+1442
+01:53:29,581 --> 01:53:33,347
+"Víbora", aquí "Morfeo".
+Estamos comenzando curso de bomba.
+
+1443
+01:53:33,518 --> 01:53:35,418
+3 minutos para zona objetivo.
+
+1444
+01:53:35,587 --> 01:53:38,021
+"Morfeo". Luz verde para lanzar bomba.
+
+1445
+01:53:38,190 --> 01:53:41,182
+Repito, luz verde para
+lanzar bomba. Cambio.
+
+1446
+01:53:43,762 --> 01:53:45,423
+¿Adónde vamos?
+
+1447
+01:53:45,597 --> 01:53:48,191
+Quiero hablar con el piloto ahora.
+
+1448
+01:53:48,367 --> 01:53:49,095
+Adelante.
+
+1449
+01:53:49,267 --> 01:53:53,363
+A la aeronave acercándose a Cedar
+Creek, habla el Dr. Sam Daniels.
+
+1450
+01:53:53,605 --> 01:53:54,936
+¿Me oyen?
+
+1451
+01:53:55,107 --> 01:53:56,199
+Lo oímos.
+
+1452
+01:53:58,543 --> 01:54:01,376
+Bien. No deben bombardear este pueblo.
+
+1453
+01:54:01,546 --> 01:54:05,539
+¡Ese hijo de perra, ese
+miserable hijo de perra!
+
+1454
+01:54:05,717 --> 01:54:09,050
+Aquí Comando "Víbora", no se
+engañen por interferencia.
+
+1455
+01:54:09,187 --> 01:54:10,449
+Cambio.
+
+1456
+01:54:10,622 --> 01:54:14,456
+Comando "Víbora", habla "Morfeo".
+Autenticación. Cambio.
+
+1457
+01:54:14,726 --> 01:54:17,889
+"Morfeo", aquí Comando "Víbora".
+Confirmo autenticación.
+
+1458
+01:54:18,063 --> 01:54:19,121
+Juliette, cambio.
+
+1459
+01:54:19,297 --> 01:54:22,289
+Sus comandantes no tienen
+información actual. Nosotros sí.
+
+1460
+01:54:22,467 --> 01:54:25,732
+Se administra un antisuero
+mientras hablamos.
+
+1461
+01:54:25,971 --> 01:54:30,908
+Cada persona infectada recibirá su
+dosis, deben abortar su misión.
+
+1462
+01:54:31,076 --> 01:54:33,476
+Esto es urgente. ¿Me oyen?
+
+1463
+01:54:33,912 --> 01:54:37,404
+No pueden bombardear este pueblo.
+Deben abortar.
+
+1464
+01:54:37,616 --> 01:54:39,948
+Hablo a los pilotos del bombardero.
+
+1465
+01:54:40,118 --> 01:54:41,449
+¿Me oyen?
+
+1466
+01:54:43,054 --> 01:54:44,612
+¿Me oyen?
+
+1467
+01:54:44,956 --> 01:54:46,446
+¿Dónde está él, Briggs?
+
+1468
+01:54:46,691 --> 01:54:50,058
+¿Puede impedir el bombardeo?
+¿Puede abortar su curso?
+
+1469
+01:54:50,295 --> 01:54:52,627
+Si se interpone en el rumbo del avión.
+
+1470
+01:54:52,798 --> 01:54:55,699
+¡Mande algo ahí arriba
+y hágalo explotar!
+
+1471
+01:54:55,867 --> 01:54:56,856
+¡Ahora!
+
+1472
+01:54:58,870 --> 01:55:01,065
+¿Podemos detener su transmisión?
+
+1473
+01:55:01,306 --> 01:55:03,866
+¿Me oyen? ¡Tienen que abortar!
+
+1474
+01:55:04,309 --> 01:55:06,971
+Los entrenaron para no responderle.
+
+1475
+01:55:07,979 --> 01:55:09,879
+Me oyen, ¿verdad, muchachos?
+
+1476
+01:55:10,982 --> 01:55:12,381
+Lo diré por última vez.
+
+1477
+01:55:12,584 --> 01:55:15,382
+La gente que van a
+bombardear no es el enemigo.
+
+1478
+01:55:15,587 --> 01:55:19,079
+Podemos matar el virus sin
+matar a esta gente. Les juro...
+
+1479
+01:55:19,224 --> 01:55:21,988
+...que el Presidente
+no tiene los hechos.
+
+1480
+01:55:22,160 --> 01:55:24,594
+No sabe que tenemos un suero eficaz.
+
+1481
+01:55:24,729 --> 01:55:27,220
+¿Creen que él quiere volar el pueblo?
+
+1482
+01:55:28,400 --> 01:55:33,099
+Si creen que miento, bombardeen.
+Si creen que estoy loco, bombardeen.
+
+1483
+01:55:33,238 --> 01:55:36,173
+¡Pero no bombardeen
+porque obedecen órdenes!
+
+1484
+01:55:36,408 --> 01:55:39,241
+Sus superiores tienen otras prioridades.
+
+1485
+01:55:39,411 --> 01:55:42,244
+¿No comprenden que ahí
+abajo, en Cedar Creek...
+
+1486
+01:55:42,414 --> 01:55:47,113
+...hay una arma biológica que hace
+30 años que están fabricando?
+
+1487
+01:55:47,252 --> 01:55:49,015
+¡Les garantizo...
+
+1488
+01:55:49,688 --> 01:55:53,124
+...que la enfermedad se propagó
+más allá del perímetro del pueblo!
+
+1489
+01:55:53,525 --> 01:55:56,358
+Señores, estamos en estado
+de emergencia nacional.
+
+1490
+01:55:56,528 --> 01:55:58,860
+Seguimos órdenes presidenciales.
+
+1491
+01:55:59,364 --> 01:56:00,524
+Cúmplanlas.
+
+1492
+01:56:00,665 --> 01:56:04,396
+Si incineran Cedar Creek,
+incineran el suero.
+
+1493
+01:56:15,881 --> 01:56:17,940
+Billy, ¿me puedes oír?
+
+1494
+01:56:18,450 --> 01:56:23,387
+Haz algo, ¿sí? No mates a esta
+gente para proteger tu mentira.
+
+1495
+01:56:23,722 --> 01:56:26,782
+¡Esto es asesinato, por
+donde se mire, carajo!
+
+1496
+01:56:27,392 --> 01:56:30,384
+Si manipulas la verdad,
+la Constitución...
+
+1497
+01:56:30,562 --> 01:56:35,226
+...entonces no matas sólo a un pueblo,
+sino parte del alma de EE. UU.
+
+1498
+01:56:35,400 --> 01:56:38,062
+Billy, ¿por qué no estás en Cedar Creek?
+
+1499
+01:56:38,236 --> 01:56:39,669
+Habla el General Ford.
+
+1500
+01:56:40,171 --> 01:56:43,800
+Le recuerdo que interfiere
+con la autoridad presidencial.
+
+1501
+01:56:44,242 --> 01:56:46,904
+"Morfeo" tiene una ruta
+específica al objetivo.
+
+1502
+01:56:47,078 --> 01:56:51,242
+Si Ud. Se interpone en su camino,
+no puede completar su curso.
+
+1503
+01:56:51,416 --> 01:56:52,747
+¿Comprende?
+
+1504
+01:56:52,918 --> 01:56:55,478
+- ¿Por qué dijo eso?
+- No tengo idea.
+
+1505
+01:56:56,821 --> 01:57:00,814
+¿Billy eres tonto o qué?
+Acabas de decirle cómo detener el...
+
+1506
+01:57:03,094 --> 01:57:04,254
+Está bien.
+
+1507
+01:57:05,830 --> 01:57:07,422
+Coronel, ahí está.
+
+1508
+01:57:07,599 --> 01:57:08,998
+Lo veo.
+
+1509
+01:57:10,201 --> 01:57:12,692
+- ¿Estás preparado para esto?
+- Sí, señor.
+
+1510
+01:57:14,205 --> 01:57:17,504
+Está sobre la zona objetivo,
+informe. Cambio.
+
+1511
+01:57:17,842 --> 01:57:21,278
+Tenemos luz verde para proceder.
+No se desvíen. Cambio.
+
+1512
+01:57:24,015 --> 01:57:26,347
+Hablo a los pilotos del bombardero.
+
+1513
+01:57:26,785 --> 01:57:29,219
+Sé que lo que están
+por hacer no es fácil.
+
+1514
+01:57:29,521 --> 01:57:31,853
+Pero les he dicho la verdad.
+
+1515
+01:57:32,023 --> 01:57:35,356
+¡Arrojarán esa arma a la hora
+indicada y en el objetivo!
+
+1516
+01:57:35,527 --> 01:57:39,122
+Lo que hagan en los próximos 30
+segundos será su testimonio de vida.
+
+1517
+01:57:39,297 --> 01:57:43,859
+"Morfeo", saben lo que se juega aquí.
+Traten de mantener la calma.
+
+1518
+01:57:44,302 --> 01:57:48,238
+Muy bien, no más palabras.
+Pero no nos moveremos de su curso.
+
+1519
+01:57:48,473 --> 01:57:52,239
+¿Nos oyen? Dije que no
+nos moveremos de su curso.
+
+1520
+01:57:52,377 --> 01:57:55,540
+Nunca vi nada semejante,
+lo juro por Dios.
+
+1521
+01:57:55,747 --> 01:57:57,146
+"Morfeo", aquí "Víbora"...
+
+1522
+01:57:57,649 --> 01:58:01,813
+No me importa si matan a esos infelices.
+Se les entrenó para esto.
+
+1523
+01:58:01,987 --> 01:58:04,251
+Mantengan el curso y bombardeen.
+
+1524
+01:58:04,689 --> 01:58:06,680
+Tendrán que pasarnos por encima.
+
+1525
+01:58:09,828 --> 01:58:11,056
+¡No nos moveremos!
+
+1526
+01:58:11,262 --> 01:58:12,490
+¡No nos moveremos!
+
+1527
+01:58:34,185 --> 01:58:35,516
+La están arrojando.
+
+1528
+01:59:09,721 --> 01:59:11,120
+Gracias, muchachos.
+
+1529
+01:59:15,326 --> 01:59:18,124
+"Morfeo", ¿cómo arrojaron esa arma?
+
+1530
+01:59:18,329 --> 01:59:19,318
+Cambio.
+
+1531
+01:59:19,464 --> 01:59:23,560
+Comando "Víbora", aquí "Morfeo".
+Tenemos detonación sobre el agua.
+
+1532
+01:59:23,735 --> 01:59:26,329
+Debe haber sido una
+ráfaga de viento. Cambio.
+
+1533
+01:59:28,473 --> 01:59:33,069
+Creo que han desobedecido una
+orden directa deliberadamente.
+
+1534
+01:59:33,244 --> 01:59:36,407
+Regresen a la base para
+rearme inmediato. Cambio.
+
+1535
+01:59:36,581 --> 01:59:38,412
+Déme el micrófono, general.
+
+1536
+01:59:40,251 --> 01:59:41,343
+¿Cómo dices?
+
+1537
+01:59:41,853 --> 01:59:44,344
+Déme el micrófono, general.
+
+1538
+01:59:49,928 --> 01:59:53,420
+"Morfeo", habla el General Ford.
+Ignoren esa orden.
+
+1539
+01:59:53,998 --> 01:59:57,434
+Para que conste, relevo al Gral.
+McClintock del mando...
+
+1540
+01:59:58,603 --> 02:00:02,596
+...por el delito de retenerle al
+Presidente información vital.
+
+1541
+02:00:02,774 --> 02:00:07,006
+De ningún modo le he retenido al
+Presidente información vital.
+
+1542
+02:00:07,178 --> 02:00:09,009
+- Coronel Briggs.
+- Señor.
+
+1543
+02:00:09,180 --> 02:00:11,444
+Ponga al Gral. McClintock bajo arresto.
+
+1544
+02:00:13,118 --> 02:00:17,020
+Si cae mi cabeza por esto,
+Billy, también caerá la tuya.
+
+1545
+02:00:18,389 --> 02:00:20,448
+No está en nuestras manos ahora.
+
+1546
+02:00:22,127 --> 02:00:24,687
+¡Tú, desgraciado sentimental!
+
+1547
+02:00:27,799 --> 02:00:30,461
+¡Nadie me pone a mí bajo arresto!
+
+1548
+02:00:31,536 --> 02:00:32,525
+Nadie.
+
+1549
+02:00:37,308 --> 02:00:38,969
+Coronel Briggs...
+
+1550
+02:00:39,144 --> 02:00:42,136
+...qué momento maravilloso
+debe ser este para Ud.
+
+1551
+02:01:14,245 --> 02:01:16,679
+Dormiste una buena siesta, muchachita.
+
+1552
+02:01:17,448 --> 02:01:18,847
+Te ves mejor.
+
+1553
+02:01:20,084 --> 02:01:21,949
+Esa bata te queda bien.
+
+1554
+02:01:23,955 --> 02:01:26,753
+- ¿Cómo van con el suero?
+- Fantástico.
+
+1555
+02:01:26,958 --> 02:01:28,858
+Elaborando por litros.
+
+1556
+02:01:29,260 --> 02:01:32,752
+- ¿Cuánto le dan a los pacientes?
+- 200 mililitros.
+
+1557
+02:01:36,100 --> 02:01:37,965
+¿Es lo que te dieron a ti?
+
+1558
+02:01:46,978 --> 02:01:49,276
+No creí que volvería a verte.
+
+1559
+02:01:51,216 --> 02:01:52,979
+No creí que sobrevivirías.
+
+1560
+02:01:54,118 --> 02:01:56,780
+Es una experiencia extraordinaria.
+
+1561
+02:02:01,125 --> 02:02:03,218
+Como vivir conmigo.
+
+1562
+02:02:07,899 --> 02:02:09,628
+¿Lo volverías a hacer?
+
+1563
+02:02:11,135 --> 02:02:12,500
+Tal vez.
+
+1564
+02:02:13,137 --> 02:02:15,628
+Ahora que tengo los anticuerpos.
+

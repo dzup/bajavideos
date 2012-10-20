@@ -1,0 +1,4415 @@
+1
+00:01:21,147 --> 00:01:27,052
+El
+CASTOR
+
+2
+00:01:32,292 --> 00:01:35,728
+<i>Ésta es una foto de Walter Black...</i>
+
+3
+00:01:36,763 --> 00:01:39,459
+<i>...un depresivo sin remedio.</i>
+
+4
+00:01:41,267 --> 00:01:44,930
+<i>En algún lugar de su interior
+hay un hombre que se enamoró...</i>
+
+5
+00:01:46,139 --> 00:01:47,197
+<i>...formó una familia...</i>
+
+6
+00:01:47,807 --> 00:01:49,638
+Y luego desperté.
+
+7
+00:01:50,076 --> 00:01:52,101
+<i>...manejaba una empresa exitosa.</i>
+
+8
+00:01:54,848 --> 00:01:57,715
+<i>Ese hombre desapareció.</i>
+
+9
+00:01:58,451 --> 00:01:59,509
+<i>No importa cuanto lo intentó...</i>
+
+10
+00:02:02,455 --> 00:02:03,752
+<i>...y lo ha intentado todo...</i>
+
+11
+00:02:05,458 --> 00:02:06,720
+<i>...Walter no puede traerlo de regreso.</i>
+
+12
+00:02:09,696 --> 00:02:10,958
+<i>Es como si hubiera muerto...</i>
+
+13
+00:02:11,030 --> 00:02:13,794
+<i>...pero no tuvo el buen tino
+de llevar su cuerpo con él.</i>
+
+14
+00:02:14,934 --> 00:02:18,461
+<i>Así que pasa
+la mayor parte del tiempo durmiendo.</i>
+
+15
+00:02:26,012 --> 00:02:28,640
+<i>Las acciones de la alguna vez exitosa
+juguetería de su padre...</i>
+
+16
+00:02:28,715 --> 00:02:31,445
+<i>...ahora valen tan poco
+como Walter siente que él vale.</i>
+
+17
+00:02:33,453 --> 00:02:36,513
+<i>Su familia solía parecer salida
+de una tarjeta de navidad...</i>
+
+18
+00:02:36,589 --> 00:02:39,717
+<i>...pero ahora parece estar
+en duelo permanente.</i>
+
+19
+00:02:40,860 --> 00:02:45,490
+<i>Henry, su hijo menor, se volvió
+un "solitario", según sus maestros.</i>
+
+20
+00:02:46,266 --> 00:02:47,961
+<i>Le gustaría volverse invisible...</i>
+
+21
+00:02:48,034 --> 00:02:50,628
+<i>...en lugar de ser ignorado
+por su padre.</i>
+
+22
+00:02:53,139 --> 00:02:54,936
+<i>Y Porter, el mayor.</i>
+
+23
+00:02:55,408 --> 00:02:58,775
+<i>Tiene miedo de ser como su padre.</i>
+
+24
+00:02:59,646 --> 00:03:03,776
+<i>Su misión es catalogar
+cada parecido con él.</i>
+
+25
+00:03:04,584 --> 00:03:05,651
+<i>Cada vez que se muerde el labio.</i>
+
+26
+00:03:05,652 --> 00:03:08,780
+<i>Cada vez que hace sonar el cuello.
+Cada reacción involuntaria.</i>
+
+27
+00:03:09,222 --> 00:03:10,985
+<i>E intenta borrar todo.</i>
+
+28
+00:03:13,226 --> 00:03:17,925
+<i>Su esposa, Meredith, se oculta
+en su trabajo de ingeniera...</i>
+
+29
+00:03:17,997 --> 00:03:21,933
+<i>...sus teleconferencias nocturnas con
+Tokio y sus diseños de montañas rusas.</i>
+
+30
+00:03:22,368 --> 00:03:24,962
+<i>Cualquier cosa que oculte
+la realidad de un esposo ausente.</i>
+
+31
+00:03:26,806 --> 00:03:31,402
+<i>La depresión de Walter es una tinta
+que mancha todo lo que toca.</i>
+
+32
+00:03:32,779 --> 00:03:35,475
+<i>Un agujero negro
+que se traga todo a su alrededor.</i>
+
+33
+00:03:38,685 --> 00:03:40,915
+<i>Todos han estado esperando
+que despierte...</i>
+
+34
+00:03:42,589 --> 00:03:43,878
+<i>...que lo supere...</i>
+
+35
+00:03:45,158 --> 00:03:46,648
+<i>...pero no lo ha hecho.</i>
+
+36
+00:03:48,828 --> 00:03:51,490
+<i>Así que Meredith hace
+lo único que queda por hacer...</i>
+
+37
+00:03:52,832 --> 00:03:54,993
+<i>...y dice lo único que queda por decir.</i>
+
+38
+00:03:57,203 --> 00:03:58,492
+<i>Adiós.</i>
+
+39
+00:04:14,988 --> 00:04:17,616
+Jared, ibas a desaprobar esta materia.
+
+40
+00:04:17,690 --> 00:04:21,319
+¿Realmente piensas que con entregar
+un trabajo de diez vas a salvarte?
+
+41
+00:04:21,394 --> 00:04:22,683
+¿Qué hay de Héctor?
+
+42
+00:04:22,829 --> 00:04:24,228
+Le conseguiste un diez
+en Desarrollo Familiar.
+
+43
+00:04:25,698 --> 00:04:28,531
+Nunca le escribí nada a Héctor. ¿Sí?
+
+44
+00:04:28,601 --> 00:04:31,297
+Si te dijo otra cosa, es un mentiroso.
+
+45
+00:04:32,138 --> 00:04:34,231
+En el hipotético caso
+de haberle escrito algo...
+
+46
+00:04:34,307 --> 00:04:36,502
+...sus notas habrían subido
+paulatinamente.
+
+47
+00:04:36,976 --> 00:04:40,878
+Y si eso hubiera sucedido, entonces sí,
+habría entregado un trabajo para diez.
+
+48
+00:04:40,947 --> 00:04:43,916
+Hasta podría obtener un ocho
+en una materia que solía desaprobar.
+
+49
+00:04:43,983 --> 00:04:47,919
+Si alguien quisiera que yo hiciera eso,
+y yo lo hiciese como ellos...
+
+50
+00:04:47,987 --> 00:04:49,887
+...son su voz y su talento...
+
+51
+00:04:51,024 --> 00:04:53,049
+...diría que podrían hacerlo
+a mi manera...
+
+52
+00:04:53,126 --> 00:04:56,527
+...o correr el riesgo de comprar
+alguna porquería por Internet.
+
+53
+00:04:56,596 --> 00:04:59,360
+- ¿$200 cada uno?
+- Si te parece mucho, escríbelo tú.
+
+54
+00:05:01,267 --> 00:05:03,258
+Es más de lo que pago por la hierba.
+
+55
+00:05:19,152 --> 00:05:22,121
+En el gimnasio mañana a las 4:00
+
+56
+00:05:43,276 --> 00:05:44,565
+Perdón, amigo.
+
+57
+00:05:45,144 --> 00:05:46,839
+Otra vez no me viste.
+
+58
+00:05:47,180 --> 00:05:49,410
+Lo sé, cariño. Estaba mirando.
+
+59
+00:05:53,386 --> 00:05:55,354
+¿Cómo estuvo tu día?
+
+60
+00:05:56,589 --> 00:05:58,056
+¿Hablaste con alguien?
+
+61
+00:05:59,092 --> 00:06:00,957
+Supongo.
+
+62
+00:06:01,027 --> 00:06:02,892
+¿Alguien nuevo o viejo?
+
+63
+00:06:03,563 --> 00:06:04,629
+Nuevo.
+
+64
+00:06:04,630 --> 00:06:06,791
+Bien. ¿De qué hablaron?
+
+65
+00:06:07,367 --> 00:06:08,994
+Dijo que yo era un chupa huevos.
+
+66
+00:06:10,136 --> 00:06:13,902
+Le dije que no, me alzó
+y me tiró al cesto de basura.
+
+67
+00:06:15,074 --> 00:06:16,363
+¿Qué?
+
+68
+00:06:17,643 --> 00:06:19,474
+¿Le dijiste a tu maestra?
+
+69
+00:06:19,545 --> 00:06:21,172
+Ella me sacó del cesto.
+
+70
+00:06:24,384 --> 00:06:28,912
+Esto debe ser un malentendido...
+
+71
+00:06:29,389 --> 00:06:32,916
+...y sólo debemos realinear
+y corregir su...
+
+72
+00:06:33,559 --> 00:06:34,924
+Hablaré con la maestra.
+
+73
+00:06:36,996 --> 00:06:38,020
+¿Papá ya no está?
+
+74
+00:06:40,032 --> 00:06:42,364
+No, cariño.
+
+75
+00:06:43,569 --> 00:06:47,972
+Sólo acordamos
+que era mejor no vivir más juntos.
+
+76
+00:08:19,165 --> 00:08:22,726
+<i>¿Qué buscas
+más allá del mar, Saltamontes?</i>
+
+77
+00:08:24,103 --> 00:08:25,900
+<i>Esa parte de mí de la que sé poco.</i>
+
+78
+00:08:26,873 --> 00:08:29,341
+<i>El pasado del cual nací.</i>
+
+79
+00:08:29,408 --> 00:08:31,740
+<i>Entonces, algún día,
+deberás comprenderlo.</i>
+
+80
+00:08:32,111 --> 00:08:35,046
+<i>¿Es bueno comprender el pasado,
+Maestro Po?</i>
+
+81
+00:08:36,949 --> 00:08:38,883
+<i>¿Acaso no le quita al presente?</i>
+
+82
+00:08:38,951 --> 00:08:42,284
+<i>Si un hombre se refugia en el pasado,
+entonces le quita al presente.</i>
+
+83
+00:08:42,855 --> 00:08:46,757
+<i>Pero si un hombre ignora el pasado,
+quizá le quite al futuro.</i>
+
+84
+00:08:47,093 --> 00:08:51,359
+<i>- Los alimentos de nuestro destino...</i>
+- Eso es hermoso, Saltamontes.
+
+85
+00:08:53,499 --> 00:08:55,763
+Toma. Aquí tienes.
+
+86
+00:08:57,069 --> 00:08:58,400
+Te moviste.
+
+87
+00:10:42,642 --> 00:10:46,408
+Ya que estamos haciendo cambios
+por aquí...
+
+88
+00:10:46,479 --> 00:10:49,505
+...quizá quieras contratar a un plomero.
+
+89
+00:10:49,749 --> 00:10:51,717
+Este lugar se está cayendo a pedazos.
+
+90
+00:10:52,518 --> 00:10:56,614
+Mala suerte, porque no hay mucho
+que podamos hacer, ¿no?
+
+91
+00:10:58,024 --> 00:11:02,393
+Cálmate. Estoy de tu lado.
+Me alegro de que lo hayas echado.
+
+92
+00:11:02,895 --> 00:11:07,229
+Sólo digo que este asunto
+de comer juntos en la mesa.
+
+93
+00:11:07,299 --> 00:11:10,325
+Es... ¿Cuánto tiempo crees
+que lo seguiremos haciendo?
+
+94
+00:11:11,170 --> 00:11:13,297
+No lo sé, Porter.
+
+95
+00:11:13,372 --> 00:11:15,363
+Quizá hasta que volvamos a respetarnos.
+
+96
+00:11:15,441 --> 00:11:20,504
+Quizá hasta que comencemos
+a preguntarnos cómo nos fue...
+
+97
+00:11:20,579 --> 00:11:22,012
+...o levantemos la mesa...
+
+98
+00:11:22,081 --> 00:11:24,242
+Quizá debería trabajar
+de repartidor de diarios, también.
+
+99
+00:11:27,019 --> 00:11:28,850
+<i>Entonces voy a adivinar el número.</i>
+
+100
+00:11:31,257 --> 00:11:34,055
+<i>Si lo hago,
+les contaré la historia de los gatitos.</i>
+
+101
+00:11:35,661 --> 00:11:37,526
+<i>Esta noche tenemos dos historias,
+desafortunadamente...</i>
+
+102
+00:11:44,437 --> 00:11:45,665
+Despierta.
+
+103
+00:11:48,174 --> 00:11:50,699
+Despierta, inútil.
+
+104
+00:11:54,513 --> 00:11:56,743
+Maldición. Mírate.
+
+105
+00:11:58,651 --> 00:12:01,677
+Ebrio y aplastado por la televisión.
+
+106
+00:12:06,025 --> 00:12:09,984
+Es un buen obituario, Walter.
+
+107
+00:12:25,845 --> 00:12:26,971
+Déjame solo.
+
+108
+00:12:29,014 --> 00:12:32,848
+No, no puedo hacerlo.
+No es lo que quieres.
+
+109
+00:12:33,385 --> 00:12:38,721
+Porque soy el único que sabe
+cómo te sientes realmente.
+
+110
+00:12:42,094 --> 00:12:44,460
+Todos necesitan un amigo, Walter.
+
+111
+00:12:45,798 --> 00:12:47,493
+Y tú me tienes a mí.
+
+112
+00:12:49,201 --> 00:12:52,534
+Por eso es que lees
+todos esos libros de autoayuda.
+
+113
+00:12:53,873 --> 00:12:59,209
+<i>Sopa de pollo, Pensamiento positivo,
+Cómo conseguir amigos.</i>
+
+114
+00:12:59,545 --> 00:13:02,742
+¿En cuál está el capítulo
+sobre tirarte la tele en la cabeza?
+
+115
+00:13:04,450 --> 00:13:05,712
+Estoy enfermo.
+
+116
+00:13:06,719 --> 00:13:09,813
+Sí, Walt. En eso estamos de acuerdo.
+
+117
+00:13:12,525 --> 00:13:15,892
+La pregunta es si quieres mejorarte.
+
+118
+00:13:21,667 --> 00:13:23,760
+No puedo.
+
+119
+00:13:23,836 --> 00:13:26,805
+- Sí, sí. Estás deprimido.
+- Sí.
+
+120
+00:13:26,872 --> 00:13:29,864
+Letargo, apatía.
+
+121
+00:13:30,342 --> 00:13:31,570
+¡Despierta!
+
+122
+00:13:33,112 --> 00:13:36,047
+Los libros y las pastillas son
+algodón de azúcar.
+
+123
+00:13:36,849 --> 00:13:39,317
+Has visto muchos programas
+de reconstrucción de hogares.
+
+124
+00:13:39,385 --> 00:13:40,451
+Crees que con solo...
+
+125
+00:13:40,452 --> 00:13:43,853
+...pasar un poco de pintura
+y reubicar los muebles...
+
+126
+00:13:43,923 --> 00:13:45,220
+...todo volverá a estar bien.
+
+127
+00:13:46,192 --> 00:13:51,220
+¿Quieres que las cosas cambien?
+¿Que cambien de verdad?
+
+128
+00:13:52,731 --> 00:13:54,995
+Debes olvidarte
+de reconstruir la casa, Walter.
+
+129
+00:13:55,367 --> 00:13:59,167
+Debes hacer volar todo el edificio.
+
+130
+00:14:09,148 --> 00:14:10,479
+¿Qué harás, Walter?
+
+131
+00:14:12,284 --> 00:14:13,876
+- Volarlo.
+- ¡Más fuerte!
+
+132
+00:14:14,920 --> 00:14:16,353
+- Volarlo.
+- ¡Más fuerte!
+
+133
+00:14:16,589 --> 00:14:21,492
+¡Volarlo! ¡Volar la maldita cosa!
+
+134
+00:14:21,560 --> 00:14:22,849
+Exacto.
+
+135
+00:14:22,995 --> 00:14:24,485
+Muy exacto, amigo.
+
+136
+00:14:24,763 --> 00:14:27,095
+Puedes volarlo. Comenzar otra vez.
+
+137
+00:14:29,902 --> 00:14:31,301
+¿Quién eres?
+
+138
+00:14:32,872 --> 00:14:38,538
+Soy el Castor, Walter,
+y estoy aquí para salvar tu vida.
+
+139
+00:14:44,183 --> 00:14:45,309
+Hola.
+
+140
+00:14:46,018 --> 00:14:48,543
+Perdón. No lo vi.
+Se mezcla con los demás.
+
+141
+00:14:48,621 --> 00:14:50,282
+No, su padre lo vino a buscar temprano.
+
+142
+00:14:51,156 --> 00:14:52,323
+¿Walter?
+
+143
+00:14:52,324 --> 00:14:57,091
+Dijo que le había avisado.
+Su esposo es un personaje.
+
+144
+00:15:16,348 --> 00:15:18,009
+Mamá, debes ver lo que hicimos.
+
+145
+00:15:18,083 --> 00:15:21,075
+- Está bien. ¿Dónde está tu padre?
+- Vamos, te mostraré.
+
+146
+00:15:24,623 --> 00:15:26,022
+Colocas tu memoria allí.
+
+147
+00:15:26,659 --> 00:15:28,183
+¿De dónde la sacaste?
+
+148
+00:15:28,260 --> 00:15:30,387
+- La hicimos.
+- ¿Tu padre y tú?
+
+149
+00:15:30,963 --> 00:15:32,191
+El Castor y yo.
+
+150
+00:15:33,232 --> 00:15:34,597
+¿El Castor?
+
+151
+00:15:40,105 --> 00:15:42,164
+¿Tienes idea de dónde
+dejó Walter la lijadora...
+
+152
+00:15:42,241 --> 00:15:44,004
+...que le regalaste hace dos navidades?
+
+153
+00:15:45,844 --> 00:15:47,133
+¿No?
+
+154
+00:15:47,346 --> 00:15:49,371
+No importa. Nos arreglaremos.
+
+155
+00:15:49,481 --> 00:15:52,473
+Walter,
+¿qué es eso del acento y el títere?
+
+156
+00:15:52,952 --> 00:15:55,113
+- Dáselo.
+- Está bien.
+
+157
+00:16:00,159 --> 00:16:02,457
+"Hola. La persona que le entregó
+esta tarjeta...
+
+158
+00:16:02,528 --> 00:16:05,520
+...está bajo el cuidado
+de un títere recetado."
+
+159
+00:16:06,031 --> 00:16:07,362
+Walter, ¿qué rayos es esto?
+
+160
+00:16:07,433 --> 00:16:10,891
+Henry, amigo, ve a ver si consigues
+el barniz del que hablábamos.
+
+161
+00:16:11,136 --> 00:16:13,229
+- ¡Iré por él!
+- ¡Gracias, amigo!
+
+162
+00:16:14,840 --> 00:16:16,705
+¿Leíste la tarjeta?
+
+163
+00:16:18,043 --> 00:16:20,068
+- Sí, yo...
+- Léela.
+
+164
+00:16:20,145 --> 00:16:22,045
+- Yo...
+- Lee la tarjeta.
+
+165
+00:16:26,285 --> 00:16:28,435
+"La persona que le
+entregó esta tarjeta...
+
+166
+00:16:28,436 --> 00:16:30,585
+...está bajo el cuidado
+de un títere recetado...
+
+167
+00:16:30,656 --> 00:16:34,057
+...diseñado para crear
+una distancia entre él...
+
+168
+00:16:35,127 --> 00:16:37,357
+...y los aspectos negativos
+de su personalidad.
+
+169
+00:16:37,763 --> 00:16:39,196
+"Por favor,
+trátelo como lo haría habitualmente...
+
+170
+00:16:39,264 --> 00:16:41,732
+...pero diríjase al títere. Gracias."
+
+171
+00:16:41,800 --> 00:16:43,089
+Ahí está tu respuesta.
+
+172
+00:16:43,268 --> 00:16:44,317
+¿Acaso es una broma?
+
+173
+00:16:44,318 --> 00:16:46,567
+No, mi amor.
+No tiene nada de gracioso.
+
+174
+00:16:46,939 --> 00:16:48,372
+¡Ya basta con el títere!
+
+175
+00:16:48,440 --> 00:16:52,570
+Está bien. Estoy confundida, Walter,
+y necesito respuestas ahora.
+
+176
+00:17:00,052 --> 00:17:01,644
+Dijo que si lo conservo, quizá...
+
+177
+00:17:01,954 --> 00:17:03,615
+¿Quién lo dijo?
+
+178
+00:17:04,823 --> 00:17:06,112
+El Dr. Macy.
+
+179
+00:17:06,825 --> 00:17:09,020
+¿El Dr. Macy? Habías dejado de verlo.
+
+180
+00:17:10,029 --> 00:17:11,690
+Regresé.
+
+181
+00:17:14,466 --> 00:17:18,095
+¿Esto es una especie de programa?
+
+182
+00:17:19,705 --> 00:17:23,038
+Yo responderé a eso. Sí, Meredith.
+La respuesta es sí.
+
+183
+00:17:23,342 --> 00:17:25,207
+Eso es exactamente.
+
+184
+00:17:25,277 --> 00:17:26,471
+Sé que parece radical...
+
+185
+00:17:26,612 --> 00:17:30,343
+...pero en casos como el de Walter,
+donde todo lo demás falla...
+
+186
+00:17:30,549 --> 00:17:32,414
+...ha resultado bastante efectivo.
+
+187
+00:17:33,218 --> 00:17:37,154
+Pero para que funcione,
+necesita de todo tu apoyo.
+
+188
+00:17:37,823 --> 00:17:38,881
+Es muy famoso en Suecia.
+
+189
+00:17:41,293 --> 00:17:42,360
+No lo encontré.
+
+190
+00:17:42,361 --> 00:17:43,726
+No importa.
+
+191
+00:17:45,164 --> 00:17:46,825
+Mejor me voy.
+
+192
+00:17:46,899 --> 00:17:48,025
+No te marchas, ¿verdad?
+
+193
+00:17:48,634 --> 00:17:50,625
+No te preocupes.
+Volveré este fin de semana.
+
+194
+00:17:50,702 --> 00:17:53,193
+¡Pero debes quedarte a cenar!
+¡Mamá, que se quede a cenar!
+
+195
+00:17:53,272 --> 00:17:54,432
+Está bien.
+
+196
+00:17:54,506 --> 00:17:57,066
+- No hace falta.
+- Por favor, mamá, que se quede a cenar.
+
+197
+00:17:57,676 --> 00:17:59,075
+- Regresaré este fin de semana.
+- Vamos.
+
+198
+00:17:59,144 --> 00:18:01,374
+- Está bien. Sólo a cenar.
+- Por favor, mamá.
+
+199
+00:18:02,281 --> 00:18:04,249
+- ¡Sí!
+- Está bien.
+
+200
+00:18:04,316 --> 00:18:06,443
+Ordenemos el garaje
+así podemos ensuciar la cocina.
+
+201
+00:18:07,019 --> 00:18:08,816
+Vamos, no toques nada afilado.
+
+202
+00:18:13,725 --> 00:18:14,783
+Hola.
+
+203
+00:18:20,732 --> 00:18:22,021
+¿Qué rayos estoy haciendo aquí?
+
+204
+00:18:23,102 --> 00:18:24,535
+Necesito que me escribas algo.
+
+205
+00:18:26,505 --> 00:18:28,564
+Lo sabía.
+¿Crees que voy a creerme esto?
+
+206
+00:18:28,640 --> 00:18:30,505
+- ¿Quién?
+- Mumphry...
+
+207
+00:18:31,243 --> 00:18:33,040
+...o el vicedirector
+que te haya enviado.
+
+208
+00:18:33,345 --> 00:18:35,210
+Dile que estoy ofendido.
+
+209
+00:18:36,515 --> 00:18:40,076
+¿Puedes esperar un segundo?
+No me envió nadie.
+
+210
+00:18:40,619 --> 00:18:42,109
+Realmente necesito ayuda.
+
+211
+00:18:42,187 --> 00:18:45,748
+Estás en el cuadro de honor.
+Tienes diez de promedio.
+
+212
+00:18:46,125 --> 00:18:48,025
+Me copio de ti en cálculo.
+
+213
+00:18:48,260 --> 00:18:50,353
+¿Por qué querrías
+que te escribiera un trabajo?
+
+214
+00:18:50,429 --> 00:18:51,718
+No es un trabajo.
+
+215
+00:18:52,931 --> 00:18:55,058
+Es mi discurso de graduación.
+
+216
+00:18:56,034 --> 00:18:58,332
+Ahórrate el dinero.
+A nadie le importan esas cosas.
+
+217
+00:18:59,304 --> 00:19:01,204
+A mi mamá sí. Así que...
+
+218
+00:19:01,940 --> 00:19:05,933
+No estoy diciendo
+que le escribes a otros...
+
+219
+00:19:06,378 --> 00:19:11,008
+...pero si lo hicieras,
+escuché que eres muy bueno.
+
+220
+00:19:11,083 --> 00:19:14,143
+Debo meterme en sus cabezas.
+
+221
+00:19:17,222 --> 00:19:18,621
+- De ninguna manera.
+- ¿Por qué?
+
+222
+00:19:18,690 --> 00:19:22,854
+Porque una cosa es tu grupito de
+anoréxicas que se guían por cómo se ven.
+
+223
+00:19:22,961 --> 00:19:24,678
+Es lo único que tienen.
+
+224
+00:19:24,679 --> 00:19:27,796
+Pero para alguien como tú,
+es sólo desidia.
+
+225
+00:19:28,567 --> 00:19:29,856
+Espera.
+
+226
+00:19:30,602 --> 00:19:31,891
+Espera.
+
+227
+00:19:32,037 --> 00:19:34,028
+¿Esto te parece desidia?
+
+228
+00:19:35,407 --> 00:19:38,467
+Son 428 páginas de desidia.
+
+229
+00:19:39,411 --> 00:19:42,073
+Y si no quieres mi dinero
+porque te mueres por verme...
+
+230
+00:19:42,147 --> 00:19:45,310
+...quedar mal, está bien.
+
+231
+00:19:45,384 --> 00:19:47,409
+Pero no te atrevas
+a acusarme de desidia.
+
+232
+00:19:48,187 --> 00:19:49,476
+Imbécil.
+
+233
+00:20:02,034 --> 00:20:04,059
+Muchas gracias
+¿Quieres aceitunas en la ensalada?
+
+234
+00:20:04,136 --> 00:20:06,263
+- Sí.
+- Aquí tienes. Mira.
+
+235
+00:20:10,008 --> 00:20:11,297
+¿Quieres más?
+
+236
+00:20:12,811 --> 00:20:15,871
+- ¿Qué rayos...?
+- Aquí está. Hola.
+
+237
+00:20:18,150 --> 00:20:19,378
+Mi tarjeta.
+
+238
+00:20:20,919 --> 00:20:22,784
+Temíamos tener que comenzar sin ti.
+
+239
+00:20:26,091 --> 00:20:27,183
+Es una broma, ¿no?
+
+240
+00:20:27,926 --> 00:20:29,359
+No, hijo, es un nuevo comienzo.
+
+241
+00:20:29,728 --> 00:20:31,457
+¿Acaso perdiste la cabeza?
+
+242
+00:20:31,530 --> 00:20:33,657
+- Sé que parece un poco...
+- No te hablo a ti, loco.
+
+243
+00:20:33,966 --> 00:20:35,160
+Le hablo a mamá.
+
+244
+00:20:36,368 --> 00:20:38,802
+Te llevó años sacarlo de aquí...
+
+245
+00:20:38,870 --> 00:20:42,829
+...y ¿lo dejas regresar un día después
+con un hámster que habla?
+
+246
+00:20:50,349 --> 00:20:53,147
+<i>Un fracaso de este tenor no sucede
+de un día para otro.</i>
+
+247
+00:20:53,619 --> 00:20:55,849
+Aún no puedo creer
+que ustedes hayan hecho eso.
+
+248
+00:20:57,122 --> 00:20:59,920
+Tú nunca... Quiero decir,
+Walter nunca...
+
+249
+00:21:02,661 --> 00:21:05,892
+Lo siento, no estoy segura
+de cómo debo dirigirme a ti.
+
+250
+00:21:06,898 --> 00:21:08,195
+Lo estás haciendo bien, cariño.
+
+251
+00:21:09,134 --> 00:21:11,568
+Siempre pediste herramientas
+para Navidad...
+
+252
+00:21:11,637 --> 00:21:14,834
+...pero no tenía idea
+de que supieras hacer algo.
+
+253
+00:21:14,906 --> 00:21:16,771
+Es un castor, mamá. Eso es lo que hacen.
+
+254
+00:21:16,842 --> 00:21:18,309
+Sí. Exacto, amigo.
+
+255
+00:21:18,810 --> 00:21:22,576
+Walter no lo hacía mal en una época.
+
+256
+00:21:22,648 --> 00:21:24,582
+¿Sí? ¿Quién le enseñó?
+
+257
+00:21:24,650 --> 00:21:25,912
+Supongo que aprendió solo.
+
+258
+00:21:26,685 --> 00:21:29,210
+Tenía más o menos tu edad.
+En los Scouts.
+
+259
+00:21:29,288 --> 00:21:31,654
+Se suponía que él y su papá iban a hacer
+un auto para un concurso.
+
+260
+00:21:32,057 --> 00:21:34,924
+Pero su papá no estaba,
+así que tuvo que hacerlo solo.
+
+261
+00:21:35,727 --> 00:21:37,388
+¿Dónde estaba su papá?
+
+262
+00:21:42,734 --> 00:21:45,601
+Se puso muy triste y tuvo un accidente.
+
+263
+00:21:45,704 --> 00:21:48,002
+¿Te refieres al abuelo Jerry,
+el de la tumba?
+
+264
+00:21:48,707 --> 00:21:53,041
+Exacto. Walter tenía las herramientas
+del abuelo pero no sabía cómo usarlas.
+
+265
+00:21:53,979 --> 00:21:56,607
+Terminó haciendo algo tan feo...
+
+266
+00:21:56,682 --> 00:22:00,083
+...que parecía que había atornillado un
+juego de ruedas a excremento de perro.
+
+267
+00:22:01,353 --> 00:22:03,184
+¿Sabes cómo lo llamaban
+los otros chicos?
+
+268
+00:22:03,889 --> 00:22:07,416
+El Sorete. Y fueron generosos, amigo.
+
+269
+00:22:07,759 --> 00:22:11,627
+Una mujer vomitó
+sólo porque estaba cerca de él.
+
+270
+00:22:12,431 --> 00:22:14,899
+Pero cuando se trataba de correr...
+
+271
+00:22:15,667 --> 00:22:16,956
+¿Qué?
+
+272
+00:22:17,469 --> 00:22:19,266
+Nadie vencía al Sorete.
+
+273
+00:22:19,671 --> 00:22:21,696
+- Genial.
+- Sí.
+
+274
+00:22:21,773 --> 00:22:23,400
+- ¿Papá?
+- Sí, querido.
+
+275
+00:22:24,443 --> 00:22:27,276
+- ¿Podemos hacer un Sorete?
+- Cuando quieras.
+
+276
+00:22:27,846 --> 00:22:30,041
+Cuando quieras hacerlo, me avisas.
+
+277
+00:22:30,816 --> 00:22:32,105
+Sí.
+
+278
+00:22:33,618 --> 00:22:35,279
+Buenas noches, Castor.
+
+279
+00:22:36,655 --> 00:22:37,944
+Buenas noches, amigo...
+
+280
+00:22:44,996 --> 00:22:46,285
+Buenas noches.
+
+281
+00:22:48,867 --> 00:22:50,528
+Buenas noches, Castor.
+
+282
+00:22:52,537 --> 00:22:54,505
+<i>- ¿Hola?</i>
+- Norah.
+
+283
+00:22:54,573 --> 00:22:55,904
+Hola, habla Porter.
+
+284
+00:22:58,844 --> 00:23:00,607
+Escucha, lo que te dije...
+
+285
+00:23:00,679 --> 00:23:03,307
+- Entonces, ¿vas a ayudarme o no?
+<i>- Sí.</i>
+
+286
+00:23:05,417 --> 00:23:08,931
+Pero por algo así tendré que pedirte...
+
+287
+00:23:08,932 --> 00:23:11,845
+...unos $500.
+
+288
+00:23:12,691 --> 00:23:13,980
+Trato hecho.
+
+289
+00:23:14,493 --> 00:23:16,859
+¿Me hubieras pagado $1.000?
+
+290
+00:23:17,496 --> 00:23:19,327
+- Sí, claro.
+<i>- ¿Y un millón?</i>
+
+291
+00:23:19,398 --> 00:23:20,490
+¿Puedes pasar mañana?
+
+292
+00:23:21,400 --> 00:23:24,198
+Sí, por supuesto.
+
+293
+00:23:25,604 --> 00:23:30,371
+Yo no... Mira... Está todo bien, ¿no?
+
+294
+00:23:30,709 --> 00:23:32,609
+<i>Nunca me dijiste una palabra a mí y...</i>
+
+295
+00:23:32,677 --> 00:23:34,042
+- ¿Porter?
+<i>- Y no es que nosotros</i>
+
+296
+00:23:34,112 --> 00:23:37,343
+<i>- nos conocíamos o algo así.</i>
+- Sólo ven mañana.
+
+297
+00:23:38,383 --> 00:23:40,112
+- Está bien.
+<i>- Está bien.</i>
+
+298
+00:23:42,387 --> 00:23:44,184
+Buenas noches, hasta pronto.
+
+299
+00:24:48,820 --> 00:24:52,347
+Confía en mí, amigo. Hoy te liberaremos.
+
+300
+00:25:01,433 --> 00:25:02,500
+Hola.
+La persona que le entregó...
+
+301
+00:25:02,501 --> 00:25:03,900
+...esta tarjeta está bajo el cuidado
+de un títere recetado...
+
+302
+00:25:22,587 --> 00:25:24,020
+¿Qué rayos es esto?
+
+303
+00:25:24,089 --> 00:25:25,488
+No tengo idea.
+
+304
+00:25:25,557 --> 00:25:27,650
+Éstos son despidos, ¿no?
+Maldita China.
+
+305
+00:25:27,726 --> 00:25:29,318
+No van a despedir a nadie.
+
+306
+00:25:31,329 --> 00:25:32,618
+¿Despedirlos a ustedes?
+
+307
+00:25:32,664 --> 00:25:34,359
+No tendría a quien darle órdenes.
+
+308
+00:25:36,902 --> 00:25:38,392
+El jefe despertó y trajo un amigo.
+
+309
+00:25:39,037 --> 00:25:43,804
+Creo que debemos mantener el respeto
+hasta que el señor Black nos...
+
+310
+00:25:44,175 --> 00:25:45,199
+Buenos días a todos.
+
+311
+00:25:47,178 --> 00:25:49,078
+Supongo que todos tienen las tarjetas.
+
+312
+00:25:49,881 --> 00:25:52,475
+Si no, permítanme que les explique.
+
+313
+00:25:53,485 --> 00:25:57,649
+Walter Black se convirtió
+en CEO de esta empresa hace dos años.
+
+314
+00:25:57,722 --> 00:26:03,183
+No por su talento o mérito,
+sino porque era el que seguía...
+
+315
+00:26:03,328 --> 00:26:05,592
+...en lugar de nuestro mucho más
+calificado...
+
+316
+00:26:05,593 --> 00:26:07,856
+...vicepresidente parado justo aquí.
+
+317
+00:26:08,466 --> 00:26:09,533
+Hola, cariño.
+
+318
+00:26:09,534 --> 00:26:13,766
+Era un trabajo
+para el que Walter no estaba preparado.
+
+319
+00:26:14,839 --> 00:26:16,238
+En resumen...
+
+320
+00:26:17,676 --> 00:26:19,200
+...Walter ha sido un perdedor.
+
+321
+00:26:20,278 --> 00:26:23,577
+Por lo cual, a partir de ahora...
+
+322
+00:26:23,578 --> 00:26:26,877
+...renuncia y me pone a mí a cargo.
+
+323
+00:26:27,352 --> 00:26:31,379
+Antes de que decidan correrme
+con antorchas y tridentes...
+
+324
+00:26:31,456 --> 00:26:37,388
+...escúchenme por cinco minutos,
+y después, si quieren, mátenme.
+
+325
+00:26:37,696 --> 00:26:42,429
+Primero, le cederé el control
+de todos los proyectos individuales...
+
+326
+00:26:42,500 --> 00:26:43,990
+...de vuelta a los equipos.
+
+327
+00:26:44,069 --> 00:26:45,400
+Eso significa que tendrán libertad...
+
+328
+00:26:45,503 --> 00:26:49,030
+...de hacer los trabajos
+para los que fueron contratados.
+
+329
+00:26:49,107 --> 00:26:50,174
+Hola, Hank.
+
+330
+00:26:50,175 --> 00:26:53,838
+En segundo lugar, nos actualizaremos,
+revitalizaremos y relanzaremos...
+
+331
+00:26:54,012 --> 00:26:57,539
+...en la Exposición Internacional
+de Fabricantes de Juguetes...
+
+332
+00:26:57,616 --> 00:27:00,380
+...en seis semanas.
+
+333
+00:27:00,819 --> 00:27:05,779
+Sé que hay mucho escepticismo
+acerca de mi habilidad para liderar.
+
+334
+00:27:06,157 --> 00:27:07,419
+¿No es cierto?
+
+335
+00:27:07,492 --> 00:27:10,859
+Soy un hombre de mediana edad
+que tiene su brazo metido en mi trasero.
+
+336
+00:27:11,096 --> 00:27:15,260
+¿Quién no dudaría de mí?
+Pero les ofreceré el siguiente trato.
+
+337
+00:27:15,333 --> 00:27:19,963
+Me dan sólo dos semanas
+y al final de ese período...
+
+338
+00:27:20,038 --> 00:27:23,269
+...el que quiera renunciar
+recibirá indemnización...
+
+339
+00:27:23,341 --> 00:27:25,571
+...y una hermosa carta de recomendación.
+
+340
+00:27:25,644 --> 00:27:28,807
+- Sin preguntas, sin excepciones.
+- ¿Perdón?
+
+341
+00:27:28,947 --> 00:27:30,380
+¿Y quién exactamente se supone
+que es usted?
+
+342
+00:27:31,149 --> 00:27:34,050
+Rayos. ¿Acaso olvidé presentarme?
+
+343
+00:27:34,653 --> 00:27:37,520
+Pueden llamarme simplemente El Castor.
+
+344
+00:27:45,330 --> 00:27:46,388
+Muy impresionante.
+
+345
+00:27:48,633 --> 00:27:49,922
+¿Qué necesitas saber?
+
+346
+00:27:51,369 --> 00:27:55,032
+Supongo que lo primero es
+qué quieres decir.
+
+347
+00:27:58,009 --> 00:27:59,874
+Ése es el problema.
+
+348
+00:28:00,211 --> 00:28:03,408
+Tengo buenas notas. Gran cosa.
+¿Qué sé?
+
+349
+00:28:03,481 --> 00:28:07,247
+¿Cómo quieres que la gente se sienta
+cuando hayas terminado?
+
+350
+00:28:07,519 --> 00:28:13,116
+Supongo que quiero que no sientan...
+
+351
+00:28:14,125 --> 00:28:15,387
+...que los defraudé.
+
+352
+00:28:15,527 --> 00:28:16,816
+"No defraudar."
+
+353
+00:28:17,028 --> 00:28:18,325
+Eso es poderoso.
+
+354
+00:28:19,931 --> 00:28:22,092
+"Estoy entusiasmado. ¿Cómo les va?"
+
+355
+00:28:22,167 --> 00:28:24,192
+"¿A mí? No estoy defraudado."
+
+356
+00:28:25,470 --> 00:28:28,268
+Te dije que no soy buena,
+por eso te necesito.
+
+357
+00:28:28,339 --> 00:28:31,866
+Bueno, eres una porrista,
+famosa por enojarte.
+
+358
+00:28:31,943 --> 00:28:33,968
+¿Hablamos de tu expulsión
+de octavo grado?
+
+359
+00:28:35,880 --> 00:28:37,313
+¿Cómo te enteraste?
+
+360
+00:28:38,083 --> 00:28:40,176
+No hay secretos en Internet.
+
+361
+00:28:40,719 --> 00:28:41,785
+¿Qué hiciste?
+
+362
+00:28:41,786 --> 00:28:43,014
+¿Robaste enciclopedias?
+
+363
+00:28:43,088 --> 00:28:45,113
+- ¿Comiste chicles de nicotina?
+- No.
+
+364
+00:28:45,190 --> 00:28:47,090
+¿Molestaste a un chico gordo?
+
+365
+00:28:47,625 --> 00:28:48,914
+Cállate.
+
+366
+00:28:49,127 --> 00:28:50,185
+Está bien. ¿Qué fue?
+
+367
+00:28:52,831 --> 00:28:54,128
+Pinté una pared.
+
+368
+00:28:56,835 --> 00:28:58,063
+¿Pintaste una pared?
+
+369
+00:28:59,704 --> 00:29:00,898
+Como...
+
+370
+00:29:04,609 --> 00:29:05,898
+¿Como un graffiti?
+
+371
+00:29:06,144 --> 00:29:10,171
+Era más bien arte, pero era ilegal.
+
+372
+00:29:12,117 --> 00:29:15,575
+¿Dónde está toda esa rebeldía
+de artista ahora?
+
+373
+00:29:16,121 --> 00:29:18,112
+Eso fue hace mucho tiempo.
+
+374
+00:29:18,990 --> 00:29:22,448
+Aún te queda un poco, ¿no?
+
+375
+00:29:22,660 --> 00:29:24,753
+- Muéstramela, por favor.
+- No.
+
+376
+00:29:25,730 --> 00:29:27,294
+Si me la muestras,
+te escribiré un discurso...
+
+377
+00:29:27,295 --> 00:29:28,858
+...con el que podrás liberar al Tibet.
+
+378
+00:29:29,200 --> 00:29:30,292
+¿Por qué tienes tantas ganas de verlo?
+
+379
+00:29:31,569 --> 00:29:33,264
+Porque me gusta que me sorprendan.
+
+380
+00:29:38,076 --> 00:29:40,408
+- Debemos ser rápidos.
+- Está bien.
+
+381
+00:29:42,313 --> 00:29:44,042
+¿De quién es esta habitación?
+
+382
+00:29:44,349 --> 00:29:45,646
+De nadie.
+
+383
+00:30:06,771 --> 00:30:11,902
+Me gusta hacerlo a lo grande.
+Autopistas, edificios, carteles.
+
+384
+00:30:13,211 --> 00:30:18,342
+Y rápido.
+Como millones de millas por hora.
+
+385
+00:30:20,185 --> 00:30:21,709
+Sin pensar, ¿sabes?
+
+386
+00:30:24,189 --> 00:30:25,417
+¿Por qué dejaste de hacerlo?
+
+387
+00:30:29,194 --> 00:30:32,652
+Porque me atraparon,
+y mi madre no pudo soportarlo.
+
+388
+00:30:33,531 --> 00:30:36,500
+Tiré todo.
+
+389
+00:30:36,568 --> 00:30:37,857
+A alguien deben haberle gustado.
+
+390
+00:30:39,037 --> 00:30:41,870
+Lo sacaron de la basura, ¿no?
+
+391
+00:30:43,107 --> 00:30:45,234
+- ¿Quién fue?
+- ¿Qué estás haciendo aquí?
+
+392
+00:30:47,412 --> 00:30:50,313
+Sólo le mostraba la casa a Porter.
+
+393
+00:30:52,183 --> 00:30:54,413
+Está en el equipo de matemática conmigo.
+
+394
+00:30:54,886 --> 00:30:56,615
+- Así es.
+- Es hora de irnos.
+
+395
+00:30:59,791 --> 00:31:02,589
+Lamento lo de mi mamá.
+
+396
+00:31:03,728 --> 00:31:05,923
+- Ella es...
+- Está bien.
+
+397
+00:31:10,535 --> 00:31:12,298
+Eres...
+
+398
+00:31:14,439 --> 00:31:15,838
+...mucho más rara...
+
+399
+00:31:19,310 --> 00:31:22,837
+No más rara, sino diferente, supongo.
+
+400
+00:31:23,448 --> 00:31:26,849
+Eres muy diferente
+de lo que creí que serías.
+
+401
+00:31:27,385 --> 00:31:30,081
+Para alguien a quien le estoy pagando
+para que me escriba un discurso...
+
+402
+00:31:30,154 --> 00:31:31,644
+...no sabes expresarte bien.
+
+403
+00:31:32,757 --> 00:31:33,883
+Soy mejor escribiendo.
+
+404
+00:31:35,026 --> 00:31:36,357
+Veremos.
+
+405
+00:31:37,495 --> 00:31:41,363
+Gracias por no reírte.
+
+406
+00:31:41,833 --> 00:31:43,100
+No haría eso.
+
+407
+00:31:43,101 --> 00:31:44,728
+No me reiría.
+
+408
+00:31:45,637 --> 00:31:46,695
+Bien.
+
+409
+00:31:49,173 --> 00:31:50,765
+Muy bien.
+
+410
+00:32:24,075 --> 00:32:28,307
+<i>Y eventualmente
+lo que parece extraño se vuelve común.</i>
+
+411
+00:32:29,447 --> 00:32:32,575
+<i>Lo que parecía imposible se vuelve real.</i>
+
+412
+00:33:11,389 --> 00:33:15,325
+<i>Hasta que las cosas se empiezan
+a sentir como antes.</i>
+
+413
+00:33:18,696 --> 00:33:19,890
+Lo arreglé, cariño. Funciona bien.
+
+414
+00:33:19,964 --> 00:33:22,159
+<i>Como si todo fuera nuevo.</i>
+
+415
+00:33:30,675 --> 00:33:34,202
+- Walter, despierta.
+- ¿Qué?
+
+416
+00:33:34,412 --> 00:33:38,007
+Es Henry. Se escapó de su habitación.
+Está de vuelta solo en el garaje.
+
+417
+00:33:38,082 --> 00:33:40,312
+Dile que vuelva a la cama.
+
+418
+00:33:40,385 --> 00:33:45,220
+Ya sé, se lo digo todas las noches,
+pero necesita oírlo de ti.
+
+419
+00:33:46,190 --> 00:33:47,479
+Sí.
+
+420
+00:33:49,260 --> 00:33:50,591
+Ya voy.
+
+421
+00:33:54,399 --> 00:33:57,596
+¿Adónde vas a esta hora de la noche?
+
+422
+00:33:57,668 --> 00:33:59,863
+Le diré al pequeñito
+que calle así puedo dormir.
+
+423
+00:33:59,937 --> 00:34:01,038
+Está bien.
+
+424
+00:34:01,039 --> 00:34:04,406
+Voy al mismo lugar. Vamos.
+Ataquemos de a tres.
+
+425
+00:34:05,376 --> 00:34:08,539
+Está bien.
+Tienes a tu pequeño amiguito peludo.
+
+426
+00:34:11,682 --> 00:34:12,971
+Buenas noches.
+
+427
+00:34:22,060 --> 00:34:23,857
+¿Qué están haciendo, además de lío?
+
+428
+00:34:23,928 --> 00:34:25,217
+¿Tampoco podías dormir?
+
+429
+00:34:25,830 --> 00:34:29,061
+En realidad, amigo,
+estaba durmiendo muy bien...
+
+430
+00:34:29,133 --> 00:34:31,328
+...hasta que empezaste a hacer ruido.
+
+431
+00:34:32,170 --> 00:34:34,035
+Tuve una idea.
+
+432
+00:34:34,105 --> 00:34:36,573
+¿Sí? Hablemos de la idea en la mañana.
+
+433
+00:34:37,175 --> 00:34:39,700
+¿Diez minutos más, por favor?
+
+434
+00:34:39,777 --> 00:34:41,404
+Diez minutos, está bien, sí.
+
+435
+00:34:41,479 --> 00:34:45,916
+Nada de herramientas
+cuando no estoy contigo. Es peligroso.
+
+436
+00:34:46,084 --> 00:34:47,715
+O cuando tu madre te pide
+que no lo hagas.
+
+437
+00:34:47,716 --> 00:34:48,746
+O a la noche.
+
+438
+00:34:48,820 --> 00:34:50,154
+O en el baño.
+
+439
+00:34:50,155 --> 00:34:52,688
+O cuando estás escalando
+el Monte Everest.
+
+440
+00:34:53,191 --> 00:34:54,749
+O cuando te escarbas la nariz. ¿Sí?
+
+441
+00:34:55,359 --> 00:34:57,224
+- Sí.
+- Muy bien.
+
+442
+00:34:59,964 --> 00:35:03,127
+¿Me hablas? Me gusta cuando me hablas.
+
+443
+00:35:04,068 --> 00:35:05,626
+¿De qué quieres que te hable?
+
+444
+00:35:05,703 --> 00:35:07,170
+No importa. Sólo habla.
+
+445
+00:35:08,739 --> 00:35:10,639
+Tienes una voz graciosa.
+
+446
+00:35:11,642 --> 00:35:13,940
+A ti es fácil entretenerte, ¿no?
+
+447
+00:35:17,582 --> 00:35:22,076
+Si te doy un serrucho, una pieza
+de madera y un poco de charla...
+
+448
+00:35:31,095 --> 00:35:32,585
+...Walter, ¿le hablaste?
+
+449
+00:35:32,930 --> 00:35:35,899
+Sí, y todo está bien.
+Respetará los horarios.
+
+450
+00:35:36,167 --> 00:35:37,293
+¿Qué sucede?
+
+451
+00:35:37,435 --> 00:35:41,064
+Me he dado cuenta de algo, amor,
+Debo ir a trabajar inmediatamente.
+
+452
+00:35:41,172 --> 00:35:42,239
+¿Ahora?
+
+453
+00:35:42,240 --> 00:35:43,798
+¡Sin un minuto que perder!
+
+454
+00:35:47,111 --> 00:35:48,806
+Eres una diosa.
+
+455
+00:36:01,058 --> 00:36:03,492
+¿Señor? Llega temprano.
+
+456
+00:36:03,561 --> 00:36:05,859
+Justo la mujer a quien quería ver.
+
+457
+00:36:06,931 --> 00:36:08,220
+Mira esto.
+
+458
+00:36:09,033 --> 00:36:11,831
+Debemos comenzar
+con esto inmediatamente.
+
+459
+00:36:12,370 --> 00:36:13,803
+¿Es un castor?
+
+460
+00:36:14,872 --> 00:36:15,896
+Es el futuro.
+
+461
+00:36:16,374 --> 00:36:17,641
+¿Esto?
+
+462
+00:36:17,642 --> 00:36:19,803
+El equipo de carpintero
+del castor parlanchín.
+
+463
+00:36:20,178 --> 00:36:22,976
+Tiene herramientas básicas,
+una pieza de madera...
+
+464
+00:36:23,047 --> 00:36:25,607
+...y un castor parlanchín
+que trabaja contigo.
+
+465
+00:36:26,083 --> 00:36:27,380
+Deberías ver a los niños, cariño.
+
+466
+00:36:27,451 --> 00:36:29,510
+Tienen celulares y computadoras...
+
+467
+00:36:29,587 --> 00:36:32,147
+...y ahora ¿les darás madera,
+un martillo y una sierra?
+
+468
+00:36:32,223 --> 00:36:33,554
+Será un éxito.
+
+469
+00:36:33,624 --> 00:36:36,149
+Sus pobres cerebros mueren por algo así.
+
+470
+00:36:36,227 --> 00:36:39,628
+¿Estás hablando de una nueva línea
+de productos para Navidad?
+
+471
+00:36:39,697 --> 00:36:42,666
+¿Para Navidad?
+Estoy hablando de ahora mismo. Hoy.
+
+472
+00:36:43,401 --> 00:36:44,868
+Esta mañana.
+
+473
+00:36:45,970 --> 00:36:48,530
+Supongo que podríamos acompañarlo
+con más herramientas.
+
+474
+00:36:49,407 --> 00:36:51,307
+¿Con piezas ya cortadas?
+
+475
+00:36:51,375 --> 00:36:53,400
+Como Legos, pero hechos de madera.
+
+476
+00:36:53,477 --> 00:36:56,105
+Y con ellos puedes armar
+tus propias figuras.
+
+477
+00:36:56,380 --> 00:36:58,575
+Eso es usar la cabeza.
+
+478
+00:36:58,916 --> 00:37:00,884
+¿Viste que no es de madera? Vamos.
+
+479
+00:37:01,152 --> 00:37:02,483
+Pero esto significaría...
+
+480
+00:37:02,553 --> 00:37:04,470
+...que aunque lo tuviéramos
+listo a tiempo...
+
+481
+00:37:04,471 --> 00:37:06,387
+...sería lo único que tendríamos
+para la Expo.
+
+482
+00:37:06,691 --> 00:37:08,352
+Es lo único que necesitamos, querida.
+
+483
+00:37:19,036 --> 00:37:22,597
+<i>Y para el que diga
+que hay un roedor a cargo...</i>
+
+484
+00:37:22,673 --> 00:37:28,236
+<i>...recordémosle que la producción
+ya aumentó un 35%.</i>
+
+485
+00:37:28,613 --> 00:37:32,413
+<i>Al final de las dos semanas,
+nadie renuncia.</i>
+
+486
+00:37:32,917 --> 00:37:34,206
+<i>Nadie.</i>
+
+487
+00:37:35,720 --> 00:37:37,585
+Ahora comenzaremos con...
+
+488
+00:37:38,789 --> 00:37:43,021
+El Castor, como producto principal
+junto con otros proyectos...
+
+489
+00:37:43,494 --> 00:37:45,359
+...podría generar
+una ganancia exponencial.
+
+490
+00:37:45,796 --> 00:37:50,165
+<i>La pregunta es si queremos
+seguir luchando por sobrevivir...</i>
+
+491
+00:37:50,234 --> 00:37:55,137
+...o si queremos hacer algo nuevo
+y diferente...
+
+492
+00:37:55,239 --> 00:37:57,298
+<i>...y ver adonde llegamos.</i>
+
+493
+00:38:00,711 --> 00:38:02,702
+<i>Una vez más, nuestro querido Jerry Co.</i>
+
+494
+00:38:02,780 --> 00:38:03,838
+EL JUEGO DE MADERA
+DEL SEÑOR CASTOR.
+
+495
+00:38:03,914 --> 00:38:08,112
+Tiene visión, poder, energía, coraje.
+
+496
+00:38:10,855 --> 00:38:14,382
+El punto número tres esta mañana:
+Tenemos problemas con la fabricación.
+
+497
+00:38:14,592 --> 00:38:15,991
+¿De qué se ríen?
+
+498
+00:38:56,734 --> 00:38:59,168
+¿Hablaste con el doctor Macy hoy?
+
+499
+00:39:00,838 --> 00:39:05,502
+Por supuesto. Dice que estamos muy bien.
+
+500
+00:39:08,846 --> 00:39:12,441
+¿Te dio alguna idea de cuándo podría
+terminar el tratamiento?
+
+501
+00:39:12,683 --> 00:39:15,015
+No, nada específico, cariño.
+
+502
+00:39:15,086 --> 00:39:17,213
+Una semana, un mes o...
+
+503
+00:39:18,255 --> 00:39:19,517
+Es un proceso, cariño.
+
+504
+00:39:20,257 --> 00:39:22,316
+Todos sabremos cuando sea la hora.
+
+505
+00:39:25,096 --> 00:39:28,031
+Ahora, descansa, bomboncito.
+
+506
+00:39:28,099 --> 00:39:30,533
+Tengo más de ésos, si quieres.
+
+507
+00:40:04,635 --> 00:40:08,401
+Héctor, ¿qué es lo que digo siempre?
+Léelo antes de entregarlo.
+
+508
+00:40:08,472 --> 00:40:10,064
+Era acerca de tu familia, por Dios.
+
+509
+00:40:10,141 --> 00:40:13,042
+Supuse que como era personal,
+no me harían preguntas.
+
+510
+00:40:13,110 --> 00:40:16,273
+- Pero tu abuela te delató
+- Sí, estaba muy orgullosa.
+
+511
+00:40:16,347 --> 00:40:20,306
+Hablando de las cosas que escribiste
+sobre ella en República Dominicana.
+
+512
+00:40:20,384 --> 00:40:23,012
+Y luego, de pronto,
+se dio cuenta de que yo no sabía nada.
+
+513
+00:40:23,087 --> 00:40:25,248
+Lloró, llamó al director,
+le dijo que ella no...
+
+514
+00:40:25,322 --> 00:40:27,347
+Está bien. No digas que fui yo, ¿sí?
+
+515
+00:40:27,425 --> 00:40:31,156
+- Me llamó mentiroso y tramposo.
+- Está bien. Mira.
+
+516
+00:40:33,998 --> 00:40:35,659
+Voy a crear un sitio web falso.
+
+517
+00:40:35,733 --> 00:40:37,860
+Dirás que enviaste dinero
+y obtuviste tu trabajo.
+
+518
+00:40:37,935 --> 00:40:39,960
+Es todo lo que sabes, ¿está bien?
+
+519
+00:40:42,039 --> 00:40:43,131
+Héctor, debo irme.
+
+520
+00:40:43,207 --> 00:40:44,674
+Te daré la dirección
+del sitio web mañana.
+
+521
+00:40:45,276 --> 00:40:47,403
+- ¡Héctor!
+- Sí, sí.
+
+522
+00:40:47,478 --> 00:40:48,809
+Bien.
+
+523
+00:40:49,480 --> 00:40:50,538
+¡Norah!
+
+524
+00:40:51,248 --> 00:40:52,306
+- Hola.
+- Hola.
+
+525
+00:40:53,951 --> 00:40:56,681
+- ¿Por qué estás sudado?
+- Estaba haciendo yoga.
+
+526
+00:40:57,421 --> 00:41:00,083
+- Qué varonil.
+- La postura del perro es difícil.
+
+527
+00:41:02,226 --> 00:41:04,990
+- ¿Estás ocupada esta noche?
+- ¿Me estás invitando a salir?
+
+528
+00:41:05,329 --> 00:41:06,396
+No. Para nada.
+
+529
+00:41:06,397 --> 00:41:09,628
+Sólo te preguntaba si estás ocupada...
+
+530
+00:41:09,700 --> 00:41:12,897
+...sin que pareciera que había pasado
+toda la noche planeando algo.
+
+531
+00:41:12,970 --> 00:41:15,734
+¿Estuviste toda la noche planeando algo?
+
+532
+00:41:16,574 --> 00:41:18,166
+Sí, con mapas y cosas así.
+
+533
+00:41:20,444 --> 00:41:23,709
+Puedes pasarme a buscar a las 7:00.
+Debo regresar a las 12:00.
+
+534
+00:41:24,715 --> 00:41:28,515
+Genial, entonces es una cita, ¿no?
+
+535
+00:41:29,453 --> 00:41:30,784
+Veremos.
+
+536
+00:41:33,958 --> 00:41:35,247
+Genial.
+
+537
+00:41:37,394 --> 00:41:39,123
+No arruines esto.
+
+538
+00:42:06,790 --> 00:42:08,849
+Me dejarás a cargo, ¿no?
+
+539
+00:42:09,693 --> 00:42:12,218
+¿Estás listo? La reserva es a las 8:00.
+
+540
+00:42:13,497 --> 00:42:18,332
+- Rayos, mujer, mírate.
+- Tú tampoco te ves mal.
+
+541
+00:42:18,402 --> 00:42:20,632
+- Sí, pero aún no has visto nada.
+- ¿De veras?
+
+542
+00:42:20,704 --> 00:42:23,229
+Las chicas hicieron algo especial
+para mí.
+
+543
+00:42:26,243 --> 00:42:28,541
+Estamos hablando de un esmoquin, amor.
+
+544
+00:42:30,314 --> 00:42:33,215
+Sí. Dame un minuto para que me lo ponga
+y nos vamos.
+
+545
+00:42:33,284 --> 00:42:35,309
+Espera, es nuestro aniversario, cariño.
+
+546
+00:42:35,920 --> 00:42:36,978
+Por eso me vestiré de pingüino.
+
+547
+00:42:37,054 --> 00:42:39,887
+No quiero celebrar veinte años
+de matrimonio con un títere.
+
+548
+00:42:42,059 --> 00:42:46,018
+Lo siento. He sido muy paciente
+y te he apoyado...
+
+549
+00:42:47,164 --> 00:42:49,792
+...pero te quiero a ti y no a él.
+
+550
+00:42:52,102 --> 00:42:54,536
+Esta noche no.
+
+551
+00:43:04,181 --> 00:43:05,205
+Hola.
+
+552
+00:43:06,383 --> 00:43:08,146
+Black, somos dos.
+
+553
+00:43:20,898 --> 00:43:23,799
+¿Cuándo leeré alguna de tus páginas?
+
+554
+00:43:24,835 --> 00:43:26,359
+Nunca. Es un esquema de pirámide.
+
+555
+00:43:27,671 --> 00:43:28,729
+- ¿No te lo dije?
+- No.
+
+556
+00:43:28,806 --> 00:43:31,138
+¿No viste el folleto?
+
+557
+00:43:31,208 --> 00:43:34,006
+- Estoy bromeando. Lo haré.
+- Mejor que así sea.
+
+558
+00:43:34,078 --> 00:43:38,310
+No te daré $500 para que te compres
+una pantalla plana para tu dormitorio.
+
+559
+00:43:38,382 --> 00:43:41,112
+No me compraré una pantalla plana
+para mi dormitorio.
+
+560
+00:43:41,185 --> 00:43:42,209
+Entonces, ¿qué?
+
+561
+00:43:43,253 --> 00:43:44,948
+- Una momia.
+- Nada de momias.
+
+562
+00:43:46,190 --> 00:43:49,091
+- Entonces, ¿qué será?
+- Nada.
+
+563
+00:43:51,261 --> 00:43:54,321
+Un tipo como tú no hace nada sin razón.
+
+564
+00:43:54,398 --> 00:43:56,059
+Tienes un plan.
+
+565
+00:44:03,140 --> 00:44:08,043
+Escuché en la radio que aparentemente
+este fin de semana hará calor.
+
+566
+00:44:09,013 --> 00:44:13,279
+No mucho calor,
+sólo por encima del promedio.
+
+567
+00:44:17,421 --> 00:44:20,652
+- ¿Cómo va el trabajo?
+- Bien, ocupados.
+
+568
+00:44:22,126 --> 00:44:23,150
+¿Ocupados?
+
+569
+00:44:27,364 --> 00:44:29,832
+¿Mapas? ¿Para eso ahorras tu dinero?
+
+570
+00:44:30,367 --> 00:44:31,425
+Sí.
+
+571
+00:44:31,502 --> 00:44:34,665
+Está bien, explícate, porque parece
+que es donde escondes los cuerpos.
+
+572
+00:44:34,738 --> 00:44:38,799
+Así es, cada punto rojo es un cuerpo.
+
+573
+00:44:39,176 --> 00:44:40,200
+Sólo intento ser sincero.
+
+574
+00:44:40,277 --> 00:44:42,438
+Vamos, de veras, ¿para qué es?
+
+575
+00:44:44,982 --> 00:44:49,419
+En todos estos lugares sucedió algo
+que causó un cambio sorpresivo.
+
+576
+00:44:50,220 --> 00:44:52,586
+Como el balcón donde asesinaron
+a Martin Luther King.
+
+577
+00:44:52,656 --> 00:44:55,716
+Las vías del tren
+donde Woody Guthrie tomó su primer tren.
+
+578
+00:44:56,260 --> 00:44:57,549
+¿Y?
+
+579
+00:45:00,664 --> 00:45:04,896
+Los visito y llego a Brown un día antes
+de que comiencen las clases.
+
+580
+00:45:05,769 --> 00:45:08,237
+¿Es como
+un viaje de reencuentro contigo mismo?
+
+581
+00:45:08,739 --> 00:45:13,108
+No. Es como un viaje de pérdida.
+
+582
+00:45:14,712 --> 00:45:17,408
+¿Qué cosas quieres perder?
+
+583
+00:45:18,315 --> 00:45:20,647
+La última vez que conté eran 49 cosas.
+
+584
+00:45:24,655 --> 00:45:28,887
+Un plan elaborado, misterioso
+y un poco raro.
+
+585
+00:45:31,361 --> 00:45:32,650
+Pero me gusta.
+
+586
+00:45:33,130 --> 00:45:35,860
+Es el trabajo del dinero
+de tus escritos.
+
+587
+00:45:44,541 --> 00:45:45,565
+¿Para qué era eso?
+
+588
+00:45:46,009 --> 00:45:47,943
+Dijiste que te gustaba
+que te sorprendieran.
+
+589
+00:45:50,547 --> 00:45:52,640
+- ¿Lista?
+- ¿Para qué?
+
+590
+00:46:06,663 --> 00:46:08,358
+Es un gran lugar.
+
+591
+00:46:09,399 --> 00:46:11,959
+Da un poco de miedo, pero es hermoso.
+
+592
+00:46:14,438 --> 00:46:18,340
+No estaba seguro de qué color
+te gustaría así que pedí todos.
+
+593
+00:46:18,408 --> 00:46:20,501
+Espero que te guste
+el amarillo explosivo.
+
+594
+00:46:21,378 --> 00:46:23,938
+Porter, vamos. ¿Qué haces?
+
+595
+00:46:24,281 --> 00:46:25,942
+Es fantástico, ¿no?
+
+596
+00:46:26,016 --> 00:46:28,746
+¿Bromeas? Es genial, pero no lo tocaré.
+
+597
+00:46:29,253 --> 00:46:31,221
+- ¿Por qué no?
+- Porque no.
+
+598
+00:46:33,023 --> 00:46:36,481
+- Pero, ¿por qué?
+- Porque no quiero.
+
+599
+00:46:38,162 --> 00:46:40,653
+Vamos, Norah.
+Haces esas cosas maravillosas.
+
+600
+00:46:41,565 --> 00:46:45,661
+Dejas todo de ti allí. Lo único
+que yo puedo hacer es sonar como otros.
+
+601
+00:46:46,570 --> 00:46:48,401
+- Sé que tienes algo que decir.
+- Está bien.
+
+602
+00:46:48,739 --> 00:46:52,140
+- Vamos, hazlo.
+- Vamos.
+
+603
+00:46:53,343 --> 00:46:55,038
+No, yo no pinto.
+
+604
+00:46:55,746 --> 00:46:58,681
+¿Por qué no? Eres tan bueno
+haciendo de otro.
+
+605
+00:46:58,749 --> 00:47:01,062
+Quizá, si pudiera pintar, lo haría,
+pero...
+
+606
+00:47:01,063 --> 00:47:02,776
+Porter, comienza.
+
+607
+00:47:04,254 --> 00:47:05,346
+Está bien.
+
+608
+00:47:09,293 --> 00:47:11,761
+¿Qué harás?
+¿Escribir "Norah y Porter para siempre"?
+
+609
+00:47:13,664 --> 00:47:15,689
+Porque eso estaría bien.
+
+610
+00:47:37,020 --> 00:47:42,926
+DESCANSA EN PAZ BRIAN
+
+611
+00:47:46,063 --> 00:47:47,257
+¿Está bien?
+
+612
+00:47:51,668 --> 00:47:54,603
+- Eso era lo que querías decir.
+- No.
+
+613
+00:47:54,671 --> 00:47:57,799
+Escribiste 400 páginas,
+¿y ni lo nombraste?
+
+614
+00:47:57,875 --> 00:48:00,275
+Lo que le sucedió a mi hermano
+no es asunto tuyo.
+
+615
+00:48:00,377 --> 00:48:01,401
+¿Comprendes?
+
+616
+00:48:01,478 --> 00:48:03,309
+Pensé que querías decir algo...
+
+617
+00:48:03,380 --> 00:48:05,348
+...y no sabías cómo hacerlo.
+
+618
+00:48:06,316 --> 00:48:07,613
+No es asunto tuyo.
+
+619
+00:48:08,585 --> 00:48:10,678
+¿Qué clase de persona hace algo así?
+
+620
+00:48:11,288 --> 00:48:12,983
+¿Qué te sucede?
+
+621
+00:48:28,772 --> 00:48:30,171
+Vamos. Ábrelo.
+
+622
+00:48:31,608 --> 00:48:34,543
+Henry me ayudó, lo que significa...
+
+623
+00:48:34,645 --> 00:48:37,842
+...que yo compré la madera
+y él hizo el trabajo.
+
+624
+00:48:43,754 --> 00:48:45,449
+Es una caja de memoria.
+
+625
+00:48:46,657 --> 00:48:48,352
+Es muy linda. Gracias.
+
+626
+00:48:48,992 --> 00:48:50,391
+Ábrela.
+
+627
+00:48:55,899 --> 00:48:59,426
+Pensé que era importante recordarnos
+cómo eran las cosas.
+
+628
+00:48:59,569 --> 00:49:02,231
+Cómo deberían ser.
+
+629
+00:49:13,817 --> 00:49:17,082
+Walter. No. Está bien.
+
+630
+00:49:20,958 --> 00:49:22,516
+¿Esto es lo que quieres?
+
+631
+00:49:23,360 --> 00:49:25,692
+¿Esto es progreso? ¡Dios, mujer!
+
+632
+00:49:26,863 --> 00:49:29,593
+¡Sufre de depresión, no de amnesia!
+
+633
+00:49:29,666 --> 00:49:31,725
+¿Crees que no puede recordar
+estas cosas?
+
+634
+00:49:32,235 --> 00:49:35,033
+- No.
+- No puede regresar. ¿No lo ves?
+
+635
+00:49:35,973 --> 00:49:40,239
+Eso está en el pasado y sacarlo...
+¿Sabes adónde nos lleva?
+
+636
+00:49:40,911 --> 00:49:43,243
+¿Sabes adónde va este Walter?
+
+637
+00:49:43,313 --> 00:49:47,875
+Al balcón de un décimo piso,
+a atarse del cortinero de una ducha.
+
+638
+00:49:47,951 --> 00:49:49,851
+¿Eso es lo que quieres?
+
+639
+00:49:50,787 --> 00:49:53,915
+¿Quieres que el resto de tu vida
+sea como esta noche?
+
+640
+00:49:53,991 --> 00:49:57,586
+- Bueno. Ése era Walter.
+- No, Walter, vamos.
+
+641
+00:49:59,296 --> 00:50:01,924
+Mira esto. Míralo de veras.
+
+642
+00:50:03,834 --> 00:50:05,392
+Ése eres tú, Walter.
+
+643
+00:50:06,603 --> 00:50:08,093
+¿Lo recuerdas?
+
+644
+00:50:09,072 --> 00:50:14,032
+Cuando nació Porter, y era tan pequeño.
+
+645
+00:50:14,644 --> 00:50:18,273
+Y me lo sacaron, y tú estabas con él.
+
+646
+00:50:18,348 --> 00:50:19,406
+Lo miraste a los ojos...
+
+647
+00:50:19,483 --> 00:50:21,178
+...y le hiciste saber
+que no te irías de allí...
+
+648
+00:50:21,251 --> 00:50:24,118
+...que te quedarías con él
+y que no debía temer.
+
+649
+00:50:25,689 --> 00:50:28,658
+Walter, ése eres tú. El hombre que amo.
+El hombre que necesito.
+
+650
+00:50:30,861 --> 00:50:32,294
+Aún estás allí, cariño.
+
+651
+00:50:33,997 --> 00:50:38,229
+Sé que estás allí. Podemos regresar.
+
+652
+00:50:38,301 --> 00:50:40,098
+Podemos volver a ser los que éramos.
+
+653
+00:50:40,170 --> 00:50:42,900
+No volveremos allí, Meredith.
+
+654
+00:50:44,007 --> 00:50:48,273
+Ese hombre no es viable.
+Se fue. Así tiene que ser.
+
+655
+00:50:49,146 --> 00:50:50,170
+¿Lo comprendes?
+
+656
+00:50:51,314 --> 00:50:52,603
+Yo luché por ti.
+
+657
+00:50:53,083 --> 00:50:56,109
+Respiré por ti durante dos años
+cuando no podías salir de la cama...
+
+658
+00:50:56,186 --> 00:50:59,280
+...y seguiré luchando por ti
+porque te amo.
+
+659
+00:51:00,223 --> 00:51:03,317
+Necesito saber que regresarás.
+Regresa, por favor.
+
+660
+00:51:04,127 --> 00:51:05,321
+¿Walter?
+
+661
+00:51:07,030 --> 00:51:08,292
+¿Walter?
+
+662
+00:51:21,812 --> 00:51:24,610
+Norah, ya no puedo soportar esto.
+
+663
+00:51:28,251 --> 00:51:29,479
+Vamos.
+
+664
+00:51:37,627 --> 00:51:40,118
+Hola. Vinimos apenas lo oímos.
+
+665
+00:51:41,398 --> 00:51:44,799
+Soy el Castor
+y éste es el padre de Porter, Walter.
+
+666
+00:51:46,870 --> 00:51:49,634
+Escuche, nos encargaremos de esto.
+
+667
+00:51:50,040 --> 00:51:52,235
+Que regresen bien a casa.
+
+668
+00:52:08,725 --> 00:52:10,014
+Espere.
+
+669
+00:52:12,829 --> 00:52:16,128
+Porter, amigo, resiste.
+Podemos discutirlo. Vamos.
+
+670
+00:52:16,199 --> 00:52:17,666
+- ¡Dame esa cosa!
+- ¡Cálmate!
+
+671
+00:52:17,734 --> 00:52:20,032
+- ¡Dame eso! ¡Maldición!
+- ¡Basta!
+
+672
+00:52:20,103 --> 00:52:21,661
+- ¡Dame esa cosa!
+- ¡Detente!
+
+673
+00:52:21,738 --> 00:52:23,330
+¡Déjalo solo!
+
+674
+00:52:24,975 --> 00:52:29,776
+¡Porter! ¡Dios mío!
+Porter, ¿estás bien?
+
+675
+00:52:30,280 --> 00:52:31,770
+Porter, las manos.
+¿Están sangrando?
+
+676
+00:52:31,848 --> 00:52:34,442
+Lo siento, hijo. No quise hacer eso.
+
+677
+00:52:34,518 --> 00:52:36,611
+¡Sácale las manos de encima!
+
+678
+00:52:37,287 --> 00:52:38,584
+Porter, vamos. Déjame ver.
+
+679
+00:52:52,769 --> 00:52:54,066
+¿Estás feliz ahora?
+
+680
+00:52:54,471 --> 00:52:55,904
+¿Porter?
+
+681
+00:53:35,011 --> 00:53:37,206
+<i>Es Navidad en mayo.</i>
+
+682
+00:53:37,280 --> 00:53:39,214
+<i>Eso es lo que dicen los comerciantes...</i>
+
+683
+00:53:39,282 --> 00:53:42,149
+<i>...de los Juegos de madera del Castor
+que se venden de a montones.</i>
+
+684
+00:53:42,219 --> 00:53:43,277
+MARKET WATCH
+La locura del juego de carpintero
+
+685
+00:53:43,353 --> 00:53:46,447
+<i>Hasta hace poco, Jerry Co. Estaba
+en franca decadencia...</i>
+
+686
+00:53:46,523 --> 00:53:49,856
+<i>...casi al borde de la bancarrota
+a principios de año.</i>
+
+687
+00:53:49,960 --> 00:53:53,987
+<i>Pero gracias al Castor,
+ahora eso no sucederá.</i>
+
+688
+00:53:55,265 --> 00:53:59,099
+¡Es como una campaña
+de $100 millones, gratis!
+
+689
+00:54:02,339 --> 00:54:06,742
+Jerry Co. Está de regreso.
+El viejo estaría orgulloso.
+
+690
+00:54:09,012 --> 00:54:10,274
+Te lo debo a ti.
+
+691
+00:54:10,347 --> 00:54:13,544
+Te encargaste de todo
+y mira dónde estamos.
+
+692
+00:54:13,617 --> 00:54:15,482
+En la cima, por una vez.
+
+693
+00:54:19,956 --> 00:54:22,220
+- Se siente bien, ¿no?
+- Ellos.
+
+694
+00:54:26,329 --> 00:54:27,618
+¿Señor?
+
+695
+00:54:28,898 --> 00:54:30,229
+Mi familia.
+
+696
+00:54:31,167 --> 00:54:33,727
+¿Quiénes son los periodistas
+más importantes que nos quieren?
+
+697
+00:54:36,640 --> 00:54:40,906
+- Todos los programas matutinos.
+- Vayamos a <i>Today Show.</i>
+
+698
+00:54:40,977 --> 00:54:44,743
+Pero <i>Today Show</i> está en televisión.
+
+699
+00:54:44,814 --> 00:54:48,099
+¿Qué ocultamos? Somos ganadores.
+
+700
+00:54:48,100 --> 00:54:50,785
+Deberíamos gritarlo
+a los cuatro vientos.
+
+701
+00:54:52,155 --> 00:54:53,782
+Sería una buena historia.
+
+702
+00:55:02,832 --> 00:55:07,735
+Te diré algo
+que nunca le dije a nadie...
+
+703
+00:55:09,939 --> 00:55:11,566
+...pero creo que estás lista para oírlo.
+
+704
+00:55:13,610 --> 00:55:14,702
+Está bien.
+
+705
+00:55:17,814 --> 00:55:19,008
+No soy un títere.
+
+706
+00:55:22,452 --> 00:55:23,714
+Soy real.
+
+707
+00:55:25,922 --> 00:55:27,253
+Estoy vivo.
+
+708
+00:55:28,291 --> 00:55:30,486
+Y el mundo debe saberlo.
+
+709
+00:55:52,315 --> 00:55:54,078
+¿Estás bien, cariño?
+
+710
+00:55:57,420 --> 00:55:58,887
+¿Algún problema?
+
+711
+00:55:59,656 --> 00:56:01,783
+Hoy hablé con el Dr. Macy.
+
+712
+00:56:03,927 --> 00:56:06,452
+¿Qué dijo?
+
+713
+00:56:12,235 --> 00:56:14,965
+Dijo que no has ido a verlo
+en más de un año.
+
+714
+00:56:16,639 --> 00:56:17,888
+El Dr. Macy dice
+que estás enfermo, Walter.
+
+715
+00:56:17,889 --> 00:56:18,937
+Muy enfermo.
+
+716
+00:56:19,008 --> 00:56:20,066
+Sí, está bien.
+
+717
+00:56:20,143 --> 00:56:22,043
+Dice que esto parece ser una manía.
+
+718
+00:56:22,112 --> 00:56:25,206
+¿A quién le importa
+lo que él tenga que decir?
+
+719
+00:56:25,281 --> 00:56:26,570
+Yo lo curé.
+
+720
+00:56:27,283 --> 00:56:32,050
+Todos los demás parecen entenderlo.
+Henry, los del trabajo. Todos menos tú.
+
+721
+00:56:33,289 --> 00:56:34,347
+¿Eso te dice algo?
+
+722
+00:56:34,424 --> 00:56:36,619
+¿Quieres vivir así siempre?
+¿Hablando por la mano?
+
+723
+00:56:36,693 --> 00:56:39,594
+Diría que ha sido un éxito, ¿no?
+
+724
+00:56:39,662 --> 00:56:43,063
+¡Necesitas ayuda, Walter! Estás enfermo.
+
+725
+00:56:43,133 --> 00:56:47,399
+"Ayuda". Toma la pastilla, lee el libro,
+ve a ver al profesional.
+
+726
+00:56:48,405 --> 00:56:50,600
+- Walter se ayudó solo.
+- Escúchate. Es una locura.
+
+727
+00:56:50,673 --> 00:56:51,697
+Estás hablando de un títere.
+
+728
+00:56:51,775 --> 00:56:55,541
+No, Meredith.
+Tú estás hablando de un títere.
+
+729
+00:56:56,346 --> 00:56:58,576
+Nosotros hablamos de un milagro.
+
+730
+00:57:01,518 --> 00:57:03,213
+¿A qué te refieres con "nosotros",
+Walter?
+
+731
+00:57:11,995 --> 00:57:14,395
+Sé que es difícil, amigo.
+
+732
+00:57:16,266 --> 00:57:18,461
+Ya no puedes verte envuelto
+en todo esto.
+
+733
+00:57:19,969 --> 00:57:23,564
+Sigue adelante y no mires atrás.
+
+734
+00:57:40,023 --> 00:57:41,991
+Tienes razón, por supuesto.
+
+735
+00:57:43,960 --> 00:57:45,757
+Walter está enfermo.
+
+736
+00:57:48,965 --> 00:57:54,062
+Pero no te equivoques, cariño.
+No me voy a ningún lado.
+
+737
+00:58:02,946 --> 00:58:04,709
+Alquilé una casa.
+
+738
+00:58:05,915 --> 00:58:08,315
+Me llevo a los niños
+y todo lo que podamos llevarnos.
+
+739
+00:58:08,384 --> 00:58:11,683
+No quiero que nos llames
+ni que nos visites.
+
+740
+00:58:13,923 --> 00:58:17,791
+Si decidiste perder la cabeza,
+yo no puedo impedirlo.
+
+741
+00:58:18,628 --> 00:58:22,928
+Pero no permitiré que ellos se queden
+aquí para verlo. Mis hijos, no.
+
+742
+00:58:29,138 --> 00:58:33,802
+Quizá la insanía sirva en el trabajo,
+pero no funcionará frente a un juez.
+
+743
+00:59:32,135 --> 00:59:34,160
+¿Por qué no vienes con nosotros?
+
+744
+00:59:35,572 --> 00:59:37,972
+En otro momento, amigo.
+
+745
+00:59:41,611 --> 00:59:43,408
+Pero quiero estar contigo.
+
+746
+00:59:44,781 --> 00:59:48,512
+Ve con tu madre. Resolveremos todo.
+Ya verás.
+
+747
+00:59:48,585 --> 00:59:51,315
+Todo estará bien otra vez muy pronto.
+
+748
+00:59:52,088 --> 00:59:53,188
+- Adiós.
+- Vamos.
+
+749
+00:59:53,189 --> 00:59:54,478
+Adiós.
+
+750
+01:00:05,635 --> 01:00:07,296
+Te amo, papá.
+
+751
+01:00:09,973 --> 01:00:12,601
+Yo también te amo, hijo.
+
+752
+01:00:13,843 --> 01:00:17,609
+Vamos, vete.
+
+753
+01:00:52,782 --> 01:00:55,342
+A veces, Matt... ¿Puedo llamarte Matt?
+
+754
+01:00:55,418 --> 01:00:56,442
+Sí, claro.
+
+755
+01:00:56,519 --> 01:01:01,684
+A veces la inspiración te llega...
+
+756
+01:01:01,758 --> 01:01:03,885
+...en medio de la noche.
+
+757
+01:01:03,960 --> 01:01:09,296
+Pero tu genio parece esconderse
+en un muñeco de peluche.
+
+758
+01:01:09,365 --> 01:01:13,131
+Entonces la gente duda de tu cordura.
+
+759
+01:01:13,202 --> 01:01:18,333
+Dicen que, a veces,
+Mozart maullaba como un gato...
+
+760
+01:01:18,474 --> 01:01:20,465
+...pero estaba bien.
+
+761
+01:01:20,610 --> 01:01:22,077
+Hizo una música genial. ¿No crees?
+
+762
+01:01:23,346 --> 01:01:25,678
+Walter, quiero que hables de depresión.
+
+763
+01:01:25,748 --> 01:01:28,080
+Porque por lo que me contaron...
+
+764
+01:01:28,184 --> 01:01:31,244
+...todo esto comenzó como una forma
+de lidiar con tu enfermedad mental.
+
+765
+01:01:31,554 --> 01:01:33,920
+Está bien.
+
+766
+01:01:34,023 --> 01:01:35,217
+A veces, Matt...
+
+767
+01:01:37,026 --> 01:01:41,156
+...llegamos a un punto en el cual,
+para continuar...
+
+768
+01:01:41,264 --> 01:01:43,824
+...debes hacer borrón y cuenta nueva.
+
+769
+01:01:44,734 --> 01:01:47,862
+<i>Comenzamos a vernos
+como atrapados en una caja.</i>
+
+770
+01:01:48,304 --> 01:01:50,568
+<i>Y no importa
+cuánto intentemos escapar...</i>
+
+771
+01:01:50,640 --> 01:01:53,131
+<i>...con autoayuda, terapia,
+medicamentos...</i>
+
+772
+01:01:53,209 --> 01:01:55,871
+<i>...sólo nos hundimos más y más.</i>
+
+773
+01:01:56,446 --> 01:01:59,006
+<i>La única manera de salir de la caja...</i>
+
+774
+01:01:59,082 --> 01:02:01,141
+<i>...es deshaciéndonos de ella.</i>
+
+775
+01:02:01,517 --> 01:02:04,486
+<i>Para empezar, tú la construiste.</i>
+
+776
+01:02:04,554 --> 01:02:08,217
+<i>Si la gente que te rodea te deprime,
+¿quién los necesita?</i>
+
+777
+01:02:08,291 --> 01:02:10,759
+<i>Tu esposa simula que te ama...</i>
+
+778
+01:02:10,860 --> 01:02:12,657
+<i>...tu hijo no soporta tenerte cerca.</i>
+
+779
+01:02:12,729 --> 01:02:15,220
+<i>Ahórrales el sufrimiento.</i>
+
+780
+01:02:15,298 --> 01:02:17,095
+<i>Comenzar otra vez no es una locura.</i>
+
+781
+01:02:19,202 --> 01:02:22,069
+La locura sería continuar con esto...
+
+782
+01:02:22,138 --> 01:02:24,868
+...y caminar medio dormido, dopado...
+
+783
+01:02:25,108 --> 01:02:27,702
+<i>...día tras día.</i>
+
+784
+01:02:27,777 --> 01:02:29,836
+<i>La locura es simular ser feliz.</i>
+
+785
+01:02:31,214 --> 01:02:34,547
+Simular que la manera
+en que son las cosas...
+
+786
+01:02:34,617 --> 01:02:38,018
+...es la manera en que deben ser
+por el resto del tiempo.
+
+787
+01:02:38,821 --> 01:02:41,449
+<i>Y toda la posible esperanza...</i>
+
+788
+01:02:41,557 --> 01:02:43,582
+<i>...la felicidad, los sentimientos...</i>
+
+789
+01:02:43,659 --> 01:02:47,026
+<i>...toda la pasión
+que la vida te ha quitado.</i>
+
+790
+01:02:47,430 --> 01:02:49,591
+Estírate, tómala...
+
+791
+01:02:49,665 --> 01:02:53,601
+...y quítasela a todos los chupasangres.
+
+792
+01:02:56,405 --> 01:02:58,373
+<i>Walter, es bueno tenerte aquí.</i>
+
+793
+01:02:59,408 --> 01:03:00,739
+<i>Gracias.</i>
+
+794
+01:03:11,154 --> 01:03:14,351
+<i>Ésta es una foto de Walter Black...</i>
+
+795
+01:03:15,958 --> 01:03:18,256
+<i>...un depresivo sin remedio...</i>
+
+796
+01:03:20,229 --> 01:03:23,357
+<i>...que se transforma en el Castor...</i>
+
+797
+01:03:23,432 --> 01:03:26,265
+<i>...se convierte en un fenómeno.</i>
+
+798
+01:03:26,369 --> 01:03:30,032
+<i>Hay mucha gente allí afuera
+que está tan desesperada que escucharía.</i>
+
+799
+01:03:30,940 --> 01:03:32,931
+<i>Gente a quien le gusta la miseria...</i>
+
+800
+01:03:33,442 --> 01:03:34,966
+<i>...siempre y cuando no les afecte.</i>
+
+801
+01:03:35,044 --> 01:03:36,204
+AGOTADO
+Para adquirir el suyo visítenos en línea
+
+802
+01:03:40,416 --> 01:03:42,907
+Norah, debemos hablar.
+
+803
+01:03:42,985 --> 01:03:44,043
+No es un buen momento.
+
+804
+01:03:44,120 --> 01:03:46,645
+Sí, te llamé, te envié mensajes...
+
+805
+01:03:46,722 --> 01:03:48,553
+...y nunca parece ser un buen momento.
+
+806
+01:03:48,624 --> 01:03:50,319
+Quizá deberías considerarlo un indicio.
+
+807
+01:03:50,426 --> 01:03:54,021
+Soy un imbécil. ¿Está bien?
+No quería que las cosas fueran así.
+
+808
+01:03:54,130 --> 01:03:56,621
+Me gustas, ¿sí? Me importas.
+
+809
+01:03:56,699 --> 01:03:59,896
+No te importo.
+Ni siquiera me conoces.
+
+810
+01:04:00,002 --> 01:04:01,902
+Tu hermano murió de una sobredosis, ¿sí?
+
+811
+01:04:01,971 --> 01:04:04,166
+Pero descartar tu talento,
+lo que te hace ser tú...
+
+812
+01:04:04,273 --> 01:04:07,106
+...no lo traerá de regreso.
+Sólo te convertirá a ti en nada.
+
+813
+01:04:07,610 --> 01:04:11,046
+Mantente alejado de mí.
+
+814
+01:04:11,147 --> 01:04:12,671
+Tú y tu loca familia.
+
+815
+01:04:27,396 --> 01:04:32,095
+<i>¿Eres feliz? ¿Eres verdaderamente feliz?</i>
+
+816
+01:04:32,268 --> 01:04:34,668
+<i>Porque, Jon,
+hay algo que nos falta a todos.</i>
+
+817
+01:04:34,804 --> 01:04:35,998
+<i>Nos falta una pieza.</i>
+
+818
+01:04:36,072 --> 01:04:39,633
+<i>Hay un punto negro u oscuro.</i>
+
+819
+01:04:39,809 --> 01:04:41,470
+<i>¿Eso es obvio?</i>
+
+820
+01:04:42,812 --> 01:04:45,440
+<i>Lo siento, Jon,
+pero Walter necesita ayuda.</i>
+
+821
+01:04:45,615 --> 01:04:48,243
+<i>Porque en este momento no es él mismo.</i>
+
+822
+01:04:48,317 --> 01:04:50,751
+<i>En realidad, no está bien.</i>
+
+823
+01:05:01,230 --> 01:05:03,425
+Levántate.
+
+824
+01:05:07,236 --> 01:05:09,670
+Levántate, desgraciado.
+
+825
+01:05:09,739 --> 01:05:13,072
+No conseguirás mucho de Walter.
+
+826
+01:05:13,142 --> 01:05:15,804
+No se siente muy bien, ¿no lo ves?
+
+827
+01:05:15,912 --> 01:05:18,005
+Vamos. Es un programa de radio.
+
+828
+01:05:18,147 --> 01:05:20,547
+La gente no puede ver al títere.
+
+829
+01:05:20,616 --> 01:05:23,483
+¿Por qué hablar a través de él?
+
+830
+01:06:39,628 --> 01:06:41,528
+SE MUERDE EL LABIO
+
+831
+01:06:41,597 --> 01:06:43,997
+SE MASAJEA LAS CEJAS
+
+832
+01:06:44,100 --> 01:06:46,227
+ODIA A SU PADRE
+QUE ODIA A SU PADRE
+
+833
+01:06:46,302 --> 01:06:47,599
+QUE ODIA A SU PADRE
+
+834
+01:07:36,685 --> 01:07:37,982
+<i>¿Hola?</i>
+
+835
+01:07:38,054 --> 01:07:39,343
+Mere, soy yo.
+
+836
+01:07:39,355 --> 01:07:41,152
+Walter, ¿estás bien?
+
+837
+01:07:41,223 --> 01:07:42,622
+<i>Sí, mira...</i>
+
+838
+01:07:43,325 --> 01:07:46,817
+No puedo...
+
+839
+01:07:46,896 --> 01:07:48,022
+¿Qué estás haciendo?
+
+840
+01:07:50,066 --> 01:07:51,624
+<i>¿Qué sucede?</i>
+
+841
+01:07:51,967 --> 01:07:53,832
+<i>¡Walter, háblame!</i>
+
+842
+01:07:54,737 --> 01:07:57,900
+<i>¿A quién le hablas?</i>
+
+843
+01:07:58,240 --> 01:08:01,607
+- Cuelga. Cuelga ahora mismo.
+<i>- ¿Walter?</i>
+
+844
+01:08:07,983 --> 01:08:11,885
+¿Tu madre sabe suturar?
+
+845
+01:08:26,502 --> 01:08:29,403
+Nunca ganarás.
+
+846
+01:08:40,783 --> 01:08:43,650
+- Quiero a papá. ¿Dónde está?
+- Lo sé.
+
+847
+01:08:43,719 --> 01:08:46,187
+Quiero al Castor.
+
+848
+01:08:47,656 --> 01:08:50,625
+¿Estás despierto?
+Cariño, debes ir a buscar a papá.
+
+849
+01:08:50,793 --> 01:08:52,090
+¿Por qué?
+
+850
+01:08:52,161 --> 01:08:55,221
+No contesta el teléfono,
+y Henry no deja de llorar.
+
+851
+01:08:55,297 --> 01:08:58,528
+No sé qué hacer. Por favor.
+
+852
+01:08:58,601 --> 01:08:59,918
+Vamos, cariño.
+
+853
+01:08:59,919 --> 01:09:02,435
+Pronto encontraremos a tu papá.
+Está bien.
+
+854
+01:09:50,486 --> 01:09:55,583
+¿Acaso no te di lo que querías?
+
+855
+01:10:02,565 --> 01:10:04,726
+No los necesitas, Walter.
+
+856
+01:10:11,707 --> 01:10:13,072
+Yo te amo.
+
+857
+01:10:16,812 --> 01:10:20,304
+Soy el único que te ama de verdad.
+
+858
+01:10:21,951 --> 01:10:27,685
+Y por eso nunca te dejaré regresar.
+
+859
+01:10:31,961 --> 01:10:33,758
+Nunca.
+
+860
+01:10:46,742 --> 01:10:49,074
+Ya no quiero dormir.
+
+861
+01:10:51,380 --> 01:10:52,669
+Quizá...
+
+862
+01:10:54,183 --> 01:10:56,481
+Quizá deberíamos trabajar en algo.
+
+863
+01:10:59,855 --> 01:11:03,882
+Sí, claro, amigo. Vamos.
+
+864
+01:11:17,306 --> 01:11:19,297
+Walter, no me gusta esto.
+
+865
+01:11:19,375 --> 01:11:20,774
+No lo hagas.
+
+866
+01:11:20,876 --> 01:11:22,537
+Será peor que antes. Mucho peor.
+
+867
+01:11:22,911 --> 01:11:26,574
+¿Quieres terminar
+como un trozo de basura sin valor?
+
+868
+01:11:28,517 --> 01:11:30,576
+Sin mí, no eres nada, Walter.
+
+869
+01:11:31,487 --> 01:11:32,776
+¡Nada!
+
+870
+01:11:33,322 --> 01:11:34,949
+Soy la única parte de ti que funciona.
+
+871
+01:11:43,332 --> 01:11:44,993
+Lo siento.
+
+872
+01:12:00,516 --> 01:12:03,542
+¡Walter! ¿Qué hay de Henry, tu hijo?
+¿Lo recuerdas?
+
+873
+01:12:04,386 --> 01:12:05,785
+¡Walter!
+
+874
+01:12:08,891 --> 01:12:10,017
+¿Papá?
+
+875
+01:12:12,328 --> 01:12:14,694
+La presión cae. Dejen el torniquete
+hasta que esté en el quirófano.
+
+876
+01:12:15,531 --> 01:12:17,556
+Es la única razón
+por la que aún tiene pulso.
+
+877
+01:12:25,240 --> 01:12:31,170
+LIQUIDACIÓN AL 50%
+
+878
+01:12:45,627 --> 01:12:47,788
+<i>Como nuevo CEO de Jerry Co...</i>
+
+879
+01:12:48,897 --> 01:12:52,765
+<i>...quiero asegurarle a la gente
+que la empresa está en buenas manos.</i>
+
+880
+01:13:47,523 --> 01:13:49,650
+Le pagué $200 a Porter...
+
+881
+01:13:51,827 --> 01:13:53,988
+...e investigó un poco.
+
+882
+01:13:54,096 --> 01:13:56,360
+Desilusioné a mi familia.
+
+883
+01:13:57,633 --> 01:13:58,964
+Estoy muy avergonzado por esto...
+
+884
+01:13:59,034 --> 01:14:02,265
+...y quiero olvidar todo el asunto
+cuanto antes.
+
+885
+01:14:02,938 --> 01:14:04,235
+Querido Porter,
+La junta de admisiones de Brown...
+
+886
+01:14:04,306 --> 01:14:05,773
+...lamenta informarle que, a la luz
+de los eventos recientes...
+
+887
+01:14:05,841 --> 01:14:07,365
+...revocamos su aceptación
+en la universidad.
+
+888
+01:14:07,443 --> 01:14:08,509
+Podrá volver a presentarse
+el año próximo.
+
+889
+01:14:08,510 --> 01:14:09,799
+Sinceramente... Gordon Krouse
+Decano de admisiones
+
+890
+01:14:10,179 --> 01:14:13,910
+<i>Saltamontes, ¿estás pescando
+en nuestra laguna de lirios?</i>
+
+891
+01:14:14,049 --> 01:14:16,074
+Vamos. Vayamos a ver a tu padre.
+
+892
+01:14:18,787 --> 01:14:20,652
+- No iré.
+- Está bien.
+
+893
+01:14:20,956 --> 01:14:24,050
+Si no quieres ir, no vayas.
+Pero no dormirás todo el día.
+
+894
+01:14:26,028 --> 01:14:27,317
+Vamos.
+
+895
+01:14:27,963 --> 01:14:29,828
+Vamos, Porter. ¡Levántate!
+
+896
+01:14:29,898 --> 01:14:30,965
+- Por Dios.
+- ¡Basta!
+
+897
+01:14:30,966 --> 01:14:32,934
+- ¿Vamos?
+- ¡Basta!
+
+898
+01:14:33,535 --> 01:14:34,824
+Sí.
+
+899
+01:14:35,671 --> 01:14:36,763
+Bien.
+
+900
+01:14:39,475 --> 01:14:42,103
+Sólo haz algo, ¿sí?
+
+901
+01:14:42,177 --> 01:14:45,374
+Sal a la calle, camina, roba un auto.
+No me importa.
+
+902
+01:14:45,447 --> 01:14:48,473
+No quiero encontrarte en la cama
+cuando regrese a casa.
+
+903
+01:15:00,095 --> 01:15:01,858
+Su familia está aquí.
+
+904
+01:15:15,410 --> 01:15:17,401
+Está bien. Continúa.
+
+905
+01:15:23,085 --> 01:15:25,212
+Hola, amiguito. ¿Cómo estás?
+
+906
+01:15:25,988 --> 01:15:27,080
+Bien.
+
+907
+01:15:27,723 --> 01:15:28,849
+¿Qué es eso?
+
+908
+01:15:29,691 --> 01:15:32,182
+- Es un cerebro.
+- Vaya. ¡Un cerebro!
+
+909
+01:15:32,928 --> 01:15:34,953
+Mamá dice que el tuyo está roto.
+
+910
+01:15:35,364 --> 01:15:37,389
+Esto resultará útil.
+
+911
+01:15:37,499 --> 01:15:41,401
+¿Estás loco?
+
+912
+01:15:42,871 --> 01:15:44,862
+Quizá.
+
+913
+01:15:44,973 --> 01:15:46,201
+Estamos trabajando en eso.
+
+914
+01:15:47,175 --> 01:15:50,042
+¿Eso significa que regresarás a casa?
+
+915
+01:15:50,112 --> 01:15:51,306
+Estamos trabajando en eso también.
+
+916
+01:15:52,214 --> 01:15:53,476
+¿Dónde está tu hermano?
+
+917
+01:15:54,550 --> 01:15:58,077
+Seguramente durmiendo.
+Es lo único que hace.
+
+918
+01:16:00,923 --> 01:16:02,288
+Ven aquí.
+
+919
+01:16:03,225 --> 01:16:05,955
+¡Ven aquí! ¡Te morderé la oreja!
+
+920
+01:16:10,999 --> 01:16:16,902
+SIESTAS
+
+921
+01:16:25,814 --> 01:16:30,808
+DESCANSA EN PAZ BRIAN
+
+922
+01:16:43,131 --> 01:16:46,066
+Veámonos aquí. ¡Por favor!
+
+923
+01:17:00,349 --> 01:17:02,579
+Debo haberte enviado unos 15 mensajes.
+
+924
+01:17:03,385 --> 01:17:05,216
+Había dejado de confiar en ti.
+
+925
+01:17:06,722 --> 01:17:10,783
+Somos dos.
+
+926
+01:17:12,194 --> 01:17:15,994
+Tenías razón.
+Supongo que tenía algo que decir.
+
+927
+01:17:18,433 --> 01:17:20,924
+Parece que era mucho.
+
+928
+01:17:23,038 --> 01:17:26,496
+Ahora que sabes qué hay en mi cabeza,
+podrás escribir mi discurso.
+
+929
+01:17:26,642 --> 01:17:28,473
+No.
+
+930
+01:17:28,577 --> 01:17:31,205
+Ya no me dedico a eso.
+
+931
+01:17:31,380 --> 01:17:32,779
+Me lo debes.
+
+932
+01:17:36,084 --> 01:17:38,245
+Hiciste esto para mí.
+
+933
+01:17:38,920 --> 01:17:40,683
+Ayer.
+
+934
+01:17:41,423 --> 01:17:43,050
+¿Cómo?
+
+935
+01:17:43,191 --> 01:17:45,182
+Porque hay más cosas
+en esa pared además...
+
+936
+01:17:46,828 --> 01:17:49,194
+...de "Norah tiene un hermano muerto."
+
+937
+01:17:51,366 --> 01:17:52,765
+Aunque sea un gran lío.
+
+938
+01:17:54,469 --> 01:17:55,766
+Es increíble.
+
+939
+01:17:57,706 --> 01:18:01,665
+Es gracioso. Yo creo que es un lío
+y tú crees que es increíble.
+
+940
+01:18:01,743 --> 01:18:04,405
+Yo creo que eres increíble
+y tú crees que eres un lío.
+
+941
+01:18:06,515 --> 01:18:10,076
+¿Sabes algo?
+Ya no quiero pensar.
+
+942
+01:18:15,223 --> 01:18:17,657
+Aún me debes un discurso.
+
+943
+01:18:18,393 --> 01:18:20,520
+Asegúrate de que suene como yo.
+
+944
+01:18:27,836 --> 01:18:32,637
+Entonces, ¿me siento aquí
+hasta que me vuelvan a arrestar?
+
+945
+01:18:32,708 --> 01:18:35,268
+No, llévatelo contigo, tonto.
+
+946
+01:18:35,677 --> 01:18:38,612
+¿Llevármelo conmigo?
+
+947
+01:19:23,892 --> 01:19:26,986
+<i>Buenas tardes, graduados,
+poetas muertos...</i>
+
+948
+01:19:27,129 --> 01:19:31,361
+<i>...pintores, futuros Einstein
+y todos los demás...</i>
+
+949
+01:19:31,867 --> 01:19:35,200
+<i>Hoy estoy aquí para advertirles
+que les están mintiendo.</i>
+
+950
+01:19:35,337 --> 01:19:40,206
+<i>Nuestros padres, maestros,
+doctores nos han mentido.</i>
+
+951
+01:19:40,308 --> 01:19:45,405
+<i>Es siempre la misma mentira.
+Las mismas tres palabras:</i>
+
+952
+01:19:45,514 --> 01:19:47,982
+<i>"Todo estará bien."</i>
+
+953
+01:19:50,018 --> 01:19:51,781
+<i>¿Pero qué sucede si no es así?</i>
+
+954
+01:19:53,288 --> 01:19:55,882
+<i>¿Qué pasaría si la experiencia
+humana fuera algo que uno hereda...</i>
+
+955
+01:19:55,957 --> 01:19:58,755
+<i>...como el cabello rizado
+o los ojos azules?</i>
+
+956
+01:19:58,827 --> 01:20:03,491
+<i>¿Qué sucede si el dolor está en nuestro
+ADN o la tragedia es nuestro derecho?</i>
+
+957
+01:20:04,933 --> 01:20:06,000
+<i>O ¿qué si...?</i>
+
+958
+01:20:06,001 --> 01:20:08,765
+<i>- "O ¿qué si a veces...?"
+- ...¿a veces...</i>
+
+959
+01:20:08,937 --> 01:20:11,804
+..."de la nada,
+cuando menos lo esperas...
+
+960
+01:20:12,674 --> 01:20:15,108
+"sucede lo peor?"
+
+961
+01:20:17,412 --> 01:20:19,209
+"A veces las cosas suceden."
+
+962
+01:20:22,217 --> 01:20:24,151
+Estoy segura de que en este momento,
+todos están pensando:
+
+963
+01:20:24,219 --> 01:20:26,653
+"Dios, este es el discurso de graduación
+más triste que he oído."
+
+964
+01:20:27,722 --> 01:20:30,691
+Y lo es. Estoy de acuerdo con ustedes,
+pero yo no lo escribí.
+
+965
+01:20:35,063 --> 01:20:40,160
+Esperé mucho tiempo que esta
+mentira se convirtiera en verdad...
+
+966
+01:20:40,235 --> 01:20:43,898
+...y al final le pagué a alguien
+para que dijera la verdad por mí.
+
+967
+01:20:47,342 --> 01:20:48,866
+No estoy bien.
+
+968
+01:20:49,411 --> 01:20:50,878
+Para nada.
+
+969
+01:20:53,281 --> 01:20:55,545
+La verdad es...
+
+970
+01:20:55,617 --> 01:20:57,881
+...que extraño algo...
+
+971
+01:20:59,588 --> 01:21:01,112
+...la cosa que más amaba...
+
+972
+01:21:02,390 --> 01:21:05,359
+...el rostro que desearía que ahora
+estuviera en la primera fila.
+
+973
+01:21:07,729 --> 01:21:10,425
+El hermano que nunca recuperaré.
+
+974
+01:21:15,537 --> 01:21:17,596
+¿Qué hago con eso?
+
+975
+01:21:21,243 --> 01:21:23,302
+¿Qué haría cualquiera de nosotros...
+
+976
+01:21:24,246 --> 01:21:26,237
+...además de mentir?
+
+977
+01:21:29,551 --> 01:21:31,678
+Eso es lo que creo.
+
+978
+01:21:35,290 --> 01:21:40,023
+En este momento, en este auditorio
+hay alguien que está con ustedes.
+
+979
+01:21:40,095 --> 01:21:44,464
+Alguien que desea ayudarlos,
+apoyarlos...
+
+980
+01:21:44,532 --> 01:21:45,794
+...besarlos, perdonarlos...
+
+981
+01:21:46,768 --> 01:21:50,067
+...soportarlos, esperarlos, cargarlos...
+
+982
+01:21:50,438 --> 01:21:51,837
+<i>...amarlos.</i>
+
+983
+01:21:54,175 --> 01:21:57,008
+<i>A pesar de que no siempre
+todo esté bien...</i>
+
+984
+01:21:57,946 --> 01:22:00,107
+<i>...hay una cosa que sé que es verdad.</i>
+
+985
+01:22:01,783 --> 01:22:04,183
+<i>No tenemos que estar solos.</i>
+
+986
+01:22:46,661 --> 01:22:49,129
+No creí que vendrías.
+
+987
+01:22:49,397 --> 01:22:51,763
+Yo tampoco creí que vendría.
+
+988
+01:22:59,574 --> 01:23:01,439
+Estoy feliz de que aún estés aquí.
+
+989
+01:23:03,311 --> 01:23:05,176
+Sí, la mayor parte de mí.
+
+990
+01:23:05,780 --> 01:23:07,304
+Sí.
+
+991
+01:23:12,454 --> 01:23:14,422
+Cuando era un niño...
+
+992
+01:23:14,923 --> 01:23:18,324
+...lo único que quería era ser como tú.
+
+993
+01:23:21,396 --> 01:23:22,863
+Cuando crecí...
+
+994
+01:23:25,533 --> 01:23:28,297
+...lo único que quería
+era ser alguien más.
+
+995
+01:23:35,043 --> 01:23:36,332
+¿Y ahora?
+
+996
+01:23:42,517 --> 01:23:43,609
+Papá.
+
+997
+01:24:41,309 --> 01:24:43,743
+<i>Ésta es una foto de Walter Black...</i>
+
+998
+01:24:45,480 --> 01:24:48,108
+<i>...que tuvo que convertirse en castor...</i>
+
+999
+01:24:48,183 --> 01:24:50,651
+<i>...que tuvo que convertirse en padre...</i>
+
+1000
+01:24:51,953 --> 01:24:57,448
+<i>...para que un día,
+ésta sea sólo una foto de Walter Black.</i>
+
+1001
+01:25:03,549 --> 01:25:09,449
+Subtítulo por aRGENTeaM
+www.argenteam.net
+
+1002
+01:25:24,819 --> 01:25:28,949
+El
+CASTOR
+
+1003
+01:27:15,296 --> 01:27:18,459
+La depresión es un problema familiar.
+
+1004
+01:27:18,533 --> 01:27:22,367
+Encuentre recursos para lidiar con ella
+y curarse en: Takepart.Com/thebeaver
+
+1005
+01:27:23,368 --> 01:27:29,268
+Subtítulo por aRGENTeaM
+www.argenteam.net
+

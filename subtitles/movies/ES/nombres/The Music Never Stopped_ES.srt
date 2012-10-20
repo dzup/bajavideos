@@ -1,0 +1,6998 @@
+1
+00:00:21,688 --> 00:00:24,521
+<i># Los cuentos de hadas
+pueden cumplirse #</i>
+
+2
+00:00:25,892 --> 00:00:29,623
+<i># Te puede pasar a ti #</i>
+
+3
+00:00:29,662 --> 00:00:34,759
+<i># si eres joven de corazón #</i>
+
+4
+00:00:36,903 --> 00:00:41,340
+<i># Porque es difícil, encontrarás #</i>
+
+5
+00:00:41,374 --> 00:00:43,467
+<i># Ser cerrado de mente #</i>
+
+6
+00:00:45,378 --> 00:00:46,970
+<i># si eres joven... #</i>
+
+7
+00:00:47,013 --> 00:00:48,037
+¿Henry?
+
+8
+00:00:48,081 --> 00:00:49,605
+<i># De corazón #</i>
+
+9
+00:00:50,450 --> 00:00:51,483
+Henry.
+
+10
+00:00:51,484 --> 00:00:53,315
+<i># Puedes irte a los extremos... #</i>
+
+11
+00:00:53,353 --> 00:00:54,386
+¿Qué?
+
+12
+00:00:54,387 --> 00:00:56,378
+¿No escuchas el teléfono timbrando?
+
+13
+00:00:56,423 --> 00:00:57,890
+<i># Con sueños imposibles #</i>
+
+14
+00:00:57,924 --> 00:00:59,016
+No.
+
+15
+00:00:59,059 --> 00:01:01,857
+<i># Puedes reírte cuando tus sueños #</i>
+
+16
+00:01:01,895 --> 00:01:04,591
+<i># se esfuman #</i>
+
+17
+00:01:04,964 --> 00:01:06,056
+Hola.
+
+18
+00:01:06,232 --> 00:01:08,223
+<i>Sí, ¿habla Helen Sawyer?</i>
+
+19
+00:01:10,770 --> 00:01:12,635
+<i># Y si logras sobrevivir #</i>
+
+20
+00:01:13,506 --> 00:01:14,996
+¿Estás seguro que es él?
+
+21
+00:01:15,608 --> 00:01:17,508
+<i>Lo siento mucho.</i>
+
+22
+00:01:17,544 --> 00:01:22,106
+<i>Él está en el hospital...</i>
+
+23
+00:01:22,148 --> 00:01:24,207
+<i># Estar vivo... #</i>
+
+24
+00:01:24,250 --> 00:01:26,741
+HOSPITAL URBANO
+
+25
+00:01:36,229 --> 00:01:38,629
+Venimos a ver a Gabriel Sawyer.
+
+26
+00:01:38,665 --> 00:01:40,292
+Ella los puede llevar.
+
+27
+00:01:40,333 --> 00:01:41,357
+Por aquí.
+
+28
+00:01:46,906 --> 00:01:47,930
+Él se encuentra aquí.
+
+29
+00:01:52,011 --> 00:01:53,876
+Dios.
+
+30
+00:02:03,256 --> 00:02:06,487
+Esta imagen del cerebro nos
+muestra un tumor en la línea media...
+
+31
+00:02:06,526 --> 00:02:09,154
+...extendiéndose en ambos
+lados a los lóbulos frontales.
+
+32
+00:02:09,195 --> 00:02:12,392
+También se extiende hacia
+atrás a los lóbulos temporales...
+
+33
+00:02:12,432 --> 00:02:14,263
+...y hacia abajo
+al prosencéfalo acá.
+
+34
+00:02:15,502 --> 00:02:17,868
+¿Entonces el tumor
+está en esta área aquí?
+
+35
+00:02:17,904 --> 00:02:20,099
+No, Sr. Sawyer,
+ese es el tumor.
+
+36
+00:02:21,040 --> 00:02:22,667
+Parece ser benigno...
+
+37
+00:02:22,709 --> 00:02:24,700
+...pero pasó tanto tiempo
+sin ser revisado...
+
+38
+00:02:24,744 --> 00:02:26,712
+...que no podríamos decir
+qué tipo de daño permanente...
+
+39
+00:02:26,746 --> 00:02:28,873
+...ha ocasionado hasta
+que operemos.
+
+40
+00:02:41,127 --> 00:02:42,151
+¿Cómo estás esta mañana?
+
+41
+00:02:43,563 --> 00:02:45,724
+Te voy a hacer algunas preguntas...
+
+42
+00:02:45,765 --> 00:02:49,064
+...y quiero que me digas
+las respuestas, ¿está bien?
+
+43
+00:02:49,102 --> 00:02:50,126
+Oki-doki.
+
+44
+00:02:52,172 --> 00:02:53,366
+¿Cuál es tu nombre?
+
+45
+00:02:54,607 --> 00:02:55,801
+Gabriel.
+
+46
+00:02:55,842 --> 00:02:56,875
+Muy bien.
+
+47
+00:02:56,876 --> 00:02:58,366
+¿En qué año naciste, Gabriel?
+
+48
+00:02:58,411 --> 00:03:00,902
+1951.
+
+49
+00:03:02,815 --> 00:03:03,941
+Bien.
+
+50
+00:03:03,983 --> 00:03:05,951
+¿Y qué año es ahora?
+
+51
+00:03:08,955 --> 00:03:12,550
+Muy bien, ahora, Gabriel, puedes contar
+de 1 a 10 en voz alta?
+
+52
+00:03:12,592 --> 00:03:15,755
+Cuenten conmigo.
+
+53
+00:03:15,795 --> 00:03:16,853
+Yo comienzo.
+
+54
+00:03:16,896 --> 00:03:19,330
+Uno, dos...
+
+55
+00:03:19,365 --> 00:03:20,696
+Hebilla de mi zapato.
+
+56
+00:03:20,733 --> 00:03:23,361
+Tres, cuatro...
+
+57
+00:03:25,805 --> 00:03:28,171
+Parecía estar jugando con usted.
+
+58
+00:03:28,208 --> 00:03:29,641
+Esa es una buena señal, ¿no?
+
+59
+00:03:29,676 --> 00:03:30,973
+En realidad no estaba jugando.
+
+60
+00:03:31,010 --> 00:03:32,307
+Parte del cerebro de Gabriel...
+
+61
+00:03:32,345 --> 00:03:34,609
+...que controla la inhibición
+ha sido destrozada...
+
+62
+00:03:34,647 --> 00:03:36,774
+...entonces él reacciona de forma
+incontinente a su alrededor.
+
+63
+00:03:36,816 --> 00:03:38,374
+Es como si no fuera él.
+
+64
+00:03:38,418 --> 00:03:39,783
+¿Cuándo fue la última
+vez que lo vio?
+
+65
+00:03:40,386 --> 00:03:43,583
+Él... él se fue de casa...
+
+66
+00:03:43,623 --> 00:03:45,284
+...hace unos años.
+
+67
+00:03:45,325 --> 00:03:47,020
+Casi 20.
+
+68
+00:03:51,231 --> 00:03:52,425
+¿Las drogas causaron esto?
+
+69
+00:03:52,465 --> 00:03:53,955
+No, no creo.
+
+70
+00:03:54,000 --> 00:03:56,298
+Según su apariencia,
+estuvo en la calle bastante tiempo.
+
+71
+00:03:56,336 --> 00:03:57,369
+Dios.
+
+72
+00:03:57,370 --> 00:03:58,598
+Y desafortunadamente.
+Aunque crece lentamente...
+
+73
+00:03:58,638 --> 00:04:00,162
+...el tumor ha destrozado estructuras...
+
+74
+00:04:00,206 --> 00:04:03,175
+...del lado medial
+de ambos lóbulos temporales...
+
+75
+00:04:03,209 --> 00:04:05,006
+...en particular lo que
+llaman el hipocampo...
+
+76
+00:04:05,044 --> 00:04:08,241
+...y estas son las áreas del cerebro que
+usamos para formar nuevas memorias...
+
+77
+00:04:08,281 --> 00:04:11,011
+...como lo que les estoy diciendo ahora,
+nueva información.
+
+78
+00:04:13,386 --> 00:04:16,719
+<i>Sr. Y Sra. Sawyer, aunque Gabriel
+se recupere totalmente...</i>
+
+79
+00:04:16,756 --> 00:04:19,919
+<i>...su memoria ha sido dañada.</i>
+
+80
+00:04:19,959 --> 00:04:23,690
+<i>La memoria de largo plazo de Gabriel
+deja de funcionar hasta cierto punto...</i>
+
+81
+00:04:23,730 --> 00:04:27,291
+<i>...y aunque recupere
+algunas funciones cognitivas...</i>
+
+82
+00:04:27,333 --> 00:04:29,096
+<i>...como la percepción de su entorno...</i>
+
+83
+00:04:29,135 --> 00:04:33,128
+<i>...es posible que sea inconsistente
+e intermitente.</i>
+
+84
+00:04:51,624 --> 00:04:52,750
+Henry Sawyer.
+
+85
+00:04:54,694 --> 00:04:56,321
+¿Esto puede esperar hasta mañana?
+
+86
+00:04:56,362 --> 00:04:57,829
+Voy camino al hospital.
+
+87
+00:05:00,366 --> 00:05:01,526
+Está bien, ya llego.
+
+88
+00:05:07,507 --> 00:05:08,838
+¿Cómo está Gabe?
+
+89
+00:05:08,875 --> 00:05:11,036
+Ya sabes, es difícil saberlo.
+
+90
+00:05:11,878 --> 00:05:13,539
+Lo vamos a pasar a un
+lugar de cuidado permanente.
+
+91
+00:05:13,579 --> 00:05:15,206
+Es, más cerca de casa.
+
+92
+00:05:15,581 --> 00:05:16,673
+Gracias por preguntar.
+
+93
+00:05:16,716 --> 00:05:18,980
+Henry, sólo puedo imaginar
+por lo que estás pasando.
+
+94
+00:05:19,018 --> 00:05:20,451
+En realidad, no puedo.
+
+95
+00:05:20,486 --> 00:05:22,579
+No sé como podrías concentrarte
+en nada.
+
+96
+00:05:22,622 --> 00:05:26,888
+El trabajo ayuda,
+Mike, el estar aquí.
+
+97
+00:05:26,926 --> 00:05:29,292
+Sí. Eso lo entiendo.
+
+98
+00:05:29,329 --> 00:05:32,230
+Pero seamos francos, Henry.
+
+99
+00:05:32,265 --> 00:05:35,564
+Por el momento, cuando estás aquí,
+no estás realmente aquí.
+
+100
+00:05:35,601 --> 00:05:38,695
+Y estamos lidiando con
+realidades duras por nuestro lado.
+
+101
+00:05:38,738 --> 00:05:40,706
+Eres un buen ingeniero
+mecánico, Henry...
+
+102
+00:05:40,740 --> 00:05:42,640
+...pero estamos entrando al
+mercado de cámaras digitales.
+
+103
+00:05:42,675 --> 00:05:44,075
+Necesitamos habilidades...
+
+104
+00:05:44,076 --> 00:05:46,076
+...de codificación informática,
+programación...
+
+105
+00:05:46,112 --> 00:05:48,512
+...necesitas Fortran, de esas cosas.
+
+106
+00:05:49,682 --> 00:05:51,445
+¿Me estás despidiendo?
+
+107
+00:05:53,219 --> 00:05:56,848
+Henry, tienes año y medio
+de ausencias por enfermedad...
+
+108
+00:05:56,889 --> 00:05:58,447
+...y tienes tu pensión completa.
+
+109
+00:05:58,491 --> 00:06:00,652
+Hazte un favor.
+
+110
+00:06:00,693 --> 00:06:02,160
+Tómate el tiempo.
+
+111
+00:06:02,195 --> 00:06:04,425
+Ve con tu familia.
+
+112
+00:06:48,207 --> 00:06:52,644
+<i># Había campanas en la colina #</i>
+
+113
+00:06:52,678 --> 00:06:57,672
+<i># Pero nunca las oí sonar #</i>
+
+114
+00:06:57,717 --> 00:07:01,676
+<i># No, nunca las oí sonar #</i>
+
+115
+00:07:01,721 --> 00:07:03,245
+Muy bien, ¿listo para la inspección?
+
+116
+00:07:03,289 --> 00:07:04,322
+Está bien.
+
+117
+00:07:04,323 --> 00:07:05,790
+- ¿Lápices?
+- Sí.
+
+118
+00:07:05,825 --> 00:07:07,315
+- ¿Cuaderno?
+- Sí.
+
+119
+00:07:07,360 --> 00:07:08,827
+¿Lonchera de Robin Hood?
+
+120
+00:07:08,861 --> 00:07:10,158
+Comprendido.
+
+121
+00:07:10,196 --> 00:07:12,892
+¿Sabes cuál es esta canción?
+
+122
+00:07:12,932 --> 00:07:14,160
+"Hasta que Llegaste Tú".
+
+123
+00:07:14,200 --> 00:07:16,225
+- Ajá. ¿Año?
+- 1950.
+
+124
+00:07:16,269 --> 00:07:17,793
+¿Compositor?
+
+125
+00:07:18,004 --> 00:07:19,369
+Meredith Wilson.
+
+126
+00:07:20,706 --> 00:07:25,200
+La primera vez que escuché
+esta canción fue el 23 de junio, 1950.
+
+127
+00:07:25,244 --> 00:07:28,213
+Era la inauguración
+del Salón de Baile Roseland.
+
+128
+00:07:28,247 --> 00:07:32,274
+Dos días antes de que tío Gabriel
+se fuera a luchar a la guerra.
+
+129
+00:07:32,318 --> 00:07:33,717
+Es cierto.
+
+130
+00:07:34,620 --> 00:07:36,986
+Y tío Gabriel llevó a Ruth McDonald...
+
+131
+00:07:37,023 --> 00:07:39,787
+...y yo tuve que ir
+con la hermana de Ruth, Gladys.
+
+132
+00:07:40,660 --> 00:07:41,820
+La gorda.
+
+133
+00:07:41,861 --> 00:07:46,025
+Sí, la gorda que parecía un tanque
+súper enorme de queso Velveeta.
+
+134
+00:07:46,065 --> 00:07:47,098
+Henry.
+
+135
+00:07:47,099 --> 00:07:48,691
+Sí, esa.
+
+136
+00:07:48,734 --> 00:07:52,864
+Y esta fue la última canción...
+
+137
+00:07:52,905 --> 00:07:54,429
+...que la orquesta tocó esa noche...
+
+138
+00:07:54,474 --> 00:07:57,307
+...en el momento que vi
+por primera vez a...
+
+139
+00:07:57,343 --> 00:07:58,367
+- ...tu mamá.
+- Mamá.
+
+140
+00:07:59,712 --> 00:08:01,703
+Fue la primera canción.
+
+141
+00:08:01,747 --> 00:08:02,805
+No. Fue la última canción.
+
+142
+00:08:02,849 --> 00:08:05,579
+Última vez, era la primera canción.
+
+143
+00:08:06,652 --> 00:08:07,880
+Gabe, es hora.
+
+144
+00:08:17,497 --> 00:08:20,933
+<i># Me gustaría comprarle
+al mundo una Coca #</i>
+
+145
+00:08:20,967 --> 00:08:23,299
+<i># y hacerle compañía #</i>
+
+146
+00:08:23,336 --> 00:08:25,668
+<i># Es sentir de verdad #</i>
+
+147
+00:08:25,705 --> 00:08:28,469
+Hola, Gabriel.
+¿Qué tal?
+
+148
+00:08:28,508 --> 00:08:29,941
+<i># En perfecta armonía #</i>
+
+149
+00:08:29,976 --> 00:08:31,375
+Gabriel.
+
+150
+00:08:33,045 --> 00:08:34,637
+Es Bernie el del pasillo.
+
+151
+00:08:35,047 --> 00:08:36,514
+Bernie el Hernie.
+
+152
+00:08:37,016 --> 00:08:39,177
+<i># Es sentir de verdad #</i>
+
+153
+00:08:39,218 --> 00:08:41,118
+Debes tener mucha hambre, Gabriel.
+
+154
+00:08:41,153 --> 00:08:43,018
+Yo soy Gabriel.
+Tú tienes hambre.
+
+155
+00:08:43,155 --> 00:08:44,349
+La tengo.
+
+156
+00:08:48,094 --> 00:08:50,085
+Gabe, abre tu boca.
+
+157
+00:08:50,129 --> 00:08:51,994
+Cierra tus ojos.
+Duérmete.
+
+158
+00:08:55,134 --> 00:08:56,624
+Gabriel, abre tu boca.
+
+159
+00:08:56,836 --> 00:08:58,531
+Abre tu boca.
+Saca la lengua.
+
+160
+00:09:00,506 --> 00:09:03,771
+¿Por qué no dejamos que
+Gabriel trate de comer solo?
+
+161
+00:09:08,347 --> 00:09:09,678
+Voy a ir afuera.
+
+162
+00:09:11,183 --> 00:09:13,743
+Vamos, Gabe.
+Tienes que comer.
+
+163
+00:09:14,820 --> 00:09:17,118
+¿Quieres un sorbo de Coca?
+
+164
+00:09:17,156 --> 00:09:18,623
+"Es sentir de verdad".
+
+165
+00:09:53,593 --> 00:09:56,528
+Ahora puedes jugar como
+si fueras el tío Gabe.
+
+166
+00:10:06,772 --> 00:10:08,899
+Lo está entendiendo.
+
+167
+00:10:08,941 --> 00:10:12,001
+Tal vez la trompeta no sea
+el instrumento adecuado.
+
+168
+00:10:12,044 --> 00:10:13,705
+Lo está consiguiendo.
+
+169
+00:10:21,354 --> 00:10:22,878
+¿Esto es bueno?
+
+170
+00:10:24,624 --> 00:10:26,114
+Está bien.
+
+171
+00:10:27,760 --> 00:10:29,694
+Deberíamos irnos pronto.
+
+172
+00:10:29,729 --> 00:10:31,253
+Ve tú.
+
+173
+00:10:32,665 --> 00:10:34,257
+¿Qué quieres decir?
+
+174
+00:10:34,300 --> 00:10:35,362
+Yo iré mañana.
+
+175
+00:10:36,569 --> 00:10:38,264
+Él no sabe la diferencia.
+
+176
+00:10:46,846 --> 00:10:48,143
+Tómate tus pastillas.
+
+177
+00:11:08,134 --> 00:11:11,228
+No te vas a dormir todavía,
+¿verdad?
+
+178
+00:11:12,972 --> 00:11:14,462
+Regreso enseguida.
+
+179
+00:11:16,108 --> 00:11:18,406
+¿Me puedes dar mi radio?
+
+180
+00:11:18,444 --> 00:11:19,468
+Claro.
+
+181
+00:11:21,547 --> 00:11:24,482
+Apuesto que te gusta lo que
+a mi hijo le gusta.
+
+182
+00:11:28,120 --> 00:11:29,314
+Ahora sí.
+
+183
+00:11:30,956 --> 00:11:33,424
+<i># La orilla de la noche #</i>
+
+184
+00:11:33,459 --> 00:11:35,051
+Ahora sí, cariño.
+
+185
+00:11:45,805 --> 00:11:46,838
+¿Ésta?
+
+186
+00:11:46,839 --> 00:11:48,500
+Le di sus medicamentos en--
+
+187
+00:12:03,355 --> 00:12:05,687
+Muy bien, ¿quién conoce
+esa canción?
+
+188
+00:12:11,363 --> 00:12:13,228
+No sé qué sucedió...
+
+189
+00:12:13,265 --> 00:12:17,152
+...pero no veo cambios significativos
+en su funcionamiento esta mañana.
+
+190
+00:12:17,326 --> 00:12:19,562
+- Seguiremos observando, por supuesto.
+- Pero he notado una diferencia en él.
+
+191
+00:12:19,695 --> 00:12:20,976
+¿Qué quieres decir?
+
+192
+00:12:21,011 --> 00:12:23,842
+Cre... Creo que Gabriel recordó
+parte de un anuncio de televisión.
+
+193
+00:12:23,876 --> 00:12:28,245
+Estábamos almorzando, y le pregunté
+si quería un sorbo de Coca...
+
+194
+00:12:28,280 --> 00:12:29,975
+...y me respondió, "Es sentir"
+
+195
+00:12:30,015 --> 00:12:32,725
+- "Es sentir de verdad."
+- Sí.
+
+196
+00:12:32,785 --> 00:12:34,412
+¿Qué es?
+
+197
+00:12:34,453 --> 00:12:36,853
+No, es el anuncio.
+Creo que dice "Es sentir de verdad."
+
+198
+00:12:36,889 --> 00:12:38,982
+Sí. El anuncio lo pasaron por
+tele en el cuarto de recreación.
+
+199
+00:12:39,024 --> 00:12:40,889
+Pues, es posible interpretar...
+
+200
+00:12:40,926 --> 00:12:43,053
+...el comportamiento
+de Gabriel de varias maneras.
+
+201
+00:12:43,095 --> 00:12:45,655
+Pero recordó un anuncio.
+
+202
+00:12:45,698 --> 00:12:47,689
+Gabriel estaba viendo la tele.
+
+203
+00:12:47,733 --> 00:12:50,167
+Helen, el hecho es que
+el tumor ha destrozado...
+
+204
+00:12:50,202 --> 00:12:51,726
+...algunas funciones cognitivas
+de Gabriel...
+
+205
+00:12:51,771 --> 00:12:54,069
+...y las partes del cerebro
+que las manejan.
+
+206
+00:12:54,106 --> 00:12:55,664
+Pero hizo una relación.
+
+207
+00:12:55,708 --> 00:12:57,869
+Él puede hacer relaciones
+repetitivas o al azar...
+
+208
+00:12:57,910 --> 00:13:01,971
+...pero no van a ser consistentes
+ni indican una recuperación de memoria.
+
+209
+00:13:02,014 --> 00:13:03,208
+Lo siento.
+
+210
+00:13:05,718 --> 00:13:08,482
+Vamos, Helen. Vámonos a casa.
+
+211
+00:13:09,655 --> 00:13:11,316
+Gracias, doctor.
+
+212
+00:13:13,759 --> 00:13:17,752
+<i>Soy Cap Carsen devolviéndolos
+a 1968 y los Tulips...</i>
+
+213
+00:13:17,797 --> 00:13:20,288
+<i>...su éxito que estaba entre
+las 10 mejores, "Se Trata del Verano".</i>
+
+214
+00:13:20,332 --> 00:13:23,597
+<i># Todo lo quiere, hoy la juventud #</i>
+
+215
+00:13:23,636 --> 00:13:29,634
+<i># En todo lo que piensan
+es en el verano #</i>
+
+216
+00:13:29,775 --> 00:13:31,003
+Por favor déjela encendida.
+
+217
+00:13:31,043 --> 00:13:32,601
+<i># Se trata del verano #</i>
+
+218
+00:13:39,485 --> 00:13:43,251
+# Todo lo quiere, hoy la juventud #
+
+219
+00:13:43,289 --> 00:13:48,158
+# En todo lo que piensan
+es en el verano #
+
+220
+00:13:49,862 --> 00:13:52,228
+# Se trata del verano #
+
+221
+00:13:55,434 --> 00:13:58,733
+# Todo lo quiere, hoy la juventud #
+
+222
+00:13:58,771 --> 00:14:02,104
+# es que los problemas del mundo
+se vayan #
+
+223
+00:14:02,141 --> 00:14:03,972
+# Se trata del verano #
+
+224
+00:14:06,111 --> 00:14:08,477
+# - Se trata del-- #
+- ¡Un segundo!
+
+225
+00:14:08,514 --> 00:14:10,744
+¿Podrías aromatizar un poco aquí?
+
+226
+00:14:14,220 --> 00:14:15,551
+Hola, Pa.
+
+227
+00:14:15,588 --> 00:14:18,682
+Gabriel, tu mamá ya casi
+termina de preparar la cena.
+
+228
+00:14:18,724 --> 00:14:20,021
+Excelente. Estoy muy hambriento.
+
+229
+00:14:20,059 --> 00:14:22,323
+Genial.
+Tengo tanta hambre.
+
+230
+00:14:22,361 --> 00:14:23,760
+Sí.
+
+231
+00:14:23,796 --> 00:14:27,459
+Desafortunadamente no hay
+suficiente para todos hoy.
+
+232
+00:14:27,499 --> 00:14:29,126
+Es... está bien. Estábamos...
+
+233
+00:14:29,168 --> 00:14:31,762
+Sr. Sawyer, sólo decíamos que
+teníamos hambre para nuestras cenas...
+
+234
+00:14:31,804 --> 00:14:35,171
+...que nuestras mamás
+nos iban a preparar.
+
+235
+00:14:35,207 --> 00:14:37,038
+Tardaré sólo un segundo, Pa.
+
+236
+00:14:37,076 --> 00:14:39,101
+Terminaremos en un momento.
+Estaré arriba.
+
+237
+00:14:57,563 --> 00:15:00,123
+<i># Es el verano #</i>
+
+238
+00:15:01,166 --> 00:15:04,192
+<i># Se trata del verano #</i>
+
+239
+00:15:06,605 --> 00:15:08,732
+<i># Todos los perros y gatos
+del vecindario #</i>
+
+240
+00:15:08,774 --> 00:15:11,072
+Hola.
+
+241
+00:15:11,110 --> 00:15:12,475
+Sí.
+
+242
+00:15:12,511 --> 00:15:15,571
+<i># Todos quieren llevarse bien
+en el verano #</i>
+
+243
+00:15:15,614 --> 00:15:18,242
+¿Seguro que no hay un error?
+
+244
+00:15:27,326 --> 00:15:30,318
+Henry, ¿estamos bien?
+
+245
+00:15:32,698 --> 00:15:33,824
+¿Qué?
+
+246
+00:15:33,866 --> 00:15:35,834
+Acaban de llamar del hospital...
+
+247
+00:15:35,868 --> 00:15:37,460
+...y dijeron
+que no hemos pagado la cuenta.
+
+248
+00:15:37,503 --> 00:15:39,494
+¿Todo está bien?
+
+249
+00:15:41,740 --> 00:15:43,469
+Todo está bien.
+
+250
+00:15:45,377 --> 00:15:48,073
+Lo haré cuando pueda.
+
+251
+00:15:50,416 --> 00:15:51,747
+Estoy durmiendo.
+
+252
+00:15:56,722 --> 00:15:58,189
+Helen. ¿Cómo estás?
+
+253
+00:15:58,223 --> 00:15:59,713
+Bien, ¿y usted?
+
+254
+00:15:59,758 --> 00:16:01,157
+Estoy bien. ¿Cómo está Gabriel?
+
+255
+00:16:01,193 --> 00:16:02,226
+Está mejor.
+
+256
+00:16:02,227 --> 00:16:03,751
+Magnífico.
+
+257
+00:16:03,796 --> 00:16:06,026
+Qué bien. Y... ¿Henry?
+
+258
+00:16:06,065 --> 00:16:09,557
+Él está bien. Ya sabe,
+era más feliz cuando trabajaba.
+
+259
+00:16:09,601 --> 00:16:11,933
+Ojalá pudiera estar aquí aún.
+
+260
+00:16:11,971 --> 00:16:15,134
+Le estoy ofreciendo la segunda opción.
+
+261
+00:16:15,174 --> 00:16:16,471
+¿Cuál es?
+
+262
+00:16:16,508 --> 00:16:18,601
+Yo.
+
+263
+00:16:18,644 --> 00:16:20,908
+Mi familia necesita una entrada extra.
+
+264
+00:16:20,946 --> 00:16:22,413
+Podría empezar inmediatamente...
+
+265
+00:16:22,448 --> 00:16:25,815
+...y sería una gran
+asistente o secretaria.
+
+266
+00:16:27,286 --> 00:16:30,312
+Helen, tú nunca has trabajado
+¿o sí?
+
+267
+00:16:31,790 --> 00:16:37,057
+Mike, mi esposo trabajó como ingeniero
+aquí por más de 30 años.
+
+268
+00:16:37,096 --> 00:16:40,691
+Faltó dos días al trabajo
+en todo ese tiempo.
+
+269
+00:16:40,733 --> 00:16:42,724
+Su madre murió uno de esos días...
+
+270
+00:16:42,768 --> 00:16:45,236
+...y el otro fue
+cuando nació nuestro hijo.
+
+271
+00:16:45,270 --> 00:16:48,398
+Sí, me quedé en casa
+para cuidar de la familia...
+
+272
+00:16:48,440 --> 00:16:51,238
+...como su madre probablemente
+lo hizo por usted...
+
+273
+00:16:51,276 --> 00:16:54,575
+...pero fui a la universidad
+y tengo un título.
+
+274
+00:16:54,613 --> 00:16:56,240
+Pude haber hecho cualquier cosa.
+
+275
+00:16:56,281 --> 00:16:59,182
+Soy capaz de hacer algo aquí.
+
+276
+00:17:04,757 --> 00:17:05,815
+¿Esto está bien?
+
+277
+00:17:05,858 --> 00:17:08,019
+No sé. Revisa la fecha.
+
+278
+00:17:08,060 --> 00:17:09,891
+¿Te vistes así para ir al hospital?
+
+279
+00:17:09,928 --> 00:17:13,455
+No. De hecho me visto así
+para ir a trabajar.
+
+280
+00:17:14,867 --> 00:17:16,198
+¿Cuál trabajo?
+
+281
+00:17:17,269 --> 00:17:19,464
+Mike Tappin me dio empleo.
+
+282
+00:17:19,505 --> 00:17:21,268
+Seré asistente en
+la oficina de contabilidad.
+
+283
+00:17:21,306 --> 00:17:23,638
+¿Tomaste un empleo?
+
+284
+00:17:23,675 --> 00:17:24,709
+¿Sin decirme?
+
+285
+00:17:24,710 --> 00:17:27,008
+Henry, tenemos muchas cuentas...
+
+286
+00:17:27,046 --> 00:17:29,037
+...y yo soy perfectamente
+capaz de trabajar.
+
+287
+00:17:32,518 --> 00:17:34,418
+¿Y Gabriel?
+
+288
+00:17:34,453 --> 00:17:35,511
+Te necesita.
+
+289
+00:17:36,889 --> 00:17:39,153
+Afortunadamente,
+tiene dos padres.
+
+290
+00:17:39,191 --> 00:17:40,522
+Los necesita a los dos.
+
+291
+00:17:41,894 --> 00:17:42,927
+Tengo que irme.
+
+292
+00:17:42,928 --> 00:17:45,692
+Por favor, dale el abrigo a Gabriel.
+
+293
+00:17:46,732 --> 00:17:47,926
+¿Qué? ¿Va a salir?
+
+294
+00:17:47,966 --> 00:17:50,867
+Le da frío algunas veces.
+Debe tenerlo.
+
+295
+00:17:50,903 --> 00:17:52,734
+Toma tus pastillas.
+
+296
+00:18:05,984 --> 00:18:08,418
+Sr. Sawyer.
+
+297
+00:18:08,454 --> 00:18:09,978
+Gabriel, tu papá está aquí.
+
+298
+00:18:10,022 --> 00:18:11,216
+Es hora de alegría.
+
+299
+00:18:20,699 --> 00:18:21,757
+¿Qué pasa, Gabriel?
+
+300
+00:18:21,800 --> 00:18:22,824
+¿Perdiste algo?
+
+301
+00:18:27,339 --> 00:18:28,670
+¿Qué le pasa?
+
+302
+00:18:29,975 --> 00:18:31,008
+Está bien.
+
+303
+00:18:31,009 --> 00:18:33,170
+Sólo está acostumbrado
+a ver a su madre.
+
+304
+00:18:33,212 --> 00:18:35,043
+Pero le da gusto verte.
+
+305
+00:18:35,080 --> 00:18:36,240
+¿Verdad, Gabriel?
+
+306
+00:18:37,683 --> 00:18:41,642
+Gabriel, estoy aquí porque mamá
+está trabajando ahora.
+
+307
+00:18:47,025 --> 00:18:48,686
+Se acostumbrará.
+
+308
+00:19:14,219 --> 00:19:17,416
+PROFESOR UNIVERSITARIO INVESTIGA
+VÍNCULOS ENTRE LA MÚSICA Y EL CEREBRO.
+
+309
+00:19:28,867 --> 00:19:33,463
+Gabriel, esto te ayudará
+a recordar la fecha...
+
+310
+00:19:33,505 --> 00:19:36,065
+...y esto...
+
+311
+00:19:36,108 --> 00:19:41,774
+...que papá viene todos los días
+a las 10 A.M.
+
+312
+00:19:44,950 --> 00:19:46,611
+¿Entiendes?
+
+313
+00:19:52,691 --> 00:19:55,922
+UNIVERSIDAD
+ST. JUDE'S
+
+314
+00:20:02,367 --> 00:20:04,335
+Disculpe. ¿Dónde está el edificio
+de Ciencias Sociales?
+
+315
+00:20:04,369 --> 00:20:06,337
+Ya lo pasó, ahí a su derecha.
+
+316
+00:20:06,371 --> 00:20:07,395
+Gracias.
+
+317
+00:20:29,261 --> 00:20:30,819
+¿Es usted la Dra. Daly?
+
+318
+00:20:30,862 --> 00:20:33,126
+No quise interrumpir.
+
+319
+00:20:33,165 --> 00:20:36,032
+Estoy aquí porque leí
+un artículo acerca de su trabajo.
+
+320
+00:20:36,068 --> 00:20:38,628
+Vaya, usted es el que lo leyó.
+
+321
+00:20:39,671 --> 00:20:43,004
+Quería hablarle de mi hijo.
+
+322
+00:20:44,309 --> 00:20:45,674
+Gracias.
+
+323
+00:20:48,146 --> 00:20:50,979
+¿Sabe quien era
+Vissarion Shebalin?
+
+324
+00:20:51,016 --> 00:20:52,313
+Claro, el compositor ruso.
+
+325
+00:20:52,351 --> 00:20:53,648
+Sí.
+
+326
+00:20:53,685 --> 00:20:56,518
+Vaya. Usted realmente conoce
+su música clásica, Sr. Sawyer.
+
+327
+00:20:56,555 --> 00:20:59,319
+Bueno, recién usted escuchó
+todo lo que sé acerca de él.
+
+328
+00:20:59,358 --> 00:21:00,882
+Sí. Bueno, sé de él sólo porque...
+
+329
+00:21:00,926 --> 00:21:05,386
+...sufrió dos ataques cardíacos
+en los años cincuenta...
+
+330
+00:21:05,430 --> 00:21:07,381
+...que lo incapacitaron a hablar...
+
+331
+00:21:07,382 --> 00:21:09,332
+...o entender el significado
+de las palabras...
+
+332
+00:21:09,368 --> 00:21:12,633
+...sin embargo todavía era capaz
+de enseñar y componer música.
+
+333
+00:21:12,671 --> 00:21:14,764
+Ya se ha documentado...
+
+334
+00:21:14,806 --> 00:21:16,757
+...que la música obtiene respuestas...
+
+335
+00:21:16,758 --> 00:21:18,708
+...perceptibles en
+las actividades del cerebro...
+
+336
+00:21:18,744 --> 00:21:22,373
+...entonces "La Marseillaise"
+ha tenido algún efecto en su hijo...
+
+337
+00:21:22,414 --> 00:21:25,044
+...y si es así,
+entonces podremos utilizar la música...
+
+338
+00:21:25,045 --> 00:21:26,874
+...como una herramienta para...
+
+339
+00:21:26,918 --> 00:21:29,011
+...ayudarle a funcionar mejor...
+
+340
+00:21:29,054 --> 00:21:33,354
+...para despertar partes de su memoria
+que podrían haberse dañado.
+
+341
+00:21:33,392 --> 00:21:36,828
+Ahora, yo no quiero
+ofrecer una falsa esperanza.
+
+342
+00:21:36,862 --> 00:21:39,194
+Es mejor de lo que tenemos ahora.
+
+343
+00:21:51,710 --> 00:21:53,940
+Hola.
+
+344
+00:21:53,979 --> 00:21:57,005
+Soy Dianne Daly.
+
+345
+00:21:57,049 --> 00:21:58,607
+¿Cómo te llamas?
+
+346
+00:21:58,650 --> 00:22:01,016
+- Gabriel.
+- Gabriel.
+
+347
+00:22:01,053 --> 00:22:03,180
+Es un...
+es un lindo nombre.
+
+348
+00:22:03,221 --> 00:22:04,518
+Soy un buen tipo.
+
+349
+00:22:06,024 --> 00:22:07,286
+Apuesto que sí.
+
+350
+00:22:08,760 --> 00:22:10,250
+Gusto en conocerte.
+
+351
+00:22:10,295 --> 00:22:12,786
+Gabriel, Estoy... estoy aquí
+porque yo soy...
+
+352
+00:22:12,831 --> 00:22:14,128
+Soy terapeuta musical.
+
+353
+00:22:14,166 --> 00:22:16,157
+¿Por qué no te vienes a sentar?
+
+354
+00:22:19,805 --> 00:22:21,102
+¿Te gusta la música?
+
+355
+00:22:21,139 --> 00:22:23,369
+Soy el hombre música.
+
+356
+00:22:23,408 --> 00:22:25,672
+Bien. Bien.
+
+357
+00:22:26,845 --> 00:22:28,938
+Muy bien, pongamos...
+pongamos algo.
+
+358
+00:23:09,388 --> 00:23:11,356
+Gabriel...
+
+359
+00:23:11,390 --> 00:23:12,652
+¿Qué pasa?
+
+360
+00:23:22,701 --> 00:23:24,168
+Se está escapando.
+
+361
+00:23:26,772 --> 00:23:28,603
+Intentémoslo otra vez.
+
+362
+00:23:49,094 --> 00:23:50,721
+Bien. Bien.
+
+363
+00:23:52,731 --> 00:23:53,925
+Está bien.
+
+364
+00:23:59,938 --> 00:24:02,600
+La música definitivamente
+tuvo algún efecto.
+
+365
+00:24:02,641 --> 00:24:04,131
+Sí.
+
+366
+00:24:04,176 --> 00:24:08,169
+Estaba esperando algo
+un poco más parecido a mi hijo.
+
+367
+00:24:08,213 --> 00:24:12,445
+Los humanos son seres
+increíblemente complejos.
+
+368
+00:24:12,484 --> 00:24:14,452
+No es una ciencia exacta.
+
+369
+00:24:14,486 --> 00:24:15,976
+Realmente estamos haciendo ciencia.
+
+370
+00:24:16,021 --> 00:24:20,287
+Todavía no estoy convencida de que
+él no esté consciente de su estado.
+
+371
+00:24:20,325 --> 00:24:23,089
+Seamos pacientes.
+
+372
+00:24:23,128 --> 00:24:26,723
+Gabriel, soy Dianne Daly.
+
+373
+00:24:26,765 --> 00:24:28,733
+Soy terapeuta musical...
+
+374
+00:24:28,767 --> 00:24:32,328
+...y tu padre y yo
+vamos a ponerte algo de música.
+
+375
+00:24:33,839 --> 00:24:38,105
+<i># Los cuentos de hadas
+pueden cumplirse #</i>
+
+376
+00:24:38,143 --> 00:24:41,874
+<i># Te puede pasar a ti #</i>
+
+377
+00:24:41,913 --> 00:24:47,146
+<i># si eres joven de corazón #</i>
+
+378
+00:24:47,185 --> 00:24:48,846
+¿Cuál es esta canción, Gabriel?
+
+379
+00:24:50,388 --> 00:24:53,084
+Bing Crosby,
+"Joven de Corazón", 1954.
+
+380
+00:24:57,062 --> 00:24:59,860
+¿Recuerdas la primera vez
+que escuché esta canción?
+
+381
+00:25:03,468 --> 00:25:08,167
+<i># Puedes irte a los extremos #</i>
+
+382
+00:25:08,206 --> 00:25:10,697
+<i># con sueños imposibles #</i>
+
+383
+00:25:10,742 --> 00:25:13,040
+<i># Puedes reírte cuando tus sueños #</i>
+
+384
+00:25:14,579 --> 00:25:17,343
+<i># se esfuman #</i>
+
+385
+00:25:18,483 --> 00:25:21,111
+<i># Y la vida se torna más emocionante #</i>
+
+386
+00:25:21,152 --> 00:25:24,644
+<i># con cada día que pasa #</i>
+
+387
+00:25:44,876 --> 00:25:47,276
+Nunca en contra
+de los surcos, compañero.
+
+388
+00:25:47,312 --> 00:25:48,870
+Siempre con ellos.
+
+389
+00:25:51,650 --> 00:25:53,174
+Bien.
+
+390
+00:25:53,218 --> 00:25:54,549
+Gracias.
+
+391
+00:26:03,862 --> 00:26:06,330
+¿Escucha esto tío Gabe en el Cielo?
+
+392
+00:26:06,364 --> 00:26:07,956
+Eso espero.
+
+393
+00:26:07,999 --> 00:26:09,489
+¿Es por eso que la estamos escuchando?
+
+394
+00:26:09,534 --> 00:26:11,593
+Bueno, es el cumpleaños del tío Gabe...
+
+395
+00:26:11,636 --> 00:26:13,399
+...entonces es una parte de la razón.
+
+396
+00:26:13,438 --> 00:26:14,564
+¿Cuál es la otra parte?
+
+397
+00:26:14,606 --> 00:26:16,130
+Bueno, ésta era la canción
+favorita del tío Gabe...
+
+398
+00:26:16,174 --> 00:26:19,143
+...entonces cuando la escuchamos
+lo recordamos...
+
+399
+00:26:20,812 --> 00:26:22,279
+...como si estuviera aquí
+con nosotros...
+
+400
+00:26:22,314 --> 00:26:25,181
+...tocando su trompeta
+junto con Count Basie.
+
+401
+00:26:25,216 --> 00:26:27,207
+¿El Conde Basie muerde a la gente?
+
+402
+00:26:28,453 --> 00:26:30,148
+¿Por qué mordería a la gente?
+
+403
+00:26:30,188 --> 00:26:31,985
+Como el Conde Drácula.
+
+404
+00:26:32,023 --> 00:26:35,618
+No. No, no todos los condes
+son vampiros.
+
+405
+00:26:35,660 --> 00:26:37,753
+Un conde es como la realeza...
+
+406
+00:26:37,796 --> 00:26:39,195
+...alguien importante, ¿sabes?
+
+407
+00:26:39,230 --> 00:26:42,688
+Count Basie es un conde
+porque es un músico importante.
+
+408
+00:26:42,734 --> 00:26:45,703
+Como Duque Ellington es
+el duque de los directores de orquesta.
+
+409
+00:26:45,737 --> 00:26:48,706
+Count Basie es
+el conde del piano.
+
+410
+00:26:55,213 --> 00:26:57,681
+<i>Muy bien, estamos en medio
+de un bocadillo nocturno...</i>
+
+411
+00:26:57,716 --> 00:27:00,583
+<i>...con Los Beatles aquí en WDED...</i>
+
+412
+00:27:00,619 --> 00:27:03,486
+<i>...porque sabes que
+"Sólo Necesitas Amor."</i>
+
+413
+00:27:07,025 --> 00:27:08,925
+Mierda.
+
+414
+00:27:15,767 --> 00:27:17,598
+Gabriel, ¿esta es la canción?
+
+415
+00:27:24,876 --> 00:27:28,277
+<i># Amor, amor, amor #</i>
+
+416
+00:27:29,581 --> 00:27:32,106
+Adoro a Los Beatles.
+
+417
+00:27:32,150 --> 00:27:35,017
+"Magical Mystery Tour".
+
+418
+00:27:35,053 --> 00:27:37,214
+"Sólo Necesitas Amor."
+
+419
+00:27:37,255 --> 00:27:39,246
+Y "Sgt. Pepper's", también.
+
+420
+00:27:39,290 --> 00:27:41,383
+Ese es un álbum grandioso.
+
+421
+00:27:41,426 --> 00:27:42,757
+Sí, "Un Día en la Vida."
+
+422
+00:27:42,794 --> 00:27:45,627
+Esa explosión orquestal al final.
+
+423
+00:27:45,664 --> 00:27:47,791
+Vaya, qué loco, amigo.
+
+424
+00:27:47,832 --> 00:27:49,732
+<i># Nada que puedas cantar
+que no pueda ser cantado #</i>
+
+425
+00:27:49,768 --> 00:27:50,801
+Los adoro.
+
+426
+00:27:50,802 --> 00:27:53,134
+A Los Stones, también.
+
+427
+00:27:53,171 --> 00:27:54,263
+Sabes, y a Cream.
+
+428
+00:27:54,305 --> 00:27:56,273
+De hecho... los vi tocar una vez.
+
+429
+00:27:56,307 --> 00:27:57,341
+Jack Bruce...
+
+430
+00:27:57,342 --> 00:27:59,833
+...Ginger Baker... quiero decir,
+increíble baterista.
+
+431
+00:27:59,878 --> 00:28:03,041
+Eric Clapton en la guitarra.
+
+432
+00:28:04,115 --> 00:28:06,345
+No hay ya nada mejor que eso.
+
+433
+00:28:07,085 --> 00:28:08,143
+Y... ya sabes...
+
+434
+00:28:08,186 --> 00:28:10,677
+...nadie me transporta
+tanto como Los Dead.
+
+435
+00:28:10,722 --> 00:28:12,314
+No hay nadie como ellos.
+
+436
+00:28:12,357 --> 00:28:14,348
+Pigpen.
+
+437
+00:28:14,392 --> 00:28:16,360
+Lo adoro.
+
+438
+00:28:18,697 --> 00:28:20,255
+Gabriel...
+
+439
+00:28:22,233 --> 00:28:23,860
+¿Sabes por qué estás aquí
+en Woodhaven?
+
+440
+00:28:27,238 --> 00:28:28,899
+Porque no soy tan inteligente.
+
+441
+00:28:29,374 --> 00:28:31,501
+Yo creo que eres muy inteligente.
+
+442
+00:28:33,545 --> 00:28:35,809
+¿Puedes decirme dónde naciste?
+
+443
+00:28:35,847 --> 00:28:37,371
+White Plains, Nueva York.
+
+444
+00:28:37,415 --> 00:28:38,609
+Bien.
+
+445
+00:28:38,650 --> 00:28:40,208
+Bien.
+Y, ¿en qué año naciste?
+
+446
+00:28:41,219 --> 00:28:42,652
+1951.
+
+447
+00:28:42,687 --> 00:28:45,247
+Bien. Y...
+
+448
+00:28:45,290 --> 00:28:47,019
+¿Cuántos años tienes ahora?
+
+449
+00:28:47,992 --> 00:28:50,756
+Sabes, no pienso en la edad que tengo
+o cuál año es.
+
+450
+00:28:50,795 --> 00:28:51,887
+¿Sí?
+
+451
+00:28:51,930 --> 00:28:54,057
+Bueno, es una pregunta
+más o menos importante.
+
+452
+00:28:54,999 --> 00:28:56,193
+Esa es la cosa.
+
+453
+00:28:58,436 --> 00:29:01,667
+¿Puedes decirme
+quién es el Presidente?
+
+454
+00:29:01,706 --> 00:29:04,470
+Lyndon...
+al que le dispararon.
+
+455
+00:29:04,509 --> 00:29:06,067
+Ronald...
+
+456
+00:29:06,111 --> 00:29:07,908
+McDonald.
+
+457
+00:29:08,980 --> 00:29:10,208
+¿Qué? ¿Payaso equivocado?
+
+458
+00:29:11,783 --> 00:29:13,148
+Sí.
+
+459
+00:29:18,590 --> 00:29:20,387
+Muy bien.
+
+460
+00:29:22,727 --> 00:29:25,628
+Tratemos otra cosa.
+
+461
+00:29:25,663 --> 00:29:26,925
+Debo tenerla.
+
+462
+00:29:33,972 --> 00:29:35,496
+¿Funcionará?
+
+463
+00:29:46,251 --> 00:29:48,811
+"¿La Banda de Tio John?"
+
+464
+00:29:48,853 --> 00:29:50,218
+Es una buena canción.
+
+465
+00:29:52,090 --> 00:29:55,924
+Dios.
+Nadie me transporta como Los Dead.
+
+466
+00:29:55,960 --> 00:29:57,894
+Qué grupo.
+
+467
+00:29:57,929 --> 00:30:00,727
+Sabes, yo... yo casi los veo una vez.
+
+468
+00:30:00,765 --> 00:30:02,562
+¿Qué pasó?
+
+469
+00:30:05,036 --> 00:30:06,628
+No lo logramos.
+
+470
+00:30:07,639 --> 00:30:08,867
+¿Me quieres contar?
+
+471
+00:30:09,908 --> 00:30:12,502
+Bueno, papá no quiso
+que fuéramos.
+
+472
+00:30:12,544 --> 00:30:15,104
+Quería que fuera
+a la noche universitaria.
+
+473
+00:30:17,916 --> 00:30:19,611
+Lo lamento.
+
+474
+00:30:21,920 --> 00:30:23,888
+La cena es a las 7:00.
+
+475
+00:30:23,922 --> 00:30:25,856
+Sí, cada noche
+desde el nacimiento de Cristo.
+
+476
+00:30:25,890 --> 00:30:28,290
+Sólo disfrutemos nuestra cena.
+
+477
+00:30:28,326 --> 00:30:30,089
+Dije que lo lamento.
+Lo lamento.
+
+478
+00:30:36,935 --> 00:30:38,368
+Es fenomenal, mamá.
+
+479
+00:30:39,671 --> 00:30:41,502
+Gracias.
+
+480
+00:30:42,841 --> 00:30:44,502
+¿Pasa algo malo con la carne?
+
+481
+00:30:46,244 --> 00:30:49,077
+Bueno, aparte del hecho...
+
+482
+00:30:49,113 --> 00:30:51,411
+...que una vez fue una criatura
+de la naturaleza, inocente, viva...
+
+483
+00:30:51,449 --> 00:30:53,815
+...que se preocupaba de sus cosas...
+
+484
+00:30:53,852 --> 00:30:55,479
+...atrapada dentro de un matadero...
+
+485
+00:30:55,520 --> 00:30:58,785
+...decapitada, eviscerada,
+empacada y enviada al mercado...
+
+486
+00:30:58,823 --> 00:31:00,950
+...para que podamos adornar
+nuestro stroganoff...
+
+487
+00:31:00,992 --> 00:31:03,756
+...no, no hay nada de malo
+con la carne.
+
+488
+00:31:03,795 --> 00:31:06,093
+Señor, no puedo esperar
+hasta que pongas la mente...
+
+489
+00:31:06,130 --> 00:31:07,995
+...en algo útil en la universidad.
+
+490
+00:31:08,032 --> 00:31:09,260
+¿Te acuerdas de la universidad?
+
+491
+00:31:09,767 --> 00:31:11,325
+Es el lugar que va a educar a mi hijo...
+
+492
+00:31:11,369 --> 00:31:13,633
+...llevárselo y enviarlo de vuelta...
+
+493
+00:31:13,671 --> 00:31:15,332
+...para que adorne su vida...
+
+494
+00:31:15,373 --> 00:31:17,637
+...con una esposa y una familia
+y un trabajo decente.
+
+495
+00:31:17,675 --> 00:31:19,973
+Sí, sé lo que es
+la universidad, papá.
+
+496
+00:31:20,011 --> 00:31:22,343
+No estoy seguro que ese sea mi interés.
+
+497
+00:31:26,818 --> 00:31:28,342
+¿Qué es lo que quieres, Gabriel?
+
+498
+00:31:31,055 --> 00:31:33,990
+Quiero ir al Pueblo
+y tocar música.
+
+499
+00:31:37,228 --> 00:31:38,661
+Hijo, si no vas a la universidad...
+
+500
+00:31:38,696 --> 00:31:40,323
+...el único pueblo que verás...
+
+501
+00:31:40,365 --> 00:31:42,230
+...será con tejados de paja
+y sin tuberías...
+
+502
+00:31:42,267 --> 00:31:44,394
+...así, tendrás hasta el miércoles
+en la noche universitaria...
+
+503
+00:31:44,435 --> 00:31:45,732
+...para que ese sea tu interés.
+
+504
+00:31:45,770 --> 00:31:46,828
+No puedo ir.
+
+505
+00:31:46,871 --> 00:31:49,032
+Los Dead estarán toda esa noche
+en Stonybrook.
+
+506
+00:31:49,073 --> 00:31:50,335
+Esto no es una negociación.
+
+507
+00:31:50,375 --> 00:31:51,865
+No faltarás a la noche universitaria...
+
+508
+00:31:51,910 --> 00:31:53,844
+...especialmente para ver a
+una banda llamada Los Muertos...
+
+509
+00:31:53,878 --> 00:31:55,812
+Se llaman Los Grateful Dead, Pa.
+
+510
+00:31:55,847 --> 00:31:57,747
+Son Los Grateful Dead.
+
+511
+00:31:57,782 --> 00:31:59,545
+Sí. Pues, van a estar agradecidos de
+que estés escogiendo la universidad...
+
+512
+00:31:59,584 --> 00:32:02,951
+...en vez de perder tu tiempo
+en su convención de drogas.
+
+513
+00:32:11,195 --> 00:32:13,720
+El departamento de música
+ofrece cursos que varían...
+
+514
+00:32:13,765 --> 00:32:16,996
+...desde teoría e historia
+de la música a clases prácticas.
+
+515
+00:32:17,035 --> 00:32:18,662
+Hay un énfasis en desarrollar...
+
+516
+00:32:18,703 --> 00:32:21,900
+...las habilidades auditivas y
+de interpretación de cada alumno.
+
+517
+00:32:21,940 --> 00:32:23,229
+¿Gabriel?
+
+518
+00:32:24,275 --> 00:32:26,709
+¿Tienes alguna pregunta?
+
+519
+00:32:26,744 --> 00:32:27,778
+Sí.
+
+520
+00:32:27,779 --> 00:32:29,940
+¿Dónde queda el puesto de Princeton?
+
+521
+00:32:29,981 --> 00:32:31,846
+Al otro lado, a la par de Brown.
+
+522
+00:32:31,883 --> 00:32:33,441
+Genial.
+
+523
+00:32:33,484 --> 00:32:36,612
+Papá, voy a explorar.
+
+524
+00:32:48,833 --> 00:32:51,233
+<i># Magnolia de azúcar #</i>
+
+525
+00:32:51,269 --> 00:32:52,497
+¡Anda! ¡Súbete!
+
+526
+00:32:52,537 --> 00:32:54,664
+Gabe, ¡Muévete! ¡Muévete!
+
+527
+00:32:54,706 --> 00:32:57,903
+<i># Pues envuelto en la luz del sol #</i>
+
+528
+00:32:57,942 --> 00:32:59,375
+<i># Salga cantando #</i>
+
+529
+00:32:59,410 --> 00:33:01,640
+<i># Caminaré contigo en la luz del sol #</i>
+
+530
+00:33:01,679 --> 00:33:04,773
+<i># Anda cariño, y ven conmigo #</i>
+
+531
+00:33:20,932 --> 00:33:22,991
+Conseguiremos boletos
+la próxima, amigo.
+
+532
+00:33:26,004 --> 00:33:27,995
+No te preocupes por mi hermano.
+
+533
+00:33:28,039 --> 00:33:29,768
+Él puede con cualquier cosa.
+
+534
+00:33:37,815 --> 00:33:39,715
+Estoy bien, amigo.
+
+535
+00:33:39,751 --> 00:33:41,514
+112 no es un mal número.
+
+536
+00:33:41,552 --> 00:33:43,315
+Vietnam no me preocupa.
+
+537
+00:33:47,191 --> 00:33:48,351
+¿Está bien?
+
+538
+00:34:00,138 --> 00:34:01,605
+No, mierda.
+
+539
+00:34:27,231 --> 00:34:29,927
+Ni siquiera pudimos
+entrar al concierto.
+
+540
+00:34:29,967 --> 00:34:32,162
+No la vas a ver más...
+
+541
+00:34:32,203 --> 00:34:33,932
+...hasta que te organices.
+
+542
+00:34:33,971 --> 00:34:37,270
+<i># Algo está pasando aquí #</i>
+
+543
+00:34:37,308 --> 00:34:41,176
+<i># No está muy claro que será #</i>
+
+544
+00:34:42,847 --> 00:34:44,712
+<i>- # Hay un hombre # </i>
+- Bájale el volumen.
+
+545
+00:34:44,749 --> 00:34:46,649
+<i># Con un arma por allá #</i>
+
+546
+00:34:46,684 --> 00:34:47,717
+Tienes que acostarte a dormir.
+
+547
+00:34:47,718 --> 00:34:49,151
+<i># Diciéndome #</i>
+
+548
+00:34:52,623 --> 00:34:54,147
+No estoy cansado.
+
+549
+00:35:00,231 --> 00:35:02,222
+Te ves cansado.
+
+550
+00:35:07,305 --> 00:35:09,296
+Tu madre dijo...
+
+551
+00:35:09,340 --> 00:35:11,865
+...que tu banda va a tener
+un concierto el sábado.
+
+552
+00:35:13,511 --> 00:35:14,739
+Sí.
+
+553
+00:35:18,116 --> 00:35:19,743
+Pensé que podríamos ir.
+
+554
+00:35:19,784 --> 00:35:22,446
+<i># Para llevar a sus hijos a casa #</i>
+
+555
+00:35:51,282 --> 00:35:52,516
+¡Gabriel!
+
+556
+00:35:52,517 --> 00:35:54,485
+Almuerzo antes que el amor.
+
+557
+00:35:57,755 --> 00:35:59,814
+Crees que es atractiva, ¿verdad?
+
+558
+00:35:59,857 --> 00:36:01,848
+¿Qué?
+
+559
+00:36:01,893 --> 00:36:05,124
+La chica de la cafetería.
+¿Te gusta?
+
+560
+00:36:25,016 --> 00:36:26,305
+¿Puedo ayudarlo?
+
+561
+00:36:26,951 --> 00:36:28,646
+Hola. Soy Gabriel.
+
+562
+00:36:28,686 --> 00:36:30,916
+Hola, Gabriel. Soy Celia.
+
+563
+00:36:30,955 --> 00:36:34,948
+# Oh, Celia, rompes mi corazón #
+
+564
+00:36:34,992 --> 00:36:37,893
+# Agitas mi confianza a diario #
+
+565
+00:36:37,929 --> 00:36:39,863
+Esa es Ce-cilia.
+
+566
+00:36:39,897 --> 00:36:41,194
+# Todo es lo mis-mismo para mí #
+
+567
+00:36:46,170 --> 00:36:48,331
+¿Quiere tu pollo
+sin nada de piel?
+
+568
+00:36:48,372 --> 00:36:50,169
+Claro, seguro, Celia,
+Dame algo de piel.
+
+569
+00:36:50,208 --> 00:36:51,766
+¿Entonces lo quieres con piel?
+
+570
+00:36:52,777 --> 00:36:54,005
+- Claro.
+- Bien.
+
+571
+00:37:00,718 --> 00:37:01,742
+Aquí tienes.
+
+572
+00:37:09,961 --> 00:37:13,294
+¿Saben cómo cuando oyen una canción,
+y se enamoran de ella...
+
+573
+00:37:13,331 --> 00:37:16,459
+...y tal vez pasen años
+antes de que la vuelvan a escuchar...
+
+574
+00:37:16,500 --> 00:37:19,435
+...pero cuando sucede, instantáneamente
+los lleva de vuelta a ese momento...
+
+575
+00:37:19,470 --> 00:37:21,119
+...cuando se enamoraron de ella
+por primera vez...
+
+576
+00:37:21,120 --> 00:37:22,769
+...como si el tiempo no hubiera pasado?
+
+577
+00:37:22,907 --> 00:37:24,898
+Sí. De hecho, Gabriel y yo...
+
+578
+00:37:24,942 --> 00:37:27,536
+...solíamos jugar a que yo
+le preguntaba sobre alguna canción...
+
+579
+00:37:27,712 --> 00:37:30,374
+...y él me contaba la historia
+que le correspondía.
+
+580
+00:37:30,414 --> 00:37:31,904
+Por eso traje esa música aquí.
+
+581
+00:37:31,949 --> 00:37:33,883
+Esa es la música
+que solíamos escuchar.
+
+582
+00:37:33,918 --> 00:37:36,716
+Bueno, no es... no es
+la música que a él le gustaba...
+
+583
+00:37:36,754 --> 00:37:41,521
+...o al menos no es la música
+que resuena con él.
+
+584
+00:37:41,559 --> 00:37:45,017
+No creo que la pieza en la radio
+esa noche fuese "La Marsellesa".
+
+585
+00:37:45,062 --> 00:37:49,123
+Creo que era la canción de Los Beatles,
+"Sólo Necesitas Amor"...
+
+586
+00:37:49,166 --> 00:37:52,192
+...que usa "La Marsellesa"
+en la introducción.
+
+587
+00:37:52,236 --> 00:37:54,363
+Creo que esa era la canción que
+Gabriel estaba esperando...
+
+588
+00:37:54,405 --> 00:37:55,804
+...cuando le pusimos "La Marsellesa".
+
+589
+00:37:55,840 --> 00:37:58,832
+¿Qué pasó cuando le puso
+esa canción de Los Beatles?
+
+590
+00:37:58,876 --> 00:38:01,504
+Helen, si lo hubieras visto.
+
+591
+00:38:01,545 --> 00:38:05,914
+Estaba totalmente conectado.
+
+592
+00:38:05,950 --> 00:38:08,714
+Él estaba así como
+usted lo describió, Henry.
+
+593
+00:38:08,753 --> 00:38:09,786
+Estaba normal.
+
+594
+00:38:09,787 --> 00:38:11,482
+Y no era sólo por Los Beatles.
+
+595
+00:38:11,522 --> 00:38:14,958
+De hecho pude utilizar
+piezas musicales de ese período...
+
+596
+00:38:14,992 --> 00:38:18,393
+...para ubicar más específicamente
+la extensión de su amnesia.
+
+597
+00:38:18,429 --> 00:38:23,423
+Él recuerda canciones
+de 1964 a 1970 vívidamente.
+
+598
+00:38:23,467 --> 00:38:26,231
+Su memorización de canciones
+después de 1970...
+
+599
+00:38:26,270 --> 00:38:29,831
+...nos demuestra en qué momento
+su memoria comienza a decaer.
+
+600
+00:38:29,874 --> 00:38:31,535
+Él recuerda a
+todos los miembros fundadores...
+
+601
+00:38:31,575 --> 00:38:33,509
+...de Los Grateful Dead desde 1966...
+
+602
+00:38:33,544 --> 00:38:37,446
+...pero no sabe que
+Pigpen y Jimi Hendrix...
+
+603
+00:38:37,481 --> 00:38:39,949
+...y Janis Joplin están muertos.
+
+604
+00:38:41,218 --> 00:38:42,685
+Yo no sabía que ellos
+vivieron alguna vez...
+
+605
+00:38:42,686 --> 00:38:44,153
+...y no es porque sea anticuado.
+
+606
+00:38:44,188 --> 00:38:45,951
+Sí, pero para él...
+
+607
+00:38:45,990 --> 00:38:49,391
+...estos músicos
+son todos de enorme importancia.
+
+608
+00:38:49,427 --> 00:38:52,794
+Se conectan con él
+en un tiempo y lugar...
+
+609
+00:38:52,830 --> 00:38:55,355
+...en su tiempo y lugar
+cuando cumplió la mayoría de edad...
+
+610
+00:38:55,399 --> 00:38:57,799
+...al igual que su música
+lo hace por usted.
+
+611
+00:38:59,036 --> 00:39:00,833
+Mi música era su música.
+
+612
+00:39:01,505 --> 00:39:04,030
+Él solía escuchar
+esa música de niño.
+
+613
+00:39:04,075 --> 00:39:05,599
+Nunca le molestó.
+
+614
+00:39:05,643 --> 00:39:07,076
+No entiendo.
+
+615
+00:39:08,112 --> 00:39:10,774
+No lo entiendo.
+Él también amaba mi música.
+
+616
+00:39:15,186 --> 00:39:16,778
+Hola, Gabriel.
+
+617
+00:39:16,821 --> 00:39:19,016
+Es Dianne.
+
+618
+00:39:19,056 --> 00:39:21,251
+Dianne de Cheyenne.
+
+619
+00:39:22,360 --> 00:39:25,454
+De hecho, Gabriel,
+No vengo de Cheyenne.
+
+620
+00:39:25,496 --> 00:39:28,158
+Soy Dianne Daly
+vengo de Dedham, Massachusetts.
+
+621
+00:39:28,199 --> 00:39:29,666
+Ahí fue donde nací.
+
+622
+00:39:29,700 --> 00:39:31,759
+Dianne Daly, en vivo desde Dedham.
+
+623
+00:39:31,802 --> 00:39:34,202
+Eso es bueno.
+
+624
+00:39:34,705 --> 00:39:36,468
+Vamos a tener que tratar
+de recordar eso.
+
+625
+00:39:47,151 --> 00:39:50,143
+Amo a Los Dead.
+
+626
+00:39:50,187 --> 00:39:52,121
+"La banda de Tio John".
+
+627
+00:39:52,156 --> 00:39:54,681
+Es una de mis canciones favoritas.
+
+628
+00:39:56,360 --> 00:40:00,160
+Sabes, casi logré
+verlos tocar una vez.
+
+629
+00:40:00,197 --> 00:40:02,165
+¿Alguna vez tocaste
+una de sus canciones...
+
+630
+00:40:02,199 --> 00:40:03,996
+...como cuando tu banda
+tocó en la escuela?
+
+631
+00:40:04,034 --> 00:40:05,058
+No.
+
+632
+00:40:05,102 --> 00:40:08,629
+Me refiero, lo hubiéramos hecho,
+pero nunca lo hicimos.
+
+633
+00:40:08,672 --> 00:40:09,900
+Mi papá iba a venir.
+
+634
+00:40:09,940 --> 00:40:12,067
+Quería tocar "Ciudad Kansas" para él.
+
+635
+00:40:12,109 --> 00:40:15,306
+Era la canción favorita de su hermano.
+
+636
+00:40:15,346 --> 00:40:19,544
+# Todo lo quiere, hoy la juventud #
+
+637
+00:40:19,583 --> 00:40:22,211
+# En todo lo que piensan #
+
+638
+00:40:22,253 --> 00:40:24,813
+# es en el verano #
+
+639
+00:40:25,890 --> 00:40:28,859
+# Se trata del verano #
+
+640
+00:40:30,261 --> 00:40:32,525
+# Se trata del verano #
+
+641
+00:40:34,098 --> 00:40:36,658
+# Se trata del verano #
+
+642
+00:40:38,269 --> 00:40:40,362
+# Se trata del verano #
+
+643
+00:40:42,173 --> 00:40:45,370
+# Se trata del verano #
+
+644
+00:40:49,113 --> 00:40:50,146
+¡Te amamos, Gabe!
+
+645
+00:40:50,147 --> 00:40:51,842
+Hagan ruido para Las Ovejas Negras.
+
+646
+00:40:53,350 --> 00:40:54,510
+¡Ovejas Negras!
+
+647
+00:40:54,552 --> 00:40:55,610
+¡Ovejas Negras!
+
+648
+00:40:55,653 --> 00:40:57,746
+Director Isaacs,
+gracias por dejarnos...
+
+649
+00:40:57,788 --> 00:40:59,653
+...tener la asamblea aquí hoy.
+
+650
+00:41:01,892 --> 00:41:04,360
+Gente, siento que...
+
+651
+00:41:04,395 --> 00:41:08,354
+...con todo este amor
+y toda esta energía...
+
+652
+00:41:08,399 --> 00:41:10,299
+...¡vamos a detener
+la guerra en Vietnam!
+
+653
+00:41:11,402 --> 00:41:13,836
+Sí. ¡Sí!
+
+654
+00:41:13,871 --> 00:41:15,498
+Recuerden, hay una hoja de firmas...
+
+655
+00:41:15,539 --> 00:41:18,201
+...que pueden pasar
+para una protesta en la cuidad.
+
+656
+00:41:18,242 --> 00:41:20,710
+Firmen, por favor.
+
+657
+00:41:20,744 --> 00:41:22,644
+Necesitamos su ayuda.
+
+658
+00:41:22,680 --> 00:41:24,307
+Ahora, hermanos y hermanas,
+una vez más...
+
+659
+00:41:24,348 --> 00:41:27,613
+...por favor junten sus manos
+para ¡Las Ovejas Negras!
+
+660
+00:41:41,131 --> 00:41:44,999
+# Voy hacia Ciudad Kansas #
+
+661
+00:41:45,035 --> 00:41:47,401
+# Ciudad Kansas, aquí voy #
+
+662
+00:41:51,375 --> 00:41:54,401
+# Voy hacia Ciudad Kansas #
+
+663
+00:41:54,445 --> 00:41:58,245
+# Ciudad Kansas, aquí voy #
+
+664
+00:42:01,085 --> 00:42:04,054
+# Ahí tienen chicas preciosas #
+
+665
+00:42:04,088 --> 00:42:08,184
+# Y yo voy a conseguir una #
+
+666
+00:42:11,529 --> 00:42:12,655
+¡Oye!
+
+667
+00:42:12,696 --> 00:42:14,960
+¡Sí!
+
+668
+00:42:17,134 --> 00:42:19,227
+¡Sí!
+
+669
+00:42:19,270 --> 00:42:21,135
+¡Gabe!
+
+670
+00:42:21,171 --> 00:42:23,435
+¡Apágalo, Gabe!
+
+671
+00:42:23,474 --> 00:42:24,566
+Apágalo.
+
+672
+00:43:21,065 --> 00:43:22,396
+¿Qué le hiciste a mi cuarto?
+
+673
+00:43:24,969 --> 00:43:26,698
+Me escupiste.
+
+674
+00:43:28,205 --> 00:43:29,502
+Hoy me escupiste.
+
+675
+00:43:29,540 --> 00:43:30,973
+Hoy no se trataba de ti.
+
+676
+00:43:31,008 --> 00:43:32,168
+No son tus amigos...
+
+677
+00:43:32,209 --> 00:43:34,803
+...los que se fueron y están muriendo
+en una estúpida guerra.
+
+678
+00:43:34,845 --> 00:43:36,403
+Bueno, eso es brillante.
+
+679
+00:43:36,447 --> 00:43:38,415
+Entonces quemas la única cosa...
+
+680
+00:43:38,449 --> 00:43:39,515
+...que te da el derecho
+de demostrar eso.
+
+681
+00:43:39,516 --> 00:43:42,749
+Quemamos la bandera que están mandando
+a gente como yo allá.
+
+682
+00:43:43,754 --> 00:43:45,585
+¿Qué sabes tú
+de pelear en una guerra?
+
+683
+00:43:46,824 --> 00:43:49,019
+Yo peleé para defender esa bandera.
+
+684
+00:43:49,059 --> 00:43:51,118
+Tu tío Gabriel, tu tocayo...
+
+685
+00:43:52,162 --> 00:43:54,392
+...murió defendiendo esa bandera.
+
+686
+00:43:56,000 --> 00:43:57,627
+Él era gente como tú.
+
+687
+00:43:57,668 --> 00:44:00,330
+Él creía estar peleando
+por algo importante.
+
+688
+00:44:02,473 --> 00:44:05,636
+- ¿En qué crees?
+- No veo nada en qué creer.
+
+689
+00:44:07,544 --> 00:44:09,603
+Bueno, si no tienes
+nada de auto respeto...
+
+690
+00:44:09,647 --> 00:44:11,205
+Al menos muestra algo de respeto por él.
+
+691
+00:44:13,817 --> 00:44:15,182
+Deberías estar
+avergonzado de ti mismo.
+
+692
+00:44:15,219 --> 00:44:17,244
+¡Tú eres la única cosa
+de la que estoy avergonzado!
+
+693
+00:44:17,287 --> 00:44:18,754
+Gabriel.
+
+694
+00:44:19,790 --> 00:44:21,189
+¿Eso es así?
+
+695
+00:44:24,161 --> 00:44:25,992
+Bien.
+
+696
+00:44:26,030 --> 00:44:28,658
+¿Quieres quemar algo?
+
+697
+00:44:28,699 --> 00:44:29,732
+- Quema esto.
+- Papá.
+
+698
+00:44:29,733 --> 00:44:30,961
+Por favor, detén esto.
+
+699
+00:44:31,001 --> 00:44:32,298
+Quémalo. No, no, no.
+
+700
+00:44:32,336 --> 00:44:33,633
+Gabriel quiere quemar una bandera.
+
+701
+00:44:33,671 --> 00:44:35,730
+Tengo una aquí que
+creo debería quemar.
+
+702
+00:44:35,773 --> 00:44:36,797
+Me voy de aquí.
+
+703
+00:44:36,840 --> 00:44:38,330
+¡Quiero que quemes esto!
+
+704
+00:44:38,375 --> 00:44:39,399
+- Suficiente, Henry.
+- ¡Quémalo!
+
+705
+00:44:39,443 --> 00:44:40,637
+¡Vete al infierno!
+
+706
+00:44:50,387 --> 00:44:51,684
+Yo me largo.
+
+707
+00:44:52,289 --> 00:44:54,484
+Entonces no te molestes en volver.
+
+708
+00:44:54,525 --> 00:44:55,583
+¡Perfecto!
+
+709
+00:45:00,330 --> 00:45:03,458
+<i># Ven conmigo o vete sola #</i>
+
+710
+00:45:03,500 --> 00:45:07,698
+<i># Él ha venido a llevar
+a sus hijos a casa #</i>
+
+711
+00:45:14,044 --> 00:45:16,035
+¿Y ahí fue cuando
+te fuiste a Manhattan?
+
+712
+00:45:18,782 --> 00:45:21,376
+Sí. Al Pueblo. Sí.
+
+713
+00:45:25,656 --> 00:45:26,918
+No puedo ir contigo ahora.
+
+714
+00:45:26,957 --> 00:45:28,720
+Claro que puedes.
+
+715
+00:45:29,893 --> 00:45:31,360
+Mira, tú puedes.
+
+716
+00:45:31,395 --> 00:45:32,919
+Éste es nuestro sueño.
+
+717
+00:45:32,963 --> 00:45:35,261
+Gabe, te vas a graduar en pocos meses.
+
+718
+00:45:35,299 --> 00:45:38,325
+No falta nada. Entonces iremos.
+
+719
+00:45:38,368 --> 00:45:40,632
+No necesito un maldito diploma.
+
+720
+00:45:40,671 --> 00:45:42,298
+No lo necesito.
+
+721
+00:45:42,339 --> 00:45:44,705
+Es ahora. Ahora es el momento.
+
+722
+00:45:44,742 --> 00:45:46,607
+Éste... no hay nada
+para nosotros aquí.
+
+723
+00:45:46,643 --> 00:45:49,271
+Todo está allá,
+y nos lo vamos a perder.
+
+724
+00:45:49,313 --> 00:45:51,059
+Gabe, simplemente estás molesto...
+
+725
+00:45:51,060 --> 00:45:52,805
+...y nada más tienes
+que pensar en esto, Gabe.
+
+726
+00:45:52,850 --> 00:45:55,410
+Me refiero a que realmente
+tienes que pensar en esto.
+
+727
+00:46:00,324 --> 00:46:01,613
+Ven.
+
+728
+00:46:02,126 --> 00:46:03,415
+Por favor.
+
+729
+00:46:05,462 --> 00:46:06,486
+Por favor.
+
+730
+00:46:07,364 --> 00:46:08,991
+No puedo ir.
+
+731
+00:46:20,010 --> 00:46:21,034
+Yo sé.
+
+732
+00:46:24,248 --> 00:46:25,272
+Yo sé.
+
+733
+00:46:28,819 --> 00:46:31,344
+<i># Ven a escuchar
+a la Banda de Tio John #</i>
+
+734
+00:46:31,388 --> 00:46:34,118
+Eso debió haber sido difícil, Gabe.
+
+735
+00:46:36,693 --> 00:46:38,684
+¿Cuándo pasó esto?
+
+736
+00:46:38,729 --> 00:46:40,959
+No lo sé.
+Hace un par de años.
+
+737
+00:46:42,065 --> 00:46:43,828
+No importa...
+
+738
+00:46:43,867 --> 00:46:45,459
+...y no voy a regresar.
+
+739
+00:46:45,836 --> 00:46:49,033
+<i># Tocando para la marea #</i>
+
+740
+00:46:49,072 --> 00:46:52,235
+<i># Ven conmigo o vete sola #</i>
+
+741
+00:46:52,276 --> 00:46:53,971
+<i># Él ha llegado a llevar #</i>
+
+742
+00:46:57,181 --> 00:46:58,978
+Eso no fue lo que pasó.
+
+743
+00:46:59,016 --> 00:47:02,076
+Aquella noche,
+eso no fue lo que pasó.
+
+744
+00:47:02,119 --> 00:47:03,586
+No es importante.
+
+745
+00:47:03,620 --> 00:47:05,611
+Eso fue exactamente lo que pasó.
+
+746
+00:47:08,759 --> 00:47:14,129
+La memoria de Gabriel está como
+si hubiera sido preservada en un frasco.
+
+747
+00:47:14,665 --> 00:47:16,292
+Tenemos recuerdos intermediarios...
+
+748
+00:47:16,333 --> 00:47:21,066
+...y cada nuevo recuerdo colorea
+nuestra percepción de viejos recuerdos.
+
+749
+00:47:21,104 --> 00:47:22,901
+Gabriel no puede hacer eso.
+
+750
+00:47:23,607 --> 00:47:26,075
+No puede recordar que los ha visto...
+
+751
+00:47:26,109 --> 00:47:28,043
+...casi todos los días durante
+los últimos meses.
+
+752
+00:47:28,078 --> 00:47:31,343
+Siquiera puede recordar
+la conversación que acabamos de tener.
+
+753
+00:47:32,449 --> 00:47:34,940
+Te voy a contar algo
+de lo que me acuerdo.
+
+754
+00:47:34,985 --> 00:47:37,112
+Recuerdo a un pequeño niño...
+
+755
+00:47:37,654 --> 00:47:40,145
+...que iba a tenerlo todo...
+
+756
+00:47:41,792 --> 00:47:43,953
+...y recuerdo cómo esa música...
+
+757
+00:47:45,996 --> 00:47:49,454
+Mi hijo fue envenenado por esa basura
+con la que lo está llenando...
+
+758
+00:47:49,499 --> 00:47:51,467
+...y no hay suficientes
+recuerdos intermediarios...
+
+759
+00:47:51,501 --> 00:47:53,264
+...en el mundo
+que me ayuden a olvidar eso.
+
+760
+00:47:53,303 --> 00:47:55,487
+Está utilizando la música
+para devolverlo...
+
+761
+00:47:55,488 --> 00:47:57,672
+...a una época en la que
+él se vino abajo.
+
+762
+00:47:58,642 --> 00:48:00,109
+No quiero regresar a esa época.
+
+763
+00:48:00,143 --> 00:48:02,373
+Encontremos alguna música
+que pueda traerlo de vuelta...
+
+764
+00:48:02,412 --> 00:48:03,640
+...a una época en que todo estaba bien.
+
+765
+00:48:03,680 --> 00:48:05,580
+Henry, no funciona de esa manera.
+
+766
+00:48:05,983 --> 00:48:09,214
+Lo que necesitamos hacer ahora es
+encontrar la música que él amaba, y...
+
+767
+00:48:09,253 --> 00:48:13,087
+No, lo que necesitamos hacer ahora
+es lo que yo diga que necesitamos hacer.
+
+768
+00:48:13,123 --> 00:48:14,156
+Es mi hijo.
+
+769
+00:48:14,157 --> 00:48:16,148
+También es mi hijo.
+
+770
+00:48:18,328 --> 00:48:19,693
+Sí.
+
+771
+00:48:20,864 --> 00:48:22,058
+Por supuesto.
+
+772
+00:48:22,099 --> 00:48:23,964
+Nuestro hijo.
+
+773
+00:48:25,936 --> 00:48:29,030
+Y de parte de ambos...
+
+774
+00:48:29,072 --> 00:48:32,701
+...muchas gracias por su ayuda.
+
+775
+00:48:32,743 --> 00:48:34,768
+No la estaremos necesitando más.
+
+776
+00:48:40,550 --> 00:48:42,814
+Me disculpo por mi esposo.
+
+777
+00:48:44,655 --> 00:48:47,749
+Creo que usted y Gabriel
+han hecho un gran trabajo...
+
+778
+00:48:47,791 --> 00:48:49,782
+...y quiero que continúe.
+
+779
+00:48:52,062 --> 00:48:53,086
+Gracias.
+
+780
+00:49:08,245 --> 00:49:09,245
+¿Qué estás haciendo?
+
+781
+00:49:09,246 --> 00:49:11,407
+Durmiendo en el cuarto de Gabriel.
+
+782
+00:49:11,448 --> 00:49:15,509
+No puedo compartir más una cama contigo,
+no después de lo que pasó hoy.
+
+783
+00:49:15,552 --> 00:49:17,179
+¿Por qué estás enojada conmigo?
+
+784
+00:49:17,220 --> 00:49:20,519
+No estoy enojada contigo.
+Estoy enojada conmigo.
+
+785
+00:49:21,792 --> 00:49:25,125
+Gabriel no es el único
+que lo recuerda así.
+
+786
+00:49:25,162 --> 00:49:28,131
+Recuerdo esa noche
+exactamente de la misma manera...
+
+787
+00:49:28,165 --> 00:49:31,601
+...porque todos los días,
+lo reproduzco en mi cabeza...
+
+788
+00:49:31,635 --> 00:49:34,126
+...y busco en algún lugar
+en el que pude haber dicho algo.
+
+789
+00:49:34,171 --> 00:49:36,833
+Que pudo haber cambiado todo esto.
+
+790
+00:49:36,873 --> 00:49:39,000
+Yo sé...
+
+791
+00:49:39,042 --> 00:49:43,672
+Sé que hay algo que pude haber dicho
+para hacerlo quedarse.
+
+792
+00:49:43,714 --> 00:49:46,979
+Entonces no se hubiera ido
+durante todos esos años...
+
+793
+00:49:47,017 --> 00:49:50,544
+...y no lo hubiéramos encontrado
+así, y no estaría enfermo.
+
+794
+00:49:53,757 --> 00:49:57,158
+¿Qué importa cuál estúpida música
+nos devuelve a nuestro hijo?
+
+795
+00:49:57,194 --> 00:49:59,856
+Su música. Tú música.
+¿A quién le importa?
+
+796
+00:49:59,896 --> 00:50:01,420
+Eres tan obstinado.
+
+797
+00:50:02,199 --> 00:50:05,259
+¿De dónde crees que Gabriel aprendió
+a conmoverse tanto por su música?
+
+798
+00:50:05,302 --> 00:50:07,167
+¿Es acaso un gran misterio?
+
+799
+00:50:07,204 --> 00:50:10,332
+Siempre estás hablando sobre
+lo que tu música te hace recordar...
+
+800
+00:50:10,374 --> 00:50:14,504
+...como si fueras el único que tiene
+recuerdos que valen la pena revivir.
+
+801
+00:50:16,313 --> 00:50:19,646
+¿Sabes a qué me recuerdan
+esas canciones?
+
+802
+00:50:19,683 --> 00:50:22,948
+Me recuerdan al hombre
+que me las presentó.
+
+803
+00:50:24,287 --> 00:50:26,778
+¿Qué pasó con él?
+
+804
+00:50:58,321 --> 00:51:01,757
+<i># Alguna vez estuvo #</i>
+
+805
+00:51:01,792 --> 00:51:05,125
+<i># en mis brazos #</i>
+
+806
+00:51:05,162 --> 00:51:07,221
+<i># Ella dijo que siempre #</i>
+
+807
+00:51:07,264 --> 00:51:10,256
+<i># se quedaría #</i>
+
+808
+00:51:11,501 --> 00:51:13,366
+<i># Pero fui cruel #</i>
+
+809
+00:51:13,403 --> 00:51:16,861
+<i># Le engañé #</i>
+
+810
+00:51:19,910 --> 00:51:21,741
+<i># Todo lo desperdicié #</i>
+
+811
+00:51:25,215 --> 00:51:27,410
+<i># Alguna vez tuve las montañas #</i>
+
+812
+00:51:27,451 --> 00:51:31,182
+<i># en las palmas de mis manos #</i>
+
+813
+00:51:31,221 --> 00:51:33,086
+<i># y los ríos que corrían a través #</i>
+
+814
+00:51:34,825 --> 00:51:37,385
+Estos son viejos.
+
+815
+00:51:37,427 --> 00:51:40,225
+Sí.
+
+816
+00:51:40,263 --> 00:51:44,131
+Apuesto que podría darle 2,5
+por estos...
+
+817
+00:51:44,167 --> 00:51:45,395
+...si están en buena condición.
+
+818
+00:51:46,436 --> 00:51:47,528
+Están intactos.
+
+819
+00:51:51,241 --> 00:51:55,541
+Está bien, sólo cámbieme estos
+por todo lo que tenga después de...
+
+820
+00:51:55,812 --> 00:52:00,249
+...1958 que sea... ruidoso.
+
+821
+00:52:00,984 --> 00:52:04,215
+¿Podría ser más específico?
+
+822
+00:52:04,254 --> 00:52:06,984
+<i># Me gusta soñar #</i>
+
+823
+00:52:07,023 --> 00:52:08,581
+<i># Sí, sí #</i>
+
+824
+00:52:08,625 --> 00:52:12,925
+<i># Estoy loco por el azafrán #</i>
+
+825
+00:52:12,963 --> 00:52:16,364
+<i># Oh, el azafrán está loco por mí #</i>
+
+826
+00:52:18,635 --> 00:52:22,230
+<i># Llegué hasta las cruces de camino #</i>
+
+827
+00:52:22,272 --> 00:52:23,739
+<i># Caí de rodillas #</i>
+
+828
+00:52:23,773 --> 00:52:26,435
+<i># Llegaré al punto #</i>
+
+829
+00:52:26,476 --> 00:52:30,310
+<i># en que ya no soy divertido #</i>
+
+830
+00:52:30,347 --> 00:52:33,942
+<i># Porque solía amarla #</i>
+
+831
+00:52:33,984 --> 00:52:36,919
+<i># pero ya todo se acabó #</i>
+
+832
+00:52:39,022 --> 00:52:41,490
+<i># Voy por el camino #</i>
+
+833
+00:52:41,525 --> 00:52:42,890
+<i># sintiéndome mal #</i>
+
+834
+00:52:44,995 --> 00:52:46,929
+<i># Voy por el camino #</i>
+
+835
+00:52:46,963 --> 00:52:48,260
+<i># sintiéndome mal #</i>
+
+836
+00:52:48,298 --> 00:52:50,289
+<i># Hey, hey, hey #</i>
+
+837
+00:52:50,333 --> 00:52:53,860
+<i># No quiero se tratado de esta manera #</i>
+
+838
+00:52:57,240 --> 00:53:00,232
+Traje alguna música
+para que escuchemos.
+
+839
+00:53:18,495 --> 00:53:23,228
+<i># Están vendiendo postales
+del ahorcamiento #</i>
+
+840
+00:53:23,266 --> 00:53:26,861
+<i># Están pintando
+los pasaportes de café #</i>
+
+841
+00:53:26,903 --> 00:53:28,632
+¿Sabes qué canción es esa?
+
+842
+00:53:29,806 --> 00:53:31,433
+No tengo idea.
+
+843
+00:53:31,474 --> 00:53:33,442
+"Callejón de Desolación"
+
+844
+00:53:33,476 --> 00:53:36,934
+Gran canción, increíble letra.
+
+845
+00:53:36,980 --> 00:53:39,141
+"Están vendiendo postales
+del ahorcamiento".
+
+846
+00:53:41,885 --> 00:53:44,376
+¿Sabes cuál fue la primera vez
+que escuché esta canción?
+
+847
+00:53:46,456 --> 00:53:48,822
+No, Gabriel. Dime.
+
+848
+00:53:48,858 --> 00:53:50,985
+La primera vez
+que escuché esta canción...
+
+849
+00:53:51,027 --> 00:53:53,325
+Fue, no sé,
+tal vez hace un par de veranos.
+
+850
+00:53:53,363 --> 00:53:55,831
+Acababa de comprar "Carretera 61".
+
+851
+00:53:56,666 --> 00:53:58,600
+Tú y mamá estaban abajo...
+
+852
+00:53:58,635 --> 00:54:01,263
+Y, sabes,
+ella había hecho repollo relleno...
+
+853
+00:54:01,304 --> 00:54:03,602
+El olor se sentía por toda la casa.
+
+854
+00:54:03,640 --> 00:54:04,698
+¿Te acuerdas? Tú...
+
+855
+00:54:04,741 --> 00:54:06,709
+...pusiste la leche en el congelador...
+
+856
+00:54:06,743 --> 00:54:08,370
+...entonces ella se enojó contigo...
+
+857
+00:54:08,411 --> 00:54:11,175
+...y tú te enojaste conmigo
+porque llegué tarde para la cena...
+
+858
+00:54:11,214 --> 00:54:14,149
+...pero acababa de comprar este álbum.
+
+859
+00:54:14,184 --> 00:54:16,414
+Estaba como loco escuchándolo.
+
+860
+00:54:16,453 --> 00:54:18,921
+Ese disco me habló.
+
+861
+00:54:18,955 --> 00:54:22,823
+O sea, toda...
+toda la locura, ¿sabes?
+
+862
+00:54:22,859 --> 00:54:24,884
+Todas... todas las posibilidades.
+
+863
+00:54:24,928 --> 00:54:27,522
+Es como cuando pongo mis manos
+en el cuello de una guitarra.
+
+864
+00:54:28,431 --> 00:54:31,594
+Puedes ver cosas que
+normalmente no podrías ver.
+
+865
+00:54:31,635 --> 00:54:34,695
+<i># Y el único sonido que queda #</i>
+
+866
+00:54:34,738 --> 00:54:35,762
+Eso es genial, Gabe.
+
+867
+00:54:35,805 --> 00:54:39,866
+<i># Después de haberse ido
+las ambulancias #</i>
+
+868
+00:54:39,909 --> 00:54:45,074
+<i># es el sonido de cenicienta barriendo #</i>
+
+869
+00:54:45,115 --> 00:54:48,278
+- "Callejón de Desolación".
+<i># - Callejón de la Desolación #</i>
+
+870
+00:54:48,318 --> 00:54:49,785
+¿Qué es eso?
+
+871
+00:54:49,819 --> 00:54:52,384
+Dylan estaba escribiendo
+sobre un linchamiento...
+
+872
+00:54:52,385 --> 00:54:54,950
+...que pasó después de un circo.
+
+873
+00:54:54,991 --> 00:54:57,289
+Y "Están vendiendo postales
+del ahorcamiento."
+
+874
+00:54:58,061 --> 00:54:59,221
+La ofensiva del Tet estaba en Cronkite.
+
+875
+00:54:59,262 --> 00:55:00,786
+Yo lo estaba escuchando.
+
+876
+00:55:00,830 --> 00:55:02,923
+Y el periódico Times estaba...
+mostrando aquella foto...
+
+877
+00:55:02,966 --> 00:55:06,663
+...del oficial vietnamita que
+estaba ejecutando a un prisionero.
+
+878
+00:55:06,703 --> 00:55:08,432
+Es... es sicótico.
+
+879
+00:55:08,471 --> 00:55:10,439
+Es... es sicodélico.
+
+880
+00:55:10,473 --> 00:55:12,634
+Es loco, ¿sabes?
+
+881
+00:55:12,676 --> 00:55:15,406
+O sea, esto es un circo.
+
+882
+00:55:15,445 --> 00:55:19,973
+<i># Y el jorobado de Notre Dame #</i>
+
+883
+00:55:20,016 --> 00:55:24,112
+<i># Todo el mundo está haciendo el amor #</i>
+
+884
+00:55:24,154 --> 00:55:28,557
+<i># Si no, esperando a que llueva #</i>
+
+885
+00:55:28,591 --> 00:55:32,721
+<i># Y el Buen Samaritano,
+se está vistiendo #</i>
+
+886
+00:55:32,762 --> 00:55:37,529
+<i># preparándose para el espectáculo #</i>
+
+887
+00:55:37,567 --> 00:55:41,901
+<i># Va para el carnaval esta noche #</i>
+
+888
+00:55:41,938 --> 00:55:45,499
+<i># en Callejón de Desolación #</i>
+
+889
+00:55:55,985 --> 00:55:57,316
+Debería irme.
+
+890
+00:55:57,354 --> 00:55:59,015
+Sí, la cena es a las 7:00.
+
+891
+00:56:03,426 --> 00:56:05,053
+Calla, bebé.
+
+892
+00:56:05,862 --> 00:56:07,659
+Quédate muy callado.
+
+893
+00:56:07,697 --> 00:56:11,098
+Si te portas mal te dará rabia
+Y tendrás que ser vacunado.
+
+894
+00:56:12,502 --> 00:56:14,470
+Calla, bebé.
+Quédate muy callado.
+
+895
+00:56:14,504 --> 00:56:17,473
+Si te portas mal te dará rabia
+Y tendrás que ser vacunado.
+
+896
+00:56:17,507 --> 00:56:18,540
+Bien.
+
+897
+00:56:18,541 --> 00:56:20,668
+Es horripilante.
+
+898
+00:56:20,710 --> 00:56:22,905
+Es como algo de Edgar Allan Poe.
+
+899
+00:56:22,946 --> 00:56:25,107
+¿Te gusta Edgar Allan Poe?
+
+900
+00:56:27,217 --> 00:56:28,309
+Me gusta "El Cuervo".
+
+901
+00:56:28,351 --> 00:56:29,385
+A mí también.
+
+902
+00:56:29,386 --> 00:56:32,355
+Ahora, ¿puedes repetir la rima?
+
+903
+00:56:36,393 --> 00:56:38,623
+- No.
+- Está bien.
+
+904
+00:56:42,198 --> 00:56:43,392
+Hazlo conmigo.
+
+905
+00:56:43,433 --> 00:56:44,832
+Calla...
+
+906
+00:56:44,868 --> 00:56:48,235
+- ...bebé.
+- Calla, bebé.
+
+907
+00:56:48,271 --> 00:56:51,206
+Quédate muy callado.
+
+908
+00:56:51,241 --> 00:56:54,267
+Si te portas mal te dará rabia...
+
+909
+00:56:54,310 --> 00:56:57,575
+...y tendrás que ser vacunado.
+
+910
+00:56:57,614 --> 00:56:58,706
+Hazlo de nuevo.
+
+911
+00:57:01,518 --> 00:57:04,351
+Calla, bebé.
+
+912
+00:57:05,388 --> 00:57:07,356
+Quédate muy callado.
+
+913
+00:57:08,558 --> 00:57:10,992
+Si te portas mal te dará rabia...
+
+914
+00:57:11,728 --> 00:57:13,753
+...y tendrás que ser vacunado.
+
+915
+00:57:16,466 --> 00:57:18,457
+Muy bien.
+
+916
+00:57:18,501 --> 00:57:19,593
+Hola, Celia.
+
+917
+00:57:19,636 --> 00:57:21,729
+Voy a comer macarrones y vegetales...
+
+918
+00:57:21,771 --> 00:57:23,705
+...y voy a comer gelatina.
+
+919
+00:57:23,740 --> 00:57:25,037
+Gabriel, ¿qué vas a comer?
+
+920
+00:57:26,476 --> 00:57:28,410
+¿Gabriel?
+
+921
+00:57:29,846 --> 00:57:30,879
+Hola.
+
+922
+00:57:30,880 --> 00:57:33,371
+Hola. Soy Gabriel.
+
+923
+00:57:33,416 --> 00:57:34,906
+Me acuerdo.
+
+924
+00:57:34,951 --> 00:57:36,680
+Soy Celia.
+
+925
+00:57:36,719 --> 00:57:38,710
+# Cecilia #
+
+926
+00:57:38,755 --> 00:57:40,279
+# Rompes mi corazón #
+
+927
+00:57:42,325 --> 00:57:44,759
+Siempre me dice lo mismo.
+
+928
+00:57:44,794 --> 00:57:45,828
+Perdón.
+
+929
+00:57:45,829 --> 00:57:47,820
+No me acuerdo muy bien de las cosas.
+
+930
+00:57:51,100 --> 00:57:52,567
+4 ABRIL, 1986
+<i># Vagabundeando #</i>
+
+931
+00:57:52,602 --> 00:57:54,467
+<i># Cambié mis fichas por dinero #</i>
+
+932
+00:57:54,504 --> 00:57:56,335
+PAPÁ VIENE TODOS LOS DÍAS
+A LAS 10:00 A.M.
+
+933
+00:57:56,372 --> 00:57:58,397
+TENÍAS UN TUMOR CEREBRAL,
+PERO FUE REMOVIDO.
+
+934
+00:57:58,441 --> 00:57:59,931
+Y AHORA ESTÁS BIEN.
+<i># Juntos #</i>
+
+935
+00:57:59,976 --> 00:58:02,467
+<i># más o menos en línea #</i>
+
+936
+00:58:02,512 --> 00:58:07,415
+<i># sólo seguimos vagabundeando #</i>
+
+937
+00:58:11,321 --> 00:58:13,289
+Amo a Los Dead.
+
+938
+00:58:13,323 --> 00:58:15,382
+Son ciertamente mi banda favorita.
+
+939
+00:58:15,425 --> 00:58:16,949
+<i># Anuncios luminosos
+en la calle principal #</i>
+
+940
+00:58:16,993 --> 00:58:18,191
+¿Sabes cuál canción es?
+
+941
+00:58:22,165 --> 00:58:24,725
+Lo siento.
+Gracias por participar.
+
+942
+00:58:24,767 --> 00:58:26,064
+Se llama "Vagabundeando".
+
+943
+00:58:26,102 --> 00:58:27,899
+<i># Detente y espera por mañana #</i>
+
+944
+00:58:27,937 --> 00:58:29,454
+Supongo que soy un poco anticuado.
+
+945
+00:58:30,039 --> 00:58:32,439
+<i># Dallas, tiene una máquina suave #</i>
+
+946
+00:58:32,475 --> 00:58:34,102
+Quizás un perfecto anticuado.
+
+947
+00:58:34,143 --> 00:58:35,838
+Perdón. Estoy un poco perdido.
+
+948
+00:58:37,347 --> 00:58:41,443
+En mi música, a un chico
+le gusta una chica, y se lo dice.
+
+949
+00:58:41,484 --> 00:58:44,942
+Él dice, "Eres la promesa de un beso
+de primavera...
+
+950
+00:58:44,988 --> 00:58:47,855
+...que hace al solitario invierno
+parecer eterno."
+
+951
+00:58:47,891 --> 00:58:50,121
+Son palabras sencillas
+hasta donde yo sé.
+
+952
+00:58:50,159 --> 00:58:51,524
+Esto es...
+Yo que sé.
+
+953
+00:58:51,561 --> 00:58:53,051
+¿Caminando?
+¿Qué es eso?
+
+954
+00:58:53,096 --> 00:58:54,290
+<i># La mayoría de los chicos
+que conoces en la calle #</i>
+
+955
+00:58:54,330 --> 00:58:55,763
+<i># Hablan de amor verdadero #</i>
+
+956
+00:58:55,798 --> 00:58:59,598
+Bueno, Los Dead crecieron de gira...
+
+957
+00:58:59,636 --> 00:59:02,799
+...viajando de lugar a lugar...
+
+958
+00:59:02,839 --> 00:59:04,204
+...tomando un camino después del otro.
+
+959
+00:59:04,240 --> 00:59:06,003
+Y lo que quiero decir es,
+estando de gira...
+
+960
+00:59:06,042 --> 00:59:07,942
+...nunca sabes realmente adónde vas...
+
+961
+00:59:07,977 --> 00:59:09,410
+...o que va a pasar cuando llegues...
+
+962
+00:59:09,445 --> 00:59:12,471
+...entonces simplemente vives el viaje.
+
+963
+00:59:13,283 --> 00:59:16,309
+Y cada uno de los días
+es una aventura distinta.
+
+964
+00:59:16,352 --> 00:59:20,220
+Sabes, el...
+el viaje es el destino.
+
+965
+00:59:22,926 --> 00:59:24,450
+¿Y eso es lo que significa?
+
+966
+00:59:25,161 --> 00:59:27,823
+Eso es lo que significa
+cuando estás drogado.
+
+967
+00:59:29,899 --> 00:59:31,196
+Creo que eso es lo que significa.
+
+968
+00:59:31,234 --> 00:59:34,897
+<i># A veces la luz brilla
+sobre todo mi ser #</i>
+
+969
+00:59:36,706 --> 00:59:38,333
+Escuchemos otra.
+
+970
+00:59:38,374 --> 00:59:40,706
+<i># A veces, apenas puedo-- #</i>
+
+971
+00:59:47,684 --> 00:59:51,984
+Gabriel, sólo quería que supieras
+lo mucho que estoy disfrutando esto.
+
+972
+00:59:52,021 --> 00:59:54,649
+Gracias por explicarme todo eso.
+
+973
+00:59:54,691 --> 00:59:57,319
+¿Qué cosa?
+
+974
+01:00:01,731 --> 01:00:03,460
+Bien. Ahora
+tratemos algo distinto.
+
+975
+01:00:04,033 --> 01:00:05,500
+Devolvámonos a la rima horripilante.
+
+976
+01:00:05,535 --> 01:00:06,568
+No me la sé.
+
+977
+01:00:06,569 --> 01:00:08,036
+Sólo intenta recordarla
+dando toquecitos.
+
+978
+01:00:09,138 --> 01:00:10,366
+Sólo intenta.
+
+979
+01:00:17,146 --> 01:00:18,841
+Muy bien, continúa.
+Continúa.
+
+980
+01:00:18,881 --> 01:00:21,281
+Continúa.
+Voy a hacerlo contigo.
+
+981
+01:00:32,261 --> 01:00:33,550
+De nuevo.
+
+982
+01:00:38,301 --> 01:00:42,101
+# Si te portas mal te dará rabia
+y tendrás que ser vacunado. #
+
+983
+01:00:42,138 --> 01:00:44,197
+Muy bien, ahora...
+
+984
+01:00:44,240 --> 01:00:47,209
+# Oh, Celia #
+
+985
+01:00:47,243 --> 01:00:49,803
+# trabaja en el café #
+
+986
+01:00:50,213 --> 01:00:54,274
+# ¿Cómo estás hoy? Oh, Celia #
+
+987
+01:00:55,918 --> 01:00:58,512
+# Oh, Celia #
+
+988
+01:00:58,554 --> 01:01:01,421
+# trabaja en el café #
+
+989
+01:01:01,457 --> 01:01:03,755
+# ¿Cómo estás hoy? #
+
+990
+01:01:03,793 --> 01:01:05,385
+# Oh, Celia #
+
+991
+01:01:05,595 --> 01:01:07,586
+¿Se siente bien?
+
+992
+01:01:07,730 --> 01:01:10,358
+# Oh, Celia #
+
+993
+01:01:10,400 --> 01:01:12,368
+# trabaja en el café #
+
+994
+01:01:12,402 --> 01:01:15,428
+# ¿Cómo estás hoy? Oh, Celia #
+
+995
+01:01:15,471 --> 01:01:17,496
+<i>Eso termina toda una lista de música.</i>
+
+996
+01:01:17,540 --> 01:01:19,605
+<i>Puedes ganar un par de boletos
+para ver...</i>
+
+997
+01:01:19,606 --> 01:01:21,670
+<i>...a uno de estos destacados artistas
+de WDED.</i>
+
+998
+01:01:21,711 --> 01:01:24,475
+<i>WDED te estará regalando
+asientos frontales y centrales...</i>
+
+999
+01:01:24,514 --> 01:01:26,482
+<i>...para uno de estos
+conciertos agotados...</i>
+
+1000
+01:01:26,516 --> 01:01:30,077
+<i>Los Grateful Dead,
+Bruce Springsteen y Bon Jovi.</i>
+
+1001
+01:01:30,119 --> 01:01:32,815
+<i>Se el primero en llamar para responder
+una pregunta mensual...</i>
+
+1002
+01:01:32,855 --> 01:01:35,119
+<i>...sobre el grupo que quieres ver.</i>
+
+1003
+01:01:35,158 --> 01:01:37,820
+<i>Acierta, tú y un acompañante
+estarán de camino.</i>
+
+1004
+01:01:37,860 --> 01:01:43,196
+<i>Así que escucha a tu artista favorito
+y llama 234-9462.</i>
+
+1005
+01:01:43,232 --> 01:01:46,201
+<i>El número es 234-9462.</i>
+
+1006
+01:01:46,235 --> 01:01:49,432
+<i>Porque está sucediendo en este momento.</i>
+
+1007
+01:01:49,472 --> 01:01:52,373
+Por Dios,
+¿Qué estás haciendo?
+
+1008
+01:02:05,455 --> 01:02:07,719
+<i>- # Algo está pasando aquí #</i>
+- Vaya, hombre...
+
+1009
+01:02:07,757 --> 01:02:10,089
+Me encanta esta canción.
+
+1010
+01:02:10,126 --> 01:02:11,787
+¿Sabes cuál es esa canción?
+
+1011
+01:02:11,828 --> 01:02:15,161
+"Por Lo Que Valga"
+de Buffalo Springfield.
+
+1012
+01:02:16,432 --> 01:02:18,093
+Excelente, Papá.
+
+1013
+01:02:19,469 --> 01:02:23,166
+<i># Diciéndome que debo tener cuidado #</i>
+
+1014
+01:02:23,206 --> 01:02:26,369
+<i># Es hora de parar, niños,
+¿qué es ese sonido? #</i>
+
+1015
+01:02:27,043 --> 01:02:28,601
+Recuerdo la última vez
+que escuché esta canción.
+
+1016
+01:02:29,946 --> 01:02:31,311
+¿Cuándo, Gabriel?
+
+1017
+01:02:34,417 --> 01:02:37,614
+Nos acabábamos de enterar
+que Mark había sido reclutado.
+
+1018
+01:02:40,456 --> 01:02:42,651
+Estaba tan enojado.
+
+1019
+01:02:44,327 --> 01:02:47,626
+Subí a mi cuarto y puse esta canción.
+
+1020
+01:02:47,663 --> 01:02:52,123
+Sabes, me hizo sentir
+como que alguien entendía.
+
+1021
+01:02:53,569 --> 01:02:55,730
+Después me pediste
+que bajara el volumen.
+
+1022
+01:02:58,241 --> 01:03:00,732
+<i># Hora de parar, hey,
+¿qué es ese sonido? #</i>
+
+1023
+01:03:01,344 --> 01:03:03,471
+Fue al mismo tiempo
+que entraste a decirme...
+
+1024
+01:03:03,513 --> 01:03:05,378
+...que ibas a ir a escucharme
+tocar a la escuela.
+
+1025
+01:03:07,917 --> 01:03:10,044
+Qué locura.
+
+1026
+01:03:13,923 --> 01:03:16,585
+<i># Qué día campo caluroso #</i>
+
+1027
+01:03:18,427 --> 01:03:21,828
+Sabes, yo no sabía que Mark
+había recibido la carta ese día.
+
+1028
+01:03:21,864 --> 01:03:23,058
+No me contaste.
+
+1029
+01:03:23,099 --> 01:03:25,067
+¿En qué momento te iba a contar?
+
+1030
+01:03:27,370 --> 01:03:31,466
+<i># La mayoría dicen ¡hurra!
+De nuestro lado #</i>
+
+1031
+01:03:31,507 --> 01:03:35,204
+<i># Es hora de parar, hey,
+¿qué es ese sonido? #</i>
+
+1032
+01:03:35,244 --> 01:03:36,802
+¿Por cierto, cómo está él?
+
+1033
+01:03:37,413 --> 01:03:38,702
+¿Está bien?
+
+1034
+01:03:39,348 --> 01:03:41,213
+¿Alguien ha escuchado algo de él?
+
+1035
+01:03:41,818 --> 01:03:43,479
+Se murió, Gabriel...
+
+1036
+01:03:44,153 --> 01:03:45,643
+...en Vietnam.
+
+1037
+01:03:47,957 --> 01:03:49,584
+Lo siento.
+
+1038
+01:03:49,625 --> 01:03:52,924
+Dios, es ese imbécil de Nixon...
+
+1039
+01:03:52,962 --> 01:03:55,522
+¿Por qué la gente no puede ver eso?
+
+1040
+01:03:55,565 --> 01:03:58,432
+Sabes, sí la gente abriera
+los ojos por un segundo...
+
+1041
+01:03:58,467 --> 01:04:00,992
+...verían lo hijo de puta
+que es ese tipo.
+
+1042
+01:04:01,037 --> 01:04:04,006
+Nixon ya no es el
+presidente, Gabriel.
+
+1043
+01:04:04,040 --> 01:04:05,974
+Tuvo que renunciar.
+
+1044
+01:04:06,008 --> 01:04:08,306
+Lo agarraron mintiéndole al país.
+
+1045
+01:04:08,978 --> 01:04:11,003
+Ves, ¡lo sabía!
+
+1046
+01:04:11,047 --> 01:04:12,480
+¡Te lo dije!
+
+1047
+01:04:13,816 --> 01:04:15,105
+Sí.
+
+1048
+01:04:15,885 --> 01:04:17,409
+Tenías razón.
+
+1049
+01:04:17,453 --> 01:04:18,681
+<i># ¿Qué es ese sonido? #</i>
+
+1050
+01:04:18,721 --> 01:04:20,018
+<i># Miren todos lo que está pasando #</i>
+
+1051
+01:04:20,056 --> 01:04:21,284
+¿De verdad?
+
+1052
+01:04:21,324 --> 01:04:23,155
+<i># Hey, ¿qué es ese sonido? #</i>
+
+1053
+01:04:23,192 --> 01:04:24,750
+<i># Miren todos lo que está pasando #</i>
+
+1054
+01:04:24,794 --> 01:04:26,455
+Sí.
+
+1055
+01:04:27,830 --> 01:04:29,354
+Sí, tenía razón yo.
+
+1056
+01:04:29,599 --> 01:04:31,396
+<i># Deténganse #</i>
+
+1057
+01:04:31,434 --> 01:04:32,662
+<i># ¿Qué es ese sonido? #</i>
+
+1058
+01:04:32,702 --> 01:04:34,465
+<i># Miren todos lo que está #</i>
+
+1059
+01:04:34,503 --> 01:04:37,301
+<i># Deténganse,
+hey, ¿qué es ese sonido? #</i>
+
+1060
+01:04:37,340 --> 01:04:39,240
+<i># Miren todos lo que está pasando #</i>
+
+1061
+01:04:39,275 --> 01:04:40,299
+<i># Deténganse #</i>
+
+1062
+01:04:46,349 --> 01:04:48,408
+Hola, Gabriel.
+
+1063
+01:04:48,451 --> 01:04:49,975
+Soy Celia.
+
+1064
+01:04:50,019 --> 01:04:53,045
+Sabes, # Celia #
+
+1065
+01:04:54,557 --> 01:04:55,590
+Tú sabes.
+
+1066
+01:04:55,591 --> 01:04:57,081
+Sí, sé quién eres.
+
+1067
+01:04:57,126 --> 01:04:59,117
+Qué bueno, porque
+soy una cantante terrible.
+
+1068
+01:04:59,929 --> 01:05:00,953
+No es cierto.
+
+1069
+01:05:00,997 --> 01:05:04,763
+Nunca he conocido a alguien que pudiera
+cantar en tantos tonos a la vez.
+
+1070
+01:05:05,835 --> 01:05:07,325
+Es un don excepcional.
+
+1071
+01:05:07,370 --> 01:05:08,637
+Gracias.
+
+1072
+01:05:09,705 --> 01:05:11,673
+Vamos, cantemos tu canción.
+
+1073
+01:05:12,341 --> 01:05:14,002
+¿Cuál es?
+
+1074
+01:05:14,043 --> 01:05:16,170
+# Oh, Celia #
+
+1075
+01:05:16,212 --> 01:05:18,112
+# trabaja en el café #
+
+1076
+01:05:18,147 --> 01:05:21,310
+# ¿Cómo estás hoy? Oh, Celia #
+
+1077
+01:05:22,919 --> 01:05:24,216
+Canta conmigo.
+
+1078
+01:05:24,253 --> 01:05:25,914
+No, no, no.
+Tú... canta tú.
+
+1079
+01:05:27,189 --> 01:05:30,590
+Anda.
+Nadie está escuchando.
+
+1080
+01:05:32,295 --> 01:05:33,660
+Bien.
+
+1081
+01:05:35,998 --> 01:05:38,193
+# Oh, Celia #
+
+1082
+01:05:38,234 --> 01:05:40,225
+# trabaja en el café #
+
+1083
+01:05:40,269 --> 01:05:43,102
+# ¿Cómo estás hoy? Oh, Celia #
+
+1084
+01:05:43,139 --> 01:05:44,697
+Genial.
+
+1085
+01:05:44,740 --> 01:05:46,173
+Ahora voy a cantar la armonía.
+
+1086
+01:05:46,208 --> 01:05:47,675
+Está bien.
+
+1087
+01:05:47,710 --> 01:05:50,042
+# Oh, Celia #
+
+1088
+01:05:50,079 --> 01:05:51,944
+# trabaja en el café #
+
+1089
+01:05:51,981 --> 01:05:54,745
+# ¿Cómo estás hoy? Oh, Celia #
+
+1090
+01:05:54,784 --> 01:05:56,149
+Qué bonito.
+
+1091
+01:05:56,185 --> 01:05:58,380
+Bueno. Podríamos irnos de gira.
+
+1092
+01:05:58,421 --> 01:06:00,787
+No tengo suficiente
+seguridad en mí misma.
+
+1093
+01:06:00,823 --> 01:06:02,654
+Deberías tenerla.
+
+1094
+01:06:02,692 --> 01:06:05,684
+Podrías hacer cualquier cosa.
+
+1095
+01:06:05,728 --> 01:06:08,822
+Pues, si alguien pudiera
+convencerme, serías tú.
+
+1096
+01:06:11,567 --> 01:06:13,660
+Debo irme a casa.
+
+1097
+01:06:13,703 --> 01:06:15,170
+Adiós, Gabriel.
+
+1098
+01:06:16,839 --> 01:06:18,306
+Paz.
+
+1099
+01:06:19,308 --> 01:06:21,105
+Paz.
+
+1100
+01:06:40,296 --> 01:06:41,888
+Le está yendo bien.
+
+1101
+01:06:43,132 --> 01:06:44,827
+Sí.
+
+1102
+01:06:44,867 --> 01:06:46,562
+Es impresionante.
+
+1103
+01:06:47,470 --> 01:06:49,131
+Está recordando ritmos.
+
+1104
+01:06:49,538 --> 01:06:53,975
+Hasta hemos trabajado en ponerle
+información a los tiempos.
+
+1105
+01:06:55,011 --> 01:06:56,842
+¿Crees que sería posible...
+
+1106
+01:06:56,879 --> 01:07:00,474
+...que él pueda formar
+una nueva memoria de largo plazo?
+
+1107
+01:07:00,516 --> 01:07:04,350
+Ya sabes, ¿si la relaciona
+con una nueva pieza de música?
+
+1108
+01:07:04,387 --> 01:07:05,883
+Gabriel ha progresado más que...
+
+1109
+01:07:05,884 --> 01:07:07,379
+...cualquier persona
+con la que he trabajado.
+
+1110
+01:07:08,891 --> 01:07:10,916
+Tendría que ser una nueva
+pieza de música...
+
+1111
+01:07:10,960 --> 01:07:14,396
+...una con la que no tenga relación
+alguna de largo plazo.
+
+1112
+01:07:18,200 --> 01:07:19,792
+Sería impresionante.
+
+1113
+01:07:21,904 --> 01:07:24,304
+<i># Mujer buena #</i>
+
+1114
+01:07:26,275 --> 01:07:27,503
+<i># no me dejes #</i>
+
+1115
+01:07:27,543 --> 01:07:29,135
+Es la canción favorita de Tamara.
+
+1116
+01:07:31,747 --> 01:07:33,408
+En realidad...
+
+1117
+01:07:35,184 --> 01:07:36,811
+...es como nuestra canción.
+
+1118
+01:07:36,852 --> 01:07:39,787
+Ya sabes, como mamá y tú tienen
+"Hasta Que Llegaste Tú".
+
+1119
+01:07:41,824 --> 01:07:44,987
+Oye, ¿te acuerdas
+de esa noche...
+
+1120
+01:07:45,027 --> 01:07:47,518
+...que yo intenté ir
+al concierto de Los Dead?
+
+1121
+01:07:48,631 --> 01:07:50,428
+Tú lo recordarías como
+la noche universitaria.
+
+1122
+01:07:52,301 --> 01:07:54,132
+Sí. Me suena.
+
+1123
+01:07:54,170 --> 01:07:57,662
+Nos dieron un aventón a Stonybrook,
+pero llegamos tarde.
+
+1124
+01:07:57,706 --> 01:08:00,402
+Se habían vendido todos los boletos.
+
+1125
+01:08:00,443 --> 01:08:05,403
+Teníamos tantas ganas de escuchar
+el concierto que nos sentamos afuera...
+
+1126
+01:08:05,448 --> 01:08:08,815
+...congelándonos, a la par de un lago,
+sólo escuchando.
+
+1127
+01:08:08,851 --> 01:08:12,014
+Después del concierto, esta canción
+estaba tocando en la radio.
+
+1128
+01:08:14,890 --> 01:08:17,552
+Habíamos encontrado una
+forma de calentarnos.
+
+1129
+01:08:17,593 --> 01:08:21,689
+<i># ¿Quisieras amarme esta noche? #</i>
+
+1130
+01:08:23,232 --> 01:08:24,927
+Fue su primera vez.
+
+1131
+01:08:29,638 --> 01:08:31,162
+Fue la mía también.
+
+1132
+01:08:31,207 --> 01:08:34,267
+<i># Mujer buena #</i>
+
+1133
+01:08:38,013 --> 01:08:43,679
+Pues, supongo que "Mujer Buena"
+era una canción apropiada.
+
+1134
+01:08:44,920 --> 01:08:47,548
+Después me dijiste que
+no la podía ver más.
+
+1135
+01:08:56,532 --> 01:08:59,000
+Sr. Sawyer, tome asiento, por favor.
+
+1136
+01:09:02,271 --> 01:09:04,569
+Hola, Sr. Pandereta.
+Soy Celia.
+
+1137
+01:09:04,607 --> 01:09:06,768
+"Sta. Pandereta" a ti.
+
+1138
+01:09:08,277 --> 01:09:10,802
+Pasa, adelante.
+¿Quieres un tour de mi casa?
+
+1139
+01:09:10,846 --> 01:09:12,135
+Claro.
+
+1140
+01:09:12,381 --> 01:09:14,906
+Esta es la sala...
+
+1141
+01:09:14,950 --> 01:09:18,545
+...con un nuevo genial...
+
+1142
+01:09:18,587 --> 01:09:19,986
+Reproductor de cassettes.
+
+1143
+01:09:20,022 --> 01:09:21,055
+¡Reproductor de cassettes!
+
+1144
+01:09:21,056 --> 01:09:22,090
+¡Muy bonito!
+
+1145
+01:09:22,091 --> 01:09:24,389
+Ese señor no forma
+parte del mobiliario.
+
+1146
+01:09:24,426 --> 01:09:26,724
+Él es mi ingeniero de sonido.
+
+1147
+01:09:27,830 --> 01:09:29,798
+Es mi papá.
+
+1148
+01:09:29,832 --> 01:09:32,596
+Por acá tenemos el cuarto.
+
+1149
+01:09:32,635 --> 01:09:34,728
+Cumple su función.
+
+1150
+01:09:36,205 --> 01:09:38,435
+Toma.
+Te traje algo.
+
+1151
+01:09:40,109 --> 01:09:41,599
+¿Es mi cumpleaños?
+
+1152
+01:09:41,644 --> 01:09:44,340
+No. Es...
+
+1153
+01:09:44,380 --> 01:09:45,870
+...es un regalo de despedida.
+
+1154
+01:09:45,915 --> 01:09:47,906
+Voy a regresar a la escuela.
+
+1155
+01:09:47,950 --> 01:09:50,885
+<i># No me dejes en esta solitaria noche #</i>
+
+1156
+01:09:51,487 --> 01:09:54,183
+Tú has sido especial conmigo,
+entonces quería regalarte algo.
+
+1157
+01:09:54,223 --> 01:09:56,282
+<i># Dime que todo está bien #</i>
+
+1158
+01:09:56,325 --> 01:09:58,657
+¿Por qué te vas?
+
+1159
+01:10:02,731 --> 01:10:04,995
+Pues, porque nunca terminé.
+
+1160
+01:10:06,535 --> 01:10:10,972
+Oye, ustedes las chicas sí que piensan
+en terminar la escuela.
+
+1161
+01:10:11,006 --> 01:10:12,940
+¿A qué te refieres, Gabe?
+
+1162
+01:10:14,877 --> 01:10:17,368
+Tamara, también está terminando
+la escuela.
+
+1163
+01:10:18,180 --> 01:10:20,307
+Por eso ella no vino conmigo al Pueblo.
+
+1164
+01:10:24,119 --> 01:10:25,153
+Anda.
+
+1165
+01:10:25,154 --> 01:10:26,917
+Ábrelo.
+
+1166
+01:10:31,293 --> 01:10:33,989
+Vaya. Dylan.
+
+1167
+01:10:35,497 --> 01:10:36,691
+Hay que tocarlo.
+
+1168
+01:10:39,034 --> 01:10:42,026
+Trae la canción "Sr. Pandereta".
+
+1169
+01:10:50,179 --> 01:10:53,273
+<i># Hey, Sr. Pandereta #</i>
+
+1170
+01:10:53,315 --> 01:10:55,476
+<i># tócame una canción #</i>
+
+1171
+01:10:55,517 --> 01:10:56,551
+<i># No me estoy durmiendo #</i>
+
+1172
+01:10:56,552 --> 01:10:59,282
+Dylan, amiga. Él lo entiende.
+
+1173
+01:11:00,789 --> 01:11:02,279
+Tú también lo entiendes, Gabriel.
+
+1174
+01:11:02,324 --> 01:11:04,792
+<i># Hey, Sr. Pandereta #</i>
+
+1175
+01:11:04,827 --> 01:11:07,489
+<i># tócame una canción #</i>
+
+1176
+01:11:07,529 --> 01:11:10,191
+Voy a extrañar oírte tocar.
+
+1177
+01:11:10,232 --> 01:11:13,201
+<i># Voy a seguirte #</i>
+
+1178
+01:11:15,671 --> 01:11:18,970
+<i># Aunque sé que el imperio nocturno #</i>
+
+1179
+01:11:19,008 --> 01:11:21,374
+<i># se ha convertido en arena #</i>
+
+1180
+01:11:21,410 --> 01:11:24,106
+<i># desapareció de mi mano #</i>
+
+1181
+01:11:24,146 --> 01:11:26,307
+Espero que nos volvamos a ver pronto.
+
+1182
+01:11:26,348 --> 01:11:29,784
+<i># Pero todavía no duerme #</i>
+
+1183
+01:11:29,818 --> 01:11:32,981
+<i># mi hastío de asombra #</i>
+
+1184
+01:11:33,022 --> 01:11:35,252
+<i># Mis pies están atados #</i>
+
+1185
+01:11:35,291 --> 01:11:38,283
+Sabes, no sé si me voy a
+acordar de verte de nuevo.
+
+1186
+01:11:39,695 --> 01:11:41,822
+Así que...
+
+1187
+01:11:41,864 --> 01:11:44,833
+Tendré el gran placer
+de verte de nuevo...
+
+1188
+01:11:44,867 --> 01:11:46,232
+...por primera vez.
+
+1189
+01:11:47,703 --> 01:11:49,603
+<i># Tócame una canción #</i>
+
+1190
+01:11:49,638 --> 01:11:51,367
+<i># No me estoy durmiendo #</i>
+
+1191
+01:11:51,407 --> 01:11:54,740
+<i># y no voy a ningún lugar #</i>
+
+1192
+01:11:55,944 --> 01:11:59,072
+<i># Hey, Sr. Pandereta #</i>
+
+1193
+01:11:59,114 --> 01:12:01,082
+<i># tócame una canción #</i>
+
+1194
+01:12:01,116 --> 01:12:04,176
+<i># en la mañana tintineante #</i>
+
+1195
+01:12:04,219 --> 01:12:06,050
+<i># voy a seguirte #</i>
+
+1196
+01:12:06,088 --> 01:12:08,682
+<i>Oigan, esto es WDED,
+y tenemos boletos...</i>
+
+1197
+01:12:08,724 --> 01:12:12,182
+<i>...para el concierto de Los Dead
+en el Salón Hammerstein.</i>
+
+1198
+01:12:12,227 --> 01:12:13,261
+<i>¿Crees que eres un DeadHead?</i>
+
+1199
+01:12:13,262 --> 01:12:15,662
+<i>Llama al 555-8659.</i>
+
+1200
+01:12:15,698 --> 01:12:17,529
+<i>La llamada número diez
+tendrá la oportunidad...</i>
+
+1201
+01:12:17,566 --> 01:12:19,796
+<i>...de contestar la mega
+pregunta de Deadhead.</i>
+
+1202
+01:12:19,835 --> 01:12:23,862
+<i>Para dos boletos, 555-8659.</i>
+
+1203
+01:12:23,906 --> 01:12:26,067
+<i># Me siento tan fuerte
+que no puedo distinguir, oh, mi #</i>
+
+1204
+01:12:26,108 --> 01:12:27,598
+<i># Pasemos la noche juntos #</i>
+
+1205
+01:12:27,643 --> 01:12:31,545
+Henry Albert Sawyer,
+¿qué has hecho?
+
+1206
+01:12:32,981 --> 01:12:35,472
+<i># Pasemos la noche juntos #</i>
+
+1207
+01:12:36,685 --> 01:12:38,277
+Señor.
+
+1208
+01:12:39,988 --> 01:12:41,819
+<i># No me falles #</i>
+
+1209
+01:12:43,625 --> 01:12:45,252
+<i># Tan sólo podríamos divertirnos #</i>
+
+1210
+01:12:58,607 --> 01:13:00,905
+¿Me concedes este baile?
+
+1211
+01:13:02,077 --> 01:13:06,013
+<i># Había campanas en la colina #</i>
+
+1212
+01:13:06,048 --> 01:13:09,984
+<i># pero nunca las oí sonar #</i>
+
+1213
+01:13:10,018 --> 01:13:13,647
+<i># No, yo nunca las llegué a oír #</i>
+
+1214
+01:13:13,689 --> 01:13:17,625
+<i># hasta que llegaste tú #</i>
+
+1215
+01:13:17,659 --> 01:13:21,356
+<i># Había pájaros en el cielo #</i>
+
+1216
+01:13:21,397 --> 01:13:25,458
+<i># Pero nunca los vi volar #</i>
+
+1217
+01:13:25,501 --> 01:13:29,267
+<i># No, nunca los llegué a ver #</i>
+
+1218
+01:13:29,304 --> 01:13:31,864
+<i># hasta que llegaste tú #</i>
+
+1219
+01:13:48,791 --> 01:13:50,315
+¿Te pasa algo?
+
+1220
+01:13:50,359 --> 01:13:53,123
+Creo que lo que cociné
+me causó indigestión.
+
+1221
+01:13:55,898 --> 01:13:57,263
+¿Henry?
+
+1222
+01:13:59,535 --> 01:14:02,834
+Gabe, cariño,
+tu padre no se siente bien...
+
+1223
+01:14:02,871 --> 01:14:05,567
+...y no podrá venir a verte
+por un tiempo...
+
+1224
+01:14:05,607 --> 01:14:08,735
+...pero quisiéramos que
+pasaras Navidad en casa...
+
+1225
+01:14:08,777 --> 01:14:10,438
+...para que puedas verlo.
+
+1226
+01:14:16,185 --> 01:14:19,018
+¿Qué... qué es lo que tiene?
+
+1227
+01:14:20,022 --> 01:14:22,388
+Tiene problemas con su corazón.
+
+1228
+01:14:25,060 --> 01:14:27,028
+No te preocupes.
+
+1229
+01:14:27,062 --> 01:14:29,622
+Sólo necesita descansar.
+
+1230
+01:14:31,900 --> 01:14:33,868
+<i>Escuchan Perro de Caza...</i>
+
+1231
+01:14:33,902 --> 01:14:36,234
+<i>...en el bloque de rock
+de la medianoche.</i>
+
+1232
+01:14:36,271 --> 01:14:38,034
+<i>¿Saben qué hora es?</i>
+
+1233
+01:14:38,073 --> 01:14:40,337
+<i>Es momento para que la
+tercera llamada reciba boletos...</i>
+
+1234
+01:14:40,375 --> 01:14:43,310
+<i>...para el show de Los Grateful Dead
+en el Salón Hammerstein.</i>
+
+1235
+01:14:43,345 --> 01:14:44,869
+<i>Llamada número tres.</i>
+
+1236
+01:14:51,854 --> 01:14:53,481
+<i>WDED. ¿Puedes esperar?</i>
+
+1237
+01:14:53,522 --> 01:14:54,580
+Sí.
+
+1238
+01:14:54,623 --> 01:14:56,147
+<i>Hola. ¿Puedes esperar?</i>
+
+1239
+01:14:56,191 --> 01:14:57,249
+Sí, esperaré.
+
+1240
+01:14:57,292 --> 01:15:00,352
+<i>Bueno. Podrías bajarle
+a la radio, por favor.</i>
+
+1241
+01:15:00,395 --> 01:15:04,229
+<i>Hola. Estás al aire.
+¿Con quién hablo?</i>
+
+1242
+01:15:04,266 --> 01:15:05,299
+Henry Sawyer.
+
+1243
+01:15:05,300 --> 01:15:06,892
+<i>¿De dónde llamas,
+Henry Sawyer?</i>
+
+1244
+01:15:06,935 --> 01:15:10,837
+De... de mi cama
+en el Hospital Urbano.
+
+1245
+01:15:10,873 --> 01:15:12,966
+<i>¡No me digas!
+¿Por qué estás ahí?</i>
+
+1246
+01:15:13,008 --> 01:15:14,134
+Tuve un pequeño infarto.
+
+1247
+01:15:14,176 --> 01:15:16,576
+<i>¡Un infarto!
+¿Cuántos años tienes, Henry?</i>
+
+1248
+01:15:17,179 --> 01:15:18,203
+65.
+
+1249
+01:15:18,247 --> 01:15:21,944
+<i>¡65! Rayos.
+¿Eres un DeadHead?</i>
+
+1250
+01:15:22,317 --> 01:15:26,276
+Escucha, no puedo hablar muy alto,
+o me van a quitar el teléfono.
+
+1251
+01:15:26,321 --> 01:15:28,289
+<i>Aquí te va la pregunta.</i>
+
+1252
+01:15:28,323 --> 01:15:30,291
+<i>¿Qué fue lo que dijo el viejo hippie...</i>
+
+1253
+01:15:30,325 --> 01:15:33,988
+<i>...cuando se le acabó la hierba
+en el concierto de Los Grateful Dead?</i>
+
+1254
+01:15:35,497 --> 01:15:37,556
+No sé.
+
+1255
+01:15:37,599 --> 01:15:39,726
+<i>"Esta música apesta".</i>
+
+1256
+01:15:39,768 --> 01:15:42,032
+<i>Te estoy molestando.
+Esa no es tu pregunta.</i>
+
+1257
+01:15:43,038 --> 01:15:44,665
+<i>Bueno, entonces,
+Henry Infarto...</i>
+
+1258
+01:15:44,706 --> 01:15:47,004
+<i>...vayamos a la pregunta de la trivia.</i>
+
+1259
+01:15:47,042 --> 01:15:49,738
+<i>Para dos boletos para ver
+el concierto de Los Grateful Dead...</i>
+
+1260
+01:15:49,778 --> 01:15:51,336
+<i>...en el Salón Hammerstein...</i>
+
+1261
+01:15:51,380 --> 01:15:54,247
+<i>¿Cuál éxito
+de Los Grateful Dead en 1970...</i>
+
+1262
+01:15:54,283 --> 01:15:58,845
+<i>...fue sacado del aire porque
+usaba la palabra "maldito"?</i>
+
+1263
+01:16:00,689 --> 01:16:02,554
+<i>¿Hola, Henry? ¿Estás ahí?</i>
+
+1264
+01:16:02,591 --> 01:16:04,821
+Sería "La Banda de Tio John..."
+
+1265
+01:16:04,860 --> 01:16:07,351
+...y no es "maldito."
+Es "Dios maldito"
+
+1266
+01:16:07,396 --> 01:16:10,957
+...y me acabo de ganar unos malditos
+boletos a ¡Los Grateful Dead!
+
+1267
+01:16:11,767 --> 01:16:12,800
+¿Verdad?
+
+1268
+01:16:12,801 --> 01:16:14,132
+<i>¡Sí, te los ganaste, Henry!</i>
+
+1269
+01:16:14,169 --> 01:16:16,330
+<i>Estás en lo correcto.</i>
+
+1270
+01:16:20,676 --> 01:16:23,702
+¿Estamos listos?
+Tengo la medicina.
+
+1271
+01:16:23,745 --> 01:16:25,576
+Tengo la bolsa.
+
+1272
+01:16:25,614 --> 01:16:27,343
+Tengo el tumor cerebral.
+
+1273
+01:16:27,382 --> 01:16:29,373
+Gabe, deja eso.
+
+1274
+01:16:35,757 --> 01:16:37,281
+Bienvenido a casa.
+
+1275
+01:16:38,794 --> 01:16:39,827
+Dame eso.
+
+1276
+01:16:39,828 --> 01:16:40,852
+Yo lo haré, Henry.
+
+1277
+01:16:40,896 --> 01:16:41,929
+No, estoy bien.
+
+1278
+01:16:41,930 --> 01:16:44,023
+Hombre testarudo.
+
+1279
+01:17:05,787 --> 01:17:07,152
+Voy a preparar la cena.
+
+1280
+01:17:07,189 --> 01:17:08,213
+Está bien.
+
+1281
+01:17:35,250 --> 01:17:37,377
+Quité tus pósters.
+
+1282
+01:17:38,420 --> 01:17:40,354
+¿Por qué?
+
+1283
+01:17:40,389 --> 01:17:42,823
+Bueno...
+
+1284
+01:17:42,858 --> 01:17:43,950
+...esa noche...
+
+1285
+01:17:43,992 --> 01:17:46,961
+...la noche que te fuiste...
+
+1286
+01:17:48,964 --> 01:17:50,693
+Estaba enojado.
+
+1287
+01:17:50,732 --> 01:17:51,960
+Sí, lo sé.
+
+1288
+01:17:52,000 --> 01:17:56,437
+Subí. Vi los pósters
+y los discos.
+
+1289
+01:17:56,471 --> 01:17:58,530
+Creí que eran la razón.
+
+1290
+01:18:00,709 --> 01:18:03,576
+Eran tiempos confusos, Gabriel.
+Yo...
+
+1291
+01:18:03,612 --> 01:18:07,173
+Pensé que todas esas cosas
+parecían dañarte.
+
+1292
+01:18:07,683 --> 01:18:09,708
+¿Pensaste que mis pósters
+me estaban dañando?
+
+1293
+01:18:12,054 --> 01:18:13,715
+Todo eso, cada cosa...
+
+1294
+01:18:13,755 --> 01:18:15,746
+...sabes,
+no sólo los pósters, pero...
+
+1295
+01:18:19,761 --> 01:18:22,127
+Eso pasó hace mucho tiempo, Gabe.
+
+1296
+01:18:22,164 --> 01:18:24,496
+¿Sí? ¿Hace cuánto?
+
+1297
+01:18:24,533 --> 01:18:26,626
+Hace mucho tiempo.
+
+1298
+01:18:30,505 --> 01:18:32,473
+<i># Deslizándonos en la nieve #</i>
+
+1299
+01:18:32,507 --> 01:18:34,941
+<i># en un trineo de un caballo #</i>
+
+1300
+01:18:34,976 --> 01:18:37,274
+<i># por los campos vamos #</i>
+
+1301
+01:18:37,312 --> 01:18:39,303
+<i># riéndonos sin parar #</i>
+
+1302
+01:18:39,347 --> 01:18:42,009
+<i># Las campanas de caballo suenan #</i>
+
+1303
+01:18:42,050 --> 01:18:43,745
+<i># alegrando el espíritu #</i>
+
+1304
+01:18:43,785 --> 01:18:48,381
+<i># Qué divertido es conducir y cantar
+una canción de trineos esta noche #</i>
+
+1305
+01:18:48,423 --> 01:18:50,857
+<i># Navidad, Navidad #</i>
+
+1306
+01:18:50,892 --> 01:18:52,883
+<i># Hoy es Navidad #</i>
+
+1307
+01:18:52,928 --> 01:18:54,793
+<i># Oh, qué divertido es conducir #</i>
+
+1308
+01:18:54,830 --> 01:18:57,060
+- Hola.
+- Hola.
+
+1309
+01:18:57,099 --> 01:18:58,999
+Tu padre me llamó.
+
+1310
+01:19:00,502 --> 01:19:03,994
+En realidad, he esperado mucho tiempo
+para verte de nuevo.
+
+1311
+01:19:04,039 --> 01:19:06,269
+<i># En un trineo de un caballo #</i>
+
+1312
+01:19:20,922 --> 01:19:23,356
+Te cortaste el cabello.
+
+1313
+01:19:23,391 --> 01:19:25,655
+No. Sólo lo tengo recogido.
+
+1314
+01:19:25,694 --> 01:19:27,753
+Está recogido.
+
+1315
+01:19:27,796 --> 01:19:29,855
+Bueno, te ves hermosa.
+
+1316
+01:19:29,898 --> 01:19:31,832
+Gracias.
+
+1317
+01:19:34,069 --> 01:19:36,833
+Bueno, ya debiste haber
+terminado la escuela.
+
+1318
+01:19:36,872 --> 01:19:39,602
+Fui a la universidad en Nueva York, UNY.
+
+1319
+01:19:39,641 --> 01:19:41,302
+Qué lindo.
+¿Viste a Dylan?
+
+1320
+01:19:41,343 --> 01:19:42,742
+¿Has visto a Los Dead?
+
+1321
+01:19:43,712 --> 01:19:45,976
+Los vi en el Fillmore.
+
+1322
+01:19:46,014 --> 01:19:48,608
+Qué bueno.
+
+1323
+01:19:53,588 --> 01:19:54,782
+¿Qué?
+
+1324
+01:19:56,424 --> 01:19:59,018
+Te cortaste el cabello.
+
+1325
+01:19:59,060 --> 01:20:01,290
+Te ves hermosa.
+
+1326
+01:20:01,329 --> 01:20:02,819
+Gracias.
+
+1327
+01:20:07,636 --> 01:20:09,570
+¿Cómo está Mark?
+
+1328
+01:20:09,604 --> 01:20:12,300
+O sea, debes haber sabido de él.
+
+1329
+01:20:15,076 --> 01:20:17,601
+Él murió, Gabriel, en Vietnam.
+
+1330
+01:20:32,894 --> 01:20:34,725
+Tamara, lo siento.
+
+1331
+01:20:34,763 --> 01:20:37,527
+Gracias.
+Sucedió hace mucho tiempo.
+
+1332
+01:20:39,334 --> 01:20:40,995
+¿Hace cuánto?
+
+1333
+01:20:43,371 --> 01:20:45,271
+Hace casi 20 años.
+
+1334
+01:20:49,144 --> 01:20:51,271
+En serio.
+
+1335
+01:20:51,313 --> 01:20:53,975
+El tiempo vuela
+cuando uno no tiene cerebro.
+
+1336
+01:20:56,518 --> 01:20:58,110
+¿Puedo abrazarte?
+
+1337
+01:20:59,855 --> 01:21:03,256
+Puedes meterte conmigo
+en la cama si quieres.
+
+1338
+01:21:09,731 --> 01:21:11,528
+Nadie nos va a oír.
+
+1339
+01:21:12,968 --> 01:21:14,993
+No, yo...
+
+1340
+01:21:18,139 --> 01:21:19,936
+Ahora tengo una familia.
+
+1341
+01:21:20,909 --> 01:21:22,206
+Estoy casada.
+
+1342
+01:21:23,111 --> 01:21:25,409
+Vaya. Qué rápido.
+
+1343
+01:21:25,447 --> 01:21:27,711
+Este es mi esposo Will.
+
+1344
+01:21:27,749 --> 01:21:31,082
+Te va a agradar.
+Es realmente un buen chico.
+
+1345
+01:21:31,119 --> 01:21:32,143
+Es bajito.
+
+1346
+01:21:32,187 --> 01:21:33,950
+Está sentado.
+
+1347
+01:21:36,024 --> 01:21:37,821
+Ese es Mark.
+
+1348
+01:21:37,859 --> 01:21:40,623
+Es bajito, pero tiene ocho años...
+
+1349
+01:21:40,662 --> 01:21:42,653
+...y Colin tiene cinco...
+
+1350
+01:21:42,697 --> 01:21:44,824
+...y Jane tiene dos.
+
+1351
+01:21:45,901 --> 01:21:47,232
+Vaya, has estado ocupada.
+
+1352
+01:21:49,871 --> 01:21:53,136
+Yo nunca me casé.
+Yo nunca tuve hijos.
+
+1353
+01:21:54,409 --> 01:21:56,468
+O sea, no que yo sepa.
+
+1354
+01:22:06,154 --> 01:22:07,553
+¿Quiénes son ellos?
+
+1355
+01:22:17,332 --> 01:22:20,699
+Ese es Will, mi esposo...
+
+1356
+01:22:20,735 --> 01:22:24,227
+...y Mark tiene ocho años.
+
+1357
+01:22:24,272 --> 01:22:27,264
+Colin tiene cinco.
+
+1358
+01:22:27,309 --> 01:22:29,106
+Jane tiene dos.
+
+1359
+01:22:32,914 --> 01:22:35,007
+<i># Feliz Navidad #</i>
+
+1360
+01:22:35,050 --> 01:22:37,644
+<i># Feliz Navidad #</i>
+
+1361
+01:22:37,686 --> 01:22:39,881
+Hay uno más para ti, Gabriel.
+
+1362
+01:22:39,921 --> 01:22:43,948
+Tu padre no pudo esperar
+para darte esto.
+
+1363
+01:22:45,226 --> 01:22:47,751
+Helen, deja que lo abra.
+
+1364
+01:22:50,966 --> 01:22:51,990
+¿Una trompeta?
+
+1365
+01:22:54,002 --> 01:22:59,406
+<i># Gente de todo el mundo
+los pueden ver, también #</i>
+
+1366
+01:23:01,676 --> 01:23:03,007
+Los Dead.
+
+1367
+01:23:05,146 --> 01:23:07,740
+¡Nunca he ido a un concierto
+de Los Grateful Dead en mi vida!
+
+1368
+01:23:07,782 --> 01:23:08,942
+Yo tampoco.
+
+1369
+01:23:08,984 --> 01:23:11,111
+<i># Hay magia en el aire con-- #</i>
+
+1370
+01:23:17,158 --> 01:23:18,192
+Oye, Danny Partridge...
+
+1371
+01:23:18,193 --> 01:23:20,161
+...¿vas tocar una canción para mí?
+
+1372
+01:23:20,195 --> 01:23:21,560
+Soy Gabriel.
+
+1373
+01:23:21,596 --> 01:23:23,029
+¿Adónde está Celia?
+
+1374
+01:23:23,064 --> 01:23:24,497
+Ella no está aquí, amigo...
+
+1375
+01:23:24,532 --> 01:23:26,227
+...estoy aquí para cuidarte.
+
+1376
+01:23:26,267 --> 01:23:27,291
+¿Qué te gustaría?
+
+1377
+01:23:29,371 --> 01:23:30,804
+Celia.
+
+1378
+01:23:32,307 --> 01:23:35,834
+Perdón, amigo.
+No puedo ayudarte con eso.
+
+1379
+01:23:55,030 --> 01:23:56,292
+Hola.
+
+1380
+01:23:56,331 --> 01:23:57,389
+<i>¿Es esta la casa Sawyer?</i>
+
+1381
+01:23:57,432 --> 01:23:58,763
+Sí. ¿Quién llama?
+
+1382
+01:24:03,004 --> 01:24:04,995
+¿Qué pasa?
+
+1383
+01:24:06,674 --> 01:24:07,708
+Gabriel.
+
+1384
+01:24:07,709 --> 01:24:10,007
+Señor, ¿le puedo ayudar?
+
+1385
+01:24:10,045 --> 01:24:11,103
+Este es mi hijo.
+
+1386
+01:24:11,146 --> 01:24:12,738
+- ¿Es usted el Sr. Sawyer?
+- Sí.
+
+1387
+01:24:12,781 --> 01:24:15,113
+Bien, mire, a nosotros nos llamó
+la mujer que vive aquí.
+
+1388
+01:24:15,150 --> 01:24:18,483
+Ella dijo que su hijo estaba
+golpeando la ventana de arriba.
+
+1389
+01:24:18,520 --> 01:24:21,182
+Esta era la casa de su antigua novia.
+
+1390
+01:24:21,222 --> 01:24:22,814
+Está bien.
+
+1391
+01:24:22,857 --> 01:24:25,826
+Bueno, parece como si se
+hubiera caído en una alcantarilla.
+
+1392
+01:24:25,860 --> 01:24:28,090
+Pudo haber caído sobre su tobillo.
+
+1393
+01:24:28,129 --> 01:24:30,927
+Deberíamos llevarlo
+al hospital, ¿bueno?
+
+1394
+01:24:30,965 --> 01:24:31,989
+Gracias.
+
+1395
+01:24:33,668 --> 01:24:35,693
+Oye, amigo.
+
+1396
+01:24:38,706 --> 01:24:40,401
+Te heriste la pierna.
+
+1397
+01:24:40,442 --> 01:24:42,103
+No me herí la pierna.
+
+1398
+01:24:42,143 --> 01:24:44,407
+No, creo que sí.
+
+1399
+01:24:44,446 --> 01:24:48,246
+Vamos a ir de camino
+al hospital, ¿está bien?
+
+1400
+01:24:48,283 --> 01:24:49,978
+- Está bien.
+- Dame tu mano.
+
+1401
+01:24:59,060 --> 01:25:01,255
+Todo estará bien.
+
+1402
+01:25:04,332 --> 01:25:05,993
+No veo cómo eso
+es una buena idea.
+
+1403
+01:25:06,034 --> 01:25:07,934
+¿Los Grateful Dead?
+
+1404
+01:25:07,969 --> 01:25:09,266
+¿No podría ser algo más manejable...
+
+1405
+01:25:09,304 --> 01:25:11,772
+...como Lionel Richie?
+
+1406
+01:25:11,806 --> 01:25:15,401
+Los Grateful Dead tienen
+un significado especial para Gabriel.
+
+1407
+01:25:15,443 --> 01:25:18,071
+Dianne, hay fuertes preocupaciones
+sobre enviar a Gabriel...
+
+1408
+01:25:18,113 --> 01:25:21,241
+...a ese tipo de ambiente
+impredecible y extraño.
+
+1409
+01:25:21,282 --> 01:25:24,581
+Sí, pero el ambiente en el que
+Gabriel se despierta cada mañana...
+
+1410
+01:25:24,619 --> 01:25:27,645
+...es más extraño para él
+que un concierto de Los Grateful Dead.
+
+1411
+01:25:27,689 --> 01:25:29,281
+Nosotros podemos controlar ese ambiente.
+
+1412
+01:25:29,324 --> 01:25:33,522
+Sr. Sawyer, no está en condiciones
+para asegurar el bienestar de Gabriel.
+
+1413
+01:25:33,561 --> 01:25:36,860
+¿Un paciente coronario
+acompañando a un amnésico severo...
+
+1414
+01:25:36,898 --> 01:25:38,695
+...a un concierto de Los Grateful Dead?
+
+1415
+01:25:38,733 --> 01:25:39,893
+Bajo las circunstancias...
+
+1416
+01:25:39,934 --> 01:25:41,595
+No es sólo por Gabriel.
+
+1417
+01:25:43,705 --> 01:25:48,699
+Mire, perdí a mi hijo por 20 años.
+
+1418
+01:25:49,277 --> 01:25:52,610
+Eso es mi culpa, y yo lo sé.
+
+1419
+01:25:53,615 --> 01:25:56,379
+Aún después de que lo encontramos,
+pensamos que estaba perdido.
+
+1420
+01:25:56,417 --> 01:25:58,385
+Y le han hecho cirugía,
+terapia física...
+
+1421
+01:25:58,419 --> 01:26:00,387
+...cada medicamento de mantenimiento
+que conoce el hombre.
+
+1422
+01:26:00,421 --> 01:26:01,945
+Nada de eso funcionó.
+
+1423
+01:26:02,991 --> 01:26:05,551
+Pero cuando él oye una canción
+de Grateful Dead...
+
+1424
+01:26:05,593 --> 01:26:08,562
+...regresa a nosotros.
+
+1425
+01:26:08,596 --> 01:26:10,427
+Ustedes lo han visto.
+
+1426
+01:26:12,367 --> 01:26:15,131
+Yo sé que soy el último hombre en el
+mundo que pasaría como un DeadHead...
+
+1427
+01:26:15,170 --> 01:26:18,901
+...y, créame,
+si pudiera elegir otra banda...
+
+1428
+01:26:18,940 --> 01:26:22,376
+...que traiga a mi hijo
+a la vida, lo haría.
+
+1429
+01:26:24,245 --> 01:26:27,908
+Pero he aprendido cada canción
+de Los Grateful Dead, cada letra...
+
+1430
+01:26:27,949 --> 01:26:31,510
+...porque es la única forma
+en que puedo hablarle a Gabriel.
+
+1431
+01:26:33,788 --> 01:26:36,120
+Ahora, yo tengo 65 años...
+
+1432
+01:26:36,157 --> 01:26:39,217
+...y, sí, estoy enfermo...
+
+1433
+01:26:39,260 --> 01:26:44,197
+...y necesito tener
+una conversación con mi hijo.
+
+1434
+01:27:02,217 --> 01:27:05,516
+Creo que fui al colegio
+con ese chico.
+
+1435
+01:27:05,553 --> 01:27:07,885
+No creo que lo conozcas, compañero.
+
+1436
+01:27:21,603 --> 01:27:24,629
+Oye, viejo, viejo.
+
+1437
+01:27:24,672 --> 01:27:27,232
+Deberías comprar una camiseta.
+
+1438
+01:27:27,275 --> 01:27:28,742
+Son 100% cáñamo.
+
+1439
+01:27:28,776 --> 01:27:30,937
+No, gracias.
+
+1440
+01:27:33,748 --> 01:27:35,545
+¿Qué es tan gracioso?
+
+1441
+01:27:35,583 --> 01:27:37,244
+Eso es gracioso.
+
+1442
+01:27:39,120 --> 01:27:40,678
+¿Crees que es gracioso?
+
+1443
+01:27:46,527 --> 01:27:48,927
+Sí, Julie, mira su sombrero.
+
+1444
+01:27:48,963 --> 01:27:51,193
+El abuelo viene...
+
+1445
+01:28:10,518 --> 01:28:13,749
+¡Los Dead!
+
+1446
+01:28:22,764 --> 01:28:24,857
+Mira allá.
+Esa es la sección de piratería.
+
+1447
+01:28:24,899 --> 01:28:27,299
+Debemos tener una cinta de este show.
+
+1448
+01:28:27,335 --> 01:28:30,395
+¿Cuándo van a salir?
+¡Los Dead!
+
+1449
+01:28:54,295 --> 01:28:55,319
+¿Dónde está Pigpen?
+
+1450
+01:28:55,363 --> 01:28:57,524
+Me pregunto dónde estará Pigpen.
+
+1451
+01:28:57,565 --> 01:29:01,934
+¡Pigpen! ¡Pigpen!
+¡Pigpen! ¡Pigpen!
+
+1452
+01:29:04,505 --> 01:29:06,632
+Tal vez está enfermo o algo así.
+
+1453
+01:29:06,674 --> 01:29:09,507
+Parrandea mucho.
+
+1454
+01:29:09,544 --> 01:29:11,478
+Pigpen ya no está con Los Dead.
+
+1455
+01:29:11,512 --> 01:29:13,104
+¿Qué quieres decir con que
+no está con ellos?
+
+1456
+01:29:13,147 --> 01:29:14,774
+¿Qué, lo arrestaron o algo así?
+
+1457
+01:29:14,816 --> 01:29:17,683
+No. Él murió, compañero.
+
+1458
+01:29:20,621 --> 01:29:21,986
+Eso es horrible.
+
+1459
+01:29:30,531 --> 01:29:33,398
+Ese es Jerry Garcia.
+
+1460
+01:29:33,434 --> 01:29:35,026
+Ese es Phil Lesh.
+
+1461
+01:29:37,305 --> 01:29:38,966
+Me pregunto dónde estará Pigpen.
+
+1462
+01:29:40,708 --> 01:29:41,800
+<i>¡Señoras y señores...</i>
+
+1463
+01:29:41,843 --> 01:29:43,970
+<i>¡Los Grateful Dead!</i>
+
+1464
+01:29:44,011 --> 01:29:47,378
+¡Los Dead! ¡Los Dead!
+¡Queremos a Los Dead!
+
+1465
+01:30:06,234 --> 01:30:07,667
+# Vagabundeando #
+
+1466
+01:30:07,702 --> 01:30:09,533
+# Cambié mis fichas por dinero #
+
+1467
+01:30:09,570 --> 01:30:11,367
+# Sigo vagabundeando #
+
+1468
+01:30:11,406 --> 01:30:13,670
+# como el hombre du-dah #
+
+1469
+01:30:13,708 --> 01:30:15,141
+# Juntos #
+
+1470
+01:30:15,176 --> 01:30:17,644
+# más o menos en línea #
+
+1471
+01:30:17,678 --> 01:30:21,876
+# sólo seguimos vagabundeando #
+
+1472
+01:30:28,756 --> 01:30:31,691
+# Flechas de neón y anuncios
+luminosos en la calle principal #
+
+1473
+01:30:31,726 --> 01:30:36,186
+# Chicago, Nueva York, Detroit,
+y todo está en la misma calle #
+
+1474
+01:30:36,230 --> 01:30:40,030
+# Tu ciudad típica
+en un sueño despierto típico #
+
+1475
+01:30:40,067 --> 01:30:43,161
+# Detente y espera por mañana #
+
+1476
+01:30:43,204 --> 01:30:47,197
+# A veces la luz brilla sobre mí #
+
+1477
+01:30:49,577 --> 01:30:54,037
+# Otras veces, apenas puedo ver #
+
+1478
+01:30:56,250 --> 01:31:00,516
+# Últimamente me sucede a mí #
+
+1479
+01:31:02,657 --> 01:31:05,387
+# qué viaje #
+
+1480
+01:31:05,426 --> 01:31:07,917
+# tan largo ha sido #
+
+1481
+01:31:32,987 --> 01:31:34,818
+# Debe estar amaneciendo #
+
+1482
+01:31:36,090 --> 01:31:37,990
+# Los relojes están atrasados #
+
+1483
+01:31:39,293 --> 01:31:42,319
+# Pintados por el cielo matutino #
+
+1484
+01:31:42,363 --> 01:31:43,830
+# Se ve tan falso #
+
+1485
+01:31:43,865 --> 01:31:44,889
+Qué raro.
+
+1486
+01:31:46,267 --> 01:31:48,258
+Nunca había escuchado esta canción.
+
+1487
+01:31:48,302 --> 01:31:50,270
+# Enciende una vela, maldice el brillo #
+
+1488
+01:31:51,706 --> 01:31:54,106
+Tal vez es una canción nueva.
+
+1489
+01:31:54,141 --> 01:31:55,175
+# Todo está bien #
+
+1490
+01:31:55,176 --> 01:31:57,007
+Tal vez.
+
+1491
+01:31:57,044 --> 01:32:00,172
+# Me las arreglaré #
+
+1492
+01:32:03,751 --> 01:32:06,982
+# Me las arreglaré #
+
+1493
+01:32:09,557 --> 01:32:12,720
+# Me las arreglaré #
+
+1494
+01:32:12,760 --> 01:32:13,784
+Papá.
+
+1495
+01:32:14,829 --> 01:32:16,262
+Eres el mejor.
+
+1496
+01:32:20,401 --> 01:32:24,235
+# Veo que sacaste tu lista #
+
+1497
+01:32:24,272 --> 01:32:27,241
+# Di tu parte y vete #
+
+1498
+01:32:27,275 --> 01:32:30,733
+# Sí, saca lo esencial, pero #
+
+1499
+01:32:30,778 --> 01:32:32,541
+# todo está bien #
+
+1500
+01:32:34,615 --> 01:32:36,981
+¡Eso fue fantástico!
+Fue...
+
+1501
+01:32:37,018 --> 01:32:40,419
+Fue el mejor momento de mi vida.
+
+1502
+01:32:40,454 --> 01:32:42,251
+Me hizo volar.
+
+1503
+01:32:42,290 --> 01:32:43,450
+A mí también.
+
+1504
+01:32:46,093 --> 01:32:48,857
+O sea, siempre voy a recordar esto.
+
+1505
+01:32:52,366 --> 01:32:54,095
+¿Qué quieres oír después?
+
+1506
+01:32:54,135 --> 01:32:56,103
+"¿Caja de Lluvia?"
+
+1507
+01:32:56,137 --> 01:32:57,798
+"Ondulación".
+
+1508
+01:32:57,838 --> 01:32:59,430
+Esa es buena.
+
+1509
+01:33:06,380 --> 01:33:07,404
+Sí.
+
+1510
+01:33:10,418 --> 01:33:12,579
+Son tan grandiosos.
+
+1511
+01:33:12,620 --> 01:33:15,054
+Ellos sólo... Ellos tocan
+lo que trae el viento.
+
+1512
+01:33:15,089 --> 01:33:18,456
+Ellos tocan con el momento.
+
+1513
+01:33:18,492 --> 01:33:21,086
+Sí. Sé a qué te refieres.
+
+1514
+01:33:21,128 --> 01:33:23,358
+Ellos son raros.
+
+1515
+01:33:23,397 --> 01:33:24,431
+Sí.
+
+1516
+01:33:24,432 --> 01:33:26,559
+<i># Si mis palabras brillaron #</i>
+
+1517
+01:33:26,601 --> 01:33:27,693
+Ellos son raros.
+
+1518
+01:33:27,735 --> 01:33:32,468
+<i># Con el dorado del sol #</i>
+
+1519
+01:33:32,506 --> 01:33:34,337
+<i># y mis tonos #</i>
+
+1520
+01:33:34,375 --> 01:33:37,867
+<i># los tocaron en un arpa #</i>
+
+1521
+01:33:37,912 --> 01:33:39,470
+<i># sin cuerdas #</i>
+
+1522
+01:33:39,513 --> 01:33:41,538
+<i># escucharás mi voz #</i>
+
+1523
+01:33:41,582 --> 01:33:42,913
+Tienes razón. Ellos no sólo...
+
+1524
+01:33:42,950 --> 01:33:45,475
+Ellos no sólo tocan
+las notas en el papel.
+
+1525
+01:33:45,519 --> 01:33:47,316
+No.
+
+1526
+01:33:47,355 --> 01:33:52,122
+No, ellos tocan lo que trae
+el viento, ¿sabes?
+
+1527
+01:33:52,159 --> 01:33:53,592
+Sí.
+
+1528
+01:33:55,463 --> 01:33:57,363
+Sí, sé a qué te refieres.
+
+1529
+01:33:58,599 --> 01:34:03,059
+<i># Se rompieron los pensamientos #</i>
+
+1530
+01:34:03,104 --> 01:34:07,234
+<i># Tal vez están mejor #</i>
+
+1531
+01:34:07,274 --> 01:34:10,300
+<i># olvidados sin cuerdas #</i>
+
+1532
+01:34:10,344 --> 01:34:12,642
+<i># No lo sé #</i>
+
+1533
+01:34:14,849 --> 01:34:16,578
+<i># No me importa mucho #</i>
+
+1534
+01:34:21,355 --> 01:34:23,983
+# Sobreviviré #
+
+1535
+01:34:26,193 --> 01:34:28,627
+# Sobreviviré #
+
+1536
+01:34:30,631 --> 01:34:33,896
+# Sobreviviré #
+
+1537
+01:34:33,934 --> 01:34:36,164
+# Sobreviviré #
+
+1538
+01:34:37,571 --> 01:34:41,007
+No puedo recordar cuando fue la
+última vez que estuve fuera tan tarde.
+
+1539
+01:34:41,042 --> 01:34:42,202
+Yo tampoco.
+
+1540
+01:34:52,953 --> 01:34:54,648
+La pasé increíble hoy.
+
+1541
+01:34:54,689 --> 01:34:55,722
+Sí.
+
+1542
+01:35:09,804 --> 01:35:12,204
+Bueno.
+Buenas noches, compañero.
+
+1543
+01:35:15,376 --> 01:35:16,468
+Buenas noches, papá.
+
+1544
+01:36:12,266 --> 01:36:14,564
+¿Gabriel, qué estás haciendo?
+
+1545
+01:36:14,602 --> 01:36:16,763
+Estoy buscando algo.
+
+1546
+01:36:16,804 --> 01:36:18,465
+¿Qué estás buscando?
+
+1547
+01:36:29,550 --> 01:36:31,882
+Gabriel, cariño, debemos irnos.
+
+1548
+01:36:33,387 --> 01:36:35,287
+No sé qué es lo que busca.
+
+1549
+01:36:44,331 --> 01:36:45,730
+Gabriel...
+
+1550
+01:36:46,934 --> 01:36:49,732
+No vas a ver a tu padre.
+
+1551
+01:36:50,838 --> 01:36:51,896
+¿Qué quieres decir?
+
+1552
+01:36:52,840 --> 01:36:55,274
+Papá viene todos los días a las 10 A.M.
+
+1553
+01:36:58,946 --> 01:37:00,311
+Cariño...
+
+1554
+01:37:00,347 --> 01:37:02,907
+Él ya no puede venir.
+
+1555
+01:37:02,950 --> 01:37:05,976
+Tu padre murió.
+
+1556
+01:37:06,020 --> 01:37:08,716
+Ahora vamos a decirle adiós.
+
+1557
+01:37:14,161 --> 01:37:15,992
+¿Qué?
+
+1558
+01:37:16,030 --> 01:37:17,759
+Él... Él sólo tenía, como, 50.
+
+1559
+01:37:18,866 --> 01:37:22,165
+No, Gabriel. Tenía 65.
+
+1560
+01:37:46,393 --> 01:37:47,826
+Como última petición...
+
+1561
+01:37:47,862 --> 01:37:51,696
+...Henry pidió que pusiéramos
+una de sus canciones favoritas...
+
+1562
+01:37:51,732 --> 01:37:54,428
+...y pidió que todos
+tomaran un momento...
+
+1563
+01:37:54,468 --> 01:37:56,493
+...y escuchen la música...
+
+1564
+01:37:56,537 --> 01:37:59,404
+...y que la disfruten como él.
+
+1565
+01:38:00,808 --> 01:38:02,105
+De acuerdo.
+
+1566
+01:38:17,224 --> 01:38:20,091
+<i># Veo que sacaste tu lista #</i>
+
+1567
+01:38:20,127 --> 01:38:23,062
+<i># Di tu parte y vete #</i>
+
+1568
+01:38:23,097 --> 01:38:26,624
+<i># Sí, saca lo esencial, pero #</i>
+
+1569
+01:38:26,667 --> 01:38:29,363
+<i># todo está bien #</i>
+
+1570
+01:38:29,403 --> 01:38:32,099
+<i># Siento que te sientas así #</i>
+
+1571
+01:38:32,139 --> 01:38:35,267
+<i># Lo único que hay por decir #</i>
+
+1572
+01:38:35,309 --> 01:38:38,176
+<i># Cada forro plateado tiene #</i>
+
+1573
+01:38:38,212 --> 01:38:39,245
+¡Aquí viene el coro!
+
+1574
+01:38:39,246 --> 01:38:40,577
+# Un toque de gris #
+
+1575
+01:38:41,916 --> 01:38:44,578
+# Me las arreglaré #
+
+1576
+01:38:47,655 --> 01:38:50,886
+# Me las arreglaré #
+
+1577
+01:38:53,827 --> 01:38:57,991
+# Me las arreglaré #
+
+1578
+01:38:58,032 --> 01:39:00,296
+# Sobreviviré #
+
+1579
+01:39:06,407 --> 01:39:09,171
+<i># Es una lección para mí #</i>
+
+1580
+01:39:11,145 --> 01:39:15,605
+<i># Las Arpas y las Boinas y las Cs #</i>
+
+1581
+01:39:18,452 --> 01:39:20,920
+<i># ABCs #</i>
+
+1582
+01:39:20,955 --> 01:39:24,152
+<i># Todos debemos enfrentar #</i>
+
+1583
+01:39:24,191 --> 01:39:26,853
+<i># y tratar de mantener
+un poco de gracia #</i>
+
+1584
+01:39:30,331 --> 01:39:32,629
+Mamá, ¿sabes cuál es esta canción?
+
+1585
+01:39:32,666 --> 01:39:34,896
+No, Gabe.
+¿Cuál es esta canción?
+
+1586
+01:39:34,935 --> 01:39:36,596
+Es "Un Toque de Gris..."
+
+1587
+01:39:36,637 --> 01:39:38,070
+...de Los Grateful Dead.
+
+1588
+01:39:39,573 --> 01:39:42,201
+¿Sabes cuándo escuché
+esta canción por primera vez?
+
+1589
+01:39:42,242 --> 01:39:43,573
+No, Gabe.
+
+1590
+01:39:43,610 --> 01:39:45,271
+¿Por qué no me lo dices?
+
+1591
+01:39:48,549 --> 01:39:52,076
+<i># Me las arreglaré #</i>
+
+1592
+01:39:54,688 --> 01:39:58,886
+<i># Me las arreglaré #</i>
+
+1593
+01:39:58,926 --> 01:40:01,121
+<i># Sobreviviré #</i>
+
+1594
+01:40:06,633 --> 01:40:09,568
+<i># El zapato está en la mano
+que le calza #</i>
+
+1595
+01:40:09,603 --> 01:40:12,663
+<i># No hay mucho sobre eso #</i>
+
+1596
+01:40:12,706 --> 01:40:16,107
+<i># Silba a través de tus dientes
+y escupe, porque #</i>
+
+1597
+01:40:16,143 --> 01:40:17,610
+<i># todo está bien #</i>
+
+1598
+01:40:18,912 --> 01:40:21,745
+<i># Oh, bueno, un toque de gris #</i>
+
+1599
+01:40:21,782 --> 01:40:24,774
+<i># Igual te quedaba #</i>
+
+1600
+01:40:24,818 --> 01:40:28,185
+<i># eso era lo que tenía que decir #</i>
+
+1601
+01:40:28,222 --> 01:40:29,917
+<i># Todo está bien #</i>
+
+1602
+01:40:31,458 --> 01:40:35,394
+<i># Me las arreglaré #</i>
+
+1603
+01:40:41,735 --> 01:40:45,466
+<i># Todo lo quiere, hoy la juventud #</i>
+
+1604
+01:40:45,506 --> 01:40:50,409
+<i># en todo lo que piensan
+es en el verano #</i>
+
+1605
+01:40:51,912 --> 01:40:54,278
+<i># Se trata del verano #</i>
+
+1606
+01:40:57,184 --> 01:41:00,881
+<i># Todo lo quiere, hoy la juventud #</i>
+
+1607
+01:41:00,921 --> 01:41:03,719
+<i># Mira a los ojos y di que está bien #</i>
+
+1608
+01:41:03,757 --> 01:41:05,657
+<i># Se trata del verano #</i>
+
+1609
+01:41:07,394 --> 01:41:09,521
+<i># Se trata del verano #</i>
+
+1610
+01:41:12,232 --> 01:41:14,063
+<i># Atento y paciente #</i>
+
+1611
+01:41:14,101 --> 01:41:17,502
+<i># Ellos abren su mente muy fácilmente #</i>
+
+1612
+01:41:19,740 --> 01:41:21,731
+<i># A través de los ojos de un niño #</i>
+
+1613
+01:41:21,775 --> 01:41:25,040
+<i># Este mundo es realmente divino #</i>
+
+1614
+01:41:27,381 --> 01:41:28,712
+<i># Divino #</i>
+
+1615
+01:41:32,019 --> 01:41:35,682
+<i># Todo lo quiere, hoy la juventud #</i>
+
+1616
+01:41:35,722 --> 01:41:38,748
+<i># es que los problemas
+del mundo se vayan #</i>
+
+1617
+01:41:38,792 --> 01:41:40,623
+<i># Se trata del verano #</i>
+
+1618
+01:41:42,229 --> 01:41:44,561
+<i># Se trata del verano #</i>
+
+1619
+01:41:47,534 --> 01:41:51,265
+<i># Todos los perros y gatos
+del vecindario #</i>
+
+1620
+01:41:51,305 --> 01:41:55,833
+<i># Todos quieren llevarse bien
+en el verano #</i>
+
+1621
+01:41:57,611 --> 01:41:59,943
+<i># Se trata del verano #</i>
+
+1622
+01:42:01,582 --> 01:42:03,072
+<i># Se trata del #</i>
+
+1623
+01:42:05,219 --> 01:42:08,245
+<i># Se trata del verano #</i>
+
+1624
+01:42:08,288 --> 01:42:10,483
+<i># uno con otro #</i>
+
+1625
+01:42:12,693 --> 01:42:15,992
+<i># y uno con otro #</i>
+
+1626
+01:42:17,097 --> 01:42:18,621
+<i># Se trata #</i>
+
+1627
+01:42:20,467 --> 01:42:21,729
+<i># del verano #</i>
+
+1628
+01:42:21,768 --> 01:42:23,360
+<i># Se trata del verano #</i>
+
+1629
+01:42:24,402 --> 01:42:34,981
+Subtítulos por aRGENTeaM
+www.argenteam.net
+
