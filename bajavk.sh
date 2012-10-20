@@ -39,8 +39,8 @@ sitio="vk"
 fecha_alta=the-$(date -u +%F)
 fecha_ultimo_movimiento=the-$(date -u +%F)
 visitas=0
-email="zzerver@gmail.com"
-password="Kmz09o/4$GyT25JllKmn6"
+email="dzup@mailcatch.com"
+password=password=`tr -dc A-Za-z0-9_ < /dev/urandom | head -c 15 | xargs`
 tipo_frame=0 ##publico
 estatuto=1 ##activo
 roto=0
