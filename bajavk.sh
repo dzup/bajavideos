@@ -29,7 +29,7 @@ no_image_found="http://u3mx.com/images/imagen-no-existe.jpg"
 sql_file_frame=frame-$(date -u +%F).sql
 sql_file_pelicula=pelicula-$(date -u +%F).sql
 logfile=$(date -u +%F).log
-
+dirbackup=$(date -u +%F)/
 # database general
 id=""
 titulo=""
@@ -40,9 +40,9 @@ fecha_alta=the-$(date -u +%F)
 fecha_ultimo_movimiento=the-$(date -u +%F)
 visitas=0
 email="dzup@mailcatch.com"
-password=password=`tr -dc A-Za-z0-9_ < /dev/urandom | head -c 15 | xargs`
+password=`tr -dc A-Za-z0-9_ < /dev/urandom | head -c 10 | xargs`
 tipo_frame=0 ##publico
-estatuto=1 ##activo
+estatuto=1 ##activ
 roto=0
 comentarios="" 
 pelicula_id=""
@@ -420,8 +420,12 @@ for i in {1..202}; do
 		done
 	done
 done
+mkdir -p $dirbackup
+cp $sql_file_frame $dirbackup$sql_file_frame
+cp source $sql_file_pelicula $dirbackup$sql_file_pelicula
 
 echo "Listo, ahora instrucciones:
+cd $dirbackup
 mysql -u user -p
 
 use use a7850950_u3mx;
