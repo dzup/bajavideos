@@ -1,0 +1,103 @@
+#!/bin/bash
+#
+# Extraido de http://donzeyt.blogspot.com/2011/03/generador-de-enlaces-de-descargas-desde.html 
+# modificado bajo GPL/CC por Ernesto Bazzano (C) 201
+#
+# este script no funciona mas!!!
+
+
+
+N=$((RANDOM%$(cat $HOME/script/data/socks5.txt | wc -l)))
+#export http_proxy="$(echo $(cat $HOME/script/data/socks5.txt | head -n $N | tail -1)/)"
+#export proxy="on"
+head="movil Mozilla/5.0 (X11; U; Linux i686; es-CL; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.10 (maverick) Firefox/3.6.13"
+
+# intro
+if [ "$1" ]; then
+	serie="$1"
+	temporada="$2"
+	numEnlacesbase="$3"
+	numEnlaces="$4"
+else
+echo "Uso:
+	seriesyonkies [seria temporada capitulo_incio capitulo_final]
+"
+	echo "Introduzca el nombre de la serie"
+	read serie
+	echo "Introduzca el numero de temporada"
+	read temporada
+	echo "Desde le enlaces:"
+	read numEnlacesbase
+	echo "Hasta el numero de enlaces:"
+	read numEnlaces
+fi
+
+cd /tmp/
+
+echo "Espere por favor..."
+
+wget "http://www.seriesyonkis.com/serie/"$serie"/" -e robots=off --user-agent="$head" -O - 2> /dev/null | awk -F'>' '/^a href/{split($1,F,"\"");print F[2],$NF}' RS='<' &> $serie".enlaces"
+grep $temporada"x" $serie".enlaces" &> $serie
+egrep -o "http:.*/ " $serie &> $serie".enlaces"
+echo "$serie - temporada: $temporada"
+
+echo "Obteniedo lista de capitulos..."
+
+contador=1
+for capitulo in $(cat $serie".enlaces"); do
+
+	if [ "$(($numEnlacesbase<=$contador))" -eq "1" ]; then
+		#-------------- capitulos-----------------
+		wget $capitulo -e robots=off --user-agent="$head" -O "capitulo" &>/dev/null
+		echo "$serie - capitulo: $contador/$numEnlaces"
+
+		cat "capitulo" | 
+		awk -F'>' '/^a href/{split($1,F,"\"");print F[2],$NF}' RS='<' &> "capitulo.enlaces"
+	        cat "capitulo.enlaces" | tac | grep "DESCARGAR DE megaupload" &> "capitulo"
+		egrep -o "http:.*" capitulo | cut -d " " -f1 &> "capitulo.enlaces"
+                cat "capitulo.enlaces"
+
+		if [ "$(cat capitulo.enlaces)" == "" ]; then
+			echo ">[:(] { no se pudo encontrar enlaces de MegaUpload )"
+		else
+			#-------------- baja cada capitulo-----------------
+			for enlace in $(cat "capitulo.enlaces"); do
+				enlace_anda="si"
+				while [ 1 ];do
+					# ID de megaupload
+					base=$(wget "$enlace" --trust-server-names -e robots=off --user-agent="$head" -O /dev/null 2> /dev/stdout | grep 'Ubica')
+					ID=$(wget "http://127.0.0.1/dev/cleaner_series.php?url=$base" -O - 2> /dev/null)
+					#ID=$(cd $HOME/script; php seriesyonkies_link $base; cd /tmp)
+					#echo $ID
+				 	echo "http://www.megaupload.com/?s=seriesyonkis&d=$ID&confirmed=1"
+					if [ "$ID" ];then
+						mu "http://www.megaupload.com/?s=seriesyonkis&d=$ID&confirmed=1"
+				 		break
+					else
+						enlace_anda=""
+						if [ "$enlace" ]; then
+							echo ">[:(] { Up!, enlace roto! )"
+							break
+						else
+							echo ">[:(] { Uh!, serie yankies, sabe que soy un bot, voy a esperar un rato que se olvide )"
+							sleep 60
+						fi
+					fi
+				done
+				if [ "$enlace_anda" ]; then
+					break
+				fi
+			done
+			rm "capitulo"
+			rm "capitulo.enlaces"
+			echo "haciendo tiempo..."
+			echo
+			sleep 30
+		fi
+	fi
+	let contador=contador+1
+done
+
+rm $serie
+rm $serie".enlaces"
+exit 0

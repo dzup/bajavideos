@@ -1,0 +1,18 @@
+#!/bin/bash
+#
+#       Descarga videos de vk
+#       Ernesto Bazzano (El Bazza)- Licencia AGPL
+#       basado en el trabajo de Dzup para u3mx.com
+#
+
+# descarga el contenido de laa pagina de embed
+html=$(wget "$1" -qO -)
+
+# obtiene variables
+vtag=$(echo "$html" | grep "var video_vtag" | sed "s/^.*'\(.*\)'.*$/\1/g")
+uid=$(echo "$html" | grep "var video_uid" | sed "s/^.*'\(.*\)'.*$/\1/g")
+host=$(echo "$html" | grep "var video_host" | sed "s/^.*'\(.*\)'.*$/\1/g")
+video_title=$(echo "$html" | grep "var video_title" | sed "s/^.*'\(.*\)'.*$/\1/g")
+
+# descarga la pelicula con un nombre mas lindo
+wget ${host}/u${uid}/video/${vtag}.360.mp4 -O "${video_title}-${vtag}.mp4"

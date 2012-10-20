@@ -1,0 +1,84 @@
+#!/bin/bash
+#
+#       Capturas de pantalla que suben automaticamente a omploader
+#       pensado para Juan Carlos Radio
+#
+#       requiere: scrot, curl, ffmpeg, imagick
+#       opcionales: xsel, zenity
+
+
+if [ $# -lt 1 ] || [ "$1" == "-h" ]; then
+        echo "omploader [directorio, webcam, pantalla, ventana  o nombre de archivo]"
+        echo "  sube un archivo, o varios a http://omploader.org"
+        echo "  ejemplo:"
+        echo "          omploader webcam"
+        echo
+        exit
+fi
+
+
+nombre="$@"
+
+function ompload {
+
+        enlace=$(curl -# -F file1=@"$1" http://ompldr.org/upload \
+        | awk '/Info:/{gsub(/>[^>]*?\/?&gt;/,"");$1=$1; print}' \
+        | sed -e :a -e 's/<[^>]*>//g;/</N;//ba; s/^Info://g')
+
+        echo $enlace
+        echo $enlace | xsel -b
+        echo $enlace | zenity --text-info --width 320 --height 80 2> /dev/null &
+
+}
+
+case $1 in
+  pantalla )
+        #------------------------pantalla--------------------------------------
+        # Nombre del archivo
+        nombre="/tmp/$USER-captura-$(date +"%Y-%m-%d_%H-%M-%S").png"
+        import -window root "$nombre"
+        ;;
+  ventana )
+        #------------------------ventana-------------------------------------
+        # Nombre del archivo
+        nombre="/tmp/$USER-captura-$(date +"%Y-%m-%d_%H-%M-%S").png"
+        import -window `xwininfo | awk '/Window id/{print $4; exit}'` "$nombre"
+        ;;
+  directorio )
+
+        #------------------------directorio--------------------------------------
+        echo "leyendo el directorio"
+        ls | {
+                while read NOMBRE; do
+              	        echo "Nombre: $NOMBRE"
+        	        ompload "$NOMBRE"
+                	sleep  $(($RANDOM % 50))
+                done
+        }
+        exit ;;
+
+  webcam )
+
+        #------------------------webcam--------------------------------------
+        nombre="/tmp/$USER-webcam-$(date +"%Y-%m-%d_%H-%M-%S").png"
+        ffmpeg -f video4linux2 -i /dev/video0 -y $nombre 2> /dev/null;;
+esac
+
+ompload "$nombre"
+
+exit
+
+Quehaceres:
+
+        - Pasar el curl a wget
+        - Opcion que no usar una nube
+        - Publicar la captura en avahi
+
+Directorio:
+
+        - el tiempo deberia ser aleatorio
+        - comprobar si el archivo ya subio
+
+Webcam:
+        - creo q la imagen tarda mucho en capturar por que faltan parametros de leer solo un frame
+        - unificar con el resto de los scripts omp*
