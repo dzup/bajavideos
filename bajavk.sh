@@ -90,66 +90,8 @@ list_all_download_url(){
 	done
 }
 
-muestra_enlace_descarga(){
-# $1 variable.html
-# $2 titulo pelicula
-#
-	reg=1;
-	echo "<!-- begin $2 descarga $1 -->
-		<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"descarga_vk\" style=\"width: 100%; height: 100%; \" summary=\"Puede descargar este video, haz clic en una opcion\">
-				<caption>
-					Opciones de Descarga
-				</caption>
-			<tbody>
-		<tr>"
-	for url in $(list_uniq_url "$1"); do
-
-		echo "<td style=\"text-align: center; \">
-				<a accesskey=\"$reg\" href=\"$url\" id=\"espejo$reg\" name=\"espejo$reg\" onclick=\"\" title=\"Descarga $reg\" type=\"Espejo\"><input name=\"espejo $reg\" type=\"button\" value=\"$reg\" />
-				</a>
-			</td>
-";
-		let reg++
-	done
-	echo "	</tr>
-		</table>
-		<p>&nbsp;</p>";
-}
-
 list_uniq_url(){
 	echo $(list_all_download_url "$1"|uniq)
-}
-
-imprime_boton_descarga(){
-	# $1 enlace
-	# $2 numero
-	# 
-	echo "<td style=\"text-align: center; \">
-
-		<a href=\"$1\" download=\"Mirror$2\">
-			Espejo $2
-		</a>
-              </td>
-"
-}
-
-imprime_tabla_botones(){
-echo "
-<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"espejos\" style=\"width: 100%; height: 100%\">
-	<caption>
-		$1
-	</caption>
-	<tbody>
-		<tr>"
-reg=1
-for enlaces in $(list_uniq_url "$1"); do
-	echo $(imprime_boton_descarga $enlaces "$reg")
-	let reg++
-done
-echo "
-	</tr></tbody>
-</table>"
-
 }
 
 lowercase(){ echo "$1" | awk '{print tolower($0)}'; }
