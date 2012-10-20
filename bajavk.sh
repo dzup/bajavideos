@@ -422,16 +422,20 @@ for i in {1..202}; do
 done
 mkdir -p $dirbackup
 cp $sql_file_frame $dirbackup$sql_file_frame
-cp source $sql_file_pelicula $dirbackup$sql_file_pelicula
+cp $sql_file_pelicula $dirbackup$sql_file_pelicula
 
 echo "Listo, ahora instrucciones:
 cd $dirbackup
 mysql -u user -p
 
-use use a7850950_u3mx;
+use use database;
 source $sql_file_frame;
 source $sql_file_pelicula;
 UPDATE frame JOIN pelicula ON pelicula.titulo = frame.titulo SET frame.pelicula_id = pelicula.id WHERE pelicula.titulo = frame.titulo;
+exit;
+
+mysqldump -u [username] -p [password] [databasename] > [backupfile.sql]
+Read more at http://www.devshed.com/c/a/MySQL/Backing-up-and-restoring-your-MySQL-Database/#gfokSs5vas2xYOq5.99
 
 Ahora esta todo listo, bajate la tabla unica a un sqp.zip y subela al servidor.
 
