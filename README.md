@@ -6,8 +6,7 @@ scripts para bajar videos de sitios web
 Scrapear
 --------
 
-- **fullpelitulas:** Descarga todos los datos de las peliculas del sitio fullpeliculas.com
-
+- **fullpeliculas:** Descarga todos los datos de las peliculas del sitio fullpeliculas.com
 
 Subir
 -----
