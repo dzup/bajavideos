@@ -48,6 +48,23 @@ Quehaceres
 - Automatizar/Demonizar descargas y subidas a sitios más copados
 - Hacer scrapeador genérico :P
 
+**Log en JSON:**
+
+<pre>
+callback({
+        peliculas:[{
+                titulo: "",
+                descripcion: "",
+                etiquetas: "",
+                urls: ["http://...","http://..."]
+        },{...}]
+        novelas:[{}],
+        series:[{}]
+});
+</pre>
+
+
+
 Proyectos relacionados
 ----------------------
 
