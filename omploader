@@ -4,7 +4,6 @@
 #       pensado para Juan Carlos Radio
 #
 #       requiere: scrot, curl, ffmpeg, imagick
-#       opcionales: xsel, zenity
 
 
 if [ $# -lt 1 ] || [ "$1" == "-h" ]; then

@@ -3,6 +3,10 @@ BAJAVIDEO
 
 scripts para bajar vídeos de sitios web 
 
+La idea es poder hacer una serie de programas interconectables para descargar peliculas de servidores 
+centralizados, convertirlos a formatos libres (OGG principalmente) y compartirlos en torrent, y/o descargas 
+directas que no requieran usuario, clave o ningun tipo de restricción.
+
 **Canal de IRC:** `irc://hackcoop.com.ar:6697/#lab` [web-irc](http://hackcoop.com.ar:8338/?channels=#lab)
 
 
@@ -10,7 +14,6 @@ Scrapear
 --------
 
 - **fullpeliculas:** Descarga todos los datos de las películas del sitio http://fullpeliculas.com
-- **bajanovela.sh:** Baja las novelas de http://vertelenovelas.net
 - **seriesyonkies:** Descarga todas las películas de http://www.seriesyonkis.com/ (No anda más)
 
 Descargar
@@ -18,6 +21,7 @@ Descargar
 
 - **vk:** descarga archivos con un enlace a vk.com
 - **mu:** descarga archivos con un enlace a megaupload.com (no anda más)
+- **bajanovela.sh:** Baja las novelas de http://vertelenovelas.net
 
 Subir
 -----
