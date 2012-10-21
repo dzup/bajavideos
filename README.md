@@ -33,6 +33,11 @@ Carpetas
 - **data:** datos descargados
 - **subtitles:** subtítulos de películas de cuevana
 
+Contacto
+--------
+
+**Canal de IRC:** `irc://hackcoop.com.ar:6697/#lab` [web-irc](http://hackcoop.com.ar:8338/?channels=#lab)
+
 Quehaceres
 ----------
 
