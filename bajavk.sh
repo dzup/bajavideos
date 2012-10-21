@@ -43,7 +43,7 @@ debug(){
 	fi
 }
 
-por_cada_vk_frame(){	
+por_cada_vk_frame(){
 	for frame in $(echo "$1" | grep "<iframe src=\"http://vk.com/" | sed "s/^.*'\(.*\)'.*$/\1/g"); do
 		echo "$frame"
 	done
@@ -55,12 +55,8 @@ por_cada_vk_url(){
 
 
 url_download_vk(){
-	vk_html=$(wget "$1" -qO -)
-	vtag=$(echo "$vk_html" | grep "vtag=" | sed 's/^.*vtag\=//g'|sed 's/&.*//'|uniq)
-	uid=$(echo "$vk_html" | grep "var video_uid" | sed "s/^.*'\(.*\)'.*$/\1/g")
-	host=$(echo "$vk_html" | grep "var video_host" | sed "s/^.*'\(.*\)'.*$/\1/g")
-	video_title=$(echo "$vk_html" | grep "var video_title" | sed "s/^.*'\(.*\)'.*$/\1/g")
-	echo "${host}u${uid}/video/${vtag}.360.mp4"
+        # descarga videos
+        ./vk "$1"
 }
 
 list_vk_url(){

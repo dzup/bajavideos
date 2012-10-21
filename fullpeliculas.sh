@@ -32,10 +32,13 @@ for i in $(seq 27); do
                                 f="http://"$(echo $b|sed -e 's/\\//g')
                         done
 
+                        # sacar esta miniatura de un banco de datos
                         wget -q $(grep "http://www.fullpeliculas.tv" peli | grep ".jpg" | grep -oe '[^"]*\.jpg' | uniq)\
                          -O $solonombre.jpg
+
                         echo $solonombre
 
+# completar esta descripcion con un banco de datos
 echo "Titulo: $titulo
 $ano
 $duracion
