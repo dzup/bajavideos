@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+#	convierte sonido a OGG
+
+ffmpeg -i $1 -b 1024k -acodec vorbis -vcodec libtheora -f ogg $1.ogv
