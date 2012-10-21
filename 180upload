@@ -12,5 +12,7 @@ ID=$(echo $URL | sed 's/^.*\///')
 # descarga el nombre de la pelicula
 NOMBRE=wget $URL -O - | grep -i "<title>" | sed 's/^.*>\(.*\)<\/.*$/\1/; s/^Watch\ //; s/mp4$//g;'
 
-# descarga la pelicula
-wget -cq "http://180upload.com/vidembed-$ID.mp4" -O "$NOMBRE-$ID.mp4" # descarga la pelicula solo una vez
+if [ $ID ]; then
+        # descarga la pelicula
+        wget -cq "http://180upload.com/vidembed-$ID.mp4" -O "$NOMBRE-$ID.mp4" # descarga la pelicula solo una vez
+fi
