@@ -47,8 +47,7 @@ Quehaceres
 - Dividir scripts en pequeños módulos interconectables
 - Automatizar/Demonizar descargas y subidas a sitios más copados
 - Hacer scrapeador genérico :P
-
-**Log en JSON:**
+- Log en **JSON**:
 
 <pre>
 callback({
