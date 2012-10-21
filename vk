@@ -9,10 +9,14 @@
 html=$(wget "$1" -qO -)
 
 # obtiene variables
-vtag=$(echo "$html" | grep "var video_vtag" | sed "s/^.*'\(.*\)'.*$/\1/g")
-uid=$(echo "$html" | grep "var video_uid" | sed "s/^.*'\(.*\)'.*$/\1/g")
-host=$(echo "$html" | grep "var video_host" | sed "s/^.*'\(.*\)'.*$/\1/g")
-video_title=$(echo "$html" | grep "var video_title" | sed "s/^.*'\(.*\)'.*$/\1/g")
+echo "vtag
+uid
+host
+title"| while read NOMBRE; do
+        eval $NOMBRE=$(echo "$html" | grep "var video_$NOMBRE" | sed "s/^.*'\(.*\)'.*$/\1/g")
+done
 
-# descarga la pelicula con un nombre mas lindo
-wget ${host}/u${uid}/video/${vtag}.360.mp4 -O "${video_title}-${vtag}.mp4"
+if [ $vtag ]; then
+        # descarga la pelicula con un nombre mas lindo
+        wget ${host}/u${uid}/video/${vtag}.360.mp4 -O "${title}-${vtag}.mp4"
+fi

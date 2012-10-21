@@ -1,6 +1,11 @@
 #!/bin/bash
-
-# siznax 2012
+#
+#       sube archivos a archive.org
+#
+# siznax 2012, Modificado por bazza
+#
+#
+#
 
 if [ $# -lt 4 ]; then
     echo "Usage: "`basename $0`" item srcfile mediatype desc [coll]"
