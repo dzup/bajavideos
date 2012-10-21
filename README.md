@@ -33,6 +33,7 @@ Utilitarios
 -----------
 
 - **video2ogg:** convierte video en OGG
+- **archivo2torrent:** crear un archivo torrent de un archivo
 
 Carpetas
 --------
