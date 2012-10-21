@@ -105,8 +105,8 @@ lowercase(){ echo "$1" | awk '{print tolower($0)}'; }
 
 palabras_unicas(){ 
 	#pas=$(echo "$1" | awk '{for(i=1;i<=NF;i++) a[$i]++} END{for(i in a) printf i" ";print ""}' )
-	echo "$1" | ./offword.py
-	#echo "$1"| sed 's/\ -.*$//g'
+	#echo "$1" | ./offword.py
+	echo "$1"| sed 's/\ -.*$//g'
 }
 
 imprime_frase(){
@@ -307,7 +307,10 @@ for i in {1..202}; do
 	#make sure only one caratula is get
 	image_not_process="0"
 	no_add="0"
-
+	
+	echo "callback({
+        peliculas:[{ " >> $json_file
+        
 	for m in $(echo "$html" | grep "http://veocine.tv/vk/" | grep -oe '[^"]*\.jpg'); do
 		
 		#calcula nombre html basado en jpg, segun es nombre-sin-jpg-extencion.html
@@ -344,9 +347,11 @@ for i in {1..202}; do
 		echo "$sinopsis" >> $logfile
 		echo "$comentarios_pelicula" >> $logfile
 		#echo "" >> $logfile 
+
 		#fix json
-		echo "titulo:\"$titulo\"," >> $json_file
-		echo "sinopsis:\"$sinopsis\"" >> $json_file
+		echo "titulo: \"$titulo\"," >> $json_file
+		echo "sinopsis: \"$sinopsis\", " >> $json_file
+		
 		echo "$reg_pelicula $titulo"
 		#make sure only grab 1 caratula per item
 		if (( ! image_not_process )); then
@@ -355,6 +360,9 @@ for i in {1..202}; do
 			caratula_url=$(get_caratula_url "$m" 1) 
 			image_not_process="0"
 		fi		
+		
+		echo "etiquetas: {" >> $json_file
+
 		for frame in $(por_cada_vk_frame "$frames"); do
 			for url in $(por_cada_vk_url "$frame"); do
 				url_download=$(url_download_vk "$url")
@@ -368,13 +376,16 @@ for i in {1..202}; do
 				echo " $comentario_frame" >> $logfile
 				#echo "" >> $logfile 
 				#fix json
-				echo "enlaces:[\"$url\",\"$url_download\"];" >> $json_file
-
-				
+				echo "[\"$url\",\"$url_download\"]," >> $json_file
 			done
 		done
+		echo ";}" >> $json_file
 	done
+	
 done
+
+echo "               }]
+}); " >> $json_file
 mkdir -p $dirbackup
 #cp $sql_file_frame $dirbackup$sql_file_frame
 #cp $sql_file_pelicula $dirbackup$sql_file_pelicula
