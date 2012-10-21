@@ -26,9 +26,6 @@ function ompload {
         | sed -e :a -e 's/<[^>]*>//g;/</N;//ba; s/^Info://g')
 
         echo $enlace
-        echo $enlace | xsel -b
-        echo $enlace | zenity --text-info --width 320 --height 80 2> /dev/null &
-
 }
 
 case $1 in
