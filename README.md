@@ -56,14 +56,14 @@ callback({
                         sinopsis: "Sinopsis",
                         etiquetas: {
                                 ["http://...", "http://..."],
-                                ["http://...", "http://..."],
+                                ["http://...", "http://..."]
                         }
                 },{
                         titulo: "Titulo",
                         sinopsis: "Sinopsis",
                         etiquetas: {
                                 ["http://...", "http://..."],
-                                ["http://...", "http://..."],
+                                ["http://...", "http://..."]
                         }
                 }]
 });
