@@ -98,8 +98,7 @@ lowercase(){ echo "$1" | awk '{print tolower($0)}'; }
 
 palabras_unicas(){ 
 	#pas=$(echo "$1" | awk '{for(i=1;i<=NF;i++) a[$i]++} END{for(i in a) printf i" ";print ""}' )
-	echo "$1" | ./offword.py
-	#echo "$1"| sed 's/\ -.*$//g'
+	echo "$1" | sed 's/\ -.*$//'
 }
 
 imprime_frase(){
