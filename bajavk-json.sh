@@ -374,7 +374,7 @@ for i in {1..202}; do
 				echo " $reg $url" >> $logfile
 				echo " $reg $url_download" >> $logfile
 				echo " $comentario_frame" >> $logfile
-				#echo "" >> $logfile 
+				#echo " " >> $logfile 
 				#fix json
 				echo "[\"$url\",\"$url_download\"]," >> $json_file
 			done
