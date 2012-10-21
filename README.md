@@ -52,13 +52,20 @@ Quehaceres
 <pre>
 callback({
         peliculas:[{
-                titulo: "",
-                descripcion: "",
-                etiquetas: "",
-                urls: ["http://...","http://..."]
-        },{...}]
-        novelas:[{}],
-        series:[{}]
+                        titulo: "Titulo",
+                        sinopsis: "Sinopsis",
+                        etiquetas: {
+                                ["http://...", "http://..."],
+                                ["http://...", "http://..."],
+                        }
+                },{
+                        titulo: "Titulo",
+                        sinopsis: "Sinopsis",
+                        etiquetas: {
+                                ["http://...", "http://..."],
+                                ["http://...", "http://..."],
+                        }
+                }]
 });
 </pre>
 
