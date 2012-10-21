@@ -27,7 +27,7 @@ Subir
 -----
 
 - **omploader:** script simple para subir archivos, capturas de pantalla y con la webcam a http://omploader.org
-- **s3uploader.sh:** sube archivos a archive.org
+- **s3uploader.sh:** sube archivos a http://archive.org
 
 Utilitarios
 -----------
