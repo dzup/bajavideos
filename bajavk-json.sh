@@ -196,7 +196,7 @@ function sanatiza(){
 	titulo=$(ltrim "$titulo")
 	titulo=$(rtrim "$titulo")
 	titulo=$(esc_s "$titulo")
-	#titulo=$(esc_d "$titulo")
+	titulo=$(esc_d "$titulo")
 	#titulo=$(fix_slash "$titulo")
 	#titulo=$(fix_backslash "$titulo")
 	#titulo=$(esc_fix_commas "$titulo")
@@ -379,7 +379,7 @@ for i in {1..202}; do
 				echo "[\"$url\",\"$url_download\"]," >> $json_file
 			done
 		done
-		echo ";}" >> $json_file
+		echo "{};}" >> $json_file
 	done
 	
 done
