@@ -6,21 +6,8 @@
 #	16-oct-2012 at 19:22
 #	modificado para multiples <iframes de $html
 #	donde podrian existir mas de 1 <iframe src="...bk.com
-#	por dzup	
-# ej: ./vk http://u3mx.com/verpelicula.php?id=2
-
-# necesitas offword.py
-# aqui esta el src
-#
-#!/usr/bin/env python
-#import sys
-#s = sys.stdin.read()
-#L = []
-#for w in s.split():
-#    if w not in L:
-#        L.append(w)
-#
-#print " ".join(L)        
+#	por dzup
+# ej: ./bajavk http://u3mx.com/verpelicula.php?id=2
 
 
 debug=1;
