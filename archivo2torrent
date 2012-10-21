@@ -1,0 +1,21 @@
+#!/bin/bash
+#
+#       crea un archivo torrent de un archivo
+#       requiere transmisioncli, tramission-remote, y tramission-daemon o trasmission-gtk
+
+ARCHIVO="$1"
+NOMBRE="$2"
+
+if [ $NOMBRE ]; then
+        NOMBRE=$(echo $ARCHIVO | sed 's,.*/,,')
+fi
+
+# crea el torrent
+mktorrent -v -o "$NOMBRE.torrent" \
+-c "$NOMBRE" \
+-a "udp://tracker.publicbt.com:80" \
+-a "udp://tracker.openbittorrent.com:80" \
+"$ARCHIVO" || echo "Falló $ARCHIVO"
+
+# lo publica en transmission
+nice -n 19 transmission-remote -a  "$NOMBRE.torrent"
