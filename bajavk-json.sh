@@ -379,7 +379,7 @@ for i in {1..202}; do
 				echo "[\"$url\",\"$url_download\"]," >> $json_file
 			done
 		done
-		echo "{};}" >> $json_file
+		echo "[];}" >> $json_file
 	done
 	
 done
